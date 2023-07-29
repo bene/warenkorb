@@ -1,0 +1,721 @@
+[
+  {
+    "store": "spar",
+    "id": "2020003192364",
+    "name": "S-BUDGET Rohschinken aus der Alpenregion",
+    "category": "Fleisch",
+    "subcategories": ["Schinken", "Rohschinken", "Alpenregion"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003679858",
+    "name": "S-BUDGET Salami",
+    "category": "Fleisch",
+    "subcategories": ["Salami"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003942303",
+    "name": "S-BUDGET Salami Trio",
+    "category": "Fleisch",
+    "subcategories": ["Salami"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004133120",
+    "name": "S-BUDGET Salami- Snack",
+    "category": "Fleisch",
+    "subcategories": ["Salami"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003192609",
+    "name": "S-BUDGET Salamisticks",
+    "category": "Fleisch",
+    "subcategories": ["Salami"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004132871",
+    "name": "S-BUDGET Schinkenspeck- Stifterl",
+    "category": "Fleisch",
+    "subcategories": ["Schinken", "Speck"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003688973",
+    "name": "S-BUDGET Schinkenspeck-Stifterl Tiroler Speck g.g.A.",
+    "category": "Fleisch",
+    "subcategories": ["Schinken", "Speck", "Tiroler Speck"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003815140",
+    "name": "S-BUDGET Serrano Schinken",
+    "category": "Fleisch",
+    "subcategories": ["Schinken", "Serrano Schinken"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002853624",
+    "name": "S-BUDGET Toastschinken XXL per Packung",
+    "category": "Fleisch",
+    "subcategories": ["Schinken", "Toastschinken"]
+  },
+  {
+    "store": "spar",
+    "id": "7257841",
+    "name": "S-BUDGET Wiener per Stück",
+    "category": "Fleisch",
+    "subcategories": ["Wurst", "Wiener"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003378393",
+    "name": "SPAR Natur*pur Bio-Backofen-Leberkäse",
+    "category": "Fleisch",
+    "subcategories": ["Leberkäse"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004667533",
+    "name": "SPAR Natur*pur Bio-Bernerwürstel",
+    "category": "Fleisch",
+    "subcategories": ["Wurst", "Bernerwürstel"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004497512",
+    "name": "SPAR Natur*pur Bio-Bratwürstel 4 x 60g",
+    "category": "Fleisch",
+    "subcategories": ["Wurst", "Bratwürstel"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004210425",
+    "name": "SPAR Natur*pur Bio-Cabanossi",
+    "category": "Fleisch",
+    "subcategories": ["Wurst", "Cabanossi"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002671228",
+    "name": "SPAR Natur*pur Bio-Debreziner geräuchert",
+    "category": "Fleisch",
+    "subcategories": ["Wurst", "Debreziner"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002924188",
+    "name": "SPAR Natur*pur Bio-Extrawurst",
+    "category": "Fleisch",
+    "subcategories": ["Wurst", "Extrawurst"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004112798",
+    "name": "SPAR Natur*pur Bio-Extrawurst 100g",
+    "category": "Fleisch",
+    "subcategories": ["Wurst", "Extrawurst"]
+  },
+  {
+    "store": "spar",
+    "id": "6431648",
+    "name": "SPAR Natur*pur Bio-Frankfurter 4 x 60g",
+    "category": "Fleisch",
+    "subcategories": ["Wurst", "Frankfurter"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002031121",
+    "name": "S-BUDGET Regenbogenforellenfilets 2 Stück",
+    "category": "Fisch",
+    "subcategories": ["Forelle", "Forellenfilet"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003655319",
+    "name": "S-BUDGET Wildlachsfilet",
+    "category": "Fisch",
+    "subcategories": ["Lachs", "Lachsfilet"]
+  },
+  {
+    "store": "spar",
+    "id": "5287871",
+    "name": "SPAR Natur*pur Bio-Bachsaiblingsfilet geräuchert",
+    "category": "Fisch",
+    "subcategories": ["Saibling", "Bachsaibling", "Filet", "geräuchert"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002923853",
+    "name": "S-BUDGET Schoko-, Vanille-, Erdbeer-Eis",
+    "category": "Eis",
+    "subcategories": ["Schokolade", "Vanille", "Erdbeer", "Eis"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002923822",
+    "name": "S-BUDGET Schoko-Eis",
+    "category": "Eis",
+    "subcategories": ["Schokolade", "Eis"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002922412",
+    "name": "S-BUDGET Vanille-Eis",
+    "category": "Eis",
+    "subcategories": ["Vanille", "Eis"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002923860",
+    "name": "S-BUDGET Vanille-Eis",
+    "category": "Eis",
+    "subcategories": ["Vanille", "Eis"]
+  },
+  {
+    "store": "spar",
+    "id": "7523182",
+    "name": "S-BUDGET Pommes Frites",
+    "category": "Tiefkühlkost",
+    "subcategories": ["Pommes Frites"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001540419",
+    "name": "S-BUDGET Puszta-Gemüse",
+    "category": "Tiefkühlkost",
+    "subcategories": ["Gemüse", "Puszta"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001540501",
+    "name": "S-BUDGET Sommer-Gemüse tiefgekühlt",
+    "category": "Tiefkühlkost",
+    "subcategories": ["Gemüse", "Sommer"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004601711",
+    "name": "S-BUDGET Waldfrüchte Mix tiefgekühlt 500g",
+    "category": "Tiefkühlkost",
+    "subcategories": ["Waldfrüchte", "Mix"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001493784",
+    "name": "SPAR Marchfelder Gemüsetrilogie Erbsen, Karotten rot & gelb",
+    "category": "Tiefkühlkost",
+    "subcategories": [
+      "Gemüse",
+      "Gemüsetrilogie",
+      "Erbsen",
+      "Karotten",
+      "rot",
+      "gelb"
+    ]
+  },
+  {
+    "store": "spar",
+    "id": "2020001493807",
+    "name": "SPAR Marchfelder Zarte Mischung Karotten, Erbsen & Zuckermais",
+    "category": "Tiefkühlkost",
+    "subcategories": [
+      "Gemüse",
+      "Zarte Mischung",
+      "Karotten",
+      "Erbsen",
+      "Zuckermais"
+    ]
+  },
+  {
+    "store": "spar",
+    "id": "2020001540587",
+    "name": "SPAR Marchfelder Zarte Mischung Karotten, Erbsen & Zuckermais",
+    "category": "Tiefkühlkost",
+    "subcategories": [
+      "Gemüse",
+      "Zarte Mischung",
+      "Karotten",
+      "Erbsen",
+      "Zuckermais"
+    ]
+  },
+  {
+    "store": "spar",
+    "id": "6675332",
+    "name": "SPAR Marillen Extra per kg",
+    "category": "Obst",
+    "subcategories": ["Marillen"]
+  },
+  {
+    "store": "spar",
+    "id": "7867507",
+    "name": "SPAR Melanzani Mix per Tasse",
+    "category": "Gemüse",
+    "subcategories": ["Melanzani"]
+  },
+  {
+    "store": "spar",
+    "id": "6178826",
+    "name": "SPAR Minze frisch",
+    "category": "Kräuter",
+    "subcategories": ["Minze"]
+  },
+  {
+    "store": "spar",
+    "id": "1646825",
+    "name": "SPAR Laugenbreze mit Butter",
+    "category": "Backwaren",
+    "subcategories": ["Laugenbreze", "Butter"]
+  },
+  {
+    "store": "spar",
+    "id": "7340666",
+    "name": "SPAR Laugenfußball",
+    "category": "Backwaren",
+    "subcategories": ["Laugenfußball"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002887179",
+    "name": "SPAR Lepinja Pitabrot",
+    "category": "Backwaren",
+    "subcategories": ["Pitabrot"]
+  },
+  {
+    "store": "spar",
+    "id": "2497525",
+    "name": "SPAR Natur*pur Bio Dinkelvollkornbrot",
+    "category": "Backwaren",
+    "subcategories": ["Brot", "Dinkelvollkornbrot"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003588976",
+    "name": "SPAR Natur*pur Bio Dinkelweckerl",
+    "category": "Backwaren",
+    "subcategories": ["Weckerl", "Dinkelweckerl"]
+  },
+  {
+    "store": "spar",
+    "id": "7900877",
+    "name": "SPAR Natur*pur Bio Kürbiskernbrot",
+    "category": "Backwaren",
+    "subcategories": ["Brot", "Kürbiskernbrot"]
+  },
+  {
+    "store": "spar",
+    "id": "7920158",
+    "name": "SPAR Natur*pur Bio Kürbiskernweckerl",
+    "category": "Backwaren",
+    "subcategories": ["Weckerl", "Kürbiskernweckerl"]
+  },
+  {
+    "store": "spar",
+    "id": "8062260",
+    "name": "SPAR Natur*pur Bio Mohnflesserl",
+    "category": "Backwaren",
+    "subcategories": ["Mohnflesserl"]
+  },
+  {
+    "store": "spar",
+    "id": "8060716",
+    "name": "SPAR Natur*pur Bio Salzstangerl",
+    "category": "Backwaren",
+    "subcategories": ["Salzstangerl"]
+  },
+  {
+    "store": "spar",
+    "id": "7901188",
+    "name": "SPAR Natur*pur Bio Sonnenblumenbrot",
+    "category": "Backwaren",
+    "subcategories": ["Brot", "Sonnenblumenbrot"]
+  },
+  {
+    "store": "spar",
+    "id": "8061720",
+    "name": "SPAR Natur*pur Bio Sonnenblumenweckerl",
+    "category": "Backwaren",
+    "subcategories": ["Weckerl", "Sonnenblumenweckerl"]
+  },
+  {
+    "store": "spar",
+    "id": "8064431",
+    "name": "SPAR Natur*pur Bio Topfenkornweckerl",
+    "category": "Backwaren",
+    "subcategories": ["Weckerl", "Topfenkornweckerl"]
+  },
+  {
+    "store": "spar",
+    "id": "8001290",
+    "name": "SPAR Natur*pur Bio Weisser Wecken",
+    "category": "Backwaren",
+    "subcategories": ["Wecken", "Weisser Wecken"]
+  },
+  {
+    "store": "spar",
+    "id": "7920189",
+    "name": "SPAR Natur*pur Bio original Kornspitz",
+    "category": "Backwaren",
+    "subcategories": ["Kornspitz"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002322526",
+    "name": "SPAR Natur*pur Bio-Antonius Laib",
+    "category": "Backwaren",
+    "subcategories": ["Brot", "Antonius Laib"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004422545",
+    "name": "SPAR Laugencroissant",
+    "category": "Backwaren",
+    "subcategories": ["Croissant", "Laugencroissant"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003802706",
+    "name": "SPAR Linzeraugerl",
+    "category": "Backwaren",
+    "subcategories": ["Linzeraugerl"]
+  },
+  {
+    "store": "spar",
+    "id": "1891737",
+    "name": "SPAR Linzerstangerl 4 Stück",
+    "category": "Backwaren",
+    "subcategories": ["Stangerl", "Linzersangerl"]
+  },
+  {
+    "store": "spar",
+    "id": "4346111",
+    "name": "SPAR Lemon & Lime Taste",
+    "category": "Getränke",
+    "subcategories": ["Limette", "Zitrone", "Taste"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004721259",
+    "name": "SPAR Mocktail Pina Colada",
+    "category": "Getränke",
+    "subcategories": ["Mocktail", "Pina Colada"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001592135",
+    "name": "SPAR Multivitamin still",
+    "category": "Getränke",
+    "subcategories": ["Multivitamin"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001592104",
+    "name": "SPAR Multivitamin still",
+    "category": "Getränke",
+    "subcategories": ["Multivitamin"]
+  },
+  {
+    "store": "spar",
+    "id": "2559742",
+    "name": "SPAR Multivitaminsaft",
+    "category": "Getränke",
+    "subcategories": ["Multivitamin", "Saft"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002881863",
+    "name": "SPAR Multivitaminsaft mild",
+    "category": "Getränke",
+    "subcategories": ["Multivitamin", "Saft", "mild"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004102355",
+    "name": "SPAR Natur*pur 100% Bio-Apfelsaft klar",
+    "category": "Getränke",
+    "subcategories": ["Bio-Apfelsaft"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002931025",
+    "name": "SPAR Natur*pur Bio-Apfel mit stillem Wasser 3x 0,2l",
+    "category": "Getränke",
+    "subcategories": ["Bio-Apfel", "stilles Wasser"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004672162",
+    "name": "SPAR Natur*pur Bio-Apfel-Ingwer",
+    "category": "Getränke",
+    "subcategories": ["Bio-Apfel", "Ingwer"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003017124",
+    "name": "SPAR Natur*pur Bio-Apfel-Rote Rübensaft direkt gepresst",
+    "category": "Getränke",
+    "subcategories": ["Bio-Apfel", "Rote Rübe", "Saft"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001360444",
+    "name": "SPAR Natur*pur Bio-Alpenkräuter Tee 20 Teebeutel",
+    "category": "Getränke",
+    "subcategories": ["Alpenkräuter", "Tee"]
+  },
+  {
+    "store": "spar",
+    "id": "7314506",
+    "name": "SPAR Natur*pur Bio-Apfel-Tee",
+    "category": "Getränke",
+    "subcategories": ["Bio-Apfel", "Tee"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002597863",
+    "name": "SPAR Lebensquell Natürliches Mineralwasser mild",
+    "category": "Getränke",
+    "subcategories": ["Mineralwasser", "mild"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002597313",
+    "name": "SPAR Lebensquell Natürliches Mineralwasser prickelnd",
+    "category": "Getränke",
+    "subcategories": ["Mineralwasser", "prickelnd"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002597801",
+    "name": "SPAR Lebensquell Natürliches Mineralwasser prickelnd",
+    "category": "Getränke",
+    "subcategories": ["Mineralwasser", "prickelnd"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002611699",
+    "name": "SPAR Lebensquell Natürliches Mineralwasser prickelnd 6 x 0,5l",
+    "category": "Getränke",
+    "subcategories": ["Mineralwasser", "prickelnd"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002597900",
+    "name": "SPAR Lebensquell Natürliches Mineralwasser still",
+    "category": "Getränke",
+    "subcategories": ["Mineralwasser", "still"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002597535",
+    "name": "SPAR Lebensquell Natürliches Mineralwasser still",
+    "category": "Getränke",
+    "subcategories": ["Mineralwasser", "still"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002611736",
+    "name": "SPAR Lebensquell Natürliches Mineralwasser still 6 x 0,5l",
+    "category": "Getränke",
+    "subcategories": ["Mineralwasser", "still"]
+  },
+  {
+    "store": "spar",
+    "id": "7785252",
+    "name": "SPAR Natur*pur Bio Hendl Filet frisch, HKL A",
+    "category": "Fleisch",
+    "subcategories": ["Hendl", "Filet"]
+  },
+  {
+    "store": "spar",
+    "id": "4052722",
+    "name": "SPAR Natur*pur Bio-Almkäse aus Wiesenmilch",
+    "category": "Käse",
+    "subcategories": ["Almkäse", "Wiesenmilch"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002664602",
+    "name": "SPAR Mousse au chocolat 4 x 60g",
+    "category": "Süßwaren",
+    "subcategories": ["Mousse au chocolat"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002119072",
+    "name": "SPAR Natur Jogurt aus Heumilch 3,6% Fett",
+    "category": "Milchprodukte",
+    "subcategories": ["Jogurt", "Heumilch"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003628412",
+    "name": "SPAR Natur*pur Bergbauern Bio-Halbfettmilch länger frisch 1,8% Fett",
+    "category": "Milchprodukte",
+    "subcategories": ["Halbfettmilch", "länger frisch"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004016584",
+    "name": "SPAR Natur*pur Bergbauern Bio-Jogurt Banane-Müsli",
+    "category": "Milchprodukte",
+    "subcategories": ["Jogurt", "Banane", "Müsli"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004016683",
+    "name": "SPAR Natur*pur Bergbauern Bio-Jogurt Bourbon Vanille",
+    "category": "Milchprodukte",
+    "subcategories": ["Jogurt", "Bourbon Vanille"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004016553",
+    "name": "SPAR Natur*pur Bergbauern Bio-Jogurt Erdbeere",
+    "category": "Milchprodukte",
+    "subcategories": ["Jogurt", "Erdbeere"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004016614",
+    "name": "SPAR Natur*pur Bergbauern Bio-Jogurt Mango-Maracuja",
+    "category": "Milchprodukte",
+    "subcategories": ["Jogurt", "Mango", "Maracuja"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004016652",
+    "name": "SPAR Natur*pur Bergbauern Bio-Jogurt Waldbeere",
+    "category": "Milchprodukte",
+    "subcategories": ["Jogurt", "Waldbeere"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004016713",
+    "name": "SPAR Natur*pur Bergbauern Bio-Naturjogurt mit natürlichem Fettgehalt",
+    "category": "Milchprodukte",
+    "subcategories": ["Naturjogurt"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003296475",
+    "name": "SPAR Natur*pur Bergbauern Bio-Vollmilch länger frisch 1L",
+    "category": "Milchprodukte",
+    "subcategories": ["Vollmilch", "länger frisch"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003627965",
+    "name": "SPAR Natur*pur Bio-Acidophilus-Milch 3,5% Fett",
+    "category": "Milchprodukte",
+    "subcategories": ["Acidophilus-Milch"]
+  },
+  {
+    "store": "spar",
+    "id": "5343867",
+    "name": "SPAR Natur*pur Bio-Naturjogurt 0,1% Fett aus Wiesenmilch",
+    "category": "Milchprodukte",
+    "subcategories": ["Naturjogurt", "Wiesenmilch"]
+  },
+  {
+    "store": "spar",
+    "id": "2450094",
+    "name": "SPAR Natur*pur Bio-Naturjogurt 3,6% Fett aus Wiesenmilch",
+    "category": "Milchprodukte",
+    "subcategories": ["Naturjogurt", "Wiesenmilch"]
+  },
+  {
+    "store": "spar",
+    "id": "3893098",
+    "name": "SPAR Natur*pur Bio-Naturjogurt 5% aus Wiesenmilch",
+    "category": "Milchprodukte",
+    "subcategories": ["Naturjogurt", "Wiesenmilch"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002539788",
+    "name": "SPAR Natur*pur Bio-Naturjogurt aus Wiesenmilch 1% Fett",
+    "category": "Milchprodukte",
+    "subcategories": ["Naturjogurt", "Wiesenmilch"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002539818",
+    "name": "SPAR Natur*pur Bio-Naturjogurt aus Wiesenmilch 3,6% Fett",
+    "category": "Milchprodukte",
+    "subcategories": ["Naturjogurt", "Wiesenmilch"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003679735",
+    "name": "SPAR Natur*pur Bio-Sauermilch 3,5% Fett",
+    "category": "Milchprodukte",
+    "subcategories": ["Sauermilch"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004645616",
+    "name": "SPAR Natur*pur Bio-Sauerrahm",
+    "category": "Milchprodukte",
+    "subcategories": ["Sauerrahm"]
+  },
+  {
+    "store": "spar",
+    "id": "2020000842439",
+    "name": "SPAR Natur*pur Bio-Sauerrahm aus Wiesenmilch",
+    "category": "Milchprodukte",
+    "subcategories": ["Sauerrahm", "Wiesenmilch"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002514716",
+    "name": "SPAR Natur*pur Bio-Schaf-Jogurt Natur",
+    "category": "Milchprodukte",
+    "subcategories": ["Schaf-Jogurt", "Natur"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004318688",
+    "name": "SPAR Natur*pur Bio-Schlagobers 36% Fett",
+    "category": "Milchprodukte",
+    "subcategories": ["Schlagobers"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003903304",
+    "name": "SPAR Natur*pur Bio-Schlagobers 36% Fett länger frisch",
+    "category": "Milchprodukte",
+    "subcategories": ["Schlagobers", "länger frisch"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003165511",
+    "name": "SPAR Natur*pur Bio-Schlagobers länger frisch",
+    "category": "Milchprodukte",
+    "subcategories": ["Schlagobers", "länger frisch"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003829000",
+    "name": "SPAR Natur*pur Bio-Schoko-Milch",
+    "category": "Milchprodukte",
+    "subcategories": ["Schoko-Milch"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004214645",
+    "name": "SPAR Natur*pur Bio-Skyr Erdbeere",
+    "category": "Milchprodukte",
+    "subcategories": ["Skyr", "Erdbeere"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003829147",
+    "name": "SPAR Natur*pur Bio-Skyr Mango-Maracuja",
+    "category": "Milchprodukte",
+    "subcategories": ["Skyr", "Mango", "Maracuja"]
+  }
+]

@@ -1,0 +1,787 @@
+[
+  {
+    "store": "spar",
+    "id": "2020003304873",
+    "name": "Axe Deospray Africa 2x150ml",
+    "category": "Deospray",
+    "subcategories": ["Axe", "Afrika", "Spray", "150ml"]
+  },
+  {
+    "store": "spar",
+    "id": "3909898",
+    "name": "Axe Deospray Alaska 150ml",
+    "category": "Deospray",
+    "subcategories": ["Axe", "Alaska", "Spray", "150ml"]
+  },
+  {
+    "store": "spar",
+    "id": "1211566",
+    "name": "Axe Deospray Anarchy For Her 150ml",
+    "category": "Deospray",
+    "subcategories": ["Axe", "Anarchy", "Für Sie", "Spray", "150ml"]
+  },
+  {
+    "store": "spar",
+    "id": "1211511",
+    "name": "Axe Deospray Anarchy For Him 150ml",
+    "category": "Deospray",
+    "subcategories": ["Axe", "Anarchy", "Für Ihn", "Spray", "150ml"]
+  },
+  {
+    "store": "spar",
+    "id": "1687316",
+    "name": "Axe Deospray Apollo 150ml",
+    "category": "Deospray",
+    "subcategories": ["Axe", "Apollo", "Spray", "150ml"]
+  },
+  {
+    "store": "spar",
+    "id": "6247997",
+    "name": "Axe Deospray Black 150ml",
+    "category": "Deospray",
+    "subcategories": ["Axe", "Schwarz", "Spray", "150ml"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003305276",
+    "name": "Axe Deospray Black 150ml",
+    "category": "Deospray",
+    "subcategories": ["Axe", "Schwarz", "Spray", "150ml"]
+  },
+  {
+    "store": "spar",
+    "id": "6374532",
+    "name": "Axe Deospray Dark Temptation 150ml",
+    "category": "Deospray",
+    "subcategories": ["Axe", "Dark Temptation", "Spray", "150ml"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004612076",
+    "name": "Axe Deospray Epic Fresh 150ml",
+    "category": "Deospray",
+    "subcategories": ["Axe", "Epic Fresh", "Spray", "150ml"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002292386",
+    "name": "Axe Deospray Gold 150ml",
+    "category": "Deospray",
+    "subcategories": ["Axe", "Gold", "Spray", "150ml"]
+  },
+  {
+    "store": "spar",
+    "id": "4008132",
+    "name": "Axe Deospray Gold Temptation 150ml",
+    "category": "Deospray",
+    "subcategories": ["Axe", "Gold Temptation", "Spray", "150ml"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002955267",
+    "name": "Axe Deospray Ice Chill 150ml",
+    "category": "Deospray",
+    "subcategories": ["Axe", "Ice Chill", "Spray", "150ml"]
+  },
+  {
+    "store": "spar",
+    "id": "291422",
+    "name": "Axe Deospray Marine 150ml",
+    "category": "Deospray",
+    "subcategories": ["Axe", "Marine", "Spray", "150ml"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004612069",
+    "name": "Axe Deospray Recharge 150ml",
+    "category": "Deospray",
+    "subcategories": ["Axe", "Recharge", "Spray", "150ml"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003478918",
+    "name": "Axe Deospray Skateboard & Fresh Roses 150ml",
+    "category": "Deospray",
+    "subcategories": ["Axe", "Skateboard", "Frische Rosen", "Spray", "150ml"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003478888",
+    "name": "Axe Deospray Wasabi & Fresh Linen 150ml",
+    "category": "Deospray",
+    "subcategories": ["Axe", "Wasabi", "Frische Leinen", "Spray", "150ml"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003236297",
+    "name": "Axe Deospray Wild Green Mojito & Cedarwood 150ml",
+    "category": "Deospray",
+    "subcategories": [
+      "Axe",
+      "Wild Green Mojito",
+      "Zedernholz",
+      "Spray",
+      "150ml"
+    ]
+  },
+  {
+    "store": "spar",
+    "id": "2020004452948",
+    "name": "Axe Magnum Deospray Gold Caramel Billionaire 150ml",
+    "category": "Deospray",
+    "subcategories": [
+      "Axe Magnum",
+      "Gold Caramel Billionaire",
+      "Spray",
+      "150ml"
+    ]
+  },
+  {
+    "store": "spar",
+    "id": "2020004311672",
+    "name": "Axe Washbag Africa",
+    "category": "Washbag",
+    "subcategories": ["Axe", "Afrika", "Waschtasche"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003929250",
+    "name": "BEAUTY KISS Aroma-Handcreme Frangipani 75ml",
+    "category": "Handcreme",
+    "subcategories": ["BEAUTY KISS", "Aroma", "Handcreme", "Frangipani", "75ml"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003929267",
+    "name": "BEAUTY KISS Aroma-Handcreme Kirsche & Pfingstrose 75ml",
+    "category": "Handcreme",
+    "subcategories": [
+      "BEAUTY KISS",
+      "Aroma",
+      "Handcreme",
+      "Kirsche",
+      "Pfingstrose",
+      "75ml"
+    ]
+  },
+  {
+    "store": "spar",
+    "id": "2020002971793",
+    "name": "BEAUTY KISS Body Creme + 30% Aloe Vera° 300ml",
+    "category": "Körpercreme",
+    "subcategories": ["BEAUTY KISS", "Körpercreme", "Aloe Vera", "300ml"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003948770",
+    "name": "BEAUTY KISS Bio-Zahnbürste Soft",
+    "category": "Zahnbürste",
+    "subcategories": ["BEAUTY KISS", "Bio", "Zahnbürste", "Weich"]
+  },
+  {
+    "store": "spar",
+    "id": "2597959",
+    "name": "Axe Aftershave Africa 100ml",
+    "category": "Aftershave",
+    "subcategories": ["Axe", "Afrika", "Aftershave", "100ml"]
+  },
+  {
+    "store": "spar",
+    "id": "2020000471127",
+    "name": "Axe Aftershave Black 100ml",
+    "category": "Aftershave",
+    "subcategories": ["Axe", "Schwarz", "Aftershave", "100ml"]
+  },
+  {
+    "store": "spar",
+    "id": "6510701",
+    "name": "Axe Aftershave Dark Temptation 100ml",
+    "category": "Aftershave",
+    "subcategories": ["Axe", "Dark Temptation", "Aftershave", "100ml"]
+  },
+  {
+    "store": "spar",
+    "id": "2597942",
+    "name": "Axe Aftershave Marine 100ml",
+    "category": "Aftershave",
+    "subcategories": ["Axe", "Marine", "Aftershave", "100ml"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004573513",
+    "name": "Axe Aftershave Moschus 100ml",
+    "category": "Aftershave",
+    "subcategories": ["Axe", "Moschus", "Aftershave", "100ml"]
+  },
+  {
+    "store": "spar",
+    "id": "4635772",
+    "name": "Axe 2in1 Duschgel Anti-Hangover 250ml",
+    "category": "Duschgel",
+    "subcategories": ["Axe", "2in1", "Duschgel", "Anti-Hangover", "250ml"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001676989",
+    "name": "Axe 3in1 Duschgel Anti Hangover 400ml",
+    "category": "Duschgel",
+    "subcategories": ["Axe", "3in1", "Duschgel", "Anti Hangover", "400ml"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002955090",
+    "name": "Axe 3in1 Duschgel Ice Chill 250ml",
+    "category": "Duschgel",
+    "subcategories": ["Axe", "3in1", "Duschgel", "Ice Chill", "250ml"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004369123",
+    "name": "Axe 3in1 Duschgel Recharge / Sport Refresh 250ml",
+    "category": "Duschgel",
+    "subcategories": [
+      "Axe",
+      "3in1",
+      "Duschgel",
+      "Recharge",
+      "Sport Refresh",
+      "250ml"
+    ]
+  },
+  {
+    "store": "spar",
+    "id": "2020001850143",
+    "name": "Axe Black Duschgel XL 400ml",
+    "category": "Duschgel",
+    "subcategories": ["Axe", "Schwarz", "Duschgel", "XL", "400ml"]
+  },
+  {
+    "store": "spar",
+    "id": "3099049",
+    "name": "Axe Duschgel Africa 250ml",
+    "category": "Duschgel",
+    "subcategories": ["Axe", "Afrika", "Duschgel", "250ml"]
+  },
+  {
+    "store": "spar",
+    "id": "4619024",
+    "name": "Axe Duschgel Africa 400ml",
+    "category": "Duschgel",
+    "subcategories": ["Axe", "Afrika", "Duschgel", "400ml"]
+  },
+  {
+    "store": "spar",
+    "id": "1681109",
+    "name": "Axe Duschgel Apollo 250ml",
+    "category": "Duschgel",
+    "subcategories": ["Axe", "Apollo", "Duschgel", "250ml"]
+  },
+  {
+    "store": "spar",
+    "id": "5581436",
+    "name": "Axe Duschgel Black 250ml",
+    "category": "Duschgel",
+    "subcategories": ["Axe", "Schwarz", "Duschgel", "250ml"]
+  },
+  {
+    "store": "spar",
+    "id": "6364731",
+    "name": "Axe Duschgel Dark Temptation 250ml",
+    "category": "Duschgel",
+    "subcategories": ["Axe", "Dark Temptation", "Duschgel", "250ml"]
+  },
+  {
+    "store": "spar",
+    "id": "4619055",
+    "name": "Axe Duschgel Dark Temptation 400ml",
+    "category": "Duschgel",
+    "subcategories": ["Axe", "Dark Temptation", "Duschgel", "400ml"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002331351",
+    "name": "Axe Duschgel Gold Swag Fresh 250ml",
+    "category": "Duschgel",
+    "subcategories": ["Axe", "Gold Swag Fresh", "Duschgel", "250ml"]
+  },
+  {
+    "store": "spar",
+    "id": "4245223",
+    "name": "Axe Duschgel Gold Temptation 250ml",
+    "category": "Duschgel",
+    "subcategories": ["Axe", "Gold Temptation", "Duschgel", "250ml"]
+  },
+  {
+    "store": "spar",
+    "id": "3099032",
+    "name": "Axe Duschgel Marine 250ml",
+    "category": "Duschgel",
+    "subcategories": ["Axe", "Marine", "Duschgel", "250ml"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003524707",
+    "name": "Axe Duschgel Skateboard & Fresh Roses Scent 250ml",
+    "category": "Duschgel",
+    "subcategories": ["Axe", "Skateboard", "Frische Rosen", "Duschgel", "250ml"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004419682",
+    "name": "Axe Magnum 3in1 Duschgel Gold Caramel Billionaire 250ml",
+    "category": "Duschgel",
+    "subcategories": [
+      "Axe Magnum",
+      "3in1",
+      "Duschgel",
+      "Gold Caramel Billionaire",
+      "250ml"
+    ]
+  },
+  {
+    "store": "spar",
+    "id": "2020002664176",
+    "name": "BEAUTY KISS Creme-Bad Kokosduft 750ml",
+    "category": "Creme-Bad",
+    "subcategories": ["BEAUTY KISS", "Creme-Bad", "Kokosduft", "750ml"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002664084",
+    "name": "BEAUTY KISS Creme-Bad Milch & Honig 750ml",
+    "category": "Creme-Bad",
+    "subcategories": ["BEAUTY KISS", "Creme-Bad", "Milch", "Honig", "750ml"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002625931",
+    "name": "BEAUTY KISS Creme-Shower Milk & Honey 300ml",
+    "category": "Creme-Dusche",
+    "subcategories": ["BEAUTY KISS", "Creme-Dusche", "Milch", "Honig", "300ml"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002648534",
+    "name": "BEAUTY KISS Cremeseife Holunder 500ml",
+    "category": "Cremeseife",
+    "subcategories": ["BEAUTY KISS", "Cremeseife", "Holunder", "500ml"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002648459",
+    "name": "BEAUTY KISS Cremeseife Kokos 500ml",
+    "category": "Cremeseife",
+    "subcategories": ["BEAUTY KISS", "Cremeseife", "Kokos", "500ml"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002648633",
+    "name": "BEAUTY KISS Cremeseife Milch & Honig 500ml",
+    "category": "Cremeseife",
+    "subcategories": ["BEAUTY KISS", "Cremeseife", "Milch", "Honig", "500ml"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003687655",
+    "name": "BEAUTY KISS Cremeseife Nachfüllbeutel Milch & Honig 1000ml",
+    "category": "Cremeseife",
+    "subcategories": [
+      "BEAUTY KISS",
+      "Cremeseife",
+      "Nachfüllbeutel",
+      "Milch",
+      "Honig",
+      "1000ml"
+    ]
+  },
+  {
+    "store": "spar",
+    "id": "2020002648411",
+    "name": "BEAUTY KISS Cremeseife Sensitive 500ml",
+    "category": "Cremeseife",
+    "subcategories": ["BEAUTY KISS", "Cremeseife", "Sensitive", "500ml"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002625962",
+    "name": "BEAUTY KISS Duschgel Lavendel & Rosenduft 300ml",
+    "category": "Duschgel",
+    "subcategories": ["BEAUTY KISS", "Duschgel", "Lavendel", "Rosen", "300ml"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002626020",
+    "name": "BEAUTY KISS Duschgel Orange & Vanilla 300ml",
+    "category": "Duschgel",
+    "subcategories": ["BEAUTY KISS", "Duschgel", "Orange", "Vanille", "300ml"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003687600",
+    "name": "BEAUTY KISS Flüssigseife Nachfüllbeutel Olive 1000ml",
+    "category": "Flüssigseife",
+    "subcategories": [
+      "BEAUTY KISS",
+      "Flüssigseife",
+      "Nachfüllbeutel",
+      "Olive",
+      "1000ml"
+    ]
+  },
+  {
+    "store": "spar",
+    "id": "1448023",
+    "name": "Autan Akut Gel 25 ml",
+    "category": "Insektenschutz",
+    "subcategories": ["Autan", "Akut Gel", "25ml"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003423130",
+    "name": "Autan Insektenschutz-Pumpspray botanicals 100ml",
+    "category": "Insektenschutz",
+    "subcategories": [
+      "Autan",
+      "Insektenschutz",
+      "Pumpspray",
+      "Botanicals",
+      "100ml"
+    ]
+  },
+  {
+    "store": "spar",
+    "id": "3368213",
+    "name": "Autan Insektenschutz-Spray multi insect 100ml",
+    "category": "Insektenschutz",
+    "subcategories": [
+      "Autan",
+      "Insektenschutz",
+      "Spray",
+      "Multi-Insects",
+      "100ml"
+    ]
+  },
+  {
+    "store": "spar",
+    "id": "2020004723222",
+    "name": "Autan Mückenschutz-Pumpspray family care 100ml",
+    "category": "Insektenschutz",
+    "subcategories": [
+      "Autan",
+      "Mückenschutz",
+      "Pumpspray",
+      "Family Care",
+      "100ml"
+    ]
+  },
+  {
+    "store": "spar",
+    "id": "2020004723208",
+    "name": "Autan Mückenschutz-Spray tropical 100ml",
+    "category": "Insektenschutz",
+    "subcategories": ["Autan", "Mückenschutz", "Spray", "Tropical", "100ml"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003044625",
+    "name": "BEAUTY KISS Blasenpflaster 6 Stück",
+    "category": "Blasenpflaster",
+    "subcategories": ["BEAUTY KISS", "Blasenpflaster", "6 Stück"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004168214",
+    "name": "Basenbox Bio-Kartoffelgulasch",
+    "category": "Fertiggerichte",
+    "subcategories": ["Basenbox", "Bio-Kartoffelgulasch"]
+  },
+  {
+    "store": "spar",
+    "id": "2020000949114",
+    "name": "Bebivita Anfangsmilch 1 500G",
+    "category": "Baby-Nahrung",
+    "subcategories": ["Bebivita", "Anfangsmilch 1", "500g"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002783235",
+    "name": "Baking Fun Dekor Waffel-Blumen weiß 12 Stk.",
+    "category": "Dekor",
+    "subcategories": [
+      "Baking Fun",
+      "Dekor",
+      "Waffel-Blumen",
+      "Weiß",
+      "12 Stück"
+    ]
+  },
+  {
+    "store": "spar",
+    "id": "2020002454975",
+    "name": "Baking Fun Streudekor Pearls",
+    "category": "Dekor",
+    "subcategories": ["Baking Fun", "Streudekor", "Perlen"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002784614",
+    "name": "Baking Fun Streudekor Sprinkle Kit",
+    "category": "Dekor",
+    "subcategories": ["Baking Fun", "Streudekor", "Sprinkle Kit"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001465927",
+    "name": "Baking Fun Zuckeraugen weiß ca. 60 Stk.",
+    "category": "Dekor",
+    "subcategories": ["Baking Fun", "Zuckeraugen", "Weiß", "60 Stück"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004059871",
+    "name": "Baron de Sel Bio-Kampot Pfeffer Mischung fermentiert 45g",
+    "category": "Gewürze",
+    "subcategories": [
+      "Baron de Sel",
+      "Bio-Kampot Pfeffer",
+      "Mischung",
+      "fermentiert",
+      "45g"
+    ]
+  },
+  {
+    "store": "spar",
+    "id": "2020004059727",
+    "name": "Baron de Sel Bio-Kampot Pfeffer fermentiert 50g",
+    "category": "Gewürze",
+    "subcategories": [
+      "Baron de Sel",
+      "Bio-Kampot Pfeffer",
+      "fermentiert",
+      "50g"
+    ]
+  },
+  {
+    "store": "spar",
+    "id": "6836634",
+    "name": "Baron de Sel Birdeye Chili 20g",
+    "category": "Gewürze",
+    "subcategories": ["Baron de Sel", "Birdeye Chili", "20g"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002566982",
+    "name": "Baron de Sel Bunte Algen Flakes",
+    "category": "Gewürze",
+    "subcategories": ["Baron de Sel", "Bunte Algen Flakes"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002057510",
+    "name": "Baron de Sel Bärlauch 12g",
+    "category": "Gewürze",
+    "subcategories": ["Baron de Sel", "Bärlauch", "12g"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002567040",
+    "name": "Baron de Sel Echter Bio-Galgant 13g",
+    "category": "Gewürze",
+    "subcategories": ["Baron de Sel", "Bio-Galgant", "13g"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002566951",
+    "name": "Baron de Sel Fleur de Sel Crystal Flakes",
+    "category": "Gewürze",
+    "subcategories": ["Baron de Sel", "Fleur de Sel", "Crystal Flakes"]
+  },
+  {
+    "store": "spar",
+    "id": "4719366",
+    "name": "Baron de Sel Fleur de Sel Meersalzflocken",
+    "category": "Gewürze",
+    "subcategories": ["Baron de Sel", "Fleur de Sel", "Meersalzflocken"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001283002",
+    "name": "Baron de Sel Gourmet Cumin/Kreuzkümmel Bio 40g",
+    "category": "Gewürze",
+    "subcategories": [
+      "Baron de Sel",
+      "Gourmet Cumin",
+      "Kreuzkümmel",
+      "Bio",
+      "40g"
+    ]
+  },
+  {
+    "store": "spar",
+    "id": "2020001282876",
+    "name": "Baron de Sel Gourmet Gulasch Bio 55g",
+    "category": "Gewürze",
+    "subcategories": ["Baron de Sel", "Gourmet Gulasch", "Bio", "55g"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001282999",
+    "name": "Baron de Sel Gourmet Kräuter-Fisch Bio 38g",
+    "category": "Gewürze",
+    "subcategories": ["Baron de Sel", "Gourmet Kräuter-Fisch", "Bio", "38g"]
+  },
+  {
+    "store": "spar",
+    "id": "2020000506386",
+    "name": "Baron de Sel Gourmet Kubeben Pfeffer Bio 30g",
+    "category": "Gewürze",
+    "subcategories": ["Baron de Sel", "Gourmet Kubeben Pfeffer", "Bio", "30g"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001282937",
+    "name": "Baron de Sel Gourmet Mexico Taco Bio 45g",
+    "category": "Gewürze",
+    "subcategories": ["Baron de Sel", "Gourmet Mexico Taco", "Bio", "45g"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001283019",
+    "name": "Baron de Sel Gourmet Rauch-Pfeffer 40g",
+    "category": "Gewürze",
+    "subcategories": ["Baron de Sel", "Gourmet Rauch-Pfeffer", "40g"]
+  },
+  {
+    "store": "spar",
+    "id": "4727460",
+    "name": "Baron de Sel Guerande",
+    "category": "Gewürze",
+    "subcategories": ["Baron de Sel", "Guerande"]
+  },
+  {
+    "store": "spar",
+    "id": "2020000505976",
+    "name": "Baron de Sel Gyros Gewürzzubereitung 50g",
+    "category": "Gewürze",
+    "subcategories": ["Baron de Sel", "Gyros Gewürzzubereitung", "50g"]
+  },
+  {
+    "store": "spar",
+    "id": "4731467",
+    "name": "Baron de Sel Halite",
+    "category": "Gewürze",
+    "subcategories": ["Baron de Sel", "Halite"]
+  },
+  {
+    "store": "spar",
+    "id": "5421176",
+    "name": "Baron de Sel Himalaya Salz Algen",
+    "category": "Gewürze",
+    "subcategories": ["Baron de Sel", "Himalaya Salz", "Algen"]
+  },
+  {
+    "store": "spar",
+    "id": "4712435",
+    "name": "Baron de Sel Himalaya Salz Curry Masala",
+    "category": "Gewürze",
+    "subcategories": ["Baron de Sel", "Himalaya Salz", "Curry Masala"]
+  },
+  {
+    "store": "spar",
+    "id": "4713456",
+    "name": "Baron de Sel Himalaya Salz Granulat unjodiert",
+    "category": "Gewürze",
+    "subcategories": ["Baron de Sel", "Himalaya Salz", "Granulat", "unjodiert"]
+  },
+  {
+    "store": "spar",
+    "id": "4711964",
+    "name": "Baron de Sel Himalaya Salz Kräuter",
+    "category": "Gewürze",
+    "subcategories": ["Baron de Sel", "Himalaya Salz", "Kräuter"]
+  },
+  {
+    "store": "spar",
+    "id": "4710110",
+    "name": "Baron de Sel Himalaya Salz Natur unjodiert",
+    "category": "Gewürze",
+    "subcategories": ["Baron de Sel", "Himalaya Salz", "Natur", "unjodiert"]
+  },
+  {
+    "store": "spar",
+    "id": "4726876",
+    "name": "Baron de Sel Inka Salz",
+    "category": "Gewürze",
+    "subcategories": ["Baron de Sel", "Inka Salz"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004060266",
+    "name": "Baron de Sel Kala Namak Granulat Mühle 110g",
+    "category": "Gewürze",
+    "subcategories": ["Baron de Sel", "Kala Namak", "Granulat", "Mühle", "110g"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004549549",
+    "name": "Baron de Sel Kala Namak Salz 300g",
+    "category": "Gewürze",
+    "subcategories": ["Baron de Sel", "Kala Namak", "Salz", "300g"]
+  },
+  {
+    "store": "spar",
+    "id": "2020000507413",
+    "name": "Baron de Sel Korianderblätter BIO 12g",
+    "category": "Gewürze",
+    "subcategories": ["Baron de Sel", "Korianderblätter", "BIO", "12g"]
+  },
+  {
+    "store": "spar",
+    "id": "4725817",
+    "name": "Baron de Sel Lac Rose Salz Kunststoffmühle",
+    "category": "Gewürze",
+    "subcategories": ["Baron de Sel", "Lac Rose Salz", "Kunststoffmühle"]
+  },
+  {
+    "store": "spar",
+    "id": "4728481",
+    "name": "Baron de Sel Meersalz Bio Kräuter der Provence",
+    "category": "Gewürze",
+    "subcategories": ["Baron de Sel", "Meersalz", "Bio", "Kräuter der Provence"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002057527",
+    "name": "Baron de Sel Moringa Salatkräuter Glas 33g",
+    "category": "Gewürze",
+    "subcategories": ["Baron de Sel", "Moringa Salatkräuter", "Glas", "33g"]
+  },
+  {
+    "store": "spar",
+    "id": "4731764",
+    "name": "Baron de Sel Natur Salz vom toten Meer",
+    "category": "Gewürze",
+    "subcategories": ["Baron de Sel", "Natur Salz", "vom toten Meer"]
+  },
+  {
+    "store": "spar",
+    "id": "2020000506041",
+    "name": "Baron de Sel Orientalisches Curry BIO 40g",
+    "category": "Gewürze",
+    "subcategories": ["Baron de Sel", "Orientalisches Curry", "BIO", "40g"]
+  },
+  {
+    "store": "spar",
+    "id": "6835347",
+    "name": "Baron de Sel Paprika edelsüß 40g",
+    "category": "Gewürze",
+    "subcategories": ["Baron de Sel", "Paprika", "edelsüß", "40g"]
+  },
+  {
+    "store": "spar",
+    "id": "6834678",
+    "name": "Baron de Sel Paradies Pfeffer 55g",
+    "category": "Gewürze",
+    "subcategories": ["Baron de Sel", "Paradies Pfeffer", "55g"]
+  }
+]

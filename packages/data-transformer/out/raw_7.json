@@ -1,0 +1,702 @@
+[
+  {
+    "store": "billa",
+    "id": "00-581636",
+    "name": "BILLA Genusswelt Nussstrudel",
+    "category": "Gebäck",
+    "subcategories": ["Strudel", "Süßwaren"]
+  },
+  {
+    "store": "billa",
+    "id": "00-718094",
+    "name": "BILLA Genusswelt Nusszelten",
+    "category": "Gebäck",
+    "subcategories": ["Kekse", "Süßwaren"]
+  },
+  {
+    "store": "billa",
+    "id": "00-887795",
+    "name": "BILLA Linzerstangerl",
+    "category": "Gebäck",
+    "subcategories": ["Stangerl", "Süßwaren"]
+  },
+  {
+    "store": "billa",
+    "id": "00-715963",
+    "name": "BILLA Marmor Kuchen",
+    "category": "Gebäck",
+    "subcategories": ["Kuchen", "Süßwaren"]
+  },
+  {
+    "store": "billa",
+    "id": "00-931965",
+    "name": "BILLA Mini Muffins",
+    "category": "Gebäck",
+    "subcategories": ["Muffins", "Kleinigkeiten"]
+  },
+  {
+    "store": "billa",
+    "id": "00-715960",
+    "name": "BILLA Schoko Kuchen",
+    "category": "Gebäck",
+    "subcategories": ["Kuchen", "Süßwaren"]
+  },
+  {
+    "store": "billa",
+    "id": "00-802481",
+    "name": "BILLA Schoko Obers Gugelhupf",
+    "category": "Gebäck",
+    "subcategories": ["Gugelhupf", "Süßwaren"]
+  },
+  {
+    "store": "billa",
+    "id": "00-715895",
+    "name": "BILLA Stracciatella Kuchen",
+    "category": "Gebäck",
+    "subcategories": ["Kuchen", "Süßwaren"]
+  },
+  {
+    "store": "billa",
+    "id": "00-440728",
+    "name": "Backstüberl Butter Hauskekse",
+    "category": "Kekse",
+    "subcategories": ["Butterkekse", "Gebäck"]
+  },
+  {
+    "store": "billa",
+    "id": "00-440245",
+    "name": "Backstüberl Linzer Kipferl",
+    "category": "Kekse",
+    "subcategories": ["Kipferl", "Gebäck"]
+  },
+  {
+    "store": "billa",
+    "id": "00-301932",
+    "name": "Backstüberl Mini Punsch-Herzerl",
+    "category": "Kekse",
+    "subcategories": ["Punschkekse", "Gebäck"]
+  },
+  {
+    "store": "billa",
+    "id": "00-441943",
+    "name": "Backstüberl Schokokipferl",
+    "category": "Kekse",
+    "subcategories": ["Schoko-Kekse", "Gebäck"]
+  },
+  {
+    "store": "billa",
+    "id": "00-786761",
+    "name": "Balconi Mix Max",
+    "category": "Kuchen",
+    "subcategories": ["Riegel", "Süßwaren"]
+  },
+  {
+    "store": "billa",
+    "id": "00-850200",
+    "name": "Bananenschnitte 2er",
+    "category": "Gebäck",
+    "subcategories": ["Schnitten", "Süßwaren"]
+  },
+  {
+    "store": "billa",
+    "id": "00-504901",
+    "name": "Briochekipferl",
+    "category": "Kuchen",
+    "subcategories": ["Kipferl", "Süßwaren"]
+  },
+  {
+    "store": "billa",
+    "id": "00-439757",
+    "name": "Butter-Apfeltasche",
+    "category": "Gebäck",
+    "subcategories": ["Taschen", "Süßwaren"]
+  },
+  {
+    "store": "billa",
+    "id": "00-440691",
+    "name": "Butterlaugencroissant",
+    "category": "Gebäck",
+    "subcategories": ["Croissant", "Süßwaren"]
+  },
+  {
+    "store": "billa",
+    "id": "00-424234",
+    "name": "Bäckerland Topfengolatsche 2er",
+    "category": "Gebäck",
+    "subcategories": ["Topfengolatsche", "Süßwaren"]
+  },
+  {
+    "store": "billa",
+    "id": "00-461509",
+    "name": "Clever Butterbrioche geschnitten",
+    "category": "Gebäck",
+    "subcategories": ["Brioche", "Süßwaren"]
+  },
+  {
+    "store": "billa",
+    "id": "00-299274",
+    "name": "Clever Linzerschnitte 3er",
+    "category": "Gebäck",
+    "subcategories": ["Schnitten", "Süßwaren"]
+  },
+  {
+    "store": "billa",
+    "id": "00-283859",
+    "name": "Clever Linzerstangerl",
+    "category": "Gebäck",
+    "subcategories": ["Stangerl", "Süßwaren"]
+  },
+  {
+    "store": "billa",
+    "id": "00-425497",
+    "name": "Clever Marmor Gugelhupf",
+    "category": "Gebäck",
+    "subcategories": ["Gugelhupf", "Süßwaren"]
+  },
+  {
+    "store": "billa",
+    "id": "00-397814",
+    "name": "Clever Marmorkuchen",
+    "category": "Gebäck",
+    "subcategories": ["Kuchen", "Süßwaren"]
+  },
+  {
+    "store": "billa",
+    "id": "00-367439",
+    "name": "Clever Milchbrötchen",
+    "category": "Gebäck",
+    "subcategories": ["Brötchen", "Süßwaren"]
+  },
+  {
+    "store": "billa",
+    "id": "00-363729",
+    "name": "Clever Mini Punschkrapfen",
+    "category": "Gebäck",
+    "subcategories": ["Krapfen", "Süßwaren"]
+  },
+  {
+    "store": "billa",
+    "id": "00-407247",
+    "name": "Clever Wiener Zopf",
+    "category": "Gebäck",
+    "subcategories": ["Zopf", "Süßwaren"]
+  },
+  {
+    "store": "billa",
+    "id": "00-783445",
+    "name": "Coppenrath & Wiese Benjamin Blümchen Torte",
+    "category": "Torte",
+    "subcategories": ["Kinder", "Geburtstag"]
+  },
+  {
+    "store": "billa",
+    "id": "00-575094",
+    "name": "Coppenrath & Wiese Erdbeer-Joghurt",
+    "category": "Torte",
+    "subcategories": ["Frucht", "Geburtstag"]
+  },
+  {
+    "store": "billa",
+    "id": "00-847069",
+    "name": "Coppenrath & Wiese Feinste Sahne Erdbeer-Pannacotta-Kuppeltorte",
+    "category": "Torte",
+    "subcategories": ["Frucht", "Geburtstag"]
+  },
+  {
+    "store": "billa",
+    "id": "00-701150",
+    "name": "Coppenrath & Wiese Feinste Sahne Haselnuss Torte",
+    "category": "Torte",
+    "subcategories": ["Nuss", "Geburtstag"]
+  },
+  {
+    "store": "billa",
+    "id": "00-609418",
+    "name": "Coppenrath & Wiese Feinste Sahne Mousse au Chocolat Torte",
+    "category": "Torte",
+    "subcategories": ["Schokolade", "Geburtstag"]
+  },
+  {
+    "store": "billa",
+    "id": "00-911830",
+    "name": "Coppenrath & Wiese Feinste Sahne Stracciatella-Kirsch-Torte",
+    "category": "Torte",
+    "subcategories": ["Schokolade", "Geburtstag"]
+  },
+  {
+    "store": "billa",
+    "id": "00-31179",
+    "name": "Coppenrath & Wiese Festtagstorte Sacher",
+    "category": "Torte",
+    "subcategories": ["Schokolade", "Geburtstag"]
+  },
+  {
+    "store": "billa",
+    "id": "00-19467",
+    "name": "Coppenrath & Wiese Festtagstorte Schwarzwälder Kirsch",
+    "category": "Torte",
+    "subcategories": ["Schokolade", "Geburtstag"]
+  },
+  {
+    "store": "billa",
+    "id": "00-505665",
+    "name": "Coppenrath & Wiese Lust Auf Torte Schokolade",
+    "category": "Torte",
+    "subcategories": ["Schokolade", "Geburtstag"]
+  },
+  {
+    "store": "billa",
+    "id": "00-467793",
+    "name": "Coppenrath & Wiese Lust auf Kuchen Blaubeer Cheesecake",
+    "category": "Kuchen",
+    "subcategories": ["Käsekuchen", "Geburtstag"]
+  },
+  {
+    "store": "billa",
+    "id": "00-968153",
+    "name": "Coppenrath & Wiese Lust auf Kuchen Erdbeer Cheesecake",
+    "category": "Kuchen",
+    "subcategories": ["Käsekuchen", "Geburtstag"]
+  },
+  {
+    "store": "billa",
+    "id": "00-449783",
+    "name": "Coppenrath & Wiese Lust auf Torte Erdbeer-Joghurt",
+    "category": "Torte",
+    "subcategories": ["Frucht", "Geburtstag"]
+  },
+  {
+    "store": "billa",
+    "id": "00-467784",
+    "name": "Coppenrath & Wiese Lust auf Torte Himbeer Joghurt",
+    "category": "Torte",
+    "subcategories": ["Frucht", "Geburtstag"]
+  },
+  {
+    "store": "billa",
+    "id": "00-701156",
+    "name": "Coppenrath & Wiese Lust auf Vegan Donauwellen Torte",
+    "category": "Torte",
+    "subcategories": ["Vegane", "Geburtstag"]
+  },
+  {
+    "store": "billa",
+    "id": "00-701155",
+    "name": "Coppenrath & Wiese Lust auf Vegan Himbeer-Mandel Kuchen",
+    "category": "Kuchen",
+    "subcategories": ["Vegane", "Geburtstag"]
+  },
+  {
+    "store": "billa",
+    "id": "00-701152",
+    "name": "Coppenrath & Wiese Lust auf Vegan Mandel-Bienenstich Torte",
+    "category": "Torte",
+    "subcategories": ["Vegane", "Geburtstag"]
+  },
+  {
+    "store": "billa",
+    "id": "00-701146",
+    "name": "Coppenrath & Wiese Meistertorte Bibi & Tina Schoko-Vanille",
+    "category": "Torte",
+    "subcategories": ["Kinder", "Geburtstag"]
+  },
+  {
+    "store": "billa",
+    "id": "00-467790",
+    "name": "Coppenrath & Wiese Minions Pinata Torte",
+    "category": "Torte",
+    "subcategories": ["Kinder", "Geburtstag"]
+  },
+  {
+    "store": "billa",
+    "id": "00-606225",
+    "name": "Coppenrath & Wiese Sachertorte",
+    "category": "Torte",
+    "subcategories": ["Schokolade", "Geburtstag"]
+  },
+  {
+    "store": "billa",
+    "id": "00-762420",
+    "name": "Coppenrath & Wiese Stracciatella-Kirsch",
+    "category": "Torte",
+    "subcategories": ["Frucht", "Geburtstag"]
+  },
+  {
+    "store": "billa",
+    "id": "00-623534",
+    "name": "Coppenrath & Wiese Torten Träume Himbeer-Mascarpone",
+    "category": "Torte",
+    "subcategories": ["Frucht", "Geburtstag"]
+  },
+  {
+    "store": "billa",
+    "id": "00-896503",
+    "name": "Coppenrath & Wiese Torten Träume Marzipan-Mandel",
+    "category": "Torte",
+    "subcategories": ["Mandel", "Geburtstag"]
+  },
+  {
+    "store": "billa",
+    "id": "00-624481",
+    "name": "Cremeschnitte 2er",
+    "category": "Gebäck",
+    "subcategories": ["Schnitten", "Süßwaren"]
+  },
+  {
+    "store": "billa",
+    "id": "00-747306",
+    "name": "Dinkel-Topfengolatsche",
+    "category": "Gebäck",
+    "subcategories": ["Dinkel", "Süßwaren"]
+  },
+  {
+    "store": "billa",
+    "id": "00-301660",
+    "name": "Dinkel-Topfengolatsche 2er",
+    "category": "Gebäck",
+    "subcategories": ["Dinkel", "Süßwaren"]
+  },
+  {
+    "store": "billa",
+    "id": "00-466959",
+    "name": "Erdbeer-Joghurtschnitte 2er",
+    "category": "Gebäck",
+    "subcategories": ["Schnitten", "Süßwaren"]
+  },
+  {
+    "store": "billa",
+    "id": "00-389092",
+    "name": "Erdbeer-Joghurtschnitte 4er",
+    "category": "Gebäck",
+    "subcategories": ["Schnitten", "Süßwaren"]
+  },
+  {
+    "store": "billa",
+    "id": "00-462103",
+    "name": "Erdbeer-Vanilleherz",
+    "category": "Gebäck",
+    "subcategories": ["Herz", "Süßwaren"]
+  },
+  {
+    "store": "billa",
+    "id": "00-370480",
+    "name": "Erdbeerroulade",
+    "category": "Gebäck",
+    "subcategories": ["Roulade", "Süßwaren"]
+  },
+  {
+    "store": "billa",
+    "id": "00-354434",
+    "name": "Esterhazyschnitte 2er",
+    "category": "Gebäck",
+    "subcategories": ["Schnitten", "Süßwaren"]
+  },
+  {
+    "store": "billa",
+    "id": "00-266321",
+    "name": "Familien Erdbeer Joghurt Schnitte",
+    "category": "Gebäck",
+    "subcategories": ["Schnitten", "Süßwaren"]
+  },
+  {
+    "store": "billa",
+    "id": "00-445057",
+    "name": "Germknödeldonut",
+    "category": "Gebäck",
+    "subcategories": ["Donut", "Süßwaren"]
+  },
+  {
+    "store": "billa",
+    "id": "00-679256",
+    "name": "Herzdonuts mit Vanillefülle",
+    "category": "Gebäck",
+    "subcategories": ["Donut", "Süßwaren"]
+  },
+  {
+    "store": "billa",
+    "id": "00-467540",
+    "name": "Himbeer-Topfenschnitte",
+    "category": "Gebäck",
+    "subcategories": ["Schnitten", "Süßwaren"]
+  },
+  {
+    "store": "billa",
+    "id": "00-694884",
+    "name": "Himbeerkörbchen 2er",
+    "category": "Gebäck",
+    "subcategories": ["Körbchen", "Süßwaren"]
+  },
+  {
+    "store": "billa",
+    "id": "00-655644",
+    "name": "Jomo Bananen Schnitte",
+    "category": "Gebäck",
+    "subcategories": ["Schnitten", "Süßwaren"]
+  },
+  {
+    "store": "billa",
+    "id": "00-410883",
+    "name": "Jomo Bauernguglhupf",
+    "category": "Gebäck",
+    "subcategories": ["Gugelhupf", "Süßwaren"]
+  },
+  {
+    "store": "billa",
+    "id": "00-289165",
+    "name": "Jomo Erdbeer Schnitte",
+    "category": "Gebäck",
+    "subcategories": ["Schnitten", "Süßwaren"]
+  },
+  {
+    "store": "billa",
+    "id": "00-426384",
+    "name": "Jomo Erdbeerroulade",
+    "category": "Gebäck",
+    "subcategories": ["Roulade", "Süßwaren"]
+  },
+  {
+    "store": "billa",
+    "id": "00-288175",
+    "name": "Jomo Folien Marmorkuchen",
+    "category": "Gebäck",
+    "subcategories": ["Kuchen", "Süßwaren"]
+  },
+  {
+    "store": "billa",
+    "id": "00-720697",
+    "name": "Jomo Kaffeeroulade",
+    "category": "Gebäck",
+    "subcategories": ["Roulade", "Süßwaren"]
+  },
+  {
+    "store": "billa",
+    "id": "00-426383",
+    "name": "Jomo Kakaoroulade",
+    "category": "Gebäck",
+    "subcategories": ["Roulade", "Süßwaren"]
+  },
+  {
+    "store": "billa",
+    "id": "00-426381",
+    "name": "Jomo Marillenroulade",
+    "category": "Gebäck",
+    "subcategories": ["Roulade", "Süßwaren"]
+  },
+  {
+    "store": "billa",
+    "id": "00-503992",
+    "name": "Jomo Marmor Guglhupf",
+    "category": "Gebäck",
+    "subcategories": ["Gugelhupf", "Süßwaren"]
+  },
+  {
+    "store": "billa",
+    "id": "00-401824",
+    "name": "Jomo Marmorblock",
+    "category": "Gebäck",
+    "subcategories": ["Kuchen", "Süßwaren"]
+  },
+  {
+    "store": "billa",
+    "id": "00-719906",
+    "name": "Jomo Marmorguglhupf",
+    "category": "Gebäck",
+    "subcategories": ["Gugelhupf", "Süßwaren"]
+  },
+  {
+    "store": "billa",
+    "id": "00-414497",
+    "name": "Jomo Punschschnitte",
+    "category": "Gebäck",
+    "subcategories": ["Schnitten", "Süßwaren"]
+  },
+  {
+    "store": "billa",
+    "id": "00-781190",
+    "name": "Jomo Stracciatella Guglhupf",
+    "category": "Gebäck",
+    "subcategories": ["Gugelhupf", "Süßwaren"]
+  },
+  {
+    "store": "billa",
+    "id": "00-414495",
+    "name": "Jomo Topfenguglhupf",
+    "category": "Gebäck",
+    "subcategories": ["Gugelhupf", "Süßwaren"]
+  },
+  {
+    "store": "billa",
+    "id": "00-771903",
+    "name": "Jomo Zitronen Guglhupf",
+    "category": "Gebäck",
+    "subcategories": ["Gugelhupf", "Süßwaren"]
+  },
+  {
+    "store": "billa",
+    "id": "00-719909",
+    "name": "Jomo Zitronenguglhupf",
+    "category": "Gebäck",
+    "subcategories": ["Gugelhupf", "Süßwaren"]
+  },
+  {
+    "store": "billa",
+    "id": "00-373399",
+    "name": "Kardinalschnitte 2er",
+    "category": "Gebäck",
+    "subcategories": ["Schnitten", "Süßwaren"]
+  },
+  {
+    "store": "billa",
+    "id": "00-959073",
+    "name": "Kirsch Marmor Kuchen 2er",
+    "category": "Gebäck",
+    "subcategories": ["Kuchen", "Süßwaren"]
+  },
+  {
+    "store": "billa",
+    "id": "00-7492",
+    "name": "Kuchenmeister Früchte Kuchen",
+    "category": "Kuchen",
+    "subcategories": ["Frucht", "Süßwaren"]
+  },
+  {
+    "store": "billa",
+    "id": "00-957613",
+    "name": "Malakoffschnitte 2er",
+    "category": "Gebäck",
+    "subcategories": ["Schnitten", "Süßwaren"]
+  },
+  {
+    "store": "billa",
+    "id": "00-296117",
+    "name": "Marille Krapfen 12er",
+    "category": "Gebäck",
+    "subcategories": ["Krapfen", "Süßwaren"]
+  },
+  {
+    "store": "billa",
+    "id": "00-731938",
+    "name": "Marille Krapfen 4er",
+    "category": "Gebäck",
+    "subcategories": ["Krapfen", "Süßwaren"]
+  },
+  {
+    "store": "billa",
+    "id": "00-296054",
+    "name": "Marillen Roulade",
+    "category": "Gebäck",
+    "subcategories": ["Roulade", "Süßwaren"]
+  },
+  {
+    "store": "billa",
+    "id": "00-38629",
+    "name": "Marillenspitz",
+    "category": "Gebäck",
+    "subcategories": ["Süßwaren"]
+  },
+  {
+    "store": "billa",
+    "id": "00-594332",
+    "name": "Marlenka Honigkugeln Glutenfrei",
+    "category": "Süßwaren",
+    "subcategories": ["Kugeln"]
+  },
+  {
+    "store": "billa",
+    "id": "00-594296",
+    "name": "Marlenka Honigkugeln Klassik",
+    "category": "Süßwaren",
+    "subcategories": ["Kugeln"]
+  },
+  {
+    "store": "billa",
+    "id": "00-242251",
+    "name": "Marlenka Honigkugeln mit Kakao",
+    "category": "Süßwaren",
+    "subcategories": ["Kugeln", "Kakao"]
+  },
+  {
+    "store": "billa",
+    "id": "00-242336",
+    "name": "Marlenka Honigtorte Kakao",
+    "category": "Torte",
+    "subcategories": ["Kuchen"]
+  },
+  {
+    "store": "billa",
+    "id": "00-880405",
+    "name": "Marlenka Honigtorte Klassik",
+    "category": "Torte",
+    "subcategories": ["Kuchen"]
+  },
+  {
+    "store": "billa",
+    "id": "00-370336",
+    "name": "Maxi Nuss Schnecke",
+    "category": "Gebäck",
+    "subcategories": ["Nussschnecke", "Süßwaren"]
+  },
+  {
+    "store": "billa",
+    "id": "00-787131",
+    "name": "Milka Schoko Donut 4er",
+    "category": "Gebäck",
+    "subcategories": ["Donut", "Süßwaren"]
+  },
+  {
+    "store": "billa",
+    "id": "00-648719",
+    "name": "Mini Donuts Kakao 9er",
+    "category": "Gebäck",
+    "subcategories": ["Donut", "Süßwaren"]
+  },
+  {
+    "store": "billa",
+    "id": "00-596696",
+    "name": "Mr. Brownie mit Kokosflocken",
+    "category": "Kuchen",
+    "subcategories": ["Brownie", "Süßwaren"]
+  },
+  {
+    "store": "billa",
+    "id": "00-526930",
+    "name": "Mr. Brownie mit Schokolinsen",
+    "category": "Kuchen",
+    "subcategories": ["Brownie", "Süßwaren"]
+  },
+  {
+    "store": "billa",
+    "id": "00-723676",
+    "name": "Mövenpick Marmorkuchen 4er",
+    "category": "Gebäck",
+    "subcategories": ["Kuchen", "Süßwaren"]
+  },
+  {
+    "store": "billa",
+    "id": "00-723675",
+    "name": "Mövenpick Zitronenkuchen 4er",
+    "category": "Gebäck",
+    "subcategories": ["Kuchen", "Süßwaren"]
+  },
+  {
+    "store": "billa",
+    "id": "00-440231",
+    "name": "Nougattasche",
+    "category": "Gebäck",
+    "subcategories": ["Taschen", "Süßwaren"]
+  },
+  {
+    "store": "billa",
+    "id": "00-908583",
+    "name": "Nougattaschen 2er",
+    "category": "Gebäck",
+    "subcategories": ["Taschen", "Süßwaren"]
+  },
+  {
+    "store": "billa",
+    "id": "00-302038",
+    "name": "Nuss Nougat Croissant 2er",
+    "category": "Gebäck",
+    "subcategories": ["Croissant", "Süßwaren"]
+  }
+]

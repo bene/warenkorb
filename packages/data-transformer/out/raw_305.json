@@ -1,0 +1,702 @@
+[
+  {
+    "store": "spar",
+    "id": "6514808",
+    "name": "Marqués de Riscal Sauvignon Blanc Rueda DO BIO 2021",
+    "category": "Wein",
+    "subcategories": ["Weißwein", "Sauvignon Blanc", "Rueda DO", "BIO"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004732286",
+    "name": "Martini Bellini Peach",
+    "category": "Alkoholische Getränke",
+    "subcategories": ["Cocktail", "Peach"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002322342",
+    "name": "Masso Antico Fiano da uve leggeremente Appasito Salento IGT 2021",
+    "category": "Wein",
+    "subcategories": ["Weißwein", "Fiano", "Salento IGT"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003002397",
+    "name": "Masso Antico Il Potere Rosso Puglia IGT 2020",
+    "category": "Wein",
+    "subcategories": ["Rotwein", "Puglia IGT"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002007171",
+    "name": "Masso Antico Primitivo Salento IGT 2021",
+    "category": "Wein",
+    "subcategories": ["Rotwein", "Primitivo", "Salento IGT"]
+  },
+  {
+    "store": "spar",
+    "id": "214858",
+    "name": "Mateus Rosé",
+    "category": "Wein",
+    "subcategories": ["Rosé"]
+  },
+  {
+    "store": "spar",
+    "id": "7420559",
+    "name": "Mayer am Pfarrplatz Grüner Veltliner 2022",
+    "category": "Wein",
+    "subcategories": ["Weißwein", "Grüner Veltliner"]
+  },
+  {
+    "store": "spar",
+    "id": "7647413",
+    "name": "Mayer am Pfarrplatz Junger Wiener 2022",
+    "category": "Wein",
+    "subcategories": ["Weißwein", "Junger Wiener"]
+  },
+  {
+    "store": "spar",
+    "id": "7420627",
+    "name": "Mayer am Pfarrplatz Wiener Gemischter Satz DAC 2022",
+    "category": "Wein",
+    "subcategories": ["Weißwein", "Wiener Gemischter Satz", "DAC"]
+  },
+  {
+    "store": "spar",
+    "id": "1836387",
+    "name": "Mayer am Pfarrplatz Wiener Klassik 2022",
+    "category": "Wein",
+    "subcategories": ["Weißwein", "Wiener Klassik"]
+  },
+  {
+    "store": "spar",
+    "id": "1161328",
+    "name": "Mayr Ferdinand Blaufränkisch Selection 2021",
+    "category": "Wein",
+    "subcategories": ["Rotwein", "Blaufränkisch"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002118860",
+    "name": "Mayr Ferdinand Cuvée Rot Reserve 2020",
+    "category": "Wein",
+    "subcategories": ["Rotwein", "Cuvée Rot", "Reserve"]
+  },
+  {
+    "store": "spar",
+    "id": "8205629",
+    "name": "Mayr Ferdinand Gelber Muskateller 2021",
+    "category": "Wein",
+    "subcategories": ["Weißwein", "Gelber Muskateller"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003721670",
+    "name": "Mayr Ferdinand Gemischter Satz Selection 2021",
+    "category": "Wein",
+    "subcategories": ["Weißwein", "Gemischter Satz"]
+  },
+  {
+    "store": "spar",
+    "id": "7787829",
+    "name": "Mayr Ferdinand Grüner Veltliner Selection 2022",
+    "category": "Wein",
+    "subcategories": ["Weißwein", "Grüner Veltliner"]
+  },
+  {
+    "store": "spar",
+    "id": "2020000518198",
+    "name": "Mayr Ferdinand Riesling Selection 2022",
+    "category": "Wein",
+    "subcategories": ["Weißwein", "Riesling"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002596071",
+    "name": "Mayr Ferdinand St. Laurent Selection 2021",
+    "category": "Wein",
+    "subcategories": ["Rotwein", "St. Laurent"]
+  },
+  {
+    "store": "spar",
+    "id": "2020000517597",
+    "name": "Mayr Ferdinand Zweigelt Rosé 2022",
+    "category": "Wein",
+    "subcategories": ["Rosé", "Zweigelt"]
+  },
+  {
+    "store": "spar",
+    "id": "7525230",
+    "name": "Mionetto Il Hugo",
+    "category": "Alkoholische Getränke",
+    "subcategories": ["Hugo"]
+  },
+  {
+    "store": "spar",
+    "id": "7622236",
+    "name": "Ländle Bergkäse",
+    "category": "Käse",
+    "subcategories": ["Bergkäse"]
+  },
+  {
+    "store": "spar",
+    "id": "2020000777076",
+    "name": "Ländle Raclette Chili",
+    "category": "Käse",
+    "subcategories": ["Raclette", "Chili"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003191893",
+    "name": "Ländle Raclette Chili in Scheiben",
+    "category": "Käse",
+    "subcategories": ["Raclette", "Chili"]
+  },
+  {
+    "store": "spar",
+    "id": "3617861",
+    "name": "Ländle Raclette Natur",
+    "category": "Käse",
+    "subcategories": ["Raclette", "Natur"]
+  },
+  {
+    "store": "spar",
+    "id": "5589654",
+    "name": "Ländle Raclette Pfeffer",
+    "category": "Käse",
+    "subcategories": ["Raclette", "Pfeffer"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003191824",
+    "name": "Ländle Raclette Pfeffer in Scheiben",
+    "category": "Käse",
+    "subcategories": ["Raclette", "Pfeffer"]
+  },
+  {
+    "store": "spar",
+    "id": "5996599",
+    "name": "Ländle Raclette in Scheiben",
+    "category": "Käse",
+    "subcategories": ["Raclette"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001693351",
+    "name": "Ländle Rahmkäse",
+    "category": "Käse",
+    "subcategories": ["Rahmkäse"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003867644",
+    "name": "Mandl's Ziegenhof Bio-Ziegenkäseröllchen mit Chili",
+    "category": "Käse",
+    "subcategories": ["Ziegenkäseröllchen", "Bio", "Chili"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003867736",
+    "name": "Mandl's Ziegenhof Bio-Ziegenkäseröllchen mit Chili",
+    "category": "Käse",
+    "subcategories": ["Ziegenkäseröllchen", "Bio", "Chili"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003867705",
+    "name": "Mandl's Ziegenhof Bio-Ziegenkäseröllchen mit Kürbiskernen",
+    "category": "Käse",
+    "subcategories": ["Ziegenkäseröllchen", "Bio", "Kürbiskerne"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003867682",
+    "name": "Mandl's Ziegenhof Bio-Ziegenkäseröllchen mit Kürbiskernen",
+    "category": "Käse",
+    "subcategories": ["Ziegenkäseröllchen", "Bio", "Kürbiskerne"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003867767",
+    "name": "Mandl's Ziegenhof Bio-Ziegenkäseröllchen mit Kürbiskernen",
+    "category": "Käse",
+    "subcategories": ["Ziegenkäseröllchen", "Bio", "Kürbiskerne"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003867620",
+    "name": "Mandl's Ziegenhof Bio-Ziegenkäseröllchen mit Kürbiskernen",
+    "category": "Käse",
+    "subcategories": ["Ziegenkäseröllchen", "Bio", "Kürbiskerne"]
+  },
+  {
+    "store": "spar",
+    "id": "7703867",
+    "name": "Mini Babybel 6 x 20g",
+    "category": "Käse",
+    "subcategories": ["Babybel"]
+  },
+  {
+    "store": "spar",
+    "id": "1332513",
+    "name": "Lätta Original",
+    "category": "Butter",
+    "subcategories": ["Streichfett", "Margarine"]
+  },
+  {
+    "store": "spar",
+    "id": "7268656",
+    "name": "Lünebest Mousse au chocolat",
+    "category": "Dessert",
+    "subcategories": ["Schokoladenmousse"]
+  },
+  {
+    "store": "spar",
+    "id": "980159",
+    "name": "Maresi Fixmilch Instant 300G",
+    "category": "Milchprodukte",
+    "subcategories": ["Instantmilch"]
+  },
+  {
+    "store": "spar",
+    "id": "105354",
+    "name": "Maresi Original",
+    "category": "Milchprodukte",
+    "subcategories": ["Kaffeesahne"]
+  },
+  {
+    "store": "spar",
+    "id": "105385",
+    "name": "Maresi Original",
+    "category": "Milchprodukte",
+    "subcategories": ["Kaffeesahne"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003484605",
+    "name": "Milka Schoko Snack 4x32g",
+    "category": "Süßigkeiten",
+    "subcategories": ["Schokolade", "Snack"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003966033",
+    "name": "Minions Choco Banana Milk Snack",
+    "category": "Süßigkeiten",
+    "subcategories": ["Schokolade", "Banane", "Snack"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001116621",
+    "name": "MinusL Kaffeesahne laktosefrei 10 x 10g",
+    "category": "Milchprodukte",
+    "subcategories": ["Laktosefreie Kaffeesahne"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003636974",
+    "name": "Maresi Knabbernossi Pausenwrap",
+    "category": "Snacks",
+    "subcategories": ["Knabbergebäck"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004712929",
+    "name": "Mini Salami Sticks 70 G",
+    "category": "Fleischwaren",
+    "subcategories": ["Salami", "Snack"]
+  },
+  {
+    "store": "spar",
+    "id": "1682526",
+    "name": "MSC Hering in Gelee 2 x 100g 200 G",
+    "category": "Fisch",
+    "subcategories": ["Hering", "Gelee"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001581818",
+    "name": "MSC Heringshappen in Dillsoße 1 KG",
+    "category": "Fisch",
+    "subcategories": ["Heringshappen", "Dillsoße"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003712586",
+    "name": "Mars Ice Cream 6 Stück 306ml Packung",
+    "category": "Eis",
+    "subcategories": ["Schokoladeneis", "Eiscreme"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004108968",
+    "name": "Mars M&M'S Erdnuss Eisbecher ja",
+    "category": "Eis",
+    "subcategories": ["Erdnuss", "Eisbecher", "M&M'S"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004528506",
+    "name": "Milka Vanilla & Chocolate Heart 480ml",
+    "category": "Eis",
+    "subcategories": ["Vanille", "Schokolade", "Eis"]
+  },
+  {
+    "store": "spar",
+    "id": "8197306",
+    "name": "Milupa Milumil Anfangsmilch 1 800G",
+    "category": "Säuglingsnahrung",
+    "subcategories": ["Anfangsmilch"]
+  },
+  {
+    "store": "spar",
+    "id": "8197252",
+    "name": "Milupa Milumil Anfangsmilch Pre 800G",
+    "category": "Säuglingsnahrung",
+    "subcategories": ["Anfangsmilch"]
+  },
+  {
+    "store": "spar",
+    "id": "8197344",
+    "name": "Milupa Milumil Folgemilch 2 800G",
+    "category": "Säuglingsnahrung",
+    "subcategories": ["Folgemilch"]
+  },
+  {
+    "store": "spar",
+    "id": "8197375",
+    "name": "Milupa Milumil Folgemilch 3 800G",
+    "category": "Säuglingsnahrung",
+    "subcategories": ["Folgemilch"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003793677",
+    "name": "Minöttly Nussmus Crunchy Müsli Haselnuss",
+    "category": "Nüsse",
+    "subcategories": ["Nussmus", "Crunchy Müsli", "Haselnuss"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003793691",
+    "name": "Minöttly Nussmus Crunchy Müsli Kokos",
+    "category": "Nüsse",
+    "subcategories": ["Nussmus", "Crunchy Müsli", "Kokos"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003793660",
+    "name": "Minöttly Nussmus Crunchy Müsli Mandel",
+    "category": "Nüsse",
+    "subcategories": ["Nussmus", "Crunchy Müsli", "Mandel"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003755460",
+    "name": "Millas Ketchup",
+    "category": "Saucen",
+    "subcategories": ["Ketchup"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003755545",
+    "name": "Millas Mayonnaise",
+    "category": "Saucen",
+    "subcategories": ["Mayonnaise"]
+  },
+  {
+    "store": "spar",
+    "id": "4896203",
+    "name": "Milka Pralinés I love Milka",
+    "category": "Süßigkeiten",
+    "subcategories": ["Pralinés", "Schokolade", "Milka"]
+  },
+  {
+    "store": "spar",
+    "id": "2313276",
+    "name": "Milka Pralinés Kleines Dankeschön",
+    "category": "Süßigkeiten",
+    "subcategories": ["Pralinés", "Schokolade", "Milka"]
+  },
+  {
+    "store": "spar",
+    "id": "2313191",
+    "name": "Milka Pralinés Nuss-Nougat-Creme",
+    "category": "Süßigkeiten",
+    "subcategories": ["Pralinés", "Schokolade", "Nuss-Nougat-Creme"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001807413",
+    "name": "Milka Riegel Erdbeer 5 Stück",
+    "category": "Süßigkeiten",
+    "subcategories": ["Schokoriegel", "Erdbeer"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001807796",
+    "name": "Milka Riegel Oreo 5 Stück",
+    "category": "Süßigkeiten",
+    "subcategories": ["Schokoriegel", "Oreo"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003136023",
+    "name": "Milka Schokoladentafel Dark Milk",
+    "category": "Schokolade",
+    "subcategories": ["Schokoladentafel", "Dark Milk"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003136030",
+    "name": "Milka Schokoladentafel Darkmilk Himbeer",
+    "category": "Schokolade",
+    "subcategories": ["Schokoladentafel", "Darkmilk", "Himbeer"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003136054",
+    "name": "Milka Schokoladentafel Darkmilk Mandel",
+    "category": "Schokolade",
+    "subcategories": ["Schokoladentafel", "Darkmilk", "Mandel"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001807604",
+    "name": "Milka Tender Tender Milch",
+    "category": "Süßigkeiten",
+    "subcategories": ["Schokoriegel", "Milch"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001807758",
+    "name": "Milka Tender Tender Nuss",
+    "category": "Süßigkeiten",
+    "subcategories": ["Schokoriegel", "Nuss"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003662973",
+    "name": "Milka Zarte Momente Favourit",
+    "category": "Süßigkeiten",
+    "subcategories": ["Schokolade", "Zarte Momente", "Favourit"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003053078",
+    "name": "Milka Zarte Momente Zarte Momente Mix 19 Pralinen",
+    "category": "Süßigkeiten",
+    "subcategories": ["Schokolade", "Zarte Momente", "Pralinen"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003931239",
+    "name": "Milka Zarte Momente darkmilk mix",
+    "category": "Süßigkeiten",
+    "subcategories": ["Schokolade", "Zarte Momente", "Darkmilk"]
+  },
+  {
+    "store": "spar",
+    "id": "7660726",
+    "name": "Milky Way 6 x 21,5g",
+    "category": "Süßigkeiten",
+    "subcategories": ["Riegel", "Milky Way"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004252494",
+    "name": "Milky Way Biscuits",
+    "category": "Süßigkeiten",
+    "subcategories": ["Kekse", "Milky Way"]
+  },
+  {
+    "store": "spar",
+    "id": "3863411",
+    "name": "Milky Way Minis",
+    "category": "Süßigkeiten",
+    "subcategories": ["Minis", "Milky Way"]
+  },
+  {
+    "store": "spar",
+    "id": "3432655",
+    "name": "Milupa Stilleinlage",
+    "category": "Babybedarf",
+    "subcategories": ["Stilleinlagen"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003145100",
+    "name": "Medi-Help junior Kinderpflaster 20 Stück",
+    "category": "Verbandsmaterial",
+    "subcategories": ["Kinderpflaster"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003145094",
+    "name": "Medi-Help junior Tattoo-Kinderpflaster 16 Stück",
+    "category": "Verbandsmaterial",
+    "subcategories": ["Kinderpflaster", "Tattoo"]
+  },
+  {
+    "store": "spar",
+    "id": "6983444",
+    "name": "Meridol Mundspülung Zahnfleischschutz 400ml",
+    "category": "Mund- und Zahnpflege",
+    "subcategories": ["Mundspülung", "Zahnfleischschutz"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001175574",
+    "name": "Meridol Zahnbürste Parodont Expert Extra Sanft",
+    "category": "Mund- und Zahnpflege",
+    "subcategories": ["Zahnbürste", "Parodont Expert", "Extra Sanft"]
+  },
+  {
+    "store": "spar",
+    "id": "5245741",
+    "name": "Meridol Zahnbürste Sanft 1 Stück",
+    "category": "Mund- und Zahnpflege",
+    "subcategories": ["Zahnbürste", "Sanft"]
+  },
+  {
+    "store": "spar",
+    "id": "1732009",
+    "name": "Meridol Zahnbürste mittel 1 Stück",
+    "category": "Mund- und Zahnpflege",
+    "subcategories": ["Zahnbürste", "Mittel"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003982033",
+    "name": "Medi-Help suncare After Sun Lotion ultra sensitiv 200 ml",
+    "category": "Sonnenpflege",
+    "subcategories": ["After Sun Lotion", "Ultra sensitiv"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003981975",
+    "name": "Medi-Help suncare Sonnenmilch LSF 50+ ultra sensitiv 200 ml",
+    "category": "Sonnenpflege",
+    "subcategories": ["Sonnenmilch", "LSF 50+", "Ultra sensitiv"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004658166",
+    "name": "Medi-Help suncare Sonnenspray LSF 50+ ultra sensitiv 150 ml",
+    "category": "Sonnenpflege",
+    "subcategories": ["Sonnenspray", "LSF 50+", "Ultra sensitiv"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003981982",
+    "name": "Medi-Help suncare kids Sonnenmilch LSF 50+ ultra sensitiv 200 ml",
+    "category": "Sonnenpflege",
+    "subcategories": ["Sonnenmilch", "LSF 50+", "Ultra sensitiv", "Kinder"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004658159",
+    "name": "Medi-Help suncare kids Sonnenspray Kids LSF 50+ ultra sensitiv 150 ml",
+    "category": "Sonnenpflege",
+    "subcategories": ["Sonnenspray", "LSF 50+", "Ultra sensitiv", "Kinder"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003818004",
+    "name": "Mepal Trinkflasche Campus pop up lLopard",
+    "category": "Trinkflasche",
+    "subcategories": ["Campus", "Pop up", "Llopard"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003337291",
+    "name": "Mepal Trinkflasche Pop-up animal friends 400ml",
+    "category": "Trinkflasche",
+    "subcategories": ["Pop-up", "Animal Friends"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003062285",
+    "name": "Mepal Trinkflasche Pop-up blau 400ml",
+    "category": "Trinkflasche",
+    "subcategories": ["Pop-up", "Blau"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003337284",
+    "name": "Mepal Trinkflasche Pop-up paw patrol 400ml",
+    "category": "Trinkflasche",
+    "subcategories": ["Pop-up", "Paw Patrol"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001653522",
+    "name": "Microplane Gourmet Reibe grob",
+    "category": "Küchenutensilien",
+    "subcategories": ["Reibe", "Grob"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001653256",
+    "name": "Microplane Hobel Julienne Verstellbar",
+    "category": "Küchenutensilien",
+    "subcategories": ["Hobel", "Julienne", "Verstellbar"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003423147",
+    "name": "Microplane Profi-Schäler",
+    "category": "Küchenutensilien",
+    "subcategories": ["Schäler", "Profi"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001356492",
+    "name": "Microplane Reibe gelb",
+    "category": "Küchenutensilien",
+    "subcategories": ["Reibe", "Gelb"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001356539",
+    "name": "Microplane Reibe grau",
+    "category": "Küchenutensilien",
+    "subcategories": ["Reibe", "Grau"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001482856",
+    "name": "Microplane Reibe grün",
+    "category": "Küchenutensilien",
+    "subcategories": ["Reibe", "Grün"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001356454",
+    "name": "Microplane Reibe schwarz",
+    "category": "Küchenutensilien",
+    "subcategories": ["Reibe", "Schwarz"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001483440",
+    "name": "Microplane Spiralschneider schwarz",
+    "category": "Küchenutensilien",
+    "subcategories": ["Spiralschneider", "Schwarz"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004301222",
+    "name": "Medi-Help Österr. Franzbranntwein 500 ml",
+    "category": "Haushalt",
+    "subcategories": ["Österr. Franzbranntwein"]
+  },
+  {
+    "store": "spar",
+    "id": "2020000997405",
+    "name": "Medisana Blutzucker Teststreifen Medi Touch 2",
+    "category": "Gesundheitsprodukte",
+    "subcategories": ["Blutzucker Teststreifen"]
+  }
+]

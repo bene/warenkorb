@@ -1,0 +1,709 @@
+[
+  {
+    "store": "billa",
+    "id": "00-813482",
+    "name": "Pfanner ACE Mehrfruchtsaft",
+    "category": "Fruchtsaft",
+    "subcategories": ["Mehrfruchtsaft", "ACE"]
+  },
+  {
+    "store": "billa",
+    "id": "00-215191",
+    "name": "Pfanner BCE Waldfrüchte",
+    "category": "Fruchtsaft",
+    "subcategories": ["Waldfrüchte", "BCE"]
+  },
+  {
+    "store": "billa",
+    "id": "00-913740",
+    "name": "Pfanner CDA Ananas-Karotte",
+    "category": "Fruchtsaft",
+    "subcategories": ["Ananas-Karotte", "CDA"]
+  },
+  {
+    "store": "billa",
+    "id": "00-913745",
+    "name": "Pfanner Erdbeere",
+    "category": "Fruchtsaft",
+    "subcategories": ["Erdbeere"]
+  },
+  {
+    "store": "billa",
+    "id": "00-603554",
+    "name": "Pfanner Fairtrade Mango-Maracuja",
+    "category": "Fruchtsaft",
+    "subcategories": ["Mango-Maracuja", "Fairtrade"]
+  },
+  {
+    "store": "billa",
+    "id": "00-902948",
+    "name": "Pfanner Fairtrade Multivitaminnektar",
+    "category": "Fruchtsaft",
+    "subcategories": ["Multivitaminnektar", "Fairtrade"]
+  },
+  {
+    "store": "billa",
+    "id": "00-869426",
+    "name": "Pfanner Green Apple",
+    "category": "Fruchtsaft",
+    "subcategories": ["Green Apple"]
+  },
+  {
+    "store": "billa",
+    "id": "00-413498",
+    "name": "Pfanner Grüner Tee Zitrone-Kaktusfeige",
+    "category": "Getränk",
+    "subcategories": ["Grüner Tee", "Zitrone-Kaktusfeige"]
+  },
+  {
+    "store": "billa",
+    "id": "00-639776",
+    "name": "Pfanner Heidelbeere",
+    "category": "Fruchtsaft",
+    "subcategories": ["Heidelbeere"]
+  },
+  {
+    "store": "billa",
+    "id": "00-640813",
+    "name": "Pfanner Maracuja",
+    "category": "Fruchtsaft",
+    "subcategories": ["Maracuja"]
+  },
+  {
+    "store": "billa",
+    "id": "00-714164",
+    "name": "Pfanner Pflaumensaft",
+    "category": "Fruchtsaft",
+    "subcategories": ["Pflaumensaft"]
+  },
+  {
+    "store": "billa",
+    "id": "00-310357",
+    "name": "Pfanner Pure Tea Grüner Tee",
+    "category": "Tee",
+    "subcategories": ["Pure Tea", "Grüner Tee"]
+  },
+  {
+    "store": "billa",
+    "id": "00-930843",
+    "name": "Pfanner Pure Tea Weißer Tee Holunder",
+    "category": "Tee",
+    "subcategories": ["Pure Tea", "Weißer Tee", "Holunder"]
+  },
+  {
+    "store": "billa",
+    "id": "00-889226",
+    "name": "Pona Apfel-Limette gespritzt",
+    "category": "Gespritzt",
+    "subcategories": ["Apfel-Limette"]
+  },
+  {
+    "store": "billa",
+    "id": "00-889229",
+    "name": "Pona Tarocco Orange gespritzt",
+    "category": "Gespritzt",
+    "subcategories": ["Tarocco Orange"]
+  },
+  {
+    "store": "billa",
+    "id": "00-721603",
+    "name": "Powerade Isotonic Blutorange",
+    "category": "Isotonisches Getränk",
+    "subcategories": ["Isotonic", "Blutorange"]
+  },
+  {
+    "store": "billa",
+    "id": "00-870881",
+    "name": "Powerade Mountainblast",
+    "category": "Isotonisches Getränk",
+    "subcategories": ["Mountainblast"]
+  },
+  {
+    "store": "billa",
+    "id": "00-338251",
+    "name": "Puerto Mate Eistee mit Granatapfel",
+    "category": "Eistee",
+    "subcategories": ["Eistee", "Granatapfel"]
+  },
+  {
+    "store": "billa",
+    "id": "00-338225",
+    "name": "Puerto Mate Eistee mit Zitronengras",
+    "category": "Eistee",
+    "subcategories": ["Eistee", "Zitronengras"]
+  },
+  {
+    "store": "billa",
+    "id": "00-476228",
+    "name": "Pure & Fun Paw Patrol Bio Heldentrank",
+    "category": "Bio",
+    "subcategories": ["Heldentrank", "Bio"]
+  },
+  {
+    "store": "billa",
+    "id": "00-522855",
+    "name": "Pure & Fun Peppa Trink Päckchen 3er",
+    "category": "Trink Päckchen",
+    "subcategories": ["Peppa", "Trink", "Päckchen"]
+  },
+  {
+    "store": "billa",
+    "id": "00-489802",
+    "name": "Pure Bio Energy Drink Orange-Karotte",
+    "category": "Energy Drink",
+    "subcategories": ["Bio", "Energy Drink", "Orange-Karotte"]
+  },
+  {
+    "store": "billa",
+    "id": "00-902011",
+    "name": "Race Energy Drink",
+    "category": "Energy Drink",
+    "subcategories": ["Race"]
+  },
+  {
+    "store": "billa",
+    "id": "00-660778",
+    "name": "Race Energy Drink Partysize",
+    "category": "Energy Drink",
+    "subcategories": ["Race"]
+  },
+  {
+    "store": "billa",
+    "id": "00-605576",
+    "name": "Race Energy Drink Sugarfree",
+    "category": "Energy Drink",
+    "subcategories": ["Race", "Sugarfree"]
+  },
+  {
+    "store": "billa",
+    "id": "00-408421",
+    "name": "Radenska Mineralwasser Classic",
+    "category": "Mineralwasser",
+    "subcategories": ["Classic"]
+  },
+  {
+    "store": "billa",
+    "id": "00-868516",
+    "name": "Radenska Mineralwasser Mild",
+    "category": "Mineralwasser",
+    "subcategories": ["Mild"]
+  },
+  {
+    "store": "billa",
+    "id": "00-389076",
+    "name": "Radlberger Limö Himbeere",
+    "category": "Limö",
+    "subcategories": ["Himbeere"]
+  },
+  {
+    "store": "billa",
+    "id": "00-389077",
+    "name": "Radlberger Limö Orange",
+    "category": "Limö",
+    "subcategories": ["Orange"]
+  },
+  {
+    "store": "billa",
+    "id": "00-389085",
+    "name": "Radlberger Limö Zitrone",
+    "category": "Limö",
+    "subcategories": ["Zitrone"]
+  },
+  {
+    "store": "billa",
+    "id": "00-861547",
+    "name": "Rauch Bravo Blutorange",
+    "category": "Fruchtsaft",
+    "subcategories": ["Blutorange", "Bravo"]
+  },
+  {
+    "store": "billa",
+    "id": "00-411164",
+    "name": "Rauch Bravo Multivit",
+    "category": "Fruchtsaft",
+    "subcategories": ["Multivit", "Bravo"]
+  },
+  {
+    "store": "billa",
+    "id": "00-414607",
+    "name": "Rauch Bravo Multivit ACE",
+    "category": "Fruchtsaft",
+    "subcategories": ["Multivit", "Bravo", "ACE"]
+  },
+  {
+    "store": "billa",
+    "id": "00-413270",
+    "name": "Rauch Bravo Multivitaminnektar",
+    "category": "Fruchtsaft",
+    "subcategories": ["Multivitaminnektar", "Bravo"]
+  },
+  {
+    "store": "billa",
+    "id": "00-387576",
+    "name": "Rauch Eistee Berries",
+    "category": "Eistee",
+    "subcategories": ["Eistee", "Berries"]
+  },
+  {
+    "store": "billa",
+    "id": "00-463681",
+    "name": "Rauch Eistee Berries",
+    "category": "Eistee",
+    "subcategories": ["Eistee", "Berries"]
+  },
+  {
+    "store": "billa",
+    "id": "00-387579",
+    "name": "Rauch Eistee Berries",
+    "category": "Eistee",
+    "subcategories": ["Eistee", "Berries"]
+  },
+  {
+    "store": "billa",
+    "id": "00-719954",
+    "name": "Rauch Eistee Ice Mints Raspberry",
+    "category": "Eistee",
+    "subcategories": ["Eistee", "Ice Mints", "Raspberry"]
+  },
+  {
+    "store": "billa",
+    "id": "00-789569",
+    "name": "Rauch Eistee Kirsche",
+    "category": "Eistee",
+    "subcategories": ["Eistee", "Kirsche"]
+  },
+  {
+    "store": "billa",
+    "id": "00-791045",
+    "name": "Rauch Eistee Kirsche",
+    "category": "Eistee",
+    "subcategories": ["Eistee", "Kirsche"]
+  },
+  {
+    "store": "billa",
+    "id": "00-872284",
+    "name": "Rauch Eistee Mango",
+    "category": "Eistee",
+    "subcategories": ["Eistee", "Mango"]
+  },
+  {
+    "store": "billa",
+    "id": "00-859839",
+    "name": "Rauch Eistee Pfirsich",
+    "category": "Eistee",
+    "subcategories": ["Eistee", "Pfirsich"]
+  },
+  {
+    "store": "billa",
+    "id": "00-29742",
+    "name": "Rauch Eistee Pfirsich",
+    "category": "Eistee",
+    "subcategories": ["Eistee", "Pfirsich"]
+  },
+  {
+    "store": "billa",
+    "id": "00-411166",
+    "name": "Rauch Eistee Pfirsich",
+    "category": "Eistee",
+    "subcategories": ["Eistee", "Pfirsich"]
+  },
+  {
+    "store": "billa",
+    "id": "00-517705",
+    "name": "Rauch Eistee Pfirsich",
+    "category": "Eistee",
+    "subcategories": ["Eistee", "Pfirsich"]
+  },
+  {
+    "store": "billa",
+    "id": "00-368312",
+    "name": "Rauch Eistee Pfirsich",
+    "category": "Eistee",
+    "subcategories": ["Eistee", "Pfirsich"]
+  },
+  {
+    "store": "billa",
+    "id": "00-719952",
+    "name": "Rauch Eistee Strawberry Stripes Kiwi",
+    "category": "Eistee",
+    "subcategories": ["Eistee", "Strawberry Stripes", "Kiwi"]
+  },
+  {
+    "store": "billa",
+    "id": "00-293905",
+    "name": "Rauch Eistee Zero Pfirsich",
+    "category": "Eistee",
+    "subcategories": ["Eistee", "Zero", "Pfirsich"]
+  },
+  {
+    "store": "billa",
+    "id": "00-293946",
+    "name": "Rauch Eistee Zero Pfirsich",
+    "category": "Eistee",
+    "subcategories": ["Eistee", "Zero", "Pfirsich"]
+  },
+  {
+    "store": "billa",
+    "id": "00-293987",
+    "name": "Rauch Eistee Zero Zitrone",
+    "category": "Eistee",
+    "subcategories": ["Eistee", "Zero", "Zitrone"]
+  },
+  {
+    "store": "billa",
+    "id": "00-293902",
+    "name": "Rauch Eistee Zero Zitrone",
+    "category": "Eistee",
+    "subcategories": ["Eistee", "Zero", "Zitrone"]
+  },
+  {
+    "store": "billa",
+    "id": "00-411297",
+    "name": "Rauch Eistee Zitrone",
+    "category": "Eistee",
+    "subcategories": ["Eistee", "Zitrone"]
+  },
+  {
+    "store": "billa",
+    "id": "00-29741",
+    "name": "Rauch Eistee Zitrone",
+    "category": "Eistee",
+    "subcategories": ["Eistee", "Zitrone"]
+  },
+  {
+    "store": "billa",
+    "id": "00-368351",
+    "name": "Rauch Eistee Zitrone",
+    "category": "Eistee",
+    "subcategories": ["Eistee", "Zitrone"]
+  },
+  {
+    "store": "billa",
+    "id": "00-859840",
+    "name": "Rauch Eistee Zitrone",
+    "category": "Eistee",
+    "subcategories": ["Eistee", "Zitrone"]
+  },
+  {
+    "store": "billa",
+    "id": "00-517707",
+    "name": "Rauch Eistee Zitrone",
+    "category": "Eistee",
+    "subcategories": ["Eistee", "Zitrone"]
+  },
+  {
+    "store": "billa",
+    "id": "00-864266",
+    "name": "Rauch Happy Day Amarenakirsche",
+    "category": "Fruchtsaft",
+    "subcategories": ["Amarenakirsche", "Happy Day"]
+  },
+  {
+    "store": "billa",
+    "id": "00-14446",
+    "name": "Rauch Happy Day Ananassaft",
+    "category": "Fruchtsaft",
+    "subcategories": ["Ananassaft", "Happy Day"]
+  },
+  {
+    "store": "billa",
+    "id": "00-634169",
+    "name": "Rauch Happy Day Apfel Mild",
+    "category": "Fruchtsaft",
+    "subcategories": ["Apfel Mild", "Happy Day"]
+  },
+  {
+    "store": "billa",
+    "id": "00-400975",
+    "name": "Rauch Happy Day Apfelsaft",
+    "category": "Fruchtsaft",
+    "subcategories": ["Apfelsaft", "Happy Day"]
+  },
+  {
+    "store": "billa",
+    "id": "00-10351",
+    "name": "Rauch Happy Day Apfelsaft",
+    "category": "Fruchtsaft",
+    "subcategories": ["Apfelsaft", "Happy Day"]
+  },
+  {
+    "store": "billa",
+    "id": "00-411163",
+    "name": "Rauch Happy Day Apfelspritzer",
+    "category": "Spritzer",
+    "subcategories": ["Apfelspritzer", "Happy Day"]
+  },
+  {
+    "store": "billa",
+    "id": "00-605837",
+    "name": "Rauch Happy Day Banane",
+    "category": "Fruchtsaft",
+    "subcategories": ["Banane", "Happy Day"]
+  },
+  {
+    "store": "billa",
+    "id": "00-665887",
+    "name": "Rauch Happy Day Birne",
+    "category": "Fruchtsaft",
+    "subcategories": ["Birne", "Happy Day"]
+  },
+  {
+    "store": "billa",
+    "id": "00-691265",
+    "name": "Rauch Happy Day Cocos Ananas",
+    "category": "Fruchtsaft",
+    "subcategories": ["Cocos Ananas", "Happy Day"]
+  },
+  {
+    "store": "billa",
+    "id": "00-902595",
+    "name": "Rauch Happy Day Cranberry",
+    "category": "Fruchtsaft",
+    "subcategories": ["Cranberry", "Happy Day"]
+  },
+  {
+    "store": "billa",
+    "id": "00-901210",
+    "name": "Rauch Happy Day Erdbeere",
+    "category": "Fruchtsaft",
+    "subcategories": ["Erdbeere", "Happy Day"]
+  },
+  {
+    "store": "billa",
+    "id": "00-905077",
+    "name": "Rauch Happy Day Granatapfel",
+    "category": "Fruchtsaft",
+    "subcategories": ["Granatapfel", "Happy Day"]
+  },
+  {
+    "store": "billa",
+    "id": "00-791",
+    "name": "Rauch Happy Day Grapefruitsaft",
+    "category": "Fruchtsaft",
+    "subcategories": ["Grapefruitsaft", "Happy Day"]
+  },
+  {
+    "store": "billa",
+    "id": "00-469743",
+    "name": "Rauch Happy Day Himbeere",
+    "category": "Fruchtsaft",
+    "subcategories": ["Himbeere", "Happy Day"]
+  },
+  {
+    "store": "billa",
+    "id": "00-621576",
+    "name": "Rauch Happy Day Holunder-Limette Sprizz",
+    "category": "Sprizz",
+    "subcategories": ["Holunder-Limette", "Happy Day"]
+  },
+  {
+    "store": "billa",
+    "id": "00-582972",
+    "name": "Rauch Happy Day Holunderblüte Limette Sprizz",
+    "category": "Sprizz",
+    "subcategories": ["Holunderblüte", "Limette", "Happy Day"]
+  },
+  {
+    "store": "billa",
+    "id": "00-700531",
+    "name": "Rauch Happy Day Immun Eisen",
+    "category": "Fruchtsaft",
+    "subcategories": ["Immun Eisen", "Happy Day"]
+  },
+  {
+    "store": "billa",
+    "id": "00-13851",
+    "name": "Rauch Happy Day Johannisbeernektar",
+    "category": "Fruchtsaft",
+    "subcategories": ["Johannisbeernektar", "Happy Day"]
+  },
+  {
+    "store": "billa",
+    "id": "00-621540",
+    "name": "Rauch Happy Day Johannisbeerspritzer",
+    "category": "Spritzer",
+    "subcategories": ["Johannisbeerspritzer", "Happy Day"]
+  },
+  {
+    "store": "billa",
+    "id": "00-413222",
+    "name": "Rauch Happy Day Johannisbeerspritzer",
+    "category": "Spritzer",
+    "subcategories": ["Johannisbeerspritzer", "Happy Day"]
+  },
+  {
+    "store": "billa",
+    "id": "00-649178",
+    "name": "Rauch Happy Day Lychee",
+    "category": "Fruchtsaft",
+    "subcategories": ["Lychee", "Happy Day"]
+  },
+  {
+    "store": "billa",
+    "id": "00-862454",
+    "name": "Rauch Happy Day Mango",
+    "category": "Fruchtsaft",
+    "subcategories": ["Mango", "Happy Day"]
+  },
+  {
+    "store": "billa",
+    "id": "00-902594",
+    "name": "Rauch Happy Day Maracuja",
+    "category": "Fruchtsaft",
+    "subcategories": ["Maracuja", "Happy Day"]
+  },
+  {
+    "store": "billa",
+    "id": "00-665881",
+    "name": "Rauch Happy Day Marille",
+    "category": "Fruchtsaft",
+    "subcategories": ["Marille", "Happy Day"]
+  },
+  {
+    "store": "billa",
+    "id": "00-651467",
+    "name": "Rauch Happy Day Marillenspritzer",
+    "category": "Spritzer",
+    "subcategories": ["Marillenspritzer", "Happy Day"]
+  },
+  {
+    "store": "billa",
+    "id": "00-631553",
+    "name": "Rauch Happy Day Multivitamin",
+    "category": "Fruchtsaft",
+    "subcategories": ["Multivitamin", "Happy Day"]
+  },
+  {
+    "store": "billa",
+    "id": "00-670116",
+    "name": "Rauch Happy Day Multivitamin Mild",
+    "category": "Fruchtsaft",
+    "subcategories": ["Multivitamin", "Happy Day", "Mild"]
+  },
+  {
+    "store": "billa",
+    "id": "00-10827",
+    "name": "Rauch Happy Day Multivitaminsaft",
+    "category": "Fruchtsaft",
+    "subcategories": ["Multivitaminsaft", "Happy Day"]
+  },
+  {
+    "store": "billa",
+    "id": "00-292944",
+    "name": "Rauch Happy Day Orange Maracuja",
+    "category": "Fruchtsaft",
+    "subcategories": ["Orange Maracuja", "Happy Day"]
+  },
+  {
+    "store": "billa",
+    "id": "00-605740",
+    "name": "Rauch Happy Day Orange Mild",
+    "category": "Fruchtsaft",
+    "subcategories": ["Orange Mild", "Happy Day"]
+  },
+  {
+    "store": "billa",
+    "id": "00-845133",
+    "name": "Rauch Happy Day Orange-Mango-Saft",
+    "category": "Fruchtsaft",
+    "subcategories": ["Orange-Mango-Saft", "Happy Day"]
+  },
+  {
+    "store": "billa",
+    "id": "00-400175",
+    "name": "Rauch Happy Day Orangensaft",
+    "category": "Fruchtsaft",
+    "subcategories": ["Orangensaft", "Happy Day"]
+  },
+  {
+    "store": "billa",
+    "id": "00-7275",
+    "name": "Rauch Happy Day Orangensaft",
+    "category": "Fruchtsaft",
+    "subcategories": ["Orangensaft", "Happy Day"]
+  },
+  {
+    "store": "billa",
+    "id": "00-859240",
+    "name": "Rauch Happy Day Orangensaft mit Fruchtfleisch",
+    "category": "Fruchtsaft",
+    "subcategories": ["Orangensaft", "Fruchtfleisch", "Happy Day"]
+  },
+  {
+    "store": "billa",
+    "id": "00-871483",
+    "name": "Rauch Happy Day Pfirsich",
+    "category": "Fruchtsaft",
+    "subcategories": ["Pfirsich", "Happy Day"]
+  },
+  {
+    "store": "billa",
+    "id": "00-902979",
+    "name": "Rauch Happy Day Pink Grapefruit",
+    "category": "Fruchtsaft",
+    "subcategories": ["Pink Grapefruit", "Happy Day"]
+  },
+  {
+    "store": "billa",
+    "id": "00-765071",
+    "name": "Rauch Happy Day Pink Guave",
+    "category": "Fruchtsaft",
+    "subcategories": ["Pink Guave", "Happy Day"]
+  },
+  {
+    "store": "billa",
+    "id": "00-665879",
+    "name": "Rauch Happy Day Rote Traube",
+    "category": "Fruchtsaft",
+    "subcategories": ["Rote Traube", "Happy Day"]
+  },
+  {
+    "store": "billa",
+    "id": "00-337110",
+    "name": "Rauch Happy Day Superfruit Heidelbeere Acerola",
+    "category": "Fruchtsaft",
+    "subcategories": ["Superfruit", "Heidelbeere", "Acerola", "Happy Day"]
+  },
+  {
+    "store": "billa",
+    "id": "00-10124",
+    "name": "Rauch Happy Day Tomatensaft",
+    "category": "Fruchtsaft",
+    "subcategories": ["Tomatensaft", "Happy Day"]
+  },
+  {
+    "store": "billa",
+    "id": "00-517520",
+    "name": "Rauch Happy Day immun Plus Aktiv Apfel - Beeren - Trauben",
+    "category": "Fruchtsaft",
+    "subcategories": ["Immun Plus", "Apfel", "Beeren", "Trauben", "Happy Day"]
+  },
+  {
+    "store": "billa",
+    "id": "00-517509",
+    "name": "Rauch Happy Day immun Plus Orange - Mango - Zitrone",
+    "category": "Fruchtsaft",
+    "subcategories": ["Immun Plus", "Orange", "Mango", "Zitrone", "Happy Day"]
+  },
+  {
+    "store": "billa",
+    "id": "00-517526",
+    "name": "Rauch Happy Day immun Vital Orange-Grapefruit-Traube-Maracuja",
+    "category": "Fruchtsaft",
+    "subcategories": [
+      "Immun Vital",
+      "Orange",
+      "Grapefruit",
+      "Traube",
+      "Maracuja",
+      "Happy Day"
+    ]
+  },
+  {
+    "store": "billa",
+    "id": "00-933907",
+    "name": "Rauch Juice Bar Ananas-Orange-Maracuja",
+    "category": "Fruchtsaft",
+    "subcategories": ["Ananas-Orange-Maracuja", "Juice Bar"]
+  }
+]

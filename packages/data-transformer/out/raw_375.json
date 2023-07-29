@@ -1,0 +1,725 @@
+[
+  {
+    "store": "spar",
+    "id": "2020004349057",
+    "name": "Ben & Jerry's Non-Dairy Chocolatey Love A-Fair",
+    "category": "Eiscreme",
+    "subcategories": ["Vegan", "Schokolade"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002294137",
+    "name": "Ben & Jerry's Peanut Butter Cup",
+    "category": "Eiscreme",
+    "subcategories": ["Erdnussbutter", "Schokolade"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004068163",
+    "name": "Ben & Jerry's Sundae Berry Revolutionary",
+    "category": "Eiscreme",
+    "subcategories": ["Beeren", "Sundae"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004491114",
+    "name": "Ben & Jerry's Sundae Choco-lotta Cheesecake",
+    "category": "Eiscreme",
+    "subcategories": ["Schokolade", "Cheesecake", "Sundae"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004068385",
+    "name": "Ben & Jerry's Sundae Oh My! Banoffee Pie!",
+    "category": "Eiscreme",
+    "subcategories": ["Sundae", "Banane", "Kuchen"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001684809",
+    "name": "Big Sandwich Multipack 6 Stück 840ml Packung 0,84 L",
+    "category": "Brot",
+    "subcategories": ["Sandwich"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002794330",
+    "name": "Bio Art Heumilcheis Erdbeere",
+    "category": "Eiscreme",
+    "subcategories": ["Bio", "Heumilch", "Erdbeere"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002794347",
+    "name": "Bio Art Heumilcheis Schokolade",
+    "category": "Eiscreme",
+    "subcategories": ["Bio", "Heumilch", "Schokolade"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002794361",
+    "name": "Bio Art Heumilcheis Vanille",
+    "category": "Eiscreme",
+    "subcategories": ["Bio", "Heumilch", "Vanille"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003461064",
+    "name": "Bio Art Hollerblüten Sorbet",
+    "category": "Eiscreme",
+    "subcategories": ["Bio", "Sorbet", "Hollerblüten"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004347787",
+    "name": "Bio Vegadellen Karotte & Paprika 4 Stück 180g Packung 180 G",
+    "category": "Vegan",
+    "subcategories": ["Gemüsebällchen", "Karotte", "Paprika"]
+  },
+  {
+    "store": "spar",
+    "id": "2020000946014",
+    "name": "Bebivita PRE Anfangsmilch Pre 500G",
+    "category": "Milchprodukte",
+    "subcategories": ["Anfangsmilch"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002740269",
+    "name": "Bebivita Reiswaffeln Himbeere-Joghurt 30G",
+    "category": "Snacks",
+    "subcategories": ["Reiswaffeln", "Himbeere", "Joghurt"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003614637",
+    "name": "Bio Power Häppchen rot 40 G",
+    "category": "Snacks",
+    "subcategories": ["Bio", "Power", "Häppchen"]
+  },
+  {
+    "store": "spar",
+    "id": "1275292",
+    "name": "Bergkräuter BIO Gewürzzubereitung Bratkartoffel 50g",
+    "category": "Gewürze",
+    "subcategories": ["Kräuter", "Gewürzzubereitung", "Bratkartoffel"]
+  },
+  {
+    "store": "spar",
+    "id": "5140220",
+    "name": "Bergkräuter Bio BIO Kümmel 50g",
+    "category": "Gewürze",
+    "subcategories": ["Kräuter", "Kümmel"]
+  },
+  {
+    "store": "spar",
+    "id": "5639199",
+    "name": "Bergkräuter Bio BIO Salatkräuter 25g",
+    "category": "Gewürze",
+    "subcategories": ["Kräuter", "Salatkräuter"]
+  },
+  {
+    "store": "spar",
+    "id": "5140404",
+    "name": "Bergkräuter Bio Brotgewürz 80g",
+    "category": "Gewürze",
+    "subcategories": ["Kräuter", "Brotgewürz"]
+  },
+  {
+    "store": "spar",
+    "id": "6087593",
+    "name": "Bergkräuter Bio Gewürzzubereitung Würzig für Hendl 50g",
+    "category": "Gewürze",
+    "subcategories": ["Kräuter", "Gewürzzubereitung", "Hendl"]
+  },
+  {
+    "store": "spar",
+    "id": "5140411",
+    "name": "Bergkräuter Bio Grill- & Bratgewürzzubereitung Fleisch 55g",
+    "category": "Gewürze",
+    "subcategories": [
+      "Kräuter",
+      "Gewürzzubereitung",
+      "Grill",
+      "Bratgewürz",
+      "Fleisch"
+    ]
+  },
+  {
+    "store": "spar",
+    "id": "1551167",
+    "name": "Bergkräuter Bio Koriander ganz 40g",
+    "category": "Gewürze",
+    "subcategories": ["Kräuter", "Koriander"]
+  },
+  {
+    "store": "spar",
+    "id": "4995685",
+    "name": "Bergkräuter Bio Kräuter-Gemüse Suppe 250g",
+    "category": "Suppen",
+    "subcategories": ["Kräuter-Gemüsesuppe"]
+  },
+  {
+    "store": "spar",
+    "id": "5140336",
+    "name": "Bergkräuter Bio Liebstöckel 20g",
+    "category": "Gewürze",
+    "subcategories": ["Kräuter", "Liebstöckel"]
+  },
+  {
+    "store": "spar",
+    "id": "5140251",
+    "name": "Bergkräuter Bio Oregano 20g",
+    "category": "Gewürze",
+    "subcategories": ["Kräuter", "Oregano"]
+  },
+  {
+    "store": "spar",
+    "id": "5140305",
+    "name": "Bergkräuter Bio Paprika edelsüß 50g",
+    "category": "Gewürze",
+    "subcategories": ["Kräuter", "Paprika"]
+  },
+  {
+    "store": "spar",
+    "id": "5140350",
+    "name": "Bergkräuter Bio Petersilie 25g",
+    "category": "Gewürze",
+    "subcategories": ["Kräuter", "Petersilie"]
+  },
+  {
+    "store": "spar",
+    "id": "5140398",
+    "name": "Bergkräuter Bio Pizzagewürz 40g",
+    "category": "Gewürze",
+    "subcategories": ["Kräuter", "Pizzagewürz"]
+  },
+  {
+    "store": "spar",
+    "id": "8180186",
+    "name": "Bergkräuter Bio Salz",
+    "category": "Gewürze",
+    "subcategories": ["Kräuter", "Salz"]
+  },
+  {
+    "store": "spar",
+    "id": "5140190",
+    "name": "Bergkräuter Bio Salz 120g Dose",
+    "category": "Gewürze",
+    "subcategories": ["Kräuter", "Salz"]
+  },
+  {
+    "store": "spar",
+    "id": "5140183",
+    "name": "Bergkräuter Bio Salz 80g Dose",
+    "category": "Gewürze",
+    "subcategories": ["Kräuter", "Salz"]
+  },
+  {
+    "store": "spar",
+    "id": "5140374",
+    "name": "Bergkräuter Bio Salz würzig",
+    "category": "Gewürze",
+    "subcategories": ["Kräuter", "Salz"]
+  },
+  {
+    "store": "spar",
+    "id": "5140367",
+    "name": "Bergkräuter Bio Schnittlauch 10g",
+    "category": "Gewürze",
+    "subcategories": ["Kräuter", "Schnittlauch"]
+  },
+  {
+    "store": "spar",
+    "id": "5140428",
+    "name": "Bergkräuter Bio Suppenkräuter fein gewürzt 35g",
+    "category": "Gewürze",
+    "subcategories": ["Kräuter", "Suppenkräuter"]
+  },
+  {
+    "store": "spar",
+    "id": "5140459",
+    "name": "Bergkräuter Bio Topfenkäsegewürz 40g",
+    "category": "Gewürze",
+    "subcategories": ["Kräuter", "Topfenkäse"]
+  },
+  {
+    "store": "spar",
+    "id": "1275766",
+    "name": "Bergkräuter Bohnenkraut 20g",
+    "category": "Gewürze",
+    "subcategories": ["Kräuter", "Bohnenkraut"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002965105",
+    "name": "Bergkräuter Curry mild",
+    "category": "Gewürze",
+    "subcategories": ["Kräuter", "Curry"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002964320",
+    "name": "Bergkräuter Dill",
+    "category": "Gewürze",
+    "subcategories": ["Kräuter", "Dill"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002965143",
+    "name": "Bergkräuter Gewürz Gemüse",
+    "category": "Gewürze",
+    "subcategories": ["Kräuter", "Gewürz", "Gemüse"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002965181",
+    "name": "Bergkräuter Gewürz für Rosmarinkartoffeln",
+    "category": "Gewürze",
+    "subcategories": ["Kräuter", "Gewürz", "Rosmarinkartoffeln"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002965235",
+    "name": "Bergkräuter Gewürz griechisch",
+    "category": "Gewürze",
+    "subcategories": ["Kräuter", "Gewürz", "Griechisch"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002965273",
+    "name": "Bergkräuter Gewürz mediterran",
+    "category": "Gewürze",
+    "subcategories": ["Kräuter", "Gewürz", "Mediterran"]
+  },
+  {
+    "store": "spar",
+    "id": "1275438",
+    "name": "Bergkräuter Gewürzzubereitung Kräuter-Dip 45g",
+    "category": "Gewürze",
+    "subcategories": ["Kräuter", "Gewürzzubereitung", "Dip"]
+  },
+  {
+    "store": "spar",
+    "id": "1549003",
+    "name": "Bergkräuter Gewürzzubereitung Faschiertes 50g",
+    "category": "Gewürze",
+    "subcategories": ["Kräuter", "Gewürzzubereitung", "Faschiertes"]
+  },
+  {
+    "store": "spar",
+    "id": "1550771",
+    "name": "Bergkräuter Gewürzzubereitung Gansl & Enten 50g",
+    "category": "Gewürze",
+    "subcategories": ["Kräuter", "Gewürzzubereitung", "Gans", "Ente"]
+  },
+  {
+    "store": "spar",
+    "id": "4995654",
+    "name": "Bergkräuter Gewürzzubereitung Gulasch 60g",
+    "category": "Gewürze",
+    "subcategories": ["Kräuter", "Gewürzzubereitung", "Gulasch"]
+  },
+  {
+    "store": "spar",
+    "id": "1550993",
+    "name": "Bergkräuter Gewürzzubereitung Knoblauchkräuterbutter 40g",
+    "category": "Gewürze",
+    "subcategories": [
+      "Kräuter",
+      "Gewürzzubereitung",
+      "Knoblauch",
+      "Kräuterbutter"
+    ]
+  },
+  {
+    "store": "spar",
+    "id": "1275629",
+    "name": "Bergkräuter Gewürzzubereitung Liptauer 60g",
+    "category": "Gewürze",
+    "subcategories": ["Kräuter", "Gewürzzubereitung", "Liptauer"]
+  },
+  {
+    "store": "spar",
+    "id": "1548938",
+    "name": "Bergkräuter Gewürzzubereitung Pasta 30g",
+    "category": "Gewürze",
+    "subcategories": ["Kräuter", "Gewürzzubereitung", "Pasta"]
+  },
+  {
+    "store": "spar",
+    "id": "7103711",
+    "name": "Bergkräuter Gewürzzubereitung für Schweinsbraten 60g",
+    "category": "Gewürze",
+    "subcategories": ["Kräuter", "Gewürzzubereitung", "Schweinsbraten"]
+  },
+  {
+    "store": "spar",
+    "id": "1550788",
+    "name": "Bergkräuter Grill- & Bratgewürzzubereitung Geflügel 60g",
+    "category": "Gewürze",
+    "subcategories": [
+      "Kräuter",
+      "Gewürzzubereitung",
+      "Grill",
+      "Bratgewürz",
+      "Geflügel"
+    ]
+  },
+  {
+    "store": "spar",
+    "id": "1551211",
+    "name": "Bergkräuter Grill- & Bratgewürzzubereitung Lamm 60g",
+    "category": "Gewürze",
+    "subcategories": [
+      "Kräuter",
+      "Gewürzzubereitung",
+      "Grill",
+      "Bratgewürz",
+      "Lamm"
+    ]
+  },
+  {
+    "store": "spar",
+    "id": "7530784",
+    "name": "Bergkräuter Ingwer geschnitten 50g",
+    "category": "Gewürze",
+    "subcategories": ["Kräuter", "Ingwer"]
+  },
+  {
+    "store": "spar",
+    "id": "7534867",
+    "name": "Bergkräuter Ingwerpulver 25g",
+    "category": "Gewürze",
+    "subcategories": ["Kräuter", "Ingwer"]
+  },
+  {
+    "store": "spar",
+    "id": "7538544",
+    "name": "Bergkräuter Krauseminze 10g",
+    "category": "Gewürze",
+    "subcategories": ["Kräuter", "Krauseminze"]
+  },
+  {
+    "store": "spar",
+    "id": "7103667",
+    "name": "Bergkräuter Lebkuchengewürz 50g",
+    "category": "Gewürze",
+    "subcategories": ["Kräuter", "Lebkuchen"]
+  },
+  {
+    "store": "spar",
+    "id": "7105050",
+    "name": "Bergkräuter Nelken 40g",
+    "category": "Gewürze",
+    "subcategories": ["Kräuter", "Nelken"]
+  },
+  {
+    "store": "spar",
+    "id": "1164701",
+    "name": "Bergkräuter Nussgeist 300g",
+    "category": "Spirituosen",
+    "subcategories": ["Nussgeist"]
+  },
+  {
+    "store": "spar",
+    "id": "1551303",
+    "name": "Bergkräuter Paprikasalz 200g",
+    "category": "Gewürze",
+    "subcategories": ["Kräuter", "Paprika", "Salz"]
+  },
+  {
+    "store": "spar",
+    "id": "7550126",
+    "name": "Bergkräuter Pfefferkörner bunt 50g",
+    "category": "Gewürze",
+    "subcategories": ["Kräuter", "Pfeffer"]
+  },
+  {
+    "store": "spar",
+    "id": "7103650",
+    "name": "Bergkräuter Sternanis 25g",
+    "category": "Gewürze",
+    "subcategories": ["Kräuter", "Sternanis"]
+  },
+  {
+    "store": "spar",
+    "id": "1548969",
+    "name": "Bergkräuter Thymian 25g",
+    "category": "Gewürze",
+    "subcategories": ["Kräuter", "Thymian"]
+  },
+  {
+    "store": "spar",
+    "id": "7535970",
+    "name": "Bergkräuter Wacholderbeeren 50g",
+    "category": "Gewürze",
+    "subcategories": ["Kräuter", "Wacholderbeeren"]
+  },
+  {
+    "store": "spar",
+    "id": "1548990",
+    "name": "Bergkräuter Ziegenkäsegewürz 40g",
+    "category": "Gewürze",
+    "subcategories": ["Kräuter", "Ziegenkäse"]
+  },
+  {
+    "store": "spar",
+    "id": "2656786",
+    "name": "Beelux Blütenhonig der Elegante",
+    "category": "Honig",
+    "subcategories": ["Blütenhonig"]
+  },
+  {
+    "store": "spar",
+    "id": "2656779",
+    "name": "Beelux Blütenhonig der Exquisite",
+    "category": "Honig",
+    "subcategories": ["Blütenhonig"]
+  },
+  {
+    "store": "spar",
+    "id": "2656755",
+    "name": "Beelux Blütenhonig der Verlockende",
+    "category": "Honig",
+    "subcategories": ["Blütenhonig"]
+  },
+  {
+    "store": "spar",
+    "id": "2656656",
+    "name": "Beelux Blütenhonig der Zärtliche",
+    "category": "Honig",
+    "subcategories": ["Blütenhonig"]
+  },
+  {
+    "store": "spar",
+    "id": "3478486",
+    "name": "Bergland-Honig Echter Bienenhonig",
+    "category": "Honig",
+    "subcategories": ["Bienenhonig"]
+  },
+  {
+    "store": "spar",
+    "id": "5673865",
+    "name": "Bensdorp Milchschokolade",
+    "category": "Schokolade",
+    "subcategories": ["Milchschokolade"]
+  },
+  {
+    "store": "spar",
+    "id": "5673940",
+    "name": "Bensdorp Milchschokolade Erdbeer-Rahm",
+    "category": "Schokolade",
+    "subcategories": ["Milchschokolade", "Erdbeer", "Rahm"]
+  },
+  {
+    "store": "spar",
+    "id": "5673971",
+    "name": "Bensdorp Milchschokolade Kokos mit Rumgeschmack",
+    "category": "Schokolade",
+    "subcategories": ["Milchschokolade", "Kokos", "Rum"]
+  },
+  {
+    "store": "spar",
+    "id": "5673964",
+    "name": "Bensdorp Milchschokolade Nougat-Krokant",
+    "category": "Schokolade",
+    "subcategories": ["Milchschokolade", "Nougat", "Krokant"]
+  },
+  {
+    "store": "spar",
+    "id": "6931780",
+    "name": "Bekra Mineral Achsel Roll-On Sensitiv 50ml",
+    "category": "Körperpflege",
+    "subcategories": ["Deodorant", "Sensitiv"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001206704",
+    "name": "Bekra Mineral Achsel-Spray Sensitiv 100ml",
+    "category": "Körperpflege",
+    "subcategories": ["Deodorant", "Sensitiv"]
+  },
+  {
+    "store": "spar",
+    "id": "2020000527268",
+    "name": "Bekra Mineral Achselspray Mikrofein 150ml",
+    "category": "Körperpflege",
+    "subcategories": ["Deodorant", "Mikrofein"]
+  },
+  {
+    "store": "spar",
+    "id": "229517",
+    "name": "Bekra Mineral Deo-Kristall 100g",
+    "category": "Körperpflege",
+    "subcategories": ["Deodorant", "Kristall"]
+  },
+  {
+    "store": "spar",
+    "id": "6931773",
+    "name": "Bekra Mineral Deo-Kristall 50g",
+    "category": "Körperpflege",
+    "subcategories": ["Deodorant", "Kristall"]
+  },
+  {
+    "store": "spar",
+    "id": "8185556",
+    "name": "Bellawa Cosmetic Pads 100 Stück",
+    "category": "Kosmetik",
+    "subcategories": ["Kosmetikpads"]
+  },
+  {
+    "store": "spar",
+    "id": "176798",
+    "name": "Bellawa Maxi Pads 50 Stück",
+    "category": "Kosmetik",
+    "subcategories": ["Maxi-Pads"]
+  },
+  {
+    "store": "spar",
+    "id": "394918",
+    "name": "Bellawa Wattestäbchen natural 200 Stück",
+    "category": "Kosmetik",
+    "subcategories": ["Wattestäbchen"]
+  },
+  {
+    "store": "spar",
+    "id": "2020000508328",
+    "name": "Billy Boy Gleitgel 200ml",
+    "category": "Kondome",
+    "subcategories": ["Gleitgel"]
+  },
+  {
+    "store": "spar",
+    "id": "2020000508212",
+    "name": "Billy Boy Kondome Aromatisiert 6 Stück",
+    "category": "Kondome",
+    "subcategories": ["Aromatisiert"]
+  },
+  {
+    "store": "spar",
+    "id": "2020000507246",
+    "name": "Billy Boy Kondome Bunte Vielfalt 12 Stück",
+    "category": "Kondome",
+    "subcategories": ["Bunte Vielfalt"]
+  },
+  {
+    "store": "spar",
+    "id": "2020000508250",
+    "name": "Billy Boy Kondome Extra Feucht 6 Stück",
+    "category": "Kondome",
+    "subcategories": ["Extra Feucht"]
+  },
+  {
+    "store": "spar",
+    "id": "2020000866145",
+    "name": "Billy Boy Kondome Extra Groß 6 Stück",
+    "category": "Kondome",
+    "subcategories": ["Extra Groß"]
+  },
+  {
+    "store": "spar",
+    "id": "2020000508052",
+    "name": "Billy Boy Kondome Länger Lieben 12 Stück",
+    "category": "Kondome",
+    "subcategories": ["Länger Lieben"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004327925",
+    "name": "Bio Abfalleimer Bio Abfalleimer 3L GVE 6",
+    "category": "Haushalt",
+    "subcategories": ["Abfalleimer"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003975066",
+    "name": "Beneful Hundefutter Huhn & Gemüse",
+    "category": "Tierbedarf",
+    "subcategories": ["Hundefutter", "Huhn", "Gemüse"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004612977",
+    "name": "Beneful Hundetrockennahrung Huhn & Gemüse 2,8kg",
+    "category": "Tierbedarf",
+    "subcategories": ["Hundefutter", "Huhn", "Gemüse", "Trockennahrung"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004612946",
+    "name": "Beneful Hundetrockennahrung Rind & Gemüse 2,8kg",
+    "category": "Tierbedarf",
+    "subcategories": ["Hundefutter", "Rind", "Gemüse", "Trockennahrung"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003975127",
+    "name": "Beneful Kleine Genießer Hundefutter Huhn Süßkartoffel",
+    "category": "Tierbedarf",
+    "subcategories": ["Hundefutter", "Huhn", "Süßkartoffel"]
+  },
+  {
+    "store": "spar",
+    "id": "7888038",
+    "name": "Beneful Kleine Genießer Hundefutter mit Rind",
+    "category": "Tierbedarf",
+    "subcategories": ["Hundefutter", "Rind"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003493393",
+    "name": "Beneful Original Hundefutter Huhn Süßkartoffel",
+    "category": "Tierbedarf",
+    "subcategories": ["Hundefutter", "Huhn", "Süßkartoffel"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004178862",
+    "name": "Beneful Original Hundefutter Rind Gartengemüse",
+    "category": "Tierbedarf",
+    "subcategories": ["Hundefutter", "Rind", "Gemüse"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004178879",
+    "name": "Beneful Wohlfühlgewicht Hundefutter Huhn Gartengemüse",
+    "category": "Tierbedarf",
+    "subcategories": ["Hundefutter", "Huhn", "Gemüse", "Wohlfühlgewicht"]
+  },
+  {
+    "store": "spar",
+    "id": "4255420",
+    "name": "Bio Dog Hundefutter Fisch 300 g",
+    "category": "Tierbedarf",
+    "subcategories": ["Hundefutter", "Fisch"]
+  },
+  {
+    "store": "spar",
+    "id": "1630923",
+    "name": "Bio Dog Hundefutter Geflügel",
+    "category": "Tierbedarf",
+    "subcategories": ["Hundefutter", "Geflügel"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003783685",
+    "name": "Bio Dog Hundefutter Kalb",
+    "category": "Tierbedarf",
+    "subcategories": ["Hundefutter", "Kalb"]
+  },
+  {
+    "store": "spar",
+    "id": "2675671",
+    "name": "Bio Dog Hundefutter Lamm 300 g",
+    "category": "Tierbedarf",
+    "subcategories": ["Hundefutter", "Lamm"]
+  },
+  {
+    "store": "spar",
+    "id": "1630947",
+    "name": "Bio Dog Hundefutter Rind",
+    "category": "Tierbedarf",
+    "subcategories": ["Hundefutter", "Rind"]
+  }
+]

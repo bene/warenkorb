@@ -1,0 +1,700 @@
+[
+  {
+    "store": "lidl",
+    "id": 28264,
+    "name": "Sol&Mar Pudding",
+    "category": "Dessert",
+    "subcategories": ["Pudding", "Nachspeise"]
+  },
+  {
+    "store": "lidl",
+    "id": 5700155,
+    "name": "Sol&Mar Runde Magdalenas",
+    "category": "Gebäck",
+    "subcategories": ["Magdalenas", "Kuchen"]
+  },
+  {
+    "store": "lidl",
+    "id": 5710186,
+    "name": "Sol&Mar Sardellen im Teigmantel",
+    "category": "Fisch",
+    "subcategories": ["Sardellen", "Teigmantel"]
+  },
+  {
+    "store": "lidl",
+    "id": 5900161,
+    "name": "Sol&Mar Sardinen",
+    "category": "Fisch",
+    "subcategories": ["Sardinen"]
+  },
+  {
+    "store": "lidl",
+    "id": 7005818,
+    "name": "Sol&Mar Thunfisch Skipjack",
+    "category": "Fisch",
+    "subcategories": ["Thunfisch", "Skipjack"]
+  },
+  {
+    "store": "lidl",
+    "id": 5705630,
+    "name": "Sol&Mar Tintenfischringe im Backteig",
+    "category": "Fisch",
+    "subcategories": ["Tintenfischringe", "Backteig"]
+  },
+  {
+    "store": "lidl",
+    "id": 5701651,
+    "name": "Sol&Mar Tomatensauce",
+    "category": "Soße",
+    "subcategories": ["Tomatensauce"]
+  },
+  {
+    "store": "lidl",
+    "id": 5701693,
+    "name": "Sol&Mar Tortilla",
+    "category": "Brot",
+    "subcategories": ["Tortilla", "Fladenbrot"]
+  },
+  {
+    "store": "lidl",
+    "id": 135133,
+    "name": "Sol&Mar Zitronen-Limonade",
+    "category": "Getränk",
+    "subcategories": ["Zitronen-Limonade", "Erfrischungsgetränk"]
+  },
+  {
+    "store": "lidl",
+    "id": 825921,
+    "name": "Spitzpaprika Mix aus dem Burgenland",
+    "category": "Gemüse",
+    "subcategories": ["Paprika", "Burgenland"]
+  },
+  {
+    "store": "lidl",
+    "id": 20404,
+    "name": "Stachelbeeren aus der Steiermark",
+    "category": "Obst",
+    "subcategories": ["Stachelbeeren", "Steiermark"]
+  },
+  {
+    "store": "lidl",
+    "id": 178642,
+    "name": "Steinofenbaguette",
+    "category": "Brot",
+    "subcategories": ["Baguette"]
+  },
+  {
+    "store": "lidl",
+    "id": 222420,
+    "name": "Stiegl Grapefruit Radler",
+    "category": "Getränk",
+    "subcategories": ["Bier", "Radler", "Grapefruit"]
+  },
+  {
+    "store": "lidl",
+    "id": 236678,
+    "name": "Strongbow Cider",
+    "category": "Getränk",
+    "subcategories": ["Cider", "Apfelwein"]
+  },
+  {
+    "store": "lidl",
+    "id": 70057461,
+    "name": "Süße Brezel",
+    "category": "Gebäck",
+    "subcategories": ["Brezel", "Süß"]
+  },
+  {
+    "store": "lidl",
+    "id": 441938,
+    "name": "TRAMONTINA Küchenmesser",
+    "category": "Küchenutensilien",
+    "subcategories": ["Küchenmesser", "Messer"]
+  },
+  {
+    "store": "lidl",
+    "id": 22101156,
+    "name": "Tagliatelle",
+    "category": "Nudeln",
+    "subcategories": ["Tagliatelle", "Pasta"]
+  },
+  {
+    "store": "lidl",
+    "id": 22101106,
+    "name": "Tapas Garnelen mit Dip",
+    "category": "Fertiggerichte",
+    "subcategories": ["Tapas", "Garnelen", "Dip"]
+  },
+  {
+    "store": "lidl",
+    "id": 5009859,
+    "name": "Thai Chicken",
+    "category": "Fertiggerichte",
+    "subcategories": ["Thai Chicken", "Asiatisch"]
+  },
+  {
+    "store": "lidl",
+    "id": 22101128,
+    "name": "Tiramisù",
+    "category": "Dessert",
+    "subcategories": ["Tiramisù"]
+  },
+  {
+    "store": "lidl",
+    "id": 22101126,
+    "name": "Topfen-Joghurt Dessert im Glas",
+    "category": "Dessert",
+    "subcategories": ["Topfen-Joghurt Dessert"]
+  },
+  {
+    "store": "lidl",
+    "id": 373696,
+    "name": "Toscana Bonissima Salsiccia - Italienische Bratwurst",
+    "category": "Wurst",
+    "subcategories": ["Salsiccia", "Bratwurst", "Italienisch"]
+  },
+  {
+    "store": "lidl",
+    "id": 22101131,
+    "name": "Trüffel oder schokolierte Früchte",
+    "category": "Süßigkeiten",
+    "subcategories": ["Trüffel", "Schokolierte Früchte", "Süßigkeiten"]
+  },
+  {
+    "store": "lidl",
+    "id": 2587001,
+    "name": "VEMONDO Barista Haferdrink",
+    "category": "Getränk",
+    "subcategories": ["Haferdrink"]
+  },
+  {
+    "store": "lidl",
+    "id": 2658461,
+    "name": "VEMONDO Bio Hafer Joghurtalternative",
+    "category": "Joghurt",
+    "subcategories": ["Hafer Joghurtalternative"]
+  },
+  {
+    "store": "lidl",
+    "id": 2224421,
+    "name": "VEMONDO Bio Haferdrink",
+    "category": "Getränk",
+    "subcategories": ["Haferdrink"]
+  },
+  {
+    "store": "lidl",
+    "id": 5006802,
+    "name": "VEMONDO Bio Kokos Joghurtalternative",
+    "category": "Joghurt",
+    "subcategories": ["Kokos Joghurtalternative"]
+  },
+  {
+    "store": "lidl",
+    "id": 171736,
+    "name": "VEMONDO Bio Kokosdrink mit Reis",
+    "category": "Getränk",
+    "subcategories": ["Kokosdrink", "Reis"]
+  },
+  {
+    "store": "lidl",
+    "id": 2362251,
+    "name": "VEMONDO Bio Mandeldrink",
+    "category": "Getränk",
+    "subcategories": ["Mandeldrink"]
+  },
+  {
+    "store": "lidl",
+    "id": 203164,
+    "name": "VEMONDO Bio Sojadrink",
+    "category": "Getränk",
+    "subcategories": ["Sojadrink"]
+  },
+  {
+    "store": "lidl",
+    "id": 160245,
+    "name": "VEMONDO Kokosdessert",
+    "category": "Dessert",
+    "subcategories": ["Kokosdessert"]
+  },
+  {
+    "store": "lidl",
+    "id": 165197,
+    "name": "VEMONDO Sojagurt",
+    "category": "Joghurt",
+    "subcategories": ["Sojagurt"]
+  },
+  {
+    "store": "lidl",
+    "id": 202448,
+    "name": "Valensina Frühstückssaft",
+    "category": "Getränk",
+    "subcategories": ["Frühstückssaft", "Saft"]
+  },
+  {
+    "store": "lidl",
+    "id": 9991,
+    "name": "Vegini Bratwurst",
+    "category": "Wurst",
+    "subcategories": ["Bratwurst", "Vegan"]
+  },
+  {
+    "store": "lidl",
+    "id": 77000381,
+    "name": "Vegini Veganer Burger",
+    "category": "Burger",
+    "subcategories": ["Veganer Burger"]
+  },
+  {
+    "store": "lidl",
+    "id": 2031642,
+    "name": "Vemondo Bio Soja Drink",
+    "category": "Getränk",
+    "subcategories": ["Soja Drink"]
+  },
+  {
+    "store": "lidl",
+    "id": 152468,
+    "name": "Vemondo Vegane Eisbecher",
+    "category": "Eis",
+    "subcategories": ["Veganes Eis"]
+  },
+  {
+    "store": "lidl",
+    "id": 2677561,
+    "name": "Vemondo Veganes Eis",
+    "category": "Eis",
+    "subcategories": ["Veganes Eis"]
+  },
+  {
+    "store": "lidl",
+    "id": 254389,
+    "name": "Villacher Radler Naturtrüb",
+    "category": "Getränk",
+    "subcategories": ["Radler"]
+  },
+  {
+    "store": "lidl",
+    "id": 113561,
+    "name": "Vita D'or Rapsöl",
+    "category": "Öl",
+    "subcategories": ["Rapsöl"]
+  },
+  {
+    "store": "lidl",
+    "id": 235242,
+    "name": "Vita D'or Sonnenblumenöl",
+    "category": "Öl",
+    "subcategories": ["Sonnenblumenöl"]
+  },
+  {
+    "store": "lidl",
+    "id": 70046813,
+    "name": "WEINGUT PFAFFL Chardonnay Selection",
+    "category": "Wein",
+    "subcategories": ["Chardonnay", "Wein"]
+  },
+  {
+    "store": "lidl",
+    "id": 7004682,
+    "name": "WEINGUT PFAFFL Grüner Veltliner Weinviertel DAC Selection",
+    "category": "Wein",
+    "subcategories": ["Grüner Veltliner", "Wein"]
+  },
+  {
+    "store": "lidl",
+    "id": 70046803,
+    "name": "WEINGUT PFAFFL Muskateller Selection",
+    "category": "Wein",
+    "subcategories": ["Muskateller", "Wein"]
+  },
+  {
+    "store": "lidl",
+    "id": 70045993,
+    "name": "WEINGUT PFAFFL Zweigelt Selection",
+    "category": "Wein",
+    "subcategories": ["Zweigelt", "Wein"]
+  },
+  {
+    "store": "lidl",
+    "id": 416843,
+    "name": "WENKO® Abzieher",
+    "category": "Haushaltswaren",
+    "subcategories": ["Abzieher"]
+  },
+  {
+    "store": "lidl",
+    "id": 12345,
+    "name": "WENKO® Spülorganizer",
+    "category": "Haushaltswaren",
+    "subcategories": ["Spülorganizer"]
+  },
+  {
+    "store": "lidl",
+    "id": 201175,
+    "name": "WIESENTALER Bernerwürstel",
+    "category": "Wurst",
+    "subcategories": ["Bernerwürstel"]
+  },
+  {
+    "store": "lidl",
+    "id": 2276171,
+    "name": "WIESENTALER Bratenaufschnitt",
+    "category": "Wurst",
+    "subcategories": ["Bratenaufschnitt"]
+  },
+  {
+    "store": "lidl",
+    "id": 549975,
+    "name": "WIESENTALER Bratwurst",
+    "category": "Wurst",
+    "subcategories": ["Bratwurst"]
+  },
+  {
+    "store": "lidl",
+    "id": 3025064,
+    "name": "WIESENTALER Bratwürstel oder Kasbratler",
+    "category": "Wurst",
+    "subcategories": ["Bratwürstel", "Kasbratler"]
+  },
+  {
+    "store": "lidl",
+    "id": 2083371,
+    "name": "WIESENTALER Braunschweiger",
+    "category": "Wurst",
+    "subcategories": ["Braunschweiger"]
+  },
+  {
+    "store": "lidl",
+    "id": 2002741,
+    "name": "WIESENTALER Feine Extrawurst",
+    "category": "Wurst",
+    "subcategories": ["Extrawurst"]
+  },
+  {
+    "store": "lidl",
+    "id": 2009451,
+    "name": "WIESENTALER Frankfurter nach Landmetzger Art",
+    "category": "Wurst",
+    "subcategories": ["Frankfurter"]
+  },
+  {
+    "store": "lidl",
+    "id": 9991234,
+    "name": "WIESENTALER Frische Bauchstreifen mariniert",
+    "category": "Fleisch",
+    "subcategories": ["Frische Bauchstreifen", "mariniert"]
+  },
+  {
+    "store": "lidl",
+    "id": 2013821,
+    "name": "WIESENTALER Frische Bratwurst",
+    "category": "Wurst",
+    "subcategories": ["Bratwurst"]
+  },
+  {
+    "store": "lidl",
+    "id": 2583605,
+    "name": "WIESENTALER Frische Burger Patties",
+    "category": "Burger",
+    "subcategories": ["Burger", "Patties"]
+  },
+  {
+    "store": "lidl",
+    "id": 227957,
+    "name": "WIESENTALER Frische Cevapcici",
+    "category": "Fleisch",
+    "subcategories": ["Cevapcici"]
+  },
+  {
+    "store": "lidl",
+    "id": 229456,
+    "name": "WIESENTALER Frische Hamburger Patties",
+    "category": "Burger",
+    "subcategories": ["Hamburger", "Patties"]
+  },
+  {
+    "store": "lidl",
+    "id": 2552981,
+    "name": "WIESENTALER Frische Hendl Brustfilets",
+    "category": "Fleisch",
+    "subcategories": ["Hendl Brustfilets"]
+  },
+  {
+    "store": "lidl",
+    "id": 2040731,
+    "name": "WIESENTALER Frische Hendl Brustfilets",
+    "category": "Fleisch",
+    "subcategories": ["Hendl Brustfilets"]
+  },
+  {
+    "store": "lidl",
+    "id": 207553,
+    "name": "WIESENTALER Frische Hendl Flügerl",
+    "category": "Fleisch",
+    "subcategories": ["Hendl", "Flügerl"]
+  },
+  {
+    "store": "lidl",
+    "id": 2057081,
+    "name": "WIESENTALER Frische Hendl Grillplatte",
+    "category": "Fleisch",
+    "subcategories": ["Hendl", "Grillplatte"]
+  },
+  {
+    "store": "lidl",
+    "id": 2001231,
+    "name": "WIESENTALER Frische Hendl Keulen",
+    "category": "Fleisch",
+    "subcategories": ["Hendl Keulen"]
+  },
+  {
+    "store": "lidl",
+    "id": 2400471,
+    "name": "WIESENTALER Frische Hendl Keulenfilets",
+    "category": "Fleisch",
+    "subcategories": ["Hendl Keulenfilets"]
+  },
+  {
+    "store": "lidl",
+    "id": 2191601,
+    "name": "WIESENTALER Frische Hendl Mini-Steaks",
+    "category": "Fleisch",
+    "subcategories": ["Hendl Mini-Steaks"]
+  },
+  {
+    "store": "lidl",
+    "id": 2034923,
+    "name": "WIESENTALER Frische Hendl Minutenschnitzel",
+    "category": "Fleisch",
+    "subcategories": ["Hendl Minutenschnitzel"]
+  },
+  {
+    "store": "lidl",
+    "id": 9991235,
+    "name": "WIESENTALER Frische Hendl Ober- oder Unterkeulen gewürzt",
+    "category": "Fleisch",
+    "subcategories": ["Hendl Ober- oder Unterkeulen", "gewürzt"]
+  },
+  {
+    "store": "lidl",
+    "id": 25462611,
+    "name": "WIESENTALER Frische Hendl Ober-/Unterkeulen gewürzt",
+    "category": "Fleisch",
+    "subcategories": ["Hendl Ober-/Unterkeulen", "gewürzt"]
+  },
+  {
+    "store": "lidl",
+    "id": 2013371,
+    "name": "WIESENTALER Frische Hendl Oberkeulen",
+    "category": "Fleisch",
+    "subcategories": ["Hendl Oberkeulen"]
+  },
+  {
+    "store": "lidl",
+    "id": 2221921,
+    "name": "WIESENTALER Frische Hendl Oberkeulen",
+    "category": "Fleisch",
+    "subcategories": ["Hendl Oberkeulen"]
+  },
+  {
+    "store": "lidl",
+    "id": 2040721,
+    "name": "WIESENTALER Frische Hendl Unterkeulen",
+    "category": "Fleisch",
+    "subcategories": ["Hendl Unterkeulen"]
+  },
+  {
+    "store": "lidl",
+    "id": 2400472,
+    "name": "WIESENTALER Frische Hendl-Keulenfilets",
+    "category": "Fleisch",
+    "subcategories": ["Hendl-Keulenfilets"]
+  },
+  {
+    "store": "lidl",
+    "id": 30250,
+    "name": "WIESENTALER Frische Hendl-Spieße",
+    "category": "Fleisch",
+    "subcategories": ["Hendl-Spieße"]
+  },
+  {
+    "store": "lidl",
+    "id": 3345639,
+    "name": "WIESENTALER Frische Hendlfilet-Schnitzel mariniert",
+    "category": "Fleisch",
+    "subcategories": ["Hendlfilet-Schnitzel", "mariniert"]
+  },
+  {
+    "store": "lidl",
+    "id": 207554,
+    "name": "WIESENTALER Frische Karree koteletts mariniert",
+    "category": "Fleisch",
+    "subcategories": ["Karree koteletts", "mariniert"]
+  },
+  {
+    "store": "lidl",
+    "id": 443880,
+    "name": "WIESENTALER Frische Karree- oder Schopfsteaks mariniert",
+    "category": "Fleisch",
+    "subcategories": ["Karree- oder Schopfsteaks", "mariniert"]
+  },
+  {
+    "store": "lidl",
+    "id": 9991231,
+    "name": "WIESENTALER Frische Karree-Koteletts mariniert",
+    "category": "Fleisch",
+    "subcategories": ["Karree-Koteletts", "mariniert"]
+  },
+  {
+    "store": "lidl",
+    "id": 580380,
+    "name": "WIESENTALER Frische Karreesteaks, Schopfsteaks oder Bauchstreifen mariniert",
+    "category": "Fleisch",
+    "subcategories": [
+      "Karreesteaks",
+      "Schopfsteaks",
+      "Bauchstreifen",
+      "mariniert"
+    ]
+  },
+  {
+    "store": "lidl",
+    "id": 2391942,
+    "name": "WIESENTALER Frische Minutensteaks vom Rind",
+    "category": "Fleisch",
+    "subcategories": ["Minutensteaks", "Rind"]
+  },
+  {
+    "store": "lidl",
+    "id": 2385261,
+    "name": "WIESENTALER Frische Puten Brustfilets",
+    "category": "Fleisch",
+    "subcategories": ["Puten Brustfilets"]
+  },
+  {
+    "store": "lidl",
+    "id": 70021572,
+    "name": "WIESENTALER Frische Puten Schnitzel",
+    "category": "Fleisch",
+    "subcategories": ["Puten Schnitzel"]
+  },
+  {
+    "store": "lidl",
+    "id": 70021562,
+    "name": "WIESENTALER Frische Puten Steaks",
+    "category": "Fleisch",
+    "subcategories": ["Puten Steaks"]
+  },
+  {
+    "store": "lidl",
+    "id": 255200,
+    "name": "WIESENTALER Frische Schweins-Schnitzel geschnitten",
+    "category": "Fleisch",
+    "subcategories": ["Schweins-Schnitzel", "geschnitten"]
+  },
+  {
+    "store": "lidl",
+    "id": 2002504,
+    "name": "WIESENTALER Frisches Hendl",
+    "category": "Fleisch",
+    "subcategories": ["Frisches Hendl"]
+  },
+  {
+    "store": "lidl",
+    "id": 265853,
+    "name": "WIESENTALER Frisches Hendl",
+    "category": "Fleisch",
+    "subcategories": ["Frisches Hendl"]
+  },
+  {
+    "store": "lidl",
+    "id": 7001095,
+    "name": "WIESENTALER Frisches Hendl Geschnetzeltes",
+    "category": "Fleisch",
+    "subcategories": ["Frisches Hendl", "Geschnetzeltes"]
+  },
+  {
+    "store": "lidl",
+    "id": 70010951,
+    "name": "WIESENTALER Frisches Hendl Geschnetzeltes natur",
+    "category": "Fleisch",
+    "subcategories": ["Frisches Hendl", "Geschnetzeltes", "natur"]
+  },
+  {
+    "store": "lidl",
+    "id": 591161,
+    "name": "WIESENTALER Frisches Rib-Eye oder Rump Steak",
+    "category": "Fleisch",
+    "subcategories": ["Frisches Rib-Eye", "Rump Steak"]
+  },
+  {
+    "store": "lidl",
+    "id": 70014131,
+    "name": "WIESENTALER Frisches Rindsgulaschfleisch",
+    "category": "Fleisch",
+    "subcategories": ["Frisches Rindsgulaschfleisch"]
+  },
+  {
+    "store": "lidl",
+    "id": 201279,
+    "name": "WIESENTALER Grillparty Mix",
+    "category": "Wurst",
+    "subcategories": ["Grillparty Mix"]
+  },
+  {
+    "store": "lidl",
+    "id": 7001755,
+    "name": "WIESENTALER Hühneraufschnitt",
+    "category": "Wurst",
+    "subcategories": ["Hühneraufschnitt"]
+  },
+  {
+    "store": "lidl",
+    "id": 2070041,
+    "name": "WIESENTALER Jausenwurst",
+    "category": "Wurst",
+    "subcategories": ["Jausenwurst"]
+  },
+  {
+    "store": "lidl",
+    "id": 2002721,
+    "name": "WIESENTALER Knacker",
+    "category": "Wurst",
+    "subcategories": ["Knacker"]
+  },
+  {
+    "store": "lidl",
+    "id": 2276091,
+    "name": "WIESENTALER Knoferl",
+    "category": "Wurst",
+    "subcategories": ["Knoferl"]
+  },
+  {
+    "store": "lidl",
+    "id": 3659175,
+    "name": "WIESENTALER Käsekrainer",
+    "category": "Wurst",
+    "subcategories": ["Käsekrainer"]
+  },
+  {
+    "store": "lidl",
+    "id": 4261547,
+    "name": "WIESENTALER Mini Würstel",
+    "category": "Wurst",
+    "subcategories": ["Mini Würstel"]
+  },
+  {
+    "store": "lidl",
+    "id": 518134,
+    "name": "WIESENTALER Putenwürstel",
+    "category": "Wurst",
+    "subcategories": ["Putenwürstel"]
+  },
+  {
+    "store": "lidl",
+    "id": 200829,
+    "name": "WIESENTALER Saletti",
+    "category": "Wurst",
+    "subcategories": ["Saletti"]
+  }
+]

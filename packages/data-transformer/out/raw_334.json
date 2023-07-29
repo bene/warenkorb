@@ -1,0 +1,704 @@
+{
+  "products": [
+    {
+      "store": "spar",
+      "id": "2020003093418",
+      "name": "Head&Shoulders Anti-Schuppen Shampoo Tiefenpflege 300ml",
+      "category": "Haarpflege",
+      "subcategories": ["Anti-Schuppen Shampoo", "Tiefenpflege"]
+    },
+    {
+      "store": "spar",
+      "id": "2020004104151",
+      "name": "Head&Shoulders Derma X Pro Anti-Schuppen Shampoo Beruhigend 225 ml",
+      "category": "Haarpflege",
+      "subcategories": ["Anti-Schuppen Shampoo", "Beruhigend"]
+    },
+    {
+      "store": "spar",
+      "id": "2020004104212",
+      "name": "Head&Shoulders Derma X Pro Anti-Schuppen Shampoo Repair 225 ml",
+      "category": "Haarpflege",
+      "subcategories": ["Anti-Schuppen Shampoo", "Repair"]
+    },
+    {
+      "store": "spar",
+      "id": "2020004104175",
+      "name": "Head&Shoulders Derma X Pro Anti-Schuppen Shampoo Tiefenwirksame Feuchtigkeit 225 ml",
+      "category": "Haarpflege",
+      "subcategories": ["Anti-Schuppen Shampoo", "Tiefenwirksame Feuchtigkeit"]
+    },
+    {
+      "store": "spar",
+      "id": "2020004104274",
+      "name": "Head&Shoulders Derma X Pro Kopfhautmaske Aufbauende Pflege 145 ml",
+      "category": "Haarpflege",
+      "subcategories": ["Kopfhautmaske", "Aufbauende Pflege"]
+    },
+    {
+      "store": "spar",
+      "id": "2020004104236",
+      "name": "Head&Shoulders Derma X Pro Kopfhautmaske Beruhigend 145 ml",
+      "category": "Haarpflege",
+      "subcategories": ["Kopfhautmaske", "Beruhigend"]
+    },
+    {
+      "store": "spar",
+      "id": "2020004104090",
+      "name": "Head&Shoulders Derma X Pro Pflegespülung Beruhigend 200 ml",
+      "category": "Haarpflege",
+      "subcategories": ["Pflegespülung", "Beruhigend"]
+    },
+    {
+      "store": "spar",
+      "id": "2020004104113",
+      "name": "Head&Shoulders Derma X Pro Pflegespülung Repair 200 ml",
+      "category": "Haarpflege",
+      "subcategories": ["Pflegespülung", "Repair"]
+    },
+    {
+      "store": "spar",
+      "id": "2020004104106",
+      "name": "Head&Shoulders Derma X Pro Pflegespülung Tiefenwirksame Feuchtigkeit 200 ml",
+      "category": "Haarpflege",
+      "subcategories": ["Pflegespülung", "Tiefenwirksame Feuchtigkeit"]
+    },
+    {
+      "store": "spar",
+      "id": "1002485",
+      "name": "Head&Shoulders For Men Anti-Schuppen Shampoo 500ml",
+      "category": "Haarpflege",
+      "subcategories": ["Anti-Schuppen Shampoo", "Männer"]
+    },
+    {
+      "store": "spar",
+      "id": "2020002918323",
+      "name": "Head&Shoulders Shampoo & Spülung Apple Fresh 250ml",
+      "category": "Haarpflege",
+      "subcategories": ["Shampoo & Spülung", "Frischer Apfelduft"]
+    },
+    {
+      "store": "spar",
+      "id": "2020002914455",
+      "name": "Head&Shoulders Shampoo & Spülung Classic Clean 250ml",
+      "category": "Haarpflege",
+      "subcategories": ["Shampoo & Spülung", "Klassische Reinigung"]
+    },
+    {
+      "store": "spar",
+      "id": "2020003710766",
+      "name": "Heftbox A4 Butterfly Heftbox A4     Butterfly        GVE 6",
+      "category": "Schulbedarf",
+      "subcategories": ["Heftbox", "Butterfly"]
+    },
+    {
+      "store": "spar",
+      "id": "2020003710759",
+      "name": "Heftbox A4 Jurassic World Heftbox A4     Jurassic World   GVE 6",
+      "category": "Schulbedarf",
+      "subcategories": ["Heftbox", "Jurassic World"]
+    },
+    {
+      "store": "spar",
+      "id": "2020004160881",
+      "name": "Heftbox A4 Minnie Mouse Heftbox A4     Minnie Mouse     GVE 6",
+      "category": "Schulbedarf",
+      "subcategories": ["Heftbox", "Minnie Mouse"]
+    },
+    {
+      "store": "spar",
+      "id": "2020002868314",
+      "name": "Heftbox A4 Pegasus Heftbox A4      Pegasus         GVE 6",
+      "category": "Schulbedarf",
+      "subcategories": ["Heftbox", "Pegasus"]
+    },
+    {
+      "store": "spar",
+      "id": "2020003710780",
+      "name": "Heftbox A4 Spiderman Heftbox A4     Spiderman        GVE 6",
+      "category": "Schulbedarf",
+      "subcategories": ["Heftbox", "Spiderman"]
+    },
+    {
+      "store": "spar",
+      "id": "5062171",
+      "name": "Heftschoner A4 orange Heftumschlag A4orange           GVE 25",
+      "category": "Schulbedarf",
+      "subcategories": ["Heftschoner", "Orange"]
+    },
+    {
+      "store": "spar",
+      "id": "5062164",
+      "name": "Heftschoner A5 orange Heftumschlag A5orange           GVE 25",
+      "category": "Schulbedarf",
+      "subcategories": ["Heftschoner", "Orange"]
+    },
+    {
+      "store": "spar",
+      "id": "3374221",
+      "name": "Heftschoner A5, quer Aufgabenheft, farblos Heftschoner    quer farblos A5  GVE 10",
+      "category": "Schulbedarf",
+      "subcategories": ["Heftschoner", "Aufgabenheft", "Farblos", "Querformat"]
+    },
+    {
+      "store": "spar",
+      "id": "5062195",
+      "name": "Heftschoner Quart orange Heftumschlag    Quart orange    GVE 10",
+      "category": "Schulbedarf",
+      "subcategories": ["Heftschoner", "Orange", "Quartformat"]
+    },
+    {
+      "store": "spar",
+      "id": "3587515",
+      "name": "Heftumschlag quer Notenheft, farblos Heftumschlag quFormati Notenh.  GVE 10",
+      "category": "Schulbedarf",
+      "subcategories": ["Heftumschlag", "Querformat", "Farblos", "Notenheft"]
+    },
+    {
+      "store": "spar",
+      "id": "6979881",
+      "name": "Hellerschmid Marillen Schnaps",
+      "category": "Spirituosen",
+      "subcategories": ["Marillen Schnaps"]
+    },
+    {
+      "store": "spar",
+      "id": "6348236",
+      "name": "Hellerschmid Wachauer Kracherl Marille",
+      "category": "Getränke",
+      "subcategories": ["Wachauer Kracherl", "Marille"]
+    },
+    {
+      "store": "spar",
+      "id": "7899133",
+      "name": "Hello Kitty Hello Kitty Erdbeer Himbeere Geschmack",
+      "category": "Snacks",
+      "subcategories": ["Hello Kitty", "Erdbeer Himbeere Geschmack"]
+    },
+    {
+      "store": "spar",
+      "id": "2020003865084",
+      "name": "Hemptons Secret Secret Apple",
+      "category": "Getränke",
+      "subcategories": ["Secret Apple"]
+    },
+    {
+      "store": "spar",
+      "id": "2823928",
+      "name": "Hellerschmid Mohn-Eierlikör",
+      "category": "Spirituosen",
+      "subcategories": ["Mohn-Eierlikör"]
+    },
+    {
+      "store": "spar",
+      "id": "389297",
+      "name": "Hellerschmid Walnuss Schnaps",
+      "category": "Spirituosen",
+      "subcategories": ["Walnuss Schnaps"]
+    },
+    {
+      "store": "spar",
+      "id": "2020004123749",
+      "name": "Hemptons Secret Or`Ringo",
+      "category": "Getränke",
+      "subcategories": ["Or`Ringo"]
+    },
+    {
+      "store": "spar",
+      "id": "2020003865091",
+      "name": "Hemptons Secret Tschak Berry",
+      "category": "Getränke",
+      "subcategories": ["Tschak Berry"]
+    },
+    {
+      "store": "spar",
+      "id": "2768946",
+      "name": "Henndorfer Apfel-Holundersaft",
+      "category": "Getränke",
+      "subcategories": ["Apfel-Holundersaft"]
+    },
+    {
+      "store": "spar",
+      "id": "2769011",
+      "name": "Henndorfer Apfelsaft",
+      "category": "Getränke",
+      "subcategories": ["Apfelsaft"]
+    },
+    {
+      "store": "spar",
+      "id": "2769004",
+      "name": "Henndorfer Birnensaft naturtrüb",
+      "category": "Getränke",
+      "subcategories": ["Birnensaft", "Naturtrüb"]
+    },
+    {
+      "store": "spar",
+      "id": "2768892",
+      "name": "Henndorfer Holunderblüten Sirup",
+      "category": "Getränke",
+      "subcategories": ["Holunderblüten Sirup"]
+    },
+    {
+      "store": "spar",
+      "id": "2020000976165",
+      "name": "Herbal Moscow Fermented Ginger",
+      "category": "Getränke",
+      "subcategories": ["Fermented Ginger"]
+    },
+    {
+      "store": "spar",
+      "id": "2020000588382",
+      "name": "Henkell Sekt Alkoholfrei",
+      "category": "Getränke",
+      "subcategories": ["Sekt", "Alkoholfrei"]
+    },
+    {
+      "store": "spar",
+      "id": "2020004352422",
+      "name": "Henkell Sekt Alkoholfrei",
+      "category": "Getränke",
+      "subcategories": ["Sekt", "Alkoholfrei"]
+    },
+    {
+      "store": "spar",
+      "id": "2020002594930",
+      "name": "Henkell Sekt Blanc de Blancs",
+      "category": "Getränke",
+      "subcategories": ["Sekt", "Blanc de Blancs"]
+    },
+    {
+      "store": "spar",
+      "id": "5245918",
+      "name": "Henkell Sekt Blanc de Blancs",
+      "category": "Getränke",
+      "subcategories": ["Sekt", "Blanc de Blancs"]
+    },
+    {
+      "store": "spar",
+      "id": "6836481",
+      "name": "Henkell Sekt Brut",
+      "category": "Getränke",
+      "subcategories": ["Sekt", "Brut"]
+    },
+    {
+      "store": "spar",
+      "id": "5373222",
+      "name": "Henkell Sekt Halbtrocken",
+      "category": "Getränke",
+      "subcategories": ["Sekt", "Halbtrocken"]
+    },
+    {
+      "store": "spar",
+      "id": "629492",
+      "name": "Henkell Sekt Halbtrocken",
+      "category": "Getränke",
+      "subcategories": ["Sekt", "Halbtrocken"]
+    },
+    {
+      "store": "spar",
+      "id": "217873",
+      "name": "Henkell Sekt Kardinal",
+      "category": "Getränke",
+      "subcategories": ["Sekt", "Kardinal"]
+    },
+    {
+      "store": "spar",
+      "id": "2020002864668",
+      "name": "Henkell Sekt Rosé",
+      "category": "Getränke",
+      "subcategories": ["Sekt", "Rosé"]
+    },
+    {
+      "store": "spar",
+      "id": "217927",
+      "name": "Henkell Sekt Rosé",
+      "category": "Getränke",
+      "subcategories": ["Sekt", "Rosé"]
+    },
+    {
+      "store": "spar",
+      "id": "217101",
+      "name": "Henkell Sekt Trocken",
+      "category": "Getränke",
+      "subcategories": ["Sekt", "Trocken"]
+    },
+    {
+      "store": "spar",
+      "id": "217866",
+      "name": "Henkell Sekt Trocken",
+      "category": "Getränke",
+      "subcategories": ["Sekt", "Trocken"]
+    },
+    {
+      "store": "spar",
+      "id": "355179",
+      "name": "Henkell Sekt Trocken",
+      "category": "Getränke",
+      "subcategories": ["Sekt", "Trocken"]
+    },
+    {
+      "store": "spar",
+      "id": "7683015",
+      "name": "Hendrick's Gin",
+      "category": "Spirituosen",
+      "subcategories": ["Gin"]
+    },
+    {
+      "store": "spar",
+      "id": "7682407",
+      "name": "Hennessy VS",
+      "category": "Spirituosen",
+      "subcategories": ["Cognac", "VS"]
+    },
+    {
+      "store": "spar",
+      "id": "2020003389382",
+      "name": "Hennessy VSOP",
+      "category": "Spirituosen",
+      "subcategories": ["Cognac", "VSOP"]
+    },
+    {
+      "store": "spar",
+      "id": "2020000688952",
+      "name": "Hibiki Blended Whisky Japanese Harmony",
+      "category": "Spirituosen",
+      "subcategories": ["Blended Whisky", "Japanese Harmony"]
+    },
+    {
+      "store": "spar",
+      "id": "2020002375577",
+      "name": "Henney´s Cider Apple Sweet",
+      "category": "Getränke",
+      "subcategories": ["Cider", "Apple Sweet"]
+    },
+    {
+      "store": "spar",
+      "id": "2020002375621",
+      "name": "Henney´s Cider Dry",
+      "category": "Getränke",
+      "subcategories": ["Cider", "Dry"]
+    },
+    {
+      "store": "spar",
+      "id": "2020001503117",
+      "name": "Henney´s Cider Medium Apfel",
+      "category": "Getränke",
+      "subcategories": ["Cider", "Medium", "Apfel"]
+    },
+    {
+      "store": "spar",
+      "id": "2020002738839",
+      "name": "Hellmer Weinviertler Kürbiskernöl",
+      "category": "Lebensmittel",
+      "subcategories": ["Weinviertler Kürbiskernöl"]
+    },
+    {
+      "store": "spar",
+      "id": "2020002738846",
+      "name": "Hellmer Weinviertler Kürbiskernöl",
+      "category": "Lebensmittel",
+      "subcategories": ["Weinviertler Kürbiskernöl"]
+    },
+    {
+      "store": "spar",
+      "id": "2768823",
+      "name": "Henndorfer Apfelessig",
+      "category": "Lebensmittel",
+      "subcategories": ["Apfelessig"]
+    },
+    {
+      "store": "spar",
+      "id": "7879159",
+      "name": "Hengstenberg Apfelrotkohl",
+      "category": "Lebensmittel",
+      "subcategories": ["Apfelrotkohl"]
+    },
+    {
+      "store": "spar",
+      "id": "5792665",
+      "name": "Hengstenberg Bohnenpeperoni scharf",
+      "category": "Lebensmittel",
+      "subcategories": ["Bohnenpeperoni", "Scharf"]
+    },
+    {
+      "store": "spar",
+      "id": "2793825",
+      "name": "Hengstenberg Cornichons klassisch",
+      "category": "Lebensmittel",
+      "subcategories": ["Cornichons", "Klassisch"]
+    },
+    {
+      "store": "spar",
+      "id": "4120322",
+      "name": "Hengstenberg Honiggurken",
+      "category": "Lebensmittel",
+      "subcategories": ["Honiggurken"]
+    },
+    {
+      "store": "spar",
+      "id": "7471629",
+      "name": "Hengstenberg Knax Gewürzgurken Polnische Art",
+      "category": "Lebensmittel",
+      "subcategories": ["Knax Gewürzgurken", "Polnische Art"]
+    },
+    {
+      "store": "spar",
+      "id": "7469602",
+      "name": "Hengstenberg Knax Gewürzgurken knackig-würzig",
+      "category": "Lebensmittel",
+      "subcategories": ["Knax Gewürzgurken", "Knackig-würzig"]
+    },
+    {
+      "store": "spar",
+      "id": "785648",
+      "name": "Hengstenberg Knax Gewürzgurken knackig-würzig",
+      "category": "Lebensmittel",
+      "subcategories": ["Knax Gewürzgurken", "Knackig-würzig"]
+    },
+    {
+      "store": "spar",
+      "id": "2020002575939",
+      "name": "Hengstenberg Knax Gewürzgurken mild-süß",
+      "category": "Lebensmittel",
+      "subcategories": ["Knax Gewürzgurken", "Mild-süß"]
+    },
+    {
+      "store": "spar",
+      "id": "7469916",
+      "name": "Hengstenberg Knax Gewürzgurken scharf-würzig",
+      "category": "Lebensmittel",
+      "subcategories": ["Knax Gewürzgurken", "Scharf-würzig"]
+    },
+    {
+      "store": "spar",
+      "id": "7885020",
+      "name": "Hengstenberg Mildessa Mildes Sauerkraut",
+      "category": "Lebensmittel",
+      "subcategories": ["Mildessa Sauerkraut", "Mild"]
+    },
+    {
+      "store": "spar",
+      "id": "7881718",
+      "name": "Hengstenberg Mildessa Mildes Sauerkraut mit Speck",
+      "category": "Lebensmittel",
+      "subcategories": ["Mildessa Sauerkraut", "Mild", "Speck"]
+    },
+    {
+      "store": "spar",
+      "id": "7469855",
+      "name": "Hengstenberg Salz-Dill-Gurken",
+      "category": "Lebensmittel",
+      "subcategories": ["Salz-Dill-Gurken"]
+    },
+    {
+      "store": "spar",
+      "id": "7467509",
+      "name": "Hengstenberg Sticksi Gurkenviertel scharf-würzig",
+      "category": "Lebensmittel",
+      "subcategories": ["Sticksi Gurkenviertel", "Scharf-würzig"]
+    },
+    {
+      "store": "spar",
+      "id": "2020002485504",
+      "name": "Hellmanns Hellmann's REAL 14 Portionen",
+      "category": "Lebensmittel",
+      "subcategories": ["Mayonnaise", "Hellmann's", "REAL"]
+    },
+    {
+      "store": "spar",
+      "id": "2020002485511",
+      "name": "Hellmanns Hellmann's REAL Hellmann's REAL 16 Portionen",
+      "category": "Lebensmittel",
+      "subcategories": ["Mayonnaise", "Hellmann's", "REAL"]
+    },
+    {
+      "store": "spar",
+      "id": "2020003746949",
+      "name": "Hellmanns Sauce mit Knoblauchnote",
+      "category": "Lebensmittel",
+      "subcategories": ["Sauce", "Knoblauchnote"]
+    },
+    {
+      "store": "spar",
+      "id": "2020002485467",
+      "name": "Hellmanns Tomato Ketchup 28 Portionen",
+      "category": "Lebensmittel",
+      "subcategories": ["Ketchup", "Tomato"]
+    },
+    {
+      "store": "spar",
+      "id": "2020003746970",
+      "name": "Hellmanns vegan Mayo",
+      "category": "Lebensmittel",
+      "subcategories": ["Mayonnaise", "Vegan"]
+    },
+    {
+      "store": "spar",
+      "id": "4660842",
+      "name": "Hengstenberg Aceto Balsamico di Modena IGP",
+      "category": "Lebensmittel",
+      "subcategories": ["Balsamico", "Aceto Balsamico di Modena", "IGP"]
+    },
+    {
+      "store": "spar",
+      "id": "6773120",
+      "name": "Hengstenberg Apfelbalsamessig",
+      "category": "Lebensmittel",
+      "subcategories": ["Balsamessig", "Apfel"]
+    },
+    {
+      "store": "spar",
+      "id": "5008124",
+      "name": "Hengstenberg Condimento Bianco",
+      "category": "Lebensmittel",
+      "subcategories": ["Condimento Bianco"]
+    },
+    {
+      "store": "spar",
+      "id": "214490",
+      "name": "Hengstenberg Klassischer Weißweinessig",
+      "category": "Lebensmittel",
+      "subcategories": ["Weißweinessig", "Klassisch"]
+    },
+    {
+      "store": "spar",
+      "id": "214483",
+      "name": "Hengstenberg Rotweinessig",
+      "category": "Lebensmittel",
+      "subcategories": ["Rotweinessig"]
+    },
+    {
+      "store": "spar",
+      "id": "2020004665171",
+      "name": "Herrs Curls Jalapeno Cheese",
+      "category": "Snacks",
+      "subcategories": ["Herrs Curls", "Jalapeno Cheese"]
+    },
+    {
+      "store": "spar",
+      "id": "2020003568756",
+      "name": "Hello Nature Shampoo mit Arganöl 300ml",
+      "category": "Haarpflege",
+      "subcategories": ["Shampoo", "Arganöl"]
+    },
+    {
+      "store": "spar",
+      "id": "2020003568749",
+      "name": "Hello Nature Shampoo mit Hanföl 300ml",
+      "category": "Haarpflege",
+      "subcategories": ["Shampoo", "Hanföl"]
+    },
+    {
+      "store": "spar",
+      "id": "2020003568725",
+      "name": "Hello Nature Shampoo mit Kokosöl 300ml",
+      "category": "Haarpflege",
+      "subcategories": ["Shampoo", "Kokosöl"]
+    },
+    {
+      "store": "spar",
+      "id": "2020003568886",
+      "name": "Hello Nature Spülung mit Arganöl 300ml",
+      "category": "Haarpflege",
+      "subcategories": ["Spülung", "Arganöl"]
+    },
+    {
+      "store": "spar",
+      "id": "2020003568862",
+      "name": "Hello Nature Spülung mit Hanföl 300ml",
+      "category": "Haarpflege",
+      "subcategories": ["Spülung", "Hanföl"]
+    },
+    {
+      "store": "spar",
+      "id": "2020003568794",
+      "name": "Hello Nature Spülung mit Kokosöl 300ml",
+      "category": "Haarpflege",
+      "subcategories": ["Spülung", "Kokosöl"]
+    },
+    {
+      "store": "spar",
+      "id": "2020003959332",
+      "name": "Herbal Essences pure:renew Shampoo Aloe + Mango 225ml",
+      "category": "Haarpflege",
+      "subcategories": ["Shampoo", "Aloe", "Mango"]
+    },
+    {
+      "store": "spar",
+      "id": "2020003959165",
+      "name": "Herbal Essences pure:renew Shampoo Kokosmilch 250ml",
+      "category": "Haarpflege",
+      "subcategories": ["Shampoo", "Kokosmilch"]
+    },
+    {
+      "store": "spar",
+      "id": "2020002970123",
+      "name": "Herbal Essences pure:renew Shampoo Marokkanisches Arganöl 250ml",
+      "category": "Haarpflege",
+      "subcategories": ["Shampoo", "Marokkanisches Arganöl"]
+    },
+    {
+      "store": "spar",
+      "id": "2020002661762",
+      "name": "Hello Nature Duschgel mit Açaibeerenöl / belebend 250ml",
+      "category": "Körperpflege",
+      "subcategories": ["Duschgel", "Açaibeerenöl", "Belebend"]
+    },
+    {
+      "store": "spar",
+      "id": "2020002661199",
+      "name": "Hello Nature Duschgel mit Kokosöl / vitalisierend 250ml",
+      "category": "Körperpflege",
+      "subcategories": ["Duschgel", "Kokosöl", "Vitalisierend"]
+    },
+    {
+      "store": "spar",
+      "id": "2020003569005",
+      "name": "Hello Nature Flüssigseife mit Arganöl 270ml",
+      "category": "Körperpflege",
+      "subcategories": ["Flüssigseife", "Arganöl"]
+    },
+    {
+      "store": "spar",
+      "id": "2020003568954",
+      "name": "Hello Nature Flüssigseife mit Hanföl 270ml",
+      "category": "Körperpflege",
+      "subcategories": ["Flüssigseife", "Hanföl"]
+    },
+    {
+      "store": "spar",
+      "id": "2020003568916",
+      "name": "Hello Nature Flüssigseife mit Kokosöl 270ml",
+      "category": "Körperpflege",
+      "subcategories": ["Flüssigseife", "Kokosöl"]
+    },
+    {
+      "store": "spar",
+      "id": "4250128",
+      "name": "Henkel Ponal Holzleim 100g",
+      "category": "Werkzeug",
+      "subcategories": ["Holzleim"]
+    },
+    {
+      "store": "spar",
+      "id": "2769424",
+      "name": "Henndorfer Glühmost",
+      "category": "Getränke",
+      "subcategories": ["Glühmost"]
+    },
+    {
+      "store": "spar",
+      "id": "2020004665188",
+      "name": "Herrs Curls Deep Dish Pizza Cheese",
+      "category": "Snacks",
+      "subcategories": ["Herrs Curls", "Deep Dish Pizza Cheese"]
+    },
+    {
+      "store": "spar",
+      "id": "6931896",
+      "name": "Hidrofugal Anti-Transpirant Klassik 50 ml",
+      "category": "Körperpflege",
+      "subcategories": ["Anti-Transpirant", "Klassik"]
+    }
+  ]
+}

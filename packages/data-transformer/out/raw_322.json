@@ -1,0 +1,877 @@
+{
+  "products": [
+    {
+      "store": "spar",
+      "id": "2020004497277",
+      "name": "Muh-Muhs Original",
+      "category": "Süßigkeiten",
+      "subcategories": ["Bonbons", "Karamell", "Süßwaren"]
+    },
+    {
+      "store": "spar",
+      "id": "2020004480477",
+      "name": "Muh-Muhs Original",
+      "category": "Süßigkeiten",
+      "subcategories": ["Bonbons", "Karamell", "Süßwaren"]
+    },
+    {
+      "store": "spar",
+      "id": "1899535",
+      "name": "Napoli Dragee Keksi Classic",
+      "category": "Kekse",
+      "subcategories": ["Kekse", "Knabberartikel", "Naschereien"]
+    },
+    {
+      "store": "spar",
+      "id": "1899559",
+      "name": "Napoli Dragee Keksi Milchschokolade",
+      "category": "Kekse",
+      "subcategories": ["Kekse", "Knabberartikel", "Naschereien", "Schokolade"]
+    },
+    {
+      "store": "spar",
+      "id": "4901167",
+      "name": "Napoli Dragee Keksi classic winak Pack",
+      "category": "Kekse",
+      "subcategories": ["Kekse", "Knabberartikel", "Naschereien"]
+    },
+    {
+      "store": "spar",
+      "id": "3029442",
+      "name": "Napoli Schnitten Block",
+      "category": "Kekse",
+      "subcategories": ["Kekse", "Knabberartikel", "Naschereien", "Schnitten"]
+    },
+    {
+      "store": "spar",
+      "id": "2020004238375",
+      "name": "Neoh CrossBar Caramel Nuts",
+      "category": "Riegel",
+      "subcategories": ["Nüsse", "Riegel", "Snacks"]
+    },
+    {
+      "store": "spar",
+      "id": "2020002271152",
+      "name": "Neoh Crunch Bar",
+      "category": "Riegel",
+      "subcategories": ["Riegel", "Snacks"]
+    },
+    {
+      "store": "spar",
+      "id": "2020002739089",
+      "name": "Neoh Crunch Bar Choco 3 x 30g",
+      "category": "Riegel",
+      "subcategories": ["Riegel", "Schokolade", "Snacks"]
+    },
+    {
+      "store": "spar",
+      "id": "2020003000584",
+      "name": "Neoh Crunch Bar Coconut 3 x 30g",
+      "category": "Riegel",
+      "subcategories": ["Kokos", "Riegel", "Snacks"]
+    },
+    {
+      "store": "spar",
+      "id": "2020002757083",
+      "name": "Neoh Crunch Bar Raspberry 3x30g",
+      "category": "Riegel",
+      "subcategories": ["Himbeere", "Riegel", "Snacks"]
+    },
+    {
+      "store": "spar",
+      "id": "2020003972232",
+      "name": "Neoh Hazelnut Crunch 4 x 21g",
+      "category": "Riegel",
+      "subcategories": ["Haselnuss", "Riegel", "Snacks"]
+    },
+    {
+      "store": "spar",
+      "id": "7621048",
+      "name": "Nestlé After Eight Classic 200g",
+      "category": "Schokolade",
+      "subcategories": ["Mints", "Schokolade", "Süßigkeiten"]
+    },
+    {
+      "store": "spar",
+      "id": "2020004772183",
+      "name": "Nestlé After Eight Mint Collection Box 199g",
+      "category": "Schokolade",
+      "subcategories": ["Mints", "Schokolade", "Süßigkeiten"]
+    },
+    {
+      "store": "spar",
+      "id": "6983161",
+      "name": "Nestlé Geschenkspackung 400g",
+      "category": "Schokolade",
+      "subcategories": ["Schokolade", "Süßigkeiten", "Geschenk"]
+    },
+    {
+      "store": "spar",
+      "id": "2020000734765",
+      "name": "Nestlé Kit Kat Chunky Peanut Butter 4-er",
+      "category": "Schokolade",
+      "subcategories": ["Kit Kat", "Schokolade", "Süßigkeiten", "Peanut Butter"]
+    },
+    {
+      "store": "spar",
+      "id": "2020003944307",
+      "name": "Nestlé Kit Kat Classic Mini",
+      "category": "Schokolade",
+      "subcategories": ["Kit Kat", "Schokolade", "Süßigkeiten", "Mini"]
+    },
+    {
+      "store": "spar",
+      "id": "2020003738487",
+      "name": "Nestlé Kit Kat Schokoriegel Classic Mulitpack 166g",
+      "category": "Schokolade",
+      "subcategories": ["Kit Kat", "Schokolade", "Süßigkeiten", "Riegel"]
+    },
+    {
+      "store": "spar",
+      "id": "2020004631015",
+      "name": "Nestlé Kit Kat Schokoriegel Haselnuss",
+      "category": "Schokolade",
+      "subcategories": [
+        "Kit Kat",
+        "Schokolade",
+        "Süßigkeiten",
+        "Riegel",
+        "Haselnuss"
+      ]
+    },
+    {
+      "store": "spar",
+      "id": "2020003799402",
+      "name": "Nestlé Kit Kat Waffelriegel 14er 14x20,7g",
+      "category": "Schokolade",
+      "subcategories": ["Kit Kat", "Schokolade", "Süßigkeiten", "Waffel"]
+    },
+    {
+      "store": "spar",
+      "id": "2020003424922",
+      "name": "Nestlé KitKat Kit Kat Chunky Classic 4-er",
+      "category": "Schokolade",
+      "subcategories": ["Kit Kat", "Schokolade", "Süßigkeiten", "Riegel"]
+    },
+    {
+      "store": "spar",
+      "id": "2020003782923",
+      "name": "Nestlé Smarties 4er Mulitipack Multipack 4-er",
+      "category": "Schokolade",
+      "subcategories": ["Smarties", "Schokolade", "Süßigkeiten", "Multipack"]
+    },
+    {
+      "store": "spar",
+      "id": "2020003732829",
+      "name": "Nestlé Smarties Mini Minis 13 Boxen 216g",
+      "category": "Schokolade",
+      "subcategories": ["Smarties", "Schokolade", "Süßigkeiten", "Minis"]
+    },
+    {
+      "store": "spar",
+      "id": "2020002397890",
+      "name": "Nestlé Smarties Schokolinsen Riesenrolle 130g",
+      "category": "Schokolade",
+      "subcategories": ["Smarties", "Schokolade", "Süßigkeiten", "Rollen"]
+    },
+    {
+      "store": "spar",
+      "id": "7324055",
+      "name": "Niemetz Bobby Banane 3 x 40g",
+      "category": "Süßigkeiten",
+      "subcategories": [
+        "Banane",
+        "Bonbons",
+        "Kaubonbons",
+        "Karamell",
+        "Süßwaren"
+      ]
+    },
+    {
+      "store": "spar",
+      "id": "7324130",
+      "name": "Niemetz Bobby Caramel 3 x 40g",
+      "category": "Süßigkeiten",
+      "subcategories": ["Bonbons", "Kaubonbons", "Karamell", "Süßwaren"]
+    },
+    {
+      "store": "spar",
+      "id": "2020004421760",
+      "name": "Niemetz Manja Tafel",
+      "category": "Süßigkeiten",
+      "subcategories": ["Karamell", "Niemetz", "Süßwaren", "Tafel"]
+    },
+    {
+      "store": "spar",
+      "id": "6981105",
+      "name": "Niemetz Schwedenbomben 20 Stück",
+      "category": "Süßigkeiten",
+      "subcategories": ["Marshmallow", "Niemetz", "Süßwaren", "Schwedenbomben"]
+    },
+    {
+      "store": "spar",
+      "id": "6986667",
+      "name": "Niemetz Schwedenbomben 6er 6 Stück",
+      "category": "Süßigkeiten",
+      "subcategories": ["Marshmallow", "Niemetz", "Süßwaren", "Schwedenbomben"]
+    },
+    {
+      "store": "spar",
+      "id": "2020004412782",
+      "name": "Niemetz Schwedenbomben gemischt",
+      "category": "Süßigkeiten",
+      "subcategories": ["Marshmallow", "Niemetz", "Süßwaren", "Schwedenbomben"]
+    },
+    {
+      "store": "spar",
+      "id": "2020004421814",
+      "name": "Niemetz Swedy Tafel",
+      "category": "Süßigkeiten",
+      "subcategories": [
+        "Marshmallow",
+        "Niemetz",
+        "Süßwaren",
+        "Schwedenbomben",
+        "Tafel"
+      ]
+    },
+    {
+      "store": "spar",
+      "id": "908122",
+      "name": "Nivea Baby Pflege-Öl 200 ml",
+      "category": "Baby",
+      "subcategories": ["Körperpflege", "Babyöl", "Hautpflege"]
+    },
+    {
+      "store": "spar",
+      "id": "4734277",
+      "name": "Nivea Baby Shampoo Extra Mild 200 ml",
+      "category": "Baby",
+      "subcategories": ["Haarpflege", "Shampoo", "Baby"]
+    },
+    {
+      "store": "spar",
+      "id": "4734291",
+      "name": "Nivea Baby Wundschutz-Creme 100 ml",
+      "category": "Baby",
+      "subcategories": ["Hautpflege", "Wundschutz"]
+    },
+    {
+      "store": "spar",
+      "id": "2020003665547",
+      "name": "Nivea Kids 2in1 Shower & Shampoo Beerenduft 500ml",
+      "category": "Baby",
+      "subcategories": ["Duschgel", "Haarshampoo", "Kinder", "Shampoo"]
+    },
+    {
+      "store": "spar",
+      "id": "2020004362063",
+      "name": "Always Infinity Flexprotect Binden Long mit Flügeln / Gr. 2 11 Stück",
+      "category": "Damenhygiene",
+      "subcategories": ["Binden", "Hygieneartikel", "Menstruation"]
+    },
+    {
+      "store": "spar",
+      "id": "2020004362285",
+      "name": "Always Infinity Flexprotect Binden Night mit Flügeln / Gr. 3 10 Stück",
+      "category": "Damenhygiene",
+      "subcategories": ["Binden", "Hygieneartikel", "Menstruation"]
+    },
+    {
+      "store": "spar",
+      "id": "2020004362346",
+      "name": "Always Infinity Flexprotect Binden Normal mit Flügeln / Gr. 1 12 Stück",
+      "category": "Damenhygiene",
+      "subcategories": ["Binden", "Hygieneartikel", "Menstruation"]
+    },
+    {
+      "store": "spar",
+      "id": "2020004159328",
+      "name": "Always Maxi Binden Long mit Flügeln / Gr. 2 14 Stück",
+      "category": "Damenhygiene",
+      "subcategories": ["Binden", "Hygieneartikel", "Menstruation"]
+    },
+    {
+      "store": "spar",
+      "id": "2020004159120",
+      "name": "Always Maxi Binden Night mit Flügeln / Gr. 3 12 Stück",
+      "category": "Damenhygiene",
+      "subcategories": ["Binden", "Hygieneartikel", "Menstruation"]
+    },
+    {
+      "store": "spar",
+      "id": "2020004159397",
+      "name": "Always Maxi Binden Normal mit Flügeln / Gr. 1 16 Stück",
+      "category": "Damenhygiene",
+      "subcategories": ["Binden", "Hygieneartikel", "Menstruation"]
+    },
+    {
+      "store": "spar",
+      "id": "2020003956980",
+      "name": "Always Ultra Binden Day & Night mit Flügeln / Gr.3 20 Stück",
+      "category": "Damenhygiene",
+      "subcategories": [
+        "Binden",
+        "Hygieneartikel",
+        "Menstruation",
+        "Tag und Nacht"
+      ]
+    },
+    {
+      "store": "spar",
+      "id": "2020003956959",
+      "name": "Always Ultra Binden Long mit Flügeln / Gr. 2 22 Stück",
+      "category": "Damenhygiene",
+      "subcategories": ["Binden", "Hygieneartikel", "Menstruation"]
+    },
+    {
+      "store": "spar",
+      "id": "2020003956911",
+      "name": "Always Ultra Binden Normal / Gr. 1 30 Stück",
+      "category": "Damenhygiene",
+      "subcategories": ["Binden", "Hygieneartikel", "Menstruation"]
+    },
+    {
+      "store": "spar",
+      "id": "2020003956997",
+      "name": "Always Ultra Binden Normal mit Flügeln / Gr. 1 26 Stück",
+      "category": "Damenhygiene",
+      "subcategories": ["Binden", "Hygieneartikel", "Menstruation"]
+    },
+    {
+      "store": "spar",
+      "id": "2020003956942",
+      "name": "Always Ultra Binden Secure Night m. Flügeln / Gr.4 18 Stück",
+      "category": "Damenhygiene",
+      "subcategories": ["Binden", "Hygieneartikel", "Menstruation"]
+    },
+    {
+      "store": "spar",
+      "id": "2020002469955",
+      "name": "Always dailies Slipeinlagen Extra Protect Large 64 Stück",
+      "category": "Damenhygiene",
+      "subcategories": ["Einlagen", "Hygieneartikel", "Slipeinlagen", "Täglich"]
+    },
+    {
+      "store": "spar",
+      "id": "2020002470067",
+      "name": "Always dailies Slipeinlagen Extra Protect Large FreshScent 64 Stück",
+      "category": "Damenhygiene",
+      "subcategories": [
+        "Einlagen",
+        "Hygieneartikel",
+        "Slipeinlagen",
+        "Täglich",
+        "FreshScent"
+      ]
+    },
+    {
+      "store": "spar",
+      "id": "2020002469931",
+      "name": "Always dailies Slipeinlagen Extra Protect Long Plus 54 Stück",
+      "category": "Damenhygiene",
+      "subcategories": [
+        "Einlagen",
+        "Hygieneartikel",
+        "Slipeinlagen",
+        "Täglich",
+        "Lang"
+      ]
+    },
+    {
+      "store": "spar",
+      "id": "2020002470012",
+      "name": "Always dailies Slipeinlagen Fresh & Protect Normal 76 Stück",
+      "category": "Damenhygiene",
+      "subcategories": [
+        "Einlagen",
+        "Hygieneartikel",
+        "Slipeinlagen",
+        "Täglich",
+        "Frisch",
+        "Schutz"
+      ]
+    },
+    {
+      "store": "spar",
+      "id": "2020002470081",
+      "name": "Always dailies Slipeinlagen Fresh & Protect Normal Fresh 76 Stück",
+      "category": "Damenhygiene",
+      "subcategories": [
+        "Einlagen",
+        "Hygieneartikel",
+        "Slipeinlagen",
+        "Täglich",
+        "Frisch",
+        "Schutz"
+      ]
+    },
+    {
+      "store": "spar",
+      "id": "2020002470401",
+      "name": "Always dailies Slipeinlagen Profresh Normal 64 Stück",
+      "category": "Damenhygiene",
+      "subcategories": [
+        "Einlagen",
+        "Hygieneartikel",
+        "Slipeinlagen",
+        "Täglich",
+        "Frisch"
+      ]
+    },
+    {
+      "store": "spar",
+      "id": "2020002470074",
+      "name": "Always dailies Slipeinlagen Slim Multiform Normal Fresh 100 Stück",
+      "category": "Damenhygiene",
+      "subcategories": [
+        "Einlagen",
+        "Hygieneartikel",
+        "Slipeinlagen",
+        "Täglich",
+        "Frisch"
+      ]
+    },
+    {
+      "store": "spar",
+      "id": "8182173",
+      "name": "Always discreet Binden Long Plus 8 Stück",
+      "category": "Damenhygiene",
+      "subcategories": [
+        "Binden",
+        "Einlagen",
+        "Hygieneartikel",
+        "Inkontinenz",
+        "Diskret"
+      ]
+    },
+    {
+      "store": "spar",
+      "id": "8182159",
+      "name": "Always discreet Binden Small Plus 16 Stück",
+      "category": "Damenhygiene",
+      "subcategories": [
+        "Binden",
+        "Einlagen",
+        "Hygieneartikel",
+        "Inkontinenz",
+        "Diskret"
+      ]
+    },
+    {
+      "store": "spar",
+      "id": "8182166",
+      "name": "Always discreet Damenbinden Normal 12 Stück",
+      "category": "Damenhygiene",
+      "subcategories": ["Binden", "Einlagen", "Hygieneartikel", "Diskret"]
+    },
+    {
+      "store": "spar",
+      "id": "2020004660961",
+      "name": "Always discreet Inkontinenz-Slipeinlagen Long Plus 24 Stück",
+      "category": "Damenhygiene",
+      "subcategories": [
+        "Einlagen",
+        "Hygieneartikel",
+        "Slipeinlagen",
+        "Inkontinenz",
+        "Diskret"
+      ]
+    },
+    {
+      "store": "spar",
+      "id": "2020004660916",
+      "name": "Always discreet Slipeinlagen Long 24 Stück",
+      "category": "Damenhygiene",
+      "subcategories": ["Einlagen", "Hygieneartikel", "Slipeinlagen", "Diskret"]
+    },
+    {
+      "store": "spar",
+      "id": "2020000985587",
+      "name": "Nivea Intimo Intimpflege-Waschlotion Fresh Comfort 250ml",
+      "category": "Intimpflege",
+      "subcategories": ["Hygieneartikel", "Intimbereich", "Waschlotion"]
+    },
+    {
+      "store": "spar",
+      "id": "3207765",
+      "name": "Dove Compressed Deospray Original 75ml",
+      "category": "Deodorant",
+      "subcategories": ["Achseln", "Deospray", "Körperpflege"]
+    },
+    {
+      "store": "spar",
+      "id": "5677283",
+      "name": "Dove Deo Roll-on Invisible Dry 50ml",
+      "category": "Deodorant",
+      "subcategories": ["Achseln", "Deo", "Körperpflege", "Roll-on"]
+    },
+    {
+      "store": "spar",
+      "id": "2943435",
+      "name": "Dove Deo Roll-on Original 50ml",
+      "category": "Deodorant",
+      "subcategories": ["Achseln", "Deo", "Körperpflege", "Roll-on"]
+    },
+    {
+      "store": "spar",
+      "id": "5677269",
+      "name": "Dove Deo Stick Invisible Dry 40ml",
+      "category": "Deodorant",
+      "subcategories": ["Achseln", "Deo", "Körperpflege", "Stick"]
+    },
+    {
+      "store": "spar",
+      "id": "2020003899782",
+      "name": "Dove Deodorant Apfelblütenduft 100ml",
+      "category": "Deodorant",
+      "subcategories": [
+        "Achseln",
+        "Deo",
+        "Körperpflege",
+        "Spray",
+        "Apfelblütenduft"
+      ]
+    },
+    {
+      "store": "spar",
+      "id": "6320119",
+      "name": "Dove Deospray Invisible Dry 150ml",
+      "category": "Deodorant",
+      "subcategories": ["Achseln", "Deospray", "Körperpflege", "Invisible Dry"]
+    },
+    {
+      "store": "spar",
+      "id": "2020003899768",
+      "name": "Dove Deospray Lavendelduft 100ml",
+      "category": "Deodorant",
+      "subcategories": ["Achseln", "Deospray", "Körperpflege", "Lavendelduft"]
+    },
+    {
+      "store": "spar",
+      "id": "2020002409258",
+      "name": "Dove Deospray Original 150ml",
+      "category": "Deodorant",
+      "subcategories": ["Achseln", "Deospray", "Körperpflege"]
+    },
+    {
+      "store": "spar",
+      "id": "2020003899737",
+      "name": "Dove Deospray Rosenduft 100ml",
+      "category": "Deodorant",
+      "subcategories": ["Achseln", "Deospray", "Körperpflege", "Rosenduft"]
+    },
+    {
+      "store": "spar",
+      "id": "7711596",
+      "name": "Dove Men + Care Deo Roll-on Clean Comfort 50ml",
+      "category": "Deodorant",
+      "subcategories": ["Achseln", "Deo", "Herren", "Körperpflege", "Roll-on"]
+    },
+    {
+      "store": "spar",
+      "id": "2020001297344",
+      "name": "Dove Men + Care Deo Roll-on Clean Fresh 50ml",
+      "category": "Deodorant",
+      "subcategories": ["Achseln", "Deo", "Herren", "Körperpflege", "Roll-on"]
+    },
+    {
+      "store": "spar",
+      "id": "7711602",
+      "name": "Dove Men + Care Deo Roll-on Extra Fresh 50ml",
+      "category": "Deodorant",
+      "subcategories": ["Achseln", "Deo", "Herren", "Körperpflege", "Roll-on"]
+    },
+    {
+      "store": "spar",
+      "id": "7711480",
+      "name": "Dove Men + Care Deospray Clean Comfort 150ml",
+      "category": "Deodorant",
+      "subcategories": ["Achseln", "Deospray", "Herren", "Körperpflege"]
+    },
+    {
+      "store": "spar",
+      "id": "2020002962289",
+      "name": "Dove Men + Care Deospray Clean Fresh 150ml",
+      "category": "Deodorant",
+      "subcategories": ["Achseln", "Deospray", "Herren", "Körperpflege"]
+    },
+    {
+      "store": "spar",
+      "id": "1938906",
+      "name": "Dove Men + Care Deospray Invisible Dry 150ml",
+      "category": "Deodorant",
+      "subcategories": [
+        "Achseln",
+        "Deospray",
+        "Herren",
+        "Körperpflege",
+        "Invisible Dry"
+      ]
+    },
+    {
+      "store": "spar",
+      "id": "2020002900502",
+      "name": "Dove Pflegegeheimnisse Deo Roll-on Kokos- und Jasminblütenduft 50ml",
+      "category": "Deodorant",
+      "subcategories": [
+        "Achseln",
+        "Deo",
+        "Körperpflege",
+        "Roll-on",
+        "Kokos",
+        "Jasminblütenduft"
+      ]
+    },
+    {
+      "store": "spar",
+      "id": "3306314",
+      "name": "Dove go fresh Deo-Stick Gurke & Grüner Tee 40ml",
+      "category": "Deodorant",
+      "subcategories": [
+        "Achseln",
+        "Deo",
+        "Körperpflege",
+        "Stick",
+        "Gurke",
+        "Grüner Tee"
+      ]
+    },
+    {
+      "store": "spar",
+      "id": "2020001224302",
+      "name": "Dove go fresh Deospray Granatapfel & Zitronenverbene 150ml",
+      "category": "Deodorant",
+      "subcategories": [
+        "Achseln",
+        "Deospray",
+        "Körperpflege",
+        "Granatapfel",
+        "Zitronenverbene"
+      ]
+    },
+    {
+      "store": "spar",
+      "id": "2020001217229",
+      "name": "Dove go fresh Deospray Grüner Tee- und Gurkenduft 150ml",
+      "category": "Deodorant",
+      "subcategories": [
+        "Achseln",
+        "Deospray",
+        "Gurke",
+        "Grüner Tee",
+        "Körperpflege"
+      ]
+    },
+    {
+      "store": "spar",
+      "id": "2020004392152",
+      "name": "Dove go fresh Deospray Passionfruit & Lemongras Scent 150ml",
+      "category": "Deodorant",
+      "subcategories": [
+        "Achseln",
+        "Deospray",
+        "Körperpflege",
+        "Lemongras",
+        "Passionfruit"
+      ]
+    },
+    {
+      "store": "spar",
+      "id": "7285608",
+      "name": "Garnier mineral Anti-Transpirant Roll-on UltraDry 50ml",
+      "category": "Deodorant",
+      "subcategories": [
+        "Achseln",
+        "Deo",
+        "Körperpflege",
+        "Mineral",
+        "Anti-Transpirant",
+        "Roll-on"
+      ]
+    },
+    {
+      "store": "spar",
+      "id": "2005379",
+      "name": "Garnier mineral Deo Roll-on Invisible 50ml",
+      "category": "Deodorant",
+      "subcategories": [
+        "Achseln",
+        "Deo",
+        "Körperpflege",
+        "Mineral",
+        "Invisible",
+        "Roll-on"
+      ]
+    },
+    {
+      "store": "spar",
+      "id": "2020002479800",
+      "name": "Garnier mineral Deo Roll-on Protection5 50ml",
+      "category": "Deodorant",
+      "subcategories": ["Achseln", "Deo", "Körperpflege", "Mineral", "Roll-on"]
+    },
+    {
+      "store": "spar",
+      "id": "2020000411888",
+      "name": "Garnier mineral Deospray Pure Frische 150ml",
+      "category": "Deodorant",
+      "subcategories": [
+        "Achseln",
+        "Deospray",
+        "Körperpflege",
+        "Mineral",
+        "Frische"
+      ]
+    },
+    {
+      "store": "spar",
+      "id": "7285486",
+      "name": "Garnier mineral Deospray UltraDry 150ml",
+      "category": "Deodorant",
+      "subcategories": [
+        "Achseln",
+        "Deospray",
+        "Körperpflege",
+        "Mineral",
+        "UltraDry"
+      ]
+    },
+    {
+      "store": "spar",
+      "id": "7953507",
+      "name": "Alpecin Coffein Liquid 200ml",
+      "category": "Haarpflege",
+      "subcategories": [
+        "Coffein",
+        "Liquid",
+        "Haarpflege",
+        "Kopfhaut",
+        "Stärkung"
+      ]
+    },
+    {
+      "store": "spar",
+      "id": "2020003430756",
+      "name": "Alpecin Coffein Shampoo C1 / Black Edition 250ml",
+      "category": "Haarpflege",
+      "subcategories": ["Coffein", "Shampoo", "Haarpflege"]
+    },
+    {
+      "store": "spar",
+      "id": "7953392",
+      "name": "Alpecin Coffein Shampoo C1 250ml",
+      "category": "Haarpflege",
+      "subcategories": ["Coffein", "Shampoo", "Haarpflege"]
+    },
+    {
+      "store": "spar",
+      "id": "1177435",
+      "name": "Alpecin Coffein Shampoo Doppel Effekt 200ml",
+      "category": "Haarpflege",
+      "subcategories": ["Coffein", "Shampoo", "Haarpflege", "Doppel Effekt"]
+    },
+    {
+      "store": "spar",
+      "id": "2020001280810",
+      "name": "Alpecin Coffein Shampoo GTX / Sport 250ml",
+      "category": "Haarpflege",
+      "subcategories": ["Coffein", "Shampoo", "Haarpflege", "Sport"]
+    },
+    {
+      "store": "spar",
+      "id": "2020002465476",
+      "name": "Alpecin Coffein Shampoo Hybrid 250ml",
+      "category": "Haarpflege",
+      "subcategories": ["Coffein", "Shampoo", "Haarpflege", "Hybrid"]
+    },
+    {
+      "store": "spar",
+      "id": "2020003051296",
+      "name": "Alpenkohle Premium Grill-Holzkohle Briketts 5 Kg",
+      "category": "Grillen",
+      "subcategories": ["Briketts", "Grillen", "Kohle"]
+    },
+    {
+      "store": "spar",
+      "id": "8185297",
+      "name": "Alpro Sojadrink Schokolade 1L",
+      "category": "Getränke",
+      "subcategories": ["Sojadrink", "Pflanzlich", "Schokolade"]
+    },
+    {
+      "store": "spar",
+      "id": "2020002014353",
+      "name": "Alpia Fruties 225 G",
+      "category": "Süßigkeiten",
+      "subcategories": ["Schokolade", "Süßwaren"]
+    },
+    {
+      "store": "spar",
+      "id": "2020000481362",
+      "name": "Nivea Deo Roll-on Fresh Comfort 50ml",
+      "category": "Deodorant",
+      "subcategories": ["Achseln", "Deo", "Körperpflege", "Roll-on"]
+    },
+    {
+      "store": "spar",
+      "id": "2020000853961",
+      "name": "Nivea Deo Roll-on Fresh Flower 50ml",
+      "category": "Deodorant",
+      "subcategories": [
+        "Achseln",
+        "Deo",
+        "Körperpflege",
+        "Blumenduft",
+        "Roll-on"
+      ]
+    },
+    {
+      "store": "spar",
+      "id": "2020002483470",
+      "name": "Nivea Deo Roll-on dry active 50ml",
+      "category": "Deodorant",
+      "subcategories": ["Achseln", "Deo", "Körperpflege", "Roll-on"]
+    },
+    {
+      "store": "spar",
+      "id": "4360575",
+      "name": "Nivea Deo Roll-on dry comfort 50ml",
+      "category": "Deodorant",
+      "subcategories": ["Achseln", "Deo", "Körperpflege", "Roll-on"]
+    },
+    {
+      "store": "spar",
+      "id": "7320637",
+      "name": "Nivea Deo Roll-on dry comfort plus 25ml",
+      "category": "Deodorant",
+      "subcategories": ["Achseln", "Deo", "Körperpflege", "Roll-on"]
+    },
+    {
+      "store": "spar",
+      "id": "2020004202543",
+      "name": "Nivea Deo Roll-on fresh Rose Touch 50ml",
+      "category": "Deodorant",
+      "subcategories": [
+        "Achseln",
+        "Deo",
+        "Körperpflege",
+        "Blumenduft",
+        "Roll-on"
+      ]
+    },
+    {
+      "store": "spar",
+      "id": "4360629",
+      "name": "Nivea Deo Roll-on fresh natural 50ml",
+      "category": "Deodorant",
+      "subcategories": [
+        "Achseln",
+        "Deo",
+        "Körperpflege",
+        "Natürlich",
+        "Roll-on"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,702 @@
+[
+  {
+    "store": "hofer",
+    "id": 548914,
+    "name": "Schwarzwälder mit Emmentaler Fleischwurst doppelt geräuchert 80g",
+    "category": "Wurstwaren",
+    "subcategories": ["Fleischwurst", "Schwarzwälder", "Emmentaler"]
+  },
+  {
+    "store": "hofer",
+    "id": 547132,
+    "name": "Snack Stixx Käse 95g",
+    "category": "Snacks",
+    "subcategories": ["Käse", "Snack Stixx"]
+  },
+  {
+    "store": "hofer",
+    "id": 547133,
+    "name": "Snack Stixx Light 80g",
+    "category": "Snacks",
+    "subcategories": ["Light", "Snack Stixx"]
+  },
+  {
+    "store": "hofer",
+    "id": 547674,
+    "name": "Ungarische Salami 100g",
+    "category": "Wurstwaren",
+    "subcategories": ["Salami", "Ungarisch"]
+  },
+  {
+    "store": "hofer",
+    "id": 545348,
+    "name": "WAGNER & DELIKAT Schweins Bratwürstl 360g",
+    "category": "Wurstwaren",
+    "subcategories": ["Bratwürstl", "Schwein", "Wagner & Delikat"]
+  },
+  {
+    "store": "hofer",
+    "id": 545347,
+    "name": "WAGNER & DELIKAT St. Johanner 360g",
+    "category": "Wurstwaren",
+    "subcategories": ["St. Johanner", "Wagner & Delikat"]
+  },
+  {
+    "store": "hofer",
+    "id": 549914,
+    "name": "PRIMANA Snackbox Frischkäse-Jalapenos 250g",
+    "category": "Snacks",
+    "subcategories": ["Snackbox", "Frischkäse", "Jalapenos"]
+  },
+  {
+    "store": "hofer",
+    "id": 549684,
+    "name": "TWINNI 9x72ml",
+    "category": "Eis",
+    "subcategories": ["TWINNI"]
+  },
+  {
+    "store": "hofer",
+    "id": 549217,
+    "name": "Primana Cevapcici Classic 1000g",
+    "category": "Fleisch",
+    "subcategories": ["Cevapcici", "Classic"]
+  },
+  {
+    "store": "hofer",
+    "id": 545266,
+    "name": "SWEET VALLEY Erdbeeren tiefgefroren 750g",
+    "category": "Obst",
+    "subcategories": ["Erdbeeren", "tiefgefroren"]
+  },
+  {
+    "store": "hofer",
+    "id": 544890,
+    "name": "SWEET VALLEY Heidelbeeren 500g",
+    "category": "Obst",
+    "subcategories": ["Heidelbeeren"]
+  },
+  {
+    "store": "hofer",
+    "id": 547152,
+    "name": "SWEET VALLEY Himbeeren tiefgefroren 500g",
+    "category": "Obst",
+    "subcategories": ["Himbeeren", "tiefgefroren"]
+  },
+  {
+    "store": "hofer",
+    "id": 549848,
+    "name": "SWEET VALLEY Sommerfrucht Mix 750g",
+    "category": "Obst",
+    "subcategories": ["Sommerfrucht", "Mix"]
+  },
+  {
+    "store": "hofer",
+    "id": 545265,
+    "name": "SWEET VALLEY Waldbeerenmischung 750g",
+    "category": "Obst",
+    "subcategories": ["Waldbeerenmischung"]
+  },
+  {
+    "store": "hofer",
+    "id": 548212,
+    "name": "ZURÜCK ZUM URSPRUNG Bio Blattspinat 750g",
+    "category": "Gemüse",
+    "subcategories": ["Blattspinat", "Bio"]
+  },
+  {
+    "store": "hofer",
+    "id": 549906,
+    "name": "ZURÜCK ZUM URSPRUNG Bio Cremespinat 750g",
+    "category": "Gemüse",
+    "subcategories": ["Cremespinat", "Bio"]
+  },
+  {
+    "store": "hofer",
+    "id": 548951,
+    "name": "PRIMANA Spinat Strudel 375g",
+    "category": "Backwaren",
+    "subcategories": ["Spinat", "Strudel"]
+  },
+  {
+    "store": "hofer",
+    "id": 549008,
+    "name": "PRIMANA Teigtascherl Fleisch 400g",
+    "category": "Fertiggerichte",
+    "subcategories": ["Teigtascherl", "Fleisch"]
+  },
+  {
+    "store": "hofer",
+    "id": 549010,
+    "name": "PRIMANA Teigtascherl Steinpilz 400g",
+    "category": "Fertiggerichte",
+    "subcategories": ["Teigtascherl", "Steinpilz"]
+  },
+  {
+    "store": "hofer",
+    "id": 549009,
+    "name": "PRIMANA Teigtascherl Tomaten und Mozzarella 400g",
+    "category": "Fertiggerichte",
+    "subcategories": ["Teigtascherl", "Tomaten", "Mozzarella"]
+  },
+  {
+    "store": "hofer",
+    "id": 547202,
+    "name": "PRIMANA Wurstknödel 1kg",
+    "category": "Fertiggerichte",
+    "subcategories": ["Wurstknödel"]
+  },
+  {
+    "store": "hofer",
+    "id": 546905,
+    "name": "ZURÜCK ZUM URSPRUNG Bio Anfangsmilch 1 mit Heumilch 600g",
+    "category": "Säuglingsnahrung",
+    "subcategories": ["Anfangsmilch", "Heumilch"]
+  },
+  {
+    "store": "hofer",
+    "id": 546904,
+    "name": "ZURÜCK ZUM URSPRUNG Bio Anfangsmilch Pre mit Heumilch 600g",
+    "category": "Säuglingsnahrung",
+    "subcategories": ["Anfangsmilch", "Pre", "Heumilch"]
+  },
+  {
+    "store": "hofer",
+    "id": 546813,
+    "name": "ZURÜCK ZUM URSPRUNG Bio Anfangsmilch Pre mit Ziegenmilch 500g",
+    "category": "Säuglingsnahrung",
+    "subcategories": ["Anfangsmilch", "Pre", "Ziegenmilch"]
+  },
+  {
+    "store": "hofer",
+    "id": 545113,
+    "name": "ZURÜCK ZUM URSPRUNG Bio Dinkel-Vollkornbrei 250g",
+    "category": "Getreideprodukte",
+    "subcategories": ["Dinkel-Vollkornbrei", "Bio"]
+  },
+  {
+    "store": "hofer",
+    "id": 546906,
+    "name": "ZURÜCK ZUM URSPRUNG Bio Folgemilch 3 mit Heumilch 600g",
+    "category": "Säuglingsnahrung",
+    "subcategories": ["Folgemilch", "Heumilch"]
+  },
+  {
+    "store": "hofer",
+    "id": 545214,
+    "name": "ZURÜCK ZUM URSPRUNG Bio Fruchtsnack Apfel in Karotte 100g",
+    "category": "Snacks",
+    "subcategories": ["Fruchtsnack", "Apfel", "Karotte", "Bio"]
+  },
+  {
+    "store": "hofer",
+    "id": 545213,
+    "name": "ZURÜCK ZUM URSPRUNG Bio Fruchtsnack Apfel in Kürbis 100g",
+    "category": "Snacks",
+    "subcategories": ["Fruchtsnack", "Apfel", "Kürbis", "Bio"]
+  },
+  {
+    "store": "hofer",
+    "id": 546203,
+    "name": "ZURÜCK ZUM URSPRUNG Bio Brotgewürz 65g",
+    "category": "Gewürze",
+    "subcategories": ["Brotgewürz", "Bio"]
+  },
+  {
+    "store": "hofer",
+    "id": 546567,
+    "name": "SWEET VALLEY Ananasscheiben 825g",
+    "category": "Obst",
+    "subcategories": ["Ananasscheiben"]
+  },
+  {
+    "store": "hofer",
+    "id": 548068,
+    "name": "SWEET VALLEY Ananasstücke 560g",
+    "category": "Obst",
+    "subcategories": ["Ananasstücke"]
+  },
+  {
+    "store": "hofer",
+    "id": 549226,
+    "name": "SWEET VALLEY Ananasstücke natursüß 580ml",
+    "category": "Obst",
+    "subcategories": ["Ananasstücke", "natursüß"]
+  },
+  {
+    "store": "hofer",
+    "id": 548161,
+    "name": "SWEET VALLEY Apfelmus 700g",
+    "category": "Obst",
+    "subcategories": ["Apfelmus"]
+  },
+  {
+    "store": "hofer",
+    "id": 548162,
+    "name": "SWEET VALLEY Apfelmus ohne Zuckerzusatz 700g",
+    "category": "Obst",
+    "subcategories": ["Apfelmus", "ohne Zuckerzusatz"]
+  },
+  {
+    "store": "hofer",
+    "id": 544116,
+    "name": "SWEET VALLEY Frucht Snack Apfel-Banane-Erdbeere 100g",
+    "category": "Snacks",
+    "subcategories": ["Frucht Snack", "Apfel", "Banane", "Erdbeere"]
+  },
+  {
+    "store": "hofer",
+    "id": 545536,
+    "name": "SWEET VALLEY Frucht Snack Apfel-Birne 100g",
+    "category": "Snacks",
+    "subcategories": ["Frucht Snack", "Apfel", "Birne"]
+  },
+  {
+    "store": "hofer",
+    "id": 544115,
+    "name": "SWEET VALLEY Frucht Snack Apfel-Pfirsich-Banane-Marille 100g",
+    "category": "Snacks",
+    "subcategories": ["Frucht Snack", "Apfel", "Pfirsich", "Banane", "Marille"]
+  },
+  {
+    "store": "hofer",
+    "id": 546888,
+    "name": "SWEET VALLEY Pfirsiche 820g",
+    "category": "Obst",
+    "subcategories": ["Pfirsiche"]
+  },
+  {
+    "store": "hofer",
+    "id": 547974,
+    "name": "SWEET VALLEY Weichselkompott 680g",
+    "category": "Obst",
+    "subcategories": ["Weichselkompott"]
+  },
+  {
+    "store": "hofer",
+    "id": 548818,
+    "name": "TESOROS DEL SUR Grüne Oliven 320g",
+    "category": "Snacks",
+    "subcategories": ["Grüne Oliven", "Oliven"]
+  },
+  {
+    "store": "hofer",
+    "id": 548819,
+    "name": "TESOROS DEL SUR Hojiblanca Oliven 320g",
+    "category": "Snacks",
+    "subcategories": ["Hojiblanca Oliven", "Oliven"]
+  },
+  {
+    "store": "hofer",
+    "id": 545578,
+    "name": "ZURÜCK ZUM URSPRUNG Bio Berglinsen 500g",
+    "category": "Hülsenfrüchte",
+    "subcategories": ["Berglinsen", "Bio"]
+  },
+  {
+    "store": "hofer",
+    "id": 549921,
+    "name": "ZURÜCK ZUM URSPRUNG Bio Dinkel Fleckerl 500g",
+    "category": "Getreideprodukte",
+    "subcategories": ["Dinkel Fleckerl", "Bio"]
+  },
+  {
+    "store": "hofer",
+    "id": 549922,
+    "name": "ZURÜCK ZUM URSPRUNG Bio Dinkel Hörnchen 500g",
+    "category": "Getreideprodukte",
+    "subcategories": ["Dinkel Hörnchen", "Bio"]
+  },
+  {
+    "store": "hofer",
+    "id": 543887,
+    "name": "ZURÜCK ZUM URSPRUNG Bio Fussilloni 500g",
+    "category": "Getreideprodukte",
+    "subcategories": ["Fussilloni", "Bio"]
+  },
+  {
+    "store": "hofer",
+    "id": 544862,
+    "name": "WIENER ZUCKER Feinkristallzucker 1kg",
+    "category": "Zucker",
+    "subcategories": ["Feinkristallzucker", "Zucker"]
+  },
+  {
+    "store": "hofer",
+    "id": 546078,
+    "name": "WIENER ZUCKER Gelierzucker 1kg",
+    "category": "Zucker",
+    "subcategories": ["Gelierzucker", "Zucker"]
+  },
+  {
+    "store": "hofer",
+    "id": 544878,
+    "name": "WIENER ZUCKER Gelierzucker 500g",
+    "category": "Zucker",
+    "subcategories": ["Gelierzucker", "Zucker"]
+  },
+  {
+    "store": "hofer",
+    "id": 544861,
+    "name": "WIENER ZUCKER Staubzucker 500g",
+    "category": "Zucker",
+    "subcategories": ["Staubzucker", "Zucker"]
+  },
+  {
+    "store": "hofer",
+    "id": 543641,
+    "name": "WIENER ZUCKER Würfelzucker 1kg",
+    "category": "Zucker",
+    "subcategories": ["Würfelzucker", "Zucker"]
+  },
+  {
+    "store": "hofer",
+    "id": 545830,
+    "name": "STORCK Knoppers 8x25g",
+    "category": "Snacks",
+    "subcategories": ["Knoppers"]
+  },
+  {
+    "store": "hofer",
+    "id": 548616,
+    "name": "PRINGLES Knabbergebäck Classic Paprika 185g",
+    "category": "Snacks",
+    "subcategories": ["Knabbergebäck", "Classic", "Paprika"]
+  },
+  {
+    "store": "hofer",
+    "id": 548617,
+    "name": "PRINGLES Knabbergebäck Hot & Spicy 185g",
+    "category": "Snacks",
+    "subcategories": ["Knabbergebäck", "Hot & Spicy"]
+  },
+  {
+    "store": "hofer",
+    "id": 548618,
+    "name": "PRINGLES Knabbergebäck Original 185g",
+    "category": "Snacks",
+    "subcategories": ["Knabbergebäck", "Original"]
+  },
+  {
+    "store": "hofer",
+    "id": 548615,
+    "name": "PRINGLES Knabbergebäck Sour Cream & Onion 185g",
+    "category": "Snacks",
+    "subcategories": ["Knabbergebäck", "Sour Cream & Onion"]
+  },
+  {
+    "store": "hofer",
+    "id": 548481,
+    "name": "STORCK Frucht Kauer Kaubonbons 550g",
+    "category": "Süßwaren",
+    "subcategories": ["Frucht Kauer", "Kaubonbons"]
+  },
+  {
+    "store": "hofer",
+    "id": 546892,
+    "name": "STORCK Knoppers Minis  200g",
+    "category": "Snacks",
+    "subcategories": ["Knoppers Minis"]
+  },
+  {
+    "store": "hofer",
+    "id": 545918,
+    "name": "STORCK Knoppers Nussriegel 5x40g",
+    "category": "Snacks",
+    "subcategories": ["Knoppers", "Nussriegel"]
+  },
+  {
+    "store": "hofer",
+    "id": 545941,
+    "name": "STORCK Merci Grosse Vielfalt 250g",
+    "category": "Süßwaren",
+    "subcategories": ["Merci", "Grosse Vielfalt"]
+  },
+  {
+    "store": "hofer",
+    "id": 545940,
+    "name": "STORCK Merci Helle Vielfalt 250g",
+    "category": "Süßwaren",
+    "subcategories": ["Merci", "Helle Vielfalt"]
+  },
+  {
+    "store": "hofer",
+    "id": 544629,
+    "name": "STORCK Merci Mandel Knusper Vielfalt 250g",
+    "category": "Süßwaren",
+    "subcategories": ["Merci", "Mandel Knusper Vielfalt"]
+  },
+  {
+    "store": "hofer",
+    "id": 544630,
+    "name": "STORCK Merci Mousse au Chocolat Vielfalt 210g",
+    "category": "Süßwaren",
+    "subcategories": ["Merci", "Mousse au Chocolat Vielfalt"]
+  },
+  {
+    "store": "hofer",
+    "id": 544281,
+    "name": "STORCK Milch Boller 404g",
+    "category": "Süßwaren",
+    "subcategories": ["Milch Boller"]
+  },
+  {
+    "store": "hofer",
+    "id": 545670,
+    "name": "STORCK Schokoladen Toffees 404g",
+    "category": "Süßwaren",
+    "subcategories": ["Schokoladen Toffees"]
+  },
+  {
+    "store": "hofer",
+    "id": 544280,
+    "name": "STORCK Toffee Melange 600g",
+    "category": "Süßwaren",
+    "subcategories": ["Toffee Melange"]
+  },
+  {
+    "store": "hofer",
+    "id": 545166,
+    "name": "STORCK Toffifee 250g",
+    "category": "Süßwaren",
+    "subcategories": ["Toffifee"]
+  },
+  {
+    "store": "hofer",
+    "id": 545518,
+    "name": "STORCK Werther's Original Sahnebonbons 245g",
+    "category": "Süßwaren",
+    "subcategories": ["Werther's Original", "Sahnebonbons"]
+  },
+  {
+    "store": "hofer",
+    "id": 544088,
+    "name": "STORCK Werther's Original Soft Eclair 215g",
+    "category": "Süßwaren",
+    "subcategories": ["Werther's Original", "Soft Eclair"]
+  },
+  {
+    "store": "hofer",
+    "id": 549877,
+    "name": "STORCK Werther's Original Soft Eclair 215g",
+    "category": "Süßwaren",
+    "subcategories": ["Werther's Original", "Soft Eclair"]
+  },
+  {
+    "store": "hofer",
+    "id": 548575,
+    "name": "SWEET LAND Apple Rings 300g",
+    "category": "Süßwaren",
+    "subcategories": ["Apple Rings"]
+  },
+  {
+    "store": "hofer",
+    "id": 548574,
+    "name": "SWEET LAND Cherries 300g",
+    "category": "Süßwaren",
+    "subcategories": ["Cherries"]
+  },
+  {
+    "store": "hofer",
+    "id": 549149,
+    "name": "SWEET LAND Fruchtgummi Fruity Snakes 300g",
+    "category": "Süßwaren",
+    "subcategories": ["Fruchtgummi", "Fruity Snakes"]
+  },
+  {
+    "store": "hofer",
+    "id": 545220,
+    "name": "SWEET LAND Happy Family Mix 400g",
+    "category": "Süßwaren",
+    "subcategories": ["Happy Family Mix"]
+  },
+  {
+    "store": "hofer",
+    "id": 546510,
+    "name": "SWEET LAND Sahne Toffees 400g",
+    "category": "Süßwaren",
+    "subcategories": ["Sahne Toffees"]
+  },
+  {
+    "store": "hofer",
+    "id": 548573,
+    "name": "SWEET LAND Saure Würmer 300g",
+    "category": "Süßwaren",
+    "subcategories": ["Saure Würmer"]
+  },
+  {
+    "store": "hofer",
+    "id": 547706,
+    "name": "SWEET VALLEY Hollerröster 580g",
+    "category": "Obst",
+    "subcategories": ["Hollerröster"]
+  },
+  {
+    "store": "hofer",
+    "id": 547705,
+    "name": "SWEET VALLEY Zwetschkenröster 580g",
+    "category": "Obst",
+    "subcategories": ["Zwetschkenröster"]
+  },
+  {
+    "store": "hofer",
+    "id": 549844,
+    "name": "Sudzuk 400g",
+    "category": "Wurstwaren",
+    "subcategories": ["Sudzuk"]
+  },
+  {
+    "store": "hofer",
+    "id": 549150,
+    "name": "SWEETLAND Peach Rings 300g",
+    "category": "Süßwaren",
+    "subcategories": ["Peach Rings"]
+  },
+  {
+    "store": "hofer",
+    "id": 548199,
+    "name": "Schoko Hafer Gebäck 600g",
+    "category": "Backwaren",
+    "subcategories": ["Schoko Hafer", "Gebäck"]
+  },
+  {
+    "store": "hofer",
+    "id": 545405,
+    "name": "TASTE OF AMERICA American Cookies Double Chocolate 225g",
+    "category": "Backwaren",
+    "subcategories": ["American Cookies", "Double Chocolate"]
+  },
+  {
+    "store": "hofer",
+    "id": 543934,
+    "name": "TASTE OF AMERICA Chocolate Chip Cookies 225g",
+    "category": "Backwaren",
+    "subcategories": ["Chocolate Chip Cookies"]
+  },
+  {
+    "store": "hofer",
+    "id": 544042,
+    "name": "TIC TAC Fresh Mint 72g",
+    "category": "Süßwaren",
+    "subcategories": ["TIC TAC", "Fresh Mint"]
+  },
+  {
+    "store": "hofer",
+    "id": 544043,
+    "name": "TIC TAC Fresh Orange 72g",
+    "category": "Süßwaren",
+    "subcategories": ["TIC TAC", "Fresh Orange"]
+  },
+  {
+    "store": "hofer",
+    "id": 544044,
+    "name": "TIC TAC Fruity Mix 72g",
+    "category": "Süßwaren",
+    "subcategories": ["TIC TAC", "Fruity Mix"]
+  },
+  {
+    "store": "hofer",
+    "id": 549944,
+    "name": "TIC TAC Zitrone 4x18g",
+    "category": "Süßwaren",
+    "subcategories": ["TIC TAC", "Zitrone"]
+  },
+  {
+    "store": "hofer",
+    "id": 544782,
+    "name": "TWIX White 322g",
+    "category": "Süßwaren",
+    "subcategories": ["TWIX", "White"]
+  },
+  {
+    "store": "hofer",
+    "id": 546748,
+    "name": "TWIX white 7x (2x23g)",
+    "category": "Süßwaren",
+    "subcategories": ["TWIX", "White"]
+  },
+  {
+    "store": "hofer",
+    "id": 548806,
+    "name": "TAFT Haarspray Cashmere 250ml",
+    "category": "Pflegeprodukte",
+    "subcategories": ["Haarspray", "Cashmere"]
+  },
+  {
+    "store": "hofer",
+    "id": 548807,
+    "name": "TAFT Haarspray Gestärktes Haar 250ml",
+    "category": "Pflegeprodukte",
+    "subcategories": ["Haarspray", "Gestärktes Haar"]
+  },
+  {
+    "store": "hofer",
+    "id": 548808,
+    "name": "TAFT Haarspray Leicht auszubürsten 250ml",
+    "category": "Pflegeprodukte",
+    "subcategories": ["Haarspray", "Leicht auszubürsten"]
+  },
+  {
+    "store": "hofer",
+    "id": 548805,
+    "name": "TAFT Haarspray für alle Haartypen 250ml",
+    "category": "Pflegeprodukte",
+    "subcategories": ["Haarspray", "alle Haartypen"]
+  },
+  {
+    "store": "hofer",
+    "id": 548809,
+    "name": "TAFT Invisible Power Haarspray 250ml",
+    "category": "Pflegeprodukte",
+    "subcategories": ["Haarspray", "Invisible Power"]
+  },
+  {
+    "store": "hofer",
+    "id": 546135,
+    "name": "TANDIL Backpapierzuschnitte 38x42cm 30 Stück",
+    "category": "Haushalt",
+    "subcategories": ["Backpapierzuschnitte"]
+  },
+  {
+    "store": "hofer",
+    "id": 546824,
+    "name": "TANDIL Bio Tandil Abfallbeutel kompostierbar 8x35ml",
+    "category": "Haushalt",
+    "subcategories": ["Bio Abfallbeutel", "kompostierbar"]
+  },
+  {
+    "store": "hofer",
+    "id": 548758,
+    "name": "TANDIL Gefrierbeutel 1l 100 Stück",
+    "category": "Haushalt",
+    "subcategories": ["Gefrierbeutel", "1l"]
+  },
+  {
+    "store": "hofer",
+    "id": 548756,
+    "name": "TANDIL Gefrierbeutel 1l 20 Stück",
+    "category": "Haushalt",
+    "subcategories": ["Gefrierbeutel", "1l"]
+  },
+  {
+    "store": "hofer",
+    "id": 548757,
+    "name": "TANDIL Gefrierbeutel 3l 15 Stück",
+    "category": "Haushalt",
+    "subcategories": ["Gefrierbeutel", "3l"]
+  },
+  {
+    "store": "hofer",
+    "id": 548759,
+    "name": "TANDIL Gefrierbeutel 3l 75 Stück",
+    "category": "Haushalt",
+    "subcategories": ["Gefrierbeutel", "3l"]
+  },
+  {
+    "store": "hofer",
+    "id": 548760,
+    "name": "TANDIL Gefrierbeutel 6l 41 Stück",
+    "category": "Haushalt",
+    "subcategories": ["Gefrierbeutel", "6l"]
+  }
+]

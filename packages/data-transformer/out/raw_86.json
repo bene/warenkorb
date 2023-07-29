@@ -1,0 +1,702 @@
+[
+  {
+    "store": "billa",
+    "id": "00-410250",
+    "name": "Mautner Markhof Preiselbeer Kren",
+    "category": "Senf",
+    "subcategories": ["Preiselbeer Kren", "Kren"]
+  },
+  {
+    "store": "billa",
+    "id": "00-1503",
+    "name": "Mautner Markhof Tafelkren",
+    "category": "Senf",
+    "subcategories": ["Tafelkren", "Kren"]
+  },
+  {
+    "store": "billa",
+    "id": "00-83971",
+    "name": "Mautner Markhof Tafelkren",
+    "category": "Senf",
+    "subcategories": ["Tafelkren", "Kren"]
+  },
+  {
+    "store": "billa",
+    "id": "00-401395",
+    "name": "Mautner Markhof Zwiebelsenf",
+    "category": "Senf",
+    "subcategories": ["Zwiebelsenf"]
+  },
+  {
+    "store": "billa",
+    "id": "00-386349",
+    "name": "Millas American Style Alioli Sauce",
+    "category": "Sauce",
+    "subcategories": ["Alioli Sauce"]
+  },
+  {
+    "store": "billa",
+    "id": "00-386321",
+    "name": "Millas American Style BBQ Sauce",
+    "category": "Sauce",
+    "subcategories": ["BBQ Sauce"]
+  },
+  {
+    "store": "billa",
+    "id": "00-386326",
+    "name": "Millas American Style Ketchup",
+    "category": "Sauce",
+    "subcategories": ["Ketchup"]
+  },
+  {
+    "store": "billa",
+    "id": "00-386330",
+    "name": "Millas American Style Mayonnaise",
+    "category": "Sauce",
+    "subcategories": ["Mayonnaise"]
+  },
+  {
+    "store": "billa",
+    "id": "00-303755",
+    "name": "Mississippi Burger Sauce Original",
+    "category": "Sauce",
+    "subcategories": ["Burger Sauce"]
+  },
+  {
+    "store": "billa",
+    "id": "00-839528",
+    "name": "Qimiq Classic Vanille für die süße Küche",
+    "category": "Küche",
+    "subcategories": ["Vanille"]
+  },
+  {
+    "store": "billa",
+    "id": "00-415979",
+    "name": "Qimiq Classic zum Kochen, Backen & Verfeinern",
+    "category": "Küche",
+    "subcategories": ["Kochen", "Backen", "Verfeinern"]
+  },
+  {
+    "store": "billa",
+    "id": "00-701140",
+    "name": "Qimiq Saucenbasis",
+    "category": "Küche",
+    "subcategories": ["Saucenbasis"]
+  },
+  {
+    "store": "billa",
+    "id": "00-306923",
+    "name": "Ramsa Cranberry Senf",
+    "category": "Senf",
+    "subcategories": ["Cranberry Senf"]
+  },
+  {
+    "store": "billa",
+    "id": "00-57615",
+    "name": "Ramsa Englischer Senf",
+    "category": "Senf",
+    "subcategories": ["Englischer Senf"]
+  },
+  {
+    "store": "billa",
+    "id": "00-160796",
+    "name": "Ramsa Englischer Spezial Senf",
+    "category": "Senf",
+    "subcategories": ["Englischer Spezial Senf"]
+  },
+  {
+    "store": "billa",
+    "id": "00-823305",
+    "name": "Ramsa Estragon Senf",
+    "category": "Senf",
+    "subcategories": ["Estragon Senf"]
+  },
+  {
+    "store": "billa",
+    "id": "00-306920",
+    "name": "Ramsa Kürbiskern Senf",
+    "category": "Senf",
+    "subcategories": ["Kürbiskern Senf"]
+  },
+  {
+    "store": "billa",
+    "id": "00-269147",
+    "name": "Ramsa Orangen Senf",
+    "category": "Senf",
+    "subcategories": ["Orangen Senf"]
+  },
+  {
+    "store": "billa",
+    "id": "00-444670",
+    "name": "Ramsa Trüffel Senf",
+    "category": "Senf",
+    "subcategories": ["Trüffel Senf"]
+  },
+  {
+    "store": "billa",
+    "id": "00-269145",
+    "name": "Ramsa Whisky Senf",
+    "category": "Senf",
+    "subcategories": ["Whisky Senf"]
+  },
+  {
+    "store": "billa",
+    "id": "00-304276",
+    "name": "Ramsa Wiener Spezial Senf",
+    "category": "Senf",
+    "subcategories": ["Wiener Spezial Senf"]
+  },
+  {
+    "store": "billa",
+    "id": "00-291144",
+    "name": "Shan Shi Chili Sauce Scharf",
+    "category": "Sauce",
+    "subcategories": ["Chili Sauce"]
+  },
+  {
+    "store": "billa",
+    "id": "00-764920",
+    "name": "Shan Shi Chili Sauce süß",
+    "category": "Sauce",
+    "subcategories": ["Chili Sauce"]
+  },
+  {
+    "store": "billa",
+    "id": "00-438788",
+    "name": "Sonnenschein Ajvar",
+    "category": "Ajvar",
+    "subcategories": ["Ajvar"]
+  },
+  {
+    "store": "billa",
+    "id": "00-760909",
+    "name": "Sonnenschein Ajvar Delikatesse",
+    "category": "Ajvar",
+    "subcategories": ["Ajvar"]
+  },
+  {
+    "store": "billa",
+    "id": "00-294693",
+    "name": "Spak Master Ketchup",
+    "category": "Ketchup",
+    "subcategories": ["Ketchup"]
+  },
+  {
+    "store": "billa",
+    "id": "00-398158",
+    "name": "Spak Master Ketchup Jalapeno",
+    "category": "Ketchup",
+    "subcategories": ["Ketchup", "Jalapeno"]
+  },
+  {
+    "store": "billa",
+    "id": "00-429174",
+    "name": "Spak Mayonnaise 80%",
+    "category": "Mayonnaise",
+    "subcategories": ["Mayonnaise"]
+  },
+  {
+    "store": "billa",
+    "id": "00-867559",
+    "name": "Steirerkren Wie frisch gerieben",
+    "category": "Kren",
+    "subcategories": ["Steirerkren"]
+  },
+  {
+    "store": "billa",
+    "id": "00-965979",
+    "name": "Steirerkren mit Apfel",
+    "category": "Kren",
+    "subcategories": ["Steirerkren", "Apfel"]
+  },
+  {
+    "store": "billa",
+    "id": "00-834484",
+    "name": "THOMY Hollandaise Sauce légère",
+    "category": "Sauce",
+    "subcategories": ["Hollandaise Sauce"]
+  },
+  {
+    "store": "billa",
+    "id": "00-400800",
+    "name": "THOMY Sauce Hollandaise",
+    "category": "Sauce",
+    "subcategories": ["Hollandaise Sauce"]
+  },
+  {
+    "store": "billa",
+    "id": "00-731851",
+    "name": "Tabasco Chipotle Sauce",
+    "category": "Sauce",
+    "subcategories": ["Chipotle Sauce"]
+  },
+  {
+    "store": "billa",
+    "id": "00-657831",
+    "name": "Tabasco Habanero Sauce",
+    "category": "Sauce",
+    "subcategories": ["Habanero Sauce"]
+  },
+  {
+    "store": "billa",
+    "id": "00-785276",
+    "name": "Tabasco Jalapeno Sauce",
+    "category": "Sauce",
+    "subcategories": ["Jalapeno Sauce"]
+  },
+  {
+    "store": "billa",
+    "id": "00-10832",
+    "name": "Tabasco Pepper Sauce",
+    "category": "Sauce",
+    "subcategories": ["Pepper Sauce"]
+  },
+  {
+    "store": "billa",
+    "id": "00-398595",
+    "name": "Tabasco Sriracha Sauce",
+    "category": "Sauce",
+    "subcategories": ["Sriracha Sauce"]
+  },
+  {
+    "store": "billa",
+    "id": "00-860367",
+    "name": "Tamari Sojasauce",
+    "category": "Sojasauce",
+    "subcategories": ["Sojasauce"]
+  },
+  {
+    "store": "billa",
+    "id": "00-471463",
+    "name": "Thomy Chili Jalapeno Sauce",
+    "category": "Sauce",
+    "subcategories": ["Chili Sauce", "Jalapeno Sauce"]
+  },
+  {
+    "store": "billa",
+    "id": "00-588354",
+    "name": "Thomy Feige Senf Dressing",
+    "category": "Senf",
+    "subcategories": ["Feige Senf Dressing"]
+  },
+  {
+    "store": "billa",
+    "id": "00-588352",
+    "name": "Thomy French Dressing",
+    "category": "Dressing",
+    "subcategories": ["French Dressing"]
+  },
+  {
+    "store": "billa",
+    "id": "00-405582",
+    "name": "Thomy Ketch & Co.",
+    "category": "Ketchup",
+    "subcategories": ["Ketchup"]
+  },
+  {
+    "store": "billa",
+    "id": "00-471453",
+    "name": "Thomy Knoblauch Sauce",
+    "category": "Sauce",
+    "subcategories": ["Knoblauch Sauce"]
+  },
+  {
+    "store": "billa",
+    "id": "00-808893",
+    "name": "Thomy Mayonnaise 25%",
+    "category": "Mayonnaise",
+    "subcategories": ["Mayonnaise"]
+  },
+  {
+    "store": "billa",
+    "id": "00-723704",
+    "name": "Thomy Mayonnaise 80%",
+    "category": "Mayonnaise",
+    "subcategories": ["Mayonnaise"]
+  },
+  {
+    "store": "billa",
+    "id": "00-588353",
+    "name": "Thomy Mediterranes Kräuter Dressing",
+    "category": "Dressing",
+    "subcategories": ["Mediterranes Kräuter Dressing"]
+  },
+  {
+    "store": "billa",
+    "id": "00-471470",
+    "name": "Thomy Salsa Sauce",
+    "category": "Sauce",
+    "subcategories": ["Salsa Sauce"]
+  },
+  {
+    "store": "billa",
+    "id": "00-420196",
+    "name": "Vanini Feigensauce",
+    "category": "Sauce",
+    "subcategories": ["Feigensauce"]
+  },
+  {
+    "store": "billa",
+    "id": "00-701776",
+    "name": "Vanini Rote Feigensauce",
+    "category": "Sauce",
+    "subcategories": ["Feigensauce"]
+  },
+  {
+    "store": "billa",
+    "id": "00-294605",
+    "name": "Vegavita Mayonnaise",
+    "category": "Mayonnaise",
+    "subcategories": ["Mayonnaise"]
+  },
+  {
+    "store": "billa",
+    "id": "00-828694",
+    "name": "Wiener Würstelsenf Estragon",
+    "category": "Kren",
+    "subcategories": ["Wiener Würstelsenf"]
+  },
+  {
+    "store": "billa",
+    "id": "00-828696",
+    "name": "Wiener Würstelsenf Kremser",
+    "category": "Kren",
+    "subcategories": ["Wiener Würstelsenf"]
+  },
+  {
+    "store": "billa",
+    "id": "00-592054",
+    "name": "Wild Bill Bio Ketchup Mild",
+    "category": "Ketchup",
+    "subcategories": ["Bio Ketchup"]
+  },
+  {
+    "store": "billa",
+    "id": "00-489679",
+    "name": "Wild Bill Ketchup Mild",
+    "category": "Ketchup",
+    "subcategories": ["Ketchup"]
+  },
+  {
+    "store": "billa",
+    "id": "00-489693",
+    "name": "Wild Bill Ketchup ohne Zuckerzusatz",
+    "category": "Ketchup",
+    "subcategories": ["Ketchup", "ohne Zuckerzusatz"]
+  },
+  {
+    "store": "billa",
+    "id": "00-899009",
+    "name": "Abtei Immun Kraft Vitamin Vital Komplex",
+    "category": "Vitamin",
+    "subcategories": ["Vitamin", "Vital Komplex"]
+  },
+  {
+    "store": "billa",
+    "id": "00-771229",
+    "name": "Abtei Magnesium 500 Plus",
+    "category": "Magnesium",
+    "subcategories": ["Magnesium"]
+  },
+  {
+    "store": "billa",
+    "id": "00-722664",
+    "name": "Abtei Vitamin C 600 Forte",
+    "category": "Vitamin",
+    "subcategories": ["Vitamin C"]
+  },
+  {
+    "store": "billa",
+    "id": "00-572217",
+    "name": "Ahead Achieve Meal Chocolate",
+    "category": "Mahlzeit",
+    "subcategories": ["Achieve Meal", "Schokolade"]
+  },
+  {
+    "store": "billa",
+    "id": "00-572223",
+    "name": "Ahead Achieve Meal Vanille",
+    "category": "Mahlzeit",
+    "subcategories": ["Achieve Meal", "Vanille"]
+  },
+  {
+    "store": "billa",
+    "id": "00-257971",
+    "name": "Allin Banane Eiweiß Trinknahrung",
+    "category": "Trinknahrung",
+    "subcategories": ["Eiweiß Trinknahrung", "Banane"]
+  },
+  {
+    "store": "billa",
+    "id": "00-245953",
+    "name": "Allin Complete Protein Joghurt Johannisbeere",
+    "category": "Protein",
+    "subcategories": ["Complete Protein", "Joghurt", "Johannisbeere"]
+  },
+  {
+    "store": "billa",
+    "id": "00-245988",
+    "name": "Allin Complete Protein Joghurt Orange",
+    "category": "Protein",
+    "subcategories": ["Complete Protein", "Joghurt", "Orange"]
+  },
+  {
+    "store": "billa",
+    "id": "00-393795",
+    "name": "Allin Complete Vegan Hafer & Schoko",
+    "category": "Vegan",
+    "subcategories": ["Complete Vegan", "Hafer", "Schoko"]
+  },
+  {
+    "store": "billa",
+    "id": "00-900422",
+    "name": "Allin Erdbeer Eiweiß Trinknahrung",
+    "category": "Trinknahrung",
+    "subcategories": ["Eiweiß Trinknahrung", "Erdbeer"]
+  },
+  {
+    "store": "billa",
+    "id": "00-900423",
+    "name": "Allin Kaffee Eiweiß Trinknahrung",
+    "category": "Trinknahrung",
+    "subcategories": ["Eiweiß Trinknahrung", "Kaffee"]
+  },
+  {
+    "store": "billa",
+    "id": "00-246031",
+    "name": "Allin Light Protein Water Maracuja",
+    "category": "Protein",
+    "subcategories": ["Light Protein Water", "Maracuja"]
+  },
+  {
+    "store": "billa",
+    "id": "00-408621",
+    "name": "Allin Power Riegel Nuts&Berries",
+    "category": "Riegel",
+    "subcategories": ["Power Riegel", "Nuts&Berries"]
+  },
+  {
+    "store": "billa",
+    "id": "00-408627",
+    "name": "Allin Protein Riegel Chocolate&Oat",
+    "category": "Riegel",
+    "subcategories": ["Protein Riegel", "Chocolate&Oat"]
+  },
+  {
+    "store": "billa",
+    "id": "00-408610",
+    "name": "Allin Protein Riegel White Choco Vanilla",
+    "category": "Riegel",
+    "subcategories": ["Protein Riegel", "White Choco Vanilla"]
+  },
+  {
+    "store": "billa",
+    "id": "00-719686",
+    "name": "Allin Schokolade Eiweiß Trinknahrung",
+    "category": "Trinknahrung",
+    "subcategories": ["Eiweiß Trinknahrung", "Schokolade"]
+  },
+  {
+    "store": "billa",
+    "id": "00-900424",
+    "name": "Allin Vanille Eiweiß Trinknahrung",
+    "category": "Trinknahrung",
+    "subcategories": ["Eiweiß Trinknahrung", "Vanille"]
+  },
+  {
+    "store": "billa",
+    "id": "00-801990",
+    "name": "Alnatura Cashew Drink Ungesüßt",
+    "category": "Drink",
+    "subcategories": ["Cashew Drink"]
+  },
+  {
+    "store": "billa",
+    "id": "00-317670",
+    "name": "Alnatura Dinkelwaffeln",
+    "category": "Waffeln",
+    "subcategories": ["Dinkelwaffeln"]
+  },
+  {
+    "store": "billa",
+    "id": "00-317751",
+    "name": "Alnatura Falafel Glutenfrei",
+    "category": "Falafel",
+    "subcategories": ["Falafel"]
+  },
+  {
+    "store": "billa",
+    "id": "00-317699",
+    "name": "Alnatura Hafer Drink ungesüßt",
+    "category": "Drink",
+    "subcategories": ["Hafer Drink"]
+  },
+  {
+    "store": "billa",
+    "id": "00-317705",
+    "name": "Alnatura Hirsebällchen",
+    "category": "Hirse",
+    "subcategories": ["Hirsebällchen"]
+  },
+  {
+    "store": "billa",
+    "id": "00-317734",
+    "name": "Alnatura Hirsebällchen Erdnuss",
+    "category": "Hirse",
+    "subcategories": ["Hirsebällchen", "Erdnuss"]
+  },
+  {
+    "store": "billa",
+    "id": "00-317716",
+    "name": "Alnatura Honig Reiswaffel",
+    "category": "Reiswaffel",
+    "subcategories": ["Honig Reiswaffel"]
+  },
+  {
+    "store": "billa",
+    "id": "00-564780",
+    "name": "Alnatura Joghurt Reiswaffeln Erdbeer",
+    "category": "Reiswaffeln",
+    "subcategories": ["Joghurt Reiswaffeln", "Erdbeer"]
+  },
+  {
+    "store": "billa",
+    "id": "00-317506",
+    "name": "Alnatura Joghurt Reiswaffeln Natur",
+    "category": "Reiswaffeln",
+    "subcategories": ["Joghurt Reiswaffeln"]
+  },
+  {
+    "store": "billa",
+    "id": "00-801985",
+    "name": "Alnatura Kokos Drink Ungesüßt",
+    "category": "Drink",
+    "subcategories": ["Kokos Drink"]
+  },
+  {
+    "store": "billa",
+    "id": "00-392814",
+    "name": "Alnatura Linsen Waffeln",
+    "category": "Waffeln",
+    "subcategories": ["Linsen Waffeln"]
+  },
+  {
+    "store": "billa",
+    "id": "00-317788",
+    "name": "Alnatura Mais-Amaranth Waffeln",
+    "category": "Waffeln",
+    "subcategories": ["Mais-Amaranth Waffeln"]
+  },
+  {
+    "store": "billa",
+    "id": "00-317730",
+    "name": "Alnatura Maiswaffel Natur",
+    "category": "Maiswaffel",
+    "subcategories": ["Maiswaffel"]
+  },
+  {
+    "store": "billa",
+    "id": "00-317563",
+    "name": "Alnatura Maiswaffeln mit Salz",
+    "category": "Maiswaffeln",
+    "subcategories": ["Maiswaffeln", "Salz"]
+  },
+  {
+    "store": "billa",
+    "id": "00-317701",
+    "name": "Alnatura Reis Drink Natur Ungesüßt",
+    "category": "Drink",
+    "subcategories": ["Reis Drink"]
+  },
+  {
+    "store": "billa",
+    "id": "00-393316",
+    "name": "Alnatura Reiswaffeln Rote Bete & Apfel",
+    "category": "Reiswaffeln",
+    "subcategories": ["Reiswaffeln", "Rote Bete", "Apfel"]
+  },
+  {
+    "store": "billa",
+    "id": "00-563549",
+    "name": "Alnatura Schoko Reiswaffeln Vollmilch",
+    "category": "Reiswaffeln",
+    "subcategories": ["Schoko Reiswaffeln", "Vollmilch"]
+  },
+  {
+    "store": "billa",
+    "id": "00-658640",
+    "name": "Alnatura Schoko Reiswaffeln Vollmilch Cocos",
+    "category": "Reiswaffeln",
+    "subcategories": ["Schoko Reiswaffeln", "Vollmilch Cocos"]
+  },
+  {
+    "store": "billa",
+    "id": "00-317542",
+    "name": "Alnatura Schoko Reiswaffeln Zartbitter",
+    "category": "Reiswaffeln",
+    "subcategories": ["Schoko Reiswaffeln", "Zartbitter"]
+  },
+  {
+    "store": "billa",
+    "id": "00-659067",
+    "name": "Alnatura Schoko Reiswaffeln Zartbitter Orange",
+    "category": "Reiswaffeln",
+    "subcategories": ["Schoko Reiswaffeln", "Zartbitter Orange"]
+  },
+  {
+    "store": "billa",
+    "id": "00-461337",
+    "name": "Alnatura Soja Drink Ungesüßt",
+    "category": "Drink",
+    "subcategories": ["Soja Drink"]
+  },
+  {
+    "store": "billa",
+    "id": "00-959352",
+    "name": "Alnavit Bio Nuss Crunchy Glutenfrei",
+    "category": "Bio",
+    "subcategories": ["Nuss Crunchy", "Glutenfrei"]
+  },
+  {
+    "store": "billa",
+    "id": "00-682024",
+    "name": "Alnavit Bio Saaten Cracker",
+    "category": "Cracker",
+    "subcategories": ["Saaten Cracker"]
+  },
+  {
+    "store": "billa",
+    "id": "00-393494",
+    "name": "Alnavit Bio Schoko Cookies Glutenfrei",
+    "category": "Bio",
+    "subcategories": ["Schoko Cookies", "Glutenfrei"]
+  },
+  {
+    "store": "billa",
+    "id": "00-317827",
+    "name": "Alnavit Bio Spaghetti Glutenfrei",
+    "category": "Bio",
+    "subcategories": ["Spaghetti", "Glutenfrei"]
+  },
+  {
+    "store": "billa",
+    "id": "00-317822",
+    "name": "Alnavit Mandelhörnchen",
+    "category": "Gebäck",
+    "subcategories": ["Mandelhörnchen"]
+  },
+  {
+    "store": "billa",
+    "id": "00-317823",
+    "name": "Alnavit Nussecken",
+    "category": "Gebäck",
+    "subcategories": ["Nussecken"]
+  },
+  {
+    "store": "billa",
+    "id": "00-394877",
+    "name": "Alpro Barista Hafer Drink",
+    "category": "Drink",
+    "subcategories": ["Hafer Drink"]
+  }
+]

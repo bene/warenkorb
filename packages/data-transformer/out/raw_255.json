@@ -1,0 +1,702 @@
+[
+  {
+    "store": "spar",
+    "id": "7918667",
+    "name": "Vibasept Hygiene-Spray desinfizierend 250 ml",
+    "category": "Hygiene",
+    "subcategories": []
+  },
+  {
+    "store": "spar",
+    "id": "7918674",
+    "name": "Vibasept Hygiene-Tücher desinfizierend 15 Stück",
+    "category": "Hygiene",
+    "subcategories": []
+  },
+  {
+    "store": "spar",
+    "id": "278294",
+    "name": "Vademecum med Mundwasser-Konzentrat 75 ml",
+    "category": "Mundpflege",
+    "subcategories": []
+  },
+  {
+    "store": "spar",
+    "id": "2020002890483",
+    "name": "Veet Gesicht Kaltwachsstreifen Gesicht - sensible Haut 20 Stück",
+    "category": "Haarentfernung",
+    "subcategories": []
+  },
+  {
+    "store": "spar",
+    "id": "3798959",
+    "name": "Veet Haarentfernungscreme Bikini & Achseln 100ml",
+    "category": "Haarentfernung",
+    "subcategories": []
+  },
+  {
+    "store": "spar",
+    "id": "6425371",
+    "name": "Veet Haarentfernungscreme Sensible Haut 100ml",
+    "category": "Haarentfernung",
+    "subcategories": []
+  },
+  {
+    "store": "spar",
+    "id": "2020002898953",
+    "name": "Veet Kaltwachsstreifen Körper & Beine - sensible Haut",
+    "category": "Haarentfernung",
+    "subcategories": []
+  },
+  {
+    "store": "spar",
+    "id": "4376811",
+    "name": "Verstärkungsringe weiß 500 Stück 13 mm 500 Verstaer-  kungsringe       GVE 10",
+    "category": "Bürobedarf",
+    "subcategories": []
+  },
+  {
+    "store": "spar",
+    "id": "4693840",
+    "name": "Toppits Spritzbeutel 10 Stück",
+    "category": "Küchenbedarf",
+    "subcategories": []
+  },
+  {
+    "store": "spar",
+    "id": "2020001312238",
+    "name": "Venilia Tischset Caline Grau 30x45cm",
+    "category": "Deko",
+    "subcategories": []
+  },
+  {
+    "store": "spar",
+    "id": "2020002407124",
+    "name": "Venilia Tischset Confetti 30x45cm",
+    "category": "Deko",
+    "subcategories": []
+  },
+  {
+    "store": "spar",
+    "id": "2020003102660",
+    "name": "Venilia Tischset Melange Natur 30x45cm",
+    "category": "Deko",
+    "subcategories": []
+  },
+  {
+    "store": "spar",
+    "id": "2020001312061",
+    "name": "Venilia Tischset Mix Kirsche 30x45cm",
+    "category": "Deko",
+    "subcategories": []
+  },
+  {
+    "store": "spar",
+    "id": "2020003102714",
+    "name": "Venilia Tischset Mix grün 30x45cm",
+    "category": "Deko",
+    "subcategories": []
+  },
+  {
+    "store": "spar",
+    "id": "2020001311767",
+    "name": "Venilia Tischset Mix weiss 30x45cm",
+    "category": "Deko",
+    "subcategories": []
+  },
+  {
+    "store": "spar",
+    "id": "2020001312207",
+    "name": "Venilia Tischset Triangle Grau 30x45cm",
+    "category": "Deko",
+    "subcategories": []
+  },
+  {
+    "store": "spar",
+    "id": "2020003102721",
+    "name": "Venilia Tischset dotted taupe 30x45cm",
+    "category": "Deko",
+    "subcategories": []
+  },
+  {
+    "store": "spar",
+    "id": "2020003102707",
+    "name": "Venilia Tischset spider grau 30x45cm",
+    "category": "Deko",
+    "subcategories": []
+  },
+  {
+    "store": "spar",
+    "id": "6978327",
+    "name": "Varta Akku Batterien AA 2100 mAh 4 Stück",
+    "category": "Batterien",
+    "subcategories": []
+  },
+  {
+    "store": "spar",
+    "id": "6978273",
+    "name": "Varta Akku Batterien AAA 800 mAh 4 Stück",
+    "category": "Batterien",
+    "subcategories": []
+  },
+  {
+    "store": "spar",
+    "id": "2020003053726",
+    "name": "Varta Akku Pocket Charger",
+    "category": "Batterien",
+    "subcategories": []
+  },
+  {
+    "store": "spar",
+    "id": "4469957",
+    "name": "Varta Batterien C/Baby 2 Stück",
+    "category": "Batterien",
+    "subcategories": []
+  },
+  {
+    "store": "spar",
+    "id": "2020002479015",
+    "name": "Varta Batterien Longlife AA 24 Stück",
+    "category": "Batterien",
+    "subcategories": []
+  },
+  {
+    "store": "spar",
+    "id": "2020002479008",
+    "name": "Varta Batterien Longlife AAA 24 Stück",
+    "category": "Batterien",
+    "subcategories": []
+  },
+  {
+    "store": "spar",
+    "id": "2020001312351",
+    "name": "Varta Knopfzelle CR2016 2 Stück",
+    "category": "Batterien",
+    "subcategories": []
+  },
+  {
+    "store": "spar",
+    "id": "2020000991717",
+    "name": "Varta Knopfzelle CR2025 2 Stück",
+    "category": "Batterien",
+    "subcategories": []
+  },
+  {
+    "store": "spar",
+    "id": "1539004",
+    "name": "Varta Knopfzelle CR2032 2 Stück",
+    "category": "Batterien",
+    "subcategories": []
+  },
+  {
+    "store": "spar",
+    "id": "2020002105167",
+    "name": "Varta Knopfzelle CR2450 2 Stück",
+    "category": "Batterien",
+    "subcategories": []
+  },
+  {
+    "store": "spar",
+    "id": "2020003157172",
+    "name": "Varta Knopfzelle V10GAL/LR54 2er",
+    "category": "Batterien",
+    "subcategories": []
+  },
+  {
+    "store": "spar",
+    "id": "2020001312443",
+    "name": "Varta Knopfzelle V13GA/LR44 2 Stück",
+    "category": "Batterien",
+    "subcategories": []
+  },
+  {
+    "store": "spar",
+    "id": "2020003104756",
+    "name": "Varta LED-Taschenlampe Tageslicht F20 1 Stück",
+    "category": "Taschenlampen",
+    "subcategories": []
+  },
+  {
+    "store": "spar",
+    "id": "2333144",
+    "name": "Varta Longlife Batterien Longlife 4 Stück",
+    "category": "Batterien",
+    "subcategories": []
+  },
+  {
+    "store": "spar",
+    "id": "2333496",
+    "name": "Varta Longlife Batterien Longlife AA 10 Stück",
+    "category": "Batterien",
+    "subcategories": []
+  },
+  {
+    "store": "spar",
+    "id": "2333069",
+    "name": "Varta Longlife Batterien Longlife AA 4 Stück",
+    "category": "Batterien",
+    "subcategories": []
+  },
+  {
+    "store": "spar",
+    "id": "2344843",
+    "name": "Varta Longlife Batterien Longlife AAA 10 Stück",
+    "category": "Batterien",
+    "subcategories": []
+  },
+  {
+    "store": "spar",
+    "id": "2333342",
+    "name": "Varta Longlife Batterien Longlife C 2 Stück",
+    "category": "Batterien",
+    "subcategories": []
+  },
+  {
+    "store": "spar",
+    "id": "2333458",
+    "name": "Varta Longlife E-Block Longlife 9V 1 Stück",
+    "category": "Batterien",
+    "subcategories": []
+  },
+  {
+    "store": "spar",
+    "id": "5511372",
+    "name": "Varta Longlife Power Batterien AA 12 Stück",
+    "category": "Batterien",
+    "subcategories": []
+  },
+  {
+    "store": "spar",
+    "id": "4470403",
+    "name": "Varta Longlife Power Batterien AA/Mignon 8 Stück",
+    "category": "Batterien",
+    "subcategories": []
+  },
+  {
+    "store": "spar",
+    "id": "5937714",
+    "name": "Varta Longlife Power Batterien Longlife Power AA 20 Stück",
+    "category": "Batterien",
+    "subcategories": []
+  },
+  {
+    "store": "spar",
+    "id": "4469988",
+    "name": "Varta Longlife Power Batterien Longlife Power AA 4 Stück",
+    "category": "Batterien",
+    "subcategories": []
+  },
+  {
+    "store": "spar",
+    "id": "7268700",
+    "name": "Varta Longlife Power Batterien Longlife Power AAA 12 Stück",
+    "category": "Batterien",
+    "subcategories": []
+  },
+  {
+    "store": "spar",
+    "id": "7794056",
+    "name": "Varta Longlife Power Batterien Longlife Power AAA 20 Stück",
+    "category": "Batterien",
+    "subcategories": []
+  },
+  {
+    "store": "spar",
+    "id": "4470977",
+    "name": "Varta Longlife Power Batterien Longlife Power AAA 4 Stück",
+    "category": "Batterien",
+    "subcategories": []
+  },
+  {
+    "store": "spar",
+    "id": "4469223",
+    "name": "Varta Longlife Power Batterien Mono D 2 Stück",
+    "category": "Batterien",
+    "subcategories": []
+  },
+  {
+    "store": "spar",
+    "id": "4470984",
+    "name": "Varta Longlife Power E-Block Longlife Power 9V 1 Stück",
+    "category": "Batterien",
+    "subcategories": []
+  },
+  {
+    "store": "spar",
+    "id": "2020001532018",
+    "name": "Varta Longlife Power Longlife Power AAA 8er",
+    "category": "Batterien",
+    "subcategories": []
+  },
+  {
+    "store": "spar",
+    "id": "2020003104725",
+    "name": "Varta Schlüsselbund-Taschenlampe Tageslicht 1 Stück",
+    "category": "Taschenlampen",
+    "subcategories": []
+  },
+  {
+    "store": "spar",
+    "id": "2020000891062",
+    "name": "Varta Spezialbatterie V23GA 2 Stück",
+    "category": "Batterien",
+    "subcategories": []
+  },
+  {
+    "store": "spar",
+    "id": "2020002650506",
+    "name": "Varta Taschenlampe Brite Essential 1 Stück",
+    "category": "Taschenlampen",
+    "subcategories": []
+  },
+  {
+    "store": "spar",
+    "id": "2020002103477",
+    "name": "Varta Taschenlampe Outdoor Sports F10 1 Stück",
+    "category": "Taschenlampen",
+    "subcategories": []
+  },
+  {
+    "store": "spar",
+    "id": "2020003156892",
+    "name": "Varta Ultra Batterien Lithium AAA 2er",
+    "category": "Batterien",
+    "subcategories": []
+  },
+  {
+    "store": "spar",
+    "id": "2020003157066",
+    "name": "Varta Ultra Ultra Lithium AA 2er",
+    "category": "Batterien",
+    "subcategories": []
+  },
+  {
+    "store": "spar",
+    "id": "2188614",
+    "name": "Toppits Abreiß Frischhaltefolie 32,5 cm 20 Meter",
+    "category": "Küchenbedarf",
+    "subcategories": []
+  },
+  {
+    "store": "spar",
+    "id": "7605833",
+    "name": "Toppits Alufolie 20 Meter Rolle",
+    "category": "Küchenbedarf",
+    "subcategories": []
+  },
+  {
+    "store": "spar",
+    "id": "3236987",
+    "name": "Toppits Alufolie 29,5 cm 30 Meter",
+    "category": "Küchenbedarf",
+    "subcategories": []
+  },
+  {
+    "store": "spar",
+    "id": "3236994",
+    "name": "Toppits Alufolie 29,5 cm 50 Meter",
+    "category": "Küchenbedarf",
+    "subcategories": []
+  },
+  {
+    "store": "spar",
+    "id": "2020002466800",
+    "name": "Toppits Alufolie mit Doppelkraftwaben 20 Meter",
+    "category": "Küchenbedarf",
+    "subcategories": []
+  },
+  {
+    "store": "spar",
+    "id": "1375589",
+    "name": "Toppits Alufolie mit Doppelkraftwaben 29,5 cm 10 Meter",
+    "category": "Küchenbedarf",
+    "subcategories": []
+  },
+  {
+    "store": "spar",
+    "id": "3425459",
+    "name": "Toppits Antihaft Backpapier 38 x 43 cm 14 Bögen",
+    "category": "Küchenbedarf",
+    "subcategories": []
+  },
+  {
+    "store": "spar",
+    "id": "4900979",
+    "name": "Toppits Back-Alufolie 38 cm 6 Meter",
+    "category": "Küchenbedarf",
+    "subcategories": []
+  },
+  {
+    "store": "spar",
+    "id": "7522031",
+    "name": "Toppits Butterbrotpapier 28 cm 16 Meter",
+    "category": "Küchenbedarf",
+    "subcategories": []
+  },
+  {
+    "store": "spar",
+    "id": "2825649",
+    "name": "Toppits Butterbrottüten 60 Stück",
+    "category": "Küchenbedarf",
+    "subcategories": []
+  },
+  {
+    "store": "spar",
+    "id": "6245436",
+    "name": "Toppits Cross&Frit Papier 37 x 30 cm 8 Bögen",
+    "category": "Küchenbedarf",
+    "subcategories": []
+  },
+  {
+    "store": "spar",
+    "id": "2020002478254",
+    "name": "Toppits Crushed Iced 20 Beutel",
+    "category": "Küchenbedarf",
+    "subcategories": []
+  },
+  {
+    "store": "spar",
+    "id": "2020002243302",
+    "name": "Toppits Eiskugelbeutel 10 Stück",
+    "category": "Küchenbedarf",
+    "subcategories": []
+  },
+  {
+    "store": "spar",
+    "id": "7149016",
+    "name": "Toppits Frischhaltefolie 32,5 cm 20 Meter",
+    "category": "Küchenbedarf",
+    "subcategories": []
+  },
+  {
+    "store": "spar",
+    "id": "2147567",
+    "name": "Toppits Gefrierbeutel 1 Liter 35 Stück",
+    "category": "Küchenbedarf",
+    "subcategories": []
+  },
+  {
+    "store": "spar",
+    "id": "2020000432425",
+    "name": "Toppits Gefrierbeutel 1 Liter Safeloc",
+    "category": "Küchenbedarf",
+    "subcategories": []
+  },
+  {
+    "store": "spar",
+    "id": "2148458",
+    "name": "Toppits Gefrierbeutel 3 Liter 35 Stück",
+    "category": "Küchenbedarf",
+    "subcategories": []
+  },
+  {
+    "store": "spar",
+    "id": "2020000432456",
+    "name": "Toppits Gefrierbeutel 3 Liter Safeloc",
+    "category": "Küchenbedarf",
+    "subcategories": []
+  },
+  {
+    "store": "spar",
+    "id": "2148540",
+    "name": "Toppits Gefrierbeutel 6 Liter 20 Stück",
+    "category": "Küchenbedarf",
+    "subcategories": []
+  },
+  {
+    "store": "spar",
+    "id": "2389493",
+    "name": "Toppits Gefrierbeutel Set 1l, 3l, 6l 3er Vorteilspack",
+    "category": "Küchenbedarf",
+    "subcategories": []
+  },
+  {
+    "store": "spar",
+    "id": "420471",
+    "name": "Toppits Gefrieretiketten",
+    "category": "Küchenbedarf",
+    "subcategories": []
+  },
+  {
+    "store": "spar",
+    "id": "4083641",
+    "name": "Toppits Jausenbeutel 18x25cm 45 Stück",
+    "category": "Küchenbedarf",
+    "subcategories": []
+  },
+  {
+    "store": "spar",
+    "id": "1456288",
+    "name": "Toppits Mikrowellenfolie 2in1 32,5 cm 15 Meter",
+    "category": "Küchenbedarf",
+    "subcategories": []
+  },
+  {
+    "store": "spar",
+    "id": "6461553",
+    "name": "Toppits Mini-Zip Beutel 20 Beutel 150ml 20 Beutel 380ml",
+    "category": "Küchenbedarf",
+    "subcategories": []
+  },
+  {
+    "store": "spar",
+    "id": "2020003274930",
+    "name": "Toppits Recycling Alufollie 10m",
+    "category": "Küchenbedarf",
+    "subcategories": []
+  },
+  {
+    "store": "spar",
+    "id": "2020002599003",
+    "name": "Toppits SafeLoc RuckZuck 1 Liter",
+    "category": "Küchenbedarf",
+    "subcategories": []
+  },
+  {
+    "store": "spar",
+    "id": "2020001763979",
+    "name": "Toppits Sandwichbeutel mit Safeloc 25 Beutel",
+    "category": "Küchenbedarf",
+    "subcategories": []
+  },
+  {
+    "store": "spar",
+    "id": "3899588",
+    "name": "Toppits Verschlussklemmen Bunt 5 Stück",
+    "category": "Küchenbedarf",
+    "subcategories": []
+  },
+  {
+    "store": "spar",
+    "id": "389341",
+    "name": "Toppits Verschlussklipse 100 STK",
+    "category": "Küchenbedarf",
+    "subcategories": []
+  },
+  {
+    "store": "spar",
+    "id": "2020000701101",
+    "name": "Toppits Zipper 1 Liter XL Vorratspack",
+    "category": "Küchenbedarf",
+    "subcategories": []
+  },
+  {
+    "store": "spar",
+    "id": "2020000432494",
+    "name": "Toppits Zipper 1 Liter mit Standboden",
+    "category": "Küchenbedarf",
+    "subcategories": []
+  },
+  {
+    "store": "spar",
+    "id": "2020000432517",
+    "name": "Toppits Zipper 3 Liter mit Standboden",
+    "category": "Küchenbedarf",
+    "subcategories": []
+  },
+  {
+    "store": "spar",
+    "id": "2020003281730",
+    "name": "Toppits Zipper 5 Stk. 6l",
+    "category": "Küchenbedarf",
+    "subcategories": []
+  },
+  {
+    "store": "spar",
+    "id": "2020000701125",
+    "name": "Toppits Zipper 6 Liter XL Vorratspack",
+    "category": "Küchenbedarf",
+    "subcategories": []
+  },
+  {
+    "store": "spar",
+    "id": "2020000701149",
+    "name": "Toppits Zipper Duo Packung 1L und 3L 12x 1L und 8x 3L",
+    "category": "Küchenbedarf",
+    "subcategories": []
+  },
+  {
+    "store": "spar",
+    "id": "2020003274923",
+    "name": "Toppits ÖKO Gefrierbeutel 3L",
+    "category": "Küchenbedarf",
+    "subcategories": []
+  },
+  {
+    "store": "spar",
+    "id": "2020003272400",
+    "name": "Toppits Öko Frischhaltefolie",
+    "category": "Küchenbedarf",
+    "subcategories": []
+  },
+  {
+    "store": "spar",
+    "id": "2020003885754",
+    "name": "Tofix Duft-Spray Lemon Fresh 250ml",
+    "category": "Haushalt",
+    "subcategories": []
+  },
+  {
+    "store": "spar",
+    "id": "7521966",
+    "name": "Tofix Duft-Spray Ocean Fresh 250ml",
+    "category": "Haushalt",
+    "subcategories": []
+  },
+  {
+    "store": "spar",
+    "id": "373692",
+    "name": "Tofix WC-Gel-Reiniger Ocean 750ml",
+    "category": "Reinigungsmittel",
+    "subcategories": []
+  },
+  {
+    "store": "spar",
+    "id": "6488758",
+    "name": "Tofix WC-fresh WC-Einhänger Ocean 40g",
+    "category": "Reinigungsmittel",
+    "subcategories": []
+  },
+  {
+    "store": "spar",
+    "id": "2020003406249",
+    "name": "Tofix WC-fresh WC-Nachfüllsteine Exotic 3 Stück",
+    "category": "Reinigungsmittel",
+    "subcategories": []
+  },
+  {
+    "store": "spar",
+    "id": "917780",
+    "name": "Tofix WC-fresh WC-Nachfüllsteine Lemon 3 Stück",
+    "category": "Reinigungsmittel",
+    "subcategories": []
+  },
+  {
+    "store": "spar",
+    "id": "120999",
+    "name": "Tofix WC-fresh WC-Nachfüllsteine Ocean 3 Stück",
+    "category": "Reinigungsmittel",
+    "subcategories": []
+  },
+  {
+    "store": "spar",
+    "id": "7414091",
+    "name": "Tofix WC-fresh WC-Nachfüllsteine Wasserlilie 3 Stück",
+    "category": "Reinigungsmittel",
+    "subcategories": []
+  },
+  {
+    "store": "spar",
+    "id": "2020004312150",
+    "name": "Tiger Balm Muskel & Gelenk Fluid 90ml",
+    "category": "Gesundheit",
+    "subcategories": []
+  },
+  {
+    "store": "spar",
+    "id": "2020004312129",
+    "name": "Tiger Balm Nacken & Schulter Balsam 50g",
+    "category": "Gesundheit",
+    "subcategories": []
+  }
+]

@@ -1,0 +1,708 @@
+[
+  {
+    "store": "spar",
+    "id": "8010148",
+    "name": "INTERSPAR Backstube Mohnplunder",
+    "category": "Backwaren",
+    "subcategories": ["Plunder", "Mohn"]
+  },
+  {
+    "store": "spar",
+    "id": "2501512",
+    "name": "INTERSPAR Backstube Nuss Beugel",
+    "category": "Backwaren",
+    "subcategories": ["Beugel", "Nuss"]
+  },
+  {
+    "store": "spar",
+    "id": "8014078",
+    "name": "INTERSPAR Backstube Nusskranz",
+    "category": "Backwaren",
+    "subcategories": ["Kranz", "Nuss"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001196494",
+    "name": "INTERSPAR Backstube Plunder mit Beeren",
+    "category": "Backwaren",
+    "subcategories": ["Plunder", "Beeren"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001196708",
+    "name": "INTERSPAR Backstube Plunder mit Früchten",
+    "category": "Backwaren",
+    "subcategories": ["Plunder", "Früchte"]
+  },
+  {
+    "store": "spar",
+    "id": "2503950",
+    "name": "INTERSPAR Backstube Rehrücken",
+    "category": "Backwaren",
+    "subcategories": ["Rehrücken"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001247202",
+    "name": "INTERSPAR Backstube Sacherschnitte 2 Stück",
+    "category": "Backwaren",
+    "subcategories": ["Sacherschnitte", "Stück"]
+  },
+  {
+    "store": "spar",
+    "id": "2504230",
+    "name": "INTERSPAR Backstube Schaumrolle 2er",
+    "category": "Backwaren",
+    "subcategories": ["Schaumrolle", "2er"]
+  },
+  {
+    "store": "spar",
+    "id": "8004437",
+    "name": "INTERSPAR Backstube Schmetterling",
+    "category": "Backwaren",
+    "subcategories": ["Schmetterling"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004017321",
+    "name": "INTERSPAR Backstube Schoko-Vanille-Traum",
+    "category": "Backwaren",
+    "subcategories": ["Schoko-Vanille-Traum"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001247189",
+    "name": "INTERSPAR Backstube Schokobananenschnitte 2 Stück",
+    "category": "Backwaren",
+    "subcategories": ["Schokobananenschnitte", "Stück"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004301451",
+    "name": "INTERSPAR Backstube Sommer-Mix - Tiramisu-, Joghurt-,Ribiselschnitte 3er Schnitten",
+    "category": "Backwaren",
+    "subcategories": [
+      "Sommer-Mix",
+      "Tiramisu",
+      "Joghurt",
+      "Ribiselschnitte",
+      "3er Schnitten"
+    ]
+  },
+  {
+    "store": "spar",
+    "id": "2020004721501",
+    "name": "INTERSPAR Backstube Sommermix Tiramisu- & Jogurtschnitte 2 Stück",
+    "category": "Backwaren",
+    "subcategories": ["Sommermix", "Tiramisu", "Jogurtschnitte", "2 Stück"]
+  },
+  {
+    "store": "spar",
+    "id": "1050011",
+    "name": "INTERSPAR Backstube Teegebäck gemischt",
+    "category": "Backwaren",
+    "subcategories": ["Teegebäck", "gemischt"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004640529",
+    "name": "INTERSPAR Backstube Topfenblume",
+    "category": "Backwaren",
+    "subcategories": ["Topfenblume"]
+  },
+  {
+    "store": "spar",
+    "id": "7903168",
+    "name": "INTERSPAR Backstube Wiener Kipferl",
+    "category": "Backwaren",
+    "subcategories": ["Wiener Kipferl"]
+  },
+  {
+    "store": "spar",
+    "id": "1414035",
+    "name": "Imperial das Original Piccolo",
+    "category": "Getränke",
+    "subcategories": ["Piccolo"]
+  },
+  {
+    "store": "spar",
+    "id": "8016423",
+    "name": "Imperial das Original Queen",
+    "category": "Getränke",
+    "subcategories": ["Queen"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003224980",
+    "name": "La Focaccina Bo Focaccia Sticks Classic",
+    "category": "Backwaren",
+    "subcategories": ["Focaccia Sticks", "Classic"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003225857",
+    "name": "La Focaccina Bo Focaccia Sticks Olive",
+    "category": "Backwaren",
+    "subcategories": ["Focaccia Sticks", "Olive"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004431547",
+    "name": "Leimer Bruschetta Knoblauch & Basilikum",
+    "category": "Backwaren",
+    "subcategories": ["Bruschetta", "Knoblauch", "Basilikum"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003443015",
+    "name": "Marlenka Honigtorte",
+    "category": "Backwaren",
+    "subcategories": ["Honigtorte"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004346254",
+    "name": "Milka Cake",
+    "category": "Backwaren",
+    "subcategories": ["Cake"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003129322",
+    "name": "Milka Donuts Schoko 4 Stück",
+    "category": "Backwaren",
+    "subcategories": ["Donuts", "Schoko", "4 Stück"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003846588",
+    "name": "Milka Muffin Choco 2 Stück",
+    "category": "Backwaren",
+    "subcategories": ["Muffin", "Choco", "2 Stück"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003891571",
+    "name": "Milka Muffin Choco 2 Stück",
+    "category": "Backwaren",
+    "subcategories": ["Muffin", "Choco", "2 Stück"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004223388",
+    "name": "Guthaus Semmelbrösel",
+    "category": "Backwaren",
+    "subcategories": ["Semmelbrösel"]
+  },
+  {
+    "store": "spar",
+    "id": "6265342",
+    "name": "Land-Leben Dinkel-Knödelbrot",
+    "category": "Backwaren",
+    "subcategories": ["Dinkel-Knödelbrot"]
+  },
+  {
+    "store": "spar",
+    "id": "7094569",
+    "name": "Almdudler Alpenkräuterlimonade Original",
+    "category": "Getränke",
+    "subcategories": ["Alpenkräuterlimonade"]
+  },
+  {
+    "store": "spar",
+    "id": "3639276",
+    "name": "Almdudler Alpenkräuterlimonade Original",
+    "category": "Getränke",
+    "subcategories": ["Alpenkräuterlimonade"]
+  },
+  {
+    "store": "spar",
+    "id": "240383",
+    "name": "Almdudler Alpenkräuterlimonade Original",
+    "category": "Getränke",
+    "subcategories": ["Alpenkräuterlimonade"]
+  },
+  {
+    "store": "spar",
+    "id": "8209665",
+    "name": "Almdudler Alpenkräuterlimonade Original 6 x 0,5l",
+    "category": "Getränke",
+    "subcategories": ["Alpenkräuterlimonade"]
+  },
+  {
+    "store": "spar",
+    "id": "6623807",
+    "name": "Almdudler Alpenkräuterlimonade Zuckerfrei",
+    "category": "Getränke",
+    "subcategories": ["Alpenkräuterlimonade Zuckerfrei"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001666195",
+    "name": "Almdudler Energy Drink Mate & Guarana",
+    "category": "Getränke",
+    "subcategories": ["Energy Drink", "Mate", "Guarana"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004480743",
+    "name": "Almdudler Energy Drink Mate & Guarana Zuckerfrei",
+    "category": "Getränke",
+    "subcategories": ["Energy Drink", "Mate", "Guarana", "Zuckerfrei"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001590032",
+    "name": "Almdudler Holunder",
+    "category": "Getränke",
+    "subcategories": ["Holunder"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002779238",
+    "name": "Almdudler Leicht",
+    "category": "Getränke",
+    "subcategories": ["Leicht"]
+  },
+  {
+    "store": "spar",
+    "id": "6989446",
+    "name": "Almdudler Original",
+    "category": "Getränke",
+    "subcategories": ["Almdudler"]
+  },
+  {
+    "store": "spar",
+    "id": "7094767",
+    "name": "Almdudler Original Glasflasche",
+    "category": "Getränke",
+    "subcategories": ["Almdudler"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003631207",
+    "name": "Almdudler Original Glasflasche",
+    "category": "Getränke",
+    "subcategories": ["Almdudler"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002286491",
+    "name": "Almdudler Sirup",
+    "category": "Getränke",
+    "subcategories": ["Sirup"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003125775",
+    "name": "Almdudler Sirup Skiwasser",
+    "category": "Getränke",
+    "subcategories": ["Sirup", "Skiwasser"]
+  },
+  {
+    "store": "spar",
+    "id": "1145106",
+    "name": "Almdudler Still",
+    "category": "Getränke",
+    "subcategories": ["Still"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003721762",
+    "name": "Almdudler Zuckerfrei",
+    "category": "Getränke",
+    "subcategories": ["Zuckerfrei"]
+  },
+  {
+    "store": "spar",
+    "id": "2806204",
+    "name": "Almdudler Zuckerfrei",
+    "category": "Getränke",
+    "subcategories": ["Zuckerfrei"]
+  },
+  {
+    "store": "spar",
+    "id": "4764373",
+    "name": "Almdudler Zuckerfrei",
+    "category": "Getränke",
+    "subcategories": ["Zuckerfrei"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003631245",
+    "name": "Almdudler Zuckerfrei Glasflasche",
+    "category": "Getränke",
+    "subcategories": ["Zuckerfrei"]
+  },
+  {
+    "store": "spar",
+    "id": "1333732",
+    "name": "Arizona Green Tea Pomegranate",
+    "category": "Getränke",
+    "subcategories": ["Arizona", "Green Tea", "Pomegranate"]
+  },
+  {
+    "store": "spar",
+    "id": "1333695",
+    "name": "Arizona Green Tea with Honey",
+    "category": "Getränke",
+    "subcategories": ["Arizona", "Green Tea", "Honey"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002569747",
+    "name": "Arizona Green Tea with Honey and Peach",
+    "category": "Getränke",
+    "subcategories": ["Arizona", "Green Tea", "Honey", "Peach"]
+  },
+  {
+    "store": "spar",
+    "id": "1333749",
+    "name": "Arizona Ice Tea with Peach Flavour",
+    "category": "Getränke",
+    "subcategories": ["Arizona", "Ice Tea", "Peach Flavour"]
+  },
+  {
+    "store": "spar",
+    "id": "1333701",
+    "name": "Arizona White Tea with Blueberry",
+    "category": "Getränke",
+    "subcategories": ["Arizona", "White Tea", "Blueberry"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004224705",
+    "name": "Balis Basil Basilikum Ingwer",
+    "category": "Getränke",
+    "subcategories": ["Basilikum", "Ingwer"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004708359",
+    "name": "Balis Basil Basilikum Ingwer",
+    "category": "Getränke",
+    "subcategories": ["Basilikum", "Ingwer"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004224736",
+    "name": "Balis Cosmo Cranberry Rosmarin Drink",
+    "category": "Getränke",
+    "subcategories": ["Cosmo", "Cranberry", "Rosmarin", "Drink"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004224729",
+    "name": "Balis Tiki Ananas Minz Drink",
+    "category": "Getränke",
+    "subcategories": ["Tiki", "Ananas", "Minz", "Drink"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004526526",
+    "name": "Bang Energy Drink Bangster Berry",
+    "category": "Getränke",
+    "subcategories": ["Energy Drink", "Bangster Berry"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004526571",
+    "name": "Bang Energy Drink Candy Apple",
+    "category": "Getränke",
+    "subcategories": ["Energy Drink", "Candy Apple"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004526557",
+    "name": "Bang Energy Drink Peach Mango",
+    "category": "Getränke",
+    "subcategories": ["Energy Drink", "Peach Mango"]
+  },
+  {
+    "store": "spar",
+    "id": "3755075",
+    "name": "Bols Bar-Sirup Grenadine",
+    "category": "Getränke",
+    "subcategories": ["Bar-Sirup", "Grenadine"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004398475",
+    "name": "BraTee Eistee",
+    "category": "Getränke",
+    "subcategories": ["Eistee"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003764226",
+    "name": "BraTee Eistee Granatapfel",
+    "category": "Getränke",
+    "subcategories": ["Eistee", "Granatapfel"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003764202",
+    "name": "BraTee Eistee Pfirsich",
+    "category": "Getränke",
+    "subcategories": ["Eistee", "Pfirsich"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003764189",
+    "name": "BraTee Eistee Wassermelone",
+    "category": "Getränke",
+    "subcategories": ["Eistee", "Wassermelone"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003764219",
+    "name": "BraTee Eistee Zitrone",
+    "category": "Getränke",
+    "subcategories": ["Eistee", "Zitrone"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002014872",
+    "name": "Bundaberg Ginger Beer alkoholfrei",
+    "category": "Getränke",
+    "subcategories": ["Ginger Beer", "alkoholfrei"]
+  },
+  {
+    "store": "spar",
+    "id": "4722366",
+    "name": "Carpe Diem Fresh Kombucha Classic",
+    "category": "Getränke",
+    "subcategories": ["Kombucha", "Classic"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001708420",
+    "name": "Carpe Diem Green Tea Matcha",
+    "category": "Getränke",
+    "subcategories": ["Green Tea", "Matcha"]
+  },
+  {
+    "store": "spar",
+    "id": "4722823",
+    "name": "Carpe Diem Pur Kombucha Classic",
+    "category": "Getränke",
+    "subcategories": ["Kombucha", "Classic"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003912399",
+    "name": "Carry Icetea Ceylon + Elder",
+    "category": "Getränke",
+    "subcategories": ["Icetea", "Ceylon", "Elder"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003754975",
+    "name": "Cedevita Orange",
+    "category": "Getränke",
+    "subcategories": ["Cedevita", "Orange"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003755002",
+    "name": "Cedevita Zitrone",
+    "category": "Getränke",
+    "subcategories": ["Cedevita", "Zitrone"]
+  },
+  {
+    "store": "spar",
+    "id": "2020000655107",
+    "name": "Charitea Eistee green",
+    "category": "Getränke",
+    "subcategories": ["Eistee", "green"]
+  },
+  {
+    "store": "spar",
+    "id": "2020000655145",
+    "name": "Charitea Eistee mate",
+    "category": "Getränke",
+    "subcategories": ["Eistee", "mate"]
+  },
+  {
+    "store": "spar",
+    "id": "2020000654971",
+    "name": "Charitea Eistee red",
+    "category": "Getränke",
+    "subcategories": ["Eistee", "red"]
+  },
+  {
+    "store": "spar",
+    "id": "1175493",
+    "name": "Darbo Sommersirup Holunderblüte Minze",
+    "category": "Getränke",
+    "subcategories": ["Sommersirup", "Holunderblüte", "Minze"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002957674",
+    "name": "Darbo sizilianische Zitrone Zitrone",
+    "category": "Getränke",
+    "subcategories": ["sizilianische", "Zitrone"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004498335",
+    "name": "Darbo sizilianische Zitrone zuckerreduziert",
+    "category": "Getränke",
+    "subcategories": ["sizilianische", "Zitrone", "zuckerreduziert"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004009562",
+    "name": "Dirtea Eistee Blueberry",
+    "category": "Getränke",
+    "subcategories": ["Eistee", "Blueberry"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004009593",
+    "name": "Dirtea Eistee Peach",
+    "category": "Getränke",
+    "subcategories": ["Eistee", "Peach"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004101754",
+    "name": "ENZO Alpin",
+    "category": "Getränke",
+    "subcategories": ["ENZO", "Alpin"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004101761",
+    "name": "ENZO Rosi Alpin",
+    "category": "Getränke",
+    "subcategories": ["ENZO", "Rosi", "Alpin"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003197024",
+    "name": "EZA Bio Teegetränk Rotbusch Limette",
+    "category": "Getränke",
+    "subcategories": ["Bio Teegetränk", "Rotbusch", "Limette"]
+  },
+  {
+    "store": "spar",
+    "id": "3053270",
+    "name": "EZA Bio-Mate Eistee Grüntee & Maracuja",
+    "category": "Getränke",
+    "subcategories": ["Bio-Mate", "Eistee", "Grüntee", "Maracuja"]
+  },
+  {
+    "store": "spar",
+    "id": "6930585",
+    "name": "EZA Mate Eistee Limette",
+    "category": "Getränke",
+    "subcategories": ["Mate", "Eistee", "Limette"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004650429",
+    "name": "FLOCKE Bio Eistee mit Apfel & Pfirsich",
+    "category": "Getränke",
+    "subcategories": ["Bio Eistee", "Apfel", "Pfirsich"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004650641",
+    "name": "FLOCKE Bio Eistee mit Apfel & Zitrone",
+    "category": "Getränke",
+    "subcategories": ["Bio Eistee", "Apfel", "Zitrone"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004199003",
+    "name": "Fanta #WHAT THE FANTA Acai Bowl Zero",
+    "category": "Getränke",
+    "subcategories": ["Fanta", "#WHAT THE FANTA", "Acai Bowl", "Zero"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004460981",
+    "name": "Fanta Exotic",
+    "category": "Getränke",
+    "subcategories": ["Fanta", "Exotic"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004625472",
+    "name": "Fanta Exotic Zero",
+    "category": "Getränke",
+    "subcategories": ["Fanta", "Exotic", "Zero"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004625434",
+    "name": "Fanta Exotic Zero",
+    "category": "Getränke",
+    "subcategories": ["Fanta", "Exotic", "Zero"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002291396",
+    "name": "Fanta Lemon Zero",
+    "category": "Getränke",
+    "subcategories": ["Fanta", "Lemon", "Zero"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002291266",
+    "name": "Fanta Lemon Zero",
+    "category": "Getränke",
+    "subcategories": ["Fanta", "Lemon", "Zero"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004198938",
+    "name": "Fanta Mango",
+    "category": "Getränke",
+    "subcategories": ["Fanta", "Mango"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004150196",
+    "name": "Fanta Mango",
+    "category": "Getränke",
+    "subcategories": ["Fanta", "Mango"]
+  },
+  {
+    "store": "spar",
+    "id": "239608",
+    "name": "Fanta Orange",
+    "category": "Getränke",
+    "subcategories": ["Fanta", "Orange"]
+  },
+  {
+    "store": "spar",
+    "id": "7093043",
+    "name": "Fanta Orange",
+    "category": "Getränke",
+    "subcategories": ["Fanta", "Orange"]
+  },
+  {
+    "store": "spar",
+    "id": "694155",
+    "name": "Fanta Orange",
+    "category": "Getränke",
+    "subcategories": ["Fanta", "Orange"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001596973",
+    "name": "Fanta Orange",
+    "category": "Getränke",
+    "subcategories": ["Fanta", "Orange"]
+  },
+  {
+    "store": "spar",
+    "id": "5987740",
+    "name": "Fanta Orange",
+    "category": "Getränke",
+    "subcategories": ["Fanta", "Orange"]
+  }
+]

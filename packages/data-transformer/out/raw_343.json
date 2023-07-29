@@ -1,0 +1,722 @@
+[
+  {
+    "store": "spar",
+    "id": "326759",
+    "name": "Knorr Feinschmecker Sauce zum Schweinsbraten 32G",
+    "category": "Sauce",
+    "subcategories": ["Bratensauce", "Schweinebraten"]
+  },
+  {
+    "store": "spar",
+    "id": "7211409",
+    "name": "Knorr Gulasch Saft Würfel 75G",
+    "category": "Würfel",
+    "subcategories": ["Gulasch", "Suppenwürfel"]
+  },
+  {
+    "store": "spar",
+    "id": "5162659",
+    "name": "Knorr Kartoffel mal anders Kräuter-Knoblauch 4 Portionen",
+    "category": "Kartoffel",
+    "subcategories": ["Beilage", "Kartoffelerzeugnisse"]
+  },
+  {
+    "store": "spar",
+    "id": "5162680",
+    "name": "Knorr Kartoffel mal anders Speck-Zwiebel 4 Portionen",
+    "category": "Kartoffel",
+    "subcategories": ["Beilage", "Kartoffelerzeugnisse"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003506161",
+    "name": "Knorr Kräuterlinge Gartenkräuter",
+    "category": "Kräuter",
+    "subcategories": ["Gartenkräuter", "Gewürzmischung"]
+  },
+  {
+    "store": "spar",
+    "id": "3976227",
+    "name": "Knorr Kräuterlinge Gewürzmischung Frühlingskräuter",
+    "category": "Kräuter",
+    "subcategories": ["Frühlingskräuter", "Gewürzmischung"]
+  },
+  {
+    "store": "spar",
+    "id": "3976234",
+    "name": "Knorr Kräuterlinge Gewürzmischung Italienische Kräuter",
+    "category": "Kräuter",
+    "subcategories": ["Italienische Kräuter", "Gewürzmischung"]
+  },
+  {
+    "store": "spar",
+    "id": "2908366",
+    "name": "Knorr Salat Krönung Croutinos mit Walnuss und Sojakernen 25g",
+    "category": "Salatdressing",
+    "subcategories": ["Croutinos", "Walnuss", "Sojakern"]
+  },
+  {
+    "store": "spar",
+    "id": "332880",
+    "name": "Knorr Salat Krönung Croutinos mit Zwiebeln 25g",
+    "category": "Salatdressing",
+    "subcategories": ["Croutinos", "Zwiebel"]
+  },
+  {
+    "store": "spar",
+    "id": "5346042",
+    "name": "Knorr Salat Krönung Dressing 7 Kräuter 24g",
+    "category": "Salatdressing",
+    "subcategories": ["Dressing", "7 Kräuter"]
+  },
+  {
+    "store": "spar",
+    "id": "4467687",
+    "name": "Knorr Salat Krönung Dressing Balsamico-Kräuter 33g",
+    "category": "Salatdressing",
+    "subcategories": ["Dressing", "Balsamico-Kräuter"]
+  },
+  {
+    "store": "spar",
+    "id": "2811932",
+    "name": "Knorr Salat Krönung Dressing Gartenkräuter 8g",
+    "category": "Salatdressing",
+    "subcategories": ["Dressing", "Gartenkräuter"]
+  },
+  {
+    "store": "spar",
+    "id": "2811925",
+    "name": "Knorr Salat Krönung Dressing Italienische Kräuter 8g",
+    "category": "Salatdressing",
+    "subcategories": ["Dressing", "Italienische Kräuter"]
+  },
+  {
+    "store": "spar",
+    "id": "2811895",
+    "name": "Knorr Salat Krönung Dressing Kräuter-Knoblauch 8g",
+    "category": "Salatdressing",
+    "subcategories": ["Dressing", "Kräuter-Knoblauch"]
+  },
+  {
+    "store": "spar",
+    "id": "2811918",
+    "name": "Knorr Salat Krönung Dressing Kräuter-Zwiebel 8g",
+    "category": "Salatdressing",
+    "subcategories": ["Dressing", "Kräuter-Zwiebel"]
+  },
+  {
+    "store": "spar",
+    "id": "2811901",
+    "name": "Knorr Salat Krönung Dressing Würzige Kräuter 8g",
+    "category": "Salatdressing",
+    "subcategories": ["Dressing", "Würzige Kräuter"]
+  },
+  {
+    "store": "spar",
+    "id": "4960850",
+    "name": "Knorr Sauce zum Rindsbraten Tube 10 Portionen",
+    "category": "Sauce",
+    "subcategories": ["Rindsbraten", "Fleischsauce"]
+  },
+  {
+    "store": "spar",
+    "id": "846349",
+    "name": "Knorr Würzmittel Aromat Streuer 100G",
+    "category": "Würzmittel",
+    "subcategories": ["Gewürzmischung", "Aromat"]
+  },
+  {
+    "store": "spar",
+    "id": "2046372",
+    "name": "Knorr Basis Serbisches Reisfleisch 3 Portionen",
+    "category": "Basis",
+    "subcategories": ["Reisfleisch", "Hauptgericht"]
+  },
+  {
+    "store": "spar",
+    "id": "2046501",
+    "name": "Knorr Basis Spaghetti Carbonara 3 Portionen",
+    "category": "Basis",
+    "subcategories": ["Spaghetti Carbonara", "Pasta"]
+  },
+  {
+    "store": "spar",
+    "id": "1891683",
+    "name": "Knorr Basis Tortellini in Käse-Rahm Sauce 3 Portionen",
+    "category": "Basis",
+    "subcategories": ["Tortellini", "Käse-Rahm Sauce"]
+  },
+  {
+    "store": "spar",
+    "id": "2869247",
+    "name": "Knorr Basis Zwiebelrostbraten 4 Portionen",
+    "category": "Basis",
+    "subcategories": ["Zwiebelrostbraten", "Hauptgericht"]
+  },
+  {
+    "store": "spar",
+    "id": "7633089",
+    "name": "Knorr Basis Überbackene Schinkenfleckerln 3 Portionen",
+    "category": "Basis",
+    "subcategories": ["Überbackene Schinkenfleckerln", "Hauptgericht"]
+  },
+  {
+    "store": "spar",
+    "id": "7632952",
+    "name": "Knorr Basis Überbackener Hörnchen-Auflauf 3 Portionen",
+    "category": "Basis",
+    "subcategories": ["Überbackener Hörnchen-Auflauf", "Hauptgericht"]
+  },
+  {
+    "store": "spar",
+    "id": "4946687",
+    "name": "Knorr Beilagen Knödel halb+halb in Kochbeuteln",
+    "category": "Beilagen",
+    "subcategories": ["Knödel", "Kochbeuteln"]
+  },
+  {
+    "store": "spar",
+    "id": "2020000691037",
+    "name": "Knorr Echt Natürlich Basis PASTA ASCIUTTA 3 Portionen",
+    "category": "Basis",
+    "subcategories": ["Pasta Asciutta", "Hauptgericht"]
+  },
+  {
+    "store": "spar",
+    "id": "2020000691075",
+    "name": "Knorr Echt Natürlich Basis für Chili con Carne 2 Portionen",
+    "category": "Basis",
+    "subcategories": ["Chili con Carne", "Hauptgericht"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001999521",
+    "name": "Knorr Echt Natürlich Basis für Faschiertes 3 Portionen",
+    "category": "Basis",
+    "subcategories": ["Faschiertes", "Hauptgericht"]
+  },
+  {
+    "store": "spar",
+    "id": "2020000691044",
+    "name": "Knorr Echt Natürlich Basis für Gulasch 3 Portionen",
+    "category": "Basis",
+    "subcategories": ["Gulasch", "Hauptgericht"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003358944",
+    "name": "Knorr Echt Natürlich Basis für Hörnchenauflauf 3 Portionen",
+    "category": "Basis",
+    "subcategories": ["Hörnchenauflauf", "Hauptgericht"]
+  },
+  {
+    "store": "spar",
+    "id": "2020000691051",
+    "name": "Knorr Echt Natürlich Basis für Lasagne 2 Portionen",
+    "category": "Basis",
+    "subcategories": ["Lasagne", "Hauptgericht"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001073351",
+    "name": "Knorr Echt Natürlich Basis für Puten-Geschnetzeltes 3 Portionen",
+    "category": "Basis",
+    "subcategories": ["Puten-Geschnetzeltes", "Hauptgericht"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002305765",
+    "name": "Knorr Echt Natürlich Basis für Spaghetti Carbonara 3 Portionen",
+    "category": "Basis",
+    "subcategories": ["Spaghetti Carbonara", "Hauptgericht"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001239825",
+    "name": "Knorr Echt Natürlich Basis für mildes Puten-Curry 3 Portionen",
+    "category": "Basis",
+    "subcategories": ["Mildes Puten-Curry", "Hauptgericht"]
+  },
+  {
+    "store": "spar",
+    "id": "983471",
+    "name": "Knorr Fix-Einbrenn 250G",
+    "category": "Fix",
+    "subcategories": ["Einbrenn"]
+  },
+  {
+    "store": "spar",
+    "id": "2732282",
+    "name": "Knorr Fix-Püree mit Milch",
+    "category": "Fix",
+    "subcategories": ["Püree", "Kartoffelpüree"]
+  },
+  {
+    "store": "spar",
+    "id": "501408",
+    "name": "Knorr Vitamin plus Basis für Kartoffel-Gratin 3 Portionen",
+    "category": "Basis",
+    "subcategories": ["Kartoffel-Gratin", "Beilage", "Vitamin plus"]
+  },
+  {
+    "store": "spar",
+    "id": "7633454",
+    "name": "Knorr Vitamin plus Basis für Schwammerlragout 2 Portionen",
+    "category": "Basis",
+    "subcategories": ["Schwammerlragout", "Hauptgericht", "Vitamin plus"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004163141",
+    "name": "Kinderschere Sweet Wild Cat Kinderschere GVE 12",
+    "category": "Schere",
+    "subcategories": ["Kinderschere", "Sweet Wild Cat"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003867811",
+    "name": "KitchenAid Auflaufform 33 x 22,5 cm",
+    "category": "Auflaufform",
+    "subcategories": ["Backform", "Küchenutensilien"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003867835",
+    "name": "KitchenAid Backblech 33 x 22,5 cm",
+    "category": "Backblech",
+    "subcategories": ["Backform", "Küchenutensilien"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004336583",
+    "name": "KitchenAid Crepespfanne 24 cm Classic Forged",
+    "category": "Crepespfanne",
+    "subcategories": ["Pfanne", "Küchenutensilien"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003867712",
+    "name": "KitchenAid Gugelhupfform",
+    "category": "Gugelhupfform",
+    "subcategories": ["Backform", "Küchenutensilien"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003867750",
+    "name": "KitchenAid Kastenform",
+    "category": "Kastenform",
+    "subcategories": ["Backform", "Küchenutensilien"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003867651",
+    "name": "KitchenAid Muffinform 12er",
+    "category": "Muffinform",
+    "subcategories": ["Backform", "Küchenutensilien"]
+  },
+  {
+    "store": "spar",
+    "id": "1589481",
+    "name": "Klein Jacqueline Merlot 2021",
+    "category": "Wein",
+    "subcategories": ["Merlot", "Rotwein"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001903757",
+    "name": "Klein Jacqueline Zweigelt Exklusiv 2019",
+    "category": "Wein",
+    "subcategories": ["Zweigelt", "Rotwein"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004039989",
+    "name": "KitchenAid Pfanne 20 cm Classic Forged",
+    "category": "Pfanne",
+    "subcategories": ["Kochgeschirr", "Küchenutensilien"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004039996",
+    "name": "KitchenAid Pfanne 24 cm Classic Forged",
+    "category": "Pfanne",
+    "subcategories": ["Kochgeschirr", "Küchenutensilien"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004040725",
+    "name": "KitchenAid Pfanne 28 cm Classic Forged",
+    "category": "Pfanne",
+    "subcategories": ["Kochgeschirr", "Küchenutensilien"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003867873",
+    "name": "KitchenAid Quicheform",
+    "category": "Quicheform",
+    "subcategories": ["Backform", "Küchenutensilien"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004336712",
+    "name": "KitchenAid Runde Grillpfanne 28 cm Classic Forged",
+    "category": "Grillpfanne",
+    "subcategories": ["Pfanne", "Küchenutensilien"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003867569",
+    "name": "KitchenAid Springform 24cm",
+    "category": "Springform",
+    "subcategories": ["Backform", "Küchenutensilien"]
+  },
+  {
+    "store": "spar",
+    "id": "6722562",
+    "name": "Kiwi Gold per Stück Kiwi Gold ST EVE 1",
+    "category": "Kiwi",
+    "subcategories": ["Exotische Früchte"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004336705",
+    "name": "KitchenAid Wokpfanne 28 cm Classic Forged",
+    "category": "Wokpfanne",
+    "subcategories": ["Pfanne", "Küchenutensilien"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003040504",
+    "name": "Kleenex Duo-Taschentücher-Box Ultra Soft 2 x 64 Tücher",
+    "category": "Taschentücher",
+    "subcategories": ["Duo-Taschentücher-Box", " Ultra Soft"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004074683",
+    "name": "Kleenex Taschentücher-Box Balsam 56 Tücher",
+    "category": "Taschentücher",
+    "subcategories": ["Taschentuch", "Balsam", "Box"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001722914",
+    "name": "Kleenex Taschentücher-Box The Original 2 x 72 Tücher",
+    "category": "Taschentücher",
+    "subcategories": ["Taschentuch", "The Original"]
+  },
+  {
+    "store": "spar",
+    "id": "2020000655848",
+    "name": "Kleenex Taschentücher-Box Ultra Soft 64 Tücher",
+    "category": "Taschentücher",
+    "subcategories": ["Taschentuch", "Ultra Soft"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004074782",
+    "name": "Kleenex Tücher-Würfel Ultra Soft 48 Tücher",
+    "category": "Taschentücher",
+    "subcategories": ["Taschentuch", "Ultra Soft", "Würfel"]
+  },
+  {
+    "store": "spar",
+    "id": "4490524",
+    "name": "Kitekat Katzenfutter Bunte Vielfalt 12x85g",
+    "category": "Katzenfutter",
+    "subcategories": ["Futter", "Katze", "Bunte Vielfalt"]
+  },
+  {
+    "store": "spar",
+    "id": "8064578",
+    "name": "Kitekat Katzenfutter Geflügel-Allerlei 12x85g",
+    "category": "Katzenfutter",
+    "subcategories": ["Futter", "Katze", "Geflügel-Allerlei"]
+  },
+  {
+    "store": "spar",
+    "id": "4076711",
+    "name": "Kitekat Katzenfutter Landpicknick 12x85g",
+    "category": "Katzenfutter",
+    "subcategories": ["Futter", "Katze", "Landpicknick"]
+  },
+  {
+    "store": "spar",
+    "id": "2129204",
+    "name": "Kitekat Katzenfutter Markt-Mix 12x100 g",
+    "category": "Katzenfutter",
+    "subcategories": ["Futter", "Katze", "Markt-Mix"]
+  },
+  {
+    "store": "spar",
+    "id": "4076704",
+    "name": "Kitekat Katzennahrung Jagdschmaus 12x85g",
+    "category": "Katzenfutter",
+    "subcategories": ["Futter", "Katze", "Jagdschmaus"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004128997",
+    "name": "Klapptrithocker grau Klapp-Tritthocker GVE 10",
+    "category": "Tritthocker",
+    "subcategories": ["Hocker", "Klapphocker", "Küchenutensilien"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003853579",
+    "name": "Kloster Kitchen Ingwer Shot Classic",
+    "category": "Ingwer",
+    "subcategories": ["Shot", "Getränke", "Ingwershot"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003813948",
+    "name": "Kloster Kitchen Ingwer Shot Granatapfel",
+    "category": "Ingwer",
+    "subcategories": ["Shot", "Getränke", "Ingwershot"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003813900",
+    "name": "Kloster Kitchen Ingwer Shot Kurkuma",
+    "category": "Ingwer",
+    "subcategories": ["Shot", "Getränke", "Ingwershot"]
+  },
+  {
+    "store": "spar",
+    "id": "5505470",
+    "name": "Kleiner Klopfer Crazy Mix",
+    "category": "Spirituosen",
+    "subcategories": ["Likör", "Kleiner Klopfer"]
+  },
+  {
+    "store": "spar",
+    "id": "6950217",
+    "name": "Kleiner Klopfer Fun Mix",
+    "category": "Spirituosen",
+    "subcategories": ["Likör", "Kleiner Klopfer"]
+  },
+  {
+    "store": "spar",
+    "id": "2020000655596",
+    "name": "Kleiner Klopfer Fun Mix",
+    "category": "Spirituosen",
+    "subcategories": ["Likör", "Kleiner Klopfer"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004207746",
+    "name": "Kleiner Klopfer Pfefferminz",
+    "category": "Spirituosen",
+    "subcategories": ["Likör", "Kleiner Klopfer", "Pfefferminz"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003250057",
+    "name": "Kleiner Klopfer Sour Mix",
+    "category": "Spirituosen",
+    "subcategories": ["Likör", "Kleiner Klopfer"]
+  },
+  {
+    "store": "spar",
+    "id": "1589474",
+    "name": "Klein Jacqueline Zweigelt Neusiedlersee DAC 2021",
+    "category": "Wein",
+    "subcategories": ["Zweigelt", "Rotwein"]
+  },
+  {
+    "store": "spar",
+    "id": "6619527",
+    "name": "Klein Julius Grüner Veltliner Weinviertel DAC Klassik 2022",
+    "category": "Wein",
+    "subcategories": ["Grüner Veltliner", "Weißwein"]
+  },
+  {
+    "store": "spar",
+    "id": "7622663",
+    "name": "Kloster am Spitz Blaufränkisch BIO 2017",
+    "category": "Wein",
+    "subcategories": ["Blaufränkisch", "Rotwein"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004262585",
+    "name": "Kletzl Kletzerl",
+    "category": "Spirituosen",
+    "subcategories": ["Likör", "Kletzl"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004262578",
+    "name": "Kletzl feurig",
+    "category": "Spirituosen",
+    "subcategories": ["Likör", "Kletzl"]
+  },
+  {
+    "store": "spar",
+    "id": "1212259",
+    "name": "Knabber Nossi Chicken",
+    "category": "Snack",
+    "subcategories": ["Knabber Nossi", "Chicken"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002197155",
+    "name": "Knabber Nossi Classic 11x",
+    "category": "Snack",
+    "subcategories": ["Knabber Nossi", "Classic"]
+  },
+  {
+    "store": "spar",
+    "id": "548359",
+    "name": "Knabber Nossi Classic Duo",
+    "category": "Snack",
+    "subcategories": ["Knabber Nossi", "Classic", "Duo"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004112668",
+    "name": "Knabber Nossi Frankies",
+    "category": "Snack",
+    "subcategories": ["Knabber Nossi", "Frankies"]
+  },
+  {
+    "store": "spar",
+    "id": "3081761",
+    "name": "Knabber Nossi Ketchup",
+    "category": "Snack",
+    "subcategories": ["Knabber Nossi", "Ketchup"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001698929",
+    "name": "Knabber Nossi Knabbernossi PausenWrap",
+    "category": "Snack",
+    "subcategories": ["Knabber Nossi", "Knabbernossi", "PausenWrap"]
+  },
+  {
+    "store": "spar",
+    "id": "4097624",
+    "name": "Knabber Nossi Minis",
+    "category": "Snack",
+    "subcategories": ["Knabber Nossi", "Minis"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001866595",
+    "name": "Knabber Nossi Single",
+    "category": "Snack",
+    "subcategories": ["Knabber Nossi", "Single"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002827908",
+    "name": "Kloster Gut Aich Feuersalz",
+    "category": "Salz",
+    "subcategories": ["Gewürz", "Salz", "Feuersalz"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002827892",
+    "name": "Kloster Gut Aich Kaisersalz Knoblauch und Gewürzen",
+    "category": "Salz",
+    "subcategories": ["Gewürz", "Salz", "Kaisersalz", "Knoblauch"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002827885",
+    "name": "Kloster Gut Aich Kräutersalz",
+    "category": "Salz",
+    "subcategories": ["Gewürz", "Salz", "Kräutersalz"]
+  },
+  {
+    "store": "spar",
+    "id": "7835513",
+    "name": "Kneipp 3-Kräuter Entwässerung 60 Kapseln",
+    "category": "Nahrungsergänzung",
+    "subcategories": ["Kräuter", "Entwässerung", "Kapseln"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003484582",
+    "name": "Kneipp 2 in 1 Dusche Kraftvoll 200 ml",
+    "category": "Duschgel",
+    "subcategories": ["Kneipp", "2 in 1", "Kraftvoll"]
+  },
+  {
+    "store": "spar",
+    "id": "5976928",
+    "name": "Kneipp 2 in 1 Dusche Startklar 200ml",
+    "category": "Duschgel",
+    "subcategories": ["Kneipp", "2 in 1", "Startklar"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003994319",
+    "name": "Kneipp Aroma-Pflege Handseife Litsea Cubeba Zitrone 250ml",
+    "category": "Handseife",
+    "subcategories": [
+      "Pflegeprodukte",
+      "Seife",
+      "Handseife",
+      "Litsea Cubeba Zitrone"
+    ]
+  },
+  {
+    "store": "spar",
+    "id": "2020004312808",
+    "name": "Kneipp Aroma-Pflegedusche Guten Morgen 200ml",
+    "category": "Duschgel",
+    "subcategories": ["Pflegeprodukte", "Duschgel", "Guten Morgen"]
+  },
+  {
+    "store": "spar",
+    "id": "2009513",
+    "name": "Kneipp Aroma-Pflegedusche Lebensfreude 200ml",
+    "category": "Duschgel",
+    "subcategories": ["Pflegeprodukte", "Duschgel", "Lebensfreude"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001958306",
+    "name": "Kneipp Aroma-Pflegedusche Sei frei, verrückt & glücklich 200ml",
+    "category": "Duschgel",
+    "subcategories": [
+      "Pflegeprodukte",
+      "Duschgel",
+      "Sei frei",
+      "verrückt & glücklich"
+    ]
+  },
+  {
+    "store": "spar",
+    "id": "2020004666147",
+    "name": "Kneipp Aroma-Pflegedusche Urlaubsgefühl 200ml",
+    "category": "Duschgel",
+    "subcategories": ["Pflegeprodukte", "Duschgel", "Urlaubsgefühl"]
+  },
+  {
+    "store": "spar",
+    "id": "8124395",
+    "name": "Kneipp Aroma-Pflegeschaumbad Erkältungszeit 400ml",
+    "category": "Badezusatz",
+    "subcategories": [
+      "Pflegeprodukte",
+      "Badezusatz",
+      "Schaumbad",
+      "Erkältungszeit"
+    ]
+  },
+  {
+    "store": "spar",
+    "id": "2020004665041",
+    "name": "Kneipp Aroma-Pflegeschaumbad Glückliche Auszeit 400ml",
+    "category": "Badezusatz",
+    "subcategories": [
+      "Pflegeprodukte",
+      "Badezusatz",
+      "Schaumbad",
+      "Glückliche Auszeit"
+    ]
+  }
+]

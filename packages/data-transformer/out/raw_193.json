@@ -1,0 +1,702 @@
+[
+  {
+    "store": "spar",
+    "id": "4524410",
+    "name": "Red Bull Energy Drink 6 x 250ml",
+    "category": "Getränke",
+    "subcategories": ["Energy Drinks", "Erfrischungsgetränke"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003173981",
+    "name": "Red Bull Energy Drink 8 x 0,25l",
+    "category": "Getränke",
+    "subcategories": ["Energy Drinks", "Erfrischungsgetränke"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004224996",
+    "name": "Red Bull Energy Drink Heidelbeere",
+    "category": "Getränke",
+    "subcategories": ["Energy Drinks", "Fruchtgetränke"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004224941",
+    "name": "Red Bull Energy Drink Kaktusfrucht",
+    "category": "Getränke",
+    "subcategories": ["Energy Drinks", "Fruchtgetränke"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004224965",
+    "name": "Red Bull Energy Drink Kokos Blaubeere",
+    "category": "Getränke",
+    "subcategories": ["Energy Drinks", "Fruchtgetränke"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004224934",
+    "name": "Red Bull Energy Drink Marille- Erdbeere",
+    "category": "Getränke",
+    "subcategories": ["Energy Drinks", "Fruchtgetränke"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004243232",
+    "name": "Red Bull Energy Drink Sugar Free 8x0,25l",
+    "category": "Getränke",
+    "subcategories": ["Energy Drinks", "Erfrischungsgetränke", "Zuckerfrei"]
+  },
+  {
+    "store": "spar",
+    "id": "4646679",
+    "name": "Red Bull Energy Drink Sugarfree",
+    "category": "Getränke",
+    "subcategories": ["Energy Drinks", "Erfrischungsgetränke", "Zuckerfrei"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002111656",
+    "name": "Red Bull Energy Drink Sugarfree",
+    "category": "Getränke",
+    "subcategories": ["Energy Drinks", "Erfrischungsgetränke", "Zuckerfrei"]
+  },
+  {
+    "store": "spar",
+    "id": "4812463",
+    "name": "Red Bull Energy Drink Sugarfree 6 x 0,25l",
+    "category": "Getränke",
+    "subcategories": ["Energy Drinks", "Erfrischungsgetränke", "Zuckerfrei"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004527172",
+    "name": "Red Bull Energy Drink Summer Juneberry",
+    "category": "Getränke",
+    "subcategories": ["Energy Drinks", "Erfrischungsgetränke", "Sommer"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004547491",
+    "name": "Red Bull Energy Drink Summer Juneberry",
+    "category": "Getränke",
+    "subcategories": ["Energy Drinks", "Erfrischungsgetränke", "Sommer"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004224972",
+    "name": "Red Bull Energy Drink Tropical",
+    "category": "Getränke",
+    "subcategories": ["Energy Drinks", "Fruchtgetränke"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004224927",
+    "name": "Red Bull Energy Drink Wassermelone",
+    "category": "Getränke",
+    "subcategories": ["Energy Drinks", "Fruchtgetränke"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003794957",
+    "name": "Red Bull Zero Calories",
+    "category": "Getränke",
+    "subcategories": ["Energy Drinks", "Zuckerfrei"]
+  },
+  {
+    "store": "spar",
+    "id": "8033130",
+    "name": "Raschhofer Märzen",
+    "category": "Getränke",
+    "subcategories": ["Bier"]
+  },
+  {
+    "store": "spar",
+    "id": "8024534",
+    "name": "Raschhofer Zwickl Zwickl 6 x 0,5l",
+    "category": "Getränke",
+    "subcategories": ["Bier"]
+  },
+  {
+    "store": "spar",
+    "id": "3025413",
+    "name": "REGIO Bon Aroma ganze Bohne",
+    "category": "Lebensmittel",
+    "subcategories": ["Kaffee"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002850524",
+    "name": "Pyrat Reserve XO",
+    "category": "Spirituosen",
+    "subcategories": ["Rum"]
+  },
+  {
+    "store": "spar",
+    "id": "2935102",
+    "name": "Pâpidoux Calvados VSOP",
+    "category": "Spirituosen",
+    "subcategories": ["Schnaps"]
+  },
+  {
+    "store": "spar",
+    "id": "7689239",
+    "name": "Ramazzotti 0,7 L",
+    "category": "Spirituosen",
+    "subcategories": ["Likör"]
+  },
+  {
+    "store": "spar",
+    "id": "2020000568407",
+    "name": "Ramazzotti Aperitivo Rosato",
+    "category": "Spirituosen",
+    "subcategories": ["Likör"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003744440",
+    "name": "Ramazzotti Crema Kaffee-Sahnelikör",
+    "category": "Spirituosen",
+    "subcategories": ["Likör"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003721564",
+    "name": "Redbreast 12YO",
+    "category": "Spirituosen",
+    "subcategories": ["Whisky"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001221264",
+    "name": "Reisetbauer Axberg Wodka",
+    "category": "Spirituosen",
+    "subcategories": ["Wodka"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001016587",
+    "name": "Reisetbauer Blue Gin",
+    "category": "Spirituosen",
+    "subcategories": ["Gin"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001016624",
+    "name": "Reisetbauer Blue Gin Sloeberry",
+    "category": "Spirituosen",
+    "subcategories": ["Gin"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001874200",
+    "name": "Reisetbauer Organic Gin",
+    "category": "Spirituosen",
+    "subcategories": ["Gin"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003853012",
+    "name": "Reisetbauer Organic Gin Black Currant",
+    "category": "Spirituosen",
+    "subcategories": ["Gin"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003083617",
+    "name": "Reisetbauer Organic Gin Rose",
+    "category": "Spirituosen",
+    "subcategories": ["Gin"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001577736",
+    "name": "Reisetbauer Scotch Single Malt 12 YO",
+    "category": "Spirituosen",
+    "subcategories": ["Whisky"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002892395",
+    "name": "Reisetbauer&Son 7 YO",
+    "category": "Spirituosen",
+    "subcategories": ["Whisky"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004193759",
+    "name": "Relicario Superior Rum",
+    "category": "Spirituosen",
+    "subcategories": ["Rum"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004193766",
+    "name": "Relicario Supremo Rum",
+    "category": "Spirituosen",
+    "subcategories": ["Rum"]
+  },
+  {
+    "store": "spar",
+    "id": "7681783",
+    "name": "Remy Martin VSOP",
+    "category": "Spirituosen",
+    "subcategories": ["Cognac"]
+  },
+  {
+    "store": "spar",
+    "id": "2218007",
+    "name": "Quinta da Raza Vinho Verde DOC 2022",
+    "category": "Getränke",
+    "subcategories": ["Wein"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004726049",
+    "name": "Reeh Hannes Andauer Chardonnay 2021",
+    "category": "Getränke",
+    "subcategories": ["Wein"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003492679",
+    "name": "Reeh Hannes Andauer Zweigelt 2020",
+    "category": "Getränke",
+    "subcategories": ["Wein"]
+  },
+  {
+    "store": "spar",
+    "id": "1783919",
+    "name": "Reeh Hannes Andauer Zweigelt 2020",
+    "category": "Getränke",
+    "subcategories": ["Wein"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003506833",
+    "name": "Reeh Hannes Cuvée Rot Sonnenreich 2020",
+    "category": "Getränke",
+    "subcategories": ["Wein"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003297694",
+    "name": "Reeh Hannes Cuvée Roter Schotter 2021",
+    "category": "Getränke",
+    "subcategories": ["Wein"]
+  },
+  {
+    "store": "spar",
+    "id": "8171559",
+    "name": "Reeh Hannes Heideboden Cuvée Rot 2019",
+    "category": "Getränke",
+    "subcategories": ["Wein"]
+  },
+  {
+    "store": "spar",
+    "id": "2020000868088",
+    "name": "Reeh Hannes Heideboden Cuvée Rot 2020",
+    "category": "Getränke",
+    "subcategories": ["Wein"]
+  },
+  {
+    "store": "spar",
+    "id": "8171658",
+    "name": "Reeh Hannes Heideboden Cuvée Weiß 2021",
+    "category": "Getränke",
+    "subcategories": ["Wein"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002190965",
+    "name": "Reeh Hannes Heideboden Süss 2019",
+    "category": "Getränke",
+    "subcategories": ["Wein"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003349065",
+    "name": "Reeh Hannes Lieblich Rot 2021",
+    "category": "Getränke",
+    "subcategories": ["Wein"]
+  },
+  {
+    "store": "spar",
+    "id": "8172471",
+    "name": "Reeh Hannes Merlot Haus & Hof 2020",
+    "category": "Getränke",
+    "subcategories": ["Wein"]
+  },
+  {
+    "store": "spar",
+    "id": "8172655",
+    "name": "Reeh Hannes Weißburgunder Haus & Hof 2021",
+    "category": "Getränke",
+    "subcategories": ["Wein"]
+  },
+  {
+    "store": "spar",
+    "id": "8172808",
+    "name": "Reeh Hannes Zweigelt Neusiedlersee DAC 2021",
+    "category": "Getränke",
+    "subcategories": ["Wein"]
+  },
+  {
+    "store": "spar",
+    "id": "8171450",
+    "name": "Reeh Hannes Zweigelt Unplugged 2021",
+    "category": "Getränke",
+    "subcategories": ["Wein"]
+  },
+  {
+    "store": "spar",
+    "id": "7636967",
+    "name": "Regele Apfelschaumwein Prickelnd Steirisch",
+    "category": "Getränke",
+    "subcategories": ["Schaumwein"]
+  },
+  {
+    "store": "spar",
+    "id": "1258912",
+    "name": "Regele Chardonnay Südsteiermark DAC 2021",
+    "category": "Getränke",
+    "subcategories": ["Wein"]
+  },
+  {
+    "store": "spar",
+    "id": "7397585",
+    "name": "Regele Frisch & Steirisch 2022",
+    "category": "Getränke",
+    "subcategories": ["Wein"]
+  },
+  {
+    "store": "spar",
+    "id": "3936573",
+    "name": "Regele Gelber Muskateller Südsteiermark DAC 2022",
+    "category": "Getränke",
+    "subcategories": ["Wein"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001659555",
+    "name": "Regele Grauburgunder Südsteiermark DAC 2022",
+    "category": "Getränke",
+    "subcategories": ["Wein"]
+  },
+  {
+    "store": "spar",
+    "id": "3936566",
+    "name": "Regele Sauvignon Blanc Südsteiermark DAC 2022",
+    "category": "Getränke",
+    "subcategories": ["Wein"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003671159",
+    "name": "Regele Souvignier Gris Piwi 2020",
+    "category": "Getränke",
+    "subcategories": ["Wein"]
+  },
+  {
+    "store": "spar",
+    "id": "6234010",
+    "name": "Regele Traminer Südsteiermark DAC 2020",
+    "category": "Getränke",
+    "subcategories": ["Wein"]
+  },
+  {
+    "store": "spar",
+    "id": "3936559",
+    "name": "Regele Weißburgunder Südsteiermark DAC 2022",
+    "category": "Getränke",
+    "subcategories": ["Wein"]
+  },
+  {
+    "store": "spar",
+    "id": "3936580",
+    "name": "Regele Welschriesling 2022",
+    "category": "Getränke",
+    "subcategories": ["Wein"]
+  },
+  {
+    "store": "spar",
+    "id": "7050244",
+    "name": "Renner Heideboden BIO 2018",
+    "category": "Getränke",
+    "subcategories": ["Wein"]
+  },
+  {
+    "store": "spar",
+    "id": "4207726",
+    "name": "Renner Pannobile BIO 2017",
+    "category": "Getränke",
+    "subcategories": ["Wein"]
+  },
+  {
+    "store": "spar",
+    "id": "4069102",
+    "name": "Reumann Grenzlandhof Blaufränkisch Classic Mittelburgenland DAC 2021",
+    "category": "Getränke",
+    "subcategories": ["Wein"]
+  },
+  {
+    "store": "spar",
+    "id": "4069133",
+    "name": "Reumann Grenzlandhof Cuvée Mariela 2019",
+    "category": "Getränke",
+    "subcategories": ["Wein"]
+  },
+  {
+    "store": "spar",
+    "id": "4069089",
+    "name": "Reumann Grenzlandhof Zweigelt 2020",
+    "category": "Getränke",
+    "subcategories": ["Wein"]
+  },
+  {
+    "store": "spar",
+    "id": "5722075",
+    "name": "Reumann Grenzlandhof Zweigelt Ried Hölzl 2020",
+    "category": "Getränke",
+    "subcategories": ["Wein"]
+  },
+  {
+    "store": "spar",
+    "id": "6727659",
+    "name": "Rey del Sol Rioja Reserva DO 2018",
+    "category": "Getränke",
+    "subcategories": ["Wein"]
+  },
+  {
+    "store": "spar",
+    "id": "6727635",
+    "name": "Rey del Sol Rioja Tempranillo DO 2021",
+    "category": "Getränke",
+    "subcategories": ["Wein"]
+  },
+  {
+    "store": "spar",
+    "id": "1113594",
+    "name": "Rich Secco",
+    "category": "Getränke",
+    "subcategories": ["Frizzante"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003328725",
+    "name": "Rauch Juice Bar Sparkling Water & Orange-Maracuja",
+    "category": "Getränke",
+    "subcategories": ["Erfrischungsgetränke"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003763953",
+    "name": "Rauch Juice Bar Water Berries",
+    "category": "Getränke",
+    "subcategories": ["Erfrischungsgetränke"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004528292",
+    "name": "Rana Gnocchi Kartoffel-Gnocchi 400g",
+    "category": "Lebensmittel",
+    "subcategories": ["Gnocchi"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001806133",
+    "name": "Rana Pasta per Lasagne",
+    "category": "Lebensmittel",
+    "subcategories": ["Pasta"]
+  },
+  {
+    "store": "spar",
+    "id": "2352152",
+    "name": "Rana Ravioli 4 Formaggi",
+    "category": "Lebensmittel",
+    "subcategories": ["Ravioli", "Käse"]
+  },
+  {
+    "store": "spar",
+    "id": "2351391",
+    "name": "Rana Tortellini Pesto-Basilico & Pinoli",
+    "category": "Lebensmittel",
+    "subcategories": ["Tortellini", "Pesto"]
+  },
+  {
+    "store": "spar",
+    "id": "2352053",
+    "name": "Rana Tortellini Prosciutto Crudo & Formaggio",
+    "category": "Lebensmittel",
+    "subcategories": ["Tortellini", "Schinken", "Käse"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002380298",
+    "name": "Rana Tortelloni Tomaten & Mozzarella",
+    "category": "Lebensmittel",
+    "subcategories": ["Tortelloni", "Tomaten", "Mozzarella"]
+  },
+  {
+    "store": "spar",
+    "id": "6554088",
+    "name": "Rehschulter-Braten 1 KG",
+    "category": "Lebensmittel",
+    "subcategories": ["Fleisch"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004397836",
+    "name": "Queso Schafshartkäs 1 KG",
+    "category": "Lebensmittel",
+    "subcategories": ["Käse"]
+  },
+  {
+    "store": "spar",
+    "id": "3046470",
+    "name": "Rambol Creme Nuss",
+    "category": "Lebensmittel",
+    "subcategories": ["Käse"]
+  },
+  {
+    "store": "spar",
+    "id": "3046630",
+    "name": "Rambol Schmelzkäse",
+    "category": "Lebensmittel",
+    "subcategories": ["Käse"]
+  },
+  {
+    "store": "spar",
+    "id": "5830749",
+    "name": "QimiQ Classic",
+    "category": "Lebensmittel",
+    "subcategories": ["Backzutaten"]
+  },
+  {
+    "store": "spar",
+    "id": "8059284",
+    "name": "QimiQ Sahnebasis",
+    "category": "Lebensmittel",
+    "subcategories": ["Backzutaten", "Sahne"]
+  },
+  {
+    "store": "spar",
+    "id": "5554256",
+    "name": "QimiQ Vanille",
+    "category": "Lebensmittel",
+    "subcategories": ["Backzutaten", "Vanille"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003467769",
+    "name": "QimiQ Whip Kaffee",
+    "category": "Lebensmittel",
+    "subcategories": ["Backzutaten", "Kaffee"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001850525",
+    "name": "QimiQ Whip Natur",
+    "category": "Lebensmittel",
+    "subcategories": ["Backzutaten"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001850556",
+    "name": "QimiQ Whip Schoko",
+    "category": "Lebensmittel",
+    "subcategories": ["Backzutaten", "Schokolade"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001850549",
+    "name": "QimiQ Whip Vanille",
+    "category": "Lebensmittel",
+    "subcategories": ["Backzutaten", "Vanille"]
+  },
+  {
+    "store": "spar",
+    "id": "2338934",
+    "name": "Rama Unwiderstehlich",
+    "category": "Lebensmittel",
+    "subcategories": ["Butter", "Margarine"]
+  },
+  {
+    "store": "spar",
+    "id": "2794068",
+    "name": "Rama mit Butternote",
+    "category": "Lebensmittel",
+    "subcategories": ["Butter", "Margarine"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001808465",
+    "name": "Rama mit Butternote 100% natürliche Zutaten",
+    "category": "Lebensmittel",
+    "subcategories": ["Butter", "Margarine"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003933202",
+    "name": "Rama ohne Palmöl 100% natürliche Zutaten",
+    "category": "Lebensmittel",
+    "subcategories": ["Butter", "Margarine"]
+  },
+  {
+    "store": "spar",
+    "id": "4842798",
+    "name": "Rama sooo buttrig gesalzen",
+    "category": "Lebensmittel",
+    "subcategories": ["Butter", "Margarine"]
+  },
+  {
+    "store": "spar",
+    "id": "5882281",
+    "name": "Pöttelsdorfer Edelputen Käsewurst geräuchert",
+    "category": "Lebensmittel",
+    "subcategories": ["Wurst", "Käse"]
+  },
+  {
+    "store": "spar",
+    "id": "5697267",
+    "name": "Pöttelsdorfer Edelputen Pikant",
+    "category": "Lebensmittel",
+    "subcategories": ["Wurst", "Pikant"]
+  },
+  {
+    "store": "spar",
+    "id": "5629787",
+    "name": "Reiter Bauernschinken",
+    "category": "Lebensmittel",
+    "subcategories": ["Schinken"]
+  },
+  {
+    "store": "spar",
+    "id": "428873",
+    "name": "Reiter Block-Cervelat",
+    "category": "Lebensmittel",
+    "subcategories": ["Wurst"]
+  },
+  {
+    "store": "spar",
+    "id": "6587123",
+    "name": "Reiter Eberschwanger",
+    "category": "Lebensmittel",
+    "subcategories": ["Wurst"]
+  },
+  {
+    "store": "spar",
+    "id": "6022723",
+    "name": "Reiter Feinste Schwarzwälder",
+    "category": "Lebensmittel",
+    "subcategories": ["Wurst"]
+  },
+  {
+    "store": "spar",
+    "id": "6575656",
+    "name": "Reiter Frische Baguette-Salami",
+    "category": "Lebensmittel",
+    "subcategories": ["Wurst"]
+  }
+]

@@ -1,0 +1,702 @@
+[
+  {
+    "store": "billa",
+    "id": "00-876425",
+    "name": "Hofstädter Toastschinken",
+    "category": "Schinken",
+    "subcategories": []
+  },
+  {
+    "store": "billa",
+    "id": "00-432148",
+    "name": "Hofstädter Zwiebel-Streichwurst",
+    "category": "Streichwurst",
+    "subcategories": []
+  },
+  {
+    "store": "billa",
+    "id": "00-36547",
+    "name": "Hotwagner Altwiener Käsewurst",
+    "category": "Käsewurst",
+    "subcategories": []
+  },
+  {
+    "store": "billa",
+    "id": "00-653313",
+    "name": "Hotwagner Original Wiener Wurstsulz",
+    "category": "Wurstsulz",
+    "subcategories": []
+  },
+  {
+    "store": "billa",
+    "id": "00-462734",
+    "name": "Hütthaler Attersee Klassik",
+    "category": "Leberkäse",
+    "subcategories": []
+  },
+  {
+    "store": "billa",
+    "id": "00-271082",
+    "name": "Italienischer Prosciutto Crudo",
+    "category": "Schinken",
+    "subcategories": []
+  },
+  {
+    "store": "billa",
+    "id": "00-271136",
+    "name": "Italienischer Prosciutto di Parma",
+    "category": "Schinken",
+    "subcategories": []
+  },
+  {
+    "store": "billa",
+    "id": "00-475373",
+    "name": "Ja! Natürlich Berner-Würstel",
+    "category": "Würstel",
+    "subcategories": []
+  },
+  {
+    "store": "billa",
+    "id": "00-474907",
+    "name": "Ja! Natürlich Bio Bauchspeck",
+    "category": "Speck",
+    "subcategories": []
+  },
+  {
+    "store": "billa",
+    "id": "00-472076",
+    "name": "Ja! Natürlich Bio Cabanossi",
+    "category": "Cabanossi",
+    "subcategories": []
+  },
+  {
+    "store": "billa",
+    "id": "00-474916",
+    "name": "Ja! Natürlich Bio Kaiserspeck",
+    "category": "Speck",
+    "subcategories": []
+  },
+  {
+    "store": "billa",
+    "id": "00-474899",
+    "name": "Ja! Natürlich Bio Speckwürfel",
+    "category": "Speck",
+    "subcategories": []
+  },
+  {
+    "store": "billa",
+    "id": "00-342791",
+    "name": "Ja! Natürlich Bio-Garten-Pikante",
+    "category": "Pikante",
+    "subcategories": []
+  },
+  {
+    "store": "billa",
+    "id": "00-475372",
+    "name": "Ja! Natürlich Braunschweiger",
+    "category": "Wurst",
+    "subcategories": []
+  },
+  {
+    "store": "billa",
+    "id": "00-348434",
+    "name": "Ja! Natürlich Butterschmalz",
+    "category": "Butterschmalz",
+    "subcategories": []
+  },
+  {
+    "store": "billa",
+    "id": "00-498698",
+    "name": "Ja! Natürlich Debreziner",
+    "category": "Wurst",
+    "subcategories": []
+  },
+  {
+    "store": "billa",
+    "id": "00-537519",
+    "name": "Ja! Natürlich Extrawurst",
+    "category": "Wurst",
+    "subcategories": []
+  },
+  {
+    "store": "billa",
+    "id": "00-412357",
+    "name": "Ja! Natürlich Frankfurter",
+    "category": "Wurst",
+    "subcategories": []
+  },
+  {
+    "store": "billa",
+    "id": "00-672806",
+    "name": "Ja! Natürlich Frühstücksspeck",
+    "category": "Speck",
+    "subcategories": []
+  },
+  {
+    "store": "billa",
+    "id": "00-570585",
+    "name": "Ja! Natürlich Gockelwürstel",
+    "category": "Würstel",
+    "subcategories": []
+  },
+  {
+    "store": "billa",
+    "id": "00-931806",
+    "name": "Ja! Natürlich Hühnerstreichwurst",
+    "category": "Streichwurst",
+    "subcategories": []
+  },
+  {
+    "store": "billa",
+    "id": "00-299287",
+    "name": "Ja! Natürlich Kalbsbratwürstel",
+    "category": "Bratwurst",
+    "subcategories": []
+  },
+  {
+    "store": "billa",
+    "id": "00-686842",
+    "name": "Ja! Natürlich Kantwurst",
+    "category": "Wurst",
+    "subcategories": []
+  },
+  {
+    "store": "billa",
+    "id": "00-35018",
+    "name": "Ja! Natürlich Kantwurst",
+    "category": "Wurst",
+    "subcategories": []
+  },
+  {
+    "store": "billa",
+    "id": "00-485433",
+    "name": "Ja! Natürlich Kräuterkarree",
+    "category": "Karree",
+    "subcategories": []
+  },
+  {
+    "store": "billa",
+    "id": "00-245540",
+    "name": "Ja! Natürlich Käsekrainer",
+    "category": "Krainer",
+    "subcategories": []
+  },
+  {
+    "store": "billa",
+    "id": "00-686841",
+    "name": "Ja! Natürlich Käswurst Pikant",
+    "category": "Käswurst",
+    "subcategories": []
+  },
+  {
+    "store": "billa",
+    "id": "00-413659",
+    "name": "Ja! Natürlich Landbratwürstel",
+    "category": "Bratwurst",
+    "subcategories": []
+  },
+  {
+    "store": "billa",
+    "id": "00-579885",
+    "name": "Ja! Natürlich Leberkäse Geschnitten",
+    "category": "Leberkäse",
+    "subcategories": []
+  },
+  {
+    "store": "billa",
+    "id": "00-521152",
+    "name": "Ja! Natürlich Leberstreichwurst",
+    "category": "Streichwurst",
+    "subcategories": []
+  },
+  {
+    "store": "billa",
+    "id": "00-509498",
+    "name": "Ja! Natürlich Leichter Bio-Genuss Schinken",
+    "category": "Schinken",
+    "subcategories": []
+  },
+  {
+    "store": "billa",
+    "id": "00-344712",
+    "name": "Ja! Natürlich Mini-Würstel",
+    "category": "Würstel",
+    "subcategories": []
+  },
+  {
+    "store": "billa",
+    "id": "00-287700",
+    "name": "Ja! Natürlich Pariserkranzl",
+    "category": "Wurst",
+    "subcategories": []
+  },
+  {
+    "store": "billa",
+    "id": "00-36757",
+    "name": "Ja! Natürlich Pfeffersalami",
+    "category": "Salami",
+    "subcategories": []
+  },
+  {
+    "store": "billa",
+    "id": "00-292726",
+    "name": "Ja! Natürlich Puten-Frankfurter",
+    "category": "Wurst",
+    "subcategories": []
+  },
+  {
+    "store": "billa",
+    "id": "00-200156",
+    "name": "Ja! Natürlich Putenextrawurst geschnitten",
+    "category": "Wurst",
+    "subcategories": []
+  },
+  {
+    "store": "billa",
+    "id": "00-669827",
+    "name": "Ja! Natürlich Rauchschinken",
+    "category": "Schinken",
+    "subcategories": []
+  },
+  {
+    "store": "billa",
+    "id": "00-845471",
+    "name": "Ja! Natürlich Rindersaftschinken",
+    "category": "Schinken",
+    "subcategories": []
+  },
+  {
+    "store": "billa",
+    "id": "00-767924",
+    "name": "Ja! Natürlich Rostbratwürstel",
+    "category": "Bratwurst",
+    "subcategories": []
+  },
+  {
+    "store": "billa",
+    "id": "00-435836",
+    "name": "Ja! Natürlich Salami Geschnitten",
+    "category": "Salami",
+    "subcategories": []
+  },
+  {
+    "store": "billa",
+    "id": "00-514719",
+    "name": "Ja! Natürlich Weißwürstel",
+    "category": "Wurst",
+    "subcategories": []
+  },
+  {
+    "store": "billa",
+    "id": "00-454978",
+    "name": "Kalbspariser",
+    "category": "Pariser",
+    "subcategories": []
+  },
+  {
+    "store": "billa",
+    "id": "00-350510",
+    "name": "Kesselfrischer Beinschinken",
+    "category": "Schinken",
+    "subcategories": []
+  },
+  {
+    "store": "billa",
+    "id": "00-435839",
+    "name": "Krainer",
+    "category": "Krainer",
+    "subcategories": []
+  },
+  {
+    "store": "billa",
+    "id": "00-372764",
+    "name": "Leichte Kalbspariser",
+    "category": "Pariser",
+    "subcategories": []
+  },
+  {
+    "store": "billa",
+    "id": "00-622875",
+    "name": "Loidl Kantwurst",
+    "category": "Wurst",
+    "subcategories": []
+  },
+  {
+    "store": "billa",
+    "id": "00-446161",
+    "name": "Loidl Puten-Salami",
+    "category": "Salami",
+    "subcategories": []
+  },
+  {
+    "store": "billa",
+    "id": "00-529568",
+    "name": "Loidl Salami Sticks Edelschimmel",
+    "category": "Salami",
+    "subcategories": []
+  },
+  {
+    "store": "billa",
+    "id": "00-342904",
+    "name": "Loidl Salami Sticks Klassik",
+    "category": "Salami",
+    "subcategories": []
+  },
+  {
+    "store": "billa",
+    "id": "00-344734",
+    "name": "Loidl Salami Sticks Knoblauch",
+    "category": "Salami",
+    "subcategories": []
+  },
+  {
+    "store": "billa",
+    "id": "00-444453",
+    "name": "Loidl Salami im Chilimantel",
+    "category": "Salami",
+    "subcategories": []
+  },
+  {
+    "store": "billa",
+    "id": "00-413075",
+    "name": "Messner Knoferl",
+    "category": "Knoferl",
+    "subcategories": []
+  },
+  {
+    "store": "billa",
+    "id": "00-427147",
+    "name": "Messner Landjäger",
+    "category": "Landjäger",
+    "subcategories": []
+  },
+  {
+    "store": "billa",
+    "id": "00-636240",
+    "name": "Messner Meisterplatte",
+    "category": "Platte",
+    "subcategories": []
+  },
+  {
+    "store": "billa",
+    "id": "00-619795",
+    "name": "Moser Glockner Geräuchert und Gebraten",
+    "category": "Schinken",
+    "subcategories": []
+  },
+  {
+    "store": "billa",
+    "id": "00-440000",
+    "name": "Moser Schwarze Pute",
+    "category": "Pute",
+    "subcategories": []
+  },
+  {
+    "store": "billa",
+    "id": "00-598289",
+    "name": "Mühlen Salami Vegan",
+    "category": "Salami",
+    "subcategories": []
+  },
+  {
+    "store": "billa",
+    "id": "00-441152",
+    "name": "Neuburger",
+    "category": "Neuburger",
+    "subcategories": []
+  },
+  {
+    "store": "billa",
+    "id": "00-607428",
+    "name": "Neuburger Geschnitten",
+    "category": "Neuburger",
+    "subcategories": []
+  },
+  {
+    "store": "billa",
+    "id": "00-98845",
+    "name": "Oma's Schmalztopf",
+    "category": "Schmalztopf",
+    "subcategories": []
+  },
+  {
+    "store": "billa",
+    "id": "00-918394",
+    "name": "Prosciutto Crudo",
+    "category": "Schinken",
+    "subcategories": []
+  },
+  {
+    "store": "billa",
+    "id": "00-593772",
+    "name": "Puten Pikantwurst",
+    "category": "Wurst",
+    "subcategories": []
+  },
+  {
+    "store": "billa",
+    "id": "00-370569",
+    "name": "Radatz Bauernblutwurst",
+    "category": "Blutwurst",
+    "subcategories": []
+  },
+  {
+    "store": "billa",
+    "id": "00-240002",
+    "name": "Radatz Berner Würstel",
+    "category": "Würstel",
+    "subcategories": []
+  },
+  {
+    "store": "billa",
+    "id": "00-411507",
+    "name": "Radatz Bratwürstel",
+    "category": "Bratwurst",
+    "subcategories": []
+  },
+  {
+    "store": "billa",
+    "id": "00-411506",
+    "name": "Radatz Burenwurst",
+    "category": "Wurst",
+    "subcategories": []
+  },
+  {
+    "store": "billa",
+    "id": "00-411503",
+    "name": "Radatz Debreziner",
+    "category": "Wurst",
+    "subcategories": []
+  },
+  {
+    "store": "billa",
+    "id": "00-411502",
+    "name": "Radatz Frankfurter",
+    "category": "Wurst",
+    "subcategories": []
+  },
+  {
+    "store": "billa",
+    "id": "00-410266",
+    "name": "Radatz Gourmet Extrawurst geschnitten",
+    "category": "Extrawurst",
+    "subcategories": []
+  },
+  {
+    "store": "billa",
+    "id": "00-787743",
+    "name": "Radatz Grammeln",
+    "category": "Grammeln",
+    "subcategories": []
+  },
+  {
+    "store": "billa",
+    "id": "00-92405",
+    "name": "Radatz Grammelschmalz",
+    "category": "Grammelschmalz",
+    "subcategories": []
+  },
+  {
+    "store": "billa",
+    "id": "00-403284",
+    "name": "Radatz Kalbsleberstreichwurst",
+    "category": "Streichwurst",
+    "subcategories": []
+  },
+  {
+    "store": "billa",
+    "id": "00-411505",
+    "name": "Radatz Knacker",
+    "category": "Knacker",
+    "subcategories": []
+  },
+  {
+    "store": "billa",
+    "id": "00-440036",
+    "name": "Radatz Krakauer",
+    "category": "Krakauer",
+    "subcategories": []
+  },
+  {
+    "store": "billa",
+    "id": "00-409866",
+    "name": "Radatz Käsekrainer",
+    "category": "Käsekrainer",
+    "subcategories": []
+  },
+  {
+    "store": "billa",
+    "id": "00-821997",
+    "name": "Radatz Käsekrainer 5 Stk.",
+    "category": "Käsekrainer",
+    "subcategories": []
+  },
+  {
+    "store": "billa",
+    "id": "00-380640",
+    "name": "Radatz Kümmelbraten",
+    "category": "Braten",
+    "subcategories": []
+  },
+  {
+    "store": "billa",
+    "id": "00-200069",
+    "name": "Radatz Lange Rostbratwürstel",
+    "category": "Rostbratwurst",
+    "subcategories": []
+  },
+  {
+    "store": "billa",
+    "id": "00-240350",
+    "name": "Radatz Mini Berner Würstel",
+    "category": "Würstel",
+    "subcategories": []
+  },
+  {
+    "store": "billa",
+    "id": "00-941010",
+    "name": "Radatz Mini Käsekrainer",
+    "category": "Käsekrainer",
+    "subcategories": []
+  },
+  {
+    "store": "billa",
+    "id": "00-412387",
+    "name": "Radatz Münchner Weißwurst mit Senf",
+    "category": "Weißwurst",
+    "subcategories": []
+  },
+  {
+    "store": "billa",
+    "id": "00-629151",
+    "name": "Radatz Original Wiener Beinschinken",
+    "category": "Schinken",
+    "subcategories": []
+  },
+  {
+    "store": "billa",
+    "id": "00-440033",
+    "name": "Radatz Pikantwurst",
+    "category": "Wurst",
+    "subcategories": []
+  },
+  {
+    "store": "billa",
+    "id": "00-410267",
+    "name": "Radatz Pikantwurst Geschnitten",
+    "category": "Wurst",
+    "subcategories": []
+  },
+  {
+    "store": "billa",
+    "id": "00-436750",
+    "name": "Radatz Presswurst 2 Scheiben",
+    "category": "Wurst",
+    "subcategories": []
+  },
+  {
+    "store": "billa",
+    "id": "00-282719",
+    "name": "Radatz Pusztawürstel",
+    "category": "Würstel",
+    "subcategories": []
+  },
+  {
+    "store": "billa",
+    "id": "00-430211",
+    "name": "Radatz Wiener Heurigentrio",
+    "category": "Würstel",
+    "subcategories": []
+  },
+  {
+    "store": "billa",
+    "id": "00-244550",
+    "name": "Radatz Würstel Duett",
+    "category": "Würstel",
+    "subcategories": []
+  },
+  {
+    "store": "billa",
+    "id": "00-98014",
+    "name": "Radatz Zwieberl Streichwurst",
+    "category": "Streichwurst",
+    "subcategories": []
+  },
+  {
+    "store": "billa",
+    "id": "00-819075",
+    "name": "Reistenhofer Tiroler",
+    "category": "Tiroler",
+    "subcategories": []
+  },
+  {
+    "store": "billa",
+    "id": "00-621304",
+    "name": "Reiter Feine Mettwurst",
+    "category": "Mettwurst",
+    "subcategories": []
+  },
+  {
+    "store": "billa",
+    "id": "00-31307",
+    "name": "Reiter Knoblauchschinken",
+    "category": "Schinken",
+    "subcategories": []
+  },
+  {
+    "store": "billa",
+    "id": "00-432536",
+    "name": "Reiter Schwarzwälder Geschnitten",
+    "category": "Schinken",
+    "subcategories": []
+  },
+  {
+    "store": "billa",
+    "id": "00-745755",
+    "name": "Rügenwalder Teewurst grob",
+    "category": "Teewurst",
+    "subcategories": []
+  },
+  {
+    "store": "billa",
+    "id": "00-431592",
+    "name": "Schachinger Bratltopf",
+    "category": "Bratltopf",
+    "subcategories": []
+  },
+  {
+    "store": "billa",
+    "id": "00-98627",
+    "name": "Schachinger Knuspergrammeln",
+    "category": "Knuspergrammeln",
+    "subcategories": []
+  },
+  {
+    "store": "billa",
+    "id": "00-439977",
+    "name": "Sorger Knoblauchsalami",
+    "category": "Salami",
+    "subcategories": []
+  },
+  {
+    "store": "billa",
+    "id": "00-256305",
+    "name": "Sorger Meistersalami",
+    "category": "Salami",
+    "subcategories": []
+  },
+  {
+    "store": "billa",
+    "id": "00-315757",
+    "name": "Sorger Parmesansalami",
+    "category": "Salami",
+    "subcategories": []
+  },
+  {
+    "store": "billa",
+    "id": "00-315750",
+    "name": "Sorger Pfeffersalami",
+    "category": "Salami",
+    "subcategories": []
+  }
+]

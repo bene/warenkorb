@@ -1,0 +1,614 @@
+[
+  {
+    "id": "2020003817212",
+    "name": "Lavera Basis Sensitiv Creme 150ml",
+    "category": "Körperpflege",
+    "subcategories": ["Gesichtspflege", "Hautpflege", "Creme"]
+  },
+  {
+    "id": "2020003970856",
+    "name": "Lavera Basis Sensitiv Creme 150ml",
+    "category": "Körperpflege",
+    "subcategories": ["Gesichtspflege", "Hautpflege", "Creme"]
+  },
+  {
+    "id": "2020003817533",
+    "name": "Lavera Basis Sensitiv Feuchtigkeitscreme Intensive Feuchtigkeit 50ml",
+    "category": "Körperpflege",
+    "subcategories": ["Gesichtspflege", "Hautpflege", "Feuchtigkeitscreme"]
+  },
+  {
+    "id": "2020003970832",
+    "name": "Lavera Basis Sensitiv Handcreme 75ml",
+    "category": "Körperpflege",
+    "subcategories": ["Handpflege", "Hautpflege", "Handcreme"]
+  },
+  {
+    "id": "2020001722068",
+    "name": "Lavera Basis Sensitiv Lippenbalsam Sensitive 4,5 g",
+    "category": "Körperpflege",
+    "subcategories": ["Lippenpflege", "Hautpflege", "Lippenbalsam"]
+  },
+  {
+    "id": "2020003817366",
+    "name": "Lavera Lippenbalsam Protect & Repair 4,5g",
+    "category": "Körperpflege",
+    "subcategories": ["Lippenpflege", "Hautpflege", "Lippenbalsam"]
+  },
+  {
+    "id": "2020003817458",
+    "name": "Lavera My Age Augen- & Lippen-Konturcreme 15ml",
+    "category": "Körperpflege",
+    "subcategories": [
+      "Gesichtspflege",
+      "Hautpflege",
+      "Augenpflege",
+      "Lippenpflege",
+      "Konturcreme"
+    ]
+  },
+  {
+    "id": "2020003817403",
+    "name": "Lavera My Age Festigende Tagespflege 50ml",
+    "category": "Körperpflege",
+    "subcategories": ["Gesichtspflege", "Hautpflege", "Tagespflege"]
+  },
+  {
+    "id": "2020003817502",
+    "name": "Lavera My Age Intensiv Öl-Serum 30ml",
+    "category": "Körperpflege",
+    "subcategories": ["Gesichtspflege", "Hautpflege", "Serum"]
+  },
+  {
+    "id": "2020003817434",
+    "name": "Lavera My Age Regenerierende Nachtpflege 50ml",
+    "category": "Körperpflege",
+    "subcategories": ["Gesichtspflege", "Hautpflege", "Nachtpflege"]
+  },
+  {
+    "id": "2020003817588",
+    "name": "Lavera Pure Beauty 3in1 Reinigung Peeling Maske 125ml",
+    "category": "Körperpflege",
+    "subcategories": [
+      "Gesichtspflege",
+      "Hautpflege",
+      "Reinigung",
+      "Peeling",
+      "Maske"
+    ]
+  },
+  {
+    "id": "2020003970825",
+    "name": "Lavera Repair Handcreme 75ml",
+    "category": "Körperpflege",
+    "subcategories": ["Handpflege", "Hautpflege", "Handcreme"]
+  },
+  {
+    "id": "2020004630919",
+    "name": "Lavera Serum Glow by Nature 30ml",
+    "category": "Körperpflege",
+    "subcategories": ["Gesichtspflege", "Hautpflege", "Serum"]
+  },
+  {
+    "id": "2020004630896",
+    "name": "Lavera Tagespflege Glow by Nature 50ml",
+    "category": "Körperpflege",
+    "subcategories": ["Gesichtspflege", "Hautpflege", "Tagespflege"]
+  },
+  {
+    "id": "2020002991050",
+    "name": "Lavera Waschgel 125ml",
+    "category": "Körperpflege",
+    "subcategories": ["Gesichtspflege", "Hautpflege", "Waschgel"]
+  },
+  {
+    "id": "1836769",
+    "name": "Lavex Erfrischungstücher groß 10 Stück",
+    "category": "Hygiene",
+    "subcategories": ["Erfrischungstücher"]
+  },
+  {
+    "id": "1836752",
+    "name": "Lavex Erfrischungstücher klein 10 Stück",
+    "category": "Hygiene",
+    "subcategories": ["Erfrischungstücher"]
+  },
+  {
+    "id": "2020002911836",
+    "name": "Lavera Zahncreme Complete Care 75ml",
+    "category": "Körperpflege",
+    "subcategories": ["Mundpflege", "Zahncreme"]
+  },
+  {
+    "id": "2020003817601",
+    "name": "Lavera Zahncreme Complete Care 75ml",
+    "category": "Körperpflege",
+    "subcategories": ["Mundpflege", "Zahncreme"]
+  },
+  {
+    "id": "2020002302467",
+    "name": "L'OREAL Men Expert Bartöl BarberClub 30ml",
+    "category": "Körperpflege",
+    "subcategories": ["Männerpflege", "Bartpflege", "Bartöl"]
+  },
+  {
+    "id": "6874889",
+    "name": "L'OREAL Men Expert Rasierschaum Hydra Sensitive 200ml",
+    "category": "Körperpflege",
+    "subcategories": ["Männerpflege", "Rasur", "Rasierschaum"]
+  },
+  {
+    "id": "2020002302375",
+    "name": "L'OREAL Men Expert Styling Pomade Bart & Haar 75ml",
+    "category": "Körperpflege",
+    "subcategories": ["Männerpflege", "Styling", "Pomade"]
+  },
+  {
+    "id": "2020004587749",
+    "name": "L'OREAL Men Expert Duschgel BarberClub 250ml",
+    "category": "Körperpflege",
+    "subcategories": ["Männerpflege", "Duschgel"]
+  },
+  {
+    "id": "2020004580313",
+    "name": "L'OREAL Men Expert Duschgel BarberClub 400ml",
+    "category": "Körperpflege",
+    "subcategories": ["Männerpflege", "Duschgel"]
+  },
+  {
+    "id": "2020004587800",
+    "name": "L'OREAL Men Expert Duschgel Carbon Clean 400ml",
+    "category": "Körperpflege",
+    "subcategories": ["Männerpflege", "Duschgel"]
+  },
+  {
+    "id": "2020004587763",
+    "name": "L'OREAL Men Expert Duschgel Hydra Energy 400ml",
+    "category": "Körperpflege",
+    "subcategories": ["Männerpflege", "Duschgel"]
+  },
+  {
+    "id": "2020004144171",
+    "name": "Lavera Basis Sensitiv Cremedusche Bio-Aloe Vera & Bio-Mandelöl 250ml",
+    "category": "Körperpflege",
+    "subcategories": ["Duschgel", "Cremedusche"]
+  },
+  {
+    "id": "2020003817304",
+    "name": "Lavera Basis Sensitiv Milde Pflegeseife 250ml",
+    "category": "Körperpflege",
+    "subcategories": ["Seife", "Pflegeseife"]
+  },
+  {
+    "id": "2020004144065",
+    "name": "Lavera Basis Sensitiv Pflegedusche 2in1 Bio-Aloe Vera & pfl. Keratin 250ml",
+    "category": "Körperpflege",
+    "subcategories": ["Duschgel", "Pflegedusche"]
+  },
+  {
+    "id": "2020004145444",
+    "name": "Lavera Basis Sensitiv Pflegedusche 2in1 Nachfüller Bio-Aloe Vera & pfl. Keratin 500ml",
+    "category": "Körperpflege",
+    "subcategories": ["Duschgel", "Pflegedusche", "Nachfüller"]
+  },
+  {
+    "id": "2020003817250",
+    "name": "Lavera Feste Pflegedusche High Vitality 50g",
+    "category": "Körperpflege",
+    "subcategories": ["Duschgel", "Feste Pflegedusche"]
+  },
+  {
+    "id": "2020003817311",
+    "name": "Lavera Fruchtige Pflegeseife 250ml",
+    "category": "Körperpflege",
+    "subcategories": ["Seife", "Pflegeseife"]
+  },
+  {
+    "id": "2020004144089",
+    "name": "Lavera Pflegedusche erfrischend 250ml",
+    "category": "Körperpflege",
+    "subcategories": ["Duschgel", "Pflegedusche"]
+  },
+  {
+    "id": "2020004144218",
+    "name": "Lavera Pflegedusche verwöhnend 250ml",
+    "category": "Körperpflege",
+    "subcategories": ["Duschgel", "Pflegedusche"]
+  },
+  {
+    "id": "2020004144102",
+    "name": "Lavera Pflegedusche vitalisierend 250ml",
+    "category": "Körperpflege",
+    "subcategories": ["Duschgel", "Pflegedusche"]
+  },
+  {
+    "id": "2020003390036",
+    "name": "Lavera Kids Sensitiv Sonnenlotion LSF 50 100ml",
+    "category": "Körperpflege",
+    "subcategories": ["Kinderpflege", "Sonnenpflege", "Sonnenlotion"]
+  },
+  {
+    "id": "2020003520815",
+    "name": "Lavera Set Sweet Moments Duo",
+    "category": "Körperpflege",
+    "subcategories": ["Geschenkset"]
+  },
+  {
+    "id": "3674994",
+    "name": "Leicht & Cross Roggen",
+    "category": "Lebensmittel",
+    "subcategories": ["Backwaren", "Brot", "Roggenbrot"]
+  },
+  {
+    "id": "5038473",
+    "name": "Leicht & Cross Vital",
+    "category": "Lebensmittel",
+    "subcategories": ["Backwaren", "Knäckebrot", "Vital"]
+  },
+  {
+    "id": "7939563",
+    "name": "Leicht & Cross Vollkorn",
+    "category": "Lebensmittel",
+    "subcategories": ["Backwaren", "Knäckebrot", "Vollkorn"]
+  },
+  {
+    "id": "3674185",
+    "name": "Leicht & Cross Weizen Goldweizen",
+    "category": "Lebensmittel",
+    "subcategories": ["Backwaren", "Knäckebrot", "Weizen", "Goldweizen"]
+  },
+  {
+    "id": "2020004431486",
+    "name": "Leimer Bruschetta Tomate",
+    "category": "Lebensmittel",
+    "subcategories": ["Bruschetta", "Tomate"]
+  },
+  {
+    "id": "2020003396915",
+    "name": "Leimer Panko Paniermehl",
+    "category": "Lebensmittel",
+    "subcategories": ["Paniermehl", "Panko"]
+  },
+  {
+    "id": "2020004217615",
+    "name": "Le Tribute Tonic Water 4 x 0,2l",
+    "category": "Getränke",
+    "subcategories": ["Tonic Water"]
+  },
+  {
+    "id": "2020000654827",
+    "name": "Lemonaid Limonade Limette",
+    "category": "Getränke",
+    "subcategories": ["Limonade", "Limette"]
+  },
+  {
+    "id": "2020000654865",
+    "name": "Lemonaid Limonade Maracuja",
+    "category": "Getränke",
+    "subcategories": ["Limonade", "Maracuja"]
+  },
+  {
+    "id": "2020004161680",
+    "name": "Lemonsoda Energy Activator Lemon Original",
+    "category": "Getränke",
+    "subcategories": ["Energy Drink", "Lemon", "Original"]
+  },
+  {
+    "id": "2020004161666",
+    "name": "Lemonsoda Energy Activator Lemon Zero",
+    "category": "Getränke",
+    "subcategories": ["Energy Drink", "Lemon", "Zero"]
+  },
+  {
+    "id": "2020004161697",
+    "name": "Lemonsoda Energy Activator Tropical Trip",
+    "category": "Getränke",
+    "subcategories": ["Energy Drink", "Tropical", "Trip"]
+  },
+  {
+    "id": "2020003498046",
+    "name": "Lemonsoda Sugar Free",
+    "category": "Getränke",
+    "subcategories": ["Erfrischungsgetränk", "Ohne Zucker"]
+  },
+  {
+    "id": "3497470",
+    "name": "Leffe Blonde",
+    "category": "Getränke",
+    "subcategories": ["Bier", "Blonde"]
+  },
+  {
+    "id": "2020003156281",
+    "name": "Leffe Blonde Blonde",
+    "category": "Getränke",
+    "subcategories": ["Bier", "Blonde"]
+  },
+  {
+    "id": "4551539",
+    "name": "Leffe Brune",
+    "category": "Getränke",
+    "subcategories": ["Bier", "Brune"]
+  },
+  {
+    "id": "241625",
+    "name": "Linde Malzkaffee",
+    "category": "Getränke",
+    "subcategories": ["Malzkaffee"]
+  },
+  {
+    "id": "3579633",
+    "name": "Lieto Prosecco DOC",
+    "category": "Getränke",
+    "subcategories": ["Prosecco"]
+  },
+  {
+    "id": "6097752",
+    "name": "Lieto Prosecco Frizzante DOC Treviso",
+    "category": "Getränke",
+    "subcategories": ["Prosecco"]
+  },
+  {
+    "id": "4658641",
+    "name": "Lieto Secco Frizzante",
+    "category": "Getränke",
+    "subcategories": ["Secco", "Frizzante"]
+  },
+  {
+    "id": "2020003080845",
+    "name": "Lazy Dodo 0,7 L",
+    "category": "Getränke",
+    "subcategories": ["Rum"]
+  },
+  {
+    "id": "2020004193629",
+    "name": "Le Tribute Gin",
+    "category": "Getränke",
+    "subcategories": ["Gin"]
+  },
+  {
+    "id": "2020003891694",
+    "name": "Leibwächter Kräuterbitter",
+    "category": "Getränke",
+    "subcategories": ["Kräuterbitter"]
+  },
+  {
+    "id": "2020003836787",
+    "name": "Leibwächter Kräuterbitter",
+    "category": "Getränke",
+    "subcategories": ["Kräuterbitter"]
+  },
+  {
+    "id": "2020002932718",
+    "name": "Licor 43 0,7 L",
+    "category": "Getränke",
+    "subcategories": ["Likör"]
+  },
+  {
+    "id": "2020004745521",
+    "name": "Lillet Berry",
+    "category": "Getränke",
+    "subcategories": ["Lillet", "Berry"]
+  },
+  {
+    "id": "2020004745279",
+    "name": "Lillet Berry",
+    "category": "Getränke",
+    "subcategories": ["Lillet", "Berry"]
+  },
+  {
+    "id": "7682988",
+    "name": "Lillet Blanc",
+    "category": "Getränke",
+    "subcategories": ["Lillet"]
+  },
+  {
+    "id": "4013334",
+    "name": "Lillet Rosé",
+    "category": "Getränke",
+    "subcategories": ["Lillet"]
+  },
+  {
+    "id": "2020004019073",
+    "name": "Lillet Rouge",
+    "category": "Getränke",
+    "subcategories": ["Lillet"]
+  },
+  {
+    "id": "2020004745514",
+    "name": "Lillet Tonic",
+    "category": "Getränke",
+    "subcategories": ["Lillet", "Tonic"]
+  },
+  {
+    "id": "3714010",
+    "name": "Limoncello 0,5 L",
+    "category": "Getränke",
+    "subcategories": ["Likör"]
+  },
+  {
+    "id": "2020003454851",
+    "name": "Lealtanza Único Rioja Crianza 2017",
+    "category": "Getränke",
+    "subcategories": ["Wein", "Rioja", "Crianza"]
+  },
+  {
+    "id": "7689482",
+    "name": "Lenz Moser Alter Knabe 2021",
+    "category": "Getränke",
+    "subcategories": ["Wein"]
+  },
+  {
+    "id": "8183118",
+    "name": "Lenz Moser Fête Rosé 2021",
+    "category": "Getränke",
+    "subcategories": ["Wein", "Rosé"]
+  },
+  {
+    "id": "8183095",
+    "name": "Lenz Moser Pfiffikus Cuvée 2021",
+    "category": "Getränke",
+    "subcategories": ["Wein", "Cuvée"]
+  },
+  {
+    "id": "8183545",
+    "name": "Lenz Moser Prestige Blauer Zweigelt 2020",
+    "category": "Getränke",
+    "subcategories": ["Wein", "Blauer Zweigelt"]
+  },
+  {
+    "id": "583770",
+    "name": "Lenz Moser Prestige Blaufränkisch Barrique 2019",
+    "category": "Getränke",
+    "subcategories": ["Wein", "Blaufränkisch", "Barrique"]
+  },
+  {
+    "id": "695879",
+    "name": "Lenz Moser Prestige Pinot Gris 2021",
+    "category": "Getränke",
+    "subcategories": ["Wein", "Pinot Gris"]
+  },
+  {
+    "id": "7679964",
+    "name": "Lenz Moser Selection Blauer Zweigelt 2021",
+    "category": "Getränke",
+    "subcategories": ["Wein", "Blauer Zweigelt"]
+  },
+  {
+    "id": "821087",
+    "name": "Lenz Moser Selection Blaufränkisch 2020",
+    "category": "Getränke",
+    "subcategories": ["Wein", "Blaufränkisch"]
+  },
+  {
+    "id": "530088",
+    "name": "Lenz Moser Selection Chardonnay 2020",
+    "category": "Getränke",
+    "subcategories": ["Wein", "Chardonnay"]
+  },
+  {
+    "id": "7695230",
+    "name": "Lenz Moser Selection Grüner Veltliner 2021",
+    "category": "Getränke",
+    "subcategories": ["Wein", "Grüner Veltliner"]
+  },
+  {
+    "id": "290920",
+    "name": "Lenz Moser Selection St. Laurent 2020",
+    "category": "Getränke",
+    "subcategories": ["Wein", "St. Laurent"]
+  },
+  {
+    "id": "8183651",
+    "name": "Lenz Moser Servus Cuvée Gold 2021",
+    "category": "Getränke",
+    "subcategories": ["Wein", "Cuvée", "Gold"]
+  },
+  {
+    "id": "2020003854613",
+    "name": "Lenz Moser Servus Rosé Cuvée 2021",
+    "category": "Getränke",
+    "subcategories": ["Wein", "Cuvée", "Rosé"]
+  },
+  {
+    "id": "7699078",
+    "name": "Lenz Moser Servus Rotwein Cuvée 2021",
+    "category": "Getränke",
+    "subcategories": ["Wein", "Cuvée", "Rotwein"]
+  },
+  {
+    "id": "2020004190246",
+    "name": "Lenz Moser Servus Weißwein Cuvée 2020",
+    "category": "Getränke",
+    "subcategories": ["Wein", "Cuvée", "Weißwein"]
+  },
+  {
+    "id": "7687396",
+    "name": "Lenz Moser Servus Weißwein Cuvée 2021",
+    "category": "Getränke",
+    "subcategories": ["Wein", "Cuvée", "Weißwein"]
+  },
+  {
+    "id": "2020002547028",
+    "name": "Lenz Moser Servus Weißwein Cuvée 5%",
+    "category": "Getränke",
+    "subcategories": ["Wein", "Cuvée", "Weißwein"]
+  },
+  {
+    "id": "8182760",
+    "name": "Lenz Moser Storch Blauer Zweigelt",
+    "category": "Getränke",
+    "subcategories": ["Wein", "Blauer Zweigelt"]
+  },
+  {
+    "id": "8183293",
+    "name": "Lenz Moser Storch Blauer Zweigelt 2020",
+    "category": "Getränke",
+    "subcategories": ["Wein", "Blauer Zweigelt"]
+  },
+  {
+    "id": "8183446",
+    "name": "Lenz Moser Storch Blaufränkisch 2020",
+    "category": "Getränke",
+    "subcategories": ["Wein", "Blaufränkisch"]
+  },
+  {
+    "id": "8183309",
+    "name": "Lenz Moser Storch Grüner Veltliner 2020",
+    "category": "Getränke",
+    "subcategories": ["Wein", "Grüner Veltliner"]
+  },
+  {
+    "id": "8183811",
+    "name": "Lenz Moser Storch Spätlese Cuvée 2021",
+    "category": "Getränke",
+    "subcategories": ["Wein", "Cuvée", "Spätlese"]
+  },
+  {
+    "id": "2020003005190",
+    "name": "Lenz Moser Storch Spätlese Rot 2021",
+    "category": "Getränke",
+    "subcategories": ["Wein", "Spätlese", "Rotwein"]
+  },
+  {
+    "id": "8183460",
+    "name": "Lenz Moser Storch Weißwein Cuvée",
+    "category": "Getränke",
+    "subcategories": ["Wein", "Cuvée", "Weißwein"]
+  },
+  {
+    "id": "8183156",
+    "name": "Lenz Moser Storch Welschriesling 2020",
+    "category": "Getränke",
+    "subcategories": ["Wein", "Welschriesling"]
+  },
+  {
+    "id": "4411314",
+    "name": "Leonardo da Vinci Chianti DOCG 2020",
+    "category": "Getränke",
+    "subcategories": ["Wein", "Chianti"]
+  },
+  {
+    "id": "4411291",
+    "name": "Leonardo da Vinci Chianti Riserva DOCG 2019",
+    "category": "Getränke",
+    "subcategories": ["Wein", "Chianti", "Riserva"]
+  },
+  {
+    "id": "2450049",
+    "name": "Les Dauphins Côtes du Rhône AOC 2020",
+    "category": "Getränke",
+    "subcategories": ["Wein", "Côtes du Rhône"]
+  },
+  {
+    "id": "2020004392282",
+    "name": "Les Dauphins Côtes du Rhône Grenache-Syrah BIO 2020",
+    "category": "Getränke",
+    "subcategories": ["Wein", "Côtes du Rhône", "Grenache-Syrah"]
+  },
+  {
+    "id": "2020000881643",
+    "name": "Liesl Steirischer Apfelcider",
+    "category": "Getränke",
+    "subcategories": ["Apfelcider"]
+  }
+]

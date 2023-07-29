@@ -1,0 +1,702 @@
+[
+  {
+    "store": "billa",
+    "id": "00-439494",
+    "name": "Thai Dancer Pickled Ginger",
+    "category": "Gewürze",
+    "subcategories": ["Essig", "Eingelegt"]
+  },
+  {
+    "store": "billa",
+    "id": "00-809572",
+    "name": "Wai Wai Reisnudeln",
+    "category": "Nudeln",
+    "subcategories": []
+  },
+  {
+    "store": "billa",
+    "id": "00-426255",
+    "name": "Windmill Kokosmilch",
+    "category": "Milchprodukte",
+    "subcategories": ["Kokosnuss"]
+  },
+  {
+    "store": "billa",
+    "id": "00-426247",
+    "name": "Windmill Sambal Oelek",
+    "category": "Gewürze",
+    "subcategories": ["Scharf"]
+  },
+  {
+    "store": "billa",
+    "id": "00-756107",
+    "name": "Yaki Nori Gerösteter Seetang für Sushi",
+    "category": "Fisch",
+    "subcategories": ["Sushi"]
+  },
+  {
+    "store": "billa",
+    "id": "00-426276",
+    "name": "Yum Yum Instant Noodles Ente",
+    "category": "Nudeln",
+    "subcategories": ["Suppe"]
+  },
+  {
+    "store": "billa",
+    "id": "00-426277",
+    "name": "Yum Yum Instant Noodles Huhn",
+    "category": "Nudeln",
+    "subcategories": ["Suppe"]
+  },
+  {
+    "store": "billa",
+    "id": "00-283629",
+    "name": "Yutaka Sushi Nori",
+    "category": "Fisch",
+    "subcategories": ["Sushi"]
+  },
+  {
+    "store": "billa",
+    "id": "00-291889",
+    "name": "Yutaka Sushi Reis",
+    "category": "Reis",
+    "subcategories": ["Sushi"]
+  },
+  {
+    "store": "billa",
+    "id": "00-967026",
+    "name": "deSIAM Erdnuss Kokos Sauce",
+    "category": "Saucen",
+    "subcategories": ["Thailändisch"]
+  },
+  {
+    "store": "billa",
+    "id": "00-307399",
+    "name": "deSIAM Spring Roll Wrappers",
+    "category": "Backwaren",
+    "subcategories": ["Teig"]
+  },
+  {
+    "store": "billa",
+    "id": "00-317447",
+    "name": "Alnatura 4 Korn Getreidebrei",
+    "category": "Getreide",
+    "subcategories": ["Brei"]
+  },
+  {
+    "store": "billa",
+    "id": "00-317655",
+    "name": "Alnatura Apfel Heidelbeere",
+    "category": "Obst",
+    "subcategories": []
+  },
+  {
+    "store": "billa",
+    "id": "00-317505",
+    "name": "Alnatura Apfel mit Banane & Dinkel",
+    "category": "Obst",
+    "subcategories": []
+  },
+  {
+    "store": "billa",
+    "id": "00-947984",
+    "name": "Alnatura Apfel mit Birne und Hafer",
+    "category": "Obst",
+    "subcategories": []
+  },
+  {
+    "store": "billa",
+    "id": "00-317503",
+    "name": "Alnatura Apfel mit Mango",
+    "category": "Obst",
+    "subcategories": []
+  },
+  {
+    "store": "billa",
+    "id": "00-948018",
+    "name": "Alnatura Apfel-Birne-Kirsche",
+    "category": "Obst",
+    "subcategories": []
+  },
+  {
+    "store": "billa",
+    "id": "00-353646",
+    "name": "Alnatura Apfel-Heidelbeer Müsli",
+    "category": "Müsli",
+    "subcategories": ["Obst"]
+  },
+  {
+    "store": "billa",
+    "id": "00-300131",
+    "name": "Alnatura Apfel-Himbeere-Wassermelone",
+    "category": "Obst",
+    "subcategories": []
+  },
+  {
+    "store": "billa",
+    "id": "00-300147",
+    "name": "Alnatura Apfel-Mango-Kokos und Dinkelgrieß",
+    "category": "Obst",
+    "subcategories": []
+  },
+  {
+    "store": "billa",
+    "id": "00-317421",
+    "name": "Alnatura Apfel-Pfirsich Banane",
+    "category": "Obst",
+    "subcategories": []
+  },
+  {
+    "store": "billa",
+    "id": "00-317599",
+    "name": "Alnatura Birne Pur",
+    "category": "Obst",
+    "subcategories": []
+  },
+  {
+    "store": "billa",
+    "id": "00-317600",
+    "name": "Alnatura Birne mit Heidelbeere",
+    "category": "Obst",
+    "subcategories": []
+  },
+  {
+    "store": "billa",
+    "id": "00-494808",
+    "name": "Alnatura Birne mit Marille",
+    "category": "Obst",
+    "subcategories": []
+  },
+  {
+    "store": "billa",
+    "id": "00-498144",
+    "name": "Alnatura Bunter Eintopf Linsengemüse mit Rind",
+    "category": "Eintopf",
+    "subcategories": ["Linsen", "Rind"]
+  },
+  {
+    "store": "billa",
+    "id": "00-496870",
+    "name": "Alnatura Dinkel Kekse",
+    "category": "Gebäck",
+    "subcategories": ["Kekse"]
+  },
+  {
+    "store": "billa",
+    "id": "00-471732",
+    "name": "Alnatura Dinkel Löffel Kekse",
+    "category": "Gebäck",
+    "subcategories": ["Kekse"]
+  },
+  {
+    "store": "billa",
+    "id": "00-317504",
+    "name": "Alnatura Fruchtallerlei",
+    "category": "Obst",
+    "subcategories": []
+  },
+  {
+    "store": "billa",
+    "id": "00-317813",
+    "name": "Alnatura Früchteriegel Mango-Apfel",
+    "category": "Snacks",
+    "subcategories": ["Obst"]
+  },
+  {
+    "store": "billa",
+    "id": "00-317741",
+    "name": "Alnatura Gemüse mit Süßkartoffeln",
+    "category": "Gemüse",
+    "subcategories": ["Süßkartoffeln"]
+  },
+  {
+    "store": "billa",
+    "id": "00-317773",
+    "name": "Alnatura Gemüse mit Süßkartoffeln und Huhn",
+    "category": "Gemüse",
+    "subcategories": ["Süßkartoffeln", "Huhn"]
+  },
+  {
+    "store": "billa",
+    "id": "00-317794",
+    "name": "Alnatura Grießbrei Pur",
+    "category": "Brei",
+    "subcategories": ["Grieß"]
+  },
+  {
+    "store": "billa",
+    "id": "00-593922",
+    "name": "Alnatura Karotte-Zucchini-Süsskartoffel mit Rind",
+    "category": "Babybrei",
+    "subcategories": ["Gemüse", "Rind"]
+  },
+  {
+    "store": "billa",
+    "id": "00-317516",
+    "name": "Alnatura Karotten-Brokkoli-Tomaten und Dinkelnudeln",
+    "category": "Nudeln",
+    "subcategories": ["Gemüse"]
+  },
+  {
+    "store": "billa",
+    "id": "00-317709",
+    "name": "Alnatura Kürbis Pur",
+    "category": "Gemüse",
+    "subcategories": ["Kürbis"]
+  },
+  {
+    "store": "billa",
+    "id": "00-494896",
+    "name": "Alnatura Linsengemüse mit Couscous",
+    "category": "Gemüse",
+    "subcategories": ["Linsen"]
+  },
+  {
+    "store": "billa",
+    "id": "00-317621",
+    "name": "Alnatura Milder Apfel Pur",
+    "category": "Obst",
+    "subcategories": []
+  },
+  {
+    "store": "billa",
+    "id": "00-317772",
+    "name": "Alnatura Mini Reiswaffeln Apfel & Mango",
+    "category": "Getreide",
+    "subcategories": ["Reis"]
+  },
+  {
+    "store": "billa",
+    "id": "00-317570",
+    "name": "Alnatura Pastinake Pur",
+    "category": "Gemüse",
+    "subcategories": ["Pastinake"]
+  },
+  {
+    "store": "billa",
+    "id": "00-317507",
+    "name": "Alnatura Rindfleisch Zubereitung",
+    "category": "Fleisch",
+    "subcategories": ["Rind"]
+  },
+  {
+    "store": "billa",
+    "id": "00-587967",
+    "name": "Alpro Drink Junior Hafer",
+    "category": "Milchprodukte",
+    "subcategories": []
+  },
+  {
+    "store": "billa",
+    "id": "00-267130",
+    "name": "Aptamil Anfangsnahrung 1",
+    "category": "Baby",
+    "subcategories": ["Säuglingsnahrung"]
+  },
+  {
+    "store": "billa",
+    "id": "00-267129",
+    "name": "Aptamil Anfangsnahrung Pre",
+    "category": "Baby",
+    "subcategories": ["Säuglingsnahrung"]
+  },
+  {
+    "store": "billa",
+    "id": "00-267132",
+    "name": "Aptamil Folgemilch 2",
+    "category": "Baby",
+    "subcategories": ["Milch"]
+  },
+  {
+    "store": "billa",
+    "id": "00-267134",
+    "name": "Aptamil Folgemilch 3",
+    "category": "Baby",
+    "subcategories": ["Milch"]
+  },
+  {
+    "store": "billa",
+    "id": "00-242461",
+    "name": "Aptamil Ha Pre",
+    "category": "Baby",
+    "subcategories": ["Säuglingsnahrung"]
+  },
+  {
+    "store": "billa",
+    "id": "00-580985",
+    "name": "Aptamil Pronutra Kindermilch 1+ Vanille",
+    "category": "Milchprodukte",
+    "subcategories": ["Vanille"]
+  },
+  {
+    "store": "billa",
+    "id": "00-701416",
+    "name": "BILLA Bio Apfel Mini Reiswaffeln",
+    "category": "Getreide",
+    "subcategories": ["Reis"]
+  },
+  {
+    "store": "billa",
+    "id": "00-702479",
+    "name": "BILLA Bio Erdbeere & Apfel Frucht Chips",
+    "category": "Snacks",
+    "subcategories": ["Obst"]
+  },
+  {
+    "store": "billa",
+    "id": "00-702480",
+    "name": "BILLA Bio Erdbeere & Banane Frucht Chips",
+    "category": "Snacks",
+    "subcategories": ["Obst"]
+  },
+  {
+    "store": "billa",
+    "id": "00-713485",
+    "name": "BILLA Bio Hafer-Fruchtriegel Apfel, Banane & Heidelbeere 6er",
+    "category": "Snacks",
+    "subcategories": ["Obst", "Hafer"]
+  },
+  {
+    "store": "billa",
+    "id": "00-701415",
+    "name": "BILLA Bio Karotte & Kürbis Mini Reiswaffeln",
+    "category": "Getreide",
+    "subcategories": ["Reis"]
+  },
+  {
+    "store": "billa",
+    "id": "00-715232",
+    "name": "BILLA Bio Knusperstangerl Mais",
+    "category": "Backwaren",
+    "subcategories": ["Mais"]
+  },
+  {
+    "store": "billa",
+    "id": "00-715233",
+    "name": "BILLA Bio Knusperstangerl Mais & Hafer",
+    "category": "Backwaren",
+    "subcategories": ["Mais", "Hafer"]
+  },
+  {
+    "store": "billa",
+    "id": "00-713182",
+    "name": "BILLA Bio Obstmus Apfel & Banane",
+    "category": "Obst",
+    "subcategories": ["Obstmus"]
+  },
+  {
+    "store": "billa",
+    "id": "00-713183",
+    "name": "BILLA Bio Obstmus Apfel & Banane 4er",
+    "category": "Obst",
+    "subcategories": ["Obstmus"]
+  },
+  {
+    "store": "billa",
+    "id": "00-713178",
+    "name": "BILLA Bio Obstmus Apfel & Karotte",
+    "category": "Obst",
+    "subcategories": ["Obstmus"]
+  },
+  {
+    "store": "billa",
+    "id": "00-713180",
+    "name": "BILLA Bio Obstmus Apfel, Banane & Hafer",
+    "category": "Obst",
+    "subcategories": ["Obstmus", "Hafer"]
+  },
+  {
+    "store": "billa",
+    "id": "00-713177",
+    "name": "BILLA Bio Obstmus Apfel, Birne & Erdbeere",
+    "category": "Obst",
+    "subcategories": ["Obstmus"]
+  },
+  {
+    "store": "billa",
+    "id": "00-713184",
+    "name": "BILLA Bio Obstmus Apfel, Birne & Erdbeere 4er",
+    "category": "Obst",
+    "subcategories": ["Obstmus"]
+  },
+  {
+    "store": "billa",
+    "id": "00-713179",
+    "name": "BILLA Bio Obstmus Apfel, Pfirsich & Mango",
+    "category": "Obst",
+    "subcategories": ["Obstmus"]
+  },
+  {
+    "store": "billa",
+    "id": "00-387459",
+    "name": "Beba 1",
+    "category": "Baby",
+    "subcategories": ["Säuglingsnahrung"]
+  },
+  {
+    "store": "billa",
+    "id": "00-387469",
+    "name": "Beba 3",
+    "category": "Baby",
+    "subcategories": []
+  },
+  {
+    "store": "billa",
+    "id": "00-468649",
+    "name": "Beba Bio 2",
+    "category": "Baby",
+    "subcategories": []
+  },
+  {
+    "store": "billa",
+    "id": "00-468269",
+    "name": "Beba Bio Pre",
+    "category": "Baby",
+    "subcategories": ["Säuglingsnahrung"]
+  },
+  {
+    "store": "billa",
+    "id": "00-387478",
+    "name": "Beba Junior 1",
+    "category": "Baby",
+    "subcategories": []
+  },
+  {
+    "store": "billa",
+    "id": "00-387483",
+    "name": "Beba Junior 2",
+    "category": "Baby",
+    "subcategories": []
+  },
+  {
+    "store": "billa",
+    "id": "00-387456",
+    "name": "Beba Pre",
+    "category": "Baby",
+    "subcategories": []
+  },
+  {
+    "store": "billa",
+    "id": "00-494299",
+    "name": "Bebivita Früchte Riegel Apfel-Banane",
+    "category": "Snacks",
+    "subcategories": ["Früchteriegel"]
+  },
+  {
+    "store": "billa",
+    "id": "00-947979",
+    "name": "Bebivita Kinderspaß Birne-Himbeere-Apfel",
+    "category": "Obst",
+    "subcategories": []
+  },
+  {
+    "store": "billa",
+    "id": "00-489338",
+    "name": "Bebivita Kinderspaß Erdbeere in Apfel-Birne",
+    "category": "Obst",
+    "subcategories": []
+  },
+  {
+    "store": "billa",
+    "id": "00-489339",
+    "name": "Bebivita Kinderspaß Vollkorn in Apfel-Banane",
+    "category": "Getreide",
+    "subcategories": ["Obst"]
+  },
+  {
+    "store": "billa",
+    "id": "00-362806",
+    "name": "Bebivita Pre Anfangsmilch",
+    "category": "Baby",
+    "subcategories": ["Säuglingsnahrung"]
+  },
+  {
+    "store": "billa",
+    "id": "00-580057",
+    "name": "Freche Freunde Brezeln Kichererbse",
+    "category": "Snacks",
+    "subcategories": ["Kichererbse"]
+  },
+  {
+    "store": "billa",
+    "id": "00-579971",
+    "name": "Freche Freunde Fruchtchips Mango",
+    "category": "Snacks",
+    "subcategories": ["Obst"]
+  },
+  {
+    "store": "billa",
+    "id": "00-404789",
+    "name": "Freche Freunde Fruchtchips Roter Beerenmix",
+    "category": "Snacks",
+    "subcategories": ["Obst"]
+  },
+  {
+    "store": "billa",
+    "id": "00-553588",
+    "name": "Freche Freunde Frühstücks Kringel Erdbeere",
+    "category": "Snacks",
+    "subcategories": ["Erdbeere"]
+  },
+  {
+    "store": "billa",
+    "id": "00-295679",
+    "name": "Freche Freunde Knackige Fruchtstückchen",
+    "category": "Snacks",
+    "subcategories": ["Obst"]
+  },
+  {
+    "store": "billa",
+    "id": "00-475824",
+    "name": "Freche Freunde Knusper Sticks Gemüse",
+    "category": "Snacks",
+    "subcategories": ["Gemüse"]
+  },
+  {
+    "store": "billa",
+    "id": "00-448011",
+    "name": "Freche Freunde Knusper-Flips Karotte",
+    "category": "Snacks",
+    "subcategories": ["Gemüse"]
+  },
+  {
+    "store": "billa",
+    "id": "00-434801",
+    "name": "Freche Freunde Knusper-Herzchen Banane & Erdbeere",
+    "category": "Snacks",
+    "subcategories": ["Obst"]
+  },
+  {
+    "store": "billa",
+    "id": "00-944478",
+    "name": "Freche Freunde Laugensticks Karotte",
+    "category": "Snacks",
+    "subcategories": ["Gemüse"]
+  },
+  {
+    "store": "billa",
+    "id": "00-552805",
+    "name": "Freche Freunde Quetschie Apfel, Banane & Himbeere",
+    "category": "Baby",
+    "subcategories": ["Obst"]
+  },
+  {
+    "store": "billa",
+    "id": "00-295681",
+    "name": "Freche Freunde Quetschie Apfel, Banane, Ananas & Kokosnuss",
+    "category": "Baby",
+    "subcategories": ["Obst"]
+  },
+  {
+    "store": "billa",
+    "id": "00-552882",
+    "name": "Freche Freunde Quetschie Apfel, Erdbeere, Blaubeere & Himbeere",
+    "category": "Baby",
+    "subcategories": ["Obst"]
+  },
+  {
+    "store": "billa",
+    "id": "00-295683",
+    "name": "Freche Freunde Quetschie Apfel, Mango & Pfirsich",
+    "category": "Baby",
+    "subcategories": ["Obst"]
+  },
+  {
+    "store": "billa",
+    "id": "00-552891",
+    "name": "Freche Freunde Quetschie Banane, Erdbeere & Quinoa",
+    "category": "Baby",
+    "subcategories": ["Obst"]
+  },
+  {
+    "store": "billa",
+    "id": "00-295688",
+    "name": "Freche Freunde Quetschie Birne, Banane, Orange & Vanille",
+    "category": "Baby",
+    "subcategories": ["Obst"]
+  },
+  {
+    "store": "billa",
+    "id": "00-461144",
+    "name": "Freche Freunde Quetschie Frühstücks-Mix 4er",
+    "category": "Baby",
+    "subcategories": ["Obst"]
+  },
+  {
+    "store": "billa",
+    "id": "00-461155",
+    "name": "Freche Freunde Quetschie Nachtisch-Mix 4er",
+    "category": "Baby",
+    "subcategories": ["Obst"]
+  },
+  {
+    "store": "billa",
+    "id": "00-553624",
+    "name": "Freche Freunde Riegel Apfel-Karotte",
+    "category": "Snacks",
+    "subcategories": ["Obst", "Gemüse"]
+  },
+  {
+    "store": "billa",
+    "id": "00-553621",
+    "name": "Freche Freunde Riegel Banane, rote Traube & Aronia",
+    "category": "Snacks",
+    "subcategories": ["Obst"]
+  },
+  {
+    "store": "billa",
+    "id": "00-491439",
+    "name": "Fruchtbar Bio Babykekse",
+    "category": "Gebäck",
+    "subcategories": ["Baby"]
+  },
+  {
+    "store": "billa",
+    "id": "00-722513",
+    "name": "Fruchtbar Bio Frühstücks Herzen",
+    "category": "Gebäck",
+    "subcategories": ["Frühstück"]
+  },
+  {
+    "store": "billa",
+    "id": "00-722516",
+    "name": "Fruchtbar Bio Herznudeln",
+    "category": "Nudeln",
+    "subcategories": ["Gebäck"]
+  },
+  {
+    "store": "billa",
+    "id": "00-291542",
+    "name": "Fruchtbar Bio-Früchtebrei",
+    "category": "Obst",
+    "subcategories": ["Brei"]
+  },
+  {
+    "store": "billa",
+    "id": "00-586192",
+    "name": "Fruchtbar Bio-Mehrkorn-Stangen",
+    "category": "Gebäck",
+    "subcategories": ["Mehrkorn"]
+  },
+  {
+    "store": "billa",
+    "id": "00-847877",
+    "name": "Fruchtbar Fruchtpüree I Love Yellow Mango",
+    "category": "Obst",
+    "subcategories": ["Obstpüree"]
+  },
+  {
+    "store": "billa",
+    "id": "00-294314",
+    "name": "Fruchtbar Fruchtpüree Kirsche Banane",
+    "category": "Obst",
+    "subcategories": ["Obstpüree"]
+  },
+  {
+    "store": "billa",
+    "id": "00-402773",
+    "name": "Fruchtbar Knusper Stäbchen Mais Käse",
+    "category": "Snacks",
+    "subcategories": ["Mais", "Käse"]
+  }
+]

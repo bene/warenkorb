@@ -1,0 +1,706 @@
+[
+  {
+    "store": "spar",
+    "id": "2020002938956",
+    "name": "Megaspeed Scheibenreiniger Meeresbrise 5l",
+    "category": "Haushalt",
+    "subcategories": ["Reinigungsmittel", "Scheibenreiniger", "Meeresbrise"]
+  },
+  {
+    "store": "spar",
+    "id": "7875175",
+    "name": "Megaspeed destilliertes Wasser 5L",
+    "category": "Haushalt",
+    "subcategories": ["Reinigungsmittel", "destilliertes Wasser"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001398737",
+    "name": "Melanzani Mini lang 250 G",
+    "category": "Obst und Gemüse",
+    "subcategories": ["Melanzani"]
+  },
+  {
+    "store": "spar",
+    "id": "1539622",
+    "name": "Meisterbrezen Laugenbrezen 8 Stück 750g Packung",
+    "category": "Bäckerei",
+    "subcategories": ["Laugenbrezen"]
+  },
+  {
+    "store": "spar",
+    "id": "8212375",
+    "name": "Meisterbrezen Laugenstangerl 8 Stück 800g Packung",
+    "category": "Bäckerei",
+    "subcategories": ["Laugenstangerl"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001381432",
+    "name": "Meisterbrezen Mini-Laugen-Mix 15 Stück 750g Packung",
+    "category": "Bäckerei",
+    "subcategories": ["Laugen-Mix"]
+  },
+  {
+    "store": "spar",
+    "id": "3195109",
+    "name": "Menes Bio-Oregano 22g",
+    "category": "Gewürze",
+    "subcategories": ["Oregano", "Bio"]
+  },
+  {
+    "store": "spar",
+    "id": "3893494",
+    "name": "Menes Blaue Mohnsamen 90g",
+    "category": "Backwaren",
+    "subcategories": ["Mohnsamen"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002911621",
+    "name": "Menes Cayennepfeffer gemahlen 65g",
+    "category": "Gewürze",
+    "subcategories": ["Cayennepfeffer"]
+  },
+  {
+    "store": "spar",
+    "id": "3195413",
+    "name": "Menes Curry süß 75g",
+    "category": "Gewürze",
+    "subcategories": ["Curry"]
+  },
+  {
+    "store": "spar",
+    "id": "3195345",
+    "name": "Menes Espelette Pfeffer g.U. 62g",
+    "category": "Gewürze",
+    "subcategories": ["Espelette Pfeffer"]
+  },
+  {
+    "store": "spar",
+    "id": "3195437",
+    "name": "Menes Estragon 10g",
+    "category": "Gewürze",
+    "subcategories": ["Estragon"]
+  },
+  {
+    "store": "spar",
+    "id": "3195802",
+    "name": "Menes Fasanen Pastete mit Cranberries",
+    "category": "Feinkost",
+    "subcategories": ["Fasanen Pastete", "Cranberries"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002027896",
+    "name": "Melitta Handfilter 1x4",
+    "category": "Kaffee und Tee",
+    "subcategories": ["Handfilter"]
+  },
+  {
+    "store": "spar",
+    "id": "166898",
+    "name": "Melitta Kaffeefillter 1x4 40 Stück",
+    "category": "Kaffee und Tee",
+    "subcategories": ["Kaffeefilter"]
+  },
+  {
+    "store": "spar",
+    "id": "5115259",
+    "name": "Melitta Kaffeefilter 1 x 4 weiß 80 Stück",
+    "category": "Kaffee und Tee",
+    "subcategories": ["Kaffeefilter"]
+  },
+  {
+    "store": "spar",
+    "id": "357999",
+    "name": "Melitta Kaffeefilter 100 Naturbraun 40 Stück",
+    "category": "Kaffee und Tee",
+    "subcategories": ["Kaffeefilter"]
+  },
+  {
+    "store": "spar",
+    "id": "2192291",
+    "name": "Melitta Kaffeefilter 101 ungebleicht 40 Stück",
+    "category": "Kaffee und Tee",
+    "subcategories": ["Kaffeefilter"]
+  },
+  {
+    "store": "spar",
+    "id": "6545147",
+    "name": "Melitta Kaffeefilter 102 Natura 80 Stück",
+    "category": "Kaffee und Tee",
+    "subcategories": ["Kaffeefilter"]
+  },
+  {
+    "store": "spar",
+    "id": "167420",
+    "name": "Melitta Kaffeefilter 102 ungebleicht 40 Stück",
+    "category": "Kaffee und Tee",
+    "subcategories": ["Kaffeefilter"]
+  },
+  {
+    "store": "spar",
+    "id": "171427",
+    "name": "Melitta Kaffeefilter 102 ungebleicht 40 Stück",
+    "category": "Kaffee und Tee",
+    "subcategories": ["Kaffeefilter"]
+  },
+  {
+    "store": "spar",
+    "id": "1803679",
+    "name": "Melitta Kaffeefilter 102 ungebleicht 80 Stück",
+    "category": "Kaffee und Tee",
+    "subcategories": ["Kaffeefilter"]
+  },
+  {
+    "store": "spar",
+    "id": "1830958",
+    "name": "Melitta Kaffeefilter 102/80 ungleicht 80 Stück",
+    "category": "Kaffee und Tee",
+    "subcategories": ["Kaffeefilter"]
+  },
+  {
+    "store": "spar",
+    "id": "171441",
+    "name": "Melitta Kaffeefilter 1x2 ungebleicht 40 Stück",
+    "category": "Kaffee und Tee",
+    "subcategories": ["Kaffeefilter"]
+  },
+  {
+    "store": "spar",
+    "id": "7239137",
+    "name": "Melitta Kaffeefilter 1x2 ungebleicht 80 Stück",
+    "category": "Kaffee und Tee",
+    "subcategories": ["Kaffeefilter"]
+  },
+  {
+    "store": "spar",
+    "id": "6545093",
+    "name": "Melitta Kaffeefilter 1x4 Mild 80 Stück",
+    "category": "Kaffee und Tee",
+    "subcategories": ["Kaffeefilter"]
+  },
+  {
+    "store": "spar",
+    "id": "6545109",
+    "name": "Melitta Kaffeefilter 1x4 Natura 80 Stück",
+    "category": "Kaffee und Tee",
+    "subcategories": ["Kaffeefilter"]
+  },
+  {
+    "store": "spar",
+    "id": "170543",
+    "name": "Melitta Kaffeefilter 1x4 Naturbraun 40 Stück",
+    "category": "Kaffee und Tee",
+    "subcategories": ["Kaffeefilter"]
+  },
+  {
+    "store": "spar",
+    "id": "6545178",
+    "name": "Melitta Kaffeefilter 1x4 Naturbraun 80 Stück",
+    "category": "Kaffee und Tee",
+    "subcategories": ["Kaffeefilter"]
+  },
+  {
+    "store": "spar",
+    "id": "6545086",
+    "name": "Melitta Kaffeefilter 1x4 intense 80 Stück",
+    "category": "Kaffee und Tee",
+    "subcategories": ["Kaffeefilter"]
+  },
+  {
+    "store": "spar",
+    "id": "171472",
+    "name": "Melitta Kaffeefilter 1x6 ungebleicht 40",
+    "category": "Kaffee und Tee",
+    "subcategories": ["Kaffeefilter"]
+  },
+  {
+    "store": "spar",
+    "id": "8209696",
+    "name": "Melitta Original Aromafilter natur 1 x 4 80 Stück",
+    "category": "Kaffee und Tee",
+    "subcategories": ["Kaffeefilter"]
+  },
+  {
+    "store": "spar",
+    "id": "8203342",
+    "name": "Melitta Teefilter halterlos Größe S 80 Stück",
+    "category": "Kaffee und Tee",
+    "subcategories": ["Teefilter"]
+  },
+  {
+    "store": "spar",
+    "id": "7307379",
+    "name": "Meister Proper Allzweckreiniger Citrusfrische 1L",
+    "category": "Haushalt",
+    "subcategories": ["Reinigungsmittel", "Allzweckreiniger", "Citrusfrische"]
+  },
+  {
+    "store": "spar",
+    "id": "7308673",
+    "name": "Meister Proper Allzweckreiniger Frühlingserwachen 1L",
+    "category": "Haushalt",
+    "subcategories": [
+      "Reinigungsmittel",
+      "Allzweckreiniger",
+      "Frühlingserwachen"
+    ]
+  },
+  {
+    "store": "spar",
+    "id": "8209023",
+    "name": "Meister Proper Allzweckreiniger Reine Frische 1L",
+    "category": "Haushalt",
+    "subcategories": ["Reinigungsmittel", "Allzweckreiniger", "Reine Frische"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004167958",
+    "name": "Meister Proper Allzweckreiniger mit Natron 1L",
+    "category": "Haushalt",
+    "subcategories": ["Reinigungsmittel", "Allzweckreiniger", "Natron"]
+  },
+  {
+    "store": "spar",
+    "id": "5084937",
+    "name": "Meister Proper Express Schmutzradierer 2 Stück",
+    "category": "Haushalt",
+    "subcategories": ["Reinigungsmittel", "Schmutzradierer"]
+  },
+  {
+    "store": "spar",
+    "id": "4135050",
+    "name": "Meister Proper Reinigungstücher Citrusfrische 60 Stück",
+    "category": "Haushalt",
+    "subcategories": ["Reinigungsmittel", "Reinigungstücher", "Citrusfrische"]
+  },
+  {
+    "store": "spar",
+    "id": "5560493",
+    "name": "Melitta Anti Calc Entkalker für Vollautomaten 2 x 40g",
+    "category": "Haushalt",
+    "subcategories": ["Entkalker", "Vollautomaten"]
+  },
+  {
+    "store": "spar",
+    "id": "2020000777403",
+    "name": "Melitta Anti Calc Flüssig-Entkalker für Kaffee-Vollautomaten 250ml",
+    "category": "Haushalt",
+    "subcategories": ["Entkalker", "Flüssig-Entkalker", "Kaffee-Vollautomaten"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002868147",
+    "name": "Melitta Pressstempelkanne 350ml / 3 Tassen",
+    "category": "Kaffee und Tee",
+    "subcategories": ["Pressstempelkanne"]
+  },
+  {
+    "store": "spar",
+    "id": "3195475",
+    "name": "Menes Ingwer gemahlen 55g",
+    "category": "Gewürze",
+    "subcategories": ["Ingwer"]
+  },
+  {
+    "store": "spar",
+    "id": "1030846",
+    "name": "Menes Kardamom grün ganz 45g",
+    "category": "Gewürze",
+    "subcategories": ["Kardamom"]
+  },
+  {
+    "store": "spar",
+    "id": "3195062",
+    "name": "Menes Kerbel 12g",
+    "category": "Gewürze",
+    "subcategories": ["Kerbel"]
+  },
+  {
+    "store": "spar",
+    "id": "3195376",
+    "name": "Menes Koriander ganz 40g",
+    "category": "Gewürze",
+    "subcategories": ["Koriander"]
+  },
+  {
+    "store": "spar",
+    "id": "3197011",
+    "name": "Menes Koriander gemahlen 55g",
+    "category": "Gewürze",
+    "subcategories": ["Koriander"]
+  },
+  {
+    "store": "spar",
+    "id": "3893616",
+    "name": "Menes Koriander gerebelt 12g",
+    "category": "Gewürze",
+    "subcategories": ["Koriander"]
+  },
+  {
+    "store": "spar",
+    "id": "3195383",
+    "name": "Menes Kreuzkümmel ganz 65g",
+    "category": "Gewürze",
+    "subcategories": ["Kreuzkümmel"]
+  },
+  {
+    "store": "spar",
+    "id": "5310616",
+    "name": "Menes Kreuzkümmel gemahlen 75g",
+    "category": "Gewürze",
+    "subcategories": ["Kreuzkümmel"]
+  },
+  {
+    "store": "spar",
+    "id": "3195482",
+    "name": "Menes Kräuter der Provence 35g",
+    "category": "Gewürze",
+    "subcategories": ["Kräuter der Provence"]
+  },
+  {
+    "store": "spar",
+    "id": "3195406",
+    "name": "Menes Kurkuma 75g",
+    "category": "Gewürze",
+    "subcategories": ["Kurkuma"]
+  },
+  {
+    "store": "spar",
+    "id": "3893715",
+    "name": "Menes Lorbeer 2,5g",
+    "category": "Gewürze",
+    "subcategories": ["Lorbeer"]
+  },
+  {
+    "store": "spar",
+    "id": "3893449",
+    "name": "Menes Masala Gewürz 75g",
+    "category": "Gewürze",
+    "subcategories": ["Masala Gewürz"]
+  },
+  {
+    "store": "spar",
+    "id": "3195505",
+    "name": "Menes Muskatnuss ganz 37g",
+    "category": "Gewürze",
+    "subcategories": ["Muskatnuss"]
+  },
+  {
+    "store": "spar",
+    "id": "3195116",
+    "name": "Menes Paprika süß 75g",
+    "category": "Gewürze",
+    "subcategories": ["Paprika"]
+  },
+  {
+    "store": "spar",
+    "id": "3195154",
+    "name": "Menes Pfeffer & Beeren Mischung 55g",
+    "category": "Gewürze",
+    "subcategories": ["Pfeffer & Beeren"]
+  },
+  {
+    "store": "spar",
+    "id": "3195161",
+    "name": "Menes Pfefferkörner schwarz 75g",
+    "category": "Gewürze",
+    "subcategories": ["Pfefferkörner"]
+  },
+  {
+    "store": "spar",
+    "id": "3893555",
+    "name": "Menes Ras el Hanout 70g",
+    "category": "Gewürze",
+    "subcategories": ["Ras el Hanout"]
+  },
+  {
+    "store": "spar",
+    "id": "3195000",
+    "name": "Menes Rosa Beeren 35g",
+    "category": "Gewürze",
+    "subcategories": ["Rosa Beeren"]
+  },
+  {
+    "store": "spar",
+    "id": "3195253",
+    "name": "Menes Rosmarin 35g",
+    "category": "Gewürze",
+    "subcategories": ["Rosmarin"]
+  },
+  {
+    "store": "spar",
+    "id": "3893593",
+    "name": "Menes Safran-Fäden 0,8g",
+    "category": "Gewürze",
+    "subcategories": ["Safran-Fäden"]
+  },
+  {
+    "store": "spar",
+    "id": "3195260",
+    "name": "Menes Safran-Pulver 0,8g",
+    "category": "Gewürze",
+    "subcategories": ["Safran-Pulver"]
+  },
+  {
+    "store": "spar",
+    "id": "2313320",
+    "name": "Menes Salbei 20g",
+    "category": "Gewürze",
+    "subcategories": ["Salbei"]
+  },
+  {
+    "store": "spar",
+    "id": "2313351",
+    "name": "Menes Sternanis 20g",
+    "category": "Gewürze",
+    "subcategories": ["Sternanis"]
+  },
+  {
+    "store": "spar",
+    "id": "3195451",
+    "name": "Menes Wacholderbeeren 50g",
+    "category": "Gewürze",
+    "subcategories": ["Wacholderbeeren"]
+  },
+  {
+    "store": "spar",
+    "id": "3195031",
+    "name": "Menes Zimt gemahlen 55g",
+    "category": "Gewürze",
+    "subcategories": ["Zimt"]
+  },
+  {
+    "store": "spar",
+    "id": "3195024",
+    "name": "Menes Zimtstangen 20g",
+    "category": "Gewürze",
+    "subcategories": ["Zimt"]
+  },
+  {
+    "store": "spar",
+    "id": "3195352",
+    "name": "Menes Zitronengras 15g",
+    "category": "Gewürze",
+    "subcategories": ["Zitronengras"]
+  },
+  {
+    "store": "spar",
+    "id": "3389874",
+    "name": "Mayflower Muscheln in fruchtiger Tomatensauce",
+    "category": "Feinkost",
+    "subcategories": ["Muscheln", "Tomatensauce"]
+  },
+  {
+    "store": "spar",
+    "id": "2592237",
+    "name": "Mayflower Muscheln Knoblauch",
+    "category": "Feinkost",
+    "subcategories": ["Muscheln", "Knoblauch"]
+  },
+  {
+    "store": "spar",
+    "id": "2592251",
+    "name": "Mayflower Muscheln natur",
+    "category": "Feinkost",
+    "subcategories": ["Muscheln"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001375431",
+    "name": "Mayflower Sardellenfilets in Olivenöl",
+    "category": "Feinkost",
+    "subcategories": ["Sardellenfilets", "Olivenöl"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001375387",
+    "name": "Mayflower Sardellenringe in Olivenöl",
+    "category": "Feinkost",
+    "subcategories": ["Sardellenringe", "Olivenöl"]
+  },
+  {
+    "store": "spar",
+    "id": "7899980",
+    "name": "Mayflower Sprotten geräuchert",
+    "category": "Feinkost",
+    "subcategories": ["Sprotten", "geräuchert"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003493232",
+    "name": "Mautner Markhof Barbecue Sauce Das Original",
+    "category": "Saucen und Dressings",
+    "subcategories": ["Barbecue Sauce", "Das Original"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003493317",
+    "name": "Mautner Markhof Barbecue Sauce Grill & Buchenholz",
+    "category": "Saucen und Dressings",
+    "subcategories": ["Barbecue Sauce", "Grill & Buchenholz"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003493287",
+    "name": "Mautner Markhof Barbecue Sauce Honig & Senf",
+    "category": "Saucen und Dressings",
+    "subcategories": ["Barbecue Sauce", "Honig & Senf"]
+  },
+  {
+    "store": "spar",
+    "id": "7580918",
+    "name": "Mautner Markhof Dill-Senf-Sauce mit Honig",
+    "category": "Saucen und Dressings",
+    "subcategories": ["Dill-Senf-Sauce", "mit Honig"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001802043",
+    "name": "Mautner Markhof French Dressing 500ml",
+    "category": "Saucen und Dressings",
+    "subcategories": ["French Dressing"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001801978",
+    "name": "Mautner Markhof Joghurt-Dressing 500ml",
+    "category": "Saucen und Dressings",
+    "subcategories": ["Joghurt-Dressing"]
+  },
+  {
+    "store": "spar",
+    "id": "5272617",
+    "name": "Mautner Markhof Ketchup Minitube",
+    "category": "Saucen und Dressings",
+    "subcategories": ["Ketchup"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001802104",
+    "name": "Mautner Markhof Kräuter Dressing 500ml",
+    "category": "Saucen und Dressings",
+    "subcategories": ["Kräuter Dressing"]
+  },
+  {
+    "store": "spar",
+    "id": "6254223",
+    "name": "Mautner Markhof Apfelessig Walnuss",
+    "category": "Essig und Öl",
+    "subcategories": ["Apfelessig", "Walnuss"]
+  },
+  {
+    "store": "spar",
+    "id": "3326893",
+    "name": "Mautner Markhof Apfelessig naturtrüb",
+    "category": "Essig und Öl",
+    "subcategories": ["Apfelessig", "naturtrüb"]
+  },
+  {
+    "store": "spar",
+    "id": "4608950",
+    "name": "Mautner Markhof Apfelgold Essig",
+    "category": "Essig und Öl",
+    "subcategories": ["Apfelgold Essig"]
+  },
+  {
+    "store": "spar",
+    "id": "4608974",
+    "name": "Mautner Markhof Apfelgold Essig",
+    "category": "Essig und Öl",
+    "subcategories": ["Apfelgold Essig"]
+  },
+  {
+    "store": "spar",
+    "id": "3312841",
+    "name": "Mautner Markhof Apfelkren",
+    "category": "Konserven und Glaswaren",
+    "subcategories": ["Apfelkren"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003327483",
+    "name": "Mautner Markhof Bio-Apfelessig mit Essigmutter",
+    "category": "Essig und Öl",
+    "subcategories": ["Bio-Apfelessig", "Essigmutter"]
+  },
+  {
+    "store": "spar",
+    "id": "5031153",
+    "name": "Mautner Markhof Condimento Bianco",
+    "category": "Essig und Öl",
+    "subcategories": ["Condimento Bianco"]
+  },
+  {
+    "store": "spar",
+    "id": "6673635",
+    "name": "Mautner Markhof Dijon Senf",
+    "category": "Feinkost",
+    "subcategories": ["Dijon Senf"]
+  },
+  {
+    "store": "spar",
+    "id": "878333",
+    "name": "Mautner Markhof Estragon Senf",
+    "category": "Feinkost",
+    "subcategories": ["Estragon Senf"]
+  },
+  {
+    "store": "spar",
+    "id": "114257",
+    "name": "Mautner Markhof Estragon Senf",
+    "category": "Feinkost",
+    "subcategories": ["Estragon Senf"]
+  },
+  {
+    "store": "spar",
+    "id": "4344339",
+    "name": "Mautner Markhof Estragon Senf",
+    "category": "Feinkost",
+    "subcategories": ["Estragon Senf"]
+  },
+  {
+    "store": "spar",
+    "id": "134989",
+    "name": "Mautner Markhof Estragon Senf",
+    "category": "Feinkost",
+    "subcategories": ["Estragon Senf"]
+  },
+  {
+    "store": "spar",
+    "id": "5272433",
+    "name": "Mautner Markhof Estragon Senf Minitube",
+    "category": "Feinkost",
+    "subcategories": ["Estragon Senf"]
+  },
+  {
+    "store": "spar",
+    "id": "7088254",
+    "name": "Mautner Markhof Feine Auswahl Apfelessig Barrique",
+    "category": "Essig und Öl",
+    "subcategories": ["Apfelessig", "Barrique"]
+  },
+  {
+    "store": "spar",
+    "id": "7085512",
+    "name": "Mautner Markhof Feine Auswahl Apfelessig mit Honig",
+    "category": "Essig und Öl",
+    "subcategories": ["Apfelessig", "mit Honig"]
+  },
+  {
+    "store": "spar",
+    "id": "7094613",
+    "name": "Mautner Markhof Hesperiden Essig",
+    "category": "Essig und Öl",
+    "subcategories": ["Hesperiden Essig"]
+  },
+  {
+    "store": "spar",
+    "id": "134163",
+    "name": "Mautner Markhof Hesperiden Essig",
+    "category": "Essig und Öl",
+    "subcategories": ["Hesperiden Essig"]
+  }
+]

@@ -1,0 +1,724 @@
+[
+  {
+    "store": "spar",
+    "id": "2020002372521",
+    "name": "Koska Sesam Krokant Cracker 40g Riegel",
+    "category": "Knabbereien",
+    "subcategories": ["Snacks", "Cracker", "Sesam", "Krokant"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001921652",
+    "name": "Kubota Sanuki Udon breit",
+    "category": "Nudeln",
+    "subcategories": ["Teigwaren", "Udon", "Japanisch"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001783304",
+    "name": "Kuner Burger Sauce",
+    "category": "Saucen",
+    "subcategories": ["Burger", "Grillsauce"]
+  },
+  {
+    "store": "spar",
+    "id": "3415146",
+    "name": "Kuner Chili Sauce",
+    "category": "Saucen",
+    "subcategories": ["Chili", "Scharf", "Pikant"]
+  },
+  {
+    "store": "spar",
+    "id": "517683",
+    "name": "Kuner Cocktail Sauce",
+    "category": "Saucen",
+    "subcategories": ["Cocktail", "Meeresfrüchte"]
+  },
+  {
+    "store": "spar",
+    "id": "520614",
+    "name": "Kuner Curry Sauce",
+    "category": "Saucen",
+    "subcategories": ["Curry"]
+  },
+  {
+    "store": "spar",
+    "id": "5563791",
+    "name": "Kuner Fein Mayonnaise 50% Fett",
+    "category": "Saucen",
+    "subcategories": ["Mayonnaise"]
+  },
+  {
+    "store": "spar",
+    "id": "5565542",
+    "name": "Kuner Fein Mayonnaise 50% Fett 8 Portionen",
+    "category": "Saucen",
+    "subcategories": ["Mayonnaise"]
+  },
+  {
+    "store": "spar",
+    "id": "506915",
+    "name": "Kuchenmeister Koala Milch Milch 75g",
+    "category": "Lebensmittel",
+    "subcategories": ["Schokolade", "Milch", "Kakao"]
+  },
+  {
+    "store": "spar",
+    "id": "645546",
+    "name": "Kuchenmeister Koala Schoko Kakao 75g",
+    "category": "Lebensmittel",
+    "subcategories": ["Schokolade", "Kakao"]
+  },
+  {
+    "store": "spar",
+    "id": "286480",
+    "name": "Kägi Butterbiscuits 200g",
+    "category": "Gebäck",
+    "subcategories": ["Kekse", "Butterbiscuits"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003165986",
+    "name": "Kägi fret Classic Minis 20 Stück",
+    "category": "Gebäck",
+    "subcategories": ["Kekse", "Schokolade", "Mini"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003889134",
+    "name": "Kägi fret Dark Minis",
+    "category": "Gebäck",
+    "subcategories": ["Kekse", "Schokolade", "Mini"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001718467",
+    "name": "Kägi fret Riegel 3x50g",
+    "category": "Gebäck",
+    "subcategories": ["Kekse", "Schokolade", "Riegel"]
+  },
+  {
+    "store": "spar",
+    "id": "3299081",
+    "name": "Kägi fret Waffel Classic",
+    "category": "Gebäck",
+    "subcategories": ["Kekse", "Schokolade", "Waffel"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002447946",
+    "name": "Küchle Knabber Esspapier Erdbeer Geschmack",
+    "category": "Knabbereien",
+    "subcategories": ["Snacks", "Esspapier", "Erdbeer"]
+  },
+  {
+    "store": "spar",
+    "id": "7633041",
+    "name": "Küfferle Katzenzungen 18 Stück",
+    "category": "Süßwaren",
+    "subcategories": ["Pralinen", "Katzenzungen"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002281229",
+    "name": "Küfferle Katzenzungen Tafel",
+    "category": "Süßwaren",
+    "subcategories": ["Pralinen", "Katzenzungen"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003825842",
+    "name": "Küfferle Schirmchen Dino",
+    "category": "Süßwaren",
+    "subcategories": ["Pralinen", "Schirmchen", "Dino"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002973667",
+    "name": "Lambertz Vital Klassik",
+    "category": "Gebäck",
+    "subcategories": ["Kekse", "Vital"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002973636",
+    "name": "Lambertz Vital Schoko",
+    "category": "Gebäck",
+    "subcategories": ["Kekse", "Schokolade", "Vital"]
+  },
+  {
+    "store": "spar",
+    "id": "6172619",
+    "name": "Glem Vital Kids Shampoo & Balsam Girl Pink 250 ml",
+    "category": "Haarpflege",
+    "subcategories": ["Kinder", "Shampoo", "Balsam"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004219541",
+    "name": "Huggies Baby Feuchttücher Natural 3x48 Stück",
+    "category": "Baby",
+    "subcategories": ["Feuchttücher", "Natürlich"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003387487",
+    "name": "Huggies Baby Feuchttücher Pure 3x56 Stück",
+    "category": "Baby",
+    "subcategories": ["Feuchttücher", "Pure"]
+  },
+  {
+    "store": "spar",
+    "id": "2163482",
+    "name": "Huggies Little Swimmers Schwimmwindeln Gr. 2-3 (3-8 kg) 12 Stück",
+    "category": "Baby",
+    "subcategories": ["Schwimmwindeln", "Größe", "2-3"]
+  },
+  {
+    "store": "spar",
+    "id": "7404696",
+    "name": "Huggies Little Swimmers Schwimmwindeln Gr. 3-4 (7-15 kg) 12Stk.",
+    "category": "Baby",
+    "subcategories": ["Schwimmwindeln", "Größe", "3-4"]
+  },
+  {
+    "store": "spar",
+    "id": "2163604",
+    "name": "Huggies Little Swimmers Schwimmwindeln Gr. 5-6 (12-18 kg) 11 Stück",
+    "category": "Baby",
+    "subcategories": ["Schwimmwindeln", "Größe", "5-6"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003970665",
+    "name": "Lavera Waschlotion & Shampoo Baby & Kinder sensitiv 200ml",
+    "category": "Baby",
+    "subcategories": ["Waschlotion", "Shampoo", "Baby", "Kinder", "sensitiv"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003970689",
+    "name": "Lavera Wundschutzcreme Baby & Kinder sensitiv 50ml",
+    "category": "Baby",
+    "subcategories": ["Wundschutzcreme", "Baby", "Kinder", "sensitiv"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004612342",
+    "name": "Isana Deospray Active Cool 150ml",
+    "category": "Körperpflege",
+    "subcategories": ["Deodorant", "Cool"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004612328",
+    "name": "Isana Deospray Fresh 150ml",
+    "category": "Körperpflege",
+    "subcategories": ["Deodorant", "Frisch"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004612359",
+    "name": "Isana Deospray Invisible 150ml",
+    "category": "Körperpflege",
+    "subcategories": ["Deodorant", "Unsichtbar"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004611994",
+    "name": "Isana Deospray Sensitiv 150ml",
+    "category": "Körperpflege",
+    "subcategories": ["Deodorant", "Sensitiv"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004612007",
+    "name": "Isana Deospray Soft Blossom 150ml",
+    "category": "Körperpflege",
+    "subcategories": ["Deodorant", "Blüten"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004612410",
+    "name": "Isana Deospray Wild Leo 150ml",
+    "category": "Körperpflege",
+    "subcategories": ["Deodorant", "Wild", "Leo"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003817557",
+    "name": "Lavera Basis Sensitiv Deo Roll-on Natural & Sensitive 50ml",
+    "category": "Körperpflege",
+    "subcategories": ["Roll-on", "Natürlich", "Sensitiv"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003817342",
+    "name": "Lavera Deo Roll-on Natural & Invisible 50ml",
+    "category": "Körperpflege",
+    "subcategories": ["Roll-on", "Natürlich", "Unsichtbar"]
+  },
+  {
+    "store": "spar",
+    "id": "1367928",
+    "name": "Glem Vital 2in1 Shampoo & Balsam Jojoba 350ml",
+    "category": "Haarpflege",
+    "subcategories": ["Shampoo", "Balsam", "Jojoba"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002578466",
+    "name": "Glem Vital 2in1 Shampoo & Balsam Pfirsichöl 3 x 350ml",
+    "category": "Haarpflege",
+    "subcategories": ["Shampoo", "Balsam", "Pfirsichöl"]
+  },
+  {
+    "store": "spar",
+    "id": "1407839",
+    "name": "Glem Vital 2in1 Shampoo & Balsam Pfirsichöl 350ml",
+    "category": "Haarpflege",
+    "subcategories": ["Shampoo", "Balsam", "Pfirsichöl"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002578503",
+    "name": "Glem Vital Anti-Fett Shampoo 7 Kräuter 3 x 350ml",
+    "category": "Haarpflege",
+    "subcategories": ["Shampoo", "Anti-Fett", "7 Kräuter"]
+  },
+  {
+    "store": "spar",
+    "id": "1407754",
+    "name": "Glem Vital Anti-Fett Shampoo 7 Kräuter 350ml",
+    "category": "Haarpflege",
+    "subcategories": ["Shampoo", "Anti-Fett", "7 Kräuter"]
+  },
+  {
+    "store": "spar",
+    "id": "1407730",
+    "name": "Glem Vital Anti-Schuppen Shampoo Ringelblumenduft 350ml",
+    "category": "Haarpflege",
+    "subcategories": ["Shampoo", "Anti-Schuppen", "Ringelblume"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004082947",
+    "name": "Glem Vital Aufbau Balsam Multivitamin 250ml",
+    "category": "Haarpflege",
+    "subcategories": ["Balsam", "Aufbau", "Multivitamin"]
+  },
+  {
+    "store": "spar",
+    "id": "1407716",
+    "name": "Glem Vital Aufbau Shampoo Multivitamin 350 ml",
+    "category": "Haarpflege",
+    "subcategories": ["Shampoo", "Aufbau", "Multivitamin"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003850646",
+    "name": "Glem Vital Festes 2in1-Shampoo Sheabutter & Coconut 60g",
+    "category": "Haarpflege",
+    "subcategories": ["Shampoo", "Fest", "Sheabutter", "Coconut"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003850738",
+    "name": "Glem Vital Festes Shampoo 7 Kräuter 60g",
+    "category": "Haarpflege",
+    "subcategories": ["Shampoo", "Fest", "7 Kräuter"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004152503",
+    "name": "Glem Vital Frische Balsam 7 Kräuter 250ml",
+    "category": "Haarpflege",
+    "subcategories": ["Balsam", "Frische", "7 Kräuter"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002578428",
+    "name": "Glem Vital Frische Shampoo Brennessel 3 x 350ml",
+    "category": "Haarpflege",
+    "subcategories": ["Shampoo", "Frische", "Brennessel"]
+  },
+  {
+    "store": "spar",
+    "id": "1407631",
+    "name": "Glem Vital Frische Shampoo Brennessel 350ml",
+    "category": "Haarpflege",
+    "subcategories": ["Shampoo", "Frische", "Brennessel"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004721518",
+    "name": "Glem Vital Glem Vital Feuchtigkeits Balsam Reiswasser & Pfingstrosen-Duft 250ml",
+    "category": "Haarpflege",
+    "subcategories": [
+      "Balsam",
+      "Feuchtigkeit",
+      "Reiswasser",
+      "Pfingstrosen-Duft"
+    ]
+  },
+  {
+    "store": "spar",
+    "id": "2020004713742",
+    "name": "Glem Vital Glem Vital Feuchtigkeits Shampoo Reiswasser & Pfingstrosen-Duft 350ml",
+    "category": "Haarpflege",
+    "subcategories": [
+      "Shampoo",
+      "Feuchtigkeit",
+      "Reiswasser",
+      "Pfingstrosen-Duft"
+    ]
+  },
+  {
+    "store": "spar",
+    "id": "2020004721532",
+    "name": "Glem Vital Glem Vital Sprüh Balsam Reiswasser & Pfingstrosen-Duft 200ml",
+    "category": "Haarpflege",
+    "subcategories": ["Sprüh", "Balsam", "Reiswasser", "Pfingstrosen-Duft"]
+  },
+  {
+    "store": "spar",
+    "id": "735797",
+    "name": "Glem Vital Kurfestiger Kamille 175ml",
+    "category": "Haarpflege",
+    "subcategories": ["Kurfestiger", "Kamille"]
+  },
+  {
+    "store": "spar",
+    "id": "404952",
+    "name": "Glem Vital Kurfestiger Kräuter 175ml",
+    "category": "Haarpflege",
+    "subcategories": ["Kurfestiger", "Kräuter"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001353255",
+    "name": "Glem Vital Men 3x Aktiv Shampoo Koffein 350ml",
+    "category": "Haarpflege",
+    "subcategories": ["Shampoo", "Männer", "Aktiv", "Koffein"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004076861",
+    "name": "Glem Vital Pflege Balsam Weizen & Colorin 250ml",
+    "category": "Haarpflege",
+    "subcategories": ["Balsam", "Pflege", "Weizen", "Colorin"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002579463",
+    "name": "Glem Vital Pflege Kurbalsam Weizen & Colorin 3 x 200ml",
+    "category": "Haarpflege",
+    "subcategories": ["Kurbalsam", "Pflege", "Weizen", "Colorin"]
+  },
+  {
+    "store": "spar",
+    "id": "1574814",
+    "name": "Glem Vital Pflege Shampoo Weizen & Colorin 350ml",
+    "category": "Haarpflege",
+    "subcategories": ["Shampoo", "Pflege", "Weizen", "Colorin"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004610539",
+    "name": "Isana Professional Haarmaske Arganöl & Pflege 250ml",
+    "category": "Haarpflege",
+    "subcategories": ["Haarmaske", "Arganöl", "Pflege"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004610553",
+    "name": "Isana Professional Haaröl Arganöl & Pflege 100ml",
+    "category": "Haarpflege",
+    "subcategories": ["Haaröl", "Arganöl", "Pflege"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004610515",
+    "name": "Isana Professional Shampoo Arganöl & Pflege 250ml",
+    "category": "Haarpflege",
+    "subcategories": ["Shampoo", "Arganöl", "Pflege"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004610492",
+    "name": "Isana Professional Spülung Arganöl & Pflege 200ml",
+    "category": "Haarpflege",
+    "subcategories": ["Spülung", "Arganöl", "Pflege"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004610614",
+    "name": "Isana Shampoo Anti Schuppen 300ml",
+    "category": "Haarpflege",
+    "subcategories": ["Shampoo", "Anti-Schuppen"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004610591",
+    "name": "Isana Shampoo Coffein 250ml",
+    "category": "Haarpflege",
+    "subcategories": ["Shampoo", "Coffein"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004610584",
+    "name": "Isana Shampoo Fresh Power 300ml",
+    "category": "Haarpflege",
+    "subcategories": ["Shampoo", "Frisch"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004610607",
+    "name": "Isana Shampoo Kräuter 300ml",
+    "category": "Haarpflege",
+    "subcategories": ["Shampoo", "Kräuter"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003813399",
+    "name": "Jean&Len Aufbau Conditioner pflanzliches Keratin 300ml",
+    "category": "Haarpflege",
+    "subcategories": ["Conditioner", "Aufbau", "Keratin"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003813078",
+    "name": "Jean&Len Aufbau Shampoo pflanzliches Keratin 300ml",
+    "category": "Haarpflege",
+    "subcategories": ["Shampoo", "Aufbau", "Keratin"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003813511",
+    "name": "Jean&Len Conditioner Mango & Avocado 300ml",
+    "category": "Haarpflege",
+    "subcategories": ["Conditioner", "Mango", "Avocado"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003815898",
+    "name": "Jean&Len Liquid Keratin Spray Aufbau, Kraft & Glanz 100ml",
+    "category": "Haarpflege",
+    "subcategories": ["Spray", "Keratin", "Aufbau", "Kraft", "Glanz"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003813245",
+    "name": "Jean&Len Shampoo Mango & Avocado 300ml",
+    "category": "Haarpflege",
+    "subcategories": ["Shampoo", "Mango", "Avocado"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003813375",
+    "name": "Jean&Len Volumen Shampoo Bambus & Lilie 300ml",
+    "category": "Haarpflege",
+    "subcategories": ["Shampoo", "Volumen", "Bambus", "Lilie"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003174476",
+    "name": "John Frieda Conditioner + Shampoo Repair & Detox 250 + 50ml",
+    "category": "Haarpflege",
+    "subcategories": ["Conditioner", "Shampoo", "Repair", "Detox"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002467647",
+    "name": "John Frieda Conditioner Brilliant Shine 175ml",
+    "category": "Haarpflege",
+    "subcategories": ["Conditioner", "Brillanter Glanz"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002467579",
+    "name": "John Frieda Conditioner Deeper Glow 175ml",
+    "category": "Haarpflege",
+    "subcategories": ["Conditioner", "Intensiver Glanz"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002467722",
+    "name": "John Frieda Conditioner Go Blonder 175ml",
+    "category": "Haarpflege",
+    "subcategories": ["Conditioner", "Blonderwerden"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002467944",
+    "name": "John Frieda Conditioner Inner Power 175ml",
+    "category": "Haarpflege",
+    "subcategories": ["Conditioner", "Kraft", "Struktur"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002467821",
+    "name": "John Frieda Conditioner Perfekte Reparatur 175ml",
+    "category": "Haarpflege",
+    "subcategories": ["Conditioner", "Reparatur", "Perfekt"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002468101",
+    "name": "John Frieda Conditioner Traumlocken 175ml",
+    "category": "Haarpflege",
+    "subcategories": ["Conditioner", "Locken", "Traum"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002468088",
+    "name": "John Frieda Conditioner Unendliche Geschmeidigkeit 175ml",
+    "category": "Haarpflege",
+    "subcategories": ["Conditioner", "Geschmeidigkeit", "Unendlich"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002468194",
+    "name": "John Frieda Conditioner Wunder-Reparatur 175ml",
+    "category": "Haarpflege",
+    "subcategories": ["Conditioner", "Reparatur", "Wunder"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001825639",
+    "name": "John Frieda Frizz ease Conditioner + Shampoo Traumlocken 250ml  + 50ml Shampoo",
+    "category": "Haarpflege",
+    "subcategories": ["Conditioner", "Shampoo", "Frizz", "Locken", "Traum"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001825646",
+    "name": "John Frieda Frizz ease Conditioner + Shampoo Wunder-Reparatur 250ml  + 50ml Shampoo",
+    "category": "Haarpflege",
+    "subcategories": ["Conditioner", "Shampoo", "Frizz", "Reparatur", "Wunder"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003174438",
+    "name": "John Frieda Frizz ease Conditioner + Shampoo Zauberhafte Leichtigkeit 250 + 50ml",
+    "category": "Haarpflege",
+    "subcategories": [
+      "Conditioner",
+      "Shampoo",
+      "Frizz",
+      "Leichtigkeit",
+      "Zauberhaft"
+    ]
+  },
+  {
+    "store": "spar",
+    "id": "2020001825608",
+    "name": "John Frieda Frizz ease Shampoo Traumlocken 250 + 50ml",
+    "category": "Haarpflege",
+    "subcategories": ["Shampoo", "Frizz", "Locken", "Traum"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001825677",
+    "name": "John Frieda Frizz ease Shampoo Wunder-Reparatur 250ml  + 50ml",
+    "category": "Haarpflege",
+    "subcategories": ["Shampoo", "Frizz", "Reparatur", "Wunder"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003174360",
+    "name": "John Frieda Frizz ease Shampoo Zauberhafte Leichtigkeit 250 + 50ml",
+    "category": "Haarpflege",
+    "subcategories": ["Shampoo", "Frizz", "Leichtigkeit", "Zauberhaft"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002467531",
+    "name": "John Frieda Shampoo Brilliant Shine 175ml",
+    "category": "Haarpflege",
+    "subcategories": ["Shampoo", "Brillanter Glanz"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002468057",
+    "name": "John Frieda Shampoo Inner Power 175ml",
+    "category": "Haarpflege",
+    "subcategories": ["Shampoo", "Kraft", "Struktur"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002467890",
+    "name": "John Frieda Shampoo Perfekte Reparatur 175ml",
+    "category": "Haarpflege",
+    "subcategories": ["Shampoo", "Reparatur", "Perfekt"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003174391",
+    "name": "John Frieda Shampoo Repair & Detox 250 + 50ml",
+    "category": "Haarpflege",
+    "subcategories": ["Shampoo", "Reparatur", "Detox"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002467227",
+    "name": "John Frieda Shampoo Traumlocken 175ml",
+    "category": "Haarpflege",
+    "subcategories": ["Shampoo", "Traum", "Locken"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002468262",
+    "name": "John Frieda Shampoo Unendliche Geschmeidigkeit 175ml",
+    "category": "Haarpflege",
+    "subcategories": ["Shampoo", "Geschmeidigkeit", "Unendlich"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001825547",
+    "name": "John Frieda luxurious Volume Shampoo Inner Power 250 + 50ml",
+    "category": "Haarpflege",
+    "subcategories": ["Shampoo", "Volumen", "Kraft", "Inner Power"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001825585",
+    "name": "John Frieda sheer Blonde Conditioner + Shampoo go blonder 250 + 50ml",
+    "category": "Haarpflege",
+    "subcategories": ["Conditioner", "Shampoo", "Blonderwerden", "sheer Blonde"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001825486",
+    "name": "John Frieda sheer Blonde Shampoo Perfekte Reparatur 250 + 50ml",
+    "category": "Haarpflege",
+    "subcategories": [
+      "Shampoo",
+      "Blonderwerden",
+      "Perfekt",
+      "Reparatur",
+      "sheer Blonde"
+    ]
+  },
+  {
+    "store": "spar",
+    "id": "2020001825561",
+    "name": "John Frieda sheer Blonde Shampoo go blonder 250 + 50ml",
+    "category": "Haarpflege",
+    "subcategories": ["Shampoo", "Blonderwerden", "sheer Blonde"]
+  },
+  {
+    "store": "spar",
+    "id": "6039059",
+    "name": "L'OREAL Casting Crème Gloss Coloration 200 Schwarzbraun",
+    "category": "Haarfarbe",
+    "subcategories": ["Coloration", "Schwarzbraun"]
+  },
+  {
+    "store": "spar",
+    "id": "6039080",
+    "name": "L'OREAL Casting Crème Gloss Coloration 300 Dunkelbraun",
+    "category": "Haarfarbe",
+    "subcategories": ["Coloration", "Dunkelbraun"]
+  }
+]

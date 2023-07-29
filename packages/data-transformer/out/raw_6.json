@@ -1,0 +1,708 @@
+[
+  {
+    "store": "billa",
+    "id": "00-316325",
+    "name": "Weizenfrei Landbrot Glutenfrei",
+    "category": "Brot",
+    "subcategories": ["Weizenfrei", "Glutenfrei"]
+  },
+  {
+    "store": "billa",
+    "id": "00-818754",
+    "name": "Wurzelbrot Hell",
+    "category": "Brot",
+    "subcategories": ["Wurzelbrot"]
+  },
+  {
+    "store": "billa",
+    "id": "00-289357",
+    "name": "Wurzelbrot Tomate-Basilikum",
+    "category": "Brot",
+    "subcategories": ["Wurzelbrot", "Tomate-Basilikum"]
+  },
+  {
+    "store": "billa",
+    "id": "00-690695",
+    "name": "Ölz Dinkel-Vollkornbrot",
+    "category": "Brot",
+    "subcategories": ["Dinkel", "Vollkornbrot"]
+  },
+  {
+    "store": "billa",
+    "id": "00-566804",
+    "name": "Ölz Landbrot 100% Dinkel",
+    "category": "Brot",
+    "subcategories": ["Landbrot", "Dinkel"]
+  },
+  {
+    "store": "billa",
+    "id": "00-295228",
+    "name": "Ölz Landbrot mit Hafer",
+    "category": "Brot",
+    "subcategories": ["Landbrot", "Hafer"]
+  },
+  {
+    "store": "billa",
+    "id": "00-566812",
+    "name": "Ölz Landbrot mit Roggen",
+    "category": "Brot",
+    "subcategories": ["Landbrot", "Roggen"]
+  },
+  {
+    "store": "billa",
+    "id": "00-890513",
+    "name": "Ölz Mühlviertler Eiweißbrot",
+    "category": "Brot",
+    "subcategories": ["Mühlviertler", "Eiweißbrot"]
+  },
+  {
+    "store": "billa",
+    "id": "00-627777",
+    "name": "Ölz Weißbrot",
+    "category": "Brot",
+    "subcategories": ["Weißbrot"]
+  },
+  {
+    "store": "hofer",
+    "id": 546069,
+    "name": "BACKBOX Buttercroissant 63g",
+    "category": "Gebäck",
+    "subcategories": ["Buttercroissant"]
+  },
+  {
+    "store": "hofer",
+    "id": 546454,
+    "name": "BACKBOX Dinkelweckerl 85g",
+    "category": "Gebäck",
+    "subcategories": ["Dinkelweckerl"]
+  },
+  {
+    "store": "hofer",
+    "id": 546358,
+    "name": "BACKBOX Fitness-Ähre 85g",
+    "category": "Gebäck",
+    "subcategories": ["Fitness-Ähre"]
+  },
+  {
+    "store": "hofer",
+    "id": 548371,
+    "name": "BACKBOX Helles Dinkelkrusterl 500g",
+    "category": "Brot",
+    "subcategories": ["Dinkelkrusterl"]
+  },
+  {
+    "store": "hofer",
+    "id": 546333,
+    "name": "BACKBOX Italienisches Focaccia Stracchino",
+    "category": "Gebäck",
+    "subcategories": ["Focaccia", "Stracchino"]
+  },
+  {
+    "store": "hofer",
+    "id": 546158,
+    "name": "BACKBOX Joghurt Himbeer Plunder 115g",
+    "category": "Gebäck",
+    "subcategories": ["Joghurt", "Himbeer Plunder"]
+  },
+  {
+    "store": "hofer",
+    "id": 548372,
+    "name": "BACKBOX Joghurt Marillenspitz 120g",
+    "category": "Gebäck",
+    "subcategories": ["Joghurt", "Marillenspitz"]
+  },
+  {
+    "store": "hofer",
+    "id": 546459,
+    "name": "BACKBOX Jumbo Baguette 400g",
+    "category": "Brot",
+    "subcategories": ["Jumbo Baguette"]
+  },
+  {
+    "store": "hofer",
+    "id": 546074,
+    "name": "BACKBOX Kaisersemmel 65g",
+    "category": "Gebäck",
+    "subcategories": ["Kaisersemmel"]
+  },
+  {
+    "store": "hofer",
+    "id": 549847,
+    "name": "BACKBOX Kirsch-Vanille-Ecke 105g",
+    "category": "Gebäck",
+    "subcategories": ["Kirsch-Vanille-Ecke"]
+  },
+  {
+    "store": "hofer",
+    "id": 544879,
+    "name": "BACKBOX Krustenbrot 750g",
+    "category": "Brot",
+    "subcategories": ["Krustenbrot"]
+  },
+  {
+    "store": "hofer",
+    "id": 546451,
+    "name": "BACKBOX Kärntner Zuckerreinkerl 100g",
+    "category": "Gebäck",
+    "subcategories": ["Kärntner Zuckerreinkerl"]
+  },
+  {
+    "store": "hofer",
+    "id": 546081,
+    "name": "BACKBOX Käsekrainer im Wurzelbrotteig 150g",
+    "category": "Gebäck",
+    "subcategories": ["Käsekrainer", "Wurzelbrotteig"]
+  },
+  {
+    "store": "hofer",
+    "id": 547602,
+    "name": "BACKBOX Käsestangerl 80g",
+    "category": "Gebäck",
+    "subcategories": ["Käsestangerl"]
+  },
+  {
+    "store": "hofer",
+    "id": 547405,
+    "name": "BACKBOX Laugenbrezel 95g",
+    "category": "Gebäck",
+    "subcategories": ["Laugenbrezel"]
+  },
+  {
+    "store": "hofer",
+    "id": 546068,
+    "name": "BACKBOX Laugenstangerl 95g",
+    "category": "Gebäck",
+    "subcategories": ["Laugenstangerl"]
+  },
+  {
+    "store": "hofer",
+    "id": 547241,
+    "name": "BACKBOX Laugenzopf mit Käse 100g",
+    "category": "Gebäck",
+    "subcategories": ["Laugenzopf", "Käse"]
+  },
+  {
+    "store": "hofer",
+    "id": 548738,
+    "name": "BACKBOX Lepinja Fladenbrot 200g",
+    "category": "Brot",
+    "subcategories": ["Lepinja Fladenbrot"]
+  },
+  {
+    "store": "hofer",
+    "id": 546076,
+    "name": "BACKBOX Marillenkrapfen 90g",
+    "category": "Gebäck",
+    "subcategories": ["Marillenkrapfen"]
+  },
+  {
+    "store": "hofer",
+    "id": 546455,
+    "name": "BACKBOX Mohnflesserl 70g",
+    "category": "Gebäck",
+    "subcategories": ["Mohnflesserl"]
+  },
+  {
+    "store": "hofer",
+    "id": 544889,
+    "name": "BACKBOX Nussbaguette 300g",
+    "category": "Brot",
+    "subcategories": ["Nussbaguette"]
+  },
+  {
+    "store": "hofer",
+    "id": 544886,
+    "name": "BACKBOX Oliven-Feta-Wurzel 330g",
+    "category": "Brot",
+    "subcategories": ["Oliven-Feta-Wurzel"]
+  },
+  {
+    "store": "hofer",
+    "id": 546456,
+    "name": "BACKBOX Olivenstange 90g",
+    "category": "Gebäck",
+    "subcategories": ["Olivenstange"]
+  },
+  {
+    "store": "hofer",
+    "id": 548776,
+    "name": "BACKBOX Pizzaschnecke 125g",
+    "category": "Gebäck",
+    "subcategories": ["Pizzaschnecke"]
+  },
+  {
+    "store": "hofer",
+    "id": 546073,
+    "name": "BACKBOX Pizzaweckerl vegetarisch 87g",
+    "category": "Gebäck",
+    "subcategories": ["Pizzaweckerl", "vegetarisch"]
+  },
+  {
+    "store": "hofer",
+    "id": 546082,
+    "name": "BACKBOX Proteinweckerl 85g",
+    "category": "Gebäck",
+    "subcategories": ["Proteinweckerl"]
+  },
+  {
+    "store": "hofer",
+    "id": 544883,
+    "name": "BACKBOX Rustikales Landbaguette 250g",
+    "category": "Brot",
+    "subcategories": ["Rustikales Landbaguette"]
+  },
+  {
+    "store": "hofer",
+    "id": 546075,
+    "name": "BACKBOX Salz -/ Knusperstangerl 80g",
+    "category": "Gebäck",
+    "subcategories": ["Salz-Knusperstangerl"]
+  },
+  {
+    "store": "hofer",
+    "id": 546077,
+    "name": "BACKBOX Schinken Käse Stangerl 95g",
+    "category": "Gebäck",
+    "subcategories": ["Schinken-Käse Stangerl"]
+  },
+  {
+    "store": "hofer",
+    "id": 544876,
+    "name": "BACKBOX Sonnenblumenbrot 500g",
+    "category": "Brot",
+    "subcategories": ["Sonnenblumenbrot"]
+  },
+  {
+    "store": "hofer",
+    "id": 550037,
+    "name": "BACKBOX Sonnenblumenweckerl 80g",
+    "category": "Gebäck",
+    "subcategories": ["Sonnenblumenweckerl"]
+  },
+  {
+    "store": "hofer",
+    "id": 546071,
+    "name": "BACKBOX Topfengolatsche 130g",
+    "category": "Gebäck",
+    "subcategories": ["Topfengolatsche"]
+  },
+  {
+    "store": "hofer",
+    "id": 546461,
+    "name": "BACKBOX Toskanabrot 360g",
+    "category": "Brot",
+    "subcategories": ["Toskanabrot"]
+  },
+  {
+    "store": "hofer",
+    "id": 546871,
+    "name": "ZURÜCK ZUM URSPRUNG Dinkelbrot 500g",
+    "category": "Brot",
+    "subcategories": ["Dinkelbrot"]
+  },
+  {
+    "store": "billa",
+    "id": "00-317665",
+    "name": "Alnatura Dinkel Zwieback",
+    "category": "Gebäck",
+    "subcategories": ["Dinkel", "Zwieback"]
+  },
+  {
+    "store": "billa",
+    "id": "00-317444",
+    "name": "Alnatura Knäckebrot Roggen & Dinkel",
+    "category": "Gebäck",
+    "subcategories": ["Knäckebrot", "Roggen", "Dinkel"]
+  },
+  {
+    "store": "billa",
+    "id": "00-317591",
+    "name": "Alnatura Knäckebrot Sesam",
+    "category": "Gebäck",
+    "subcategories": ["Knäckebrot", "Sesam"]
+  },
+  {
+    "store": "billa",
+    "id": "00-842440",
+    "name": "Alnatura Saaten Knäcke",
+    "category": "Gebäck",
+    "subcategories": ["Saaten", "Knäcke"]
+  },
+  {
+    "store": "billa",
+    "id": "00-367461",
+    "name": "BILLA Protein Knäckebrot Käse & Pfeffer",
+    "category": "Gebäck",
+    "subcategories": ["Protein", "Knäckebrot", "Käse", "Pfeffer"]
+  },
+  {
+    "store": "billa",
+    "id": "00-378220",
+    "name": "Biozentrale Knusperbrot Erbse Linse",
+    "category": "Gebäck",
+    "subcategories": ["Biozentrale", "Knusperbrot", "Erbse", "Linse"]
+  },
+  {
+    "store": "billa",
+    "id": "00-441751",
+    "name": "Clever Roggenvollkorn-Knäckebrot",
+    "category": "Gebäck",
+    "subcategories": ["Roggenvollkorn-Knäckebrot"]
+  },
+  {
+    "store": "billa",
+    "id": "00-441476",
+    "name": "Clever Sesam Knäckebrot",
+    "category": "Gebäck",
+    "subcategories": ["Sesam", "Knäckebrot"]
+  },
+  {
+    "store": "billa",
+    "id": "00-909873",
+    "name": "Dr. Karg Knäckebrot Käse-Kürbis",
+    "category": "Gebäck",
+    "subcategories": ["Dr. Karg", "Knäckebrot", "Käse-Kürbis"]
+  },
+  {
+    "store": "billa",
+    "id": "00-421169",
+    "name": "Feldbacher Zwieback",
+    "category": "Gebäck",
+    "subcategories": ["Zwieback"]
+  },
+  {
+    "store": "billa",
+    "id": "00-433031",
+    "name": "Finn Crisp Knoblauch",
+    "category": "Gebäck",
+    "subcategories": ["Finn Crisp", "Knoblauch"]
+  },
+  {
+    "store": "billa",
+    "id": "00-415802",
+    "name": "Finn Crisp Mehrkorn",
+    "category": "Gebäck",
+    "subcategories": ["Finn Crisp", "Mehrkorn"]
+  },
+  {
+    "store": "billa",
+    "id": "00-415098",
+    "name": "Finn Crisp Original",
+    "category": "Gebäck",
+    "subcategories": ["Finn Crisp", "Original"]
+  },
+  {
+    "store": "billa",
+    "id": "00-612335",
+    "name": "Griesson Leicht & Cross Roggen Knusperbrot",
+    "category": "Gebäck",
+    "subcategories": ["Griesson Leicht & Cross", "Roggen", "Knusperbrot"]
+  },
+  {
+    "store": "billa",
+    "id": "00-426547",
+    "name": "Griesson Leicht & Cross Vital Knusperbrot",
+    "category": "Gebäck",
+    "subcategories": ["Griesson Leicht & Cross", "Vital", "Knusperbrot"]
+  },
+  {
+    "store": "billa",
+    "id": "00-679137",
+    "name": "Griesson Leicht & Cross Vollkorn Knusperbrot",
+    "category": "Gebäck",
+    "subcategories": ["Griesson Leicht & Cross", "Vollkorn", "Knusperbrot"]
+  },
+  {
+    "store": "billa",
+    "id": "00-426548",
+    "name": "Griesson Leicht & Cross Weizen Knusperbrot",
+    "category": "Gebäck",
+    "subcategories": ["Griesson Leicht & Cross", "Weizen", "Knusperbrot"]
+  },
+  {
+    "store": "billa",
+    "id": "00-350967",
+    "name": "Schär Zwieback Glutenfrei",
+    "category": "Gebäck",
+    "subcategories": ["Zwieback", "Glutenfrei"]
+  },
+  {
+    "store": "billa",
+    "id": "00-723495",
+    "name": "TUC Bake Rolls Knoblauch",
+    "category": "Gebäck",
+    "subcategories": ["TUC", "Bake Rolls", "Knoblauch"]
+  },
+  {
+    "store": "billa",
+    "id": "00-723494",
+    "name": "TUC Bake Rolls Tomate & Olive Geschmack",
+    "category": "Gebäck",
+    "subcategories": ["TUC", "Bake Rolls", "Tomate", "Olive"]
+  },
+  {
+    "store": "billa",
+    "id": "00-367884",
+    "name": "Wasa Delicate Rounds French Herbs",
+    "category": "Gebäck",
+    "subcategories": ["Wasa Delicate Rounds", "French Herbs"]
+  },
+  {
+    "store": "billa",
+    "id": "00-920763",
+    "name": "Wasa Gluten- & Laktosefreies Knäckebrot",
+    "category": "Gebäck",
+    "subcategories": ["Wasa", "Gluten-", "Laktosefreies", "Knäckebrot"]
+  },
+  {
+    "store": "billa",
+    "id": "00-482514",
+    "name": "Wasa Hafer & Sesam",
+    "category": "Gebäck",
+    "subcategories": ["Wasa", "Hafer", "Sesam"]
+  },
+  {
+    "store": "billa",
+    "id": "00-482234",
+    "name": "Wasa Milch & Joghurt",
+    "category": "Gebäck",
+    "subcategories": ["Wasa", "Milch", "Joghurt"]
+  },
+  {
+    "store": "billa",
+    "id": "00-624550",
+    "name": "Wasa Roggen Dünn",
+    "category": "Gebäck",
+    "subcategories": ["Wasa", "Roggen", "Dünn"]
+  },
+  {
+    "store": "billa",
+    "id": "00-590774",
+    "name": "Wasa Rustikal",
+    "category": "Gebäck",
+    "subcategories": ["Wasa", "Rustikal"]
+  },
+  {
+    "store": "billa",
+    "id": "00-742648",
+    "name": "Wasa Sandwich Käse, Tomate & Basilikum",
+    "category": "Gebäck",
+    "subcategories": ["Wasa Sandwich", "Käse", "Tomate", "Basilikum"]
+  },
+  {
+    "store": "billa",
+    "id": "00-1942",
+    "name": "Wasa Sesam Knäckebrot",
+    "category": "Gebäck",
+    "subcategories": ["Wasa", "Sesam", "Knäckebrot"]
+  },
+  {
+    "store": "billa",
+    "id": "00-589615",
+    "name": "Wasa Tasty Snacks Knoblauch & Meersalz Crisps",
+    "category": "Gebäck",
+    "subcategories": ["Wasa Tasty Snacks", "Knoblauch", "Meersalz", "Crisps"]
+  },
+  {
+    "store": "billa",
+    "id": "00-763706",
+    "name": "Wasa Tasty Snacks Meersalz Crackers",
+    "category": "Gebäck",
+    "subcategories": ["Wasa Tasty Snacks", "Meersalz", "Crackers"]
+  },
+  {
+    "store": "billa",
+    "id": "00-771658",
+    "name": "Wasa Tasty Snacks Oliven Crackers",
+    "category": "Gebäck",
+    "subcategories": ["Wasa Tasty Snacks", "Oliven", "Crackers"]
+  },
+  {
+    "store": "billa",
+    "id": "00-422851",
+    "name": "Wasa Tasty Snacks Paprika Crackers",
+    "category": "Gebäck",
+    "subcategories": ["Wasa Tasty Snacks", "Paprika", "Crackers"]
+  },
+  {
+    "store": "billa",
+    "id": "00-748895",
+    "name": "Wasa Tasty Snacks Rosmarin & Meersalz Crisps",
+    "category": "Gebäck",
+    "subcategories": ["Wasa Tasty Snacks", "Rosmarin", "Meersalz", "Crisps"]
+  },
+  {
+    "store": "billa",
+    "id": "00-772348",
+    "name": "Wasa Tasty Snacks Sesam & Meersalz Crisps",
+    "category": "Gebäck",
+    "subcategories": ["Wasa Tasty Snacks", "Sesam", "Meersalz", "Crisps"]
+  },
+  {
+    "store": "billa",
+    "id": "00-12484",
+    "name": "Wasa Vollkorn",
+    "category": "Gebäck",
+    "subcategories": ["Wasa", "Vollkorn"]
+  },
+  {
+    "store": "hofer",
+    "id": 549889,
+    "name": "BBQ Brioche Burger Brötchen 300g",
+    "category": "Gebäck",
+    "subcategories": ["BBQ", "Brioche", "Burger Brötchen"]
+  },
+  {
+    "store": "hofer",
+    "id": 545333,
+    "name": "BBQ Focaccia Cheese & Onion 250g",
+    "category": "Gebäck",
+    "subcategories": ["BBQ", "Focaccia", "Cheese", "Onion"]
+  },
+  {
+    "store": "hofer",
+    "id": 543837,
+    "name": "BBQ Focaccia Sour Cream 250g",
+    "category": "Gebäck",
+    "subcategories": ["BBQ", "Focaccia", "Sour Cream"]
+  },
+  {
+    "store": "hofer",
+    "id": 548525,
+    "name": "BBQ Mini Brötchen mit Röstzwiebeln 250g",
+    "category": "Gebäck",
+    "subcategories": ["BBQ", "Mini Brötchen", "Röstzwiebeln"]
+  },
+  {
+    "store": "hofer",
+    "id": 548524,
+    "name": "BBQ Mini-Brötchen Käse 250g",
+    "category": "Gebäck",
+    "subcategories": ["BBQ", "Mini-Brötchen", "Käse"]
+  },
+  {
+    "store": "hofer",
+    "id": 548523,
+    "name": "BBQ Mini-Brötchen Natur 250g",
+    "category": "Gebäck",
+    "subcategories": ["BBQ", "Mini-Brötchen", "Natur"]
+  },
+  {
+    "store": "hofer",
+    "id": 545314,
+    "name": "BBQ Steinofen Brotsticks 420g",
+    "category": "Gebäck",
+    "subcategories": ["BBQ", "Steinofen", "Brotsticks"]
+  },
+  {
+    "store": "hofer",
+    "id": 543823,
+    "name": "BBQ Steinofen Brotsticks mit Zwiebel 420g",
+    "category": "Gebäck",
+    "subcategories": ["BBQ", "Steinofen", "Brotsticks", "Zwiebel"]
+  },
+  {
+    "store": "hofer",
+    "id": 546032,
+    "name": "ENJOY FREE! Mehrkornbrötchen 300g",
+    "category": "Gebäck",
+    "subcategories": ["ENJOY FREE!", "Mehrkornbrötchen"]
+  },
+  {
+    "store": "hofer",
+    "id": 544788,
+    "name": "ENJOY FREE! Mohnbrötchen 300g",
+    "category": "Gebäck",
+    "subcategories": ["ENJOY FREE!", "Mohnbrötchen"]
+  },
+  {
+    "store": "hofer",
+    "id": 543799,
+    "name": "GOURMET Steinofenbrötchen Kernig 300g",
+    "category": "Gebäck",
+    "subcategories": ["GOURMET", "Steinofenbrötchen", "Kernig"]
+  },
+  {
+    "store": "hofer",
+    "id": 545293,
+    "name": "GOURMET Steinofenbrötchen Natur 300g",
+    "category": "Gebäck",
+    "subcategories": ["GOURMET", "Steinofenbrötchen", "Natur"]
+  },
+  {
+    "store": "hofer",
+    "id": 545297,
+    "name": "NATUR AKTIV Bio Dinkel Knusperscheiben Natur 200g",
+    "category": "Gebäck",
+    "subcategories": [
+      "NATUR AKTIV",
+      "Bio",
+      "Dinkel",
+      "Knusperscheiben",
+      "Natur"
+    ]
+  },
+  {
+    "store": "hofer",
+    "id": 545294,
+    "name": "ZURÜCK ZUM URSPRUNG Butter-Weizentoast 500g",
+    "category": "Brot",
+    "subcategories": ["ZURÜCK ZUM URSPRUNG", "Butter-Weizentoast"]
+  },
+  {
+    "store": "billa",
+    "id": "00-963731",
+    "name": "Ahorn Nusstasche",
+    "category": "Gebäck",
+    "subcategories": ["Ahorn", "Nusstasche"]
+  },
+  {
+    "store": "billa",
+    "id": "00-393489",
+    "name": "Alnavit Bio Schoko Muffins 2er Glutenfrei",
+    "category": "Gebäck",
+    "subcategories": ["Alnavit", "Bio Schoko Muffins", "Glutenfrei"]
+  },
+  {
+    "store": "billa",
+    "id": "00-671253",
+    "name": "Apfelkrapfen",
+    "category": "Gebäck",
+    "subcategories": ["Apfelkrapfen"]
+  },
+  {
+    "store": "billa",
+    "id": "00-441022",
+    "name": "Apfelstrudel",
+    "category": "Gebäck",
+    "subcategories": ["Apfelstrudel"]
+  },
+  {
+    "store": "billa",
+    "id": "00-443212",
+    "name": "BILLA Bio Dinkel Eierwaffeln",
+    "category": "Gebäck",
+    "subcategories": ["BIO", "Dinkel", "Eierwaffeln"]
+  },
+  {
+    "store": "billa",
+    "id": "00-701903",
+    "name": "BILLA Bio Dinkel Linzerstangerl",
+    "category": "Gebäck",
+    "subcategories": ["BIO", "Dinkel", "Linzerstangerl"]
+  },
+  {
+    "store": "billa",
+    "id": "00-585588",
+    "name": "BILLA Bio Honigwaffel",
+    "category": "Gebäck",
+    "subcategories": ["BIO", "Honigwaffel"]
+  },
+  {
+    "store": "billa",
+    "id": "00-344555",
+    "name": "BILLA Chocolate Chip Muffins",
+    "category": "Gebäck",
+    "subcategories": ["Billa", "Chocolate Chip Muffins"]
+  }
+]

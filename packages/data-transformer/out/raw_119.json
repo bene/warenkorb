@@ -1,0 +1,702 @@
+[
+  {
+    "store": "hofer",
+    "id": 546084,
+    "name": "BACKBOX Hausbrot 1kg",
+    "category": "Brot",
+    "subcategories": ["Backwaren"]
+  },
+  {
+    "store": "hofer",
+    "id": 546529,
+    "name": "BBQ Alm Griller Speck, Käse 275g",
+    "category": "Grillen",
+    "subcategories": ["Barbecue", "Fleisch"]
+  },
+  {
+    "store": "hofer",
+    "id": 549774,
+    "name": "BBQ Bratwurstschnecke Chili 180g",
+    "category": "Grillen",
+    "subcategories": ["Barbecue", "Fleisch"]
+  },
+  {
+    "store": "hofer",
+    "id": 549775,
+    "name": "BBQ Bratwurstschnecke Curry 180g",
+    "category": "Grillen",
+    "subcategories": ["Barbecue", "Fleisch"]
+  },
+  {
+    "store": "hofer",
+    "id": 549776,
+    "name": "BBQ Bratwurstschnecke Klassik 180g",
+    "category": "Grillen",
+    "subcategories": ["Barbecue", "Fleisch"]
+  },
+  {
+    "store": "hofer",
+    "id": 544188,
+    "name": "BBQ Delikatess Bratwürstel Apfel Röstzwiebel 300g",
+    "category": "Grillen",
+    "subcategories": ["Barbecue", "Fleisch"]
+  },
+  {
+    "store": "hofer",
+    "id": 545580,
+    "name": "BBQ Delikatess Bratwürstel Hot Chili 300g",
+    "category": "Grillen",
+    "subcategories": ["Barbecue", "Fleisch"]
+  },
+  {
+    "store": "hofer",
+    "id": 544189,
+    "name": "BBQ Delikatess Bratwürstel Marille-Bergkäse 300g",
+    "category": "Grillen",
+    "subcategories": ["Barbecue", "Fleisch"]
+  },
+  {
+    "store": "hofer",
+    "id": 549782,
+    "name": "BBQ spezial Käsekrainer Cheddar 300g",
+    "category": "Grillen",
+    "subcategories": ["Barbecue", "Fleisch"]
+  },
+  {
+    "store": "hofer",
+    "id": 549781,
+    "name": "BBQ spezial Käsekrainer Feta 330g",
+    "category": "Grillen",
+    "subcategories": ["Barbecue", "Fleisch"]
+  },
+  {
+    "store": "hofer",
+    "id": 543898,
+    "name": "Delikatess Frankfurter 480g",
+    "category": "Wurst",
+    "subcategories": ["Fleischwaren"]
+  },
+  {
+    "store": "hofer",
+    "id": 545370,
+    "name": "Delikatess Frankfurter Light 480g",
+    "category": "Wurst",
+    "subcategories": ["Fleischwaren"]
+  },
+  {
+    "store": "hofer",
+    "id": 545610,
+    "name": "FAIR HOF Cocktail Bratwürstel 160g",
+    "category": "Wurst",
+    "subcategories": ["Fleischwaren"]
+  },
+  {
+    "store": "hofer",
+    "id": 545609,
+    "name": "FAIR HOF Cocktail Frankfurter 180g",
+    "category": "Wurst",
+    "subcategories": ["Fleischwaren"]
+  },
+  {
+    "store": "hofer",
+    "id": 544216,
+    "name": "FAIR HOF Cocktail Käsekrainer 160g",
+    "category": "Wurst",
+    "subcategories": ["Fleischwaren"]
+  },
+  {
+    "store": "hofer",
+    "id": 549134,
+    "name": "FAIR HOF Debreziner 240g",
+    "category": "Wurst",
+    "subcategories": ["Fleischwaren"]
+  },
+  {
+    "store": "hofer",
+    "id": 544275,
+    "name": "FAIR HOF Haussalami 100g",
+    "category": "Wurst",
+    "subcategories": ["Fleischwaren"]
+  },
+  {
+    "store": "hofer",
+    "id": 548899,
+    "name": "FAIR HOF Hofsülzchen geschnitten 200g",
+    "category": "Wurst",
+    "subcategories": ["Fleischwaren"]
+  },
+  {
+    "store": "hofer",
+    "id": 544137,
+    "name": "ZURÜCK ZUM URSPRUNG Bio Knacker 300g",
+    "category": "Wurst",
+    "subcategories": ["Bio", "Fleischwaren"]
+  },
+  {
+    "store": "hofer",
+    "id": 545551,
+    "name": "ZURÜCK ZUM URSPRUNG Bio Käsekrainer 240g",
+    "category": "Wurst",
+    "subcategories": ["Bio", "Fleischwaren"]
+  },
+  {
+    "store": "hofer",
+    "id": 544817,
+    "name": "ZURÜCK ZUM URSPRUNG Bratwurst mit Käse 220g",
+    "category": "Wurst",
+    "subcategories": ["Bio", "Fleischwaren"]
+  },
+  {
+    "store": "hofer",
+    "id": 545550,
+    "name": "ZURÜCK ZUM URSPRUNG Bratwürstel 220g",
+    "category": "Wurst",
+    "subcategories": ["Bio", "Fleischwaren"]
+  },
+  {
+    "store": "hofer",
+    "id": 549498,
+    "name": "ZURÜCK ZUM URSPRUNG Fenchelsalami 80g",
+    "category": "Wurst",
+    "subcategories": ["Bio", "Fleischwaren"]
+  },
+  {
+    "store": "hofer",
+    "id": 544136,
+    "name": "ZURÜCK ZUM URSPRUNG Frankfurter 220g",
+    "category": "Wurst",
+    "subcategories": ["Bio", "Fleischwaren"]
+  },
+  {
+    "store": "hofer",
+    "id": 545587,
+    "name": "ZURÜCK ZUM URSPRUNG Frühstücksspeck 100g",
+    "category": "Fleisch",
+    "subcategories": ["Bio"]
+  },
+  {
+    "store": "hofer",
+    "id": 544267,
+    "name": "ALMARE SEAFOOD Echter Stremel-Lachs Natur 125g",
+    "category": "Fisch",
+    "subcategories": ["Lachs", "Geräucherter Fisch"]
+  },
+  {
+    "store": "hofer",
+    "id": 545656,
+    "name": "ALMARE SEAFOOD Echter Stremel-Lachs Pfeffer 125g",
+    "category": "Fisch",
+    "subcategories": ["Lachs", "Geräucherter Fisch"]
+  },
+  {
+    "store": "hofer",
+    "id": 544251,
+    "name": "ALMARE SEAFOOD Eismeergarnelen 120g",
+    "category": "Fisch",
+    "subcategories": ["Garnelen", "Meeresfrüchte"]
+  },
+  {
+    "store": "hofer",
+    "id": 549969,
+    "name": "ALMARE SEAFOOD Forelle per kg",
+    "category": "Fisch",
+    "subcategories": ["Forelle"]
+  },
+  {
+    "store": "hofer",
+    "id": 545638,
+    "name": "ALMARE SEAFOOD Forellenfilets Natur 125g",
+    "category": "Fisch",
+    "subcategories": ["Forelle", "Filets"]
+  },
+  {
+    "store": "hofer",
+    "id": 545636,
+    "name": "ALMARE SEAFOOD Forellenfilets mit Knoblauch 125g",
+    "category": "Fisch",
+    "subcategories": ["Forelle", "Filets"]
+  },
+  {
+    "store": "hofer",
+    "id": 545637,
+    "name": "ALMARE SEAFOOD Forellenfilets mit buntem Pfeffer 125g",
+    "category": "Fisch",
+    "subcategories": ["Forelle", "Filets"]
+  },
+  {
+    "store": "hofer",
+    "id": 545223,
+    "name": "ALMARE SEAFOOD Goldbrasse per kg",
+    "category": "Fisch",
+    "subcategories": ["Goldbrasse"]
+  },
+  {
+    "store": "hofer",
+    "id": 549028,
+    "name": "ALMARE SEAFOOD Grill Ofenlachs Honig-Balsamico 250g",
+    "category": "Fisch",
+    "subcategories": ["Lachs", "Geräucherter Fisch"]
+  },
+  {
+    "store": "hofer",
+    "id": 549027,
+    "name": "ALMARE SEAFOOD Grill Ofenlachs Knoblauch-Ingwer-Soja 250g",
+    "category": "Fisch",
+    "subcategories": ["Lachs", "Geräucherter Fisch"]
+  },
+  {
+    "store": "hofer",
+    "id": 549029,
+    "name": "ALMARE SEAFOOD Grill Ofenlachs Pfeffer-Mix 250g",
+    "category": "Fisch",
+    "subcategories": ["Lachs", "Geräucherter Fisch"]
+  },
+  {
+    "store": "hofer",
+    "id": 548446,
+    "name": "ALMARE SEAFOOD Lachsforelle geräuchert 100g",
+    "category": "Fisch",
+    "subcategories": ["Lachsforelle", "Geräucherter Fisch"]
+  },
+  {
+    "store": "hofer",
+    "id": 544253,
+    "name": "ALMARE SEAFOOD Party Crevetten 110g",
+    "category": "Fisch",
+    "subcategories": ["Garnelen", "Meeresfrüchte"]
+  },
+  {
+    "store": "hofer",
+    "id": 544252,
+    "name": "ALMARE SEAFOOD Party Garnelen 100g",
+    "category": "Fisch",
+    "subcategories": ["Garnelen", "Meeresfrüchte"]
+  },
+  {
+    "store": "hofer",
+    "id": 543669,
+    "name": "ALMARE SEAFOOD Skandinavischer Räucherlachs 200g",
+    "category": "Fisch",
+    "subcategories": ["Lachs", "Geräucherter Fisch"]
+  },
+  {
+    "store": "hofer",
+    "id": 548448,
+    "name": "ALMARE SEAFOOD Sockeye Wildlachs 150g",
+    "category": "Fisch",
+    "subcategories": ["Lachs", "Geräucherter Fisch"]
+  },
+  {
+    "store": "hofer",
+    "id": 544847,
+    "name": "BBQ Garnelen-Spieße Asia 200g",
+    "category": "Grillen",
+    "subcategories": ["Barbecue", "Garnelen"]
+  },
+  {
+    "store": "hofer",
+    "id": 546060,
+    "name": "BBQ Garnelen-Spieße Provance 200g",
+    "category": "Grillen",
+    "subcategories": ["Barbecue", "Garnelen"]
+  },
+  {
+    "store": "hofer",
+    "id": 546206,
+    "name": "ZURÜCK ZUM URSPRUNG Dinkel-Drink Natur ohne Zuckersatz 1l",
+    "category": "Milchprodukte",
+    "subcategories": ["Pflanzendrink", "Dinkel"]
+  },
+  {
+    "store": "hofer",
+    "id": 544873,
+    "name": "ESKIMO Cornetto Classico 120 ml",
+    "category": "Eis",
+    "subcategories": ["Waffeleis"]
+  },
+  {
+    "store": "hofer",
+    "id": 544868,
+    "name": "ESKIMO Jolly 65ml",
+    "category": "Eis",
+    "subcategories": ["Stieleis"]
+  },
+  {
+    "store": "hofer",
+    "id": 548486,
+    "name": "ESKIMO Magnum Almond 440ml",
+    "category": "Eis",
+    "subcategories": ["Magnum", "Waffeleis"]
+  },
+  {
+    "store": "hofer",
+    "id": 548485,
+    "name": "ESKIMO Magnum Classic 440ml",
+    "category": "Eis",
+    "subcategories": ["Magnum", "Waffeleis"]
+  },
+  {
+    "store": "hofer",
+    "id": 548484,
+    "name": "ESKIMO Magnum Double White Chocolate & Cookies 440ml",
+    "category": "Eis",
+    "subcategories": ["Magnum", "Waffeleis"]
+  },
+  {
+    "store": "hofer",
+    "id": 544870,
+    "name": "ESKIMO Magnum Erdbeere 110ml",
+    "category": "Eis",
+    "subcategories": ["Magnum", "Waffeleis"]
+  },
+  {
+    "store": "hofer",
+    "id": 549682,
+    "name": "ESKIMO Schwimmbadhelden 6 Stück",
+    "category": "Eis",
+    "subcategories": ["Stieleis"]
+  },
+  {
+    "store": "hofer",
+    "id": 549683,
+    "name": "ESKIMO Traumpaar 10 Stück",
+    "category": "Eis",
+    "subcategories": ["Stieleis"]
+  },
+  {
+    "store": "hofer",
+    "id": 544869,
+    "name": "ESKIMO Twinni Orangen- und Birneneis 72 ml",
+    "category": "Eis",
+    "subcategories": ["Stieleis"]
+  },
+  {
+    "store": "hofer",
+    "id": 546420,
+    "name": "ZURÜCK ZUM URSPRUNG Erdbeer Sorbet 360g",
+    "category": "Eis",
+    "subcategories": ["Sorbet"]
+  },
+  {
+    "store": "hofer",
+    "id": 547089,
+    "name": "ZURÜCK ZUM URSPRUNG Erdbeer Sorbet Stieleis 80ml",
+    "category": "Eis",
+    "subcategories": ["Sorbet", "Stieleis"]
+  },
+  {
+    "store": "hofer",
+    "id": 546449,
+    "name": "AIBLER Chicken Nuggets 750g",
+    "category": "Fertiggerichte",
+    "subcategories": ["Geflügel", "Nuggets"]
+  },
+  {
+    "store": "hofer",
+    "id": 549298,
+    "name": "ASIA Knusperente 550g",
+    "category": "Fertiggerichte",
+    "subcategories": ["Asiatisch", "Geflügel"]
+  },
+  {
+    "store": "hofer",
+    "id": 548146,
+    "name": "ALMARE SEAFOOD Lachsforellen-Filets mit Haut 540g",
+    "category": "Fisch",
+    "subcategories": ["Lachsforelle", "Filets"]
+  },
+  {
+    "store": "hofer",
+    "id": 548210,
+    "name": "ZURÜCK ZUM URSPRUNG Bio Junge Erbsen 750g",
+    "category": "Gemüse",
+    "subcategories": ["Bio", "Tiefkühlgefrorenes Gemüse"]
+  },
+  {
+    "store": "hofer",
+    "id": 548211,
+    "name": "ZURÜCK ZUM URSPRUNG Bio Zarte Mischung 750g",
+    "category": "Gemüse",
+    "subcategories": ["Bio", "Tiefkühlgefrorenes Gemüse"]
+  },
+  {
+    "store": "hofer",
+    "id": 549733,
+    "name": "ASIA GREEN GARDEN Nasi Goreng Reisgericht 750g",
+    "category": "Fertiggerichte",
+    "subcategories": ["Asiatisch", "Reisgerichte"]
+  },
+  {
+    "store": "hofer",
+    "id": 549732,
+    "name": "ASIA GREEN GARDEN Pfannengerichte Bami Goreng 750g",
+    "category": "Fertiggerichte",
+    "subcategories": ["Asiatisch", "Pfannengerichte"]
+  },
+  {
+    "store": "hofer",
+    "id": 549706,
+    "name": "DR. OETKER Bistro Baguette, Korsika 4x125g",
+    "category": "Backwaren",
+    "subcategories": ["Baguette"]
+  },
+  {
+    "store": "hofer",
+    "id": 549707,
+    "name": "DR. OETKER Bistro Baguette, Provence 4x125g",
+    "category": "Backwaren",
+    "subcategories": ["Baguette"]
+  },
+  {
+    "store": "hofer",
+    "id": 543778,
+    "name": "DR. OETKER Ristorante 2x Pizza Tonno 710g",
+    "category": "Tiefkühlprodukte",
+    "subcategories": ["Pizza"]
+  },
+  {
+    "store": "hofer",
+    "id": 546911,
+    "name": "ZURÜCK ZUM URSPRUNG Bio Gemüsebrei Karotte 125g",
+    "category": "Babyprodukte",
+    "subcategories": ["Bio", "Babybrei", "Gemüse"]
+  },
+  {
+    "store": "hofer",
+    "id": 545115,
+    "name": "ZURÜCK ZUM URSPRUNG Bio Milchbrei Reis-Banane mit Heumilch 250g",
+    "category": "Babyprodukte",
+    "subcategories": ["Bio", "Milchbrei"]
+  },
+  {
+    "store": "hofer",
+    "id": 548063,
+    "name": "ZURÜCK ZUM URSPRUNG Bio-Fruchtsnack Apfel-Birne-Fenchel 100 g",
+    "category": "Babyprodukte",
+    "subcategories": ["Bio", "Fruchtsnack"]
+  },
+  {
+    "store": "hofer",
+    "id": 549387,
+    "name": "ZURÜCK ZUM URSPRUNG Cremige Gemüsesuppe 170ml",
+    "category": "Suppen und Eintöpfe",
+    "subcategories": ["Gemüsesuppe"]
+  },
+  {
+    "store": "hofer",
+    "id": 549216,
+    "name": "DR. OETKER Original Puding Vanille 3x37g",
+    "category": "Backwaren",
+    "subcategories": ["Pudding"]
+  },
+  {
+    "store": "hofer",
+    "id": 549214,
+    "name": "DR. OETKER Vanillin Zucker 5x8g",
+    "category": "Backwaren",
+    "subcategories": ["Backzutaten"]
+  },
+  {
+    "store": "hofer",
+    "id": 549215,
+    "name": "DR.OETKER Blattgelatine 12er 20g",
+    "category": "Backwaren",
+    "subcategories": ["Backzutaten"]
+  },
+  {
+    "store": "hofer",
+    "id": 543798,
+    "name": "ZURÜCK ZUM URSPRUNG Bio Glattes Dinkelmehl Type 700 1000g",
+    "category": "Backwaren",
+    "subcategories": ["Mehl"]
+  },
+  {
+    "store": "hofer",
+    "id": 546164,
+    "name": "ZURÜCK ZUM URSPRUNG Bio Vollkorn Dinkelmehl 1000g",
+    "category": "Backwaren",
+    "subcategories": ["Mehl"]
+  },
+  {
+    "store": "hofer",
+    "id": 546167,
+    "name": "ZURÜCK ZUM URSPRUNG Bio Vollkorn Roggenmehl 1000g",
+    "category": "Backwaren",
+    "subcategories": ["Mehl"]
+  },
+  {
+    "store": "hofer",
+    "id": 546165,
+    "name": "ZURÜCK ZUM URSPRUNG Bio Vollkorn Weizenmehl 1000g",
+    "category": "Backwaren",
+    "subcategories": ["Mehl"]
+  },
+  {
+    "store": "hofer",
+    "id": 549168,
+    "name": "ASIA GREEN GARDEN Soja-Sauce 250ml",
+    "category": "Asiatisch",
+    "subcategories": ["Sauce"]
+  },
+  {
+    "store": "hofer",
+    "id": 545864,
+    "name": "BBQ Ajvar Mild 350g",
+    "category": "Grillen",
+    "subcategories": ["Barbecue", "Sauce"]
+  },
+  {
+    "store": "hofer",
+    "id": 545865,
+    "name": "BBQ Ajvar Scharf 350g",
+    "category": "Grillen",
+    "subcategories": ["Barbecue", "Sauce"]
+  },
+  {
+    "store": "hofer",
+    "id": 546622,
+    "name": "BBQ Biersenf würzig 200g",
+    "category": "Grillen",
+    "subcategories": ["Barbecue", "Senf"]
+  },
+  {
+    "store": "hofer",
+    "id": 549960,
+    "name": "BBQ Sauce Cocktail 300ml",
+    "category": "Grillen",
+    "subcategories": ["Barbecue", "Sauce"]
+  },
+  {
+    "store": "hofer",
+    "id": 549959,
+    "name": "BBQ Sauce Tartare 300ml",
+    "category": "Grillen",
+    "subcategories": ["Barbecue", "Sauce"]
+  },
+  {
+    "store": "hofer",
+    "id": 549958,
+    "name": "BBQ Saucenzeit Sauce Sour Cream 300ml",
+    "category": "Grillen",
+    "subcategories": ["Barbecue", "Sauce"]
+  },
+  {
+    "store": "hofer",
+    "id": 549957,
+    "name": "BBQ Saucenzeit Sauce Sweet Chili 300ml",
+    "category": "Grillen",
+    "subcategories": ["Barbecue", "Sauce"]
+  },
+  {
+    "store": "hofer",
+    "id": 546621,
+    "name": "BBQ Zwiebel Senf Herzhaft 200g",
+    "category": "Grillen",
+    "subcategories": ["Barbecue", "Senf"]
+  },
+  {
+    "store": "hofer",
+    "id": 546538,
+    "name": "BBQ Alpen-Bergsalz Salzmühle 195g",
+    "category": "Grillen",
+    "subcategories": ["Barbecue", "Salz"]
+  },
+  {
+    "store": "hofer",
+    "id": 544150,
+    "name": "BBQ Bunter Pfeffer 85g",
+    "category": "Grillen",
+    "subcategories": ["Barbecue", "Pfeffer"]
+  },
+  {
+    "store": "hofer",
+    "id": 546191,
+    "name": "BBQ Pariser-Pfeffer 100g",
+    "category": "Grillen",
+    "subcategories": ["Barbecue", "Pfeffer"]
+  },
+  {
+    "store": "hofer",
+    "id": 544170,
+    "name": "BBQ Persisches Blausalz 185g",
+    "category": "Grillen",
+    "subcategories": ["Barbecue", "Salz"]
+  },
+  {
+    "store": "hofer",
+    "id": 545567,
+    "name": "BBQ Pyramiden Meersalz 85g",
+    "category": "Grillen",
+    "subcategories": ["Barbecue", "Salz"]
+  },
+  {
+    "store": "hofer",
+    "id": 544151,
+    "name": "BBQ Schwarzer Pfeffer 90g",
+    "category": "Grillen",
+    "subcategories": ["Barbecue", "Pfeffer"]
+  },
+  {
+    "store": "hofer",
+    "id": 544152,
+    "name": "BBQ Steak Pfeffer 95g",
+    "category": "Grillen",
+    "subcategories": ["Barbecue", "Pfeffer"]
+  },
+  {
+    "store": "hofer",
+    "id": 546192,
+    "name": "BBQ Zitronen-Pfeffer 80g",
+    "category": "Grillen",
+    "subcategories": ["Barbecue", "Pfeffer"]
+  },
+  {
+    "store": "hofer",
+    "id": 544274,
+    "name": "ZURÜCK ZUM URSPRUNG Bio Oregano 20g",
+    "category": "Gewürze",
+    "subcategories": ["Bio", "Kräuter"]
+  },
+  {
+    "store": "hofer",
+    "id": 543897,
+    "name": "ALMARE SEAFOOD Heringfilets Curry-Creme mit Ananas 200g",
+    "category": "Fisch",
+    "subcategories": ["Hering", "Fischfilets"]
+  },
+  {
+    "store": "hofer",
+    "id": 545422,
+    "name": "ALMARE SEAFOOD Heringfilets Mango-Pfeffer-Creme 200g",
+    "category": "Fisch",
+    "subcategories": ["Hering", "Fischfilets"]
+  },
+  {
+    "store": "hofer",
+    "id": 545369,
+    "name": "ALMARE SEAFOOD Heringsfilet Asiatische Art 200g",
+    "category": "Fisch",
+    "subcategories": ["Hering", "Fischfilets"]
+  },
+  {
+    "store": "hofer",
+    "id": 543960,
+    "name": "ALMARE SEAFOOD Heringsfilet Mexikanische Art 200g",
+    "category": "Fisch",
+    "subcategories": ["Hering", "Fischfilets"]
+  },
+  {
+    "store": "hofer",
+    "id": 543961,
+    "name": "ALMARE SEAFOOD Heringsfilets Feinschmecker-Platte 200g",
+    "category": "Fisch",
+    "subcategories": ["Hering", "Fischfilets"]
+  },
+  {
+    "store": "hofer",
+    "id": 543896,
+    "name": "ALMARE SEAFOOD Heringsfilets Tomaten-Creme 200g",
+    "category": "Fisch",
+    "subcategories": ["Hering", "Fischfilets"]
+  }
+]

@@ -1,0 +1,707 @@
+[
+  {
+    "store": "spar",
+    "id": "2020004173614",
+    "name": "Batiste Naturally Trockenshampoo Grüner Tee & Kamille 200ml",
+    "category": "Haarpflege",
+    "subcategories": ["Trockenshampoo", "Grüner Tee", "Kamille"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004128065",
+    "name": "Batiste Trockenshampoo Care & Protect 200ml",
+    "category": "Haarpflege",
+    "subcategories": ["Trockenshampoo", "Pflege"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004612106",
+    "name": "Batiste Trockenshampoo Love is Love 200ml",
+    "category": "Haarpflege",
+    "subcategories": ["Trockenshampoo"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002408473",
+    "name": "Batiste Trockenshampoo Original 200ml",
+    "category": "Haarpflege",
+    "subcategories": ["Trockenshampoo"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004128034",
+    "name": "Batiste Trockenshampoo mit Farbe Dunkles Haar 200 ml",
+    "category": "Haarpflege",
+    "subcategories": ["Trockenshampoo", "Dunkles Haar"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003913280",
+    "name": "Bear Fruits Haarmaske + Haube Avocado 20ml",
+    "category": "Haarpflege",
+    "subcategories": ["Haarmaske", "Avocado"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003913266",
+    "name": "Bear Fruits Haarmaske + Haube Strawberry 20ml",
+    "category": "Haarpflege",
+    "subcategories": ["Haarmaske", "Strawberry"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003913297",
+    "name": "Bear Fruits Special Edition Haarmaske + Haube Flamingo 20ml",
+    "category": "Haarpflege",
+    "subcategories": ["Haarmaske", "Flamingo"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003326264",
+    "name": "Bebe Relaxing Pflege Tag & Nacht 50ml",
+    "category": "Hautpflege",
+    "subcategories": ["Gesichtspflege", "Tag & Nacht"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003339387",
+    "name": "Bebe Soft Body Milk Streichelzart 400ml",
+    "category": "Hautpflege",
+    "subcategories": ["Körperpflege"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003765506",
+    "name": "BEAUTY KISS women Rasierschaum Sensitive 150 ml",
+    "category": "Körperpflege",
+    "subcategories": ["Rasierschaum", "Sensitive"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001182114",
+    "name": "BIC 3 Einwegrasierer Sensitive 3 6+2 Stück",
+    "category": "Körperpflege",
+    "subcategories": ["Rasierer", "Sensitive"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002448844",
+    "name": "BIC Einwegrasierer 3 Sensitive 2 Stück",
+    "category": "Körperpflege",
+    "subcategories": ["Rasierer", "Sensitive"]
+  },
+  {
+    "store": "spar",
+    "id": "7902932",
+    "name": "BIC Einwegrasierer Flex 3 4+2 Stück",
+    "category": "Körperpflege",
+    "subcategories": ["Rasierer", "Flex"]
+  },
+  {
+    "store": "spar",
+    "id": "7657566",
+    "name": "BIC Einwegrasierer Flex 4 Comfort 3+1 Stück",
+    "category": "Körperpflege",
+    "subcategories": ["Rasierer", "Flex"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002966416",
+    "name": "BIC Einwegrasierer Miss Soleil 1 Stück",
+    "category": "Körperpflege",
+    "subcategories": ["Rasierer"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002947118",
+    "name": "BIC Einwegrasierer Miss Soleil colour collection 4 Stück",
+    "category": "Körperpflege",
+    "subcategories": ["Rasierer"]
+  },
+  {
+    "store": "spar",
+    "id": "6979171",
+    "name": "BIC Einwegrasierer Sensitive 1 10 Stück",
+    "category": "Körperpflege",
+    "subcategories": ["Rasierer", "Sensitive"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004680570",
+    "name": "BIC Einwegrasierer Sensitive 2 10+5 Stück",
+    "category": "Körperpflege",
+    "subcategories": ["Rasierer", "Sensitive"]
+  },
+  {
+    "store": "spar",
+    "id": "2020000520900",
+    "name": "BIC Einwegrasierer Soleil Bella 3+1 Stück",
+    "category": "Körperpflege",
+    "subcategories": ["Rasierer", "Soleil Bella"]
+  },
+  {
+    "store": "spar",
+    "id": "4763031",
+    "name": "BIC Einwegrasierer Twin Lady 5+1 Stück",
+    "category": "Körperpflege",
+    "subcategories": ["Rasierer", "Twin Lady"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002949136",
+    "name": "BIC Zweischneidige Rasierklingen Chrome Platinum 10 Stück",
+    "category": "Körperpflege",
+    "subcategories": ["Rasierklingen"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002961817",
+    "name": "Barnängen Duschcreme Oil Intense 400ml",
+    "category": "Körperpflege",
+    "subcategories": ["Duschcreme", "Oil Intense"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002484552",
+    "name": "Barnängen Duschgel & Schaumbad Midsommar Glow 400ml",
+    "category": "Körperpflege",
+    "subcategories": ["Duschgel", "Schaumbad", "Midsommar Glow"]
+  },
+  {
+    "store": "spar",
+    "id": "83935",
+    "name": "Basis pH Duschbad 400 ml",
+    "category": "Körperpflege",
+    "subcategories": ["Duschbad"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003407734",
+    "name": "Basis pH Duschbad Morgenfrische 400ml",
+    "category": "Körperpflege",
+    "subcategories": ["Duschbad", "Morgenfrische"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003407673",
+    "name": "Basis pH Duschbad Sanfte Frische 400ml",
+    "category": "Körperpflege",
+    "subcategories": ["Duschbad", "Sanfte Frische"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002933715",
+    "name": "Basis pH Duschöl 400ml",
+    "category": "Körperpflege",
+    "subcategories": ["Duschöl"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004311160",
+    "name": "Baylis&Harding Geschenkset Jojoba, Vanilla & Almond Oil",
+    "category": "Geschenkset",
+    "subcategories": ["Gesichtspflege", "Geschenk"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004113160",
+    "name": "Be Routine Anti-Hornhaut Socken 1 Paar",
+    "category": "Körperpflege",
+    "subcategories": ["Hornhaut", "Socken"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004113009",
+    "name": "Be Routine Fußdeo 150 ml",
+    "category": "Körperpflege",
+    "subcategories": ["Deodorant", "Fuß"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004112811",
+    "name": "Be Routine Fußmaske SOS Pflege 10 ml",
+    "category": "Körperpflege",
+    "subcategories": ["Fußmaske", "SOS Pflege"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002503635",
+    "name": "Beauty Factory Hornhaut & Schrunden Balsam 200ml",
+    "category": "Körperpflege",
+    "subcategories": ["Hornhaut", "Schrunden", "Balsam"]
+  },
+  {
+    "store": "spar",
+    "id": "1894264",
+    "name": "BIC Kids Evolution Triangle Farbstifte 12",
+    "category": "Malen",
+    "subcategories": ["Farbstifte"]
+  },
+  {
+    "store": "spar",
+    "id": "1924732",
+    "name": "BIC Kugelschreiber 4 Farben",
+    "category": "Schreibwaren",
+    "subcategories": ["Kugelschreiber", "4 Farben"]
+  },
+  {
+    "store": "spar",
+    "id": "8208927",
+    "name": "BIC Kugelschreiber blau 4 Stück",
+    "category": "Schreibwaren",
+    "subcategories": ["Kugelschreiber", "blau"]
+  },
+  {
+    "store": "spar",
+    "id": "2888484",
+    "name": "BIC Kugelschreiber blau 4 Stück",
+    "category": "Schreibwaren",
+    "subcategories": ["Kugelschreiber", "blau"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002326548",
+    "name": "BWT Magnesium Mineralizer Filterkartusche 3 Stück",
+    "category": "Haushalt",
+    "subcategories": ["Filterkartusche", "Mineralizer", "Magnesium"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001493715",
+    "name": "BWT Magnesium Mineralizer Filterkartuschen 5+1",
+    "category": "Haushalt",
+    "subcategories": ["Filterkartuschen", "Mineralizer", "Magnesium"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003260360",
+    "name": "BWT Tischwasserfilter Vida 6 Kartuschen",
+    "category": "Haushalt",
+    "subcategories": ["Tischwasserfilter", "Vida", "Kartuschen"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004462367",
+    "name": "Backform oval 22x14cm Auflaufform oval 22x14 GVE 2",
+    "category": "Haushalt",
+    "subcategories": ["Backform", "Auflaufform", "Oval"]
+  },
+  {
+    "store": "spar",
+    "id": "8122131",
+    "name": "BIC Feuerzeug Megalighter",
+    "category": "Haushalt",
+    "subcategories": ["Feuerzeug"]
+  },
+  {
+    "store": "spar",
+    "id": "2020000882206",
+    "name": "Beauty Factory Aloe Vera Creme Creme 250 ml",
+    "category": "Hautpflege",
+    "subcategories": ["Gesichtspflege", "Aloe Vera"]
+  },
+  {
+    "store": "spar",
+    "id": "2020000895589",
+    "name": "Beauty Factory Bein & Venencreme 250ml",
+    "category": "Hautpflege",
+    "subcategories": ["Bein & Venencreme"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003081729",
+    "name": "Beauty Factory Beinwell Creme 200ml",
+    "category": "Hautpflege",
+    "subcategories": ["Beinwell Creme"]
+  },
+  {
+    "store": "spar",
+    "id": "2020000782391",
+    "name": "Beauty Factory Murmeltier Salbe extra stark 110ml",
+    "category": "Hautpflege",
+    "subcategories": ["Murmeltier Salbe", "Extra Stark"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002503833",
+    "name": "Beauty Factory Ringelblume Creme 250ml",
+    "category": "Hautpflege",
+    "subcategories": ["Ringelblume Creme"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002012724",
+    "name": "Beauty Factory ThermoRelax Creme extra stark 250ml",
+    "category": "Hautpflege",
+    "subcategories": ["ThermoRelax Creme", "Extra Stark"]
+  },
+  {
+    "store": "spar",
+    "id": "2020000882275",
+    "name": "Beauty Factory Weihrauch Creme extra stark 110 ml",
+    "category": "Hautpflege",
+    "subcategories": ["Weihrauch Creme", "Extra Stark"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001301676",
+    "name": "Beauty Factory Zirben Balsam 200ml",
+    "category": "Hautpflege",
+    "subcategories": ["Zirben Balsam"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001702558",
+    "name": "Bebivita Fruchtmus Quetschbeutel Apfel-Banane-Pfirsich 4 x 90G",
+    "category": "Baby & Kind",
+    "subcategories": ["Fruchtmus", "Quetschbeutel", "Apfel-Banane-Pfirsich"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003985867",
+    "name": "Bebivita Fruchtmus Quetschbeutel Banane in Apfel 4 x 90G",
+    "category": "Baby & Kind",
+    "subcategories": ["Fruchtmus", "Quetschbeutel", "Banane in Apfel"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001702510",
+    "name": "Bebivita Fruchtmus Quetschbeutel Multifrucht 4 x 90G",
+    "category": "Baby & Kind",
+    "subcategories": ["Fruchtmus", "Quetschbeutel", "Multifrucht"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003813085",
+    "name": "Bellini Cipriani alkoholfrei 4x180ml",
+    "category": "Getränke",
+    "subcategories": ["Alkoholfrei", "Bellini", "Cipriani"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002752019",
+    "name": "Bebivita Fruchtriegel Apfel-Birne 25G",
+    "category": "Baby & Kind",
+    "subcategories": ["Fruchtriegel", "Apfel-Birne"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003493522",
+    "name": "Bebivita Fruchtsaft Frucht & Eisen",
+    "category": "Baby & Kind",
+    "subcategories": ["Fruchtsaft", "Frucht & Eisen"]
+  },
+  {
+    "store": "spar",
+    "id": "2020000946304",
+    "name": "Bebivita Kinder Spass Fruchtmus Quetschbeutel Erdbeere in Apfel-Birne 4 x 90G",
+    "category": "Baby & Kind",
+    "subcategories": ["Fruchtmus", "Quetschbeutel", "Erdbeere in Apfel-Birne"]
+  },
+  {
+    "store": "spar",
+    "id": "2020000946229",
+    "name": "Bebivita Kinder Spass Fruchtmus Quetschbeutel Apfel-Pfirsich-Mango 4 x 90G",
+    "category": "Baby & Kind",
+    "subcategories": ["Fruchtmus", "Quetschbeutel", "Apfel-Pfirsich-Mango"]
+  },
+  {
+    "store": "spar",
+    "id": "2020000945901",
+    "name": "Bebivita Kinder Spass Fruchtmus Quetschbeutel Gartenfrüchte 4 x 90G",
+    "category": "Baby & Kind",
+    "subcategories": ["Fruchtmus", "Quetschbeutel", "Gartenfrüchte"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001702626",
+    "name": "Bebivita Kinder Spaß Frucht & Getreide Vollkorn in Apfel-Banane 4 x 90G",
+    "category": "Baby & Kind",
+    "subcategories": [
+      "Frucht & Getreide",
+      "Quetschbeutel",
+      "Vollkorn",
+      "Apfel-Banane"
+    ]
+  },
+  {
+    "store": "spar",
+    "id": "2020001407569",
+    "name": "Bevog Tak Pale Ale",
+    "category": "Getränke",
+    "subcategories": ["Pale Ale"]
+  },
+  {
+    "store": "spar",
+    "id": "7492563",
+    "name": "Benco Kakao",
+    "category": "Getränke",
+    "subcategories": ["Kakao"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004664785",
+    "name": "Belposto Asti Spumante DOCG",
+    "category": "Getränke",
+    "subcategories": ["Asti Spumante", "DOCG"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004664822",
+    "name": "Belposto Prosecco DOC",
+    "category": "Getränke",
+    "subcategories": ["Prosecco", "DOCG"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004664884",
+    "name": "Belposto Prosecco Rose DOC",
+    "category": "Getränke",
+    "subcategories": ["Prosecco", "Rose", "DOCG"]
+  },
+  {
+    "store": "spar",
+    "id": "4083313",
+    "name": "Berlucchi Cuvée Imperiale Brut Franciacorta",
+    "category": "Getränke",
+    "subcategories": ["Cuvée", "Imperiale Brut", "Franciacorta"]
+  },
+  {
+    "store": "spar",
+    "id": "5028382",
+    "name": "Becherovka Original",
+    "category": "Getränke",
+    "subcategories": ["Kräuterlikör"]
+  },
+  {
+    "store": "spar",
+    "id": "4434900",
+    "name": "Beefeater 24 0,7 L",
+    "category": "Getränke",
+    "subcategories": ["Gin", "Beefeater"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003736896",
+    "name": "Beefeater Gin&Tonic",
+    "category": "Getränke",
+    "subcategories": ["Gin&Tonic"]
+  },
+  {
+    "store": "spar",
+    "id": "7676826",
+    "name": "Beefeater London Dry Gin",
+    "category": "Getränke",
+    "subcategories": ["Gin"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002850036",
+    "name": "Beefeater Pink Gin",
+    "category": "Getränke",
+    "subcategories": ["Gin", "Pink"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002910174",
+    "name": "Belvedere 0,7 L",
+    "category": "Getränke",
+    "subcategories": ["Wodka", "Belvedere"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003666568",
+    "name": "Bergspitzen Brennerei Fruchtlikör Maridi",
+    "category": "Getränke",
+    "subcategories": ["Fruchtlikör", "Maridi"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003666513",
+    "name": "Bergspitzen Brennerei Gin Gin'dara Nr. 34",
+    "category": "Getränke",
+    "subcategories": ["Gin", "Gin'dara Nr. 34"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004181459",
+    "name": "Berliner Luft Kräuterfix",
+    "category": "Getränke",
+    "subcategories": ["Kräuterlikör"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002453343",
+    "name": "Berliner Luft Pfefferminzlikör",
+    "category": "Getränke",
+    "subcategories": ["Pfefferminzlikör"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003735394",
+    "name": "Berliner Luft Schoko",
+    "category": "Getränke",
+    "subcategories": ["Schokolikör"]
+  },
+  {
+    "store": "spar",
+    "id": "4006428",
+    "name": "Bertoni Marilli",
+    "category": "Lebensmittel",
+    "subcategories": ["Marilli"]
+  },
+  {
+    "store": "spar",
+    "id": "3172230",
+    "name": "Beronia Reserva Rioja DOCa 2017",
+    "category": "Getränke",
+    "subcategories": ["Rotwein", "Reserva", "Rioja"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003296048",
+    "name": "BiFi 45 G",
+    "category": "Snacks",
+    "subcategories": ["Salami"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003341595",
+    "name": "BiFi BiFi Original 6 Stück 6x22,5g",
+    "category": "Snacks",
+    "subcategories": ["Salami"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003295676",
+    "name": "BiFi Roll 3x45g",
+    "category": "Snacks",
+    "subcategories": ["Salami", "Roll"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004388186",
+    "name": "BiFi Roll Hot",
+    "category": "Snacks",
+    "subcategories": ["Salami", "Hot"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003295607",
+    "name": "BiFi Roll XXL",
+    "category": "Snacks",
+    "subcategories": ["Salami", "XXL"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003133619",
+    "name": "Beyond Meat Beyond Burger 2 Patties 227 G",
+    "category": "Vegetarisch",
+    "subcategories": ["Veggie Burger"]
+  },
+  {
+    "store": "spar",
+    "id": "5665914",
+    "name": "Bertagni Artischocken mit Kräutern",
+    "category": "Lebensmittel",
+    "subcategories": ["Artischocken", "Kräuter"]
+  },
+  {
+    "store": "spar",
+    "id": "5645008",
+    "name": "Bertagni Gemischte Pilze",
+    "category": "Lebensmittel",
+    "subcategories": ["Gemischte Pilze"]
+  },
+  {
+    "store": "spar",
+    "id": "5713257",
+    "name": "Bertagni Getrocknete Tomaten",
+    "category": "Lebensmittel",
+    "subcategories": ["Getrocknete Tomaten"]
+  },
+  {
+    "store": "spar",
+    "id": "5771882",
+    "name": "Bertagni Kapern",
+    "category": "Lebensmittel",
+    "subcategories": ["Kapern"]
+  },
+  {
+    "store": "spar",
+    "id": "6198381",
+    "name": "Bertagni Knoblauch mit Chili und Kräutern",
+    "category": "Lebensmittel",
+    "subcategories": ["Knoblauch", "Chili", "Kräuter"]
+  },
+  {
+    "store": "spar",
+    "id": "6198367",
+    "name": "Bertagni Knoblauch mit feinen Kräutern",
+    "category": "Lebensmittel",
+    "subcategories": ["Knoblauch", "Kräuter"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002651633",
+    "name": "Bertagni Melanzane in Sonnenblumenöl",
+    "category": "Lebensmittel",
+    "subcategories": ["Melanzane", "Sonnenblumenöl"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002651664",
+    "name": "Bertagni Pomodorini",
+    "category": "Lebensmittel",
+    "subcategories": ["Pomodorini"]
+  },
+  {
+    "store": "spar",
+    "id": "5644957",
+    "name": "Bertagni Zwiebeln in Balsamicoessig",
+    "category": "Lebensmittel",
+    "subcategories": ["Zwiebeln", "Balsamicoessig"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004402400",
+    "name": "Bertagni Ragú alla Bolognese 280g",
+    "category": "Lebensmittel",
+    "subcategories": ["Ragú alla Bolognese"]
+  },
+  {
+    "store": "spar",
+    "id": "7355288",
+    "name": "Bertagni Sugo Arrabbiata",
+    "category": "Lebensmittel",
+    "subcategories": ["Sugo", "Arrabbiata"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004402394",
+    "name": "Bertagni Sugo Pomodoro Ricotta 285g",
+    "category": "Lebensmittel",
+    "subcategories": ["Sugo", "Pomodoro Ricotta"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004526878",
+    "name": "Bertagni Sugo Vegan 285g",
+    "category": "Lebensmittel",
+    "subcategories": ["Sugo", "Vegan"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004402417",
+    "name": "Bertagni Sugo al Basilico 285g",
+    "category": "Lebensmittel",
+    "subcategories": ["Sugo", "Basilico"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004402370",
+    "name": "Bertagni Sugo al Tonno 285g",
+    "category": "Lebensmittel",
+    "subcategories": ["Sugo", "Tonno"]
+  }
+]

@@ -1,0 +1,702 @@
+[
+  {
+    "store": "spar",
+    "id": "2020004259905",
+    "name": "Wilkin&Sons Tiptree Salted Caramel Spread",
+    "category": "Brotaufstrich",
+    "subcategories": ["Aufstrich", "Caramel"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004260086",
+    "name": "Wilkin&Sons Tiptree Three Fruits medium cut marmalade",
+    "category": "Brotaufstrich",
+    "subcategories": ["Aufstrich", "Marmelade"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003882180",
+    "name": "Wild Bill Baked Beans",
+    "category": "Konserven",
+    "subcategories": ["Bohnen"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003288296",
+    "name": "Wieshofer Mühle Roggenmehl Type R960",
+    "category": "Mehl",
+    "subcategories": ["Getreide", "Roggen"]
+  },
+  {
+    "store": "spar",
+    "id": "2020000540311",
+    "name": "Wieshofer Mühle Weizenmehl Type 480 glatt",
+    "category": "Mehl",
+    "subcategories": ["Getreide", "Weizen"]
+  },
+  {
+    "store": "spar",
+    "id": "2020000540250",
+    "name": "Wieshofer Mühle Weizenmehl Type 700",
+    "category": "Mehl",
+    "subcategories": ["Getreide", "Weizen"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003894046",
+    "name": "Wild Bill BIO Ketchup mild",
+    "category": "Soßen",
+    "subcategories": ["Tomaten", "Ketchup"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003813351",
+    "name": "Wild Bill Ketchup mild",
+    "category": "Soßen",
+    "subcategories": ["Tomaten", "Ketchup"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003813337",
+    "name": "Wild Bill Ketchup ohne Zuckerzusatz",
+    "category": "Soßen",
+    "subcategories": ["Tomaten", "Ketchup"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004072108",
+    "name": "Willi Dungl BIO Bonbons Ingwer & Zitrone 65g",
+    "category": "Bonbons",
+    "subcategories": ["Süßigkeiten"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004072191",
+    "name": "Willi Dungl BIO Bonbons Orange & Ingwer 65g",
+    "category": "Bonbons",
+    "subcategories": ["Süßigkeiten"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004072177",
+    "name": "Willi Dungl Bio Bonbons natürlich immun 60g",
+    "category": "Bonbons",
+    "subcategories": ["Süßigkeiten"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002933302",
+    "name": "Willi Dungl Bio-Kraftriegel Apfel-Zimt 30G",
+    "category": "Riegel",
+    "subcategories": ["Apfel", "Zimt"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002856281",
+    "name": "Willi Dungl Bio-Kraftriegel Kakao-Nuss 30G",
+    "category": "Riegel",
+    "subcategories": ["Kakao", "Nuss"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002856243",
+    "name": "Willi Dungl Bio-Kraftriegel Waldbeere 30G",
+    "category": "Riegel",
+    "subcategories": ["Beeren"]
+  },
+  {
+    "store": "spar",
+    "id": "2020000735861",
+    "name": "Willi Dungl Kräuterbonbons Halsfreund 65g",
+    "category": "Bonbons",
+    "subcategories": ["Kräuter", "Süßigkeiten"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004569080",
+    "name": "Wild Deo-Stick Nachfüller Coconut & Vanilla 40g",
+    "category": "Deo",
+    "subcategories": ["Duft", "Körperpflege"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004569066",
+    "name": "Wild Deo-Stick Nachfüller Fresh Cotton & Sea Salt 40g",
+    "category": "Deo",
+    "subcategories": ["Duft", "Körperpflege"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004569042",
+    "name": "Wild Nachfüllbarer Deo-Stick Coconut & Vanilla 40g",
+    "category": "Deo",
+    "subcategories": ["Duft", "Körperpflege"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004568977",
+    "name": "Wild Nachfüllbarer Deo-Stick Fresh Cotton & Sea Salt 40g",
+    "category": "Deo",
+    "subcategories": ["Duft", "Körperpflege"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002987688",
+    "name": "Wilkinson 4in1 Multizone Styler Intuition Perfect Finish",
+    "category": "Rasierer",
+    "subcategories": ["Körperpflege"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003742606",
+    "name": "Wilkinson Augenbrauenformer Intuition / Perfect Finish 3 Stück",
+    "category": "Rasierer",
+    "subcategories": ["Körperpflege"]
+  },
+  {
+    "store": "spar",
+    "id": "6430719",
+    "name": "Wilkinson Einwegrasierer Duplo 6+2 Stück",
+    "category": "Rasierer",
+    "subcategories": ["Körperpflege"]
+  },
+  {
+    "store": "spar",
+    "id": "8202284",
+    "name": "Wilkinson Einwegrasierer Extra 3 Active 4 +2 Stück",
+    "category": "Rasierer",
+    "subcategories": ["Körperpflege"]
+  },
+  {
+    "store": "spar",
+    "id": "2020000523659",
+    "name": "Wilkinson Einwegrasierer Extra Sensitive 2 10 Stück",
+    "category": "Rasierer",
+    "subcategories": ["Körperpflege"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003100727",
+    "name": "Wilkinson Einwegrasierer Extra2 Beauty 20+10 Stück",
+    "category": "Rasierer",
+    "subcategories": ["Körperpflege"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003100635",
+    "name": "Wilkinson Einwegrasierer Extra2 Sensitive 20+10 Stück",
+    "category": "Rasierer",
+    "subcategories": ["Körperpflege"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003325045",
+    "name": "Wilkinson Einwegrasierer Pronto 10 Stück",
+    "category": "Rasierer",
+    "subcategories": ["Körperpflege"]
+  },
+  {
+    "store": "spar",
+    "id": "6583200",
+    "name": "Wilkinson Einwegrasierer Quattro Titanium Sens. 3+1 Stück",
+    "category": "Rasierer",
+    "subcategories": ["Körperpflege"]
+  },
+  {
+    "store": "spar",
+    "id": "6904340",
+    "name": "Wilkinson Einwegrasierer Xtreme3 Beauty 4+2 Stück",
+    "category": "Rasierer",
+    "subcategories": ["Körperpflege"]
+  },
+  {
+    "store": "spar",
+    "id": "6430801",
+    "name": "Wilkinson Einwegrasierer Xtreme3 Sensitive 4 Stück",
+    "category": "Rasierer",
+    "subcategories": ["Körperpflege"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003446351",
+    "name": "Wilkinson Ersatzklingen Intuition Complete 3 Stück",
+    "category": "Rasierer",
+    "subcategories": ["Körperpflege"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002957124",
+    "name": "Wilkinson Hydro5 Rasierer 1 Rasierer + 8 Klingen",
+    "category": "Rasierer",
+    "subcategories": ["Körperpflege"]
+  },
+  {
+    "store": "spar",
+    "id": "7434990",
+    "name": "Wilkinson Hydro5 Rasierer Skin Protection Regular 1 Stück + 1 Klinge",
+    "category": "Rasierer",
+    "subcategories": ["Körperpflege"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001142378",
+    "name": "Wilkinson Hydro5 Rasierklingen Groomer / Power Select 4 Stück",
+    "category": "Rasierer",
+    "subcategories": ["Klingen", "Körperpflege"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003009679",
+    "name": "Wilkinson Hydro5 Rasierklingen Skin Protection Regular 8 Stück",
+    "category": "Rasierer",
+    "subcategories": ["Klingen", "Körperpflege"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002469948",
+    "name": "Wilkinson Protect Rasierschaum Sensitive 50ml",
+    "category": "Rasierschaum",
+    "subcategories": ["Körperpflege"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001337675",
+    "name": "Wilkinson Rasierer For Women 3+1 Stück",
+    "category": "Rasierer",
+    "subcategories": ["Körperpflege"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003446276",
+    "name": "Wilkinson Rasierer Intuition Complete",
+    "category": "Rasierer",
+    "subcategories": ["Körperpflege"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001682010",
+    "name": "Wilkinson Rasierklingen Intuition Sensitive Care 3 Stück",
+    "category": "Rasierer",
+    "subcategories": ["Klingen", "Körperpflege"]
+  },
+  {
+    "store": "spar",
+    "id": "920407",
+    "name": "Wilkinson Rasierseife 125g",
+    "category": "Rasurzubehör",
+    "subcategories": ["Körperpflege"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004156709",
+    "name": "Wilkinson Sword Einwegrasierer Extra3 Essentials 5 Stück",
+    "category": "Rasierer",
+    "subcategories": ["Körperpflege"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002273422",
+    "name": "Wilkinson Sword Einwegrasierer Xtreme3 Duo Comfort 4 Stück",
+    "category": "Rasierer",
+    "subcategories": ["Körperpflege"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004710345",
+    "name": "Wilkinson Sword Precision Styler Essential 3 Stück",
+    "category": "Rasierer",
+    "subcategories": ["Körperpflege"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004156716",
+    "name": "Wilkinson Sword Rasierer Classic Double Edge",
+    "category": "Rasierer",
+    "subcategories": ["Klingen", "Körperpflege"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001680368",
+    "name": "Wilkinson Sword Rasierer Intuition Sensitive Care 1 Stück",
+    "category": "Rasierer",
+    "subcategories": ["Körperpflege"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004161451",
+    "name": "Wilkinson Sword Rasierer Intuition Sensitive Touch 1 Stück",
+    "category": "Rasierer",
+    "subcategories": ["Körperpflege"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004710383",
+    "name": "Wilkinson Sword Rasierer/Haartrimmer Hydro Trim & Shave 1 Apparat + 1 Klinge",
+    "category": "Rasierer",
+    "subcategories": ["Körperpflege", "Haartrimmer"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004710413",
+    "name": "Wilkinson Sword Rasierhobel Intuition Rose Gold 1 Stück + 10 Rasierklingen",
+    "category": "Rasierer",
+    "subcategories": ["Körperpflege", "Hobel"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004710369",
+    "name": "Wilkinson Sword Rasierklingen Hydro Trim & Shave 3 Stück",
+    "category": "Rasierer",
+    "subcategories": ["Klingen", "Körperpflege"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004230515",
+    "name": "Wilkinson Sword Rasierklingen Intuition Sensitive Care 4 Stück",
+    "category": "Rasierer",
+    "subcategories": ["Klingen", "Körperpflege"]
+  },
+  {
+    "store": "spar",
+    "id": "5782994",
+    "name": "Wilkinson Sword Rasierklingen Quattro Titanium 8 Stück",
+    "category": "Rasierer",
+    "subcategories": ["Klingen", "Körperpflege"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003596452",
+    "name": "Wenko Zahnputzbecher Mod. Badi",
+    "category": "Badzubehör",
+    "subcategories": ["Becher"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003596520",
+    "name": "Wenko Zahnputzbecher Mod. Badi",
+    "category": "Badzubehör",
+    "subcategories": ["Becher"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003483110",
+    "name": "Wenko Zwerghaken Chrom 6er",
+    "category": "Haken",
+    "subcategories": ["Badzubehör"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001407514",
+    "name": "Wenko Waschbälle Flusenschreck",
+    "category": "Waschmittel",
+    "subcategories": ["Wäsche"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004327307",
+    "name": "Wenko Wattepadbehalter Laresa weiß matt",
+    "category": "Wattepads",
+    "subcategories": ["Aufbewahrung"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004312921",
+    "name": "Wenko Wattestäbchenbehalter weiß",
+    "category": "Wattestäbchen",
+    "subcategories": ["Aufbewahrung"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003401978",
+    "name": "Wenko Wenko WC Garnitur schwarz",
+    "category": "WC-Zubehör",
+    "subcategories": ["Garnitur"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003583711",
+    "name": "Wenko Wenko Wanneneinlage Paradise",
+    "category": "Badzubehör",
+    "subcategories": ["Einlage", "Badematte"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003401923",
+    "name": "Wenko Zahnputzbecher",
+    "category": "Badzubehör",
+    "subcategories": ["Becher"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001805211",
+    "name": "Wenzel 2 Stumpenkerzen 100/60 rubin",
+    "category": "Kerzen",
+    "subcategories": ["Stumpen"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001805020",
+    "name": "Wenzel 2 Stumpenkerzen 100/60 weiss",
+    "category": "Kerzen",
+    "subcategories": ["Stumpen"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001346110",
+    "name": "Wenzel Rustic Kerze H 8cm / D 7cm antikrosa",
+    "category": "Kerzen",
+    "subcategories": ["Rustikal"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003595981",
+    "name": "Wenko Zahnputzbecher Badi",
+    "category": "Badzubehör",
+    "subcategories": ["Becher"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004311016",
+    "name": "Wenko Zahnputzbecher Padua Bambus",
+    "category": "Badzubehör",
+    "subcategories": ["Becher"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003072079",
+    "name": "Wenko Zwerghaken weiss 6er / Blister",
+    "category": "Haken",
+    "subcategories": ["Badzubehör"]
+  },
+  {
+    "store": "spar",
+    "id": "1178494",
+    "name": "Werkovits Bandnudeln",
+    "category": "Nudeln",
+    "subcategories": ["Teigwaren"]
+  },
+  {
+    "store": "spar",
+    "id": "1178692",
+    "name": "Werkovits Bandnudeln bunt",
+    "category": "Nudeln",
+    "subcategories": ["Teigwaren"]
+  },
+  {
+    "store": "spar",
+    "id": "1178760",
+    "name": "Werkovits Chilinudeln",
+    "category": "Nudeln",
+    "subcategories": ["Teigwaren"]
+  },
+  {
+    "store": "spar",
+    "id": "2020000549260",
+    "name": "Werkovits Fadennudeln",
+    "category": "Nudeln",
+    "subcategories": ["Teigwaren"]
+  },
+  {
+    "store": "spar",
+    "id": "1178609",
+    "name": "Werkovits Fleckerl",
+    "category": "Nudeln",
+    "subcategories": ["Teigwaren"]
+  },
+  {
+    "store": "spar",
+    "id": "1178876",
+    "name": "Werkovits Knoblauchnudeln",
+    "category": "Nudeln",
+    "subcategories": ["Teigwaren"]
+  },
+  {
+    "store": "spar",
+    "id": "1178678",
+    "name": "Werkovits Spaghetti",
+    "category": "Nudeln",
+    "subcategories": ["Teigwaren"]
+  },
+  {
+    "store": "spar",
+    "id": "2020000549321",
+    "name": "Werkovits Spiralen",
+    "category": "Nudeln",
+    "subcategories": ["Teigwaren"]
+  },
+  {
+    "store": "spar",
+    "id": "1178708",
+    "name": "Werkovits Spiralen bunt",
+    "category": "Nudeln",
+    "subcategories": ["Teigwaren"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003783616",
+    "name": "Thomy Dressing Feige-Senf",
+    "category": "Salatdressing",
+    "subcategories": ["Dressing"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003783555",
+    "name": "Thomy Dressing French",
+    "category": "Salatdressing",
+    "subcategories": ["Dressing"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003783609",
+    "name": "Thomy Dressing Kräuter Vinaigrette",
+    "category": "Salatdressing",
+    "subcategories": ["Dressing"]
+  },
+  {
+    "store": "spar",
+    "id": "706896",
+    "name": "Thomy Hollandaise",
+    "category": "Sauce",
+    "subcategories": ["Saucen"]
+  },
+  {
+    "store": "spar",
+    "id": "6694494",
+    "name": "Thomy Mayonnaise & Ketchup Ketch&Co",
+    "category": "Sauce",
+    "subcategories": ["Mayonnaise", "Ketchup"]
+  },
+  {
+    "store": "spar",
+    "id": "4895183",
+    "name": "Thomy Mayonnaise 25% Fett",
+    "category": "Sauce",
+    "subcategories": ["Mayonnaise"]
+  },
+  {
+    "store": "spar",
+    "id": "3314708",
+    "name": "Thomy Mayonnaise 50% Fett",
+    "category": "Sauce",
+    "subcategories": ["Mayonnaise"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004561961",
+    "name": "Thomy Mayonnaise 80% Fett",
+    "category": "Sauce",
+    "subcategories": ["Mayonnaise"]
+  },
+  {
+    "store": "spar",
+    "id": "6606695",
+    "name": "Thomy Mayonnaise Mayo Olive",
+    "category": "Sauce",
+    "subcategories": ["Mayonnaise"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003952029",
+    "name": "Thomy Sauce Aioli",
+    "category": "Sauce",
+    "subcategories": ["Aioli"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003649929",
+    "name": "Voelkel Bio Direktsaft Apfel Banane",
+    "category": "Saft",
+    "subcategories": ["Apfel", "Banane"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003649721",
+    "name": "Voelkel Demeter Ingwer Shot",
+    "category": "Shot",
+    "subcategories": ["Ingwer"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003649691",
+    "name": "Voelkel Demeter Shot Ingwer & Kurkuma",
+    "category": "Shot",
+    "subcategories": ["Ingwer", "Kurkuma"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003005282",
+    "name": "Voelkel Für demeter Antioxidantien",
+    "category": "Saft",
+    "subcategories": ["Vitamine"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003934384",
+    "name": "Voelkel Für demeter Bio-Ingwersaft frisch gepresst",
+    "category": "Saft",
+    "subcategories": ["Ingwer"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003584381",
+    "name": "Voelkel Für demeter Cranberry naturtrüb",
+    "category": "Saft",
+    "subcategories": ["Cranberry"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003584329",
+    "name": "Voelkel Für demeter Granatapfel naturtrüb",
+    "category": "Saft",
+    "subcategories": ["Granatapfel"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003005268",
+    "name": "Voelkel Für demeter Immunkraft",
+    "category": "Saft",
+    "subcategories": ["Vitamine"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003583964",
+    "name": "Voelkel Für demeter Johannisbeere naturtrüb",
+    "category": "Saft",
+    "subcategories": ["Johannisbeere"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003584435",
+    "name": "Voelkel Für demeter Sanddorn naturtrüb",
+    "category": "Saft",
+    "subcategories": ["Sanddorn"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003811036",
+    "name": "Voelkel demeter Bio-Zitronensaft",
+    "category": "Saft",
+    "subcategories": ["Zitrone"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004682277",
+    "name": "yfood Energieriegel Coconut & White Chocolate",
+    "category": "Riegel",
+    "subcategories": ["Kokos", "Schokolade"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004682253",
+    "name": "yfood Energieriegel Hazelnut & Chocolate",
+    "category": "Riegel",
+    "subcategories": ["Haselnuss", "Schokolade"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004682284",
+    "name": "yfood Energieriegel Salted Nuts & Chocolate",
+    "category": "Riegel",
+    "subcategories": ["Nüsse", "Schokolade"]
+  }
+]

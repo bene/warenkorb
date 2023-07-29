@@ -1,0 +1,702 @@
+[
+  {
+    "store": "spar",
+    "id": "4828631",
+    "name": "SPAR Natur*pur Bio-Kastanien essfertig",
+    "category": "Obst & Gemüse",
+    "subcategories": ["Kastanien"]
+  },
+  {
+    "store": "spar",
+    "id": "6260491",
+    "name": "SPAR Natur*pur Bio-Kürbis Butternut per kg",
+    "category": "Obst & Gemüse",
+    "subcategories": ["Kürbis", "Butternut"]
+  },
+  {
+    "store": "spar",
+    "id": "6223793",
+    "name": "SPAR Natur*pur Bio-Kürbis Hokkaido",
+    "category": "Obst & Gemüse",
+    "subcategories": ["Kürbis", "Hokkaido"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001579761",
+    "name": "SPAR Natur*pur Bio-Ingwer-Würfel kandiert",
+    "category": "Backwaren",
+    "subcategories": ["Ingwer", "kandiert"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003447693",
+    "name": "SPAR Natur*pur Bio-Laugenbreze",
+    "category": "Backwaren",
+    "subcategories": ["Laugenbreze"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003453410",
+    "name": "SPAR Natur*pur Bio-Laugenbreze",
+    "category": "Backwaren",
+    "subcategories": ["Laugenbreze"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002396794",
+    "name": "SPAR Natur*pur Bio-Knäckebrot Vollkorn",
+    "category": "Brot & Backwaren",
+    "subcategories": ["Knäckebrot", "Vollkorn"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001744725",
+    "name": "SPAR Natur*pur Bio-Johannisbeere gespritzt",
+    "category": "Getränke",
+    "subcategories": ["Johannisbeere", "gespritzt"]
+  },
+  {
+    "store": "spar",
+    "id": "8132093",
+    "name": "SPAR Natur*pur Bio-Karottensaft direkt gepresst",
+    "category": "Getränke",
+    "subcategories": ["Karottensaft"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004098467",
+    "name": "SPAR Natur*pur Bio-Latte Macchiato",
+    "category": "Getränke",
+    "subcategories": ["Latte Macchiato"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004103819",
+    "name": "SPAR Natur*pur Bio-Latte Macchiato ohne Zuckerzusatz",
+    "category": "Getränke",
+    "subcategories": ["Latte Macchiato"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004105400",
+    "name": "SPAR Natur*pur Bio-Latte-Macchiato",
+    "category": "Getränke",
+    "subcategories": ["Latte Macchiato"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003709968",
+    "name": "SPAR Natur*pur Bio-Hanf-Orange",
+    "category": "Getränke",
+    "subcategories": ["Hanf-Orange"]
+  },
+  {
+    "store": "spar",
+    "id": "2020000628828",
+    "name": "SPAR Natur*pur Bio-Honigbusch Tee 20 Teebeutel",
+    "category": "Tee & Kaffee",
+    "subcategories": ["Honigbusch Tee"]
+  },
+  {
+    "store": "spar",
+    "id": "6735951",
+    "name": "SPAR Natur*pur Bio-Instant-Kaffee",
+    "category": "Tee & Kaffee",
+    "subcategories": ["Instant-Kaffee"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004318695",
+    "name": "SPAR Natur*pur Bio-Instant-Kaffee mild",
+    "category": "Tee & Kaffee",
+    "subcategories": ["Instant-Kaffee"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001800025",
+    "name": "SPAR Natur*pur Bio-Kaffee Lungo 10 Kapseln",
+    "category": "Tee & Kaffee",
+    "subcategories": ["Kaffee", "Kapseln"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003947667",
+    "name": "SPAR Natur*pur Bio-Kaffee entkoffiniert ganze Bohnen",
+    "category": "Tee & Kaffee",
+    "subcategories": ["Kaffee", "entkoffiniert", "ganze Bohnen"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003947629",
+    "name": "SPAR Natur*pur Bio-Kaffee entkoffiniert gemahlen",
+    "category": "Tee & Kaffee",
+    "subcategories": ["Kaffee", "entkoffiniert", "gemahlen"]
+  },
+  {
+    "store": "spar",
+    "id": "6288471",
+    "name": "SPAR Natur*pur Bio-Kaffee ganze Bohne",
+    "category": "Tee & Kaffee",
+    "subcategories": ["Kaffee", "ganze Bohne"]
+  },
+  {
+    "store": "spar",
+    "id": "5161225",
+    "name": "SPAR Natur*pur Bio-Kaffee gemahlen",
+    "category": "Tee & Kaffee",
+    "subcategories": ["Kaffee", "gemahlen"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003260476",
+    "name": "SPAR Natur*pur Bio-Kakao",
+    "category": "Kakao & Süßigkeiten",
+    "subcategories": ["Kakao"]
+  },
+  {
+    "store": "spar",
+    "id": "6906573",
+    "name": "SPAR Natur*pur Bio-Kamillen Tee 20 Teebeutel",
+    "category": "Tee & Kaffee",
+    "subcategories": ["Kamillen Tee"]
+  },
+  {
+    "store": "spar",
+    "id": "7390456",
+    "name": "SPAR Natur*pur Bio-Magen-Tee 20 Teebeutel",
+    "category": "Tee & Kaffee",
+    "subcategories": ["Magen-Tee"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004120366",
+    "name": "SPAR Natur*pur Bio-Malven-Tee lose 40G",
+    "category": "Tee & Kaffee",
+    "subcategories": ["Malven-Tee"]
+  },
+  {
+    "store": "spar",
+    "id": "6954475",
+    "name": "SPAR Natur*pur Bio-Hefe-Pizzateig",
+    "category": "Brot & Backwaren",
+    "subcategories": ["Hefe", "Pizzateig"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004338518",
+    "name": "SPAR Natur*pur Bio-Hendl Filet sous-vide vorgegart 2 Filets",
+    "category": "Fleisch & Geflügel",
+    "subcategories": ["Hendl", "Filet", "sous-vide", "vorgegart"]
+  },
+  {
+    "store": "spar",
+    "id": "2020000861270",
+    "name": "SPAR Natur*pur Bio-Hendl Unterkeulen",
+    "category": "Fleisch & Geflügel",
+    "subcategories": ["Hendl", "Unterkeulen"]
+  },
+  {
+    "store": "spar",
+    "id": "7784583",
+    "name": "SPAR Natur*pur Bio-Hendl-Flügel",
+    "category": "Fleisch & Geflügel",
+    "subcategories": ["Hendl", "Flügel"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004580429",
+    "name": "SPAR Natur*pur Bio-Hendl-Flügel",
+    "category": "Fleisch & Geflügel",
+    "subcategories": ["Hendl", "Flügel"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004580412",
+    "name": "SPAR Natur*pur Bio-Hendl-Flügel",
+    "category": "Fleisch & Geflügel",
+    "subcategories": ["Hendl", "Flügel"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004581723",
+    "name": "SPAR Natur*pur Bio-Hendl-Keulen",
+    "category": "Fleisch & Geflügel",
+    "subcategories": ["Hendl", "Keulen"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004582409",
+    "name": "SPAR Natur*pur Bio-Hendl-Oberkeulen",
+    "category": "Fleisch & Geflügel",
+    "subcategories": ["Hendl", "Oberkeulen"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004586810",
+    "name": "SPAR Natur*pur Bio-Hendl-Oberkeulen",
+    "category": "Fleisch & Geflügel",
+    "subcategories": ["Hendl", "Oberkeulen"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001841431",
+    "name": "SPAR Natur*pur Bio-Keulen-Schnitzerl",
+    "category": "Fleisch & Geflügel",
+    "subcategories": ["Keulen-Schnitzerl"]
+  },
+  {
+    "store": "spar",
+    "id": "3484869",
+    "name": "SPAR Natur*pur Bio-Kochfleisch vom Rind",
+    "category": "Fleisch & Geflügel",
+    "subcategories": ["Kochfleisch", "Rind"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003355493",
+    "name": "SPAR Natur*pur Bio-Halloumi Klassik",
+    "category": "Käse",
+    "subcategories": ["Halloumi", "Klassik"]
+  },
+  {
+    "store": "spar",
+    "id": "4036364",
+    "name": "SPAR Natur*pur Bio-Kärntner Gold aus Wiesenmilch",
+    "category": "Milchprodukte",
+    "subcategories": ["Kärntner Gold", "Wiesenmilch"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004573971",
+    "name": "SPAR Natur*pur Bio-Jogurt Banane-Baobab",
+    "category": "Milchprodukte",
+    "subcategories": ["Jogurt", "Banane-Baobab"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002815158",
+    "name": "SPAR Natur*pur Bio-Jogurt Eiskaffee",
+    "category": "Milchprodukte",
+    "subcategories": ["Jogurt", "Eiskaffee"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004405845",
+    "name": "SPAR Natur*pur Bio-Jogurt Erdbeere",
+    "category": "Milchprodukte",
+    "subcategories": ["Jogurt", "Erdbeere"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002968472",
+    "name": "SPAR Natur*pur Bio-Jogurt Griechischer Art 10% Fett",
+    "category": "Milchprodukte",
+    "subcategories": ["Jogurt", "Griechischer Art", "10% Fett"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002968441",
+    "name": "SPAR Natur*pur Bio-Jogurt Griechischer Art 2% Fett",
+    "category": "Milchprodukte",
+    "subcategories": ["Jogurt", "Griechischer Art", "2% Fett"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001706167",
+    "name": "SPAR Natur*pur Bio-Jogurt Heidelbeer",
+    "category": "Milchprodukte",
+    "subcategories": ["Jogurt", "Heidelbeer"]
+  },
+  {
+    "store": "spar",
+    "id": "4006251",
+    "name": "SPAR Natur*pur Bio-Jogurt Himbeer",
+    "category": "Milchprodukte",
+    "subcategories": ["Jogurt", "Himbeer"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004573988",
+    "name": "SPAR Natur*pur Bio-Jogurt Kokos-Mandel",
+    "category": "Milchprodukte",
+    "subcategories": ["Jogurt", "Kokos-Mandel"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003688744",
+    "name": "SPAR Natur*pur Bio-Jogurt Mango-Kurkuma",
+    "category": "Milchprodukte",
+    "subcategories": ["Jogurt", "Mango-Kurkuma"]
+  },
+  {
+    "store": "spar",
+    "id": "4617334",
+    "name": "SPAR Natur*pur Bio-Jogurt Müsli",
+    "category": "Milchprodukte",
+    "subcategories": ["Jogurt", "Müsli"]
+  },
+  {
+    "store": "spar",
+    "id": "3573648",
+    "name": "SPAR Natur*pur Bio-Jogurt Pfirsich-Marille",
+    "category": "Milchprodukte",
+    "subcategories": ["Jogurt", "Pfirsich-Marille"]
+  },
+  {
+    "store": "spar",
+    "id": "6753672",
+    "name": "SPAR Natur*pur Bio-Jogurt Vanille",
+    "category": "Milchprodukte",
+    "subcategories": ["Jogurt", "Vanille"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001688166",
+    "name": "SPAR Natur*pur Bio-Jogurt Zitrone",
+    "category": "Milchprodukte",
+    "subcategories": ["Jogurt", "Zitrone"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004404626",
+    "name": "SPAR Natur*pur Bio-Jogurt à la Sachertorte",
+    "category": "Milchprodukte",
+    "subcategories": ["Jogurt", "Sachertorte"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003611001",
+    "name": "SPAR Natur*pur Bio-Jogurtbutter",
+    "category": "Milchprodukte",
+    "subcategories": ["Jogurtbutter"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003628252",
+    "name": "SPAR Natur*pur Bio-Kakao",
+    "category": "Kakao & Süßigkeiten",
+    "subcategories": ["Kakao"]
+  },
+  {
+    "store": "spar",
+    "id": "5675470",
+    "name": "SPAR Natur*pur Bio-Magertopfen",
+    "category": "Milchprodukte",
+    "subcategories": ["Magertopfen"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003661242",
+    "name": "SPAR Natur*pur Bio-Kaminwurzerl",
+    "category": "Fleisch & Geflügel",
+    "subcategories": ["Kaminwurzerl"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002846473",
+    "name": "SPAR Natur*pur Bio-Kantwurst",
+    "category": "Fleisch & Geflügel",
+    "subcategories": ["Kantwurst"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002757328",
+    "name": "SPAR Natur*pur Bio-Kantwurst",
+    "category": "Fleisch & Geflügel",
+    "subcategories": ["Kantwurst"]
+  },
+  {
+    "store": "spar",
+    "id": "7220982",
+    "name": "SPAR Natur*pur Bio-Karree-Speck geschnitten",
+    "category": "Fleisch & Geflügel",
+    "subcategories": ["Karree-Speck", "geschnitten"]
+  },
+  {
+    "store": "spar",
+    "id": "6446741",
+    "name": "SPAR Natur*pur Bio-Knacker 2 x 125g",
+    "category": "Fleisch & Geflügel",
+    "subcategories": ["Knacker"]
+  },
+  {
+    "store": "spar",
+    "id": "6951610",
+    "name": "SPAR Natur*pur Bio-Lachsschinken geschnitten",
+    "category": "Fleisch & Geflügel",
+    "subcategories": ["Lachsschinken", "geschnitten"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004626264",
+    "name": "SPAR Natur*pur Bio-Lachsfilet Pikant",
+    "category": "Fisch & Meeresfrüchte",
+    "subcategories": ["Lachsfilet", "Pikant"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003780455",
+    "name": "SPAR Natur*pur Bio-Lachsfilet aus Norwegen",
+    "category": "Fisch & Meeresfrüchte",
+    "subcategories": ["Lachsfilet", "Norwegen"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003266072",
+    "name": "SPAR Natur*pur Bio-Lachsforelle Filet geräuchert",
+    "category": "Fisch & Meeresfrüchte",
+    "subcategories": ["Lachsforelle", "Filet", "geräuchert"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002514570",
+    "name": "SPAR Natur*pur Bio-Kokos Natur",
+    "category": "Backwaren",
+    "subcategories": ["Kokos"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003948220",
+    "name": "SPAR Natur*pur Bio-Mandel natur",
+    "category": "Backwaren",
+    "subcategories": ["Mandel"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004083159",
+    "name": "SPAR Natur*pur Bio-Kakao-Eis 450ml Packung",
+    "category": "Eis",
+    "subcategories": ["Kakao-Eis"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003551147",
+    "name": "SPAR Natur*pur Bio-Herbstgemüse aus dem Marchfeld",
+    "category": "Obst & Gemüse",
+    "subcategories": ["Herbstgemüse", "Marchfeld"]
+  },
+  {
+    "store": "spar",
+    "id": "6391126",
+    "name": "SPAR Natur*pur Bio-Himbeeren tiefgekühlt",
+    "category": "Obst & Gemüse",
+    "subcategories": ["Himbeeren", "tiefgekühlt"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002798161",
+    "name": "SPAR Natur*pur Bio-Kartoffelknödel 4x100g",
+    "category": "Fertiggerichte",
+    "subcategories": ["Kartoffelknödel"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002693756",
+    "name": "SPAR Natur*pur Bio-Lachsfilet 2 Stück",
+    "category": "Fisch & Meeresfrüchte",
+    "subcategories": ["Lachsfilet"]
+  },
+  {
+    "store": "spar",
+    "id": "4829010",
+    "name": "SPAR Natur*pur Bio-Kinder-Fruchtriegel Apfel-Banane",
+    "category": "Snacks",
+    "subcategories": ["Kinder-Fruchtriegel", "Apfel-Banane"]
+  },
+  {
+    "store": "spar",
+    "id": "1052480",
+    "name": "SPAR Natur*pur Bio-Kinder-Reiswaffeln Apfel",
+    "category": "Snacks",
+    "subcategories": ["Kinder-Reiswaffeln", "Apfel"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003842610",
+    "name": "SPAR Natur*pur Bio-Mais-Blumen Hirse",
+    "category": "Reis & Getreide",
+    "subcategories": ["Mais-Blumen", "Hirse"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003842771",
+    "name": "SPAR Natur*pur Bio-Mais-Bärlis Erdbeere & Apfel",
+    "category": "Snacks",
+    "subcategories": ["Mais-Bärlis", "Erdbeere", "Apfel"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003842801",
+    "name": "SPAR Natur*pur Bio-Mais-Ringerl Karotte & Kürbis",
+    "category": "Snacks",
+    "subcategories": ["Mais-Ringerl", "Karotte", "Kürbis"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003842757",
+    "name": "SPAR Natur*pur Bio-Mais-Stangerl Natur",
+    "category": "Snacks",
+    "subcategories": ["Mais-Stangerl"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002954376",
+    "name": "SPAR Natur*pur Bio-Haselnuss-Fülle",
+    "category": "Backzutaten",
+    "subcategories": ["Haselnuss-Fülle"]
+  },
+  {
+    "store": "spar",
+    "id": "5508129",
+    "name": "SPAR Natur*pur Bio-Haselnüsse",
+    "category": "Nüsse & Trockenfrüchte",
+    "subcategories": ["Haselnüsse"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004579201",
+    "name": "SPAR Natur*pur Bio-Haselnüsse geröstet & gemahlen",
+    "category": "Backzutaten",
+    "subcategories": ["Haselnüsse", "geröstet", "gemahlen"]
+  },
+  {
+    "store": "spar",
+    "id": "6451042",
+    "name": "SPAR Natur*pur Bio-Hefe",
+    "category": "Backwaren",
+    "subcategories": ["Hefe"]
+  },
+  {
+    "store": "spar",
+    "id": "5377510",
+    "name": "SPAR Natur*pur Bio-Kürbiskerne",
+    "category": "Nüsse & Trockenfrüchte",
+    "subcategories": ["Kürbiskerne"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003650024",
+    "name": "SPAR Natur*pur Bio-Kürbiskerne gehackt 200G",
+    "category": "Nüsse & Trockenfrüchte",
+    "subcategories": ["Kürbiskerne", "gehackt"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003649998",
+    "name": "SPAR Natur*pur Bio-Kürbiskerne gerieben 200G",
+    "category": "Nüsse & Trockenfrüchte",
+    "subcategories": ["Kürbiskerne", "gerieben"]
+  },
+  {
+    "store": "spar",
+    "id": "6044497",
+    "name": "SPAR Natur*pur Bio-Kürbiskerne geröstet und gesalzen",
+    "category": "Nüsse & Trockenfrüchte",
+    "subcategories": ["Kürbiskerne", "geröstet", "gesalzen"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003155307",
+    "name": "SPAR Natur*pur Bio-Limettensaft",
+    "category": "Getränke",
+    "subcategories": ["Limettensaft"]
+  },
+  {
+    "store": "spar",
+    "id": "1158328",
+    "name": "SPAR Natur*pur Bio-Leinöl kaltgepresst",
+    "category": "Öl & Essig",
+    "subcategories": ["Leinöl", "kaltgepresst"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003765209",
+    "name": "SPAR Natur*pur Bio-Maiskeimöl",
+    "category": "Öl & Essig",
+    "subcategories": ["Maiskeimöl"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004059444",
+    "name": "SPAR Natur*pur Bio-Kümmel ganz 50g",
+    "category": "Gewürze",
+    "subcategories": ["Kümmel"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002757168",
+    "name": "SPAR Natur*pur Bio-Haferflocken Großblatt 500G",
+    "category": "Getreide & Haferflocken",
+    "subcategories": ["Haferflocken", "Großblatt"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002757175",
+    "name": "SPAR Natur*pur Bio-Haferflocken zart 500G",
+    "category": "Getreide & Haferflocken",
+    "subcategories": ["Haferflocken", "zart"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004341716",
+    "name": "SPAR Natur*pur Bio-Haferkleie",
+    "category": "Getreide & Haferflocken",
+    "subcategories": ["Haferkleie"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004220790",
+    "name": "SPAR Natur*pur Bio-Hafermark 500G",
+    "category": "Getreide & Haferflocken",
+    "subcategories": ["Hafermark"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002170134",
+    "name": "SPAR Natur*pur Bio-Haselnuss-Nougat-Creme",
+    "category": "Backzutaten",
+    "subcategories": ["Haselnuss-Nougat-Creme"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001958566",
+    "name": "SPAR Natur*pur Bio-Knuspermüsli Kokos-Quinoa",
+    "category": "Müsli",
+    "subcategories": ["Knuspermüsli", "Kokos-Quinoa"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004301246",
+    "name": "SPAR Natur*pur Bio-Hanfsamen geschält 250g",
+    "category": "Nüsse & Trockenfrüchte",
+    "subcategories": ["Hanfsamen", "geschält"]
+  },
+  {
+    "store": "spar",
+    "id": "7399411",
+    "name": "SPAR Natur*pur Bio-Kalamata Oliven entkernt",
+    "category": "Snacks",
+    "subcategories": ["Kalamata Oliven", "entkernt"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002039929",
+    "name": "SPAR Natur*pur Bio-Kapern",
+    "category": "Gewürze",
+    "subcategories": ["Kapern"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001510337",
+    "name": "SPAR Natur*pur Bio-Karotten-Salat",
+    "category": "Obst & Gemüse",
+    "subcategories": ["Karotten-Salat"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003219092",
+    "name": "SPAR Natur*pur Bio-Karotten-Sellerie-Salat",
+    "category": "Obst & Gemüse",
+    "subcategories": ["Karotten-Sellerie-Salat"]
+  }
+]

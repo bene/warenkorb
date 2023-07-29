@@ -1,0 +1,714 @@
+[
+  {
+    "store": "spar",
+    "id": "2020003692260",
+    "name": "Tasty Schneidmatten-Set 3-teilig",
+    "category": "Küchenzubehör",
+    "subcategories": ["Schneidematte", "Küchenutensilien", "Küchenhilfe"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003691959",
+    "name": "Tasty Schäler 20,5cm",
+    "category": "Küchenzubehör",
+    "subcategories": ["Schäler", "Küchenwerkzeug", "Gemüseschäler"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003690877",
+    "name": "Tasty Schälmesser 6cm Holz",
+    "category": "Küchenzubehör",
+    "subcategories": ["Schälmesser", "Küchenmesser", "Gemüsemesser"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003911507",
+    "name": "Tasty Schälmesser 8,5cm",
+    "category": "Küchenzubehör",
+    "subcategories": ["Schälmesser", "Küchenmesser", "Gemüsemesser"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004068927",
+    "name": "Tasty Schälmesser 9 cm",
+    "category": "Küchenzubehör",
+    "subcategories": ["Schälmesser", "Küchenmesser", "Gemüsemesser"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003838088",
+    "name": "Tasty Schälmesser 9cm Klinge inkl. Hülle",
+    "category": "Küchenzubehör",
+    "subcategories": ["Schälmesser", "Küchenmesser", "Gemüsemesser"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003911286",
+    "name": "Tasty Schöpflöffel 30cm",
+    "category": "Küchenzubehör",
+    "subcategories": ["Schöpflöffel", "Küchenutensilien", "Essenslöffel"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003691904",
+    "name": "Tasty Schöpflöffel 30cm mit Abseihfunktion aus Silikon",
+    "category": "Küchenzubehör",
+    "subcategories": ["Schöpflöffel", "Küchenutensilien", "Essenslöffel"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003692048",
+    "name": "Tasty Schöpflöffel 34cm mit Skala",
+    "category": "Küchenzubehör",
+    "subcategories": ["Schöpflöffel", "Küchenutensilien", "Essenslöffel"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003935947",
+    "name": "Tasty Schüssel 19 cm",
+    "category": "Küchenzubehör",
+    "subcategories": ["Schüssel", "Küchenutensilien", "Mischschüssel"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003935824",
+    "name": "Tasty Schüssel 19 cm",
+    "category": "Küchenzubehör",
+    "subcategories": ["Schüssel", "Küchenutensilien", "Mischschüssel"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003911279",
+    "name": "Tasty Servierlöffel 30cm",
+    "category": "Küchenzubehör",
+    "subcategories": ["Servierlöffel", "Küchenutensilien", "Kochlöffel"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003690662",
+    "name": "Tasty Servierlöffel 30cm Holz",
+    "category": "Küchenzubehör",
+    "subcategories": ["Servierlöffel", "Küchenutensilien", "Kochlöffel"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003690723",
+    "name": "Tasty Servierlöffel 30cm Holz",
+    "category": "Küchenzubehör",
+    "subcategories": ["Servierlöffel", "Küchenutensilien", "Kochlöffel"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003690761",
+    "name": "Tasty Servierlöffel 30cm Holz",
+    "category": "Küchenzubehör",
+    "subcategories": ["Servierlöffel", "Küchenutensilien", "Kochlöffel"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003691898",
+    "name": "Tasty Servierlöffel 32,5cm mit Skala aus Silikon",
+    "category": "Küchenzubehör",
+    "subcategories": ["Servierlöffel", "Küchenutensilien", "Kochlöffel"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003935619",
+    "name": "Tasty Servierschalen 4 teilig",
+    "category": "Küchenzubehör",
+    "subcategories": ["Servierschalen", "Küchengeschirr", "Serviergeschirr"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003692031",
+    "name": "Tasty Servierzange 34,5cm Silikon",
+    "category": "Küchenzubehör",
+    "subcategories": ["Servierzange", "Küchenutensilien", "Kochzange"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003692024",
+    "name": "Tasty Servierzangen 3er Set",
+    "category": "Küchenzubehör",
+    "subcategories": ["Servierzange", "Küchenutensilien", "Kochzange"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003692307",
+    "name": "Tasty Sieb-Set 2 teilig",
+    "category": "Küchenzubehör",
+    "subcategories": ["Sieb", "Küchenutensilien", "Abseihen"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003838057",
+    "name": "Tasty Siebe 3er Set",
+    "category": "Küchenzubehör",
+    "subcategories": ["Sieb", "Küchenutensilien", "Abseihen"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004068880",
+    "name": "Tasty Silikonmessbecher 4er Set faltbar",
+    "category": "Küchenzubehör",
+    "subcategories": ["Messbecher", "Küchenutensilien", "Flüssigkeitsmessung"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003935688",
+    "name": "Tasty Smoothie Trinkhalme 12er Set",
+    "category": "Küchenzubehör",
+    "subcategories": ["Trinkhalm", "Küchenutensilien", "Smoothie Zubehör"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003911323",
+    "name": "Tasty Spaghettilöffel 30cm",
+    "category": "Küchenzubehör",
+    "subcategories": ["Spaghettilöffel", "Küchenutensilien", "Nudellöffel"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003691935",
+    "name": "Tasty Spaghettilöffel 32cm mit Portionierer aus Silikon",
+    "category": "Küchenzubehör",
+    "subcategories": ["Spaghettilöffel", "Küchenutensilien", "Nudellöffel"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003935985",
+    "name": "Tasty Speiseteller 27 cm",
+    "category": "Küchengeschirr",
+    "subcategories": ["Teller", "Essgeschirr", "Speisegeschirr"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003800030",
+    "name": "Tasty Springform strukturiert",
+    "category": "Backzubehör",
+    "subcategories": ["Springform", "Backutensilien", "Kuchenform"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004069528",
+    "name": "Tasty Spritzschutz",
+    "category": "Küchenzubehör",
+    "subcategories": ["Spritzschutz", "Küchenutensilien", "Schutzvorrichtung"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003692895",
+    "name": "Tasty Spülschwamm",
+    "category": "Reinigungsmittel",
+    "subcategories": ["Schwamm", "Haushaltsreinigung", "Spülen"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004022165",
+    "name": "Tasty Tasty Antihaft Kochtopf mit Glasdeckel 20 cm",
+    "category": "Kochgeschirr",
+    "subcategories": ["Kochtopf", "Töpfe", "Antihaft"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003692758",
+    "name": "Tasty Trichter Set 3 teilig",
+    "category": "Küchenzubehör",
+    "subcategories": ["Trichter", "Küchenutensilien", "Flüssigkeitstransfer"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003691980",
+    "name": "Tasty Universalmesser 11,5cm",
+    "category": "Küchenzubehör",
+    "subcategories": ["Universalmesser", "Küchenmesser", "Messer"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003911538",
+    "name": "Tasty Universalmesser 12cm",
+    "category": "Küchenzubehör",
+    "subcategories": ["Universalmesser", "Küchenmesser", "Messer"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003692673",
+    "name": "Tasty Untersetzer Holz Fair 20cm",
+    "category": "Küchenzubehör",
+    "subcategories": ["Untersetzer", "Küchenutensilien", "Hitzeschutz"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003911262",
+    "name": "Tasty Wender 33cm",
+    "category": "Küchenzubehör",
+    "subcategories": ["Wender", "Küchenutensilien", "Kochlöffel"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003690808",
+    "name": "Tasty Wender Fair 30cm Holz",
+    "category": "Küchenzubehör",
+    "subcategories": ["Wender", "Küchenutensilien", "Kochlöffel"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003935701",
+    "name": "Tasty Zitronenpresse mit Trichter",
+    "category": "Küchenzubehör",
+    "subcategories": ["Zitronenpresse", "Küchenutensilien", "Obstpresser"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003698422",
+    "name": "Tasty Zitrusfruchtpresse mit Behälter",
+    "category": "Küchenzubehör",
+    "subcategories": ["Zitrusfruchtpresse", "Küchenutensilien", "Obstpresser"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002560829",
+    "name": "Tefal Authentic Pfanne 28 cm Schwarz",
+    "category": "Kochgeschirr",
+    "subcategories": ["Pfanne", "Töpfe", "Antihaft"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004108838",
+    "name": "Tefal Crepepfanne 25cm Excellence",
+    "category": "Kochgeschirr",
+    "subcategories": ["Pfanne", "Töpfe", "Crepe"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003795251",
+    "name": "Tefal Crepepfanne XL Force 25 cm",
+    "category": "Kochgeschirr",
+    "subcategories": ["Pfanne", "Töpfe", "Crepe"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003764042",
+    "name": "Tefal Daily Chef Pfanne Beschichtet 24cm",
+    "category": "Kochgeschirr",
+    "subcategories": ["Pfanne", "Töpfe", "Beschichtet"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003764059",
+    "name": "Tefal Daily Chef Pfanne Beschichtet 28cm",
+    "category": "Kochgeschirr",
+    "subcategories": ["Pfanne", "Töpfe", "Beschichtet"]
+  },
+  {
+    "store": "spar",
+    "id": "7439728",
+    "name": "Tefal Glasdeckel 24 cm",
+    "category": "Kochgeschirr",
+    "subcategories": ["Glasdeckel", "Töpfe", "Deckel"]
+  },
+  {
+    "store": "spar",
+    "id": "7439735",
+    "name": "Tefal Glasdeckel 28 cm",
+    "category": "Kochgeschirr",
+    "subcategories": ["Glasdeckel", "Töpfe", "Deckel"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003786754",
+    "name": "Tefal Hard Titanium Plus Pfanne 28cm",
+    "category": "Kochgeschirr",
+    "subcategories": ["Pfanne", "Töpfe", "Antihaft"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003039621",
+    "name": "Tefal Jamie Oliver Grillpfanne 27 x 23cm",
+    "category": "Kochgeschirr",
+    "subcategories": ["Grillpfanne", "Töpfe", "Jamie Oliver"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002307202",
+    "name": "Tefal Jamie Oliver Pfanne 20 cm",
+    "category": "Kochgeschirr",
+    "subcategories": ["Pfanne", "Töpfe", "Jamie Oliver"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002307219",
+    "name": "Tefal Jamie Oliver Pfanne 24 cm",
+    "category": "Kochgeschirr",
+    "subcategories": ["Pfanne", "Töpfe", "Jamie Oliver"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002307226",
+    "name": "Tefal Jamie Oliver Pfanne 28 cm",
+    "category": "Kochgeschirr",
+    "subcategories": ["Pfanne", "Töpfe", "Jamie Oliver"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002484484",
+    "name": "Tefal Kontaktgrill GC241D",
+    "category": "Küchengeräte",
+    "subcategories": ["Kontaktgrill", "Grillgeräte", "Elektrogrill"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003349232",
+    "name": "Tefal Kontaktgrill GC242D",
+    "category": "Küchengeräte",
+    "subcategories": ["Kontaktgrill", "Grillgeräte", "Elektrogrill"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003734878",
+    "name": "Tekirdag Gold Series",
+    "category": "Alkohol",
+    "subcategories": ["Whisky", "Spirituosen", "Getränke"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004437693",
+    "name": "Tenuta Friggiali Brunello di Montalcino DOCG 2018",
+    "category": "Wein",
+    "subcategories": ["Rotwein", "Weinsorten", "Italienischer Wein"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004231123",
+    "name": "Tenuta Luce della Vite Lucente Toscana IGT 2020",
+    "category": "Wein",
+    "subcategories": ["Rotwein", "Weinsorten", "Italienischer Wein"]
+  },
+  {
+    "store": "spar",
+    "id": "2020000973171",
+    "name": "Tenute Rubino Punta Aquila Primitivo Salento Rosso IGT 2019",
+    "category": "Wein",
+    "subcategories": ["Rotwein", "Weinsorten", "Italienischer Wein"]
+  },
+  {
+    "store": "spar",
+    "id": "6384234",
+    "name": "Terra Patriae Rotwein Cuvée Reserve 2020",
+    "category": "Wein",
+    "subcategories": ["Rotwein", "Weinsorten", "Österreichischer Wein"]
+  },
+  {
+    "store": "spar",
+    "id": "6383954",
+    "name": "Terra Patriae Zweigelt Reserve 2020",
+    "category": "Wein",
+    "subcategories": ["Rotwein", "Weinsorten", "Österreichischer Wein"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001053186",
+    "name": "Tesch BZ Cuvée Blaufränkisch & Zweigelt 2019",
+    "category": "Wein",
+    "subcategories": ["Rotwein", "Weinsorten", "Österreichischer Wein"]
+  },
+  {
+    "store": "spar",
+    "id": "6889661",
+    "name": "Tesch Blaufränkisch Mittelburgenland DAC Classic 2020",
+    "category": "Wein",
+    "subcategories": ["Rotwein", "Weinsorten", "Österreichischer Wein"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004194152",
+    "name": "Tesch Titan 2019",
+    "category": "Wein",
+    "subcategories": ["Rotwein", "Weinsorten", "Österreichischer Wein"]
+  },
+  {
+    "store": "spar",
+    "id": "6889654",
+    "name": "Tesch Zweigelt Classic 2020",
+    "category": "Wein",
+    "subcategories": ["Rotwein", "Weinsorten", "Österreichischer Wein"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002742546",
+    "name": "Teig für Croissants 6 Stück 340 G",
+    "category": "Backwaren",
+    "subcategories": ["Croissants", "Gebäck", "Bäckerei"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002742669",
+    "name": "Teig für Sonntagsbrötchen 6 Stück 330 G",
+    "category": "Backwaren",
+    "subcategories": ["Brötchen", "Gebäck", "Bäckerei"]
+  },
+  {
+    "store": "spar",
+    "id": "7886874",
+    "name": "Teutoburger Rapskernöl",
+    "category": "Öl",
+    "subcategories": ["Rapsöl", "Speiseöl", "Kochen"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001222186",
+    "name": "Terra Chips Blues",
+    "category": "Snacks",
+    "subcategories": ["Chips", "Knabbereien", "Gemüsesnack"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001222230",
+    "name": "Terra Chips Original Sea Salt",
+    "category": "Snacks",
+    "subcategories": ["Chips", "Knabbereien", "Gemüsesnack"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002815141",
+    "name": "Terra Chips Sweet Potato Sea Salt",
+    "category": "Snacks",
+    "subcategories": ["Chips", "Knabbereien", "Gemüsesnack"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002544430",
+    "name": "Tena Lady Einlagen Maxi 6 Stück",
+    "category": "Hygieneartikel",
+    "subcategories": ["Einlagen", "Damenhygiene", "Monatshygiene"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002544713",
+    "name": "Tena Men Absorbierende Protektoren Level 2 Mittel 10 Stück",
+    "category": "Hygieneartikel",
+    "subcategories": ["Protektoren", "Herrenhygiene", "Inkontinenz"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002544720",
+    "name": "Tena Men Absorbierende Protektoren Level 3 Super 8 Stück",
+    "category": "Hygieneartikel",
+    "subcategories": ["Protektoren", "Herrenhygiene", "Inkontinenz"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002544522",
+    "name": "Tena Men Pants Active Fit Plus / Large 8 Stück",
+    "category": "Hygieneartikel",
+    "subcategories": ["Inkontinenzhosen", "Herrenhygiene", "Inkontinenz"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002544485",
+    "name": "Tena Men Pants Active Fit Plus / Medium 9 Stück",
+    "category": "Hygieneartikel",
+    "subcategories": ["Inkontinenzhosen", "Herrenhygiene", "Inkontinenz"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004027405",
+    "name": "Tena Pants Größe M Plus 9 Stück",
+    "category": "Hygieneartikel",
+    "subcategories": ["Inkontinenzhosen", "Damenhygiene", "Inkontinenz"]
+  },
+  {
+    "store": "spar",
+    "id": "1405422",
+    "name": "Tena Pants Plus Large 8 Stück",
+    "category": "Hygieneartikel",
+    "subcategories": ["Inkontinenzhosen", "Damenhygiene", "Inkontinenz"]
+  },
+  {
+    "store": "spar",
+    "id": "1405323",
+    "name": "Tena Pants Plus Medium 9 Stück",
+    "category": "Hygieneartikel",
+    "subcategories": ["Inkontinenzhosen", "Damenhygiene", "Inkontinenz"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002543785",
+    "name": "Tena Pants Super / Large 12 Stück",
+    "category": "Hygieneartikel",
+    "subcategories": ["Inkontinenzhosen", "Damenhygiene", "Inkontinenz"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002543747",
+    "name": "Tena Pants Super / Medium 12 Stück",
+    "category": "Hygieneartikel",
+    "subcategories": ["Inkontinenzhosen", "Damenhygiene", "Inkontinenz"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004232120",
+    "name": "Tena dailies Slipeinlagen extra long 20 Stück",
+    "category": "Hygieneartikel",
+    "subcategories": ["Slipeinlagen", "Damenhygiene", "Tägliche Hygiene"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004232113",
+    "name": "Tena dailies Slipeinlagen long 22 Stück",
+    "category": "Hygieneartikel",
+    "subcategories": ["Slipeinlagen", "Damenhygiene", "Tägliche Hygiene"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004232090",
+    "name": "Tena dailies Slipeinlagen normal 24 Stück",
+    "category": "Hygieneartikel",
+    "subcategories": ["Slipeinlagen", "Damenhygiene", "Tägliche Hygiene"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001736218",
+    "name": "Tena discreet Einlagen Normal 12 Stück",
+    "category": "Hygieneartikel",
+    "subcategories": ["Einlagen", "Damenhygiene", "Diskrete Einlagen"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001736089",
+    "name": "Tena discreet Einlagen Ultra / Mini 20 Stück",
+    "category": "Hygieneartikel",
+    "subcategories": ["Einlagen", "Damenhygiene", "Diskrete Einlagen"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004390950",
+    "name": "Tena discreet Einlagen Ultra / Normal 16 Stück",
+    "category": "Hygieneartikel",
+    "subcategories": ["Einlagen", "Damenhygiene", "Diskrete Einlagen"]
+  },
+  {
+    "store": "spar",
+    "id": "8184696",
+    "name": "Tena discreet Einlagen+ Extra 10 Stück",
+    "category": "Hygieneartikel",
+    "subcategories": ["Einlagen", "Damenhygiene", "Diskrete Einlagen"]
+  },
+  {
+    "store": "spar",
+    "id": "5925209",
+    "name": "Tena discreet Einlagen+ Extra Plus 8 Stück",
+    "category": "Hygieneartikel",
+    "subcategories": ["Einlagen", "Damenhygiene", "Diskrete Einlagen"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004027788",
+    "name": "Tena discreet Nacht Einlagen Maxi Night 6 Stück",
+    "category": "Hygieneartikel",
+    "subcategories": ["Einlagen", "Damenhygiene", "Nachteinlagen"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004027764",
+    "name": "Tena discreet Nacht Einlagen Normal Night 10 Stück",
+    "category": "Hygieneartikel",
+    "subcategories": ["Einlagen", "Damenhygiene", "Nachteinlagen"]
+  },
+  {
+    "store": "spar",
+    "id": "8185655",
+    "name": "Tena discreet Slipeinlagen Ultra Mini 28 Stück",
+    "category": "Hygieneartikel",
+    "subcategories": ["Slipeinlagen", "Damenhygiene", "Diskrete Einlagen"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004027504",
+    "name": "Tena discreet Slipeinlagen Ultra Mini Plus 24 Stück",
+    "category": "Hygieneartikel",
+    "subcategories": ["Slipeinlagen", "Damenhygiene", "Diskrete Einlagen"]
+  },
+  {
+    "store": "spar",
+    "id": "4897880",
+    "name": "Tesa Film Hand einreissbar 1 Stück 25m x 19mm",
+    "category": "Bürobedarf",
+    "subcategories": ["Klebeband", "Verpackungsmaterial", "Handabroller"]
+  },
+  {
+    "store": "spar",
+    "id": "4018179",
+    "name": "Tesa Haushaltsroller Nachfüllung 1 Stk",
+    "category": "Bürobedarf",
+    "subcategories": ["Klebeband", "Verpackungsmaterial", "Kleberolle"]
+  },
+  {
+    "store": "spar",
+    "id": "6558666",
+    "name": "Tesa Klebeband Abroller, doppelseitig",
+    "category": "Bürobedarf",
+    "subcategories": ["Klebeband", "Verpackungsmaterial", "Klebebandabroller"]
+  },
+  {
+    "store": "spar",
+    "id": "8067609",
+    "name": "Tesa Klebeband Nachfüllung Eco & clear 2 Rollen 10m x 19 mm",
+    "category": "Bürobedarf",
+    "subcategories": ["Klebeband", "Verpackungsmaterial", "Kleberolle"]
+  },
+  {
+    "store": "spar",
+    "id": "3142813",
+    "name": "Tesa Klebeband Nachfüllung Transparent 1 Rolle 33m x 15 mm",
+    "category": "Bürobedarf",
+    "subcategories": ["Klebeband", "Verpackungsmaterial", "Kleberolle"]
+  },
+  {
+    "store": "spar",
+    "id": "5920044",
+    "name": "Tesa Klebeband doppelseitig 10m x 50mm",
+    "category": "Bürobedarf",
+    "subcategories": [
+      "Klebeband",
+      "Verpackungsmaterial",
+      "Doppelseitiges Klebeband"
+    ]
+  },
+  {
+    "store": "spar",
+    "id": "6558673",
+    "name": "Tesa Klebeband doppelseitig 2 Stück",
+    "category": "Bürobedarf",
+    "subcategories": [
+      "Klebeband",
+      "Verpackungsmaterial",
+      "Doppelseitiges Klebeband"
+    ]
+  },
+  {
+    "store": "spar",
+    "id": "2904610",
+    "name": "Tesa Klebeband doppelseitig transparent",
+    "category": "Bürobedarf",
+    "subcategories": [
+      "Klebeband",
+      "Verpackungsmaterial",
+      "Doppelseitiges Klebeband"
+    ]
+  },
+  {
+    "store": "spar",
+    "id": "2020000429418",
+    "name": "Tesa Kleberoller Permanent 2x 6m x 5mm",
+    "category": "Bürobedarf",
+    "subcategories": ["Kleberoller", "Verpackungsmaterial", "Klebebandabroller"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002386764",
+    "name": "Tesa Klebestift 2 x 20g",
+    "category": "Bürobedarf",
+    "subcategories": ["Klebestift", "Kleber", "Bastelbedarf"]
+  }
+]

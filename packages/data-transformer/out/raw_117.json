@@ -1,0 +1,863 @@
+[
+  {
+    "store": "billa",
+    "id": "00-744488",
+    "name": "Dreamies Mix mit köstlichem Käse & leckerem Rind",
+    "category": "Leckerlis",
+    "subcategories": ["Snacks", "Belohnungen", "Katzenleckerlis"]
+  },
+  {
+    "store": "billa",
+    "id": "00-743887",
+    "name": "Dreamies Mix mit leckerem Huhn & köstlicher Ente",
+    "category": "Leckerlis",
+    "subcategories": ["Snacks", "Belohnungen", "Katzenleckerlis"]
+  },
+  {
+    "store": "billa",
+    "id": "00-467579",
+    "name": "Dreamies mit Huhn Megapack",
+    "category": "Leckerlis",
+    "subcategories": ["Snacks", "Belohnungen", "Katzenleckerlis"]
+  },
+  {
+    "store": "billa",
+    "id": "00-656358",
+    "name": "Dreamies mit Käse",
+    "category": "Leckerlis",
+    "subcategories": ["Snacks", "Belohnungen", "Katzenleckerlis"]
+  },
+  {
+    "store": "billa",
+    "id": "00-656353",
+    "name": "Dreamies mit leckerem Huhn",
+    "category": "Leckerlis",
+    "subcategories": ["Snacks", "Belohnungen", "Katzenleckerlis"]
+  },
+  {
+    "store": "billa",
+    "id": "00-762867",
+    "name": "Felix Crunchy & Soft Lachs, Thunfisch & Gemüse",
+    "category": "Fertigfutter",
+    "subcategories": ["Nassfutter", "Fisch", "Fleisch", "Katzenfutter"]
+  },
+  {
+    "store": "billa",
+    "id": "00-762858",
+    "name": "Felix Crunchy & Soft Rind, Huhn & Gemüse",
+    "category": "Fertigfutter",
+    "subcategories": ["Nassfutter", "Fleisch", "Gemüse", "Katzenfutter"]
+  },
+  {
+    "store": "billa",
+    "id": "00-353072",
+    "name": "Felix Doppelt Lecker Fisch 12er",
+    "category": "Fertigfutter",
+    "subcategories": ["Nassfutter", "Fisch", "Katzenfutter"]
+  },
+  {
+    "store": "billa",
+    "id": "00-353194",
+    "name": "Felix Doppelt Lecker Fleisch 12er",
+    "category": "Fertigfutter",
+    "subcategories": ["Nassfutter", "Fleisch", "Katzenfutter"]
+  },
+  {
+    "store": "billa",
+    "id": "00-353065",
+    "name": "Felix Junior Fleisch 12er",
+    "category": "Fertigfutter",
+    "subcategories": ["Nassfutter", "Fleisch", "Katzenfutter", "Junior"]
+  },
+  {
+    "store": "billa",
+    "id": "00-724606",
+    "name": "Felix Knabber Mix Grillspaß",
+    "category": "Leckerlis",
+    "subcategories": ["Snacks", "Belohnungen", "Katzenleckerlis"]
+  },
+  {
+    "store": "billa",
+    "id": "00-724604",
+    "name": "Felix Knabber Mix Original",
+    "category": "Leckerlis",
+    "subcategories": ["Snacks", "Belohnungen", "Katzenleckerlis"]
+  },
+  {
+    "store": "billa",
+    "id": "00-724605",
+    "name": "Felix KnabberMix Strandspaß",
+    "category": "Leckerlis",
+    "subcategories": ["Snacks", "Belohnungen", "Katzenleckerlis"]
+  },
+  {
+    "store": "billa",
+    "id": "00-647839",
+    "name": "Felix Meaty Sensations mit Rind, Huhn und Gemüsezugabe",
+    "category": "Fertigfutter",
+    "subcategories": ["Trockenfutter", "Fleisch", "Gemüse", "Katzenfutter"]
+  },
+  {
+    "store": "billa",
+    "id": "00-293394",
+    "name": "Felix Mini-Filetti Huhn & Rind",
+    "category": "Fertigfutter",
+    "subcategories": ["Nassfutter", "Fleisch", "Katzenfutter", "Kleinportionen"]
+  },
+  {
+    "store": "billa",
+    "id": "00-382071",
+    "name": "Felix Play Tubes Huhn & Leber",
+    "category": "Snacks",
+    "subcategories": ["Leckerlis", "Knabbereien", "Katzenleckerlis"]
+  },
+  {
+    "store": "billa",
+    "id": "00-353059",
+    "name": "Felix Sensations Crunchy Fleisch 10er + Topping",
+    "category": "Fertigfutter",
+    "subcategories": ["Nassfutter", "Fleisch", "Katzenfutter"]
+  },
+  {
+    "store": "billa",
+    "id": "00-353051",
+    "name": "Felix Sensations Crunchy Fleisch 20er + Topping",
+    "category": "Fertigfutter",
+    "subcategories": ["Nassfutter", "Fleisch", "Katzenfutter"]
+  },
+  {
+    "store": "billa",
+    "id": "00-353024",
+    "name": "Felix Sensations Extras Fleisch 12er",
+    "category": "Fertigfutter",
+    "subcategories": ["Nassfutter", "Fleisch", "Katzenfutter"]
+  },
+  {
+    "store": "billa",
+    "id": "00-354299",
+    "name": "Felix Sensations Gelees Fleisch 12er",
+    "category": "Fertigfutter",
+    "subcategories": ["Nassfutter", "Fleisch", "Katzenfutter"]
+  },
+  {
+    "store": "billa",
+    "id": "00-353195",
+    "name": "Felix Sensations Gelees Mixed 12er",
+    "category": "Fertigfutter",
+    "subcategories": ["Nassfutter", "Katzenfutter"]
+  },
+  {
+    "store": "billa",
+    "id": "00-353069",
+    "name": "Felix Sensations Saucen Fisch 12er",
+    "category": "Fertigfutter",
+    "subcategories": ["Nassfutter", "Fisch", "Katzenfutter"]
+  },
+  {
+    "store": "billa",
+    "id": "00-353928",
+    "name": "Felix Sensations Saucen Fleisch 12er",
+    "category": "Fertigfutter",
+    "subcategories": ["Nassfutter", "Fleisch", "Katzenfutter"]
+  },
+  {
+    "store": "billa",
+    "id": "00-353062",
+    "name": "Felix So gut wie es aussieht Fisch 12er",
+    "category": "Fertigfutter",
+    "subcategories": ["Nassfutter", "Fisch", "Katzenfutter"]
+  },
+  {
+    "store": "billa",
+    "id": "00-353994",
+    "name": "Felix So gut wie es aussieht Fisch 24er",
+    "category": "Fertigfutter",
+    "subcategories": ["Nassfutter", "Fisch", "Katzenfutter"]
+  },
+  {
+    "store": "billa",
+    "id": "00-353070",
+    "name": "Felix So gut wie es aussieht Fleisch 12er",
+    "category": "Fertigfutter",
+    "subcategories": ["Nassfutter", "Fleisch", "Katzenfutter"]
+  },
+  {
+    "store": "billa",
+    "id": "00-353006",
+    "name": "Felix So gut wie es aussieht Fleisch 24er",
+    "category": "Fertigfutter",
+    "subcategories": ["Nassfutter", "Fleisch", "Katzenfutter"]
+  },
+  {
+    "store": "billa",
+    "id": "00-353196",
+    "name": "Felix So gut wie es aussieht Gemüse 24er",
+    "category": "Fertigfutter",
+    "subcategories": ["Nassfutter", "Gemüse", "Katzenfutter"]
+  },
+  {
+    "store": "billa",
+    "id": "00-353927",
+    "name": "Felix So gut wie es aussieht mit Gemüse 12er",
+    "category": "Fertigfutter",
+    "subcategories": ["Nassfutter", "Gemüse", "Katzenfutter"]
+  },
+  {
+    "store": "billa",
+    "id": "00-291981",
+    "name": "Felix Soup Geschmacksvielfalt vom Land",
+    "category": "Fertigfutter",
+    "subcategories": ["Nassfutter", "Suppen", "Katzenfutter"]
+  },
+  {
+    "store": "billa",
+    "id": "00-394292",
+    "name": "Felix Tasty Shreds Fleisch",
+    "category": "Fertigfutter",
+    "subcategories": ["Nassfutter", "Fleisch", "Katzenfutter"]
+  },
+  {
+    "store": "billa",
+    "id": "00-693872",
+    "name": "Gourmet A la Carte Mix",
+    "category": "Fertigfutter",
+    "subcategories": ["Nassfutter", "Mix", "Katzenfutter"]
+  },
+  {
+    "store": "billa",
+    "id": "00-668027",
+    "name": "Gourmet Gold Feine Komposition",
+    "category": "Fertigfutter",
+    "subcategories": ["Nassfutter", "Kompositionen", "Katzenfutter"]
+  },
+  {
+    "store": "billa",
+    "id": "00-913387",
+    "name": "Gourmet Gold Feine Komposition Ente & Truthahn",
+    "category": "Fertigfutter",
+    "subcategories": [
+      "Nassfutter",
+      "Kompositionen",
+      "Geflügel",
+      "Ente",
+      "Truthahn",
+      "Katzenfutter"
+    ]
+  },
+  {
+    "store": "billa",
+    "id": "00-905515",
+    "name": "Gourmet Gold Feine Komposition mit Rind und Huhn",
+    "category": "Fertigfutter",
+    "subcategories": [
+      "Nassfutter",
+      "Kompositionen",
+      "Fleisch",
+      "Rind",
+      "Huhn",
+      "Katzenfutter"
+    ]
+  },
+  {
+    "store": "billa",
+    "id": "00-818674",
+    "name": "Gourmet Gold Feine Pastete 8 Dosen",
+    "category": "Fertigfutter",
+    "subcategories": ["Nassfutter", "Pasteten", "Katzenfutter"]
+  },
+  {
+    "store": "billa",
+    "id": "00-408653",
+    "name": "Gourmet Gold Feine Pastete mit Huhn",
+    "category": "Fertigfutter",
+    "subcategories": ["Nassfutter", "Pasteten", "Huhn", "Katzenfutter"]
+  },
+  {
+    "store": "billa",
+    "id": "00-429423",
+    "name": "Gourmet Gold Feine Pastete mit Thunfisch",
+    "category": "Fertigfutter",
+    "subcategories": ["Nassfutter", "Pasteten", "Fisch", "Katzenfutter"]
+  },
+  {
+    "store": "billa",
+    "id": "00-408645",
+    "name": "Gourmet Gold Feine Pastete mit Truthahn",
+    "category": "Fertigfutter",
+    "subcategories": [
+      "Nassfutter",
+      "Pasteten",
+      "Geflügel",
+      "Truthahn",
+      "Katzenfutter"
+    ]
+  },
+  {
+    "store": "billa",
+    "id": "00-200001",
+    "name": "Gourmet Gold Häppchen Kalb & Gemüse",
+    "category": "Fertigfutter",
+    "subcategories": [
+      "Nassfutter",
+      "Häppchen",
+      "Gemüse",
+      "Kalb",
+      "Katzenfutter"
+    ]
+  },
+  {
+    "store": "billa",
+    "id": "00-965583",
+    "name": "Gourmet Gold Pastete Gemüse Forelle",
+    "category": "Fertigfutter",
+    "subcategories": [
+      "Nassfutter",
+      "Pasteten",
+      "Gemüse",
+      "Fisch",
+      "Forelle",
+      "Katzenfutter"
+    ]
+  },
+  {
+    "store": "billa",
+    "id": "00-481451",
+    "name": "Gourmet Gold Raffiniertes Ragout",
+    "category": "Fertigfutter",
+    "subcategories": ["Nassfutter", "Ragout", "Katzenfutter"]
+  },
+  {
+    "store": "billa",
+    "id": "00-479681",
+    "name": "Gourmet Gold Raffiniertes Ragout Duetto Rind & Huhn",
+    "category": "Fertigfutter",
+    "subcategories": [
+      "Nassfutter",
+      "Ragout",
+      "Fleisch",
+      "Rind",
+      "Huhn",
+      "Katzenfutter"
+    ]
+  },
+  {
+    "store": "billa",
+    "id": "00-479675",
+    "name": "Gourmet Gold Raffiniertes Ragout Huhn",
+    "category": "Fertigfutter",
+    "subcategories": ["Nassfutter", "Ragout", "Huhn", "Katzenfutter"]
+  },
+  {
+    "store": "billa",
+    "id": "00-479785",
+    "name": "Gourmet Gold Raffiniertes Ragout Thunfisch",
+    "category": "Fertigfutter",
+    "subcategories": [
+      "Nassfutter",
+      "Ragout",
+      "Fisch",
+      "Thunfisch",
+      "Katzenfutter"
+    ]
+  },
+  {
+    "store": "billa",
+    "id": "00-480679",
+    "name": "Gourmet Gold Raffiniertes Ragout mit Rind",
+    "category": "Fertigfutter",
+    "subcategories": ["Nassfutter", "Ragout", "Fleisch", "Rind", "Katzenfutter"]
+  },
+  {
+    "store": "billa",
+    "id": "00-719429",
+    "name": "Gourmet Gold Saftig-feine Streifen",
+    "category": "Fertigfutter",
+    "subcategories": ["Nassfutter", "Streifen", "Katzenfutter"]
+  },
+  {
+    "store": "billa",
+    "id": "00-382075",
+    "name": "Gourmet Gold Schmelzender Kern mit Huhn",
+    "category": "Fertigfutter",
+    "subcategories": ["Nassfutter", "Schmelzender Kern", "Huhn", "Katzenfutter"]
+  },
+  {
+    "store": "billa",
+    "id": "00-861449",
+    "name": "Gourmet Gold Zarte Häppchen",
+    "category": "Fertigfutter",
+    "subcategories": ["Nassfutter", "Häppchen", "Katzenfutter"]
+  },
+  {
+    "store": "billa",
+    "id": "00-421646",
+    "name": "Gourmet Gold Zarte Häppchen mit Huhn & Leber",
+    "category": "Fertigfutter",
+    "subcategories": [
+      "Nassfutter",
+      "Häppchen",
+      "Geflügel",
+      "Huhn",
+      "Leber",
+      "Katzenfutter"
+    ]
+  },
+  {
+    "store": "billa",
+    "id": "00-408644",
+    "name": "Gourmet Gold Zarte Häppchen mit Lachs und Huhn",
+    "category": "Fertigfutter",
+    "subcategories": [
+      "Nassfutter",
+      "Häppchen",
+      "Fisch",
+      "Lachs",
+      "Huhn",
+      "Katzenfutter"
+    ]
+  },
+  {
+    "store": "billa",
+    "id": "00-382080",
+    "name": "Gourmet Gold schmelz. Kern mit Lachs",
+    "category": "Fertigfutter",
+    "subcategories": [
+      "Nassfutter",
+      "Schmelzender Kern",
+      "Fisch",
+      "Lachs",
+      "Katzenfutter"
+    ]
+  },
+  {
+    "store": "billa",
+    "id": "00-382079",
+    "name": "Gourmet Gold schmelzender Kern mit Rind",
+    "category": "Fertigfutter",
+    "subcategories": [
+      "Nassfutter",
+      "Schmelzender Kern",
+      "Fleisch",
+      "Rind",
+      "Katzenfutter"
+    ]
+  },
+  {
+    "store": "billa",
+    "id": "00-473976",
+    "name": "Gourmet Mon Petit Duetti Fleisch & Fisch",
+    "category": "Fertigfutter",
+    "subcategories": [
+      "Nassfutter",
+      "Duetto",
+      "Fleisch",
+      "Fisch",
+      "Katzenfutter"
+    ]
+  },
+  {
+    "store": "billa",
+    "id": "00-855144",
+    "name": "Gourmet Mon Petit Fleisch",
+    "category": "Fertigfutter",
+    "subcategories": ["Nassfutter", "Fleisch", "Katzenfutter"]
+  },
+  {
+    "store": "billa",
+    "id": "00-855173",
+    "name": "Gourmet Mon Petit Geflügel",
+    "category": "Fertigfutter",
+    "subcategories": ["Nassfutter", "Geflügel", "Katzenfutter"]
+  },
+  {
+    "store": "billa",
+    "id": "00-855222",
+    "name": "Gourmet Mon Petit mit Fisch",
+    "category": "Fertigfutter",
+    "subcategories": ["Nassfutter", "Fisch", "Katzenfutter"]
+  },
+  {
+    "store": "billa",
+    "id": "00-473966",
+    "name": "Gourmet Mon Petit mit Fleisch",
+    "category": "Fertigfutter",
+    "subcategories": ["Nassfutter", "Fleisch", "Katzenfutter"]
+  },
+  {
+    "store": "billa",
+    "id": "00-611136",
+    "name": "Gourmet Perle Erlesene Streifen",
+    "category": "Fertigfutter",
+    "subcategories": ["Nassfutter", "Streifen", "Katzenfutter"]
+  },
+  {
+    "store": "billa",
+    "id": "00-833523",
+    "name": "Gourmet Perle Erlesene Streifen mit Huhn",
+    "category": "Fertigfutter",
+    "subcategories": [
+      "Nassfutter",
+      "Streifen",
+      "Geflügel",
+      "Huhn",
+      "Katzenfutter"
+    ]
+  },
+  {
+    "store": "billa",
+    "id": "00-869437",
+    "name": "Gourmet Perle Erlesene Streifen mit Kaninchen",
+    "category": "Fertigfutter",
+    "subcategories": ["Nassfutter", "Streifen", "Kaninchen", "Katzenfutter"]
+  },
+  {
+    "store": "billa",
+    "id": "00-904825",
+    "name": "Gourmet Perle Erlesene Streifen mit Truthahn",
+    "category": "Fertigfutter",
+    "subcategories": [
+      "Nassfutter",
+      "Streifen",
+      "Geflügel",
+      "Truthahn",
+      "Katzenfutter"
+    ]
+  },
+  {
+    "store": "billa",
+    "id": "00-611148",
+    "name": "Gourmet Perle Exotic",
+    "category": "Fertigfutter",
+    "subcategories": ["Nassfutter", "Exotisches", "Katzenfutter"]
+  },
+  {
+    "store": "billa",
+    "id": "00-938858",
+    "name": "Gourmet Perle Genuss in Sauce",
+    "category": "Fertigfutter",
+    "subcategories": ["Nassfutter", "Saucen", "Katzenfutter"]
+  },
+  {
+    "store": "billa",
+    "id": "00-509022",
+    "name": "Gourmet Revelations Huhn",
+    "category": "Fertigfutter",
+    "subcategories": ["Nassfutter", "Huhn", "Katzenfutter"]
+  },
+  {
+    "store": "billa",
+    "id": "00-509021",
+    "name": "Gourmet Revelations Rind",
+    "category": "Fertigfutter",
+    "subcategories": ["Nassfutter", "Rind", "Katzenfutter"]
+  },
+  {
+    "store": "billa",
+    "id": "00-745924",
+    "name": "Grain Cat Naturklumpstreu",
+    "category": "Katzenstreu",
+    "subcategories": ["Klumpstreu", "Naturklumpstreu"]
+  },
+  {
+    "store": "billa",
+    "id": "00-545140",
+    "name": "Hof Cat Bio Fisch",
+    "category": "Fertigfutter",
+    "subcategories": ["Bio", "Nassfutter", "Fisch", "Katzenfutter"]
+  },
+  {
+    "store": "billa",
+    "id": "00-859743",
+    "name": "Hof Cat Bio Geflügel",
+    "category": "Fertigfutter",
+    "subcategories": ["Bio", "Nassfutter", "Geflügel", "Katzenfutter"]
+  },
+  {
+    "store": "billa",
+    "id": "00-938613",
+    "name": "Hof Cat Bio Kalb",
+    "category": "Fertigfutter",
+    "subcategories": ["Bio", "Nassfutter", "Kalb", "Katzenfutter"]
+  },
+  {
+    "store": "billa",
+    "id": "00-859744",
+    "name": "Hof Cat Bio Rind",
+    "category": "Fertigfutter",
+    "subcategories": ["Bio", "Nassfutter", "Rind", "Katzenfutter"]
+  },
+  {
+    "store": "billa",
+    "id": "00-381847",
+    "name": "Perfect Fit Adult 1+ 4er",
+    "category": "Fertigfutter",
+    "subcategories": ["Nassfutter", "Adult", "1+", "Katzenfutter"]
+  },
+  {
+    "store": "billa",
+    "id": "00-254037",
+    "name": "Perfect Fit Indoor 1+ 4er",
+    "category": "Fertigfutter",
+    "subcategories": ["Nassfutter", "Indoor", "1+", "Katzenfutter"]
+  },
+  {
+    "store": "billa",
+    "id": "00-278558",
+    "name": "Perfect Fit Senior 7+ 4er",
+    "category": "Fertigfutter",
+    "subcategories": ["Nassfutter", "Senior", "7+", "Katzenfutter"]
+  },
+  {
+    "store": "billa",
+    "id": "00-871851",
+    "name": "Perfect Fit Senior 7+ Reich an Huhn",
+    "category": "Fertigfutter",
+    "subcategories": ["Nassfutter", "Senior", "7+", "Huhn", "Katzenfutter"]
+  },
+  {
+    "store": "billa",
+    "id": "00-254046",
+    "name": "Perfect Fit Sensitive 1+ 4er",
+    "category": "Fertigfutter",
+    "subcategories": ["Nassfutter", "Sensitive", "1+", "Katzenfutter"]
+  },
+  {
+    "store": "billa",
+    "id": "00-902706",
+    "name": "Perfect Fit Sensitive 1+ Trocken Reich an Truthahn",
+    "category": "Trockenfutter",
+    "subcategories": ["Sensitive", "1+", "Reich an Truthahn", "Katzenfutter"]
+  },
+  {
+    "store": "billa",
+    "id": "00-872460",
+    "name": "Purina One Adult Huhn & grüne Bohnen",
+    "category": "Fertigfutter",
+    "subcategories": ["Nassfutter", "Adult", "Huhn", "Gemüse", "Katzenfutter"]
+  },
+  {
+    "store": "billa",
+    "id": "00-346335",
+    "name": "Purina One Adult Reich an Lachs",
+    "category": "Fertigfutter",
+    "subcategories": ["Nassfutter", "Adult", "Fisch", "Lachs", "Katzenfutter"]
+  },
+  {
+    "store": "billa",
+    "id": "00-872451",
+    "name": "Purina One Adult mit Hochseefisch & Grünen Bohnen 4er",
+    "category": "Fertigfutter",
+    "subcategories": [
+      "Nassfutter",
+      "Adult",
+      "Hochseefisch",
+      "Gemüse",
+      "Katzenfutter"
+    ]
+  },
+  {
+    "store": "billa",
+    "id": "00-347144",
+    "name": "Purina One Adult mit Rind & Karotten 4er",
+    "category": "Fertigfutter",
+    "subcategories": ["Nassfutter", "Adult", "Rind", "Gemüse", "Katzenfutter"]
+  },
+  {
+    "store": "billa",
+    "id": "00-382085",
+    "name": "Purina One Junior Lachs & Karotten 4er",
+    "category": "Fertigfutter",
+    "subcategories": ["Nassfutter", "Junior", "Fisch", "Gemüse", "Katzenfutter"]
+  },
+  {
+    "store": "billa",
+    "id": "00-700477",
+    "name": "Purina One Junior Reich an Huhn",
+    "category": "Fertigfutter",
+    "subcategories": ["Nassfutter", "Junior", "Huhn", "Katzenfutter"]
+  },
+  {
+    "store": "billa",
+    "id": "00-293462",
+    "name": "Purina One Senior 7+",
+    "category": "Fertigfutter",
+    "subcategories": ["Nassfutter", "Senior", "7+", "Katzenfutter"]
+  },
+  {
+    "store": "billa",
+    "id": "00-580397",
+    "name": "Purina One Sensitive Huhn & Karotten",
+    "category": "Fertigfutter",
+    "subcategories": [
+      "Nassfutter",
+      "Sensitive",
+      "Huhn",
+      "Gemüse",
+      "Katzenfutter"
+    ]
+  },
+  {
+    "store": "billa",
+    "id": "00-872458",
+    "name": "Purina One Sterilcat Lachs & Karotten",
+    "category": "Fertigfutter",
+    "subcategories": [
+      "Nassfutter",
+      "Sterilcat",
+      "Fisch",
+      "Gemüse",
+      "Katzenfutter"
+    ]
+  },
+  {
+    "store": "billa",
+    "id": "00-916609",
+    "name": "Sheba Classic Soup mit Hühnchenbrustfilets",
+    "category": "Fertigfutter",
+    "subcategories": ["Nassfutter", "Suppen", "Hühnchen", "Katzenfutter"]
+  },
+  {
+    "store": "billa",
+    "id": "00-916612",
+    "name": "Sheba Classic Soup mit Thunfischfilets",
+    "category": "Fertigfutter",
+    "subcategories": [
+      "Nassfutter",
+      "Suppen",
+      "Fisch",
+      "Thunfisch",
+      "Katzenfutter"
+    ]
+  },
+  {
+    "store": "billa",
+    "id": "00-287463",
+    "name": "Sheba Classics in Pastete mit Kalb & Huhn",
+    "category": "Fertigfutter",
+    "subcategories": ["Nassfutter", "Pasteten", "Kalb", "Huhn", "Katzenfutter"]
+  },
+  {
+    "store": "billa",
+    "id": "00-537037",
+    "name": "Sheba Classics in Pastete mit Lachs",
+    "category": "Fertigfutter",
+    "subcategories": [
+      "Nassfutter",
+      "Pasteten",
+      "Fisch",
+      "Lachs",
+      "Katzenfutter"
+    ]
+  },
+  {
+    "store": "billa",
+    "id": "00-354813",
+    "name": "Sheba Craft Collection Pastete mit Geflügel",
+    "category": "Fertigfutter",
+    "subcategories": ["Nassfutter", "Pasteten", "Geflügel", "Katzenfutter"]
+  },
+  {
+    "store": "billa",
+    "id": "00-761476",
+    "name": "Sheba Delikatesse in Gelee Feine Vielfalt 4-Pack",
+    "category": "Fertigfutter",
+    "subcategories": ["Nassfutter", "Gelee", "Katzenfutter"]
+  },
+  {
+    "store": "billa",
+    "id": "00-286872",
+    "name": "Sheba Delikatesse in Gelee Geflügel Variation 12er",
+    "category": "Fertigfutter",
+    "subcategories": ["Nassfutter", "Gelee", "Geflügel", "Katzenfutter"]
+  },
+  {
+    "store": "billa",
+    "id": "00-287502",
+    "name": "Sheba Delikatesse in Gelee Geschnetzeltes mit Huhn",
+    "category": "Fertigfutter",
+    "subcategories": [
+      "Nassfutter",
+      "Gelee",
+      "Geschnetzeltes",
+      "Huhn",
+      "Katzenfutter"
+    ]
+  },
+  {
+    "store": "billa",
+    "id": "00-287539",
+    "name": "Sheba Empfehlung der Saison",
+    "category": "Fertigfutter",
+    "subcategories": ["Nassfutter", "Saison", "Katzenfutter"]
+  },
+  {
+    "store": "billa",
+    "id": "00-479695",
+    "name": "Sheba Fresh Cuisine Taste of Rome",
+    "category": "Fertigfutter",
+    "subcategories": [
+      "Nassfutter",
+      "Fresh Cuisine",
+      "Italienisch",
+      "Katzenfutter"
+    ]
+  },
+  {
+    "store": "billa",
+    "id": "00-479697",
+    "name": "Sheba Fresh&Fine in Sauce mit Huhn & Lachs",
+    "category": "Fertigfutter",
+    "subcategories": [
+      "Nassfutter",
+      "Fine",
+      "Saucen",
+      "Huhn",
+      "Fisch",
+      "Lachs",
+      "Katzenfutter"
+    ]
+  },
+  {
+    "store": "billa",
+    "id": "00-479691",
+    "name": "Sheba Fresh&Fine in Sauce mit Huhn & Truthahn",
+    "category": "Fertigfutter",
+    "subcategories": [
+      "Nassfutter",
+      "Fine",
+      "Saucen",
+      "Geflügel",
+      "Huhn",
+      "Truthahn",
+      "Katzenfutter"
+    ]
+  },
+  {
+    "store": "billa",
+    "id": "00-287396",
+    "name": "Sheba Putenhäppchen in Sauce",
+    "category": "Fertigfutter",
+    "subcategories": [
+      "Nassfutter",
+      "Saucen",
+      "Geflügel",
+      "Pute",
+      "Häppchen",
+      "Katzenfutter"
+    ]
+  },
+  {
+    "store": "billa",
+    "id": "00-287569",
+    "name": "Sheba Sauce Spéciale mit Truthahn und Gemüse",
+    "category": "Fertigfutter",
+    "subcategories": [
+      "Nassfutter",
+      "Saucen",
+      "Geflügel",
+      "Truthahn",
+      "Gemüse",
+      "Katzenfutter"
+    ]
+  }
+]

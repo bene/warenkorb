@@ -1,0 +1,702 @@
+[
+  {
+    "store": "spar",
+    "id": "2020003980893",
+    "name": "die Ohne veganes Hühnerfilet nach Art Hühnerfilet mariniert",
+    "category": "Fleischersatz",
+    "subcategory": ["veganes Hühnerfilet"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003980930",
+    "name": "die Ohne veganes Steak nach Art Rindersteak BBQ",
+    "category": "Fleischersatz",
+    "subcategory": ["veganes Steak"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004645944",
+    "name": "planted Bratwurst Kräuter 2x90g",
+    "category": "Fleischersatz",
+    "subcategory": ["Bratwurst"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003691119",
+    "name": "planted Chicken Güggeli Kräuter & Zitrone",
+    "category": "Fleischersatz",
+    "subcategory": ["Chicken Güggeli"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003691133",
+    "name": "planted Chicken Natur",
+    "category": "Fleischersatz",
+    "subcategory": ["Chicken"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004214188",
+    "name": "planted Grillspiess BBQ chicken Grillspiess Kräuter 200g",
+    "category": "Fleischersatz",
+    "subcategory": ["Grillspiess", "BBQ chicken"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004302267",
+    "name": "planted Schnitzel 220g",
+    "category": "Fleischersatz",
+    "subcategory": ["Schnitzel"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004019189",
+    "name": "planted kebab",
+    "category": "Fleischersatz",
+    "subcategory": ["kebab"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003843563",
+    "name": "planted pulled Barbecue",
+    "category": "Fleischersatz",
+    "subcategory": ["pulled Barbecue"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004019196",
+    "name": "planted pulled Chimichurri",
+    "category": "Fleischersatz",
+    "subcategory": ["pulled Chimichurri"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004092137",
+    "name": "minimelts Ice Cream Balls Banana 72g Packung",
+    "category": "Eis",
+    "subcategory": ["Ice Cream Balls", "Banana"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004092120",
+    "name": "minimelts Ice Cream Balls Cherry 72g Packung",
+    "category": "Eis",
+    "subcategory": ["Ice Cream Balls", "Cherry"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004092090",
+    "name": "minimelts Ice Cream Balls Mango",
+    "category": "Eis",
+    "subcategory": ["Ice Cream Balls", "Mango"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003547539",
+    "name": "easyVEGAN Linsen-Burger mit Walnüssen 2 Stück à 90g",
+    "category": "Fleischersatz",
+    "subcategory": ["Linsen-Burger"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003547508",
+    "name": "easyVEGAN Linsen-Stäbchen mit Walnüssen 6 Stück à 30g",
+    "category": "Fleischersatz",
+    "subcategory": ["Linsen-Stäbchen"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004402288",
+    "name": "planted Chicken Curry",
+    "category": "Fleischersatz",
+    "subcategory": ["Chicken Curry"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004402301",
+    "name": "planted Chicken Natur",
+    "category": "Fleischersatz",
+    "subcategory": ["Chicken"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004402318",
+    "name": "planted Pulled Spicy Herbs",
+    "category": "Fleischersatz",
+    "subcategory": ["pulled", "Spicy Herbs"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001824649",
+    "name": "Yuu'n Mee Black Tiger Garnelen",
+    "category": "Meeresfrüchte",
+    "subcategory": ["Black Tiger Garnelen"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002343293",
+    "name": "Yuu'n Mee Cocktail Garnelen aus Mangrovenwald-Farm",
+    "category": "Meeresfrüchte",
+    "subcategory": ["Cocktail Garnelen"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003381461",
+    "name": "Yuu'n Mee Garnelen in Knusperpanade",
+    "category": "Meeresfrüchte",
+    "subcategory": ["Garnelen in Knusperpanade"]
+  },
+  {
+    "store": "spar",
+    "id": "8198556",
+    "name": "Yuu'n Mee Gourmet Riesengarnelen Natur",
+    "category": "Meeresfrüchte",
+    "subcategory": ["Riesengarnelen"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002343224",
+    "name": "Yuu'n Mee Handselektierte Shrimps",
+    "category": "Meeresfrüchte",
+    "subcategory": ["Handselektierte Shrimps"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003381447",
+    "name": "Yuu'n Mee Seafood Mix",
+    "category": "Meeresfrüchte",
+    "subcategory": ["Seafood Mix"]
+  },
+  {
+    "store": "spar",
+    "id": "7256158",
+    "name": "Yuu'n Mee Shrimps gekocht",
+    "category": "Meeresfrüchte",
+    "subcategory": ["gekochte Shrimps"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003612909",
+    "name": "Wagner Ernst Wagners Bella Napoli Pizza Margherita",
+    "category": "Pizza",
+    "subcategory": ["Pizza Margherita"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003612893",
+    "name": "Wagner Ernst Wagners Bella Napoli Tiefkühlpizza Diavola 430g Packung",
+    "category": "Pizza",
+    "subcategory": ["Tiefkühlpizza Diavola"]
+  },
+  {
+    "store": "spar",
+    "id": "5502547",
+    "name": "Wagner Piccolinis Tiefkühlpizza Diavolo 9 Stück 270g Packung",
+    "category": "Pizza",
+    "subcategory": ["Tiefkühlpizza Diavolo"]
+  },
+  {
+    "store": "spar",
+    "id": "5305964",
+    "name": "Wagner Piccolinis Tiefkühlpizza Drei Käse 9 Stück 270g Packung",
+    "category": "Pizza",
+    "subcategory": ["Tiefkühlpizza Drei Käse"]
+  },
+  {
+    "store": "spar",
+    "id": "4047803",
+    "name": "Wagner Piccolinis Tiefkühlpizza Salami 9 Stück 270g Packung",
+    "category": "Pizza",
+    "subcategory": ["Tiefkühlpizza Salami"]
+  },
+  {
+    "store": "spar",
+    "id": "3306086",
+    "name": "Wagner Piccolinis Tiefkühlpizza Schinken 9 Stück 270g Packung",
+    "category": "Pizza",
+    "subcategory": ["Tiefkühlpizza Schinken"]
+  },
+  {
+    "store": "spar",
+    "id": "4795292",
+    "name": "Wagner Steinofen Pizza Diavolo",
+    "category": "Pizza",
+    "subcategory": ["Steinofen Pizza Diavolo"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004587176",
+    "name": "Wagner Steinofen Pizza Margherita 300g Packung",
+    "category": "Pizza",
+    "subcategory": ["Steinofen Pizza Margherita"]
+  },
+  {
+    "store": "spar",
+    "id": "359740",
+    "name": "Wagner Steinofen Pizza Salami 320g Packung",
+    "category": "Pizza",
+    "subcategory": ["Steinofen Pizza Salami"]
+  },
+  {
+    "store": "spar",
+    "id": "367301",
+    "name": "Wagner Steinofen Pizza Schinken 350g Packung",
+    "category": "Pizza",
+    "subcategory": ["Steinofen Pizza Schinken"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003563799",
+    "name": "Wao Mochi Kokosnuss 6 Stück",
+    "category": "Süßigkeiten",
+    "subcategory": ["Mochi", "Kokosnuss"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003563812",
+    "name": "Wao Mochi Mango 6 Stück",
+    "category": "Süßigkeiten",
+    "subcategory": ["Mochi", "Mango"]
+  },
+  {
+    "store": "spar",
+    "id": "2020000537793",
+    "name": "natura Kürbiskerne geröstet & gesalzen",
+    "category": "Nüsse/Samen",
+    "subcategory": ["Kürbiskerne"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003193224",
+    "name": "by Stefan Hacker Das Ge(H)würz Dose",
+    "category": "Gewürze",
+    "subcategory": ["Das Ge(H)würz"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003484919",
+    "name": "ehrenwort BIO Ahoi Fisch Gewürz 37g",
+    "category": "Gewürze",
+    "subcategory": ["Ahoi Fisch Gewürz"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003503993",
+    "name": "ehrenwort BIO Bangkok rotes Thai Curry 35g",
+    "category": "Gewürze",
+    "subcategory": ["Bangkok rotes Thai Curry"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003484940",
+    "name": "ehrenwort BIO Brot Gewürz 40g",
+    "category": "Gewürze",
+    "subcategory": ["Brot Gewürz"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003677038",
+    "name": "ehrenwort BIO Dill 13g",
+    "category": "Gewürze",
+    "subcategory": ["Dill"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003677045",
+    "name": "ehrenwort BIO Don Giovanni Pizza Gewürz 23g",
+    "category": "Gewürze",
+    "subcategory": ["Don Giovanni Pizza Gewürz"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003677052",
+    "name": "ehrenwort BIO Fiaker Gulasch Gewürz 55g",
+    "category": "Gewürze",
+    "subcategory": ["Fiaker Gulasch Gewürz"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003484889",
+    "name": "ehrenwort BIO Kikeriki Brathendl Gewürz 45g",
+    "category": "Gewürze",
+    "subcategory": ["Kikeriki Brathendl Gewürz"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003503962",
+    "name": "ehrenwort BIO Knoblauchpulver 45g",
+    "category": "Gewürze",
+    "subcategory": ["Knoblauchpulver"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003484827",
+    "name": "ehrenwort BIO Korianderblätter 13g",
+    "category": "Gewürze",
+    "subcategory": ["Korianderblätter"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003485053",
+    "name": "ehrenwort BIO Kurkuma 45g",
+    "category": "Gewürze",
+    "subcategory": ["Kurkuma"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003484797",
+    "name": "ehrenwort BIO Majoran 10g",
+    "category": "Gewürze",
+    "subcategory": ["Majoran"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003485046",
+    "name": "ehrenwort BIO Mamma Italia Gewürz 35g",
+    "category": "Gewürze",
+    "subcategory": ["Mamma Italia Gewürz"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003485008",
+    "name": "ehrenwort BIO Oregano 10g",
+    "category": "Gewürze",
+    "subcategory": ["Oregano"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003503948",
+    "name": "ehrenwort BIO Rosa Pfefferbeeren 25g",
+    "category": "Gewürze",
+    "subcategory": ["Rosa Pfefferbeeren"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003677069",
+    "name": "ehrenwort BIO Saugut Braten Gewürz 52g",
+    "category": "Gewürze",
+    "subcategory": ["Saugut Braten Gewürz"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003503849",
+    "name": "ehrenwort BIO Scharfes Madras Curry 40g",
+    "category": "Gewürze",
+    "subcategory": ["Scharfes Madras Curry"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003503900",
+    "name": "ehrenwort BIO Tiger Pfeffer geräuchert 45g",
+    "category": "Gewürze",
+    "subcategory": ["Tiger Pfeffer geräuchert"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003484988",
+    "name": "ehrenwort BIO Tolle Knolle Gewürz 45g",
+    "category": "Gewürze",
+    "subcategory": ["Tolle Knolle Gewürz"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003484971",
+    "name": "ehrenwort BIO Wild- & Lammgewürz 22g",
+    "category": "Gewürze",
+    "subcategory": ["Wild- & Lammgewürz"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003677007",
+    "name": "ehrenwort BIOTeriyakisauce Gewürz 70g",
+    "category": "Gewürze",
+    "subcategory": ["Teriyakisauce Gewürz"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004193889",
+    "name": "ehrenwort Bio-Kräutersalz mit Ursalz",
+    "category": "Gewürze",
+    "subcategory": ["Bio-Kräutersalz"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003485107",
+    "name": "ehrenwort Fleischtiger Grillgewürz 42g",
+    "category": "Gewürze",
+    "subcategory": ["Fleischtiger Grillgewürz"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004193827",
+    "name": "ehrenwort Fleur de Sel 70g",
+    "category": "Gewürze",
+    "subcategory": ["Fleur de Sel"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004193858",
+    "name": "ehrenwort Kala Namak Salz 115g",
+    "category": "Gewürze",
+    "subcategory": ["Kala Namak Salz"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004193872",
+    "name": "ehrenwort Persisches Blausalz",
+    "category": "Gewürze",
+    "subcategory": ["Persisches Blausalz"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004193865",
+    "name": "ehrenwort Rosensalz",
+    "category": "Gewürze",
+    "subcategory": ["Rosensalz"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003716119",
+    "name": "salt&more Bird's Eye Chili ganz 20g",
+    "category": "Gewürze",
+    "subcategory": ["Bird's Eye Chili"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003638695",
+    "name": "salt&more Bird's Eye Chili ganz 30g",
+    "category": "Gewürze",
+    "subcategory": ["Bird's Eye Chili"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002798833",
+    "name": "salt&more Blütenzauber 4,5g",
+    "category": "Gewürze",
+    "subcategory": ["Blütenzauber"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002798536",
+    "name": "salt&more Bärlauch gerebelt 4g",
+    "category": "Gewürze",
+    "subcategory": ["Bärlauch"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002798635",
+    "name": "salt&more Cayenne Pfeffer  gemahlen 29g",
+    "category": "Gewürze",
+    "subcategory": ["Cayenne Pfeffer"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002798574",
+    "name": "salt&more Chili Jalapeño Flocken 20g",
+    "category": "Gewürze",
+    "subcategory": ["Chili Jalapeño Flocken"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003174971",
+    "name": "salt&more Chiliflocken Chiliflocken 60g",
+    "category": "Gewürze",
+    "subcategory": ["Chiliflocken"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001978335",
+    "name": "salt&more Fleur de Sel Trüffel",
+    "category": "Gewürze",
+    "subcategory": ["Fleur de Sel Trüffel"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001979325",
+    "name": "salt&more Fleur de Sel mit Safran",
+    "category": "Gewürze",
+    "subcategory": ["Fleur de Sel mit Safran"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002799786",
+    "name": "salt&more Grill BBQ Würzer 30g",
+    "category": "Gewürze",
+    "subcategory": ["Grill BBQ Würzer"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001979523",
+    "name": "salt&more Hawaiisalz",
+    "category": "Gewürze",
+    "subcategory": ["Hawaiisalz"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002793685",
+    "name": "salt&more Himalaya Salz Mühle",
+    "category": "Gewürze",
+    "subcategory": ["Himalaya Salz Mühle"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001979592",
+    "name": "salt&more Kalahari Wüstensalz",
+    "category": "Gewürze",
+    "subcategory": ["Kalahari Wüstensalz"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002798604",
+    "name": "salt&more Knoblauch granuliert 39g",
+    "category": "Gewürze",
+    "subcategory": ["Knoblauch"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002798840",
+    "name": "salt&more Kornblumenblüten 3,5g",
+    "category": "Gewürze",
+    "subcategory": ["Kornblumenblüten"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002798864",
+    "name": "salt&more Lavendelblüten 8g",
+    "category": "Gewürze",
+    "subcategory": ["Lavendelblüten"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002794002",
+    "name": "salt&more Liebessalz Mühle",
+    "category": "Gewürze",
+    "subcategory": ["Liebessalz"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002793739",
+    "name": "salt&more Meersalz Costa Blanca Mühle",
+    "category": "Gewürze",
+    "subcategory": ["Meersalz Costa Blanca"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001979509",
+    "name": "salt&more Meersalz Ibiza Salt",
+    "category": "Gewürze",
+    "subcategory": ["Meersalz Ibiza Salt"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001999637",
+    "name": "salt&more Persicher Salzblock",
+    "category": "Gewürze",
+    "subcategory": ["Persicher Salzblock"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003716010",
+    "name": "salt&more Pfeffer Mix 85g",
+    "category": "Gewürze",
+    "subcategory": ["Pfeffer Mix"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002799823",
+    "name": "salt&more Pizza Mix 12g",
+    "category": "Gewürze",
+    "subcategory": ["Pizza Mix"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002386528",
+    "name": "salt&more Pyramidensalz Natur",
+    "category": "Gewürze",
+    "subcategory": ["Pyramidensalz"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003637681",
+    "name": "salt&more Safran Fäden 1g",
+    "category": "Gewürze",
+    "subcategory": ["Safran Fäden"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001979516",
+    "name": "salt&more Sal Ibiza Blütensalz",
+    "category": "Gewürze",
+    "subcategory": ["Sal Ibiza Blütensalz"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003716072",
+    "name": "salt&more Schwarzer Pfeffer 85g",
+    "category": "Gewürze",
+    "subcategory": ["Schwarzer Pfeffer"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001999583",
+    "name": "salt&more Schwarzes Hawaii Salz",
+    "category": "Gewürze",
+    "subcategory": ["Schwarzes Hawaii Salz"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002798611",
+    "name": "salt&more Schwarzkümmel ganz 30g",
+    "category": "Gewürze",
+    "subcategory": ["Schwarzkümmel"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002799922",
+    "name": "salt&more Steak Mix Glas Steak Mix 21g",
+    "category": "Gewürze",
+    "subcategory": ["Steak Mix"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002798734",
+    "name": "salt&more Tonkabohnen ganz 5,3g",
+    "category": "Gewürze",
+    "subcategory": ["Tonkabohnen"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002798741",
+    "name": "salt&more Zitronengras geschnitten 6g",
+    "category": "Gewürze",
+    "subcategory": ["Zitronengras"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002798826",
+    "name": "salt&more Zwiebel granuliert 23g",
+    "category": "Gewürze",
+    "subcategory": ["Zwiebel"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001979578",
+    "name": "salt&more persisches Blausalz Persisches Blausalz",
+    "category": "Gewürze",
+    "subcategory": ["persisches Blausalz"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004540256",
+    "name": "Zagler Bio Crunchy Müsli Schoko Banane",
+    "category": "Müsli",
+    "subcategory": ["Crunchy Müsli", "Schoko Banane"]
+  },
+  {
+    "store": "spar",
+    "id": "2020000906285",
+    "name": "Zagler Bio Dinkelhonigmüsli Wilde Hilde",
+    "category": "Müsli",
+    "subcategory": ["Dinkelhonigmüsli"]
+  }
+]

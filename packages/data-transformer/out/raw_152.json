@@ -1,0 +1,702 @@
+[
+  {
+    "store": "hofer",
+    "id": 549315,
+    "name": "ZURÜCK ZUM URSPRUNG Thymian 20g",
+    "category": "Gewürze",
+    "subcategories": ["Kräuter"]
+  },
+  {
+    "store": "hofer",
+    "id": 548255,
+    "name": "ZURÜCK ZUM URSPRUNG Zwetschke Dirndl Fruchtaufstrich 260g",
+    "category": "Aufstriche",
+    "subcategories": ["Fruchtaufstriche"]
+  },
+  {
+    "store": "hofer",
+    "id": 545633,
+    "name": "RIO MARE Insalatissime Tuna Salad Couscous 2x160g",
+    "category": "Salat",
+    "subcategories": ["Thunfischsalat"]
+  },
+  {
+    "store": "hofer",
+    "id": 545634,
+    "name": "RIO MARE Insalatissime Tuna Salad Mais 2x160g",
+    "category": "Salat",
+    "subcategories": ["Thunfischsalat"]
+  },
+  {
+    "store": "hofer",
+    "id": 545635,
+    "name": "RIO MARE Insalatissime Tuna Salad Messicana 2x160g",
+    "category": "Salat",
+    "subcategories": ["Thunfischsalat"]
+  },
+  {
+    "store": "hofer",
+    "id": 545545,
+    "name": "RIO MARE Thunfisch Natur ohne Öl 2x160g",
+    "category": "Fisch",
+    "subcategories": ["Thunfisch"]
+  },
+  {
+    "store": "hofer",
+    "id": 544132,
+    "name": "RIO MARE Thunfisch in Olivenöl 2x160g",
+    "category": "Fisch",
+    "subcategories": ["Thunfisch"]
+  },
+  {
+    "store": "hofer",
+    "id": 546547,
+    "name": "ZURÜCK ZUM URSPRUNG Rote Linsen 500g",
+    "category": "Hülsenfrüchte",
+    "subcategories": ["Linsen"]
+  },
+  {
+    "store": "hofer",
+    "id": 546023,
+    "name": "ZURÜCK ZUM URSPRUNG helle Dinkelfusilloni 500g",
+    "category": "Getreide",
+    "subcategories": ["Nudeln"]
+  },
+  {
+    "store": "hofer",
+    "id": 544581,
+    "name": "SNACK FUN Baby Brezel 325g",
+    "category": "Snacks",
+    "subcategories": ["Brezeln"]
+  },
+  {
+    "store": "hofer",
+    "id": 544468,
+    "name": "SNACK FUN Brezeli Salz 150g",
+    "category": "Snacks",
+    "subcategories": ["Brezeln"]
+  },
+  {
+    "store": "hofer",
+    "id": 545824,
+    "name": "SNACK FUN Brezeli Sesam 150g",
+    "category": "Snacks",
+    "subcategories": ["Brezeln"]
+  },
+  {
+    "store": "hofer",
+    "id": 544341,
+    "name": "SNACK FUN Brotchips Knoblauch 250g",
+    "category": "Chips",
+    "subcategories": ["Brotchips"]
+  },
+  {
+    "store": "hofer",
+    "id": 544339,
+    "name": "SNACK FUN Brotchips Meersalz 250g",
+    "category": "Chips",
+    "subcategories": ["Brotchips"]
+  },
+  {
+    "store": "hofer",
+    "id": 544340,
+    "name": "SNACK FUN Brotchips Tomate 250g",
+    "category": "Chips",
+    "subcategories": ["Brotchips"]
+  },
+  {
+    "store": "hofer",
+    "id": 549809,
+    "name": "SNACK FUN Corn Cones 100g",
+    "category": "Snacks",
+    "subcategories": ["Popcorn"]
+  },
+  {
+    "store": "hofer",
+    "id": 545821,
+    "name": "SNACK FUN Cracker Classic 3x75g",
+    "category": "Snacks",
+    "subcategories": ["Cracker"]
+  },
+  {
+    "store": "hofer",
+    "id": 545907,
+    "name": "SNACK FUN Cracker Mix 300g",
+    "category": "Snacks",
+    "subcategories": ["Cracker"]
+  },
+  {
+    "store": "hofer",
+    "id": 549499,
+    "name": "SNACK FUN Dolphys Paprika 100g",
+    "category": "Snacks",
+    "subcategories": ["Chips", "Paprika"]
+  },
+  {
+    "store": "hofer",
+    "id": 545757,
+    "name": "SNACK FUN Hummus Chips Kichererbsen und Chili 100g",
+    "category": "Snacks",
+    "subcategories": ["Chips", "Hummus"]
+  },
+  {
+    "store": "hofer",
+    "id": 545758,
+    "name": "SNACK FUN Hummus Chips Sour Cream und Herbs 100g",
+    "category": "Snacks",
+    "subcategories": ["Chips", "Hummus"]
+  },
+  {
+    "store": "hofer",
+    "id": 544321,
+    "name": "SNACK FUN Kartoffelchips Paprika 250g",
+    "category": "Chips",
+    "subcategories": ["Kartoffelchips", "Paprika"]
+  },
+  {
+    "store": "hofer",
+    "id": 545706,
+    "name": "SNACK FUN Kartoffelchips Salz 250g",
+    "category": "Chips",
+    "subcategories": ["Kartoffelchips"]
+  },
+  {
+    "store": "hofer",
+    "id": 545726,
+    "name": "SNACK FUN Kartoffelchips in Schale geröstet mit Chili Geschmack 130g",
+    "category": "Chips",
+    "subcategories": ["Kartoffelchips", "Chili"]
+  },
+  {
+    "store": "hofer",
+    "id": 544348,
+    "name": "SNACK FUN Kartoffelchips in Schale geröstet mit Meersalz 130g",
+    "category": "Chips",
+    "subcategories": ["Kartoffelchips"]
+  },
+  {
+    "store": "hofer",
+    "id": 545727,
+    "name": "SNACK FUN Kartoffelchips in Schale geröstet mit Paprika 130g",
+    "category": "Chips",
+    "subcategories": ["Kartoffelchips", "Paprika"]
+  },
+  {
+    "store": "hofer",
+    "id": 546632,
+    "name": "SNACK FUN Kartoffelsticks Paprika 125g",
+    "category": "Snacks",
+    "subcategories": ["Kartoffelsticks", "Paprika"]
+  },
+  {
+    "store": "hofer",
+    "id": 544459,
+    "name": "SNACK FUN Kartoffelsticks Sour Cream & Onion 125g",
+    "category": "Snacks",
+    "subcategories": ["Kartoffelsticks"]
+  },
+  {
+    "store": "hofer",
+    "id": 544460,
+    "name": "SNACK FUN Kartoffelsticks gesalzen 125g",
+    "category": "Snacks",
+    "subcategories": ["Kartoffelsticks"]
+  },
+  {
+    "store": "hofer",
+    "id": 545905,
+    "name": "SNACK FUN Kingsize Sticks Salz 180g",
+    "category": "Snacks",
+    "subcategories": ["Salzgebäck"]
+  },
+  {
+    "store": "hofer",
+    "id": 545906,
+    "name": "SNACK FUN Kingsize Sticks Sesam 160g",
+    "category": "Snacks",
+    "subcategories": ["Sesamgebäck"]
+  },
+  {
+    "store": "hofer",
+    "id": 545801,
+    "name": "SNACK FUN Knabber Herzen Salz 125g",
+    "category": "Snacks",
+    "subcategories": ["Salzgebäck"]
+  },
+  {
+    "store": "hofer",
+    "id": 547548,
+    "name": "SNACK FUN Linsen-Chips Paprika 100g",
+    "category": "Snacks",
+    "subcategories": ["Linsenchips", "Paprika"]
+  },
+  {
+    "store": "hofer",
+    "id": 547547,
+    "name": "SNACK FUN Linsen-Chips Salz 100g",
+    "category": "Snacks",
+    "subcategories": ["Linsenchips"]
+  },
+  {
+    "store": "hofer",
+    "id": 547560,
+    "name": "SNACK FUN Microwave Popcorn Butter 400g",
+    "category": "Snacks",
+    "subcategories": ["Popcorn"]
+  },
+  {
+    "store": "hofer",
+    "id": 547561,
+    "name": "SNACK FUN Microwave Popcorn Salted 400g",
+    "category": "Snacks",
+    "subcategories": ["Popcorn"]
+  },
+  {
+    "store": "hofer",
+    "id": 546261,
+    "name": "SNACK FUN Pufuleti Käse 100g",
+    "category": "Snacks",
+    "subcategories": ["Käsegebäck"]
+  },
+  {
+    "store": "hofer",
+    "id": 544784,
+    "name": "SNACK FUN Pufuleti Paprika 100g",
+    "category": "Snacks",
+    "subcategories": ["Paprikagebäck"]
+  },
+  {
+    "store": "hofer",
+    "id": 546143,
+    "name": "SNACK FUN Pufuleti natur 85g",
+    "category": "Snacks",
+    "subcategories": ["Gebäck"]
+  },
+  {
+    "store": "hofer",
+    "id": 547219,
+    "name": "SNACK FUN Riffel Chips Paprika 200g",
+    "category": "Chips",
+    "subcategories": ["Riffelchips", "Paprika"]
+  },
+  {
+    "store": "hofer",
+    "id": 547220,
+    "name": "SNACK FUN Riffel Chips Salz 200g",
+    "category": "Chips",
+    "subcategories": ["Riffelchips"]
+  },
+  {
+    "store": "hofer",
+    "id": 547221,
+    "name": "SNACK FUN Riffel Chips Sour Cream & Onion 200g",
+    "category": "Chips",
+    "subcategories": ["Riffelchips"]
+  },
+  {
+    "store": "hofer",
+    "id": 545738,
+    "name": "SNACK FUN Smiling Bear gesalzen 150g",
+    "category": "Snacks",
+    "subcategories": ["Bärchen", "Salzgebäck"]
+  },
+  {
+    "store": "hofer",
+    "id": 545802,
+    "name": "SNACK FUN Snacky Stars Salted 125g",
+    "category": "Snacks",
+    "subcategories": ["Salzgebäck", "Sterne"]
+  },
+  {
+    "store": "hofer",
+    "id": 544491,
+    "name": "SNACK FUN Snips 200g",
+    "category": "Chips",
+    "subcategories": ["Snips"]
+  },
+  {
+    "store": "hofer",
+    "id": 544344,
+    "name": "SNACK FUN Staps Original 175g",
+    "category": "Chips",
+    "subcategories": ["Kartoffelchips", "Staps"]
+  },
+  {
+    "store": "hofer",
+    "id": 545722,
+    "name": "SNACK FUN Staps Paprika Geschmack 175g",
+    "category": "Chips",
+    "subcategories": ["Kartoffelchips", "Staps", "Paprika"]
+  },
+  {
+    "store": "hofer",
+    "id": 545723,
+    "name": "SNACK FUN Staps Sour Cream&Onion 175g",
+    "category": "Chips",
+    "subcategories": ["Kartoffelchips", "Staps"]
+  },
+  {
+    "store": "hofer",
+    "id": 545046,
+    "name": "SNACK FUN Sticks 300g",
+    "category": "Snacks",
+    "subcategories": ["Sticks"]
+  },
+  {
+    "store": "hofer",
+    "id": 544559,
+    "name": "SNACK FUN Tortilla Chips Käse 300g",
+    "category": "Chips",
+    "subcategories": ["Tortilla", "Käse"]
+  },
+  {
+    "store": "hofer",
+    "id": 545889,
+    "name": "SNACK FUN Tortilla Chips Nature 300g",
+    "category": "Chips",
+    "subcategories": ["Tortilla"]
+  },
+  {
+    "store": "hofer",
+    "id": 549401,
+    "name": "SNACK FUN Triangles Gemüse 100g",
+    "category": "Snacks",
+    "subcategories": ["Gemüsechips", "Dreiecke"]
+  },
+  {
+    "store": "hofer",
+    "id": 549402,
+    "name": "SNACK FUN Triangles Hülsenfrüchte 100g",
+    "category": "Snacks",
+    "subcategories": ["Hülsenfrüchtechips", "Dreiecke"]
+  },
+  {
+    "store": "hofer",
+    "id": 545817,
+    "name": "SNACK FUN Twisted Sticks Käse 150g",
+    "category": "Snacks",
+    "subcategories": ["Käsegebäck", "Sticks"]
+  },
+  {
+    "store": "hofer",
+    "id": 545818,
+    "name": "SNACK FUN Twisted Sticks Meersalz 150g",
+    "category": "Snacks",
+    "subcategories": ["Salzgebäck", "Sticks"]
+  },
+  {
+    "store": "hofer",
+    "id": 545024,
+    "name": "RIQUET Haselnuss 100g",
+    "category": "Schokolade",
+    "subcategories": ["Nüsse"]
+  },
+  {
+    "store": "hofer",
+    "id": 545023,
+    "name": "RIQUET Vollmilch 100g",
+    "category": "Schokolade",
+    "subcategories": ["Vollmilch"]
+  },
+  {
+    "store": "hofer",
+    "id": 545756,
+    "name": "RITTER SPORT Mini Bunter Mix 12x16,67g",
+    "category": "Schokolade",
+    "subcategories": ["Mini", "Mischung"]
+  },
+  {
+    "store": "hofer",
+    "id": 548981,
+    "name": "RITTER SPORT Mini Goldschatz 12x16,67g",
+    "category": "Schokolade",
+    "subcategories": ["Mini", "Mischung"]
+  },
+  {
+    "store": "hofer",
+    "id": 544377,
+    "name": "RITTER SPORT Mini Marzipan 12x16,67g",
+    "category": "Schokolade",
+    "subcategories": ["Mini", "Mischung", "Marzipan"]
+  },
+  {
+    "store": "hofer",
+    "id": 544378,
+    "name": "RITTER SPORT Mini Nugat 12x16,67g",
+    "category": "Schokolade",
+    "subcategories": ["Mini", "Mischung", "Nugat"]
+  },
+  {
+    "store": "hofer",
+    "id": 547906,
+    "name": "ZURÜCK ZUM URSPRUNG Sonnenschein-Kekse Kuruma 140g",
+    "category": "Gebäck",
+    "subcategories": ["Kekse"]
+  },
+  {
+    "store": "hofer",
+    "id": 547905,
+    "name": "ZURÜCK ZUM URSPRUNG Winter-Kekse Feinste gewürze 140g",
+    "category": "Gebäck",
+    "subcategories": ["Kekse"]
+  },
+  {
+    "store": "hofer",
+    "id": 544122,
+    "name": "ZURÜCK ZUM URSPRUNG Wohlfühlkekse Mohn 140g",
+    "category": "Gebäck",
+    "subcategories": ["Kekse"]
+  },
+  {
+    "store": "hofer",
+    "id": 547557,
+    "name": "SATESSA Damenbinden Körperform, Extra Lang 15 Stück",
+    "category": "Hygieneartikel",
+    "subcategories": ["Damenbinden"]
+  },
+  {
+    "store": "hofer",
+    "id": 547556,
+    "name": "SATESSA Damenbinden Körperform, Normal 20 Stück",
+    "category": "Hygieneartikel",
+    "subcategories": ["Damenbinden"]
+  },
+  {
+    "store": "hofer",
+    "id": 547939,
+    "name": "SATESSA Damenbinden Ultra Dünn Normal mit Flügeln 20 Stück",
+    "category": "Hygieneartikel",
+    "subcategories": ["Damenbinden"]
+  },
+  {
+    "store": "hofer",
+    "id": 547940,
+    "name": "SATESSA Damenbinden Ultra dünn Extra Lang mit Flügeln 14 Stück",
+    "category": "Hygieneartikel",
+    "subcategories": ["Damenbinden"]
+  },
+  {
+    "store": "hofer",
+    "id": 547941,
+    "name": "SATESSA Damenbinden ultra Dünn Nacht mit Flügeln 14 Stück",
+    "category": "Hygieneartikel",
+    "subcategories": ["Damenbinden"]
+  },
+  {
+    "store": "hofer",
+    "id": 548096,
+    "name": "SATESSA Hygiene Einlagen Extra 12 Stück",
+    "category": "Hygieneartikel",
+    "subcategories": ["Einlagen"]
+  },
+  {
+    "store": "hofer",
+    "id": 548097,
+    "name": "SATESSA Hygiene Einlagen Extra Plus 10 Stück",
+    "category": "Hygieneartikel",
+    "subcategories": ["Einlagen"]
+  },
+  {
+    "store": "hofer",
+    "id": 548095,
+    "name": "SATESSA Hygiene Einlagen Normal 14 Stück",
+    "category": "Hygieneartikel",
+    "subcategories": ["Einlagen"]
+  },
+  {
+    "store": "hofer",
+    "id": 548086,
+    "name": "SATESSA Hygiene Pants Large 10 Stück",
+    "category": "Hygieneartikel",
+    "subcategories": ["Pants"]
+  },
+  {
+    "store": "hofer",
+    "id": 548085,
+    "name": "SATESSA Hygiene Pants Medium 12 Stück",
+    "category": "Hygieneartikel",
+    "subcategories": ["Pants"]
+  },
+  {
+    "store": "hofer",
+    "id": 548722,
+    "name": "SATESSA Mini Tampons 65 Stück",
+    "category": "Hygieneartikel",
+    "subcategories": ["Tampons"]
+  },
+  {
+    "store": "hofer",
+    "id": 548721,
+    "name": "SATESSA Normal Tampons 80 Stück",
+    "category": "Hygieneartikel",
+    "subcategories": ["Tampons"]
+  },
+  {
+    "store": "hofer",
+    "id": 547768,
+    "name": "SATESSA Slipeinlagen Normal 45 Stück",
+    "category": "Hygieneartikel",
+    "subcategories": ["Slipeinlagen"]
+  },
+  {
+    "store": "hofer",
+    "id": 547769,
+    "name": "SATESSA Slipeinlagen Normal mit Duft 45 Stück",
+    "category": "Hygieneartikel",
+    "subcategories": ["Slipeinlagen"]
+  },
+  {
+    "store": "hofer",
+    "id": 547767,
+    "name": "SATESSA Splipeinlagen Lang 32 Stück",
+    "category": "Hygieneartikel",
+    "subcategories": ["Slipeinlagen"]
+  },
+  {
+    "store": "hofer",
+    "id": 548720,
+    "name": "SATESSA Super Tampons 56 Stück",
+    "category": "Hygieneartikel",
+    "subcategories": ["Tampons"]
+  },
+  {
+    "store": "hofer",
+    "id": 549195,
+    "name": "ZURÜCK ZUM URSPRUNG Natürliche Pflegeseife 2x65g",
+    "category": "Körperpflege",
+    "subcategories": ["Seife"]
+  },
+  {
+    "store": "hofer",
+    "id": 548878,
+    "name": "ZURÜCK ZUM URSPRUNG Shampoo & Duschgel mit Sanddorn und Hanf 300ml",
+    "category": "Körperpflege",
+    "subcategories": ["Shampoo", "Duschgel"]
+  },
+  {
+    "store": "hofer",
+    "id": 549633,
+    "name": "SOMAT Classic XXL Tabs 70x16,6g",
+    "category": "Spülmittel",
+    "subcategories": ["Spültabs"]
+  },
+  {
+    "store": "hofer",
+    "id": 544747,
+    "name": "SILAN Weichspülmittel Aromatherapie 1,3l",
+    "category": "Waschmittel",
+    "subcategories": ["Weichspüler"]
+  },
+  {
+    "store": "hofer",
+    "id": 546255,
+    "name": "SILAN Weichspülmittel Sensitive 1,3l",
+    "category": "Waschmittel",
+    "subcategories": ["Weichspüler"]
+  },
+  {
+    "store": "hofer",
+    "id": 544746,
+    "name": "SILAN Weichspülmittel Wild Rose 1,3l",
+    "category": "Waschmittel",
+    "subcategories": ["Weichspüler"]
+  },
+  {
+    "store": "hofer",
+    "id": 547005,
+    "name": "ROMEO Adult Geflügel und Rind Pastete 300g",
+    "category": "Hundefutter",
+    "subcategories": ["Pastete"]
+  },
+  {
+    "store": "hofer",
+    "id": 547007,
+    "name": "ROMEO Adult Huhn und Edelfisch Pastete 300g",
+    "category": "Hundefutter",
+    "subcategories": ["Pastete"]
+  },
+  {
+    "store": "hofer",
+    "id": 547009,
+    "name": "ROMEO Adult Kalb, Geflügel Pastete 300g",
+    "category": "Hundefutter",
+    "subcategories": ["Pastete"]
+  },
+  {
+    "store": "hofer",
+    "id": 547004,
+    "name": "ROMEO Adult Pastete mit Truthahn, Pasta und Gemüse 300g",
+    "category": "Hundefutter",
+    "subcategories": ["Pastete"]
+  },
+  {
+    "store": "hofer",
+    "id": 547012,
+    "name": "ROMEO Adult Rind und Leber Pastete 300g",
+    "category": "Hundefutter",
+    "subcategories": ["Pastete"]
+  },
+  {
+    "store": "hofer",
+    "id": 547008,
+    "name": "ROMEO Adult Rind, Landgemüse, Pastete 300g",
+    "category": "Hundefutter",
+    "subcategories": ["Pastete"]
+  },
+  {
+    "store": "hofer",
+    "id": 547006,
+    "name": "ROMEO Adult Rindstückchen, Activit Plus, Pastete 300g",
+    "category": "Hundefutter",
+    "subcategories": ["Pastete"]
+  },
+  {
+    "store": "hofer",
+    "id": 547010,
+    "name": "ROMEO Adult mit Lamm und Pasta Geschnetzeltes 300g",
+    "category": "Hundefutter",
+    "subcategories": ["Geschnetzeltes"]
+  },
+  {
+    "store": "hofer",
+    "id": 547399,
+    "name": "ROMEO Fleischsnacks Huhn 100g",
+    "category": "Snacks",
+    "subcategories": ["Fleischsnacks"]
+  },
+  {
+    "store": "hofer",
+    "id": 547398,
+    "name": "ROMEO Fleischsnacks Lamm 100g",
+    "category": "Snacks",
+    "subcategories": ["Fleischsnacks"]
+  },
+  {
+    "store": "hofer",
+    "id": 547397,
+    "name": "ROMEO Fleischsnacks Rind 100g",
+    "category": "Snacks",
+    "subcategories": ["Fleischsnacks"]
+  },
+  {
+    "store": "hofer",
+    "id": 548499,
+    "name": "ROMEO Hundedosenfutter Geflügel & Karotte 1240g",
+    "category": "Hundefutter",
+    "subcategories": ["Dosenfutter"]
+  },
+  {
+    "store": "hofer",
+    "id": 548501,
+    "name": "ROMEO Hundedosenfutter Rind 1240g",
+    "category": "Hundefutter",
+    "subcategories": ["Dosenfutter"]
+  },
+  {
+    "store": "hofer",
+    "id": 548500,
+    "name": "ROMEO Hundedosenfutter Wild, Nudeln & Karotten 1240g",
+    "category": "Hundefutter",
+    "subcategories": ["Dosenfutter"]
+  }
+]

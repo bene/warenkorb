@@ -1,0 +1,713 @@
+[
+  {
+    "store": "spar",
+    "id": "1947373",
+    "name": "Persil Waschmittel Universal 5WG",
+    "category": "Waschmittel",
+    "subcategories": ["Waschmittel", "Universal"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004476678",
+    "name": "Persil Waschpulver Color 28WG",
+    "category": "Waschmittel",
+    "subcategories": ["Waschpulver", "Color"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004476647",
+    "name": "Persil Waschpulver Universal / Frische von Silan 28WG",
+    "category": "Waschmittel",
+    "subcategories": ["Waschpulver", "Universal", "Frische", "Silan"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004476555",
+    "name": "Persil Waschpulver Universal 28WG",
+    "category": "Waschmittel",
+    "subcategories": ["Waschpulver", "Universal"]
+  },
+  {
+    "store": "spar",
+    "id": "3347638",
+    "name": "Pedigree Biscrok Original Hundesnack",
+    "category": "Hundesnack",
+    "subcategories": ["Biscrok", "Original"]
+  },
+  {
+    "store": "spar",
+    "id": "5331826",
+    "name": "Pedigree Classic Hundefutter Huhn & Kalb",
+    "category": "Hundefutter",
+    "subcategories": ["Classic", "Huhn", "Kalb"]
+  },
+  {
+    "store": "spar",
+    "id": "5325313",
+    "name": "Pedigree Classic Hundefutter Rind & Huhn",
+    "category": "Hundefutter",
+    "subcategories": ["Classic", "Rind", "Huhn"]
+  },
+  {
+    "store": "spar",
+    "id": "5903108",
+    "name": "Pedigree DentaStix Hundesnack large",
+    "category": "Hundesnack",
+    "subcategories": ["DentaStix", "large"]
+  },
+  {
+    "store": "spar",
+    "id": "4294603",
+    "name": "Pedigree DentaStix Hundesnack medium",
+    "category": "Hundesnack",
+    "subcategories": ["DentaStix", "medium"]
+  },
+  {
+    "store": "spar",
+    "id": "5997046",
+    "name": "Pedigree DentaStix Hundesnack medium 720g Multipack",
+    "category": "Hundesnack",
+    "subcategories": ["DentaStix", "medium", "Multipack"]
+  },
+  {
+    "store": "spar",
+    "id": "5997060",
+    "name": "Pedigree DentaStix Hundesnack small",
+    "category": "Hundesnack",
+    "subcategories": ["DentaStix", "small"]
+  },
+  {
+    "store": "spar",
+    "id": "5997053",
+    "name": "Pedigree DentaStix Hundesnacks large 1080g Multipack",
+    "category": "Hundesnack",
+    "subcategories": ["DentaStix", "large", "Multipack"]
+  },
+  {
+    "store": "spar",
+    "id": "5038138",
+    "name": "Pedigree DentaStix Hundesnacks small",
+    "category": "Hundesnack",
+    "subcategories": ["DentaStix", "small"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002850265",
+    "name": "Pedigree Hundefutter Huhn, Rind & Lamm in Sauce 12x100g",
+    "category": "Hundefutter",
+    "subcategories": ["Huhn", "Rind", "Lamm", "Sauce", "Multipack"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002850296",
+    "name": "Pedigree Hundesnack Ranchos mit Rind",
+    "category": "Hundesnack",
+    "subcategories": ["Ranchos", "Rind"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003049668",
+    "name": "Pedigree Hundesnacks Medium",
+    "category": "Hundesnack",
+    "subcategories": ["Hundesnacks", "Medium"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004114600",
+    "name": "Pedigree Hundesnacks Ranchos Slices",
+    "category": "Hundesnack",
+    "subcategories": ["Hundesnacks", "Ranchos", "Slices"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004039859",
+    "name": "Pedigree Hundesnacks Ranchos Sticks",
+    "category": "Hundesnack",
+    "subcategories": ["Hundesnacks", "Ranchos", "Sticks"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003396120",
+    "name": "Pedigree Jumbone Maxi Hundesnack Jumbone Rind",
+    "category": "Hundesnack",
+    "subcategories": ["Jumbone", "Maxi", "Rind"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003396137",
+    "name": "Pedigree Jumbone Mini Hundesnack Jumbone Mini 4 Stück",
+    "category": "Hundesnack",
+    "subcategories": ["Jumbone", "Mini"]
+  },
+  {
+    "store": "spar",
+    "id": "2020000401179",
+    "name": "Pedigree Leckerbissen Hundesnacks Kau-Happen mit Huhn",
+    "category": "Hundesnack",
+    "subcategories": ["Leckerbissen", "Hundesnacks", "Kau-Happen", "Huhn"]
+  },
+  {
+    "store": "spar",
+    "id": "2020000401537",
+    "name": "Pedigree Leckerbissen Hundesnacks Mini-Happen mit Rind & Käse",
+    "category": "Hundesnack",
+    "subcategories": [
+      "Leckerbissen",
+      "Hundesnacks",
+      "Mini-Happen",
+      "Rind",
+      "Käse"
+    ]
+  },
+  {
+    "store": "spar",
+    "id": "921565",
+    "name": "Pedigree Markies Trios Hundesnack",
+    "category": "Hundesnack",
+    "subcategories": ["Markies", "Trios"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001050857",
+    "name": "Pedigree Mini Hundetrockennahrung Adult Huhn & Gemüse 1,4kg",
+    "category": "Hundetrockennahrung",
+    "subcategories": ["Mini", "Adult", "Huhn", "Gemüse"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003396151",
+    "name": "Pedigree Rodeo Hundesnack Rodeo Rind 8 Stück",
+    "category": "Hundesnack",
+    "subcategories": ["Rodeo", "Rind"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003396175",
+    "name": "Pedigree Schmackos Hundesnack Schmackos Multi 20 Stück",
+    "category": "Hundesnack",
+    "subcategories": ["Schmackos", "Multi"]
+  },
+  {
+    "store": "spar",
+    "id": "5331871",
+    "name": "Pedigree Senior Hundefutter Kalb & Geflügel",
+    "category": "Hundefutter",
+    "subcategories": ["Senior", "Kalb", "Geflügel"]
+  },
+  {
+    "store": "spar",
+    "id": "4821779",
+    "name": "Pedigree Vital Adult Hundetrockenfutter Rind 10kg",
+    "category": "Hundetrockenfutter",
+    "subcategories": ["Vital", "Adult", "Rind"]
+  },
+  {
+    "store": "spar",
+    "id": "6999803",
+    "name": "Pedigree Vital Protection Adult Hundetrockennahrung Rind 3kg",
+    "category": "Hundetrockennahrung",
+    "subcategories": ["Vital Protection", "Adult", "Rind"]
+  },
+  {
+    "store": "spar",
+    "id": "6999698",
+    "name": "Pedigree Vital Protection Junior Trockenfutter Huhn",
+    "category": "Hundetrockenfutter",
+    "subcategories": ["Vital Protection", "Junior", "Huhn"]
+  },
+  {
+    "store": "spar",
+    "id": "7000379",
+    "name": "Pedigree Vital Protection Senior 8+ Trockenfutter Huhn",
+    "category": "Hundetrockenfutter",
+    "subcategories": ["Vital Protection", "Senior", "Huhn"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004408853",
+    "name": "Perfect Fit Hundetrockennahrung Sensiitive",
+    "category": "Hundetrockennahrung",
+    "subcategories": ["Sensiitive"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001579693",
+    "name": "Perfect Fit Active Katzentrockennahrung Reich an Rind 1+",
+    "category": "Katzentrockennahrung",
+    "subcategories": ["Active", "Reich an Rind", "1+"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001579778",
+    "name": "Perfect Fit Adult Katzentrockenfutter Reich an Huhn 1+",
+    "category": "Katzentrockenfutter",
+    "subcategories": ["Adult", "Reich an Huhn", "1+"]
+  },
+  {
+    "store": "spar",
+    "id": "6574031",
+    "name": "Perfect Fit In-Home Trockenfutter Huhn",
+    "category": "Katzentrockenfutter",
+    "subcategories": ["In-Home", "Huhn"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002452605",
+    "name": "Perfect Fit Junior Katzentrockenfutter Huhn",
+    "category": "Katzentrockenfutter",
+    "subcategories": ["Junior", "Huhn"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003397110",
+    "name": "Perfect Fit Katzenfutter Fleisch 4x85g",
+    "category": "Katzenfutter",
+    "subcategories": ["Fleisch", "Multipack"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004108678",
+    "name": "Perfect Fit Katzenfutter Indoor 1+",
+    "category": "Katzenfutter",
+    "subcategories": ["Indoor", "1+"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002648954",
+    "name": "Perfect Fit Katzenfutter Indoor 4x85g",
+    "category": "Katzenfutter",
+    "subcategories": ["Indoor", "Multipack"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002850081",
+    "name": "Perfect Fit Katzenfutter Senior 7+ 4x85g",
+    "category": "Katzenfutter",
+    "subcategories": ["Senior", "Multipack"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002648855",
+    "name": "Perfect Fit Katzenfutter Sensitive 4x85g",
+    "category": "Katzenfutter",
+    "subcategories": ["Sensitive", "Multipack"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004108661",
+    "name": "Perfect Fit Katzentrockennahrung Sensitive 1+ 1,4kg",
+    "category": "Katzentrockennahrung",
+    "subcategories": ["Sensitive"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003783715",
+    "name": "Perfect Fit Natural Vitality Katzenfutter Huhn & Truthahn",
+    "category": "Katzenfutter",
+    "subcategories": ["Natural Vitality", "Huhn", "Truthahn"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003783739",
+    "name": "Perfect Fit Natural Vitality Katzenfutter Truthahn & Hochseefisch 6x50g",
+    "category": "Katzenfutter",
+    "subcategories": [
+      "Natural Vitality",
+      "Truthahn",
+      "Hochseefisch",
+      "Multipack"
+    ]
+  },
+  {
+    "store": "spar",
+    "id": "1651362",
+    "name": "Perfect Fit Pro-Sterile Trockenfutter Huhn 750 g",
+    "category": "Katzentrockenfutter",
+    "subcategories": ["Pro-Sterile", "Huhn"]
+  },
+  {
+    "store": "spar",
+    "id": "6574093",
+    "name": "Perfect Fit Senior 8+ Trockenfutter Huhn",
+    "category": "Katzentrockenfutter",
+    "subcategories": ["Senior", "Huhn"]
+  },
+  {
+    "store": "spar",
+    "id": "6574079",
+    "name": "Perfect Fit Sensitive Trockenfutter Huhn",
+    "category": "Katzentrockenfutter",
+    "subcategories": ["Sensitive", "Huhn"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004250100",
+    "name": "Pure & Fun Bio-Fruchtpüree Paw Patrol blau 100G",
+    "category": "Bio-Fruchtpüree",
+    "subcategories": ["Paw Patrol", "blau"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004250087",
+    "name": "Pure & Fun Bio-Fruchtpüree Paw Patrol pink 100G",
+    "category": "Bio-Fruchtpüree",
+    "subcategories": ["Paw Patrol", "pink"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004250179",
+    "name": "Pure & Fun Bio-Fruchtpüree Peppa Pig Schorsch 100G",
+    "category": "Bio-Fruchtpüree",
+    "subcategories": ["Peppa Pig", "Schorsch"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004460684",
+    "name": "Pure & Fun Bio-Hafer-Riegel Minions Kakao Bananaaa 6x23g",
+    "category": "Bio-Hafer-Riegel",
+    "subcategories": ["Minions", "Kakao", "Bananaaa", "Multipack"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004181763",
+    "name": "Pure & Fun Bio-Mais Knusper Schweinchen Peppa Pig Apfel & Karotte",
+    "category": "Bio-Mais Knusper",
+    "subcategories": ["Schweinchen", "Peppa Pig", "Apfel", "Karotte"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003614569",
+    "name": "Pure & Fun Bio-Power Häppchen Paw Patrol 40G",
+    "category": "Bio-Power Häppchen",
+    "subcategories": ["Paw Patrol"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003614620",
+    "name": "Pure & Fun Bio-Power Häppchen Paw Patrol 40G",
+    "category": "Bio-Power Häppchen",
+    "subcategories": ["Paw Patrol"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003611957",
+    "name": "PowerCat Katzenstreu Silica 5l",
+    "category": "Katzenstreu",
+    "subcategories": ["Silica"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004460653",
+    "name": "Pure & Fun Bio-Quetschie Minions Apfel Bananaaa",
+    "category": "Bio-Quetschie",
+    "subcategories": ["Minions", "Apfel", "Bananaaa"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004108692",
+    "name": "Pure & Fun Paw Patrol Bio-Power Äpfel blau",
+    "category": "Bio-Power Äpfel",
+    "subcategories": ["Paw Patrol", "blau"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004108210",
+    "name": "Pure & Fun Paw Patrol Bio-Power Äpfel pink",
+    "category": "Bio-Power Äpfel",
+    "subcategories": ["Paw Patrol", "pink"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004205285",
+    "name": "Pure & Fun Peppa Pig Bio Trink-Päckchen Apfel & Birne 3x200ml",
+    "category": "Bio Trink-Päckchen",
+    "subcategories": ["Peppa Pig", "Apfel", "Birne", "Multipack"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004556271",
+    "name": "Pure Nature Hundenahrung Huhn & Lachs",
+    "category": "Hundenahrung",
+    "subcategories": ["Huhn", "Lachs"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004556158",
+    "name": "Pure Nature Hundenahrung Pferd & Huhn 400g",
+    "category": "Hundenahrung",
+    "subcategories": ["Pferd", "Huhn"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004555991",
+    "name": "Pure Nature Hundenahrung Rind & Lamm",
+    "category": "Hundenahrung",
+    "subcategories": ["Rind", "Lamm"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004556134",
+    "name": "Pure Nature Hundenahrung Wild & Huhn",
+    "category": "Hundenahrung",
+    "subcategories": ["Wild", "Huhn"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003777721",
+    "name": "Pure Room Edition Raumduft Lavender & Cedar 100ml",
+    "category": "Raumduft",
+    "subcategories": ["Lavender", "Cedar"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003777813",
+    "name": "Pure Room Edition Raumduft Lavender & Cedar 250ml",
+    "category": "Raumduft",
+    "subcategories": ["Lavender", "Cedar"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003777615",
+    "name": "Pure Room Edition Raumduft Lemongrass & Geranium 100ml",
+    "category": "Raumduft",
+    "subcategories": ["Lemongrass", "Geranium"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003777806",
+    "name": "Pure Room Edition Raumduft Lemongrass & Geranium 250ml",
+    "category": "Raumduft",
+    "subcategories": ["Lemongrass", "Geranium"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003777776",
+    "name": "Pure Room Edition Raumduft Pinewood & Green Notes 100ml",
+    "category": "Raumduft",
+    "subcategories": ["Pinewood", "Green Notes"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003777844",
+    "name": "Pure Room Edition Raumduft Pinewood & Green Notes 250ml",
+    "category": "Raumduft",
+    "subcategories": ["Pinewood", "Green Notes"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003777745",
+    "name": "Pure Room Edition Raumduft Rose & Sandalwood 100ml",
+    "category": "Raumduft",
+    "subcategories": ["Rose", "Sandalwood"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003777820",
+    "name": "Pure Room Edition Raumduft Rose & Sandalwood 250ml",
+    "category": "Raumduft",
+    "subcategories": ["Rose", "Sandalwood"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003777561",
+    "name": "Pure Room Edition Raumduft Sweet Orange & Mandarin 100ml",
+    "category": "Raumduft",
+    "subcategories": ["Sweet Orange", "Mandarin"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003777790",
+    "name": "Pure Room Edition Raumduft Sweet Orange & Mandarin 250ml",
+    "category": "Raumduft",
+    "subcategories": ["Sweet Orange", "Mandarin"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003777530",
+    "name": "Pure Room Edition Raumduft Vanilla & Almond 100ml",
+    "category": "Raumduft",
+    "subcategories": ["Vanilla", "Almond"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003777783",
+    "name": "Pure Room Edition Raumduft Vanilla & Almond 250ml",
+    "category": "Raumduft",
+    "subcategories": ["Vanilla", "Almond"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003777929",
+    "name": "Pure Room Edition Raumspray Lavender & Cedar 100ml",
+    "category": "Raumspray",
+    "subcategories": ["Lavender", "Cedar"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003777905",
+    "name": "Pure Room Edition Raumspray Lemongrass & Geranium 100ml",
+    "category": "Raumspray",
+    "subcategories": ["Lemongrass", "Geranium"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003777943",
+    "name": "Pure Room Edition Raumspray Rose & Sandalwood 100ml",
+    "category": "Raumspray",
+    "subcategories": ["Rose", "Sandalwood"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003777882",
+    "name": "Pure Room Edition Raumspray Sweet Orange & Mandarin 100ml",
+    "category": "Raumspray",
+    "subcategories": ["Sweet Orange", "Mandarin"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003777868",
+    "name": "Pure Room Edition Raumspray Vanilla & Almond 100ml",
+    "category": "Raumspray",
+    "subcategories": ["Vanilla", "Almond"]
+  },
+  {
+    "store": "spar",
+    "id": "6606060",
+    "name": "Riesenpapaya per kg Papaya Riesen br KG+KT KG 1",
+    "category": "Obst",
+    "subcategories": ["Papaya", "Riesen"]
+  },
+  {
+    "store": "spar",
+    "id": "7858680",
+    "name": "Roberto Bruschetta",
+    "category": "Brotaufstrich",
+    "subcategories": ["Bruschetta"]
+  },
+  {
+    "store": "spar",
+    "id": "2020000617037",
+    "name": "Querfeld's Wiener Konditorei Landtmann Gugelhupf",
+    "category": "Backwaren",
+    "subcategories": ["Wiener Konditorei", "Landtmann", "Gugelhupf"]
+  },
+  {
+    "store": "spar",
+    "id": "2020000617204",
+    "name": "Querfeld's Wiener Konditorei Landtmann Gugelhupf",
+    "category": "Backwaren",
+    "subcategories": ["Wiener Konditorei", "Landtmann", "Gugelhupf"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002235680",
+    "name": "Pölz Bio-Direktsaft Aronia",
+    "category": "Bio-Direktsaft",
+    "subcategories": ["Aronia"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002378905",
+    "name": "Pölz Bio-Direktsaft to go Karotte",
+    "category": "Bio-Direktsaft",
+    "subcategories": ["Karotte"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002378837",
+    "name": "Pölz Bio-Direktsaft to go Rote Beete",
+    "category": "Bio-Direktsaft",
+    "subcategories": ["Rote Beete"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002235758",
+    "name": "Pölz Bio-Muttersaft Cranberry",
+    "category": "Bio-Muttersaft",
+    "subcategories": ["Cranberry"]
+  },
+  {
+    "store": "spar",
+    "id": "2020000407454",
+    "name": "Rauch 100% Limettensaft Limettensaft",
+    "category": "Limettensaft",
+    "subcategories": ["100%"]
+  },
+  {
+    "store": "spar",
+    "id": "237383",
+    "name": "Rauch 100% Zitronensaft",
+    "category": "Zitronensaft",
+    "subcategories": ["100%"]
+  },
+  {
+    "store": "spar",
+    "id": "7667961",
+    "name": "Rauch 100% Zitronensaft",
+    "category": "Zitronensaft",
+    "subcategories": ["100%"]
+  },
+  {
+    "store": "spar",
+    "id": "3434598",
+    "name": "Rauch Bravo ACE Multivit",
+    "category": "Bravo ACE",
+    "subcategories": ["Multivit"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004142115",
+    "name": "Rauch Bravo Green Apple",
+    "category": "Bravo",
+    "subcategories": ["Green Apple"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004142160",
+    "name": "Rauch Bravo Green Apple",
+    "category": "Bravo",
+    "subcategories": ["Green Apple"]
+  },
+  {
+    "store": "spar",
+    "id": "7094668",
+    "name": "Rauch Bravo Multivitamin",
+    "category": "Bravo",
+    "subcategories": ["Multivitamin"]
+  },
+  {
+    "store": "spar",
+    "id": "135139",
+    "name": "Rauch Bravo Orange",
+    "category": "Bravo",
+    "subcategories": ["Orange"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004340184",
+    "name": "Rauch Bravo Orange Mango",
+    "category": "Bravo",
+    "subcategories": ["Orange Mango"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004340207",
+    "name": "Rauch Bravo Orange Mango",
+    "category": "Bravo",
+    "subcategories": ["Orange Mango"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003311079",
+    "name": "Rauch Eistee Berries",
+    "category": "Eistee",
+    "subcategories": ["Berries"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003311987",
+    "name": "Rauch Eistee Berries",
+    "category": "Eistee",
+    "subcategories": ["Berries"]
+  }
+]

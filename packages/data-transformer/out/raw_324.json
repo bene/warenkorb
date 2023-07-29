@@ -1,0 +1,706 @@
+[
+  {
+    "store": "spar",
+    "id": "4263623",
+    "name": "Nivea Haarspray Color Schutz 250 ml",
+    "category": "Haarpflege",
+    "subcategories": ["Haarspray", "Color Schutz"]
+  },
+  {
+    "store": "spar",
+    "id": "5570652",
+    "name": "Nivea Haarspray Diamant Glanz 250ml",
+    "category": "Haarpflege",
+    "subcategories": ["Haarspray", "Diamant Glanz"]
+  },
+  {
+    "store": "spar",
+    "id": "2949253",
+    "name": "Nivea Haarspray Diamant Volumen 250ml",
+    "category": "Haarpflege",
+    "subcategories": ["Haarspray", "Diamant Volumen"]
+  },
+  {
+    "store": "spar",
+    "id": "3220627",
+    "name": "Nivea Haarspray Extra Stark 250ml",
+    "category": "Haarpflege",
+    "subcategories": ["Haarspray", "Extra Stark"]
+  },
+  {
+    "store": "spar",
+    "id": "3220641",
+    "name": "Nivea Haarspray Ultra Strong 250 ml",
+    "category": "Haarpflege",
+    "subcategories": ["Haarspray", "Ultra Strong"]
+  },
+  {
+    "store": "spar",
+    "id": "5263769",
+    "name": "Nivea Haarspray Volumen Pflege 250ml",
+    "category": "Haarpflege",
+    "subcategories": ["Haarspray", "Volumen Pflege"]
+  },
+  {
+    "store": "spar",
+    "id": "7320521",
+    "name": "Nivea Haarspray Volumen Pflege 75ml",
+    "category": "Haarpflege",
+    "subcategories": ["Haarspray", "Volumen Pflege"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003234156",
+    "name": "Nivea Men Fixation Styling Gel Craft Stylers 150ml",
+    "category": "Haarpflege",
+    "subcategories": ["Styling Gel", "Fixation", "Craft Stylers"]
+  },
+  {
+    "store": "spar",
+    "id": "5870066",
+    "name": "Nivea Men Shampoo Strong Power 250ml",
+    "category": "Haarpflege",
+    "subcategories": ["Shampoo", "Strong Power"]
+  },
+  {
+    "store": "spar",
+    "id": "2020000735175",
+    "name": "Nivea Men Styling Cream Natural Look 150ml",
+    "category": "Haarpflege",
+    "subcategories": ["Styling Cream", "Natural Look"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002083359",
+    "name": "Nivea Mizellen Shampoo Tiefenreinigend 400ml",
+    "category": "Haarpflege",
+    "subcategories": ["Mizellen Shampoo", "Tiefenreinigend"]
+  },
+  {
+    "store": "spar",
+    "id": "5870134",
+    "name": "Nivea Pflegeshampoo color care&protect 250ml",
+    "category": "Haarpflege",
+    "subcategories": ["Pflegeshampoo", "color care&protect"]
+  },
+  {
+    "store": "spar",
+    "id": "5870042",
+    "name": "Nivea Pflegeshampoo volume sensation 250ml",
+    "category": "Haarpflege",
+    "subcategories": ["Pflegeshampoo", "volume sensation"]
+  },
+  {
+    "store": "spar",
+    "id": "6085216",
+    "name": "Nivea Pflegeshampoo volume sensation 50ml",
+    "category": "Haarpflege",
+    "subcategories": ["Pflegeshampoo", "volume sensation"]
+  },
+  {
+    "store": "spar",
+    "id": "2020000839675",
+    "name": "Nivea Pflegespülung Reparatur & gezielte Pflege 200ml",
+    "category": "Haarpflege",
+    "subcategories": ["Pflegespülung", "Reparatur & gezielte Pflege"]
+  },
+  {
+    "store": "spar",
+    "id": "2977607",
+    "name": "Nivea Schaumfestiger Diamant Volumen 150ml",
+    "category": "Haarpflege",
+    "subcategories": ["Schaumfestiger", "Diamant Volumen"]
+  },
+  {
+    "store": "spar",
+    "id": "3220580",
+    "name": "Nivea Schaumfestiger Extra Stark 150ml",
+    "category": "Haarpflege",
+    "subcategories": ["Schaumfestiger", "Extra Stark"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001890309",
+    "name": "Nivea Schaumfestiger Pflege & Halt 150ml",
+    "category": "Haarpflege",
+    "subcategories": ["Schaumfestiger", "Pflege & Halt"]
+  },
+  {
+    "store": "spar",
+    "id": "5377398",
+    "name": "Nivea Schaumfestiger Volumen Pflege 150ml",
+    "category": "Haarpflege",
+    "subcategories": ["Schaumfestiger", "Volumen Pflege"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002620578",
+    "name": "Nivea Shampoo / Haarmilch Natürlicher Glanz 250ml",
+    "category": "Haarpflege",
+    "subcategories": ["Shampoo", "Natürlicher Glanz"]
+  },
+  {
+    "store": "spar",
+    "id": "5218905",
+    "name": "Nivea Styling Creme Gel Pflege & Halt 150 ml",
+    "category": "Haarpflege",
+    "subcategories": ["Styling Creme Gel", "Pflege & Halt"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001890552",
+    "name": "Nivea Styling Spray Diamond Gloss Care 250ml",
+    "category": "Haarpflege",
+    "subcategories": ["Styling Spray", "Diamond Gloss Care"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002748166",
+    "name": "Nivea Trockenshampoo Fresh & Mild 200ml",
+    "category": "Haarpflege",
+    "subcategories": ["Trockenshampoo", "Fresh & Mild"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003984457",
+    "name": "Domestos Hygiene-Reiniger 2L",
+    "category": "Haushalt",
+    "subcategories": ["Hygiene-Reiniger"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003905148",
+    "name": "Dr. Beckmann Hygiene-Feuchttücher Desinfektion 10 Tücher",
+    "category": "Haushalt",
+    "subcategories": ["Hygiene-Feuchttücher", "Desinfektion"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002244484",
+    "name": "Hui Desinfektionsreiniger Pinol 750ml",
+    "category": "Haushalt",
+    "subcategories": ["Desinfektionsreiniger"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004277954",
+    "name": "Alkmene 3in1 Reinigung-Peeling-Maske Mein Teebaumöl 150ml",
+    "category": "Hautpflege",
+    "subcategories": ["Reinigung-Peeling-Maske", "Mein Teebaumöl"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004277961",
+    "name": "Alkmene Anti-Unreinheiten Maske Mein Teebaumöl 2 x 7ml",
+    "category": "Hautpflege",
+    "subcategories": ["Anti-Unreinheiten Maske", "Mein Teebaumöl"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002993894",
+    "name": "Alkmene Feuchtigkeits Gesichtscreme Bio Aloe Vera 50ml",
+    "category": "Hautpflege",
+    "subcategories": ["Feuchtigkeits Gesichtscreme", "Bio Aloe Vera"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002993948",
+    "name": "Alkmene Feuchtigkeits Gesichtsmaske Bio Aloe Vera 2 x 6ml",
+    "category": "Hautpflege",
+    "subcategories": ["Feuchtigkeits Gesichtsmaske", "Bio Aloe Vera"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004278005",
+    "name": "Alkmene Gesichtscreme Mein Teebaumöl 50ml",
+    "category": "Hautpflege",
+    "subcategories": ["Gesichtscreme", "Mein Teebaumöl"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002735579",
+    "name": "Alkmene Handcreme Bio Olive 75ml",
+    "category": "Hautpflege",
+    "subcategories": ["Handcreme", "Bio Olive"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002735609",
+    "name": "Alkmene Handkonzentrat Bio Calendula 75ml",
+    "category": "Hautpflege",
+    "subcategories": ["Handkonzentrat", "Bio Calendula"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004277893",
+    "name": "Alkmene Hautklärendes Gesichtswasser Mein Teebaumöl 150ml",
+    "category": "Hautpflege",
+    "subcategories": ["Hautklärendes Gesichtswasser", "Mein Teebaumöl"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004277947",
+    "name": "Alkmene Milder Reinigungsschaum Mein Teebaumöl 150ml",
+    "category": "Hautpflege",
+    "subcategories": ["Milder Reinigungsschaum", "Mein Teebaumöl"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002993924",
+    "name": "Alkmene Mildes Gesichtswasser Bio Aloe Vera 200ml",
+    "category": "Hautpflege",
+    "subcategories": ["Mildes Gesichtswasser", "Bio Aloe Vera"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002993917",
+    "name": "Alkmene Mildes Waschgel Bio Aloe Vera 180ml",
+    "category": "Hautpflege",
+    "subcategories": ["Mildes Waschgel", "Bio Aloe Vera"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003380204",
+    "name": "Alkmene Pflege Handcreme Bio Aloe Vera 75ml",
+    "category": "Hautpflege",
+    "subcategories": ["Pflege Handcreme", "Bio Aloe Vera"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004278104",
+    "name": "Alkmene Teebaumöl Mein Teebaumöl 10ml",
+    "category": "Hautpflege",
+    "subcategories": ["Teebaumöl", "Mein Teebaumöl"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004277855",
+    "name": "Alkmene Tiefenreinigendes Waschgel Mein Teebaumöl 150ml",
+    "category": "Hautpflege",
+    "subcategories": ["Tiefenreinigendes Waschgel", "Mein Teebaumöl"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003483714",
+    "name": "Atrix Handcreme Professional Repair 100ml",
+    "category": "Hautpflege",
+    "subcategories": ["Handcreme", "Professional Repair"]
+  },
+  {
+    "store": "spar",
+    "id": "3491805",
+    "name": "Dove Body Lotion Hydro Pflege 400ml",
+    "category": "Hautpflege",
+    "subcategories": ["Body Lotion", "Hydro Pflege"]
+  },
+  {
+    "store": "spar",
+    "id": "2251707",
+    "name": "Dove Body Lotion Intensive Pflege 400ml",
+    "category": "Hautpflege",
+    "subcategories": ["Body Lotion", "Intensive Pflege"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004311702",
+    "name": "Dove Geschenkset Zeit für Dich",
+    "category": "Hautpflege",
+    "subcategories": ["Geschenkset", "Zeit für Dich"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004437235",
+    "name": "Dove Handcreme Care + Protect 75ml",
+    "category": "Hautpflege",
+    "subcategories": ["Handcreme", "Care + Protect"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003451249",
+    "name": "Dove Handpflege Handcreme Intensiv 75ml",
+    "category": "Hautpflege",
+    "subcategories": ["Handpflege", "Handcreme", "Intensiv"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001960453",
+    "name": "Dove body love Body Lotion Regenerierendes Ritual 400ml",
+    "category": "Hautpflege",
+    "subcategories": ["Body Lotion", "Regenerierendes Ritual"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002616359",
+    "name": "Dove body love Body Lotion Strahlendes Ritual 400ml",
+    "category": "Hautpflege",
+    "subcategories": ["Body Lotion", "Strahlendes Ritual"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004288547",
+    "name": "Garnier Bio Glow Feuchtigkeitspflege mit Vitamin C* 50ml",
+    "category": "Hautpflege",
+    "subcategories": ["Bio Glow Feuchtigkeitspflege", "Vitamin C*"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003802454",
+    "name": "Garnier Bio Nacht-Öl Erholung & Regeneration 30ml",
+    "category": "Hautpflege",
+    "subcategories": ["Bio Nacht-Öl", "Erholung & Regeneration"]
+  },
+  {
+    "store": "spar",
+    "id": "7806384",
+    "name": "Garnier Body Body Milk Intensiv 7 Tage 400ml",
+    "category": "Hautpflege",
+    "subcategories": ["Body Milk", "Intensiv 7 Tage"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002894726",
+    "name": "Garnier Body Body Milk Sensitiv 7 Tage 400ml",
+    "category": "Hautpflege",
+    "subcategories": ["Body Milk", "Sensitiv 7 Tage"]
+  },
+  {
+    "store": "spar",
+    "id": "2020000854500",
+    "name": "Garnier Body Creme-Milk Body Urea 400ml",
+    "category": "Hautpflege",
+    "subcategories": ["Creme-Milk Body", "Urea"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004225030",
+    "name": "Garnier Body Nährende Öl-Milch Oil Beauty 400ml",
+    "category": "Hautpflege",
+    "subcategories": ["Nährende Öl-Milch", "Oil Beauty"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004574909",
+    "name": "Garnier Body Superfood 48h nährende Creme Avocado + Omega-6 380 ml",
+    "category": "Hautpflege",
+    "subcategories": ["Superfood", "nährende Creme", "Avocado + Omega-6"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004574886",
+    "name": "Garnier Body Superfood 48h reparierende Body Butter Kakao + Ceramide 380 ml",
+    "category": "Hautpflege",
+    "subcategories": [
+      "Superfood",
+      "reparierende Body Butter",
+      "Kakao + Ceramide"
+    ]
+  },
+  {
+    "store": "spar",
+    "id": "5349524",
+    "name": "Garnier Body Tonic Feuchtigkeits-Lotion Hautstraffend 400ml",
+    "category": "Hautpflege",
+    "subcategories": ["Tonic Feuchtigkeits-Lotion", "Hautstraffend"]
+  },
+  {
+    "store": "spar",
+    "id": "5455508",
+    "name": "Garnier Creme-Milk Body Repair 400ml",
+    "category": "Hautpflege",
+    "subcategories": ["Creme-Milk Body", "Repair"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001161850",
+    "name": "Garnier Hautklar 3in1 Reinigung+Peeling+Maske 150ml",
+    "category": "Hautpflege",
+    "subcategories": ["Hautklar", "Reinigung+Peeling+Maske"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001402618",
+    "name": "Garnier Mizellen Reinigungswasser Waterproof 400ml",
+    "category": "Hautpflege",
+    "subcategories": ["Mizellen Reinigungswasser", "Waterproof"]
+  },
+  {
+    "store": "spar",
+    "id": "5455553",
+    "name": "Garnier Skin Naturals Handcreme Handrepair 100ml",
+    "category": "Hautpflege",
+    "subcategories": ["Handcreme", "Handrepair"]
+  },
+  {
+    "store": "spar",
+    "id": "1073027",
+    "name": "Garnier Skin Naturals Hautklar 3in1 150ml",
+    "category": "Hautpflege",
+    "subcategories": ["Hautklar", "3in1"]
+  },
+  {
+    "store": "spar",
+    "id": "5410200",
+    "name": "Garnier Skin Naturals Mizellen Reinigungs-Wasser normal 400ml",
+    "category": "Hautpflege",
+    "subcategories": ["Mizellen Reinigungs-Wasser", "normal"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004288707",
+    "name": "Garnier SkinActive 2in1 Glow Booster Serum Crème mit Vitamin C* / LSF25 50ml",
+    "category": "Hautpflege",
+    "subcategories": ["Glow Booster Serum", "Crème mit Vitamin C* / LSF25"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001159550",
+    "name": "Garnier SkinActive Anti-Pickel Waschgel 200ml",
+    "category": "Hautpflege",
+    "subcategories": ["Anti-Pickel Waschgel"]
+  },
+  {
+    "store": "spar",
+    "id": "5405725",
+    "name": "Garnier SkinActive Anti-Pickel-Stift Extra Stark 10ml",
+    "category": "Hautpflege",
+    "subcategories": ["Anti-Pickel-Stift", "Extra Stark"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003335914",
+    "name": "Garnier SkinActive Augen-Tuchmaske Hydra Bomb / Orange",
+    "category": "Hautpflege",
+    "subcategories": ["Augen-Tuchmaske", "Hydra Bomb / Orange"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004288639",
+    "name": "Garnier SkinActive BB Cream Mittel 50ml",
+    "category": "Hautpflege",
+    "subcategories": ["BB Cream", "Mittel"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004288684",
+    "name": "Garnier SkinActive Glow Booster Serum mit Vitamin C* 30ml",
+    "category": "Hautpflege",
+    "subcategories": ["Glow Booster Serum", "Vitamin C*"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001247578",
+    "name": "Garnier SkinActive Mizellen Reinigungswasser All-in-1 100ml",
+    "category": "Hautpflege",
+    "subcategories": ["Mizellen Reinigungswasser", "All-in-1"]
+  },
+  {
+    "store": "spar",
+    "id": "8041890",
+    "name": "Garnier SkinActive Mizellen Reinigungswasser All-in-1 400ml",
+    "category": "Hautpflege",
+    "subcategories": ["Mizellen Reinigungswasser", "All-in-1"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003138119",
+    "name": "Garnier SkinActive Mizellen Reinigungswasser All-in-1 Waterproof 100ml",
+    "category": "Hautpflege",
+    "subcategories": ["Mizellen Reinigungswasser", "All-in-1 Waterproof"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004288578",
+    "name": "Garnier SkinActive Mizellen Reinigungswasser mit Hyaluron & Aloe Vera 400ml",
+    "category": "Hautpflege",
+    "subcategories": ["Mizellen Reinigungswasser", "Hyaluron & Aloe Vera"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004288615",
+    "name": "Garnier SkinActive Mizellen Reinigungswasser mit Vitamin C* 400ml",
+    "category": "Hautpflege",
+    "subcategories": ["Mizellen Reinigungswasser", "Vitamin C*"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003428630",
+    "name": "Garnier SkinActive Mizellen-Reinigungswasser All-in-1 mit Rosenwasser 400ml",
+    "category": "Hautpflege",
+    "subcategories": ["Mizellen-Reinigungswasser", "All-in-1", "Rosenwasser"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003957338",
+    "name": "Garnier SkinActive Pflege-Milch-Tuchmaske Nutri Bomb 28g",
+    "category": "Hautpflege",
+    "subcategories": ["Pflege-Milch-Tuchmaske", "Nutri Bomb"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003136863",
+    "name": "Garnier SkinActive Schwarze Tuchmaske mit Bambuskohlenvlies 1 Stück",
+    "category": "Hautpflege",
+    "subcategories": ["Schwarze Tuchmaske", "Bambuskohlenvlies"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003900181",
+    "name": "Garnier SkinActive Tuchmaske Anti-Müdigkeit 15g",
+    "category": "Hautpflege",
+    "subcategories": ["Tuchmaske", "Anti-Müdigkeit"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002085322",
+    "name": "Garnier SkinActive Tuchmaske Hydra Bomb / Granatapfel 1 Stück",
+    "category": "Hautpflege",
+    "subcategories": ["Tuchmaske", "Hydra Bomb / Granatapfel"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003957314",
+    "name": "Garnier SkinActive Tuchmaske Hydra Bomb / Grüntee 28g",
+    "category": "Hautpflege",
+    "subcategories": ["Tuchmaske", "Hydra Bomb / Grüntee"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003957321",
+    "name": "Garnier SkinActive Tuchmaske Hydra Bomb / Sakura 28g",
+    "category": "Hautpflege",
+    "subcategories": ["Tuchmaske", "Hydra Bomb / Sakura"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004288646",
+    "name": "Garnier SkinActive Tuchmaske Vitamin C* 28g",
+    "category": "Hautpflege",
+    "subcategories": ["Tuchmaske", "Vitamin C*"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003900723",
+    "name": "Garnier SkinActive Tuchmaske glättend 15g",
+    "category": "Hautpflege",
+    "subcategories": ["Tuchmaske", "glättend"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004610805",
+    "name": "Isana 24h Creme-Gel Hydro Booster 50ml",
+    "category": "Hautpflege",
+    "subcategories": ["24h Creme-Gel", "Hydro Booster"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004610843",
+    "name": "Isana Augen- & Lippenserum Hydro Booster 15ml",
+    "category": "Hautpflege",
+    "subcategories": ["Augen- & Lippenserum", "Hydro Booster"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004611581",
+    "name": "Isana Bodycreme Kakao- & Sheabutter 500ml",
+    "category": "Hautpflege",
+    "subcategories": ["Bodycreme", "Kakao- & Sheabutter"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004611499",
+    "name": "Isana Bodylotion Leicht 400ml",
+    "category": "Hautpflege",
+    "subcategories": ["Bodylotion", "Leicht"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004610744",
+    "name": "Isana Hyaluron-Serum Hydro Booster 30ml",
+    "category": "Hautpflege",
+    "subcategories": ["Hyaluron-Serum", "Hydro Booster"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004612625",
+    "name": "Isana Hydrogel Augenpads Hydrogel Aloe Vera 2 Stück",
+    "category": "Hautpflege",
+    "subcategories": ["Hydrogel Augenpads", "Hydrogel", "Aloe Vera"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004612601",
+    "name": "Isana Intensiv Handcreme Urea 100ml",
+    "category": "Hautpflege",
+    "subcategories": ["Intensiv Handcreme", "Urea"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004611635",
+    "name": "Isana Intensiv Serum Q10 Anti-Falten Power 30ml",
+    "category": "Hautpflege",
+    "subcategories": ["Intensiv Serum", "Q10 Anti-Falten Power"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004610898",
+    "name": "Isana Lippenpflege Classic 2 x 4,8g",
+    "category": "Hautpflege",
+    "subcategories": ["Lippenpflege", "Classic"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004611659",
+    "name": "Isana Milder Reinigungsschaum Aloe Vera + Gurke 150ml",
+    "category": "Hautpflege",
+    "subcategories": ["Milder Reinigungsschaum", "Aloe Vera + Gurke"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004611505",
+    "name": "Isana Nachtcreme Q10 Anti-Falten Power 50ml",
+    "category": "Hautpflege",
+    "subcategories": ["Nachtcreme", "Q10 Anti-Falten Power"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004612533",
+    "name": "Isana Pflegecreme Reichhaltige Pflege 200ml",
+    "category": "Hautpflege",
+    "subcategories": ["Pflegecreme", "Reichhaltige Pflege"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004611628",
+    "name": "Isana Tagescreme Q10 Anti-Falten Power / LSF 30 50ml",
+    "category": "Hautpflege",
+    "subcategories": ["Tagescreme", "Q10 Anti-Falten Power", "LSF 30"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003815768",
+    "name": "Jean&Len Handbalsam Baumwolle & Sheabutter 75ml",
+    "category": "Hautpflege",
+    "subcategories": ["Handbalsam", "Baumwolle & Sheabutter"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003815706",
+    "name": "Jean&Len Handcreme Aloe Vera & Basilikum 75ml",
+    "category": "Hautpflege",
+    "subcategories": ["Handcreme", "Aloe Vera & Basilikum"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003815782",
+    "name": "Jean&Len Handcreme sehr geile Handcreme Rosmary. 75ml",
+    "category": "Hautpflege",
+    "subcategories": ["Handcreme", "sehr geile Handcreme", "Rosmary"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003815850",
+    "name": "Jean&Len Hautstraffende Bodylotion Aprikosenkernöl & Q10 250ml",
+    "category": "Hautpflege",
+    "subcategories": ["Hautstraffende Bodylotion", "Aprikosenkernöl & Q10"]
+  }
+]

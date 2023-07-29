@@ -1,0 +1,706 @@
+[
+  {
+    "store": "billa",
+    "id": "00-360150",
+    "name": "Schärdinger Bergbaron Scheiben",
+    "category": "Käse",
+    "subcategories": ["Bergkäse", "Scheiben"]
+  },
+  {
+    "store": "billa",
+    "id": "00-725247",
+    "name": "Schärdinger Bergbaron geräuchert Scheiben 45%",
+    "category": "Käse",
+    "subcategories": ["Bergbaron", "geräuchert", "Scheiben"]
+  },
+  {
+    "store": "billa",
+    "id": "00-682513",
+    "name": "Schärdinger Bergkäse 45% Scheiben Hauchdünn",
+    "category": "Käse",
+    "subcategories": ["Bergkäse", "Scheiben", "Hauchdünn"]
+  },
+  {
+    "store": "billa",
+    "id": "00-257468",
+    "name": "Schärdinger Bergkäse gerieben",
+    "category": "Käse",
+    "subcategories": ["Bergkäse", "gerieben"]
+  },
+  {
+    "store": "billa",
+    "id": "00-467387",
+    "name": "Schärdinger Brat- & Grillkäse",
+    "category": "Käse",
+    "subcategories": ["Bratkäse", "Grillkäse"]
+  },
+  {
+    "store": "billa",
+    "id": "00-471637",
+    "name": "Schärdinger Brat- & Grillkäse geräuchert",
+    "category": "Käse",
+    "subcategories": ["Bratkäse", "Grillkäse", "geräuchert"]
+  },
+  {
+    "store": "billa",
+    "id": "00-580213",
+    "name": "Schärdinger Burgerkäse Aromatisch",
+    "category": "Käse",
+    "subcategories": ["Burgerkäse", "Aromatisch"]
+  },
+  {
+    "store": "billa",
+    "id": "00-693768",
+    "name": "Schärdinger Butterkäse Scheiben",
+    "category": "Käse",
+    "subcategories": ["Butterkäse", "Scheiben"]
+  },
+  {
+    "store": "billa",
+    "id": "00-402947",
+    "name": "Schärdinger Butterkäse im Stück",
+    "category": "Käse",
+    "subcategories": ["Butterkäse", "Stück"]
+  },
+  {
+    "store": "billa",
+    "id": "00-421980",
+    "name": "Schärdinger Dachsteiner",
+    "category": "Käse",
+    "subcategories": ["Dachsteiner"]
+  },
+  {
+    "store": "billa",
+    "id": "00-439639",
+    "name": "Schärdinger Edamer",
+    "category": "Käse",
+    "subcategories": ["Edamer"]
+  },
+  {
+    "store": "billa",
+    "id": "00-421626",
+    "name": "Schärdinger Emmentaler Gerieben",
+    "category": "Käse",
+    "subcategories": ["Emmentaler", "gerieben"]
+  },
+  {
+    "store": "billa",
+    "id": "00-404536",
+    "name": "Schärdinger Geheimratskäse",
+    "category": "Käse",
+    "subcategories": ["Geheimratskäse"]
+  },
+  {
+    "store": "billa",
+    "id": "00-16080",
+    "name": "Schärdinger Gervais Natur",
+    "category": "Käse",
+    "subcategories": ["Gervais", "Natur"]
+  },
+  {
+    "store": "billa",
+    "id": "00-439638",
+    "name": "Schärdinger Gouda",
+    "category": "Käse",
+    "subcategories": ["Gouda"]
+  },
+  {
+    "store": "billa",
+    "id": "00-615955",
+    "name": "Schärdinger Gouda 45%",
+    "category": "Käse",
+    "subcategories": ["Gouda"]
+  },
+  {
+    "store": "billa",
+    "id": "00-360135",
+    "name": "Schärdinger Gouda Scheiben",
+    "category": "Käse",
+    "subcategories": ["Gouda", "Scheiben"]
+  },
+  {
+    "store": "billa",
+    "id": "00-430598",
+    "name": "Schärdinger Gouda Scheiben",
+    "category": "Käse",
+    "subcategories": ["Gouda", "Scheiben"]
+  },
+  {
+    "store": "billa",
+    "id": "00-414526",
+    "name": "Schärdinger Gratinkäse gerieben",
+    "category": "Käse",
+    "subcategories": ["Gratinkäse", "gerieben"]
+  },
+  {
+    "store": "billa",
+    "id": "00-724273",
+    "name": "Schärdinger Hummus Natur",
+    "category": "Hummus",
+    "subcategories": ["Hummus", "Natur"]
+  },
+  {
+    "store": "billa",
+    "id": "00-34889",
+    "name": "Schärdinger Jerome",
+    "category": "Käse",
+    "subcategories": ["Jerome"]
+  },
+  {
+    "store": "billa",
+    "id": "00-415686",
+    "name": "Schärdinger Jerome 45%",
+    "category": "Käse",
+    "subcategories": ["Jerome"]
+  },
+  {
+    "store": "billa",
+    "id": "00-434771",
+    "name": "Schärdinger Jerome Scheiben",
+    "category": "Käse",
+    "subcategories": ["Jerome", "Scheiben"]
+  },
+  {
+    "store": "billa",
+    "id": "00-360159",
+    "name": "Schärdinger Jerome Scheiben",
+    "category": "Käse",
+    "subcategories": ["Jerome", "Scheiben"]
+  },
+  {
+    "store": "billa",
+    "id": "00-355228",
+    "name": "Schärdinger Kaisertaler",
+    "category": "Käse",
+    "subcategories": ["Kaisertaler"]
+  },
+  {
+    "store": "billa",
+    "id": "00-700877",
+    "name": "Schärdinger Landfrischkäse Kräuter",
+    "category": "Käse",
+    "subcategories": ["Landfrischkäse", "Kräuter"]
+  },
+  {
+    "store": "billa",
+    "id": "00-700875",
+    "name": "Schärdinger Landfrischkäse Natur",
+    "category": "Käse",
+    "subcategories": ["Landfrischkäse", "Natur"]
+  },
+  {
+    "store": "billa",
+    "id": "00-415640",
+    "name": "Schärdinger Landfrischkäse Natur 20%",
+    "category": "Käse",
+    "subcategories": ["Landfrischkäse", "Natur"]
+  },
+  {
+    "store": "billa",
+    "id": "00-659175",
+    "name": "Schärdinger Landfrischkäse Natur Leicht",
+    "category": "Käse",
+    "subcategories": ["Landfrischkäse", "Natur", "Leicht"]
+  },
+  {
+    "store": "billa",
+    "id": "00-16069",
+    "name": "Schärdinger Landfrischkäse Schnittlauch",
+    "category": "Käse",
+    "subcategories": ["Landfrischkäse", "Schnittlauch"]
+  },
+  {
+    "store": "billa",
+    "id": "00-718583",
+    "name": "Schärdinger Landfrischkäse Sweet Chili",
+    "category": "Käse",
+    "subcategories": ["Landfrischkäse", "Sweet Chili"]
+  },
+  {
+    "store": "billa",
+    "id": "00-360057",
+    "name": "Schärdinger Mondseer Scheiben",
+    "category": "Käse",
+    "subcategories": ["Mondseer", "Scheiben"]
+  },
+  {
+    "store": "billa",
+    "id": "00-693293",
+    "name": "Schärdinger Moosbacher Scheiben Hauchdünn",
+    "category": "Käse",
+    "subcategories": ["Moosbacher", "Scheiben", "Hauchdünn"]
+  },
+  {
+    "store": "billa",
+    "id": "00-724190",
+    "name": "Schärdinger Mozzarella",
+    "category": "Käse",
+    "subcategories": ["Mozzarella"]
+  },
+  {
+    "store": "billa",
+    "id": "00-295803",
+    "name": "Schärdinger Mozzarella Minis",
+    "category": "Käse",
+    "subcategories": ["Mozzarella", "Minis"]
+  },
+  {
+    "store": "billa",
+    "id": "00-473683",
+    "name": "Schärdinger Mozzarella Scheiben",
+    "category": "Käse",
+    "subcategories": ["Mozzarella", "Scheiben"]
+  },
+  {
+    "store": "billa",
+    "id": "00-472472",
+    "name": "Schärdinger Mozzarella gerieben",
+    "category": "Käse",
+    "subcategories": ["Mozzarella", "gerieben"]
+  },
+  {
+    "store": "billa",
+    "id": "00-411313",
+    "name": "Schärdinger Pizzakäse",
+    "category": "Käse",
+    "subcategories": ["Pizzakäse"]
+  },
+  {
+    "store": "billa",
+    "id": "00-265178",
+    "name": "Schärdinger Rahm Emmentaler",
+    "category": "Käse",
+    "subcategories": ["Rahm", "Emmentaler"]
+  },
+  {
+    "store": "billa",
+    "id": "00-525771",
+    "name": "Schärdinger Rahm-Emmentaler Scheiben",
+    "category": "Käse",
+    "subcategories": ["Rahm-Emmentaler", "Scheiben"]
+  },
+  {
+    "store": "billa",
+    "id": "00-525779",
+    "name": "Schärdinger Rahm-Emmentaler geräuchert Scheiben",
+    "category": "Käse",
+    "subcategories": ["Rahm-Emmentaler", "geräuchert", "Scheiben"]
+  },
+  {
+    "store": "billa",
+    "id": "00-439686",
+    "name": "Schärdinger Rahmbrie-Torte",
+    "category": "Käse",
+    "subcategories": ["Rahmbrie-Torte"]
+  },
+  {
+    "store": "billa",
+    "id": "00-439616",
+    "name": "Schärdinger Rauchkäse Scheiben",
+    "category": "Käse",
+    "subcategories": ["Rauchkäse", "Scheiben"]
+  },
+  {
+    "store": "billa",
+    "id": "00-796614",
+    "name": "Schärdinger Spätzlekäse",
+    "category": "Käse",
+    "subcategories": ["Spätzlekäse"]
+  },
+  {
+    "store": "billa",
+    "id": "00-355229",
+    "name": "Schärdinger St. Severin",
+    "category": "Käse",
+    "subcategories": ["St. Severin"]
+  },
+  {
+    "store": "billa",
+    "id": "00-360662",
+    "name": "Schärdinger Toastkäsescheiben",
+    "category": "Käse",
+    "subcategories": ["Toastkäse", "Scheiben"]
+  },
+  {
+    "store": "billa",
+    "id": "00-456342",
+    "name": "Schärdinger Toastkäsescheiben würzig",
+    "category": "Käse",
+    "subcategories": ["Toastkäse", "Scheiben", "würzig"]
+  },
+  {
+    "store": "billa",
+    "id": "00-908234",
+    "name": "Schärdinger Traungold",
+    "category": "Käse",
+    "subcategories": ["Traungold"]
+  },
+  {
+    "store": "billa",
+    "id": "00-415492",
+    "name": "Schärdinger Traungold Scheiben",
+    "category": "Käse",
+    "subcategories": ["Traungold", "Scheiben"]
+  },
+  {
+    "store": "billa",
+    "id": "00-936709",
+    "name": "Schärdinger Österkron",
+    "category": "Käse",
+    "subcategories": ["Österkron"]
+  },
+  {
+    "store": "billa",
+    "id": "00-727555",
+    "name": "Simply V Caprese Genuss",
+    "category": "Käse",
+    "subcategories": ["Simply V", "Caprese Genuss"]
+  },
+  {
+    "store": "billa",
+    "id": "00-471389",
+    "name": "Simply V Character Genießerscheiben Cheddar Style",
+    "category": "Käse",
+    "subcategories": ["Simply V", "Character Genießerscheiben", "Cheddar Style"]
+  },
+  {
+    "store": "billa",
+    "id": "00-917696",
+    "name": "Simply V Cremig-Mild Streichgenuss",
+    "category": "Käse",
+    "subcategories": ["Simply V", "Cremig-Mild", "Streichgenuss"]
+  },
+  {
+    "store": "billa",
+    "id": "00-596054",
+    "name": "Simply V Cremige Genießerscheiben",
+    "category": "Käse",
+    "subcategories": ["Simply V", "Cremige Genießerscheiben"]
+  },
+  {
+    "store": "billa",
+    "id": "00-582153",
+    "name": "Simply V Grill- & Pfannengenuss Kräuter Mediterran",
+    "category": "Käse",
+    "subcategories": [
+      "Simply V",
+      "Grill- & Pfannengenuss",
+      "Kräuter Mediterran"
+    ]
+  },
+  {
+    "store": "billa",
+    "id": "00-596062",
+    "name": "Simply V Grill- & Pfannengenuss Mild-Cremig",
+    "category": "Käse",
+    "subcategories": ["Simply V", "Grill- & Pfannengenuss", "Mild-Cremig"]
+  },
+  {
+    "store": "billa",
+    "id": "00-516202",
+    "name": "Simply V Hirtengenuss",
+    "category": "Käse",
+    "subcategories": ["Simply V", "Hirtengenuss"]
+  },
+  {
+    "store": "billa",
+    "id": "00-917719",
+    "name": "Simply V Kräuter Streichgenuss",
+    "category": "Käse",
+    "subcategories": ["Simply V", "Kräuter", "Streichgenuss"]
+  },
+  {
+    "store": "billa",
+    "id": "00-844481",
+    "name": "Simply V Milde Genießerscheiben",
+    "category": "Käse",
+    "subcategories": ["Simply V", "Milde Genießerscheiben"]
+  },
+  {
+    "store": "billa",
+    "id": "00-596051",
+    "name": "Simply V Nussige Genießerscheiben",
+    "category": "Käse",
+    "subcategories": ["Simply V", "Nussige Genießerscheiben"]
+  },
+  {
+    "store": "billa",
+    "id": "00-596057",
+    "name": "Simply V Pastagenuss",
+    "category": "Käse",
+    "subcategories": ["Simply V", "Pastagenuss"]
+  },
+  {
+    "store": "billa",
+    "id": "00-949713",
+    "name": "Simply V Veganer Reibegenuss",
+    "category": "Käse",
+    "subcategories": ["Simply V", "Veganer", "Reibegenuss"]
+  },
+  {
+    "store": "billa",
+    "id": "00-949722",
+    "name": "Simply V Würzige Genießerscheiben",
+    "category": "Käse",
+    "subcategories": ["Simply V", "Würzige Genießerscheiben"]
+  },
+  {
+    "store": "billa",
+    "id": "00-16065",
+    "name": "Sirius Camembert",
+    "category": "Käse",
+    "subcategories": ["Sirius", "Camembert"]
+  },
+  {
+    "store": "billa",
+    "id": "00-894783",
+    "name": "Sirius Camembert 45%",
+    "category": "Käse",
+    "subcategories": ["Sirius", "Camembert"]
+  },
+  {
+    "store": "billa",
+    "id": "00-899608",
+    "name": "Sunnypepp mit Frischkäse - Die Käsemacher",
+    "category": "Käse",
+    "subcategories": ["Sunnypepp", "Frischkäse", "Die Käsemacher"]
+  },
+  {
+    "store": "billa",
+    "id": "00-439646",
+    "name": "Tramezzini Thunfisch Premium Aufstrich",
+    "category": "Aufstrich",
+    "subcategories": ["Tramezzini", "Thunfisch", "Premium"]
+  },
+  {
+    "store": "billa",
+    "id": "00-490896",
+    "name": "Vegavita Bio Vegrano",
+    "category": "Käse",
+    "subcategories": ["Vegavita", "Bio", "Vegrano"]
+  },
+  {
+    "store": "billa",
+    "id": "00-581836",
+    "name": "Vegavita Eifrei Aufstrich",
+    "category": "Aufstrich",
+    "subcategories": ["Vegavita", "Eifrei"]
+  },
+  {
+    "store": "billa",
+    "id": "00-582928",
+    "name": "Vegavita Frischcreme Natur",
+    "category": "Käse",
+    "subcategories": ["Vegavita", "Frischcreme", "Natur"]
+  },
+  {
+    "store": "billa",
+    "id": "00-335902",
+    "name": "Vegavita Guacamole",
+    "category": "Aufstrich",
+    "subcategories": ["Vegavita", "Guacamole"]
+  },
+  {
+    "store": "billa",
+    "id": "00-582147",
+    "name": "Vegavita Hirtengenuss",
+    "category": "Käse",
+    "subcategories": ["Vegavita", "Hirtengenuss"]
+  },
+  {
+    "store": "billa",
+    "id": "00-928770",
+    "name": "Vegavita Hummus Avocado",
+    "category": "Hummus",
+    "subcategories": ["Vegavita", "Hummus", "Avocado"]
+  },
+  {
+    "store": "billa",
+    "id": "00-360292",
+    "name": "Vegavita Hummus Classic",
+    "category": "Hummus",
+    "subcategories": ["Vegavita", "Hummus", "Classic"]
+  },
+  {
+    "store": "billa",
+    "id": "00-281899",
+    "name": "Vegavita Hummus Marrakesch",
+    "category": "Hummus",
+    "subcategories": ["Vegavita", "Hummus", "Marrakesch"]
+  },
+  {
+    "store": "billa",
+    "id": "00-481508",
+    "name": "Vegavita Hummus Trio Classic",
+    "category": "Hummus",
+    "subcategories": ["Vegavita", "Hummus", "Trio Classic"]
+  },
+  {
+    "store": "billa",
+    "id": "00-291827",
+    "name": "Vegavita Hummus Trio Orientalisch",
+    "category": "Hummus",
+    "subcategories": ["Vegavita", "Hummus", "Trio Orientalisch"]
+  },
+  {
+    "store": "billa",
+    "id": "00-468984",
+    "name": "Vegavita Liptauer Art Aufstrich",
+    "category": "Aufstrich",
+    "subcategories": ["Vegavita", "Liptauer Art"]
+  },
+  {
+    "store": "billa",
+    "id": "00-581838",
+    "name": "Vegavita Mexiko Art Aufstrich",
+    "category": "Aufstrich",
+    "subcategories": ["Vegavita", "Mexiko Art"]
+  },
+  {
+    "store": "billa",
+    "id": "00-581850",
+    "name": "Vegavita Orientalische Linse Aufstrich",
+    "category": "Aufstrich",
+    "subcategories": ["Vegavita", "Orientalische Linse"]
+  },
+  {
+    "store": "billa",
+    "id": "00-569983",
+    "name": "Vegavita Peppersweet mit Hummus",
+    "category": "Aufstrich",
+    "subcategories": ["Vegavita", "Peppersweet", "Hummus"]
+  },
+  {
+    "store": "billa",
+    "id": "00-578794",
+    "name": "Vegavita Scheiben Classic",
+    "category": "Käse",
+    "subcategories": ["Vegavita", "Scheiben", "Classic"]
+  },
+  {
+    "store": "billa",
+    "id": "00-578806",
+    "name": "Vegavita Scheiben Rustikal",
+    "category": "Käse",
+    "subcategories": ["Vegavita", "Scheiben", "Rustikal"]
+  },
+  {
+    "store": "billa",
+    "id": "00-582939",
+    "name": "Vegavita Streichgenuss Kräuter",
+    "category": "Käse",
+    "subcategories": ["Vegavita", "Streichgenuss", "Kräuter"]
+  },
+  {
+    "store": "billa",
+    "id": "00-581853",
+    "name": "Vegavita Tomate Basilikum Aufstrich",
+    "category": "Aufstrich",
+    "subcategories": ["Vegavita", "Tomate Basilikum"]
+  },
+  {
+    "store": "billa",
+    "id": "00-468980",
+    "name": "Vegavita Zwiebelschmalz Aufstrich",
+    "category": "Aufstrich",
+    "subcategories": ["Vegavita", "Zwiebelschmalz"]
+  },
+  {
+    "store": "billa",
+    "id": "00-582039",
+    "name": "Vergeer Gouda Alt",
+    "category": "Käse",
+    "subcategories": ["Vergeer", "Gouda", "Alt"]
+  },
+  {
+    "store": "billa",
+    "id": "00-516200",
+    "name": "Violife Cheddar Geschmack Scheiben",
+    "category": "Käse",
+    "subcategories": ["Violife", "Cheddar Geschmack", "Scheiben"]
+  },
+  {
+    "store": "billa",
+    "id": "00-469834",
+    "name": "Violife Cocospread",
+    "category": "Käse",
+    "subcategories": ["Violife", "Cocospread"]
+  },
+  {
+    "store": "billa",
+    "id": "00-516424",
+    "name": "Violife Creamy Gartenkräuter",
+    "category": "Käse",
+    "subcategories": ["Violife", "Creamy", "Gartenkräuter"]
+  },
+  {
+    "store": "billa",
+    "id": "00-296824",
+    "name": "Violife Creamy Original",
+    "category": "Käse",
+    "subcategories": ["Violife", "Creamy", "Original"]
+  },
+  {
+    "store": "billa",
+    "id": "00-469830",
+    "name": "Violife Epic Mature Cheddar Block",
+    "category": "Käse",
+    "subcategories": ["Violife", "Epic Mature Cheddar", "Block"]
+  },
+  {
+    "store": "billa",
+    "id": "00-469828",
+    "name": "Violife Gouda Geschmack Scheiben",
+    "category": "Käse",
+    "subcategories": ["Violife", "Gouda Geschmack", "Scheiben"]
+  },
+  {
+    "store": "billa",
+    "id": "00-296827",
+    "name": "Violife Greek White Block",
+    "category": "Käse",
+    "subcategories": ["Violife", "Greek White", "Block"]
+  },
+  {
+    "store": "billa",
+    "id": "00-723113",
+    "name": "Violife Grill Me",
+    "category": "Käse",
+    "subcategories": ["Violife", "Grill Me"]
+  },
+  {
+    "store": "billa",
+    "id": "00-700189",
+    "name": "Violife Le Rond",
+    "category": "Käse",
+    "subcategories": ["Violife", "Le Rond"]
+  },
+  {
+    "store": "billa",
+    "id": "00-469833",
+    "name": "Violife Mozzarella Geschmack gerieben",
+    "category": "Käse",
+    "subcategories": ["Violife", "Mozzarella Geschmack", "gerieben"]
+  },
+  {
+    "store": "billa",
+    "id": "00-582155",
+    "name": "Violife Pizza Mix gerieben",
+    "category": "Käse",
+    "subcategories": ["Violife", "Pizza Mix", "gerieben"]
+  },
+  {
+    "store": "billa",
+    "id": "00-596047",
+    "name": "Violife Prosociano gerieben",
+    "category": "Käse",
+    "subcategories": ["Violife", "Prosociano", "gerieben"]
+  },
+  {
+    "store": "billa",
+    "id": "00-700194",
+    "name": "Violife Würzige Scheiben",
+    "category": "Käse",
+    "subcategories": ["Violife", "Würzige Scheiben"]
+  }
+]

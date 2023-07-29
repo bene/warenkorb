@@ -1,0 +1,702 @@
+[
+  {
+    "store": "spar",
+    "id": "1441772",
+    "name": "S-BUDGET Grissini Sesam",
+    "category": "Backwaren",
+    "subcategories": ["Knabbereien"]
+  },
+  {
+    "store": "spar",
+    "id": "6282226",
+    "name": "S-BUDGET Jumbo Erdnüsse geröstet und gesalzen",
+    "category": "Knabbereien",
+    "subcategories": ["Nüsse"]
+  },
+  {
+    "store": "spar",
+    "id": "2827865",
+    "name": "S-BUDGET Kalifornische Pistazien geröstet und gesalzen",
+    "category": "Knabbereien",
+    "subcategories": ["Nüsse"]
+  },
+  {
+    "store": "spar",
+    "id": "2020000666486",
+    "name": "S-BUDGET Kalifornische Pistazien geröstet, ungesalzen",
+    "category": "Knabbereien",
+    "subcategories": ["Nüsse"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002478148",
+    "name": "S-BUDGET Kartoffel-Chips gesalzen",
+    "category": "Knabbereien",
+    "subcategories": ["Chips"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003811104",
+    "name": "S-BUDGET Kartoffelchips Paprikageschmack",
+    "category": "Knabbereien",
+    "subcategories": ["Chips"]
+  },
+  {
+    "store": "spar",
+    "id": "6781828",
+    "name": "S-BUDGET Knabber-Mix",
+    "category": "Knabbereien",
+    "subcategories": ["Nüsse", "Snack-Mix"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003070778",
+    "name": "S-BUDGET Nussmix geröstet & gesalzen",
+    "category": "Knabbereien",
+    "subcategories": ["Nüsse"]
+  },
+  {
+    "store": "spar",
+    "id": "2908410",
+    "name": "Ritter Sport Alpenmilch",
+    "category": "Schokolade",
+    "subcategories": ["Tafelschokolade"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004055811",
+    "name": "Ritter Sport Classic mild",
+    "category": "Schokolade",
+    "subcategories": ["Tafelschokolade"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003518294",
+    "name": "Ritter Sport Cranberry-Nuss",
+    "category": "Schokolade",
+    "subcategories": ["Tafelschokolade"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001549429",
+    "name": "Ritter Sport Crunchy Mandel vegan",
+    "category": "Schokolade",
+    "subcategories": ["Tafelschokolade"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001549436",
+    "name": "Ritter Sport Crunchy Vollnuss vegan",
+    "category": "Schokolade",
+    "subcategories": ["Tafelschokolade"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004026774",
+    "name": "Ritter Sport Edel-Vollmilch",
+    "category": "Schokolade",
+    "subcategories": ["Tafelschokolade"]
+  },
+  {
+    "store": "spar",
+    "id": "6240004",
+    "name": "Ritter Sport Erdbeer Joghurt",
+    "category": "Schokolade",
+    "subcategories": ["Tafelschokolade"]
+  },
+  {
+    "store": "spar",
+    "id": "2020000397175",
+    "name": "Ritter Sport Goldschatz 250g",
+    "category": "Schokolade",
+    "subcategories": ["Tafelschokolade"]
+  },
+  {
+    "store": "spar",
+    "id": "2908434",
+    "name": "Ritter Sport Halbbitter",
+    "category": "Schokolade",
+    "subcategories": ["Tafelschokolade"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002855468",
+    "name": "Ritter Sport Joghurt",
+    "category": "Schokolade",
+    "subcategories": ["Tafelschokolade"]
+  },
+  {
+    "store": "spar",
+    "id": "1879162",
+    "name": "Ritter Sport Kakao-Mousse",
+    "category": "Schokolade",
+    "subcategories": ["Tafelschokolade"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004665379",
+    "name": "Ritter Sport Knusper-Nuss 100g",
+    "category": "Schokolade",
+    "subcategories": ["Tafelschokolade", "Nuss-Schokolade"]
+  },
+  {
+    "store": "spar",
+    "id": "7753305",
+    "name": "Ritter Sport Knusperflakes",
+    "category": "Schokolade",
+    "subcategories": ["Tafelschokolade", "Knusper-Schokolade"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001086061",
+    "name": "Ritter Sport Knusperkeks",
+    "category": "Schokolade",
+    "subcategories": ["Tafelschokolade", "Knusper-Schokolade"]
+  },
+  {
+    "store": "spar",
+    "id": "1879155",
+    "name": "Ritter Sport Kokos",
+    "category": "Schokolade",
+    "subcategories": ["Tafelschokolade"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003099212",
+    "name": "Ritter Sport Mandel Orange",
+    "category": "Schokolade",
+    "subcategories": ["Tafelschokolade"]
+  },
+  {
+    "store": "spar",
+    "id": "2908458",
+    "name": "Ritter Sport Marzipan",
+    "category": "Schokolade",
+    "subcategories": ["Tafelschokolade"]
+  },
+  {
+    "store": "spar",
+    "id": "2908465",
+    "name": "Ritter Sport Nugat",
+    "category": "Schokolade",
+    "subcategories": ["Tafelschokolade"]
+  },
+  {
+    "store": "spar",
+    "id": "5858958",
+    "name": "Ritter Sport Nugat 250g",
+    "category": "Schokolade",
+    "subcategories": ["Tafelschokolade"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004667779",
+    "name": "Ritter Sport Nuss Klasse Cashew 100g",
+    "category": "Schokolade",
+    "subcategories": ["Tafelschokolade", "Nuss-Schokolade"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004667816",
+    "name": "Ritter Sport Nuss Klasse Dunkle Voll-Nuss 100g",
+    "category": "Schokolade",
+    "subcategories": ["Tafelschokolade", "Nuss-Schokolade"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003754395",
+    "name": "Ritter Sport Nuss Klasse Dunkle Vollnuss 500g",
+    "category": "Schokolade",
+    "subcategories": ["Tafelschokolade", "Nuss-Schokolade"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004668998",
+    "name": "Ritter Sport Nuss Klasse Honig-Salz-Mandel 100g",
+    "category": "Schokolade",
+    "subcategories": ["Tafelschokolade", "Nuss-Schokolade"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004668042",
+    "name": "Ritter Sport Nuss Klasse Voll-Nuss 100g",
+    "category": "Schokolade",
+    "subcategories": ["Tafelschokolade", "Nuss-Schokolade"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003754418",
+    "name": "Ritter Sport Nuss Klasse Voll-Nuss 500g",
+    "category": "Schokolade",
+    "subcategories": ["Tafelschokolade", "Nuss-Schokolade"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003754449",
+    "name": "Ritter Sport Nuss Klasse Weisse Voll-Nuss",
+    "category": "Schokolade",
+    "subcategories": ["Tafelschokolade", "Nuss-Schokolade"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004669032",
+    "name": "Ritter Sport Nuss Klasse weiße Voll-Nuss 100g",
+    "category": "Schokolade",
+    "subcategories": ["Tafelschokolade", "Nuss-Schokolade"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001086023",
+    "name": "Ritter Sport Nuss-Splitter 100g",
+    "category": "Schokolade",
+    "subcategories": ["Tafelschokolade", "Nuss-Schokolade"]
+  },
+  {
+    "store": "spar",
+    "id": "2908489",
+    "name": "Ritter Sport Pfefferminz",
+    "category": "Schokolade",
+    "subcategories": ["Tafelschokolade"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004443694",
+    "name": "Ritter Sport Roasted Peanut vegan",
+    "category": "Schokolade",
+    "subcategories": ["Tafelschokolade"]
+  },
+  {
+    "store": "spar",
+    "id": "2908397",
+    "name": "Ritter Sport Rum Trauben Nuss",
+    "category": "Schokolade",
+    "subcategories": ["Tafelschokolade", "Nuss-Schokolade"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004443748",
+    "name": "Ritter Sport Salted Caramel vegan",
+    "category": "Schokolade",
+    "subcategories": ["Tafelschokolade"]
+  },
+  {
+    "store": "spar",
+    "id": "1139006",
+    "name": "Ritter Sport Schokowürfel Bunter Mix 22 Stück",
+    "category": "Schokolade",
+    "subcategories": ["Schokoladenpralinen"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001747955",
+    "name": "Ritter Sport Schokowürfel Dankeschön",
+    "category": "Schokolade",
+    "subcategories": ["Schokoladenpralinen"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004668981",
+    "name": "Ritter Sport Tafel Kaffee Knusper 100g",
+    "category": "Schokolade",
+    "subcategories": ["Tafelschokolade", "Knusper-Schokolade"]
+  },
+  {
+    "store": "spar",
+    "id": "1099607",
+    "name": "Ritter Sport Traube Nuss",
+    "category": "Schokolade",
+    "subcategories": ["Tafelschokolade", "Nuss-Schokolade"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001257621",
+    "name": "Ritter Sport Vollmilch laktosefrei",
+    "category": "Schokolade",
+    "subcategories": ["Tafelschokolade"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001257683",
+    "name": "Ritter Sport Vollnuss laktosefrei",
+    "category": "Schokolade",
+    "subcategories": ["Tafelschokolade", "Nuss-Schokolade"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002802691",
+    "name": "Ritter Sport Waffel",
+    "category": "Schokolade",
+    "subcategories": ["Tafelschokolade", "Knusper-Schokolade"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001086047",
+    "name": "Ritter Sport Weiss + Crisp",
+    "category": "Schokolade",
+    "subcategories": ["Tafelschokolade"]
+  },
+  {
+    "store": "spar",
+    "id": "2163635",
+    "name": "Ritter Sport Weiß + Crisp 250g",
+    "category": "Schokolade",
+    "subcategories": ["Tafelschokolade"]
+  },
+  {
+    "store": "spar",
+    "id": "1652581",
+    "name": "S-BUDGET 15 Cococs Minis 400g (= 15 Stück)",
+    "category": "Süßigkeiten",
+    "subcategories": ["Kokos", "Schokoladenpralinen"]
+  },
+  {
+    "store": "spar",
+    "id": "1652529",
+    "name": "S-BUDGET 20 Caramel Minis 400g (= 20 Stück)",
+    "category": "Süßigkeiten",
+    "subcategories": ["Karamell", "Schokoladenpralinen"]
+  },
+  {
+    "store": "spar",
+    "id": "1652475",
+    "name": "S-BUDGET 20 Peanut Minis 400g (=20 Stück)",
+    "category": "Süßigkeiten",
+    "subcategories": ["Erdnuss", "Schokoladenpralinen"]
+  },
+  {
+    "store": "spar",
+    "id": "4036852",
+    "name": "S-BUDGET 24 Milk Minis 400g (=24 Stück)",
+    "category": "Süßigkeiten",
+    "subcategories": ["Schokoladenpralinen"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003493669",
+    "name": "S-BUDGET ASC Forelle küchenfertig, frisch",
+    "category": "Fisch",
+    "subcategories": ["Forelle"]
+  },
+  {
+    "store": "spar",
+    "id": "6481704",
+    "name": "S-BUDGET Apfelessig",
+    "category": "Essig",
+    "subcategories": ["Apfelessig"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001358908",
+    "name": "S-BUDGET Butterkeks 2 x 200g",
+    "category": "Kekse",
+    "subcategories": ["Butterkeks"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003714924",
+    "name": "S-BUDGET Choco Nuts XXL Packung",
+    "category": "Schokolade",
+    "subcategories": ["Knabbereien", "Nüsse"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004425195",
+    "name": "S-BUDGET Chocolate Chip Cookies",
+    "category": "Kekse",
+    "subcategories": ["Cookies"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004607294",
+    "name": "S-BUDGET Cocoa Wafers Wafers Kakao",
+    "category": "Kekse",
+    "subcategories": ["Waffeln"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004436689",
+    "name": "S-BUDGET Cookies Nougatcreme",
+    "category": "Kekse",
+    "subcategories": ["Cookies"]
+  },
+  {
+    "store": "spar",
+    "id": "2049328",
+    "name": "S-BUDGET Eier-Biskotten ca. 40 Stück",
+    "category": "Kekse",
+    "subcategories": ["Biskotten"]
+  },
+  {
+    "store": "spar",
+    "id": "1275926",
+    "name": "S-BUDGET Eiswaffeln 8 Stück",
+    "category": "Backwaren",
+    "subcategories": ["Waffeln"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003574573",
+    "name": "S-BUDGET Euka-Menthol",
+    "category": "Zuckerwaren",
+    "subcategories": ["Bonbons"]
+  },
+  {
+    "store": "spar",
+    "id": "1569759",
+    "name": "S-BUDGET Fourré Biscuits Kakao",
+    "category": "Kekse",
+    "subcategories": ["Biscuits"]
+  },
+  {
+    "store": "spar",
+    "id": "1641226",
+    "name": "S-BUDGET Grain Biscuits Vollmilchschokolade",
+    "category": "Kekse",
+    "subcategories": ["Biscuits", "Schokoladenkeks"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003710438",
+    "name": "S-BUDGET Haselnuss Mignon Haselnuss",
+    "category": "Schokolade",
+    "subcategories": ["Schokoladenpralinen", "Haselnuss"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004745002",
+    "name": "S-BUDGET Inländer Rum- Kokos Kugeln 300g",
+    "category": "Schokolade",
+    "subcategories": ["Schokoladenpralinen", "Kokos"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001696963",
+    "name": "S-BUDGET Kakaokekse 4 x 45g",
+    "category": "Kekse",
+    "subcategories": ["Kakaokekse"]
+  },
+  {
+    "store": "spar",
+    "id": "1834215",
+    "name": "S-BUDGET Knusper-Snack 10 x 25g",
+    "category": "Knabbereien",
+    "subcategories": ["Snack"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003567964",
+    "name": "S-BUDGET Kräuter-Salbei",
+    "category": "Kräuter",
+    "subcategories": ["Kräutersalz"]
+  },
+  {
+    "store": "spar",
+    "id": "1834079",
+    "name": "S-BUDGET Mignonschnitten",
+    "category": "Kekse",
+    "subcategories": ["Schnitten"]
+  },
+  {
+    "store": "spar",
+    "id": "6734855",
+    "name": "S-BUDGET Milchschokolade",
+    "category": "Schokolade",
+    "subcategories": ["Tafelschokolade"]
+  },
+  {
+    "store": "spar",
+    "id": "6734794",
+    "name": "S-BUDGET Milchschokolade mit Haselnusssplittern",
+    "category": "Schokolade",
+    "subcategories": ["Tafelschokolade", "Nuss-Schokolade"]
+  },
+  {
+    "store": "spar",
+    "id": "2251004",
+    "name": "S-BUDGET Müsliriegel Erdbeer-Jogurt 8 x 25G",
+    "category": "Müsliriegel",
+    "subcategories": ["Erdbeer-Joghurt"]
+  },
+  {
+    "store": "spar",
+    "id": "2251073",
+    "name": "S-BUDGET Müsliriegel Schoko 8 x 25G",
+    "category": "Müsliriegel",
+    "subcategories": ["Schokolade"]
+  },
+  {
+    "store": "spar",
+    "id": "2251066",
+    "name": "S-BUDGET Müsliriegel Schoko-Banane 8 x 25G",
+    "category": "Müsliriegel",
+    "subcategories": ["Schokolade", "Banane"]
+  },
+  {
+    "store": "spar",
+    "id": "1834321",
+    "name": "S-BUDGET Nussschnitten Haselnuss 3 x 40g",
+    "category": "Kekse",
+    "subcategories": ["Schnitten", "Haselnuss"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003687334",
+    "name": "S-BUDGET Obstriegel Apfel 5 x 30G",
+    "category": "Obst",
+    "subcategories": ["Obstsnacks"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003687259",
+    "name": "S-BUDGET Obstriegel Waldfrucht-Geschmack 5 x 30G",
+    "category": "Obst",
+    "subcategories": ["Obstsnacks"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003711701",
+    "name": "S-BUDGET Creme-Seife Classic 500ml",
+    "category": "Hygiene",
+    "subcategories": ["Seife"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003711794",
+    "name": "S-BUDGET Creme-Seife Nachfüllbeutel Classic 1L",
+    "category": "Hygiene",
+    "subcategories": ["Seife"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002811396",
+    "name": "Ringmappe A4 2 Ring, Kraft Ringmappe A4   2 Ring 30 Kraft  GVE 12",
+    "category": "Büromaterial",
+    "subcategories": ["Ringmappe"]
+  },
+  {
+    "store": "spar",
+    "id": "5048823",
+    "name": "Riess Classic Schlemmerpfanne 20 cm",
+    "category": "Küchenutensilien",
+    "subcategories": ["Pfanne"]
+  },
+  {
+    "store": "spar",
+    "id": "5048885",
+    "name": "Riess Classic Schlemmerpfanne 24 cm",
+    "category": "Küchenutensilien",
+    "subcategories": ["Pfanne"]
+  },
+  {
+    "store": "spar",
+    "id": "5049011",
+    "name": "Riess Classic Schlemmerpfanne 26 cm",
+    "category": "Küchenutensilien",
+    "subcategories": ["Pfanne"]
+  },
+  {
+    "store": "spar",
+    "id": "4691181",
+    "name": "Riess Cristall Fleischtopf mit Decke 24cm",
+    "category": "Küchenutensilien",
+    "subcategories": ["Topf"]
+  },
+  {
+    "store": "spar",
+    "id": "4691150",
+    "name": "Riess Cristall Fleischtopf mit Deckel 16cm",
+    "category": "Küchenutensilien",
+    "subcategories": ["Topf"]
+  },
+  {
+    "store": "spar",
+    "id": "4691167",
+    "name": "Riess Cristall Fleischtopf mit Deckel 20cm",
+    "category": "Küchenutensilien",
+    "subcategories": ["Topf"]
+  },
+  {
+    "store": "spar",
+    "id": "4698234",
+    "name": "Riess Cristall Kasserolle mit Deckel 14cm",
+    "category": "Küchenutensilien",
+    "subcategories": ["Topf"]
+  },
+  {
+    "store": "spar",
+    "id": "4709299",
+    "name": "Riess Cristall Kasserolle mit Deckel 16cm",
+    "category": "Küchenutensilien",
+    "subcategories": ["Topf"]
+  },
+  {
+    "store": "spar",
+    "id": "2020000551270",
+    "name": "Riess Cristall Kasserolle mit Deckel 18cm",
+    "category": "Küchenutensilien",
+    "subcategories": ["Topf"]
+  },
+  {
+    "store": "spar",
+    "id": "4709305",
+    "name": "Riess Cristall Kasserolle mit Deckel 20cm",
+    "category": "Küchenutensilien",
+    "subcategories": ["Topf"]
+  },
+  {
+    "store": "spar",
+    "id": "4698081",
+    "name": "Riess Cristall Schnabeltopf 12cm",
+    "category": "Küchenutensilien",
+    "subcategories": ["Topf"]
+  },
+  {
+    "store": "spar",
+    "id": "4698111",
+    "name": "Riess Cristall Stielkasserolle 16cm",
+    "category": "Küchenutensilien",
+    "subcategories": ["Topf"]
+  },
+  {
+    "store": "spar",
+    "id": "4691198",
+    "name": "Riess Cristall Topf mit Deckel hoch 20cm",
+    "category": "Küchenutensilien",
+    "subcategories": ["Topf"]
+  },
+  {
+    "store": "spar",
+    "id": "4240174",
+    "name": "Riess Cristall Topf mit Deckel hoch 26cm",
+    "category": "Küchenutensilien",
+    "subcategories": ["Topf"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003436772",
+    "name": "Riess Eisen-Schnitzelpfanne 24cm",
+    "category": "Küchenutensilien",
+    "subcategories": ["Pfanne"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003436727",
+    "name": "Riess Eisenpfanne Tirol 24cm",
+    "category": "Küchenutensilien",
+    "subcategories": ["Pfanne"]
+  },
+  {
+    "store": "spar",
+    "id": "437233",
+    "name": "Riess Email Deckel 12cm rosa",
+    "category": "Küchenutensilien",
+    "subcategories": ["Topfdeckel"]
+  },
+  {
+    "store": "spar",
+    "id": "437240",
+    "name": "Riess Email Deckel 14cm hellblau",
+    "category": "Küchenutensilien",
+    "subcategories": ["Topfdeckel"]
+  }
+]

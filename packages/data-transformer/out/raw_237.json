@@ -1,0 +1,702 @@
+[
+  {
+    "store": "spar",
+    "id": "7945175",
+    "name": "Stiegl Goldbräu 6 x 0,5l",
+    "category": "Bier",
+    "subcategories": ["Lagerbier", "Bierdosen"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002962128",
+    "name": "Stiegl Hausbier Czecha Tant Böhmisches Pils",
+    "category": "Bier",
+    "subcategories": ["Pils", "Hausbier"]
+  },
+  {
+    "store": "spar",
+    "id": "2020000969297",
+    "name": "Stiegl Hausbier Gipfelstürmer",
+    "category": "Bier",
+    "subcategories": ["Hausbier", "Craftbier"]
+  },
+  {
+    "store": "spar",
+    "id": "7921186",
+    "name": "Stiegl Hausbier Gipfelstürmer",
+    "category": "Bier",
+    "subcategories": ["Hausbier", "Craftbier"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003298615",
+    "name": "Stiegl Hell",
+    "category": "Bier",
+    "subcategories": ["Lagerbier", "Bierflaschen"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003720413",
+    "name": "Stiegl Hell",
+    "category": "Bier",
+    "subcategories": ["Lagerbier", "Bierflaschen"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003299049",
+    "name": "Stiegl Hell 6x0,5lt",
+    "category": "Bier",
+    "subcategories": ["Lagerbier", "Bierdosen"]
+  },
+  {
+    "store": "spar",
+    "id": "8018557",
+    "name": "Stiegl Paracelsus Zwickl 6 x 0,5l",
+    "category": "Bier",
+    "subcategories": ["Zwickl", "Bierdosen"]
+  },
+  {
+    "store": "spar",
+    "id": "7943058",
+    "name": "Stiegl Pils 6 x 0,5l",
+    "category": "Bier",
+    "subcategories": ["Pils", "Bierdosen"]
+  },
+  {
+    "store": "spar",
+    "id": "2054742",
+    "name": "Stiegl Radler Grapefruit naturtrüb",
+    "category": "Bier",
+    "subcategories": ["Radler", "Bierflaschen"]
+  },
+  {
+    "store": "spar",
+    "id": "8033161",
+    "name": "Stiegl Radler Grapefruit naturtrüb 6 x 0,5l",
+    "category": "Bier",
+    "subcategories": ["Radler", "Bierdosen"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003298387",
+    "name": "Stiegl Radler Stiegl Radler Himbeere 6x0,5lt",
+    "category": "Bier",
+    "subcategories": ["Radler", "Bierdosen"]
+  },
+  {
+    "store": "spar",
+    "id": "3854488",
+    "name": "Stiegl Radler Zitrone Naturtrüb",
+    "category": "Bier",
+    "subcategories": ["Radler", "Bierflaschen"]
+  },
+  {
+    "store": "spar",
+    "id": "8031662",
+    "name": "Stiegl Radler Zitrone Naturtrüb 6 x 0,5l",
+    "category": "Bier",
+    "subcategories": ["Radler", "Bierdosen"]
+  },
+  {
+    "store": "spar",
+    "id": "6797850",
+    "name": "Stiegl Weisse Sport Weisse Alkoholfrei 6 x 0,5l",
+    "category": "Bier",
+    "subcategories": ["Weizenbier", "Bierflaschen"]
+  },
+  {
+    "store": "spar",
+    "id": "8030603",
+    "name": "Stiegl Weisse Weisse Naturtrüb 6 x 0,5l",
+    "category": "Bier",
+    "subcategories": ["Weizenbier", "Bierflaschen"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004120120",
+    "name": "Starbucks Signature Chocolate 42% Kakaoanteil",
+    "category": "Schokolade",
+    "subcategories": ["Trinkschokolade", "Kakao"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004141880",
+    "name": "Starbucks Trinkschokolade Salted Caramel 10x22G",
+    "category": "Schokolade",
+    "subcategories": ["Trinkschokolade", "Kakao"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003132780",
+    "name": "Starbucks by Nescafe Dolce Gusto Kapseln Caramel Macchiato",
+    "category": "Kaffee",
+    "subcategories": ["Kaffeekapseln", "Caramel Macchiato"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003132797",
+    "name": "Starbucks by Nescafe Dolce Gusto Kapseln House Blend Grande",
+    "category": "Kaffee",
+    "subcategories": ["Kaffeekapseln", "House Blend"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003871986",
+    "name": "Starbucks by Nescafe Dolce Gusto Kapseln Vanille Macchiato",
+    "category": "Kaffee",
+    "subcategories": ["Kaffeekapseln", "Vanille Macchiato"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004577948",
+    "name": "Starbucks by Nescafe Dolce Gusto White Mocha Chococino 8+8 Kapseln",
+    "category": "Kaffee",
+    "subcategories": ["Kaffeekapseln", "Mocha", "Chococino"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004669209",
+    "name": "Starbucks by Nespresso Blonde Espresso Roast 36 Kapseln",
+    "category": "Kaffee",
+    "subcategories": ["Kaffeekapseln", "Espresso", "Blonde"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003968174",
+    "name": "Starbucks by Nespresso Kapseln Breakfast Blend",
+    "category": "Kaffee",
+    "subcategories": ["Kaffeekapseln", "Breakfast Blend"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003637087",
+    "name": "Starbucks by Nespresso Kapseln Caffé Verona",
+    "category": "Kaffee",
+    "subcategories": ["Kaffeekapseln", "Caffé Verona"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003132766",
+    "name": "Starbucks by Nespresso Kapseln Espesso Roast",
+    "category": "Kaffee",
+    "subcategories": ["Kaffeekapseln", "Espresso", "Roast"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003910302",
+    "name": "Starbucks by Nespresso Kapseln Espresso roast decaf 10 Stück",
+    "category": "Kaffee",
+    "subcategories": ["Kaffeekapseln", "Espresso", "Decaf"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003770456",
+    "name": "Starbucks by Nespresso Kapseln Italian Style Roast",
+    "category": "Kaffee",
+    "subcategories": ["Kaffeekapseln", "Espresso", "Italian Style"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003132476",
+    "name": "Starbucks by Nespresso Kapseln Pike Place Roast Lungo",
+    "category": "Kaffee",
+    "subcategories": ["Kaffeekapseln", "Lungo", "Pike Place Roast"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003132742",
+    "name": "Starbucks by Nespresso Kapseln Single-Origin Colombia",
+    "category": "Kaffee",
+    "subcategories": ["Kaffeekapseln", "Single-Origin Colombia"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004335937",
+    "name": "Starbucks by Nespresso Kapseln SingleOrigin Guatemala",
+    "category": "Kaffee",
+    "subcategories": ["Kaffeekapseln", "Single-Origin Guatemala"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004181572",
+    "name": "Starbucks by Nespresso Kapseln Sunny Day Blend",
+    "category": "Kaffee",
+    "subcategories": ["Kaffeekapseln", "Sunny Day Blend"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004669193",
+    "name": "Starbucks by Nespresso Lungo House Blend 36 Kapseln",
+    "category": "Kaffee",
+    "subcategories": ["Kaffeekapseln", "Lungo", "House Blend"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004572011",
+    "name": "Starbucks by Nespresso creamy Vanilla flavoured coffee 10 Kapseln",
+    "category": "Kaffee",
+    "subcategories": ["Kaffeekapseln", "Vanilla"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004571960",
+    "name": "Starbucks by Nespresso smooth Caramel by Nespresso 10 Kapseln",
+    "category": "Kaffee",
+    "subcategories": ["Kaffeekapseln", "Caramel"]
+  },
+  {
+    "store": "spar",
+    "id": "2020000856085",
+    "name": "Stick & Lembke Bio-Grüntee Matcha 30G",
+    "category": "Tee",
+    "subcategories": ["Grüntee", "Matcha"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002955250",
+    "name": "Spumante Millesimato Bianco",
+    "category": "Sekt",
+    "subcategories": ["Spumante", "Weiß"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003346392",
+    "name": "Spumante Millesimato Rosé",
+    "category": "Sekt",
+    "subcategories": ["Spumante", "Rosé"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002434823",
+    "name": "Stefan Potzinger Sekt Brut 1860",
+    "category": "Sekt",
+    "subcategories": ["Brut", "Sektflaschen"]
+  },
+  {
+    "store": "spar",
+    "id": "7212161",
+    "name": "Steininger Riesling Sekt 2020",
+    "category": "Sekt",
+    "subcategories": ["Riesling", "Sektflaschen"]
+  },
+  {
+    "store": "spar",
+    "id": "7212109",
+    "name": "Steininger Sekt Sauvignon Blanc 2018",
+    "category": "Sekt",
+    "subcategories": ["Sauvignon Blanc", "Sektflaschen"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002958572",
+    "name": "Sourz Apple",
+    "category": "Likör",
+    "subcategories": ["Apfellikör"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003734779",
+    "name": "Sourz Blackcurrant",
+    "category": "Likör",
+    "subcategories": ["Johannisbeerlikör"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004328236",
+    "name": "Sourz Mango",
+    "category": "Likör",
+    "subcategories": ["Mangolikör"]
+  },
+  {
+    "store": "spar",
+    "id": "5270927",
+    "name": "Southern Comfort Whiskylikör",
+    "category": "Likör",
+    "subcategories": ["Whiskylikör"]
+  },
+  {
+    "store": "spar",
+    "id": "4510437",
+    "name": "Speyburn 10 YO",
+    "category": "Whisky",
+    "subcategories": ["Single Malt Whisky"]
+  },
+  {
+    "store": "spar",
+    "id": "2439655",
+    "name": "Springbank 10 YO",
+    "category": "Whisky",
+    "subcategories": ["Single Malt Whisky"]
+  },
+  {
+    "store": "spar",
+    "id": "7678059",
+    "name": "Stock Bewährte Tradition",
+    "category": "Spirituose",
+    "subcategories": []
+  },
+  {
+    "store": "spar",
+    "id": "7682254",
+    "name": "Stolichnaya 0,7 L",
+    "category": "Wodka",
+    "subcategories": []
+  },
+  {
+    "store": "spar",
+    "id": "359566",
+    "name": "Stroh 60%",
+    "category": "Spirituose",
+    "subcategories": ["Stroh", "Rum"]
+  },
+  {
+    "store": "spar",
+    "id": "7683442",
+    "name": "Stroh 80 %",
+    "category": "Spirituose",
+    "subcategories": ["Stroh", "Rum"]
+  },
+  {
+    "store": "spar",
+    "id": "228992",
+    "name": "Stroh 80%",
+    "category": "Spirituose",
+    "subcategories": ["Stroh", "Rum"]
+  },
+  {
+    "store": "spar",
+    "id": "180429",
+    "name": "Stroh Jagertee 40%",
+    "category": "Spirituose",
+    "subcategories": ["Stroh", "Jagertee"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004612021",
+    "name": "Spinelli Val di Fara Montepulciano d'Abruzzo DOC 2022",
+    "category": "Wein",
+    "subcategories": ["Rotwein", "Montepulciano d'Abruzzo"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004611987",
+    "name": "Spinelli Val di Fara Montepulciano d'Abruzzo DOC Riserva 2019",
+    "category": "Wein",
+    "subcategories": ["Rotwein", "Montepulciano d'Abruzzo", "Riserva"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004648303",
+    "name": "Spinelli Val di Fara Rosé Cerasuolo d'Abruzzo DOC 2022",
+    "category": "Wein",
+    "subcategories": ["Roséwein", "Cerasuolo d'Abruzzo"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003766510",
+    "name": "Spritzweinmonarchie Franz weisser Spritzer",
+    "category": "Wein",
+    "subcategories": ["Spritzer", "Weißwein"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003767470",
+    "name": "Spritzweinmonarchie Sissi Rosé Spritzer",
+    "category": "Wein",
+    "subcategories": ["Spritzer", "Roséwein"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004215277",
+    "name": "St. Hallett Butcher's Cart Shiraz 2020",
+    "category": "Wein",
+    "subcategories": ["Shiraz", "Rotwein"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004392220",
+    "name": "Stadt Krems Grüner Veltliner Alte Reben Kremstal DAC 2021",
+    "category": "Wein",
+    "subcategories": ["Grüner Veltliner", "Weißwein"]
+  },
+  {
+    "store": "spar",
+    "id": "3880128",
+    "name": "Stagård Grüner Veltliner Handwerk Kremstal DAC BIO 2022",
+    "category": "Wein",
+    "subcategories": ["Grüner Veltliner", "Weißwein", "BIO"]
+  },
+  {
+    "store": "spar",
+    "id": "3880036",
+    "name": "Stagård Grüner Veltliner Urban BIO 2021",
+    "category": "Wein",
+    "subcategories": ["Grüner Veltliner", "Weißwein", "BIO"]
+  },
+  {
+    "store": "spar",
+    "id": "3880012",
+    "name": "Stagård Riesling Urban BIO 2021",
+    "category": "Wein",
+    "subcategories": ["Riesling", "Weißwein", "BIO"]
+  },
+  {
+    "store": "spar",
+    "id": "2020000445463",
+    "name": "Steininger Cabernet Sauvignon Rosé 2022",
+    "category": "Wein",
+    "subcategories": ["Cabernet Sauvignon", "Roséwein"]
+  },
+  {
+    "store": "spar",
+    "id": "8013514",
+    "name": "Steininger Gr. Veltliner Ried Kittmannsb. 1. Lage Kamptal DAC Reserve 2021",
+    "category": "Wein",
+    "subcategories": ["Grüner Veltliner", "Weißwein", "Ried Kittmannsberg"]
+  },
+  {
+    "store": "spar",
+    "id": "8182890",
+    "name": "Steininger Grüner Veltliner Kamptal DAC 2022",
+    "category": "Wein",
+    "subcategories": ["Grüner Veltliner", "Weißwein"]
+  },
+  {
+    "store": "spar",
+    "id": "2652283",
+    "name": "Steininger Grüner Veltliner Ried Loisium Kamptal DAC Reserve 2022",
+    "category": "Wein",
+    "subcategories": ["Grüner Veltliner", "Weißwein", "Ried Loisium"]
+  },
+  {
+    "store": "spar",
+    "id": "8024701",
+    "name": "Steininger Muskateller 2022",
+    "category": "Wein",
+    "subcategories": ["Muskateller", "Weißwein"]
+  },
+  {
+    "store": "spar",
+    "id": "8183033",
+    "name": "Steininger Riesling Kamptal DAC 2021",
+    "category": "Wein",
+    "subcategories": ["Riesling", "Weißwein"]
+  },
+  {
+    "store": "spar",
+    "id": "2678559",
+    "name": "Steininger Riesling Ried Steinhaus ÖTW 1. Lage Kamptal DAC Reserve 2020",
+    "category": "Wein",
+    "subcategories": ["Riesling", "Weißwein", "Ried Steinhaus"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001847945",
+    "name": "Steininger Sauvignon Blanc 2022",
+    "category": "Wein",
+    "subcategories": ["Sauvignon Blanc", "Weißwein"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003633256",
+    "name": "Steininger Weißburgunder 2021",
+    "category": "Wein",
+    "subcategories": ["Weißburgunder", "Weißwein"]
+  },
+  {
+    "store": "spar",
+    "id": "8183576",
+    "name": "Stemmari Nero d'Avola Sicilia DOC 2020",
+    "category": "Wein",
+    "subcategories": ["Nero d'Avola", "Rotwein"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001707522",
+    "name": "Stibitzer Cider Apfel",
+    "category": "Cider",
+    "subcategories": ["Apfelcider"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001707539",
+    "name": "Stibitzer Cider Birne/Apfel",
+    "category": "Cider",
+    "subcategories": ["Birnencider", "Apfelcider"]
+  },
+  {
+    "store": "spar",
+    "id": "7440373",
+    "name": "Stift Klosterneuburg Grüner Veltliner",
+    "category": "Wein",
+    "subcategories": ["Grüner Veltliner", "Weißwein"]
+  },
+  {
+    "store": "spar",
+    "id": "7440694",
+    "name": "Stift Klosterneuburg Grüner Veltliner 2020",
+    "category": "Wein",
+    "subcategories": ["Grüner Veltliner", "Weißwein"]
+  },
+  {
+    "store": "spar",
+    "id": "7440762",
+    "name": "Stift Klosterneuburg Riesling 2021",
+    "category": "Wein",
+    "subcategories": ["Riesling", "Weißwein"]
+  },
+  {
+    "store": "spar",
+    "id": "3107614",
+    "name": "Stift Klosterneuburg Spätrot-Rotgipfler 2021",
+    "category": "Wein",
+    "subcategories": ["Spätrot-Rotgipfler", "Weißwein"]
+  },
+  {
+    "store": "spar",
+    "id": "3107621",
+    "name": "Stift Klosterneuburg St. Laurent 2021",
+    "category": "Wein",
+    "subcategories": ["St. Laurent", "Rotwein"]
+  },
+  {
+    "store": "spar",
+    "id": "3107607",
+    "name": "Stift Klosterneuburg Weißburgunder 2021",
+    "category": "Wein",
+    "subcategories": ["Weißburgunder", "Weißwein"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001799053",
+    "name": "Stift Klosterneuburg Wiener Gemischter Satz DAC Nussdorf 2021",
+    "category": "Wein",
+    "subcategories": ["Gemischter Satz", "Weißwein"]
+  },
+  {
+    "store": "spar",
+    "id": "3107638",
+    "name": "Stift Klosterneuburg Zweigelt 2021",
+    "category": "Wein",
+    "subcategories": ["Zweigelt", "Rotwein"]
+  },
+  {
+    "store": "spar",
+    "id": "5122516",
+    "name": "Strauss Chardonnay Ried Gamlitzberg Südsteiermark DAC 2021",
+    "category": "Wein",
+    "subcategories": ["Chardonnay", "Weißwein", "Ried Gamlitzberg"]
+  },
+  {
+    "store": "spar",
+    "id": "1313406",
+    "name": "Strauss Gelber Muskateller Südsteiermark DAC 2021",
+    "category": "Wein",
+    "subcategories": ["Gelber Muskateller", "Weißwein"]
+  },
+  {
+    "store": "spar",
+    "id": "1315455",
+    "name": "Strauss Sauvignon Blanc Südsteiermark DAC 2022",
+    "category": "Wein",
+    "subcategories": ["Sauvignon Blanc", "Weißwein"]
+  },
+  {
+    "store": "spar",
+    "id": "1306934",
+    "name": "Strauss Weißburgunder Südsteiermark DAC 2021",
+    "category": "Wein",
+    "subcategories": ["Weißburgunder", "Weißwein"]
+  },
+  {
+    "store": "spar",
+    "id": "1315479",
+    "name": "Strauss Welschriesling Südsteiermark DAC 2022",
+    "category": "Wein",
+    "subcategories": ["Welschriesling", "Weißwein"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001177486",
+    "name": "Strongbow Apple Cider Gold Apple",
+    "category": "Cider",
+    "subcategories": ["Äpfelcider"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002781538",
+    "name": "Spak Aufstrich Liptauer mild, Liptauer scharf",
+    "category": "Aufstrich",
+    "subcategories": ["Liptauer"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002867546",
+    "name": "Spak Aufstrich Liptauer mild/scharf, Bärlauch 210g",
+    "category": "Aufstrich",
+    "subcategories": ["Liptauer", "Bärlauch"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003963216",
+    "name": "Spak Eisalat mit Schnittlauch",
+    "category": "Frühstück",
+    "subcategories": ["Eisalat", "Schnittlauch"]
+  },
+  {
+    "store": "spar",
+    "id": "2451404",
+    "name": "Spak Frischkäse Kräuteraufstrich",
+    "category": "Aufstrich",
+    "subcategories": ["Frischkäse"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002638443",
+    "name": "Spak Kürbis/Liptauer mild/ Liptauer scharf",
+    "category": "Aufstrich",
+    "subcategories": ["Kürbis", "Liptauer"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001036356",
+    "name": "Spak Tramezzini Diabolo",
+    "category": "Sandwich",
+    "subcategories": ["Tramezzini"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001036318",
+    "name": "Spak Tramezzini Ei",
+    "category": "Sandwich",
+    "subcategories": ["Tramezzini"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002107772",
+    "name": "Spak Tramezzini Knoblauch Kräuter",
+    "category": "Sandwich",
+    "subcategories": ["Tramezzini"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001036400",
+    "name": "Spak Tramezzini Lachs",
+    "category": "Sandwich",
+    "subcategories": ["Tramezzini"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002195755",
+    "name": "Spak Tramezzini Mexico",
+    "category": "Sandwich",
+    "subcategories": ["Tramezzini"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001036370",
+    "name": "Spak Tramezzini Thunfisch",
+    "category": "Sandwich",
+    "subcategories": ["Tramezzini"]
+  }
+]

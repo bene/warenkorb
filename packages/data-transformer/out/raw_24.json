@@ -1,0 +1,702 @@
+[
+  {
+    "store": "billa",
+    "id": "00-708137",
+    "name": "Gschpusi Skiwasser mit Schuss",
+    "category": "Getränke",
+    "subcategories": ["Fruchtsaft", "alkoholhaltig"]
+  },
+  {
+    "store": "billa",
+    "id": "00-6107",
+    "name": "Gurktaler Der Milde Alpenkräuter",
+    "category": "Spirituosen",
+    "subcategories": ["Kräuterlikör"]
+  },
+  {
+    "store": "billa",
+    "id": "00-796338",
+    "name": "Gänserndorfer Eier-Cream-Likör",
+    "category": "Spirituosen",
+    "subcategories": ["Likör"]
+  },
+  {
+    "store": "billa",
+    "id": "00-447361",
+    "name": "Gölles Ron Johan Old Plum Rum",
+    "category": "Spirituosen",
+    "subcategories": ["Rum"]
+  },
+  {
+    "store": "billa",
+    "id": "00-415489",
+    "name": "Hauser Tradition Marillenschnaps",
+    "category": "Spirituosen",
+    "subcategories": ["Schnaps"]
+  },
+  {
+    "store": "billa",
+    "id": "00-11232",
+    "name": "Hauser Tradition Williams-Birnenschnaps",
+    "category": "Spirituosen",
+    "subcategories": ["Schnaps"]
+  },
+  {
+    "store": "billa",
+    "id": "00-696591",
+    "name": "Havana Club Anejo 3 Anos",
+    "category": "Spirituosen",
+    "subcategories": ["Rum"]
+  },
+  {
+    "store": "billa",
+    "id": "00-912453",
+    "name": "Havana Club Anejo 7 Anos",
+    "category": "Spirituosen",
+    "subcategories": ["Rum"]
+  },
+  {
+    "store": "billa",
+    "id": "00-636234",
+    "name": "Hendrick's Gin",
+    "category": "Spirituosen",
+    "subcategories": ["Gin"]
+  },
+  {
+    "store": "billa",
+    "id": "00-11379",
+    "name": "Hennessy Very Special",
+    "category": "Spirituosen",
+    "subcategories": ["Cognac"]
+  },
+  {
+    "store": "billa",
+    "id": "00-701350",
+    "name": "Hennessy Very Special - Limited Edition",
+    "category": "Spirituosen",
+    "subcategories": ["Cognac"]
+  },
+  {
+    "store": "billa",
+    "id": "00-963829",
+    "name": "High Mountains Sahnelikör",
+    "category": "Spirituosen",
+    "subcategories": ["Likör"]
+  },
+  {
+    "store": "billa",
+    "id": "00-838772",
+    "name": "Highland Park 12yo Single Malt Scotch Whisky",
+    "category": "Spirituosen",
+    "subcategories": ["Whisky"]
+  },
+  {
+    "store": "billa",
+    "id": "00-721353",
+    "name": "Hochriegl Betty Wine-Spritz",
+    "category": "Getränke",
+    "subcategories": ["Wein", "Spritzi"]
+  },
+  {
+    "store": "billa",
+    "id": "00-587085",
+    "name": "Hofferer Espresso Martini",
+    "category": "Getränke",
+    "subcategories": ["Kaffee", "Cocktail"]
+  },
+  {
+    "store": "billa",
+    "id": "00-624794",
+    "name": "Jack Daniel's Gentleman Jack",
+    "category": "Spirituosen",
+    "subcategories": ["Whisky"]
+  },
+  {
+    "store": "billa",
+    "id": "00-789473",
+    "name": "Jack Daniel's Tennessee Honey",
+    "category": "Spirituosen",
+    "subcategories": ["Whisky", "Honig"]
+  },
+  {
+    "store": "billa",
+    "id": "00-531109",
+    "name": "Jack Daniel's Tennessee Whiskey No. 7",
+    "category": "Spirituosen",
+    "subcategories": ["Whisky"]
+  },
+  {
+    "store": "billa",
+    "id": "00-752887",
+    "name": "Jameson Black Barrel Irish Whiskey",
+    "category": "Spirituosen",
+    "subcategories": ["Whisky"]
+  },
+  {
+    "store": "billa",
+    "id": "00-498725",
+    "name": "Jameson Irish Whiskey",
+    "category": "Spirituosen",
+    "subcategories": ["Whisky"]
+  },
+  {
+    "store": "billa",
+    "id": "00-72101",
+    "name": "Jim Beam Bourbon Whiskey",
+    "category": "Spirituosen",
+    "subcategories": ["Whisky"]
+  },
+  {
+    "store": "billa",
+    "id": "00-303190",
+    "name": "Johnnie Walker Black Label",
+    "category": "Spirituosen",
+    "subcategories": ["Whisky"]
+  },
+  {
+    "store": "billa",
+    "id": "00-749233",
+    "name": "Johnnie Walker Gold Label Reserve",
+    "category": "Spirituosen",
+    "subcategories": ["Whisky"]
+  },
+  {
+    "store": "billa",
+    "id": "00-72121",
+    "name": "Johnnie Walker Red Label",
+    "category": "Spirituosen",
+    "subcategories": ["Whisky"]
+  },
+  {
+    "store": "billa",
+    "id": "00-303200",
+    "name": "Jägermeister",
+    "category": "Spirituosen",
+    "subcategories": ["Kräuterlikör"]
+  },
+  {
+    "store": "billa",
+    "id": "00-819360",
+    "name": "Jägermeister 9er",
+    "category": "Spirituosen",
+    "subcategories": ["Kräuterlikör"]
+  },
+  {
+    "store": "billa",
+    "id": "00-586921",
+    "name": "Katlenburger Alcoholic Ice Tea Pfirsich",
+    "category": "Getränke",
+    "subcategories": ["Eistee", "alkoholhaltig"]
+  },
+  {
+    "store": "billa",
+    "id": "00-441011",
+    "name": "Kleiner Klopfer Feige",
+    "category": "Spirituosen",
+    "subcategories": ["Likör"]
+  },
+  {
+    "store": "billa",
+    "id": "00-621940",
+    "name": "Kleiner Klopfer Fun Mix",
+    "category": "Spirituosen",
+    "subcategories": ["Likör"]
+  },
+  {
+    "store": "billa",
+    "id": "00-297152",
+    "name": "Kleiner Klopfer Lady Mix",
+    "category": "Spirituosen",
+    "subcategories": ["Likör"]
+  },
+  {
+    "store": "billa",
+    "id": "00-726602",
+    "name": "La Gioiosa Spitzzoso",
+    "category": "Getränke",
+    "subcategories": ["Prosecco", "Sekt"]
+  },
+  {
+    "store": "billa",
+    "id": "00-778506",
+    "name": "Laphroaig 10 Years Old Single Islay Malt Whisky",
+    "category": "Spirituosen",
+    "subcategories": ["Whisky"]
+  },
+  {
+    "store": "billa",
+    "id": "00-1377",
+    "name": "Lehar Bitter",
+    "category": "Spirituosen",
+    "subcategories": ["Bitter"]
+  },
+  {
+    "store": "billa",
+    "id": "00-412926",
+    "name": "Lehar Eier Liqueur Club Class",
+    "category": "Spirituosen",
+    "subcategories": ["Likör"]
+  },
+  {
+    "store": "billa",
+    "id": "00-23803",
+    "name": "Lehar Kirsch Liqueur",
+    "category": "Spirituosen",
+    "subcategories": ["Likör"]
+  },
+  {
+    "store": "billa",
+    "id": "00-11444",
+    "name": "Leibwächter Kräuterbitter Mini",
+    "category": "Spirituosen",
+    "subcategories": ["Kräuterlikör"]
+  },
+  {
+    "store": "billa",
+    "id": "00-727053",
+    "name": "Lillet Blanc",
+    "category": "Getränke",
+    "subcategories": ["Aperitif"]
+  },
+  {
+    "store": "billa",
+    "id": "00-778746",
+    "name": "Lillet Rose",
+    "category": "Getränke",
+    "subcategories": ["Aperitif"]
+  },
+  {
+    "store": "billa",
+    "id": "00-408908",
+    "name": "Limoncello Del Conte",
+    "category": "Spirituosen",
+    "subcategories": ["Likör"]
+  },
+  {
+    "store": "billa",
+    "id": "00-578468",
+    "name": "Machater Schilerol",
+    "category": "Spirituosen",
+    "subcategories": ["Schnaps"]
+  },
+  {
+    "store": "billa",
+    "id": "00-407483",
+    "name": "Malfy Gin Limone",
+    "category": "Spirituosen",
+    "subcategories": ["Gin"]
+  },
+  {
+    "store": "billa",
+    "id": "00-407484",
+    "name": "Malfy Gin Rosa",
+    "category": "Spirituosen",
+    "subcategories": ["Gin"]
+  },
+  {
+    "store": "billa",
+    "id": "00-14850",
+    "name": "Malibu Kokoslikör",
+    "category": "Spirituosen",
+    "subcategories": ["Likör", "Kokos"]
+  },
+  {
+    "store": "billa",
+    "id": "00-302940",
+    "name": "Martini Bianco",
+    "category": "Getränke",
+    "subcategories": ["Wermut"]
+  },
+  {
+    "store": "billa",
+    "id": "00-302941",
+    "name": "Martini Extra Dry",
+    "category": "Getränke",
+    "subcategories": ["Wermut"]
+  },
+  {
+    "store": "billa",
+    "id": "00-920638",
+    "name": "Martini Fiero",
+    "category": "Getränke",
+    "subcategories": ["Wermut"]
+  },
+  {
+    "store": "billa",
+    "id": "00-398495",
+    "name": "Martini Floreale Alkoholfrei",
+    "category": "Getränke",
+    "subcategories": ["alkoholfrei", "Wermut"]
+  },
+  {
+    "store": "billa",
+    "id": "00-302939",
+    "name": "Martini Rosso",
+    "category": "Getränke",
+    "subcategories": ["Wermut"]
+  },
+  {
+    "store": "billa",
+    "id": "00-398487",
+    "name": "Martini Vibrante Alkoholfrei",
+    "category": "Getränke",
+    "subcategories": ["alkoholfrei", "Wermut"]
+  },
+  {
+    "store": "billa",
+    "id": "00-72358",
+    "name": "Mautner Inländer Rum",
+    "category": "Spirituosen",
+    "subcategories": ["Rum"]
+  },
+  {
+    "store": "billa",
+    "id": "00-116444",
+    "name": "Mautner Inländer Rum 38%vol",
+    "category": "Spirituosen",
+    "subcategories": ["Rum"]
+  },
+  {
+    "store": "billa",
+    "id": "00-534980",
+    "name": "Mc Intyre Blended Scotch Whisky 40%",
+    "category": "Spirituosen",
+    "subcategories": ["Whisky"]
+  },
+  {
+    "store": "billa",
+    "id": "00-740247",
+    "name": "Metaxa 12 Stern",
+    "category": "Spirituosen",
+    "subcategories": ["Brandy"]
+  },
+  {
+    "store": "billa",
+    "id": "00-2375",
+    "name": "Metaxa 5 Stern",
+    "category": "Spirituosen",
+    "subcategories": ["Brandy"]
+  },
+  {
+    "store": "billa",
+    "id": "00-202085",
+    "name": "Metaxa 7 Stern",
+    "category": "Spirituosen",
+    "subcategories": ["Brandy"]
+  },
+  {
+    "store": "billa",
+    "id": "00-883617",
+    "name": "Monkey 47 Schwarzwald Dry Gin",
+    "category": "Spirituosen",
+    "subcategories": ["Gin"]
+  },
+  {
+    "store": "billa",
+    "id": "00-410657",
+    "name": "Mozart Chocolate Cream Gold",
+    "category": "Spirituosen",
+    "subcategories": ["Schokolade", "Likör"]
+  },
+  {
+    "store": "billa",
+    "id": "00-426728",
+    "name": "Mozart Dark Chocolate",
+    "category": "Spirituosen",
+    "subcategories": ["Schokolade", "Likör"]
+  },
+  {
+    "store": "billa",
+    "id": "00-393334",
+    "name": "Mozart Strawberry White Chocolate Cream",
+    "category": "Spirituosen",
+    "subcategories": ["Schokolade", "Likör"]
+  },
+  {
+    "store": "billa",
+    "id": "00-320430",
+    "name": "Mozart Trio",
+    "category": "Spirituosen",
+    "subcategories": ["Schokolade", "Likör"]
+  },
+  {
+    "store": "billa",
+    "id": "00-414752",
+    "name": "Mozart Vanilla White Chocolate Cream",
+    "category": "Spirituosen",
+    "subcategories": ["Schokolade", "Likör"]
+  },
+  {
+    "store": "billa",
+    "id": "00-369739",
+    "name": "Myers's Rum Original Dark",
+    "category": "Spirituosen",
+    "subcategories": ["Rum"]
+  },
+  {
+    "store": "billa",
+    "id": "00-498245",
+    "name": "Naked Blended Malt Whisky",
+    "category": "Spirituosen",
+    "subcategories": ["Whisky"]
+  },
+  {
+    "store": "billa",
+    "id": "00-403836",
+    "name": "Napoleon La Longere French Brandy",
+    "category": "Spirituosen",
+    "subcategories": ["Brandy"]
+  },
+  {
+    "store": "billa",
+    "id": "00-716805",
+    "name": "Nemiroff De Luxe Vodka",
+    "category": "Spirituosen",
+    "subcategories": ["Vodka"]
+  },
+  {
+    "store": "billa",
+    "id": "00-587115",
+    "name": "Niemetz Schwedenbomben Likör",
+    "category": "Spirituosen",
+    "subcategories": ["Likör"]
+  },
+  {
+    "store": "billa",
+    "id": "00-609404",
+    "name": "Nonino Grappa Millesimata",
+    "category": "Spirituosen",
+    "subcategories": ["Grappa"]
+  },
+  {
+    "store": "billa",
+    "id": "00-835252",
+    "name": "Nonino Grappa Tradizionale",
+    "category": "Spirituosen",
+    "subcategories": ["Grappa"]
+  },
+  {
+    "store": "billa",
+    "id": "00-300262",
+    "name": "Ouzo 12",
+    "category": "Spirituosen",
+    "subcategories": ["Ouzo"]
+  },
+  {
+    "store": "billa",
+    "id": "00-684225",
+    "name": "Passoa - The Passion Drink",
+    "category": "Getränke",
+    "subcategories": ["Fruchtsaft", "likörartig"]
+  },
+  {
+    "store": "billa",
+    "id": "00-242015",
+    "name": "Pircher Tradition Williams",
+    "category": "Spirituosen",
+    "subcategories": ["Schnaps"]
+  },
+  {
+    "store": "billa",
+    "id": "00-325221",
+    "name": "Pitú Original Do Brasil Cachaca",
+    "category": "Spirituosen",
+    "subcategories": ["Cachaca"]
+  },
+  {
+    "store": "billa",
+    "id": "00-474849",
+    "name": "Ramazzotti Crema",
+    "category": "Spirituosen",
+    "subcategories": ["Likör"]
+  },
+  {
+    "store": "billa",
+    "id": "00-434394",
+    "name": "Ranchwood Bourbon",
+    "category": "Spirituosen",
+    "subcategories": ["Bourbon"]
+  },
+  {
+    "store": "billa",
+    "id": "00-278748",
+    "name": "Reisetbauer Axberg Vodka",
+    "category": "Spirituosen",
+    "subcategories": ["Vodka"]
+  },
+  {
+    "store": "billa",
+    "id": "00-352975",
+    "name": "Remy Martin 1738 Accord Royal",
+    "category": "Spirituosen",
+    "subcategories": ["Cognac"]
+  },
+  {
+    "store": "billa",
+    "id": "00-6122",
+    "name": "Remy Martin VSOP",
+    "category": "Spirituosen",
+    "subcategories": ["Cognac"]
+  },
+  {
+    "store": "billa",
+    "id": "00-918285",
+    "name": "Rick Brave Dry Gin",
+    "category": "Spirituosen",
+    "subcategories": ["Gin"]
+  },
+  {
+    "store": "billa",
+    "id": "00-589351",
+    "name": "Rick Caribbean Dark Cane Alkoholfrei",
+    "category": "Spirituosen",
+    "subcategories": ["alkoholfrei", "Rum"]
+  },
+  {
+    "store": "billa",
+    "id": "00-589348",
+    "name": "Rick Caribbean Smooth Rum",
+    "category": "Spirituosen",
+    "subcategories": ["Rum"]
+  },
+  {
+    "store": "billa",
+    "id": "00-589349",
+    "name": "Rick Caribbean White Cane Alkoholfrei",
+    "category": "Spirituosen",
+    "subcategories": ["alkoholfrei", "Rum"]
+  },
+  {
+    "store": "billa",
+    "id": "00-964375",
+    "name": "Rick Feel Mediterranean Dry Gin",
+    "category": "Spirituosen",
+    "subcategories": ["Gin"]
+  },
+  {
+    "store": "billa",
+    "id": "00-418076",
+    "name": "Rick Free Gin Alkoholfrei",
+    "category": "Spirituosen",
+    "subcategories": ["alkoholfrei", "Gin"]
+  },
+  {
+    "store": "billa",
+    "id": "00-938842",
+    "name": "Roku Suntory Japanese Gin",
+    "category": "Spirituosen",
+    "subcategories": ["Gin"]
+  },
+  {
+    "store": "billa",
+    "id": "00-290313",
+    "name": "Ron Zacapa Centenario 23 Solera",
+    "category": "Spirituosen",
+    "subcategories": ["Rum"]
+  },
+  {
+    "store": "billa",
+    "id": "00-81381",
+    "name": "Rossbacher Kräuterlikör",
+    "category": "Spirituosen",
+    "subcategories": ["Kräuterlikör"]
+  },
+  {
+    "store": "billa",
+    "id": "00-400106",
+    "name": "Scharlachberg Meisterspirituose",
+    "category": "Spirituosen",
+    "subcategories": ["Likör"]
+  },
+  {
+    "store": "billa",
+    "id": "00-890709",
+    "name": "Scharlachberg Meisterspirituose",
+    "category": "Spirituosen",
+    "subcategories": ["Likör"]
+  },
+  {
+    "store": "billa",
+    "id": "00-372855",
+    "name": "Select Aperitivo Bitter",
+    "category": "Getränke",
+    "subcategories": ["Bitter"]
+  },
+  {
+    "store": "billa",
+    "id": "00-789751",
+    "name": "Sierra Tequila Reposado",
+    "category": "Spirituosen",
+    "subcategories": ["Tequila"]
+  },
+  {
+    "store": "billa",
+    "id": "00-847173",
+    "name": "Skyy Vodka",
+    "category": "Spirituosen",
+    "subcategories": ["Vodka"]
+  },
+  {
+    "store": "billa",
+    "id": "00-846617",
+    "name": "Sljivovica Takovo",
+    "category": "Spirituosen",
+    "subcategories": ["Schnaps"]
+  },
+  {
+    "store": "billa",
+    "id": "00-844071",
+    "name": "Sourz Apple",
+    "category": "Spirituosen",
+    "subcategories": ["Likör"]
+  },
+  {
+    "store": "billa",
+    "id": "00-472966",
+    "name": "Sourz Blackcurrant",
+    "category": "Spirituosen",
+    "subcategories": ["Likör"]
+  },
+  {
+    "store": "billa",
+    "id": "00-844076",
+    "name": "Sourz Red Berry",
+    "category": "Spirituosen",
+    "subcategories": ["Likör"]
+  },
+  {
+    "store": "billa",
+    "id": "00-400134",
+    "name": "Stock Bewährte Tradition",
+    "category": "Spirituosen",
+    "subcategories": ["Likör"]
+  },
+  {
+    "store": "billa",
+    "id": "00-567373",
+    "name": "Stolichnaya Espresso Martini mit Glas",
+    "category": "Getränke",
+    "subcategories": ["Cocktail", "Martini"]
+  },
+  {
+    "store": "billa",
+    "id": "00-11168",
+    "name": "Stolichnaya Vodka",
+    "category": "Spirituosen",
+    "subcategories": ["Vodka"]
+  },
+  {
+    "store": "billa",
+    "id": "00-891381",
+    "name": "Stolichnaya Vodka Mini",
+    "category": "Spirituosen",
+    "subcategories": ["Vodka"]
+  },
+  {
+    "store": "billa",
+    "id": "00-630657",
+    "name": "Stroh 40 Inländer Rum",
+    "category": "Spirituosen",
+    "subcategories": ["Rum"]
+  }
+]

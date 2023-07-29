@@ -1,0 +1,702 @@
+[
+  {
+    "store": "billa",
+    "id": "00-503671",
+    "name": "Iglo Röstgemüse Mediterran",
+    "category": "Gemüse",
+    "subcategories": ["Röstgemüse", "Mediterran"]
+  },
+  {
+    "store": "billa",
+    "id": "00-702583",
+    "name": "Iglo Röstgemüse Provence",
+    "category": "Gemüse",
+    "subcategories": ["Röstgemüse", "Provence"]
+  },
+  {
+    "store": "billa",
+    "id": "00-680559",
+    "name": "Iglo Röstgemüse Steak Mix",
+    "category": "Gemüse",
+    "subcategories": ["Röstgemüse", "Steak Mix"]
+  },
+  {
+    "store": "billa",
+    "id": "00-809795",
+    "name": "Iglo Röstgemüse Steirischer Markt Mix",
+    "category": "Gemüse",
+    "subcategories": ["Röstgemüse", "Steirischer Markt Mix"]
+  },
+  {
+    "store": "billa",
+    "id": "00-535742",
+    "name": "Iglo Schnittlauch",
+    "category": "Gemüse",
+    "subcategories": ["Schnittlauch"]
+  },
+  {
+    "store": "billa",
+    "id": "00-681005",
+    "name": "Iglo Schonkost Gemüse",
+    "category": "Gemüse",
+    "subcategories": ["Schonkost"]
+  },
+  {
+    "store": "billa",
+    "id": "00-2889",
+    "name": "Iglo Spinat doppelt passiert",
+    "category": "Gemüse",
+    "subcategories": ["Spinat", "doppelt passiert"]
+  },
+  {
+    "store": "billa",
+    "id": "00-2890",
+    "name": "Iglo Spinat doppelt passiert",
+    "category": "Gemüse",
+    "subcategories": ["Spinat", "doppelt passiert"]
+  },
+  {
+    "store": "billa",
+    "id": "00-721545",
+    "name": "Iglo Steak Mix",
+    "category": "Gemüse",
+    "subcategories": ["Steak Mix"]
+  },
+  {
+    "store": "billa",
+    "id": "00-7060",
+    "name": "Iglo Streifengemüse Prinzess",
+    "category": "Gemüse",
+    "subcategories": ["Streifengemüse", "Prinzess"]
+  },
+  {
+    "store": "billa",
+    "id": "00-665234",
+    "name": "Iglo Suppengemüse",
+    "category": "Gemüse",
+    "subcategories": ["Suppengemüse"]
+  },
+  {
+    "store": "billa",
+    "id": "00-430783",
+    "name": "Iglo Tomatenmark",
+    "category": "Gemüse",
+    "subcategories": ["Tomatenmark"]
+  },
+  {
+    "store": "billa",
+    "id": "00-433683",
+    "name": "Iglo Wok Gemüse",
+    "category": "Gemüse",
+    "subcategories": ["Wok Gemüse"]
+  },
+  {
+    "store": "billa",
+    "id": "00-13846",
+    "name": "Iglo Zarte Mischung",
+    "category": "Gemüse",
+    "subcategories": ["Zarte Mischung"]
+  },
+  {
+    "store": "billa",
+    "id": "00-305028",
+    "name": "Iglo Zarte Mischung",
+    "category": "Gemüse",
+    "subcategories": ["Zarte Mischung"]
+  },
+  {
+    "store": "billa",
+    "id": "00-665231",
+    "name": "Iglo Zarte Sojabohnen",
+    "category": "Gemüse",
+    "subcategories": ["Zarte Sojabohnen"]
+  },
+  {
+    "store": "billa",
+    "id": "00-740989",
+    "name": "Iglo Zuckererbsenschoten",
+    "category": "Gemüse",
+    "subcategories": ["Zuckererbsenschoten"]
+  },
+  {
+    "store": "billa",
+    "id": "00-565149",
+    "name": "Iglo Zwiebel",
+    "category": "Gemüse",
+    "subcategories": ["Zwiebel"]
+  },
+  {
+    "store": "billa",
+    "id": "00-501323",
+    "name": "Ja! Natürlich Babykarotten",
+    "category": "Gemüse",
+    "subcategories": ["Babykarotten"]
+  },
+  {
+    "store": "billa",
+    "id": "00-428898",
+    "name": "Ja! Natürlich Blattspinat Minis",
+    "category": "Gemüse",
+    "subcategories": ["Blattspinat", "Minis"]
+  },
+  {
+    "store": "billa",
+    "id": "00-426161",
+    "name": "Ja! Natürlich Cremespinat",
+    "category": "Gemüse",
+    "subcategories": ["Cremespinat"]
+  },
+  {
+    "store": "billa",
+    "id": "00-426158",
+    "name": "Ja! Natürlich Erbsen",
+    "category": "Gemüse",
+    "subcategories": ["Erbsen"]
+  },
+  {
+    "store": "billa",
+    "id": "00-426156",
+    "name": "Ja! Natürlich Fisolen",
+    "category": "Gemüse",
+    "subcategories": ["Fisolen"]
+  },
+  {
+    "store": "billa",
+    "id": "00-572211",
+    "name": "Ja! Natürlich Junge Erbsen",
+    "category": "Gemüse",
+    "subcategories": ["Junge Erbsen"]
+  },
+  {
+    "store": "billa",
+    "id": "00-776271",
+    "name": "Ja! Natürlich Kräutergarten",
+    "category": "Gemüse",
+    "subcategories": ["Kräutergarten"]
+  },
+  {
+    "store": "billa",
+    "id": "00-703364",
+    "name": "Ja! Natürlich Kürbis-Gemüse Mischung",
+    "category": "Gemüse",
+    "subcategories": ["Kürbis-Gemüse Mischung"]
+  },
+  {
+    "store": "billa",
+    "id": "00-501734",
+    "name": "Ja! Natürlich Letscho",
+    "category": "Gemüse",
+    "subcategories": ["Letscho"]
+  },
+  {
+    "store": "billa",
+    "id": "00-776231",
+    "name": "Ja! Natürlich Petersilie",
+    "category": "Gemüse",
+    "subcategories": ["Petersilie"]
+  },
+  {
+    "store": "billa",
+    "id": "00-426160",
+    "name": "Ja! Natürlich Rotkraut",
+    "category": "Gemüse",
+    "subcategories": ["Rotkraut"]
+  },
+  {
+    "store": "billa",
+    "id": "00-566886",
+    "name": "Ja! Natürlich Zarte Mischung",
+    "category": "Gemüse",
+    "subcategories": ["Zarte Mischung"]
+  },
+  {
+    "store": "billa",
+    "id": "00-568087",
+    "name": "Ja! Natürlich Zuckermais",
+    "category": "Gemüse",
+    "subcategories": ["Zuckermais"]
+  },
+  {
+    "store": "billa",
+    "id": "00-590334",
+    "name": "Oswald Eierschwammerl blanchiert",
+    "category": "Gemüse",
+    "subcategories": ["Eierschwammerl", "blanchiert"]
+  },
+  {
+    "store": "billa",
+    "id": "00-467735",
+    "name": "Oswald Karfiolreis",
+    "category": "Gemüse",
+    "subcategories": ["Karfiolreis"]
+  },
+  {
+    "store": "billa",
+    "id": "00-590303",
+    "name": "Oswald Pilzmischung",
+    "category": "Gemüse",
+    "subcategories": ["Pilzmischung"]
+  },
+  {
+    "store": "billa",
+    "id": "00-590286",
+    "name": "Oswald Steinpilze halbiert",
+    "category": "Gemüse",
+    "subcategories": ["Steinpilze", "halbiert"]
+  },
+  {
+    "store": "billa",
+    "id": "00-600283",
+    "name": "11er 11 Minuten Pommes",
+    "category": "Kartoffelprodukte",
+    "subcategories": ["11 Minuten Pommes"]
+  },
+  {
+    "store": "billa",
+    "id": "00-372578",
+    "name": "11er Frischkäse Taschen",
+    "category": "Kartoffelprodukte",
+    "subcategories": ["Frischkäse Taschen"]
+  },
+  {
+    "store": "billa",
+    "id": "00-925116",
+    "name": "11er Knusper Kroketten",
+    "category": "Kartoffelprodukte",
+    "subcategories": ["Knusper Kroketten"]
+  },
+  {
+    "store": "billa",
+    "id": "00-916395",
+    "name": "11er Knusper Rösti wie hausgemacht",
+    "category": "Kartoffelprodukte",
+    "subcategories": ["Knusper Rösti", "hausgemacht"]
+  },
+  {
+    "store": "billa",
+    "id": "00-224126",
+    "name": "11er Mikrowellen Pommes",
+    "category": "Kartoffelprodukte",
+    "subcategories": ["Mikrowellen Pommes"]
+  },
+  {
+    "store": "billa",
+    "id": "00-372579",
+    "name": "11er Mozzarella Taschen",
+    "category": "Kartoffelprodukte",
+    "subcategories": ["Mozzarella Taschen"]
+  },
+  {
+    "store": "billa",
+    "id": "00-597892",
+    "name": "11er Rösti Bergkäse Schmankerl",
+    "category": "Kartoffelprodukte",
+    "subcategories": ["Rösti", "Bergkäse Schmankerl"]
+  },
+  {
+    "store": "billa",
+    "id": "00-909740",
+    "name": "11er Rösti-ABC",
+    "category": "Kartoffelprodukte",
+    "subcategories": ["Rösti-ABC"]
+  },
+  {
+    "store": "billa",
+    "id": "00-318179",
+    "name": "11er Unsere Besten Pommes Frites",
+    "category": "Kartoffelprodukte",
+    "subcategories": ["Unsere Besten Pommes Frites"]
+  },
+  {
+    "store": "billa",
+    "id": "00-779261",
+    "name": "BILLA Backrohr Pommes",
+    "category": "Kartoffelprodukte",
+    "subcategories": ["Backrohr Pommes"]
+  },
+  {
+    "store": "billa",
+    "id": "00-443853",
+    "name": "BILLA Bio Pommes Frites",
+    "category": "Kartoffelprodukte",
+    "subcategories": ["Bio Pommes Frites"]
+  },
+  {
+    "store": "billa",
+    "id": "00-402776",
+    "name": "BILLA Curly Fries",
+    "category": "Kartoffelprodukte",
+    "subcategories": ["Curly Fries"]
+  },
+  {
+    "store": "billa",
+    "id": "00-714613",
+    "name": "BILLA Erdäpfel Wedges",
+    "category": "Kartoffelprodukte",
+    "subcategories": ["Erdäpfel Wedges"]
+  },
+  {
+    "store": "billa",
+    "id": "00-402759",
+    "name": "BILLA Gitterpommes",
+    "category": "Kartoffelprodukte",
+    "subcategories": ["Gitterpommes"]
+  },
+  {
+    "store": "billa",
+    "id": "00-779215",
+    "name": "BILLA Kroketten",
+    "category": "Kartoffelprodukte",
+    "subcategories": ["Kroketten"]
+  },
+  {
+    "store": "billa",
+    "id": "00-493717",
+    "name": "BILLA Steakhouse Fries",
+    "category": "Kartoffelprodukte",
+    "subcategories": ["Steakhouse Fries"]
+  },
+  {
+    "store": "billa",
+    "id": "00-528298",
+    "name": "BILLA Süßkartoffel Pommes",
+    "category": "Kartoffelprodukte",
+    "subcategories": ["Süßkartoffel Pommes"]
+  },
+  {
+    "store": "billa",
+    "id": "00-714610",
+    "name": "BILLA Wellen Pommes Frites",
+    "category": "Kartoffelprodukte",
+    "subcategories": ["Wellen Pommes Frites"]
+  },
+  {
+    "store": "billa",
+    "id": "00-406847",
+    "name": "Bauernland Pommes Frites",
+    "category": "Kartoffelprodukte",
+    "subcategories": ["Pommes Frites"]
+  },
+  {
+    "store": "billa",
+    "id": "00-859053",
+    "name": "Clever Pommes Frites",
+    "category": "Kartoffelprodukte",
+    "subcategories": ["Pommes Frites"]
+  },
+  {
+    "store": "billa",
+    "id": "00-318195",
+    "name": "Clever Pommes Frites XXL",
+    "category": "Kartoffelprodukte",
+    "subcategories": ["Pommes Frites", "XXL"]
+  },
+  {
+    "store": "billa",
+    "id": "00-873237",
+    "name": "Iglo Backrohr Erdäpfel Wedges",
+    "category": "Kartoffelprodukte",
+    "subcategories": ["Backrohr", "Erdäpfel Wedges"]
+  },
+  {
+    "store": "billa",
+    "id": "00-762721",
+    "name": "Iglo Backrohr Feine Welle Frites",
+    "category": "Kartoffelprodukte",
+    "subcategories": ["Backrohr", "Feine Welle Frites"]
+  },
+  {
+    "store": "billa",
+    "id": "00-641665",
+    "name": "Iglo Backrohr Kartoffelpuffer",
+    "category": "Kartoffelprodukte",
+    "subcategories": ["Backrohr", "Kartoffelpuffer"]
+  },
+  {
+    "store": "billa",
+    "id": "00-762717",
+    "name": "Iglo Backrohr Kroketten",
+    "category": "Kartoffelprodukte",
+    "subcategories": ["Backrohr", "Kroketten"]
+  },
+  {
+    "store": "billa",
+    "id": "00-702650",
+    "name": "Iglo Backrohr Mini Rösti",
+    "category": "Kartoffelprodukte",
+    "subcategories": ["Backrohr", "Mini Rösti"]
+  },
+  {
+    "store": "billa",
+    "id": "00-762715",
+    "name": "Iglo Backrohr Röstinchen",
+    "category": "Kartoffelprodukte",
+    "subcategories": ["Backrohr", "Röstinchen"]
+  },
+  {
+    "store": "billa",
+    "id": "00-875453",
+    "name": "Iglo Backrohr/Friteusse Pommes Frites",
+    "category": "Kartoffelprodukte",
+    "subcategories": ["Backrohr/Friteusse", "Pommes Frites"]
+  },
+  {
+    "store": "billa",
+    "id": "00-703668",
+    "name": "Iglo Erdäpfel Dippers",
+    "category": "Kartoffelprodukte",
+    "subcategories": ["Erdäpfel Dippers"]
+  },
+  {
+    "store": "billa",
+    "id": "00-757650",
+    "name": "Iglo Frischkäse Erdäpfeltascherl",
+    "category": "Kartoffelprodukte",
+    "subcategories": ["Frischkäse", "Erdäpfeltascherl"]
+  },
+  {
+    "store": "billa",
+    "id": "00-757649",
+    "name": "Iglo Schinken-Käse Erdäpfeltascherl",
+    "category": "Kartoffelprodukte",
+    "subcategories": ["Schinken-Käse", "Erdäpfeltascherl"]
+  },
+  {
+    "store": "billa",
+    "id": "00-845654",
+    "name": "McCain Pommes Frites Curves",
+    "category": "Kartoffelprodukte",
+    "subcategories": ["Pommes Frites", "Curves"]
+  },
+  {
+    "store": "billa",
+    "id": "00-400972",
+    "name": "McCain 123 Frites",
+    "category": "Kartoffelprodukte",
+    "subcategories": ["123 Frites"]
+  },
+  {
+    "store": "billa",
+    "id": "00-317266",
+    "name": "McCain Airfryer Frites",
+    "category": "Kartoffelprodukte",
+    "subcategories": ["Airfryer Frites"]
+  },
+  {
+    "store": "billa",
+    "id": "00-530236",
+    "name": "McCain Country Wedges Natur",
+    "category": "Kartoffelprodukte",
+    "subcategories": ["Country Wedges", "Natur"]
+  },
+  {
+    "store": "billa",
+    "id": "00-265104",
+    "name": "McCain Crispers",
+    "category": "Kartoffelprodukte",
+    "subcategories": ["Crispers"]
+  },
+  {
+    "store": "billa",
+    "id": "00-496491",
+    "name": "McCain Golden Longs",
+    "category": "Kartoffelprodukte",
+    "subcategories": ["Golden Longs"]
+  },
+  {
+    "store": "billa",
+    "id": "00-591422",
+    "name": "McCain Steakhouse Frites",
+    "category": "Kartoffelprodukte",
+    "subcategories": ["Steakhouse Frites"]
+  },
+  {
+    "store": "billa",
+    "id": "00-249835",
+    "name": "McCain Street Fries Cheese & Bacon",
+    "category": "Kartoffelprodukte",
+    "subcategories": ["Street Fries", "Cheese & Bacon"]
+  },
+  {
+    "store": "billa",
+    "id": "00-249526",
+    "name": "McCain Street Fries Smoked BBQ Beef",
+    "category": "Kartoffelprodukte",
+    "subcategories": ["Street Fries", "Smoked BBQ Beef"]
+  },
+  {
+    "store": "billa",
+    "id": "00-426805",
+    "name": "McCain Western Wedges",
+    "category": "Kartoffelprodukte",
+    "subcategories": ["Western Wedges"]
+  },
+  {
+    "store": "billa",
+    "id": "00-411277",
+    "name": "Mccain Potato Pops",
+    "category": "Kartoffelprodukte",
+    "subcategories": ["Potato Pops"]
+  },
+  {
+    "store": "billa",
+    "id": "00-693128",
+    "name": "BILLA Käse Baguette",
+    "category": "Backwaren",
+    "subcategories": ["Käse Baguette"]
+  },
+  {
+    "store": "billa",
+    "id": "00-932997",
+    "name": "BILLA Mini-Pizzen Margherita",
+    "category": "Backwaren",
+    "subcategories": ["Mini-Pizzen", "Margherita"]
+  },
+  {
+    "store": "billa",
+    "id": "00-933000",
+    "name": "BILLA Mini-Pizzen Salami",
+    "category": "Backwaren",
+    "subcategories": ["Mini-Pizzen", "Salami"]
+  },
+  {
+    "store": "billa",
+    "id": "00-498288",
+    "name": "BILLA Pinsa Margherita",
+    "category": "Backwaren",
+    "subcategories": ["Pinsa", "Margherita"]
+  },
+  {
+    "store": "billa",
+    "id": "00-498286",
+    "name": "BILLA Pinsa Prosciutto",
+    "category": "Backwaren",
+    "subcategories": ["Pinsa", "Prosciutto"]
+  },
+  {
+    "store": "billa",
+    "id": "00-693127",
+    "name": "BILLA Salami Baguette",
+    "category": "Backwaren",
+    "subcategories": ["Salami Baguette"]
+  },
+  {
+    "store": "billa",
+    "id": "00-693125",
+    "name": "BILLA Schinken Baguette",
+    "category": "Backwaren",
+    "subcategories": ["Schinken Baguette"]
+  },
+  {
+    "store": "billa",
+    "id": "00-693126",
+    "name": "BILLA Thunfisch Baguette",
+    "category": "Backwaren",
+    "subcategories": ["Thunfisch Baguette"]
+  },
+  {
+    "store": "billa",
+    "id": "00-576937",
+    "name": "BettaF!sh Tu-Nah Pizza",
+    "category": "Backwaren",
+    "subcategories": ["Tu-Nah Pizza"]
+  },
+  {
+    "store": "billa",
+    "id": "00-645048",
+    "name": "Clever Pizza Margherita",
+    "category": "Backwaren",
+    "subcategories": ["Pizza", "Margherita"]
+  },
+  {
+    "store": "billa",
+    "id": "00-19291",
+    "name": "Dr. Oetker Bistro Baguette Avignon",
+    "category": "Backwaren",
+    "subcategories": ["Bistro Baguette", "Avignon"]
+  },
+  {
+    "store": "billa",
+    "id": "00-4932",
+    "name": "Dr. Oetker Bistro Baguette Camargue",
+    "category": "Backwaren",
+    "subcategories": ["Bistro Baguette", "Camargue"]
+  },
+  {
+    "store": "billa",
+    "id": "00-501322",
+    "name": "Dr. Oetker Bistro Baguette Hawaii",
+    "category": "Backwaren",
+    "subcategories": ["Bistro Baguette", "Hawaii"]
+  },
+  {
+    "store": "billa",
+    "id": "00-433286",
+    "name": "Dr. Oetker Bistro Baguette Korsika",
+    "category": "Backwaren",
+    "subcategories": ["Bistro Baguette", "Korsika"]
+  },
+  {
+    "store": "billa",
+    "id": "00-417097",
+    "name": "Dr. Oetker Bistro Baguette Nizza",
+    "category": "Backwaren",
+    "subcategories": ["Bistro Baguette", "Nizza"]
+  },
+  {
+    "store": "billa",
+    "id": "00-8224",
+    "name": "Dr. Oetker Bistro Baguette Provence",
+    "category": "Backwaren",
+    "subcategories": ["Bistro Baguette", "Provence"]
+  },
+  {
+    "store": "billa",
+    "id": "00-294957",
+    "name": "Dr. Oetker Intermezzo Schinken mit Sauerrahm",
+    "category": "Backwaren",
+    "subcategories": ["Intermezzo", "Schinken", "Sauerrahm"]
+  },
+  {
+    "store": "billa",
+    "id": "00-294965",
+    "name": "Dr. Oetker Intermezzo Thunfisch",
+    "category": "Backwaren",
+    "subcategories": ["Intermezzo", "Thunfisch"]
+  },
+  {
+    "store": "billa",
+    "id": "00-294964",
+    "name": "Dr. Oetker Intermezzo Tomate Mozzarella mit Pesto",
+    "category": "Backwaren",
+    "subcategories": ["Intermezzo", "Tomate", "Mozzarella", "Pesto"]
+  },
+  {
+    "store": "billa",
+    "id": "00-469799",
+    "name": "Dr. Oetker La Mia Grande 4 Formaggi",
+    "category": "Backwaren",
+    "subcategories": ["La Mia Grande", "4 Formaggi"]
+  },
+  {
+    "store": "billa",
+    "id": "00-704950",
+    "name": "Dr. Oetker La Mia Grande Diavola",
+    "category": "Backwaren",
+    "subcategories": ["La Mia Grande", "Diavola"]
+  },
+  {
+    "store": "billa",
+    "id": "00-352421",
+    "name": "Dr. Oetker La Mia Grande Margherita",
+    "category": "Backwaren",
+    "subcategories": ["La Mia Grande", "Margherita"]
+  },
+  {
+    "store": "billa",
+    "id": "00-469792",
+    "name": "Dr. Oetker La Mia Grande Prosciutto e Formaggi",
+    "category": "Backwaren",
+    "subcategories": ["La Mia Grande", "Prosciutto e Formaggi"]
+  }
+]

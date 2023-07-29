@@ -1,0 +1,702 @@
+[
+  {
+    "store": "billa",
+    "id": "00-468648",
+    "name": "Almdudler Zuckerfrei",
+    "category": "Getränke",
+    "subcategories": ["Kräuterlimonade"]
+  },
+  {
+    "store": "billa",
+    "id": "00-410180",
+    "name": "Almdudler Zuckerfrei",
+    "category": "Getränke",
+    "subcategories": ["Kräuterlimonade"]
+  },
+  {
+    "store": "billa",
+    "id": "00-932354",
+    "name": "Almdudler Zuckerfrei",
+    "category": "Getränke",
+    "subcategories": ["Kräuterlimonade"]
+  },
+  {
+    "store": "billa",
+    "id": "00-317526",
+    "name": "Alnatura Tomatensaft",
+    "category": "Getränke",
+    "subcategories": ["Saft"]
+  },
+  {
+    "store": "billa",
+    "id": "00-863463",
+    "name": "Alpquell Mineralwasser Mild",
+    "category": "Getränke",
+    "subcategories": ["Mineralwasser"]
+  },
+  {
+    "store": "billa",
+    "id": "00-409076",
+    "name": "Alpquell Mineralwasser Prickelnd",
+    "category": "Getränke",
+    "subcategories": ["Mineralwasser"]
+  },
+  {
+    "store": "billa",
+    "id": "00-286403",
+    "name": "Altenriederer Apfelsaft Jonagold trüb",
+    "category": "Getränke",
+    "subcategories": ["Apfelsaft"]
+  },
+  {
+    "store": "billa",
+    "id": "00-563971",
+    "name": "Altenriederer Kirschensaft",
+    "category": "Getränke",
+    "subcategories": ["Kirschensaft"]
+  },
+  {
+    "store": "billa",
+    "id": "00-749086",
+    "name": "Altenriederer Marillennektar",
+    "category": "Getränke",
+    "subcategories": ["Marillennektar"]
+  },
+  {
+    "store": "billa",
+    "id": "00-808306",
+    "name": "Altenriederer Traubensaft weiss",
+    "category": "Getränke",
+    "subcategories": ["Traubensaft"]
+  },
+  {
+    "store": "billa",
+    "id": "00-577500",
+    "name": "BILLA  Tonic Water",
+    "category": "Getränke",
+    "subcategories": ["Tonic Water"]
+  },
+  {
+    "store": "billa",
+    "id": "00-521422",
+    "name": "BILLA Apfel - Beeren Direktsaft",
+    "category": "Getränke",
+    "subcategories": ["Apfelsaft"]
+  },
+  {
+    "store": "billa",
+    "id": "00-409658",
+    "name": "BILLA Apfel-Cranberry Saft",
+    "category": "Getränke",
+    "subcategories": ["Apfelsaft", "Cranberry Saft"]
+  },
+  {
+    "store": "billa",
+    "id": "00-692874",
+    "name": "BILLA Apfelsaft Klar",
+    "category": "Getränke",
+    "subcategories": ["Apfelsaft"]
+  },
+  {
+    "store": "billa",
+    "id": "00-699888",
+    "name": "BILLA Apfelsaft Naturtrüb",
+    "category": "Getränke",
+    "subcategories": ["Apfelsaft"]
+  },
+  {
+    "store": "billa",
+    "id": "00-692880",
+    "name": "BILLA Apfelsaft gespritzt",
+    "category": "Getränke",
+    "subcategories": ["Apfelsaft"]
+  },
+  {
+    "store": "billa",
+    "id": "00-568878",
+    "name": "BILLA Bio Apfelsaft Gespritzt",
+    "category": "Getränke",
+    "subcategories": ["Bio", "Apfelsaft"]
+  },
+  {
+    "store": "billa",
+    "id": "00-568875",
+    "name": "BILLA Bio Apfelsaft mit stillem Wasser",
+    "category": "Getränke",
+    "subcategories": ["Bio", "Apfelsaft"]
+  },
+  {
+    "store": "billa",
+    "id": "00-590616",
+    "name": "BILLA Bio Holunderblüten Sirup",
+    "category": "Getränke",
+    "subcategories": ["Sirup", "Holunderblüten"]
+  },
+  {
+    "store": "billa",
+    "id": "00-443175",
+    "name": "BILLA Bio Orangensaft",
+    "category": "Getränke",
+    "subcategories": ["Bio", "Orangensaft"]
+  },
+  {
+    "store": "billa",
+    "id": "00-568872",
+    "name": "BILLA Bio Orangensaft mit stillem Wasser",
+    "category": "Getränke",
+    "subcategories": ["Bio", "Orangensaft"]
+  },
+  {
+    "store": "billa",
+    "id": "00-590624",
+    "name": "BILLA Bio Rote Früchte Sirup",
+    "category": "Getränke",
+    "subcategories": ["Sirup", "Rote Früchte"]
+  },
+  {
+    "store": "billa",
+    "id": "00-443667",
+    "name": "BILLA Bio Smoothie Apfel Ananas",
+    "category": "Getränke",
+    "subcategories": ["Bio", "Smoothie"]
+  },
+  {
+    "store": "billa",
+    "id": "00-443657",
+    "name": "BILLA Bio Smoothie Apfel Traube",
+    "category": "Getränke",
+    "subcategories": ["Bio", "Smoothie"]
+  },
+  {
+    "store": "billa",
+    "id": "00-443651",
+    "name": "BILLA Bio Smoothie Mango Orange",
+    "category": "Getränke",
+    "subcategories": ["Bio", "Smoothie"]
+  },
+  {
+    "store": "billa",
+    "id": "00-443177",
+    "name": "BILLA Bio Zitronensaft",
+    "category": "Getränke",
+    "subcategories": ["Bio", "Zitronensaft"]
+  },
+  {
+    "store": "billa",
+    "id": "00-577510",
+    "name": "BILLA Bitter Lemon",
+    "category": "Getränke",
+    "subcategories": ["Bitter Lemon"]
+  },
+  {
+    "store": "billa",
+    "id": "00-688893",
+    "name": "BILLA Cappuccino",
+    "category": "Getränke",
+    "subcategories": ["Cappuccino"]
+  },
+  {
+    "store": "billa",
+    "id": "00-669072",
+    "name": "BILLA Cappuccino Laktosefrei",
+    "category": "Getränke",
+    "subcategories": ["Cappuccino", "Laktosefrei"]
+  },
+  {
+    "store": "billa",
+    "id": "00-716606",
+    "name": "BILLA Cocos Cassis Latte",
+    "category": "Getränke",
+    "subcategories": ["Cocos Cassis Latte"]
+  },
+  {
+    "store": "billa",
+    "id": "00-716801",
+    "name": "BILLA Eistee Birne",
+    "category": "Getränke",
+    "subcategories": ["Eistee"]
+  },
+  {
+    "store": "billa",
+    "id": "00-716803",
+    "name": "BILLA Eistee Erdbeer-Melone",
+    "category": "Getränke",
+    "subcategories": ["Eistee"]
+  },
+  {
+    "store": "billa",
+    "id": "00-716802",
+    "name": "BILLA Eistee Himbeere",
+    "category": "Getränke",
+    "subcategories": ["Eistee"]
+  },
+  {
+    "store": "billa",
+    "id": "00-716800",
+    "name": "BILLA Eistee Zitrone",
+    "category": "Getränke",
+    "subcategories": ["Eistee"]
+  },
+  {
+    "store": "billa",
+    "id": "00-342390",
+    "name": "BILLA Fairtrade Orangensaft",
+    "category": "Getränke",
+    "subcategories": ["Fairtrade", "Orangensaft"]
+  },
+  {
+    "store": "billa",
+    "id": "00-702066",
+    "name": "BILLA Himbeer Limonade",
+    "category": "Getränke",
+    "subcategories": ["Himbeer Limonade"]
+  },
+  {
+    "store": "billa",
+    "id": "00-702071",
+    "name": "BILLA Himbeer Limonade",
+    "category": "Getränke",
+    "subcategories": ["Himbeer Limonade"]
+  },
+  {
+    "store": "billa",
+    "id": "00-465811",
+    "name": "BILLA Himbeer-Holunderblüte",
+    "category": "Getränke",
+    "subcategories": ["Himbeer-Holunderblüte"]
+  },
+  {
+    "store": "billa",
+    "id": "00-669177",
+    "name": "BILLA Latte Espresso",
+    "category": "Getränke",
+    "subcategories": ["Latte Espresso"]
+  },
+  {
+    "store": "billa",
+    "id": "00-688876",
+    "name": "BILLA Latte Macchiato",
+    "category": "Getränke",
+    "subcategories": ["Latte Macchiato"]
+  },
+  {
+    "store": "billa",
+    "id": "00-312277",
+    "name": "BILLA Mate Teegetränk",
+    "category": "Getränke",
+    "subcategories": ["Teegetränk"]
+  },
+  {
+    "store": "billa",
+    "id": "00-521406",
+    "name": "BILLA Orangensaft mit Fruchtfleisch",
+    "category": "Getränke",
+    "subcategories": ["Orangensaft"]
+  },
+  {
+    "store": "billa",
+    "id": "00-528707",
+    "name": "BILLA Protein Caffè",
+    "category": "Getränke",
+    "subcategories": ["Protein Caffè"]
+  },
+  {
+    "store": "billa",
+    "id": "00-708442",
+    "name": "BILLA Stilles Wasser - Erdbeere & Pfeffer",
+    "category": "Getränke",
+    "subcategories": ["Stilles Wasser", "Erdbeere & Pfeffer"]
+  },
+  {
+    "store": "billa",
+    "id": "00-708290",
+    "name": "BILLA Stilles Wasser - Granatapfel",
+    "category": "Getränke",
+    "subcategories": ["Stilles Wasser", "Granatapfel"]
+  },
+  {
+    "store": "billa",
+    "id": "00-373821",
+    "name": "BILLA Traubensaft",
+    "category": "Getränke",
+    "subcategories": ["Traubensaft"]
+  },
+  {
+    "store": "billa",
+    "id": "00-577528",
+    "name": "BILLA Wild Berry Tonic",
+    "category": "Getränke",
+    "subcategories": ["Tonic Water"]
+  },
+  {
+    "store": "billa",
+    "id": "00-347100",
+    "name": "Balis Cosmo Cranberry Rosmarin",
+    "category": "Getränke",
+    "subcategories": ["Rosmarin"]
+  },
+  {
+    "store": "billa",
+    "id": "00-426465",
+    "name": "Bitterschön Bitter Orange",
+    "category": "Getränke",
+    "subcategories": ["Bitter Orange"]
+  },
+  {
+    "store": "billa",
+    "id": "00-776078",
+    "name": "Bols Grenadine Bar-Sirup",
+    "category": "Getränke",
+    "subcategories": ["Bar-Sirup"]
+  },
+  {
+    "store": "billa",
+    "id": "00-496543",
+    "name": "Bratee Pfirsich",
+    "category": "Getränke",
+    "subcategories": ["Pfirsich"]
+  },
+  {
+    "store": "billa",
+    "id": "00-496541",
+    "name": "Bratee Wassermelone",
+    "category": "Getränke",
+    "subcategories": ["Wassermelone"]
+  },
+  {
+    "store": "billa",
+    "id": "00-871823",
+    "name": "C Swiss Cannabis Ice Tea",
+    "category": "Getränke",
+    "subcategories": ["Ice Tea"]
+  },
+  {
+    "store": "billa",
+    "id": "00-293928",
+    "name": "Capri Sun Bubbles Himbeere",
+    "category": "Getränke",
+    "subcategories": ["Bubbles"]
+  },
+  {
+    "store": "billa",
+    "id": "00-293927",
+    "name": "Capri Sun Bubbles Orange",
+    "category": "Getränke",
+    "subcategories": ["Bubbles"]
+  },
+  {
+    "store": "billa",
+    "id": "00-579345",
+    "name": "Capri Sun Sirup Berry Mix",
+    "category": "Getränke",
+    "subcategories": ["Sirup"]
+  },
+  {
+    "store": "billa",
+    "id": "00-579344",
+    "name": "Capri Sun Sirup Multifrucht",
+    "category": "Getränke",
+    "subcategories": ["Sirup"]
+  },
+  {
+    "store": "billa",
+    "id": "00-651363",
+    "name": "Capri-Sonne Kirsche",
+    "category": "Getränke",
+    "subcategories": ["Capri-Sonne"]
+  },
+  {
+    "store": "billa",
+    "id": "00-10271",
+    "name": "Capri-Sonne Multivitamin",
+    "category": "Getränke",
+    "subcategories": ["Capri-Sonne"]
+  },
+  {
+    "store": "billa",
+    "id": "00-627065",
+    "name": "Capri-Sonne Multivitamin",
+    "category": "Getränke",
+    "subcategories": ["Capri-Sonne"]
+  },
+  {
+    "store": "billa",
+    "id": "00-14295",
+    "name": "Capri-Sonne Orange",
+    "category": "Getränke",
+    "subcategories": ["Capri-Sonne"]
+  },
+  {
+    "store": "billa",
+    "id": "00-722592",
+    "name": "Capri-Sun Bubble Kirsche",
+    "category": "Getränke",
+    "subcategories": ["Bubble"]
+  },
+  {
+    "store": "billa",
+    "id": "00-865173",
+    "name": "Carpe Diem Kombucha",
+    "category": "Getränke",
+    "subcategories": ["Kombucha"]
+  },
+  {
+    "store": "billa",
+    "id": "00-916501",
+    "name": "Carpe Diem Kombucha Classic",
+    "category": "Getränke",
+    "subcategories": ["Kombucha"]
+  },
+  {
+    "store": "billa",
+    "id": "00-652642",
+    "name": "Carpe Diem Kombucha Cranberry",
+    "category": "Getränke",
+    "subcategories": ["Kombucha", "Cranberry"]
+  },
+  {
+    "store": "billa",
+    "id": "00-838349",
+    "name": "Cedevita Pulver Orange",
+    "category": "Getränke",
+    "subcategories": ["Pulver"]
+  },
+  {
+    "store": "billa",
+    "id": "00-508983",
+    "name": "Cedevita Pulver Zitrone",
+    "category": "Getränke",
+    "subcategories": ["Pulver"]
+  },
+  {
+    "store": "billa",
+    "id": "00-306815",
+    "name": "Charitea Mate",
+    "category": "Getränke",
+    "subcategories": ["Mate"]
+  },
+  {
+    "store": "billa",
+    "id": "00-857020",
+    "name": "Clever Apfelnektar",
+    "category": "Getränke",
+    "subcategories": ["Apfelnektar"]
+  },
+  {
+    "store": "billa",
+    "id": "00-861714",
+    "name": "Clever Apfelsaft",
+    "category": "Getränke",
+    "subcategories": ["Apfelsaft"]
+  },
+  {
+    "store": "billa",
+    "id": "00-578176",
+    "name": "Clever Cola Classic",
+    "category": "Getränke",
+    "subcategories": ["Cola"]
+  },
+  {
+    "store": "billa",
+    "id": "00-580630",
+    "name": "Clever Cola Classic",
+    "category": "Getränke",
+    "subcategories": ["Cola"]
+  },
+  {
+    "store": "billa",
+    "id": "00-583571",
+    "name": "Clever Cola Zero",
+    "category": "Getränke",
+    "subcategories": ["Cola"]
+  },
+  {
+    "store": "billa",
+    "id": "00-810102",
+    "name": "Clever Eiscafé Cappuccino",
+    "category": "Getränke",
+    "subcategories": ["Eiscafé", "Cappuccino"]
+  },
+  {
+    "store": "billa",
+    "id": "00-810158",
+    "name": "Clever Eiscafé Latte Macchiato",
+    "category": "Getränke",
+    "subcategories": ["Eiscafé", "Latte Macchiato"]
+  },
+  {
+    "store": "billa",
+    "id": "00-864928",
+    "name": "Clever Eistee Pfirsich",
+    "category": "Getränke",
+    "subcategories": ["Eistee"]
+  },
+  {
+    "store": "billa",
+    "id": "00-864929",
+    "name": "Clever Eistee Zitrone",
+    "category": "Getränke",
+    "subcategories": ["Eistee"]
+  },
+  {
+    "store": "billa",
+    "id": "00-867073",
+    "name": "Clever Energy Drink",
+    "category": "Getränke",
+    "subcategories": ["Energy Drink"]
+  },
+  {
+    "store": "billa",
+    "id": "00-534071",
+    "name": "Clever Energy Drink Sugarfree",
+    "category": "Getränke",
+    "subcategories": ["Energy Drink"]
+  },
+  {
+    "store": "billa",
+    "id": "00-721627",
+    "name": "Clever Energydrink Erdbeere - Limette",
+    "category": "Getränke",
+    "subcategories": ["Energydrink"]
+  },
+  {
+    "store": "billa",
+    "id": "00-580966",
+    "name": "Clever Energydrink Hanf",
+    "category": "Getränke",
+    "subcategories": ["Energydrink"]
+  },
+  {
+    "store": "billa",
+    "id": "00-580969",
+    "name": "Clever Energydrink Heidelbeere-Kokos",
+    "category": "Getränke",
+    "subcategories": ["Energydrink"]
+  },
+  {
+    "store": "billa",
+    "id": "00-580973",
+    "name": "Clever Energydrink Honigmelone",
+    "category": "Getränke",
+    "subcategories": ["Energydrink"]
+  },
+  {
+    "store": "billa",
+    "id": "00-860336",
+    "name": "Clever Kirschenlimonade",
+    "category": "Getränke",
+    "subcategories": ["Kirschenlimonade"]
+  },
+  {
+    "store": "billa",
+    "id": "00-578202",
+    "name": "Clever Kräuterlimonade",
+    "category": "Getränke",
+    "subcategories": ["Kräuterlimonade"]
+  },
+  {
+    "store": "billa",
+    "id": "00-768434",
+    "name": "Clever Mineralwasser Still",
+    "category": "Getränke",
+    "subcategories": ["Mineralwasser"]
+  },
+  {
+    "store": "billa",
+    "id": "00-862103",
+    "name": "Clever Multivitaminsaft",
+    "category": "Getränke",
+    "subcategories": ["Multivitaminsaft"]
+  },
+  {
+    "store": "billa",
+    "id": "00-583566",
+    "name": "Clever Orange Zero",
+    "category": "Getränke",
+    "subcategories": ["Orangensaft"]
+  },
+  {
+    "store": "billa",
+    "id": "00-578181",
+    "name": "Clever Orangenlimonade",
+    "category": "Getränke",
+    "subcategories": ["Orangenlimonade"]
+  },
+  {
+    "store": "billa",
+    "id": "00-857019",
+    "name": "Clever Orangennektar",
+    "category": "Getränke",
+    "subcategories": ["Orangennektar"]
+  },
+  {
+    "store": "billa",
+    "id": "00-861713",
+    "name": "Clever Orangensaft",
+    "category": "Getränke",
+    "subcategories": ["Orangensaft"]
+  },
+  {
+    "store": "billa",
+    "id": "00-526165",
+    "name": "Clever Schwarze Johannisbeere",
+    "category": "Getränke",
+    "subcategories": ["Johannisbeere"]
+  },
+  {
+    "store": "billa",
+    "id": "00-616403",
+    "name": "Clever Sirup Himbeer",
+    "category": "Getränke",
+    "subcategories": ["Sirup"]
+  },
+  {
+    "store": "billa",
+    "id": "00-868687",
+    "name": "Clever Sirup Himbeer-Zitrone",
+    "category": "Getränke",
+    "subcategories": ["Sirup"]
+  },
+  {
+    "store": "billa",
+    "id": "00-667247",
+    "name": "Clever Sirup Holunderblüte",
+    "category": "Getränke",
+    "subcategories": ["Sirup"]
+  },
+  {
+    "store": "billa",
+    "id": "00-298660",
+    "name": "Clever Sirup Johannisbeere - Zitrone",
+    "category": "Getränke",
+    "subcategories": ["Sirup"]
+  },
+  {
+    "store": "billa",
+    "id": "00-856700",
+    "name": "Clever Sirup Orangeade",
+    "category": "Getränke",
+    "subcategories": ["Sirup"]
+  },
+  {
+    "store": "billa",
+    "id": "00-531289",
+    "name": "Clever Smoothie Ananas-Banane-Kokos",
+    "category": "Getränke",
+    "subcategories": ["Smoothie"]
+  },
+  {
+    "store": "billa",
+    "id": "00-478839",
+    "name": "Clever Smoothie Erdbeere-Banane-Cranberry",
+    "category": "Getränke",
+    "subcategories": ["Smoothie"]
+  },
+  {
+    "store": "billa",
+    "id": "00-889543",
+    "name": "Clever Smoothie Mango-Maracuja",
+    "category": "Getränke",
+    "subcategories": ["Smoothie"]
+  }
+]

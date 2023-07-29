@@ -1,0 +1,714 @@
+[
+  {
+    "store": "spar",
+    "id": "2020003597206",
+    "name": "Wenko Badkorb Adria mini long",
+    "category": "Badezimmer",
+    "subcategories": ["Badkorb", "Adria mini long"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003598609",
+    "name": "Wenko Badkorb Adria mini long",
+    "category": "Badezimmer",
+    "subcategories": ["Badkorb", "Adria mini long"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004334084",
+    "name": "Wenko Badkorb Weboptik 30 x 20 x 15 cm",
+    "category": "Badezimmer",
+    "subcategories": ["Badkorb", "Weboptik"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003588853",
+    "name": "Wenko Duschvorhangringe 12 Stk 12 Stk",
+    "category": "Badezimmer",
+    "subcategories": ["Duschvorhangringe", "12 Stk"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003589959",
+    "name": "Wenko Edelst Doppel-Duschhaken Vieste Duo",
+    "category": "Badezimmer",
+    "subcategories": ["Edelst", "Doppel-Duschhaken", "Vieste Duo"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003593888",
+    "name": "Wenko Ersatzbürste",
+    "category": "Badezimmer",
+    "subcategories": ["Ersatzbürste"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003589836",
+    "name": "Wenko Fugen-Weiss",
+    "category": "Badezimmer",
+    "subcategories": ["Fugen-Weiss"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003589904",
+    "name": "Wenko Haken f. Handtuchheizkoerper 2er",
+    "category": "Badezimmer",
+    "subcategories": ["Haken", "Handtuchheizkoerper", "2er"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003072208",
+    "name": "Wenko Hakenleiste Esperia 4er Edelstahl matt",
+    "category": "Badezimmer",
+    "subcategories": ["Hakenleiste", "Esperia", "4er Edelstahl matt"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004327406",
+    "name": "Wenko Handtuchalter 40 cm Bambusa",
+    "category": "Badezimmer",
+    "subcategories": ["Handtuchalter", "40 cm", "Bambusa"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004431745",
+    "name": "Wenko Heizkörper-Entlüfter",
+    "category": "Badezimmer",
+    "subcategories": ["Heizkörper-Entlüfter"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003401831",
+    "name": "Wenko Keramik Zahnputzbecher Badi grau",
+    "category": "Badezimmer",
+    "subcategories": ["Keramik Zahnputzbecher", "Badi", "grau"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003455339",
+    "name": "Wenko Kleiderständer Teleskop System HERKULES Basic Schwarz",
+    "category": "Kleideraufbewahrung",
+    "subcategories": [
+      "Kleiderständer",
+      "Teleskop System",
+      "HERKULES Basic",
+      "Schwarz"
+    ]
+  },
+  {
+    "store": "spar",
+    "id": "2020003482137",
+    "name": "Wenko Mischdüse M24 x 1mm",
+    "category": "Badezimmer",
+    "subcategories": ["Mischdüse", "M24 x 1mm"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003071928",
+    "name": "Wenko Rundhaken mittel Edelstahl matt 2er/Blis",
+    "category": "Badezimmer",
+    "subcategories": ["Rundhaken", "mittel", "Edelstahl matt", "2er/Blis"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003594168",
+    "name": "Wenko Seifenablage",
+    "category": "Badezimmer",
+    "subcategories": ["Seifenablage"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003594014",
+    "name": "Wenko Seifenablage Mod. Badi weiss",
+    "category": "Badezimmer",
+    "subcategories": ["Seifenablage", "Mod. Badi", "weiss"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003594137",
+    "name": "Wenko Seifenablage grau",
+    "category": "Badezimmer",
+    "subcategories": ["Seifenablage", "grau"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003401961",
+    "name": "Wenko Seifenspender",
+    "category": "Badezimmer",
+    "subcategories": ["Seifenspender"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003596018",
+    "name": "Wenko Seifenspender Mod. Badi",
+    "category": "Badezimmer",
+    "subcategories": ["Seifenspender", "Mod. Badi"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003596568",
+    "name": "Wenko Seifenspender Mod. Badi",
+    "category": "Badezimmer",
+    "subcategories": ["Seifenspender", "Mod. Badi"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003596469",
+    "name": "Wenko Seifenspender Mod. Badi",
+    "category": "Badezimmer",
+    "subcategories": ["Seifenspender", "Mod. Badi"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004311726",
+    "name": "Wenko Seifenspender Padua Bambus",
+    "category": "Badezimmer",
+    "subcategories": ["Seifenspender", "Padua", "Bambus"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003401893",
+    "name": "Wenko Seifenspender grau",
+    "category": "Badezimmer",
+    "subcategories": ["Seifenspender", "grau"]
+  },
+  {
+    "store": "spar",
+    "id": "7563386",
+    "name": "Wieder Juliana 'Georg' 2020",
+    "category": "Wein",
+    "subcategories": ["'Georg' 2020"]
+  },
+  {
+    "store": "spar",
+    "id": "2020000595953",
+    "name": "Wieder Juliana Blaufränkisch Fahnenschwinger 2020",
+    "category": "Wein",
+    "subcategories": ["Blaufränkisch Fahnenschwinger", "2020"]
+  },
+  {
+    "store": "spar",
+    "id": "5439560",
+    "name": "Wieder Juliana Blaufränkisch Mittelburgenland DAC Hochberg 2020",
+    "category": "Wein",
+    "subcategories": ["Blaufränkisch Mittelburgenland DAC Hochberg", "2020"]
+  },
+  {
+    "store": "spar",
+    "id": "6174590",
+    "name": "Wieder Juliana Blaufränkisch Mittelburgenland DAC Reserve Bodigraben 2018",
+    "category": "Wein",
+    "subcategories": [
+      "Blaufränkisch Mittelburgenland DAC Reserve Bodigraben",
+      "2018"
+    ]
+  },
+  {
+    "store": "spar",
+    "id": "2020002118921",
+    "name": "Wieder Juliana Cuvée da`Wida 2021",
+    "category": "Wein",
+    "subcategories": ["Cuvée da`Wida", "2021"]
+  },
+  {
+    "store": "spar",
+    "id": "5722457",
+    "name": "Wieder Juliana Morandus 2018",
+    "category": "Wein",
+    "subcategories": ["Morandus", "2018"]
+  },
+  {
+    "store": "spar",
+    "id": "5722358",
+    "name": "Wieder Juliana St. Laurent 2020",
+    "category": "Wein",
+    "subcategories": ["St. Laurent", "2020"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003425554",
+    "name": "Wholey Açaí Bowl",
+    "category": "Lebensmittel",
+    "subcategories": ["Açaí Bowl"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003632235",
+    "name": "Wholey Dragon Bowl",
+    "category": "Lebensmittel",
+    "subcategories": ["Dragon Bowl"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003425578",
+    "name": "Wholey Ocean Bowl",
+    "category": "Lebensmittel",
+    "subcategories": ["Ocean Bowl"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003425592",
+    "name": "Wholey Tropical Bowl",
+    "category": "Lebensmittel",
+    "subcategories": ["Tropical Bowl"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004648228",
+    "name": "Wiberg Avocado 100g",
+    "category": "Gewürze",
+    "subcategories": ["Avocado", "100g"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004521408",
+    "name": "Wiberg Bio Ursalz Alpin 115g",
+    "category": "Gewürze",
+    "subcategories": ["Bio Ursalz Alpin", "115g"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004521385",
+    "name": "Wiberg Bio Ursalz Kräuter 100g",
+    "category": "Gewürze",
+    "subcategories": ["Bio Ursalz Kräuter", "100g"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004521439",
+    "name": "Wiberg Bio Ursalz Mediterran 110g",
+    "category": "Gewürze",
+    "subcategories": ["Bio Ursalz Mediterran", "110g"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004521453",
+    "name": "Wiberg Classic BBQ 115g",
+    "category": "Gewürze",
+    "subcategories": ["Classic BBQ", "115g"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004521507",
+    "name": "Wiberg Curry Maharadscha 75g",
+    "category": "Gewürze",
+    "subcategories": ["Curry Maharadscha", "75g"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004521651",
+    "name": "Wiberg Curry Maharani 65g",
+    "category": "Gewürze",
+    "subcategories": ["Curry Maharani", "65g"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004648167",
+    "name": "Wiberg Fiesta 105g",
+    "category": "Gewürze",
+    "subcategories": ["Fiesta", "105g"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004648129",
+    "name": "Wiberg Fisch 110g",
+    "category": "Gewürze",
+    "subcategories": ["Fisch", "110g"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004521569",
+    "name": "Wiberg Fruity BBQ 95g",
+    "category": "Gewürze",
+    "subcategories": ["Fruity BBQ", "95g"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004521637",
+    "name": "Wiberg Harissa 85g",
+    "category": "Gewürze",
+    "subcategories": ["Harissa", "85g"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004521583",
+    "name": "Wiberg Orient 85g",
+    "category": "Gewürze",
+    "subcategories": ["Orient", "85g"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004648198",
+    "name": "Wiberg Pasta Pizza 85g",
+    "category": "Gewürze",
+    "subcategories": ["Pasta Pizza", "85g"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004521613",
+    "name": "Wiberg Safari 105g",
+    "category": "Gewürze",
+    "subcategories": ["Safari", "105g"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004521477",
+    "name": "Wiberg Seven Spices 100g",
+    "category": "Gewürze",
+    "subcategories": ["Seven Spices", "100g"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004521538",
+    "name": "Wiberg Smoky BBQ 100g",
+    "category": "Gewürze",
+    "subcategories": ["Smoky BBQ", "100g"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004669605",
+    "name": "Wholey Bio Cerealien Chillo Pillows",
+    "category": "Lebensmittel",
+    "subcategories": ["Bio Cerealien Chillo Pillows"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004669551",
+    "name": "Wholey Bio Cerealien Cinna Rollies",
+    "category": "Lebensmittel",
+    "subcategories": ["Bio Cerealien Cinna Rollies"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004669582",
+    "name": "Wholey Bio Cerealien Lucky Loops",
+    "category": "Lebensmittel",
+    "subcategories": ["Bio Cerealien Lucky Loops"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004382979",
+    "name": "Wholey Bio Crunchy Granola Cherry Coconut 300G",
+    "category": "Lebensmittel",
+    "subcategories": ["Bio Crunchy Granola", "Cherry Coconut", "300G"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004382955",
+    "name": "Wholey Bio Crunchy Granola Chocolate Sea Salt 300G",
+    "category": "Lebensmittel",
+    "subcategories": ["Bio Crunchy Granola", "Chocolate Sea Salt", "300G"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004382948",
+    "name": "Wholey Bio Crunchy Granola Original 300G",
+    "category": "Lebensmittel",
+    "subcategories": ["Bio Crunchy Granola", "Original", "300G"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002807764",
+    "name": "Wick Hustenbonbon Kirsch & Eukalyptus",
+    "category": "Drogerie",
+    "subcategories": ["Hustenbonbon", "Kirsch & Eukalyptus"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001634491",
+    "name": "Wick Hustenbonbons Zitrone & Menthol",
+    "category": "Drogerie",
+    "subcategories": ["Hustenbonbons", "Zitrone & Menthol"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001090488",
+    "name": "Wick Hustenbonbons ohne Zucker Atemfrei Eukalyptus",
+    "category": "Drogerie",
+    "subcategories": ["Hustenbonbons ohne Zucker", "Atemfrei Eukalyptus"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001581719",
+    "name": "Wick Hustenbonbons ohne Zucker Kirsche & Eukalyptus",
+    "category": "Drogerie",
+    "subcategories": ["Hustenbonbons ohne Zucker", "Kirsche & Eukalyptus"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002111717",
+    "name": "Wick Hustenbonbons ohne Zucker Triple Action",
+    "category": "Drogerie",
+    "subcategories": ["Hustenbonbons ohne Zucker", "Triple Action"]
+  },
+  {
+    "store": "spar",
+    "id": "1814798",
+    "name": "Wick Hustenbonbons ohne Zucker Zitrone & natürliches Menthol",
+    "category": "Drogerie",
+    "subcategories": [
+      "Hustenbonbons ohne Zucker",
+      "Zitrone",
+      "natürliches Menthol"
+    ]
+  },
+  {
+    "store": "spar",
+    "id": "8041753",
+    "name": "Wick Menthol",
+    "category": "Drogerie",
+    "subcategories": ["Menthol"]
+  },
+  {
+    "store": "spar",
+    "id": "2971292",
+    "name": "Wick Menthol",
+    "category": "Drogerie",
+    "subcategories": ["Menthol"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003715280",
+    "name": "Wenko Silikon WC-Bürste",
+    "category": "Badezimmer",
+    "subcategories": ["Silikon WC-Bürste"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003482199",
+    "name": "Wenko Spar Küchenbrause",
+    "category": "Badezimmer",
+    "subcategories": ["Spar Küchenbrause"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003590481",
+    "name": "Wenko Tuergarderobenhaken 5er Kst",
+    "category": "Badezimmer",
+    "subcategories": ["Tuergarderobenhaken", "5er Kst"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003715334",
+    "name": "Wenko WC-Bürste Kunststoff",
+    "category": "Badezimmer",
+    "subcategories": ["WC-Bürste", "Kunststoff"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004108876",
+    "name": "Wenko Sockenklammer Socky 7er",
+    "category": "Badezimmer",
+    "subcategories": ["Sockenklammer", "Socky", "7er"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003072055",
+    "name": "Wenko Strip It Liliputhaken weiss 3er/Blister",
+    "category": "Badezimmer",
+    "subcategories": ["Strip It Liliputhaken", "weiss", "3er/Blister"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003596827",
+    "name": "Wenko WC- Garnitur Mod. Badi",
+    "category": "Badezimmer",
+    "subcategories": ["WC-Garnitur", "Mod. Badi"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003597022",
+    "name": "Wenko WC-Garnitur Mod. Badi",
+    "category": "Badezimmer",
+    "subcategories": ["WC-Garnitur", "Mod. Badi"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003870804",
+    "name": "Wenko Trocknerbälle 2 Stück",
+    "category": "Wäsche",
+    "subcategories": ["Trocknerbälle", "2 Stück"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001507771",
+    "name": "Wenko Tuerhaken 6er Wenko Tuerhaken 6er             EVE 1",
+    "category": "Badezimmer",
+    "subcategories": ["Tuerhaken", "6er", "EVE 1"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001507788",
+    "name": "Wenko Türhaken Boy",
+    "category": "Badezimmer",
+    "subcategories": ["Türhaken", "Boy"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001507795",
+    "name": "Wenko Türhaken Garderobenhaken - Celano",
+    "category": "Badezimmer",
+    "subcategories": ["Türhaken", "Garderobenhaken", "Celano"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001806416",
+    "name": "Wenko Türhaken Lochdesign - 2 Stk.",
+    "category": "Badezimmer",
+    "subcategories": ["Türhaken", "Lochdesign", "2 Stk."]
+  },
+  {
+    "store": "spar",
+    "id": "2020003401916",
+    "name": "Wenko WC Garnitur grau",
+    "category": "Badezimmer",
+    "subcategories": ["WC Garnitur", "grau"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001805037",
+    "name": "Wenzel 2 Stumpenkerzen 100/60 wollweiss",
+    "category": "Wohnaccessoires",
+    "subcategories": ["2 Stumpenkerzen", "100/60 wollweiss"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001347506",
+    "name": "Wenzel Rustic-Kerze 140/70 wollweis",
+    "category": "Wohnaccessoires",
+    "subcategories": ["Rustic-Kerze", "140/70 wollweis"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003715792",
+    "name": "Wenko WC-Ersatzkopf Kunststoff",
+    "category": "Badezimmer",
+    "subcategories": ["WC-Ersatzkopf", "Kunststoff"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003597107",
+    "name": "Wenko WC-Garnitur Mod. Badi",
+    "category": "Badezimmer",
+    "subcategories": ["WC-Garnitur", "Mod. Badi"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004327390",
+    "name": "Wenko WC-Garnitur Padua",
+    "category": "Badezimmer",
+    "subcategories": ["WC-Garnitur", "Padua"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004328151",
+    "name": "Wenko Wandablage aus Bambus 40cm",
+    "category": "Badezimmer",
+    "subcategories": ["Wandablage", "Bambus", "40cm"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003652028",
+    "name": "tetesept Abendruhe Bad 125ml",
+    "category": "Drogerie",
+    "subcategories": ["Abendruhe Bad", "125ml"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002108328",
+    "name": "tetesept Badekonzentrat Auszeit nehmen 125ml",
+    "category": "Drogerie",
+    "subcategories": ["Badekonzentrat", "Auszeit nehmen", "125ml"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002108359",
+    "name": "tetesept Badekonzentrat Einkuscheln 125ml",
+    "category": "Drogerie",
+    "subcategories": ["Badekonzentrat", "Einkuscheln", "125ml"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002684860",
+    "name": "tetesept Badekonzentrat Stressfrei 125ml",
+    "category": "Drogerie",
+    "subcategories": ["Badekonzentrat", "Stressfrei", "125ml"]
+  },
+  {
+    "store": "spar",
+    "id": "2020000691129",
+    "name": "tetesept Badekonzentrat Tiefenentspannung 125ml",
+    "category": "Drogerie",
+    "subcategories": ["Badekonzentrat", "Tiefenentspannung", "125ml"]
+  },
+  {
+    "store": "spar",
+    "id": "5198610",
+    "name": "tetesept Badekosmetikum Erkältung Kinder 125ml",
+    "category": "Drogerie",
+    "subcategories": ["Badekosmetikum", "Erkältung Kinder", "125ml"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002009960",
+    "name": "tetesept Badesalz Totes Meer 400g",
+    "category": "Drogerie",
+    "subcategories": ["Badesalz", "Totes Meer", "400g"]
+  },
+  {
+    "store": "spar",
+    "id": "1681581",
+    "name": "tetesept Badezusatz Anti Stress 750g",
+    "category": "Drogerie",
+    "subcategories": ["Badezusatz", "Anti Stress", "750g"]
+  },
+  {
+    "store": "spar",
+    "id": "2020000769125",
+    "name": "tetesept Badezusatz Basen-Mineral 750g",
+    "category": "Drogerie",
+    "subcategories": ["Badezusatz", "Basen-Mineral", "750g"]
+  },
+  {
+    "store": "spar",
+    "id": "2447179",
+    "name": "tetesept Badezusatz Bronchial 750g",
+    "category": "Drogerie",
+    "subcategories": ["Badezusatz", "Bronchial", "750g"]
+  },
+  {
+    "store": "spar",
+    "id": "2764221",
+    "name": "tetesept Badezusatz Entspannung 750g",
+    "category": "Drogerie",
+    "subcategories": ["Badezusatz", "Entspannung", "750g"]
+  },
+  {
+    "store": "spar",
+    "id": "2764207",
+    "name": "tetesept Badezusatz Erkältung 750g",
+    "category": "Drogerie",
+    "subcategories": ["Badezusatz", "Erkältung", "750g"]
+  },
+  {
+    "store": "spar",
+    "id": "4385066",
+    "name": "tetesept Badezusatz Erkältung 80g",
+    "category": "Drogerie",
+    "subcategories": ["Badezusatz", "Erkältung", "80g"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001332878",
+    "name": "tetesept Badezusatz Kinderbad Erkältung 750g",
+    "category": "Drogerie",
+    "subcategories": ["Badezusatz", "Kinderbad Erkältung", "750g"]
+  },
+  {
+    "store": "spar",
+    "id": "2764214",
+    "name": "tetesept Badezusatz Muskel & Gelenk 750 g",
+    "category": "Drogerie",
+    "subcategories": ["Badezusatz", "Muskel & Gelenk", "750 g"]
+  }
+]

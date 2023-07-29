@@ -1,0 +1,702 @@
+[
+  {
+    "store": "billa",
+    "id": "00-721611",
+    "name": "Berndorf Besteckset 3-teilig",
+    "category": "Besteck",
+    "subcategories": ["Besteckset"]
+  },
+  {
+    "store": "billa",
+    "id": "00-721606",
+    "name": "Berndorf Kinderbesteckset 3-teilig",
+    "category": "Besteck",
+    "subcategories": ["Besteckset", "Kinderbesteck"]
+  },
+  {
+    "store": "billa",
+    "id": "00-721605",
+    "name": "Berndorf Kuchengabelset 4-teilig",
+    "category": "Besteck",
+    "subcategories": ["Besteckset", "Kuchengabelset"]
+  },
+  {
+    "store": "billa",
+    "id": "00-721610",
+    "name": "Berndorf Latte Macchiato Set 4-teilig",
+    "category": "Besteck",
+    "subcategories": ["Besteckset", "Latte Macchiato Set"]
+  },
+  {
+    "store": "billa",
+    "id": "00-721612",
+    "name": "Berndorf Servierbesteckset 2-teilig",
+    "category": "Besteck",
+    "subcategories": ["Besteckset", "Servierbesteckset"]
+  },
+  {
+    "store": "billa",
+    "id": "00-721608",
+    "name": "Berndorf Steakmesserset 2-teilig",
+    "category": "Besteck",
+    "subcategories": ["Besteckset", "Steakmesserset"]
+  },
+  {
+    "store": "billa",
+    "id": "00-721607",
+    "name": "Berndorf Teelöffelset 4-teilig",
+    "category": "Besteck",
+    "subcategories": ["Besteckset", "Teelöffelset"]
+  },
+  {
+    "store": "billa",
+    "id": "00-721604",
+    "name": "Berndorf Tortenheber",
+    "category": "Besteck",
+    "subcategories": ["Tortenheber"]
+  },
+  {
+    "store": "billa",
+    "id": "00-352185",
+    "name": "Bio Kaffeebecher 300ml",
+    "category": "Geschirr",
+    "subcategories": ["Kaffeebecher"]
+  },
+  {
+    "store": "billa",
+    "id": "00-134809",
+    "name": "Bümag Spülbürste",
+    "category": "Haushaltswaren",
+    "subcategories": ["Spülbürste"]
+  },
+  {
+    "store": "billa",
+    "id": "00-319101",
+    "name": "Clever Kaffeefilter Gr. 4",
+    "category": "Kaffeezubehör",
+    "subcategories": ["Kaffeefilter"]
+  },
+  {
+    "store": "billa",
+    "id": "00-373550",
+    "name": "Die Grillerei Grillschalen",
+    "category": "Grillzubehör",
+    "subcategories": ["Grillschalen"]
+  },
+  {
+    "store": "billa",
+    "id": "00-610677",
+    "name": "Durgol Universal Bio Schnellentkalker",
+    "category": "Entkalker",
+    "subcategories": ["Schnellentkalker"]
+  },
+  {
+    "store": "billa",
+    "id": "00-516764",
+    "name": "Durgol Universal Schnellentkalker",
+    "category": "Entkalker",
+    "subcategories": ["Schnellentkalker"]
+  },
+  {
+    "store": "billa",
+    "id": "00-340076",
+    "name": "Einwegbecher aus Hartpapier 200ml",
+    "category": "Geschirr",
+    "subcategories": ["Einwegbecher"]
+  },
+  {
+    "store": "billa",
+    "id": "00-344573",
+    "name": "Einwegbecher aus Hartpapier 400ml",
+    "category": "Geschirr",
+    "subcategories": ["Einwegbecher"]
+  },
+  {
+    "store": "billa",
+    "id": "00-113555",
+    "name": "Flaschenbürste",
+    "category": "Haushaltswaren",
+    "subcategories": ["Bürste"]
+  },
+  {
+    "store": "billa",
+    "id": "00-796930",
+    "name": "Flaschentasche Lack",
+    "category": "Verpackung",
+    "subcategories": ["Flaschentasche"]
+  },
+  {
+    "store": "billa",
+    "id": "00-902679",
+    "name": "Gala Geburtstagskerzen mit Halter",
+    "category": "Kerzen",
+    "subcategories": ["Geburtstagskerzen"]
+  },
+  {
+    "store": "billa",
+    "id": "00-584582",
+    "name": "Geschirrtücher 50x70, 10er",
+    "category": "Haushaltswaren",
+    "subcategories": ["Geschirrtücher"]
+  },
+  {
+    "store": "billa",
+    "id": "00-771310",
+    "name": "Haug Bürsten Spülbürste",
+    "category": "Haushaltswaren",
+    "subcategories": ["Spülbürste"]
+  },
+  {
+    "store": "billa",
+    "id": "00-344543",
+    "name": "Imbissteller aus Frischefaser 23cm",
+    "category": "Geschirr",
+    "subcategories": ["Imbissteller"]
+  },
+  {
+    "store": "billa",
+    "id": "00-6125",
+    "name": "Kayser Sahnekapseln",
+    "category": "Küchenbedarf",
+    "subcategories": ["Sahnekapseln"]
+  },
+  {
+    "store": "billa",
+    "id": "00-868230",
+    "name": "Melitta Kaffeefilter 1x2 naturbraun",
+    "category": "Kaffeezubehör",
+    "subcategories": ["Kaffeefilter"]
+  },
+  {
+    "store": "billa",
+    "id": "00-868233",
+    "name": "Melitta Kaffefilter 1x4 weiß",
+    "category": "Kaffeezubehör",
+    "subcategories": ["Kaffeefilter"]
+  },
+  {
+    "store": "billa",
+    "id": "00-599559",
+    "name": "Milford Teefilter",
+    "category": "Teezubehör",
+    "subcategories": ["Teefilter"]
+  },
+  {
+    "store": "billa",
+    "id": "00-418516",
+    "name": "Nuts Bienenwachsrolle Honigwabe",
+    "category": "Küchenbedarf",
+    "subcategories": ["Bienenwachsrolle"]
+  },
+  {
+    "store": "billa",
+    "id": "00-418509",
+    "name": "Nuts Bienenwachstuch 3 teilig Honigwabe",
+    "category": "Küchenbedarf",
+    "subcategories": ["Bienenwachstuch"]
+  },
+  {
+    "store": "billa",
+    "id": "00-418513",
+    "name": "Nuts Bienenwachstuch 5 teilig Universal",
+    "category": "Küchenbedarf",
+    "subcategories": ["Bienenwachstuch"]
+  },
+  {
+    "store": "billa",
+    "id": "00-344645",
+    "name": "Palmblattschale Schale Rund 15cm",
+    "category": "Geschirr",
+    "subcategories": ["Palmblattschale"]
+  },
+  {
+    "store": "billa",
+    "id": "00-344653",
+    "name": "Palmblattteller Rechteckig 24x15cm",
+    "category": "Geschirr",
+    "subcategories": ["Palmblattteller"]
+  },
+  {
+    "store": "billa",
+    "id": "00-344646",
+    "name": "Palmblattteller Rund 17cm",
+    "category": "Geschirr",
+    "subcategories": ["Palmblattteller"]
+  },
+  {
+    "store": "billa",
+    "id": "00-344654",
+    "name": "Palmblattteller Rund 23cm",
+    "category": "Geschirr",
+    "subcategories": ["Palmblattteller"]
+  },
+  {
+    "store": "billa",
+    "id": "00-344601",
+    "name": "Papier Trinkhalme",
+    "category": "Geschirr",
+    "subcategories": ["Trinkhalme"]
+  },
+  {
+    "store": "billa",
+    "id": "00-381854",
+    "name": "Papier Trinkhalme Flamingo",
+    "category": "Geschirr",
+    "subcategories": ["Trinkhalme"]
+  },
+  {
+    "store": "billa",
+    "id": "00-381851",
+    "name": "Papier Trinkhalme Mix",
+    "category": "Geschirr",
+    "subcategories": ["Trinkhalme"]
+  },
+  {
+    "store": "billa",
+    "id": "00-431390",
+    "name": "Resch&Frisch Backofen",
+    "category": "Backzubehör",
+    "subcategories": ["Backofen"]
+  },
+  {
+    "store": "billa",
+    "id": "00-903072",
+    "name": "Schaschlikspieße",
+    "category": "Grillzubehör",
+    "subcategories": ["Schaschlikspieße"]
+  },
+  {
+    "store": "billa",
+    "id": "00-723460",
+    "name": "BI HOME Feuchtes Tooilettenpapier Spenderbox",
+    "category": "Hygiene",
+    "subcategories": ["Feuchtes Toilettenpapier"]
+  },
+  {
+    "store": "billa",
+    "id": "00-708431",
+    "name": "BI HOME Toilettenpapier Feucht Cashmere",
+    "category": "Hygiene",
+    "subcategories": ["Feuchtes Toilettenpapier"]
+  },
+  {
+    "store": "billa",
+    "id": "00-708439",
+    "name": "BI HOME Toilettenpapier Feucht Mandelöl & Sheabutter",
+    "category": "Hygiene",
+    "subcategories": ["Feuchtes Toilettenpapier"]
+  },
+  {
+    "store": "billa",
+    "id": "00-708436",
+    "name": "BI HOME Toilettenpapier Feucht Sensitiv",
+    "category": "Hygiene",
+    "subcategories": ["Feuchtes Toilettenpapier"]
+  },
+  {
+    "store": "billa",
+    "id": "00-708441",
+    "name": "BI KIDS Toilettenpapier Feucht Heidelbernd",
+    "category": "Hygiene",
+    "subcategories": ["Feuchtes Toilettenpapier"]
+  },
+  {
+    "store": "billa",
+    "id": "00-451322",
+    "name": "BILLA Grüner Tee Feuchtes Toilettenpapier",
+    "category": "Hygiene",
+    "subcategories": ["Feuchtes Toilettenpapier"]
+  },
+  {
+    "store": "billa",
+    "id": "00-451352",
+    "name": "BILLA Kamille Feuchtes Toilettenpapier",
+    "category": "Hygiene",
+    "subcategories": ["Feuchtes Toilettenpapier"]
+  },
+  {
+    "store": "billa",
+    "id": "00-575953",
+    "name": "BILLA Küchenrolle",
+    "category": "Haushaltswaren",
+    "subcategories": ["Küchenrolle"]
+  },
+  {
+    "store": "billa",
+    "id": "00-451359",
+    "name": "BILLA Sensitiv Feuchtes Toilettenpapier",
+    "category": "Hygiene",
+    "subcategories": ["Feuchtes Toilettenpapier"]
+  },
+  {
+    "store": "billa",
+    "id": "00-431244",
+    "name": "BILLA Toilettenpapier Sensitiv",
+    "category": "Hygiene",
+    "subcategories": ["Toilettenpapier"]
+  },
+  {
+    "store": "billa",
+    "id": "00-431231",
+    "name": "BILLA Toilettenpapier Vanille",
+    "category": "Hygiene",
+    "subcategories": ["Toilettenpapier"]
+  },
+  {
+    "store": "billa",
+    "id": "00-524130",
+    "name": "Clever Feuchtes Toilettenpapier Aloe Vera",
+    "category": "Hygiene",
+    "subcategories": ["Feuchtes Toilettenpapier"]
+  },
+  {
+    "store": "billa",
+    "id": "00-479877",
+    "name": "Clever Feuchtes Toilettenpapier Kamille",
+    "category": "Hygiene",
+    "subcategories": ["Feuchtes Toilettenpapier"]
+  },
+  {
+    "store": "billa",
+    "id": "00-870889",
+    "name": "Clever Küchenrolle",
+    "category": "Haushaltswaren",
+    "subcategories": ["Küchenrolle"]
+  },
+  {
+    "store": "billa",
+    "id": "00-295578",
+    "name": "Clever Toilettenpapier 3-lagig",
+    "category": "Hygiene",
+    "subcategories": ["Toilettenpapier"]
+  },
+  {
+    "store": "billa",
+    "id": "00-864153",
+    "name": "Clever Toilettenpapier 3-lagig",
+    "category": "Hygiene",
+    "subcategories": ["Toilettenpapier"]
+  },
+  {
+    "store": "billa",
+    "id": "00-302424",
+    "name": "Clever Toilettenpapier 4-lagig",
+    "category": "Hygiene",
+    "subcategories": ["Toilettenpapier"]
+  },
+  {
+    "store": "billa",
+    "id": "00-355022",
+    "name": "Clever Toilettenpapier XXL Shea Butter",
+    "category": "Hygiene",
+    "subcategories": ["Toilettenpapier"]
+  },
+  {
+    "store": "billa",
+    "id": "00-103071",
+    "name": "Cosy Toilettenpapier Weiß",
+    "category": "Hygiene",
+    "subcategories": ["Toilettenpapier"]
+  },
+  {
+    "store": "billa",
+    "id": "00-496316",
+    "name": "Hakle Feucht Klassische Sauberkeit",
+    "category": "Hygiene",
+    "subcategories": ["Feuchttücher"]
+  },
+  {
+    "store": "billa",
+    "id": "00-496302",
+    "name": "Hakle Feucht Pflegende Sauberkeit",
+    "category": "Hygiene",
+    "subcategories": ["Feuchttücher"]
+  },
+  {
+    "store": "billa",
+    "id": "00-496673",
+    "name": "Hakle Feucht Sensitive Sauberkeit",
+    "category": "Hygiene",
+    "subcategories": ["Feuchttücher"]
+  },
+  {
+    "store": "billa",
+    "id": "00-428416",
+    "name": "Hakle Toilettenpapier Reichhaltige Sauberkeit",
+    "category": "Hygiene",
+    "subcategories": ["Toilettenpapier"]
+  },
+  {
+    "store": "billa",
+    "id": "00-580180",
+    "name": "Hakle Verwöhnende Sauberkeit 4-lagig",
+    "category": "Hygiene",
+    "subcategories": ["Toilettenpapier"]
+  },
+  {
+    "store": "billa",
+    "id": "00-405648",
+    "name": "Plenty Küchenrolle Original",
+    "category": "Haushaltswaren",
+    "subcategories": ["Küchenrolle"]
+  },
+  {
+    "store": "billa",
+    "id": "00-629121",
+    "name": "Softis Toilettenpapier Weiß",
+    "category": "Hygiene",
+    "subcategories": ["Toilettenpapier"]
+  },
+  {
+    "store": "billa",
+    "id": "00-952432",
+    "name": "Tempo Feuchte Toilettentücher Sheabutter",
+    "category": "Hygiene",
+    "subcategories": ["Feuchttücher"]
+  },
+  {
+    "store": "billa",
+    "id": "00-641608",
+    "name": "Tempo Sanft & Pflegend Feuchte Toilettentücher",
+    "category": "Hygiene",
+    "subcategories": ["Feuchttücher"]
+  },
+  {
+    "store": "billa",
+    "id": "00-305561",
+    "name": "Tempo Sanft & Pur Feuchte Toilettentücher",
+    "category": "Hygiene",
+    "subcategories": ["Feuchttücher"]
+  },
+  {
+    "store": "billa",
+    "id": "00-641602",
+    "name": "Tempo Sanft & Sensitiv Feuchte Toilettentücher",
+    "category": "Hygiene",
+    "subcategories": ["Feuchttücher"]
+  },
+  {
+    "store": "billa",
+    "id": "00-29592",
+    "name": "Zewa Comfort Toilettenpapier Gelb",
+    "category": "Hygiene",
+    "subcategories": ["Toilettenpapier"]
+  },
+  {
+    "store": "billa",
+    "id": "00-688681",
+    "name": "Zewa Comfort Toilettenpapier Kamille",
+    "category": "Hygiene",
+    "subcategories": ["Toilettenpapier"]
+  },
+  {
+    "store": "billa",
+    "id": "00-683702",
+    "name": "Zewa Comfort Toilettenpapier Weiß",
+    "category": "Hygiene",
+    "subcategories": ["Toilettenpapier"]
+  },
+  {
+    "store": "billa",
+    "id": "00-409535",
+    "name": "Zewa Wisch & Weg Küchenrolle",
+    "category": "Haushaltswaren",
+    "subcategories": ["Küchenrolle"]
+  },
+  {
+    "store": "billa",
+    "id": "00-874018",
+    "name": "bi good Toilettenpapier Recycling 3-lagig",
+    "category": "Hygiene",
+    "subcategories": ["Toilettenpapier"]
+  },
+  {
+    "store": "billa",
+    "id": "00-939232",
+    "name": "Clever Batterien AA Mignon",
+    "category": "Batterien",
+    "subcategories": []
+  },
+  {
+    "store": "billa",
+    "id": "00-939231",
+    "name": "Clever Batterien AAA Micro",
+    "category": "Batterien",
+    "subcategories": []
+  },
+  {
+    "store": "billa",
+    "id": "00-702817",
+    "name": "Rayovac Hörgerätbatterie Typ 312",
+    "category": "Batterien",
+    "subcategories": ["Hörgerätbatterie"]
+  },
+  {
+    "store": "billa",
+    "id": "00-702791",
+    "name": "Varta Akku R2U AAA (800 mAh)",
+    "category": "Akku",
+    "subcategories": []
+  },
+  {
+    "store": "billa",
+    "id": "00-860231",
+    "name": "Varta Alkaline 9V Block",
+    "category": "Batterien",
+    "subcategories": ["9V Batterie"]
+  },
+  {
+    "store": "billa",
+    "id": "00-860234",
+    "name": "Varta Alkaline AA 8er",
+    "category": "Batterien",
+    "subcategories": ["AA Batterie"]
+  },
+  {
+    "store": "billa",
+    "id": "00-665777",
+    "name": "Varta Alkaline AAA 8er",
+    "category": "Batterien",
+    "subcategories": ["AAA Batterie"]
+  },
+  {
+    "store": "billa",
+    "id": "00-422288",
+    "name": "Varta Alkaline Baby C",
+    "category": "Batterien",
+    "subcategories": ["C Batterie"]
+  },
+  {
+    "store": "billa",
+    "id": "00-422290",
+    "name": "Varta Alkaline Micro AAA",
+    "category": "Batterien",
+    "subcategories": ["AAA Batterie"]
+  },
+  {
+    "store": "billa",
+    "id": "00-422289",
+    "name": "Varta Alkaline Mignon AA",
+    "category": "Batterien",
+    "subcategories": ["AA Batterie"]
+  },
+  {
+    "store": "billa",
+    "id": "00-860233",
+    "name": "Varta Alkaline Mono D",
+    "category": "Batterien",
+    "subcategories": ["D Batterie"]
+  },
+  {
+    "store": "billa",
+    "id": "00-710868",
+    "name": "Varta High Energy Micro AAA",
+    "category": "Batterien",
+    "subcategories": ["AAA Batterie"]
+  },
+  {
+    "store": "billa",
+    "id": "00-870252",
+    "name": "Varta High Energy Mignon AA",
+    "category": "Batterien",
+    "subcategories": ["AA Batterie"]
+  },
+  {
+    "store": "billa",
+    "id": "00-702802",
+    "name": "Varta Knopfzelle V13GA",
+    "category": "Batterien",
+    "subcategories": ["Knopfzelle"]
+  },
+  {
+    "store": "billa",
+    "id": "00-897422",
+    "name": "Varta Lithium Knopfzelle CR 2032",
+    "category": "Batterien",
+    "subcategories": ["Knopfzelle"]
+  },
+  {
+    "store": "billa",
+    "id": "00-702813",
+    "name": "Varta Lithium Knopfzelle CR2016",
+    "category": "Batterien",
+    "subcategories": ["Knopfzelle"]
+  },
+  {
+    "store": "billa",
+    "id": "00-635803",
+    "name": "Varta Lithium Knopfzelle CR2025",
+    "category": "Batterien",
+    "subcategories": ["Knopfzelle"]
+  },
+  {
+    "store": "billa",
+    "id": "00-635804",
+    "name": "Varta Lithium Knopfzelle CR2032",
+    "category": "Batterien",
+    "subcategories": ["Knopfzelle"]
+  },
+  {
+    "store": "billa",
+    "id": "00-702804",
+    "name": "Varta Mini Batterie V23GA",
+    "category": "Batterien",
+    "subcategories": ["Mini Batterie"]
+  },
+  {
+    "store": "billa",
+    "id": "00-708407",
+    "name": "BI HOME Duftmüllsack Limette 60l",
+    "category": "Müllbeutel",
+    "subcategories": ["Duftmüllsack"]
+  },
+  {
+    "store": "billa",
+    "id": "00-708410",
+    "name": "BI HOME Duftmüllsack Zugband 35l",
+    "category": "Müllbeutel",
+    "subcategories": ["Duftmüllsack"]
+  },
+  {
+    "store": "billa",
+    "id": "00-708418",
+    "name": "BI HOME Duftmüllsack mit Tragegriff 25l",
+    "category": "Müllbeutel",
+    "subcategories": ["Duftmüllsack"]
+  },
+  {
+    "store": "billa",
+    "id": "00-708420",
+    "name": "BI HOME Kosmetikbeutel mit Tragegriff 10l",
+    "category": "Müllbeutel",
+    "subcategories": ["Kosmetikbeutel"]
+  },
+  {
+    "store": "billa",
+    "id": "00-566044",
+    "name": "BILLA Biomüll Säcke 15 Lt.",
+    "category": "Müllbeutel",
+    "subcategories": ["Biomüllsack"]
+  },
+  {
+    "store": "billa",
+    "id": "00-578281",
+    "name": "BILLA Gefrierbeutel 1 Liter Zip",
+    "category": "Aufbewahrung",
+    "subcategories": ["Gefrierbeutel"]
+  },
+  {
+    "store": "billa",
+    "id": "00-578282",
+    "name": "BILLA Gefrierbeutel 3 Liter Zip",
+    "category": "Aufbewahrung",
+    "subcategories": ["Gefrierbeutel"]
+  },
+  {
+    "store": "billa",
+    "id": "00-374651",
+    "name": "Clever Alufolie 20m",
+    "category": "Haushaltswaren",
+    "subcategories": ["Alufolie"]
+  }
+]

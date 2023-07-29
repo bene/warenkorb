@@ -1,0 +1,702 @@
+[
+  {
+    "store": "spar",
+    "id": "2020004593016",
+    "name": "Dogs’n Tiger Hundenahrung Lamm mit Pastinake 400g",
+    "category": "Tierfutter",
+    "subcategories": ["Hundefutter", "Lammfleisch", "Pastinake"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004699503",
+    "name": "Dogs’n Tiger Hundenahrung Lamm mit Pastinake 800g",
+    "category": "Tierfutter",
+    "subcategories": ["Hundefutter", "Lammfleisch", "Pastinake"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004592972",
+    "name": "Dogs’n Tiger Hundenahrung Rind mit Kürbis 400g",
+    "category": "Tierfutter",
+    "subcategories": ["Hundefutter", "Rindfleisch", "Kürbis"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004699206",
+    "name": "Dogs’n Tiger Hundenahrung Rind mit Kürbis 800g",
+    "category": "Tierfutter",
+    "subcategories": ["Hundefutter", "Rindfleisch", "Kürbis"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004708427",
+    "name": "Dogs’n Tiger Katzennahrung Huhn 200g",
+    "category": "Tierfutter",
+    "subcategories": ["Katzenfutter", "Hühnchen"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004708397",
+    "name": "Dogs’n Tiger Katzennahrung Huhn und Lachs 200g",
+    "category": "Tierfutter",
+    "subcategories": ["Katzenfutter", "Hühnchen", "Lachs"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004708342",
+    "name": "Dogs’n Tiger Katzennahrung Junior Gefluegel 200g",
+    "category": "Tierfutter",
+    "subcategories": ["Katzenfutter", "Geflügel"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004708489",
+    "name": "Dogs’n Tiger Katzennahrung Rind 200g",
+    "category": "Tierfutter",
+    "subcategories": ["Katzenfutter", "Rindfleisch"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001355921",
+    "name": "Dr. Oetker Gugelhupfform",
+    "category": "Backzubehör",
+    "subcategories": ["Backform", "Gugelhupf"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003418426",
+    "name": "Dr. Oetker Gugelhupfform Creative 22cm",
+    "category": "Backzubehör",
+    "subcategories": ["Backform", "Gugelhupf", "Kreativ"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003418464",
+    "name": "Dr. Oetker Gugelhupfform Floral 24cm",
+    "category": "Backzubehör",
+    "subcategories": ["Backform", "Gugelhupf", "Blumenmuster"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003418488",
+    "name": "Dr. Oetker Gugelhupfform Twist 22cm",
+    "category": "Backzubehör",
+    "subcategories": ["Backform", "Gugelhupf", "Drehbar"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001355945",
+    "name": "Dr. Oetker Kastenform 25cm",
+    "category": "Backzubehör",
+    "subcategories": ["Backform", "Kastenform"]
+  },
+  {
+    "store": "spar",
+    "id": "7937859",
+    "name": "Dr. Oetker Krokant Haselnuss 100G",
+    "category": "Backzutat",
+    "subcategories": ["Krokant", "Haselnuss"]
+  },
+  {
+    "store": "spar",
+    "id": "128186",
+    "name": "Dr. Oetker Kuchenglasur Kakao",
+    "category": "Backzutat",
+    "subcategories": ["Kuchenglasur", "Kakao"]
+  },
+  {
+    "store": "spar",
+    "id": "4177272",
+    "name": "Dr. Oetker Kuchenglasur Vollmilch",
+    "category": "Backzutat",
+    "subcategories": ["Kuchenglasur", "Vollmilch"]
+  },
+  {
+    "store": "spar",
+    "id": "2020000626473",
+    "name": "Dr. Oetker Madagaskar Bourbon Vanille Extrakt flüssig 35ML",
+    "category": "Backzutat",
+    "subcategories": ["Vanille", "Extrakt"]
+  },
+  {
+    "store": "spar",
+    "id": "2326801",
+    "name": "Dr. Oetker Natron 3 x 14G",
+    "category": "Backzutat",
+    "subcategories": ["Natron"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003711039",
+    "name": "Dr. Oetker Raspelschokolade Vollmilch 100G",
+    "category": "Backzutat",
+    "subcategories": ["Raspelschokolade", "Vollmilch"]
+  },
+  {
+    "store": "spar",
+    "id": "233002",
+    "name": "Dr. Oetker Raspelschokolade Zartbitter 100G",
+    "category": "Backzutat",
+    "subcategories": ["Raspelschokolade", "Zartbitter"]
+  },
+  {
+    "store": "spar",
+    "id": "3419564",
+    "name": "Dr. Oetker Sahnesteif 3 x 8G",
+    "category": "Backzutat",
+    "subcategories": ["Sahnesteif"]
+  },
+  {
+    "store": "spar",
+    "id": "3705780",
+    "name": "Dr. Oetker Schlagschaum 2 x 25g",
+    "category": "Backzutat",
+    "subcategories": ["Schlagschaum"]
+  },
+  {
+    "store": "spar",
+    "id": "7937873",
+    "name": "Dr. Oetker Schnittfeste Masse Nuss-Nougat 200G",
+    "category": "Backzutat",
+    "subcategories": ["Nuss-Nougat", "Schnittfeste Masse"]
+  },
+  {
+    "store": "spar",
+    "id": "7491221",
+    "name": "Dr. Oetker Schoko Dekor Ornamente Zartbitter 24 Stk.",
+    "category": "Backzutat",
+    "subcategories": ["Schokodekor", "Zartbitter", "Ornamente"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002009571",
+    "name": "Dr. Oetker Schoko Dekor Sterne Zartbitter gold 24G",
+    "category": "Backzutat",
+    "subcategories": ["Schokodekor", "Zartbitter", "Sterne", "Gold"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004204660",
+    "name": "Dr. Oetker Schoko-Dekor Alles Liebe 12 Stück",
+    "category": "Backzutat",
+    "subcategories": ["Schokodekor", "Valentinstag", "Herz"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001893850",
+    "name": "EZA Kuvertüre 60% noir 60% 200g",
+    "category": "Backzutat",
+    "subcategories": ["Kuvertüre", "Noir", "60%"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002277260",
+    "name": "Edelspices Bosna Gewürzzubereitung 65g",
+    "category": "Gewürze",
+    "subcategories": ["Gewürzzubereitung", "Bosna"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002048716",
+    "name": "Edelspices Curry Madras Gewürzzubereitung 65g",
+    "category": "Gewürze",
+    "subcategories": ["Gewürzzubereitung", "Curry", "Madras"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002277222",
+    "name": "Edelspices Dukkah Würzmischung 65g",
+    "category": "Gewürze",
+    "subcategories": ["Würzmischung", "Dukkah"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002277208",
+    "name": "Edelspices Faschiertes Würzer 65g",
+    "category": "Gewürze",
+    "subcategories": ["Würzmischung", "Faschiertes"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002277291",
+    "name": "Edelspices Gewürzzubereitung für Pulled Pork & Chicken Rub 65g",
+    "category": "Gewürze",
+    "subcategories": ["Gewürzzubereitung", "Pulled Pork", "Chicken Rub"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002563318",
+    "name": "Edelspices Gewürzzubereitung für Scampi 65g",
+    "category": "Gewürze",
+    "subcategories": ["Gewürzzubereitung", "Scampi"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002563325",
+    "name": "Edelspices Gewürzzubereitung für Süßkartoffelgerichte 65g",
+    "category": "Gewürze",
+    "subcategories": ["Gewürzzubereitung", "Süßkartoffelgerichte"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002277338",
+    "name": "Edelspices Gulaschwürzer 65g",
+    "category": "Gewürze",
+    "subcategories": ["Würzmischung", "Gulasch"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002048709",
+    "name": "Edelspices Italienische Kräuter 35g",
+    "category": "Gewürze",
+    "subcategories": ["Kräuter", "Italienisch"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002048747",
+    "name": "Edelspices Magic Dust BBQ Gewürz 95g",
+    "category": "Gewürze",
+    "subcategories": ["BBQ Gewürz", "Magic Dust"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002563349",
+    "name": "Edelspices Paella Gewürzzubereitung 65g",
+    "category": "Gewürze",
+    "subcategories": ["Gewürzzubereitung", "Paella"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002048723",
+    "name": "Edelspices Paprika geräuchert 75g",
+    "category": "Gewürze",
+    "subcategories": ["Paprika", "Geräuchert"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002048754",
+    "name": "Edelspices Patatas Bravas Gewürz 80g",
+    "category": "Gewürze",
+    "subcategories": ["Gewürz", "Patatas Bravas"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002277369",
+    "name": "Edelspices Pul Biber Würzmischung 65g",
+    "category": "Gewürze",
+    "subcategories": ["Würzmischung", "Pul Biber"]
+  },
+  {
+    "store": "spar",
+    "id": "4851387",
+    "name": "EZA Equita Kakao-Nuss Aufstrich",
+    "category": "Brotaufstrich",
+    "subcategories": ["Aufstrich", "Kakao", "Nuss"]
+  },
+  {
+    "store": "spar",
+    "id": "6392628",
+    "name": "Dumet Gordal Reina Oliven grün",
+    "category": "Oliven",
+    "subcategories": ["Oliven", "Gordal", "Grün"]
+  },
+  {
+    "store": "spar",
+    "id": "6392734",
+    "name": "Dumet Kalamata Oliven schwarz",
+    "category": "Oliven",
+    "subcategories": ["Oliven", "Kalamata", "Schwarz"]
+  },
+  {
+    "store": "spar",
+    "id": "6511227",
+    "name": "EZA Kokosnussmilch",
+    "category": "Milchprodukte",
+    "subcategories": ["Kokosnussmilch"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004205704",
+    "name": "Ebly Vorgegarter Hartweizen Mediterran",
+    "category": "Getreide",
+    "subcategories": ["Vorgegarter Hartweizen", "Mediterran"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004205681",
+    "name": "Ebly Vorgegarter Hartweizen mit Olivenöl",
+    "category": "Getreide",
+    "subcategories": ["Vorgegarter Hartweizen", "Olivenöl"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003591396",
+    "name": "Eferdinger Sauerkraut 500 G",
+    "category": "Gemüse",
+    "subcategories": ["Sauerkraut"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003427299",
+    "name": "Efko Apfelmus",
+    "category": "Konserven",
+    "subcategories": ["Apfelmus"]
+  },
+  {
+    "store": "spar",
+    "id": "4302322",
+    "name": "Efko Apfelmus",
+    "category": "Konserven",
+    "subcategories": ["Apfelmus"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002377069",
+    "name": "Efko Apfelmus mit Banane",
+    "category": "Konserven",
+    "subcategories": ["Apfelmus", "Banane"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001226559",
+    "name": "Efko Apfelmus pur",
+    "category": "Konserven",
+    "subcategories": ["Apfelmus"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003734588",
+    "name": "Efko Birnenmus",
+    "category": "Konserven",
+    "subcategories": ["Birnenmus"]
+  },
+  {
+    "store": "spar",
+    "id": "5229611",
+    "name": "Efko Bohnen Salat",
+    "category": "Konserven",
+    "subcategories": ["Bohnensalat"]
+  },
+  {
+    "store": "spar",
+    "id": "4306122",
+    "name": "Efko Bohnen Salat",
+    "category": "Konserven",
+    "subcategories": ["Bohnensalat"]
+  },
+  {
+    "store": "spar",
+    "id": "7538568",
+    "name": "Efko Bratwürstel Sauerkraut",
+    "category": "Konserven",
+    "subcategories": ["Bratwürstel", "Sauerkraut"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004468680",
+    "name": "Efko Champignons Knoblauch & Chili 340g",
+    "category": "Konserven",
+    "subcategories": ["Champignons", "Knoblauch", "Chili"]
+  },
+  {
+    "store": "spar",
+    "id": "3992852",
+    "name": "Efko Champignons würzig & fein",
+    "category": "Konserven",
+    "subcategories": ["Champignons"]
+  },
+  {
+    "store": "spar",
+    "id": "7469398",
+    "name": "Efko Delikatess Gurken",
+    "category": "Konserven",
+    "subcategories": ["Delikatess Gurken"]
+  },
+  {
+    "store": "spar",
+    "id": "3696538",
+    "name": "Efko Delikatess Gurken süß-sauer",
+    "category": "Konserven",
+    "subcategories": ["Delikatess Gurken"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003427282",
+    "name": "Efko Essiggurken pur",
+    "category": "Konserven",
+    "subcategories": ["Essiggurken"]
+  },
+  {
+    "store": "spar",
+    "id": "5528158",
+    "name": "Efko Gefüllte Paprika",
+    "category": "Konserven",
+    "subcategories": ["Gefüllte Paprika"]
+  },
+  {
+    "store": "spar",
+    "id": "7461620",
+    "name": "Efko Gurki",
+    "category": "Konserven",
+    "subcategories": ["Gurki"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003818622",
+    "name": "Efko Gurki Räder",
+    "category": "Konserven",
+    "subcategories": ["Gurki", "Räder"]
+  },
+  {
+    "store": "spar",
+    "id": "3680360",
+    "name": "Efko Jausen Zwiebeln",
+    "category": "Konserven",
+    "subcategories": ["Jausen Zwiebeln"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004467713",
+    "name": "Efko Jausenzwiebeln mit Chili 330g",
+    "category": "Konserven",
+    "subcategories": ["Jausenzwiebeln", "Chili"]
+  },
+  {
+    "store": "spar",
+    "id": "366199",
+    "name": "Efko Kapern",
+    "category": "Konserven",
+    "subcategories": ["Kapern"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004604255",
+    "name": "Efko Kartoffel Jause mit Kernöl 200g",
+    "category": "Konserven",
+    "subcategories": ["Kartoffel Jause", "Kernöl"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004607355",
+    "name": "Efko Kartoffel Jause mit Speck 200g",
+    "category": "Konserven",
+    "subcategories": ["Kartoffel Jause", "Speck"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004607300",
+    "name": "Efko Kartoffel Jause mit Tomaten 200g",
+    "category": "Konserven",
+    "subcategories": ["Kartoffel Jause", "Tomaten"]
+  },
+  {
+    "store": "spar",
+    "id": "3696637",
+    "name": "Efko Kartoffel-Salat mit Schnittlauch",
+    "category": "Konserven",
+    "subcategories": ["Kartoffelsalat", "Schnittlauch"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003696190",
+    "name": "Efko Kartoffelsalat Mayonnaise",
+    "category": "Konserven",
+    "subcategories": ["Kartoffelsalat", "Mayonnaise"]
+  },
+  {
+    "store": "spar",
+    "id": "7446177",
+    "name": "Efko Kartoffelsalat mit Schlemmer-Gurken",
+    "category": "Konserven",
+    "subcategories": ["Kartoffelsalat", "Schlemmer-Gurken"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001226597",
+    "name": "Efko Kirschen pur",
+    "category": "Konserven",
+    "subcategories": ["Kirschen"]
+  },
+  {
+    "store": "spar",
+    "id": "111959",
+    "name": "Efko Knoblauch",
+    "category": "Konserven",
+    "subcategories": ["Knoblauch"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001226610",
+    "name": "Efko Knoblauch in Chili-Marinade",
+    "category": "Konserven",
+    "subcategories": ["Knoblauch", "Chili-Marinade"]
+  },
+  {
+    "store": "spar",
+    "id": "7472831",
+    "name": "Efko Krach-Pfefferoni",
+    "category": "Konserven",
+    "subcategories": ["Krach-Pfefferoni"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002562359",
+    "name": "Efko Maiskölbchen",
+    "category": "Konserven",
+    "subcategories": ["Maiskölbchen"]
+  },
+  {
+    "store": "spar",
+    "id": "199681",
+    "name": "Efko Mexikanischer Salat",
+    "category": "Konserven",
+    "subcategories": ["Mexikanischer Salat"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004468727",
+    "name": "Efko Naschglaserl Apfel-Kokos-Ananas 360g",
+    "category": "Konserven",
+    "subcategories": ["Naschglaserl", "Apfel", "Kokosnuss", "Ananas"]
+  },
+  {
+    "store": "spar",
+    "id": "3680384",
+    "name": "Efko Paprika Salat",
+    "category": "Konserven",
+    "subcategories": ["Paprikasalat"]
+  },
+  {
+    "store": "spar",
+    "id": "4002017",
+    "name": "Efko Paprikasalat",
+    "category": "Konserven",
+    "subcategories": ["Paprikasalat"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003292248",
+    "name": "Efko Party Mix",
+    "category": "Konserven",
+    "subcategories": ["Party Mix"]
+  },
+  {
+    "store": "spar",
+    "id": "7471865",
+    "name": "Efko Pfefferoni mild",
+    "category": "Konserven",
+    "subcategories": ["Pfefferoni", "Mild"]
+  },
+  {
+    "store": "spar",
+    "id": "630863",
+    "name": "Efko Pfefferoni mild",
+    "category": "Konserven",
+    "subcategories": ["Pfefferoni", "Mild"]
+  },
+  {
+    "store": "spar",
+    "id": "3680414",
+    "name": "Efko Pfefferoni scharf",
+    "category": "Konserven",
+    "subcategories": ["Pfefferoni", "Scharf"]
+  },
+  {
+    "store": "spar",
+    "id": "162265",
+    "name": "Efko Pfefferoni scharf",
+    "category": "Konserven",
+    "subcategories": ["Pfefferoni", "Scharf"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002191023",
+    "name": "Efko Piri Piri",
+    "category": "Konserven",
+    "subcategories": ["Piri Piri"]
+  },
+  {
+    "store": "spar",
+    "id": "7472817",
+    "name": "Efko Pußta Salat",
+    "category": "Konserven",
+    "subcategories": ["Pußta Salat"]
+  },
+  {
+    "store": "spar",
+    "id": "3724910",
+    "name": "Efko Pußta Salat",
+    "category": "Konserven",
+    "subcategories": ["Pußta Salat"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004467430",
+    "name": "Efko Pußta Salat mit Gurken und Paprika",
+    "category": "Konserven",
+    "subcategories": ["Pußta Salat", "Gurken", "Paprika"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004107909",
+    "name": "Efko Riesenbohnen",
+    "category": "Konserven",
+    "subcategories": ["Riesenbohnen"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002800970",
+    "name": "Efko Rote Rüben Salat in Scheiben",
+    "category": "Konserven",
+    "subcategories": ["Rote Rüben Salat"]
+  },
+  {
+    "store": "spar",
+    "id": "3724989",
+    "name": "Efko Rote Rüben Salat in Scheiben",
+    "category": "Konserven",
+    "subcategories": ["Rote Rüben Salat"]
+  },
+  {
+    "store": "spar",
+    "id": "3725009",
+    "name": "Efko Rote Rüben Salat in Scheiben",
+    "category": "Konserven",
+    "subcategories": ["Rote Rüben Salat"]
+  },
+  {
+    "store": "spar",
+    "id": "2093932",
+    "name": "Efko Rote Rüben Salat mit Kren scharf",
+    "category": "Konserven",
+    "subcategories": ["Rote Rüben Salat", "Kren", "Scharf"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004058492",
+    "name": "Efko Rote Rüben Streifen",
+    "category": "Konserven",
+    "subcategories": ["Rote Rüben Streifen"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002089351",
+    "name": "Efko Rotkraut mit Maroni",
+    "category": "Konserven",
+    "subcategories": ["Rotkraut", "Maroni"]
+  },
+  {
+    "store": "spar",
+    "id": "3696552",
+    "name": "Efko Salzgurken",
+    "category": "Konserven",
+    "subcategories": ["Salzgurken"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002089412",
+    "name": "Efko Sauerkraut mit Speck",
+    "category": "Konserven",
+    "subcategories": ["Sauerkraut", "Speck"]
+  }
+]

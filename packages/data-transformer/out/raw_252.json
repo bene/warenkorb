@@ -1,0 +1,702 @@
+[
+  {
+    "store": "spar",
+    "id": "2020002996970",
+    "name": "Texstar faltbares Hundebett beige/dunkelbraun 65 x 100 cm",
+    "category": "Haustierbedarf",
+    "subcategories": ["Hundebett"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003150623",
+    "name": "Texstar faltbares Katzenbett grau/rot, 65 x 80 cm",
+    "category": "Haustierbedarf",
+    "subcategories": ["Katzenbett"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004337658",
+    "name": "The GUTsy Captain Kombucha Ingwer & Zitrone",
+    "category": "Getränke",
+    "subcategories": ["Kombucha", "Ingwer", "Zitrone"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004337610",
+    "name": "The GUTsy Captain Kombucha Original",
+    "category": "Getränke",
+    "subcategories": ["Kombucha"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004337672",
+    "name": "The GUTsy Captain Kombucha Pfirsich",
+    "category": "Getränke",
+    "subcategories": ["Kombucha", "Pfirsich"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004224903",
+    "name": "Thomas Henry Botanical",
+    "category": "Getränke",
+    "subcategories": ["Thomas Henry"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003822162",
+    "name": "Thomas Henry Botanical Tonic 4 x 0,2l",
+    "category": "Getränke",
+    "subcategories": ["Tonic"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003822490",
+    "name": "Thomas Henry Cherry Blossom Tonic 4 x 0,2l",
+    "category": "Getränke",
+    "subcategories": ["Tonic", "Cherry Blossom"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002407278",
+    "name": "Thomas Henry Ginger Beer",
+    "category": "Getränke",
+    "subcategories": ["Ginger Beer"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002407285",
+    "name": "Thomas Henry Tonic Water",
+    "category": "Getränke",
+    "subcategories": ["Tonic Water"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003323553",
+    "name": "Thomas Henry Tonic Water 4 x 0,2l",
+    "category": "Getränke",
+    "subcategories": ["Tonic Water"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003215841",
+    "name": "Thomas Henry Wild Berry",
+    "category": "Getränke",
+    "subcategories": ["Wild Berry"]
+  },
+  {
+    "store": "spar",
+    "id": "2020000693215",
+    "name": "Treml Alkoholfreier Punsch Bratapfel mit Caramel",
+    "category": "Getränke",
+    "subcategories": ["Alkoholfreier Punsch", "Bratapfel", "Caramel"]
+  },
+  {
+    "store": "spar",
+    "id": "8183644",
+    "name": "Treml Alkoholfreier Punsch Kirsche Zitrone Holunder",
+    "category": "Getränke",
+    "subcategories": ["Alkoholfreier Punsch", "Kirsche", "Zitrone", "Holunder"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003550621",
+    "name": "Treml Himbeer-Vanille Punsch alkoholfrei",
+    "category": "Getränke",
+    "subcategories": ["Alkoholfreier Punsch", "Himbeer-Vanille"]
+  },
+  {
+    "store": "spar",
+    "id": "5156023",
+    "name": "Tomasi Feigenkaffee",
+    "category": "Kaffee",
+    "subcategories": ["Feigenkaffee"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004250025",
+    "name": "Three Sixty Vodka",
+    "category": "Spirituosen",
+    "subcategories": ["Vodka"]
+  },
+  {
+    "store": "spar",
+    "id": "4038658",
+    "name": "Tia Maria Kaffeelikör",
+    "category": "Spirituosen",
+    "subcategories": ["Kaffeelikör"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004207814",
+    "name": "Togouchi Kiwami Sakè Cask Finish",
+    "category": "Wein & Spirituosen",
+    "subcategories": ["Sakè"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003402241",
+    "name": "Toki 0,7 L",
+    "category": "Wein & Spirituosen",
+    "subcategories": ["Whisky"]
+  },
+  {
+    "store": "spar",
+    "id": "5482931",
+    "name": "Tomatin 12 YO",
+    "category": "Wein & Spirituosen",
+    "subcategories": ["Whisky"]
+  },
+  {
+    "store": "spar",
+    "id": "4213321",
+    "name": "Torres 10 0,7 L",
+    "category": "Wein & Spirituosen",
+    "subcategories": ["Weinbranntwein"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004205926",
+    "name": "Torres Miguel Natureo Free Garnacha-Syrah",
+    "category": "Wein & Spirituosen",
+    "subcategories": ["Wein"]
+  },
+  {
+    "store": "spar",
+    "id": "4017660",
+    "name": "Torres Miguel Natureo Muscat",
+    "category": "Wein & Spirituosen",
+    "subcategories": ["Wein"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001712083",
+    "name": "Torres Miguel Natureo Rosado",
+    "category": "Wein & Spirituosen",
+    "subcategories": ["Wein"]
+  },
+  {
+    "store": "spar",
+    "id": "3269909",
+    "name": "Torres Miguel Sangre de Toro 2021",
+    "category": "Wein & Spirituosen",
+    "subcategories": ["Wein"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002467234",
+    "name": "Torres Miguel Vina Esmeralda Blanco Cataluna DO 2021",
+    "category": "Wein & Spirituosen",
+    "subcategories": ["Wein"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004288745",
+    "name": "Torres Miguel Vina Esmeralda Rosado Catalunya DO 2021",
+    "category": "Wein & Spirituosen",
+    "subcategories": ["Wein"]
+  },
+  {
+    "store": "spar",
+    "id": "5014323",
+    "name": "Torres Miguel Viña Sol Penedes DO 2021",
+    "category": "Wein & Spirituosen",
+    "subcategories": ["Wein"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002407995",
+    "name": "Trapiche Malbec 2022",
+    "category": "Wein & Spirituosen",
+    "subcategories": ["Wein"]
+  },
+  {
+    "store": "spar",
+    "id": "7676512",
+    "name": "Treml Glühwein",
+    "category": "Wein & Spirituosen",
+    "subcategories": ["Glühwein"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004497185",
+    "name": "Tressbrüder Bio Kürbis Kokos Suppe 450ml",
+    "category": "Lebensmittel",
+    "subcategories": ["Suppe", "Kürbis", "Kokos"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004497215",
+    "name": "Tressbrüder Bio Süßkartoffel Mango Suppe 450ml",
+    "category": "Lebensmittel",
+    "subcategories": ["Suppe", "Süßkartoffel", "Mango"]
+  },
+  {
+    "store": "spar",
+    "id": "2020000834076",
+    "name": "Tirol Milch Alpzirler",
+    "category": "Milchprodukte",
+    "subcategories": ["Milch"]
+  },
+  {
+    "store": "spar",
+    "id": "5417872",
+    "name": "Tirol Milch Feiner Tiroler",
+    "category": "Milchprodukte",
+    "subcategories": ["Käse"]
+  },
+  {
+    "store": "spar",
+    "id": "4007913",
+    "name": "Tirol Milch Felsenkellerkäse",
+    "category": "Milchprodukte",
+    "subcategories": ["Käse"]
+  },
+  {
+    "store": "spar",
+    "id": "5017690",
+    "name": "Tirol Milch Graukäse mager",
+    "category": "Milchprodukte",
+    "subcategories": ["Käse"]
+  },
+  {
+    "store": "spar",
+    "id": "5239344",
+    "name": "Tirol Milch Kaiser Max",
+    "category": "Milchprodukte",
+    "subcategories": ["Käse"]
+  },
+  {
+    "store": "spar",
+    "id": "6719326",
+    "name": "Tirol Milch Käsetrio 3 x 100g",
+    "category": "Milchprodukte",
+    "subcategories": ["Käse"]
+  },
+  {
+    "store": "spar",
+    "id": "6699154",
+    "name": "Tirol Milch Tiroler Adler",
+    "category": "Milchprodukte",
+    "subcategories": ["Käse"]
+  },
+  {
+    "store": "spar",
+    "id": "2020000833918",
+    "name": "Tirol Milch Urtyroler",
+    "category": "Milchprodukte",
+    "subcategories": ["Käse"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001624522",
+    "name": "Tirol Milch Weinzirler",
+    "category": "Milchprodukte",
+    "subcategories": ["Käse"]
+  },
+  {
+    "store": "spar",
+    "id": "2020000545576",
+    "name": "Toniolo Hartkäse",
+    "category": "Milchprodukte",
+    "subcategories": ["Käse"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001806492",
+    "name": "Tramezzini Trio 210 G",
+    "category": "Brot & Backwaren",
+    "subcategories": ["Tramezzini"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003635342",
+    "name": "Tirol Milch Alpenbutter",
+    "category": "Butter & Margarine",
+    "subcategories": ["Alpenbutter"]
+  },
+  {
+    "store": "spar",
+    "id": "506311",
+    "name": "Tirol Milch Alpenbutter",
+    "category": "Butter & Margarine",
+    "subcategories": ["Alpenbutter"]
+  },
+  {
+    "store": "spar",
+    "id": "478243",
+    "name": "Tirol Milch Bergbauern Joghurt Himbeer",
+    "category": "Dairy",
+    "subcategories": ["Joghurt", "Himbeer"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003775161",
+    "name": "Tirol Milch Bergbauern Joghurt Kirsche 180g",
+    "category": "Dairy",
+    "subcategories": ["Joghurt", "Kirsche"]
+  },
+  {
+    "store": "spar",
+    "id": "478779",
+    "name": "Tirol Milch Bergbauern Joghurt Waldbeer",
+    "category": "Dairy",
+    "subcategories": ["Joghurt", "Waldbeer"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004608017",
+    "name": "Tirol Milch Bergbauern Schlagobers länger frisch",
+    "category": "Dairy",
+    "subcategories": ["Schlagobers"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003298097",
+    "name": "Tirol Milch Bergbauern Vollmilch länger frisch 1L",
+    "category": "Dairy",
+    "subcategories": ["Vollmilch"]
+  },
+  {
+    "store": "spar",
+    "id": "478212",
+    "name": "Tirol Milch Joghurt Erdbeere",
+    "category": "Dairy",
+    "subcategories": ["Joghurt", "Erdbeere"]
+  },
+  {
+    "store": "spar",
+    "id": "478250",
+    "name": "Tirol Milch Joghurt Kaffee",
+    "category": "Dairy",
+    "subcategories": ["Joghurt", "Kaffee"]
+  },
+  {
+    "store": "spar",
+    "id": "478946",
+    "name": "Tirol Milch Joghurt Vanillle",
+    "category": "Dairy",
+    "subcategories": ["Joghurt", "Vanille"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003632907",
+    "name": "Tirol Milch Kakao 3,6% Fett",
+    "category": "Dairy",
+    "subcategories": ["Kakao"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004608727",
+    "name": "Tirol Milch Tiroler Alpenbutter 6x20g",
+    "category": "Butter & Margarine",
+    "subcategories": ["Alpenbutter"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004114341",
+    "name": "Tressbrüder Veganes Bio-Curry Typ Butter Chicken",
+    "category": "Lebensmittel",
+    "subcategories": ["Vegan", "Curry"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003281693",
+    "name": "Toblerone Sticks Mini 6 Stück 300ml Packung",
+    "category": "Süßwaren",
+    "subcategories": ["Toblerone", "Sticks", "Mini"]
+  },
+  {
+    "store": "spar",
+    "id": "6191436",
+    "name": "Tipiak Couscous",
+    "category": "Lebensmittel",
+    "subcategories": ["Couscous"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003397073",
+    "name": "Thomy Sauce BBQ Brandy",
+    "category": "Lebensmittel",
+    "subcategories": ["Sauce", "BBQ", "Brandy"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003397103",
+    "name": "Thomy Sauce Chili Jalapenos",
+    "category": "Lebensmittel",
+    "subcategories": ["Sauce", "Chili", "Jalapenos"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003397158",
+    "name": "Thomy Sauce Mustard Honey",
+    "category": "Lebensmittel",
+    "subcategories": ["Sauce", "Mustard", "Honey"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003750960",
+    "name": "Thomy Sauce Salsa Tomate Paprika",
+    "category": "Lebensmittel",
+    "subcategories": ["Sauce", "Salsa", "Tomate", "Paprika"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003397004",
+    "name": "Thomy Sauce Sweet Sour Chili",
+    "category": "Lebensmittel",
+    "subcategories": ["Sauce", "Sweet Sour", "Chili"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002694746",
+    "name": "Tondo Aceto Balsamico di Modena IGP",
+    "category": "Lebensmittel",
+    "subcategories": ["Aceto Balsamico", "Modena"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003378027",
+    "name": "Tondo Bio Aceto Balsamico di Modena IGP",
+    "category": "Lebensmittel",
+    "subcategories": ["Aceto Balsamico", "Modena"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004632906",
+    "name": "Torres Kartoffelchips Freid Egg",
+    "category": "Lebensmittel",
+    "subcategories": ["Kartoffelchips", "Freid Egg"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004205124",
+    "name": "Torres Kartoffelchips Iberian Ham",
+    "category": "Lebensmittel",
+    "subcategories": ["Kartoffelchips", "Iberian Ham"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003951251",
+    "name": "Torres Kartoffelchips Schwarzer Trüffel",
+    "category": "Lebensmittel",
+    "subcategories": ["Kartoffelchips", "Schwarzer Trüffel"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004632913",
+    "name": "Torres Kartoffelchips Vinegar",
+    "category": "Lebensmittel",
+    "subcategories": ["Kartoffelchips", "Vinegar"]
+  },
+  {
+    "store": "spar",
+    "id": "168038",
+    "name": "Toblerone Schweizer Milchschokolade",
+    "category": "Süßwaren",
+    "subcategories": ["Schokolade"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003234514",
+    "name": "Tony's Chocolonely 32% Vollmilchschokolade",
+    "category": "Süßwaren",
+    "subcategories": ["Schokolade"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003610677",
+    "name": "Tony's Chocolonely 32% Vollmilchschokolade Karamell Meersalz",
+    "category": "Süßwaren",
+    "subcategories": ["Schokolade", "Karamell", "Meersalz"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003670688",
+    "name": "Tony's Chocolonely 32% Vollmilchschokolade Nougat",
+    "category": "Süßwaren",
+    "subcategories": ["Schokolade", "Nougat"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003234484",
+    "name": "Tony's Chocolonely 51% Zartbitterschokolade Mandel Meersalz",
+    "category": "Süßwaren",
+    "subcategories": ["Zartbitterschokolade", "Mandel", "Meersalz"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003610752",
+    "name": "Tony's Chocolonely Dunkle Vollmilchschokolade 42% Brezel Toffee",
+    "category": "Süßwaren",
+    "subcategories": ["Schokolade", "Brezel", "Toffee"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004062925",
+    "name": "Tony's Chocolonely Greatest Bits Karamell-Mandel",
+    "category": "Süßwaren",
+    "subcategories": ["Schokolade", "Karamell", "Mandel"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004062871",
+    "name": "Tony's Chocolonely Haselnuss Crunch",
+    "category": "Süßwaren",
+    "subcategories": ["Schokolade", "Haselnuss"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003610806",
+    "name": "Tony's Chocolonely Weiße Schokolade mit Himbeere und Knisterzucker",
+    "category": "Süßwaren",
+    "subcategories": ["Schokolade", "Weiß", "Himbeere", "Knisterzucker"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004276681",
+    "name": "Tony's Rainbow-Pack Verschiedene Sorten 6x47g/50g",
+    "category": "Süßwaren",
+    "subcategories": ["Schokolade"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004459329",
+    "name": "Tony's Vollmilch Haselnusss",
+    "category": "Süßwaren",
+    "subcategories": ["Schokolade", "Haselnuss"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004072931",
+    "name": "Tipp Ex Korrekturroller Easy Correct 12m x 4,2mm",
+    "category": "Schreibwaren",
+    "subcategories": ["Korrekturroller"]
+  },
+  {
+    "store": "spar",
+    "id": "7831621",
+    "name": "Tipp Ex Korrekturroller Mini Pocket Mouse 6m x 5mm",
+    "category": "Schreibwaren",
+    "subcategories": ["Korrekturroller"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004115584",
+    "name": "Tipp Ex Korrekturroller Pure Mini ECOlutions 6m x 5mm",
+    "category": "Schreibwaren",
+    "subcategories": ["Korrekturroller"]
+  },
+  {
+    "store": "spar",
+    "id": "7856464",
+    "name": "Tipp Ex Korrekturstift Shake`n Squeeze 8 ml",
+    "category": "Schreibwaren",
+    "subcategories": ["Korrekturstift"]
+  },
+  {
+    "store": "spar",
+    "id": "7981371",
+    "name": "Tixo Klebeband Nachfüllung matt-unsichtbar, 33m x 19mm 3 Rollen",
+    "category": "Schreibwaren",
+    "subcategories": ["Klebeband"]
+  },
+  {
+    "store": "spar",
+    "id": "3106341",
+    "name": "Tixo Klebeband transparent 10m x 15mm",
+    "category": "Schreibwaren",
+    "subcategories": ["Klebeband"]
+  },
+  {
+    "store": "spar",
+    "id": "8140845",
+    "name": "Tixo Tischabroller inkl. 2 Nachfüllungen 33m x 19mm",
+    "category": "Schreibwaren",
+    "subcategories": ["Klebeband"]
+  },
+  {
+    "store": "spar",
+    "id": "882408",
+    "name": "Ursus OE Collegeblock A5 5mm kariert 80 Blatt",
+    "category": "Schreibwaren",
+    "subcategories": ["Collegeblock", "kariert"]
+  },
+  {
+    "store": "spar",
+    "id": "2115108",
+    "name": "Ursus OE Collegeblock A5 9mm liniert 80 Blatt",
+    "category": "Schreibwaren",
+    "subcategories": ["Collegeblock", "liniert"]
+  },
+  {
+    "store": "spar",
+    "id": "7840265",
+    "name": "Ursus OE Heft OE.1 A5 20 Blatt, glatt",
+    "category": "Schreibwaren",
+    "subcategories": ["Heft", "glatt"]
+  },
+  {
+    "store": "spar",
+    "id": "7844157",
+    "name": "Ursus OE Heft OE.10 A4, glatt, 20 Blatt",
+    "category": "Schreibwaren",
+    "subcategories": ["Heft", "glatt"]
+  },
+  {
+    "store": "spar",
+    "id": "7851353",
+    "name": "Ursus OE Heft OE.12 A4, liniert, mit Rahmen, 20 Blatt",
+    "category": "Schreibwaren",
+    "subcategories": ["Heft", "liniert"]
+  },
+  {
+    "store": "spar",
+    "id": "4045960",
+    "name": "Ursus OE Heft OE.13 A4, liniert, 20 Blatt",
+    "category": "Schreibwaren",
+    "subcategories": ["Heft", "liniert"]
+  },
+  {
+    "store": "spar",
+    "id": "7853890",
+    "name": "Ursus OE Heft OE.14 A4, kariert, mit Rahmen, 20 Blatt",
+    "category": "Schreibwaren",
+    "subcategories": ["Heft", "kariert"]
+  },
+  {
+    "store": "spar",
+    "id": "7852794",
+    "name": "Ursus OE Heft OE.15 A4 20 Bl.,lin.,mit Korrekturrand",
+    "category": "Schreibwaren",
+    "subcategories": ["Heft", "liniert"]
+  },
+  {
+    "store": "spar",
+    "id": "3520567",
+    "name": "Ursus OE Heft OE.16 A4, hochkariert, 20 Blatt",
+    "category": "Schreibwaren",
+    "subcategories": ["Heft", "hochkariert"]
+  },
+  {
+    "store": "spar",
+    "id": "4879602",
+    "name": "Ursus OE Heft OE.17 Vokabelheft A4, liniert, mit Mittelstrich, 20 Blatt",
+    "category": "Schreibwaren",
+    "subcategories": ["Heft", "Vokabelheft"]
+  },
+  {
+    "store": "spar",
+    "id": "7854101",
+    "name": "Ursus OE Heft OE.18 A4, kariert mit Korrekturrand, 20 Blatt",
+    "category": "Schreibwaren",
+    "subcategories": ["Heft", "kariert"]
+  },
+  {
+    "store": "spar",
+    "id": "4045984",
+    "name": "Ursus OE Heft OE.19 A4, kariert, 20 Blatt",
+    "category": "Schreibwaren",
+    "subcategories": ["Heft", "kariert"]
+  }
+]

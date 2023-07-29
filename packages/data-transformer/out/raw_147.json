@@ -1,0 +1,770 @@
+[
+  {
+    "store": "hofer",
+    "id": 545083,
+    "name": "SPITZ Zwetschken Schnaps 1l",
+    "category": "Alkohol",
+    "subcategories": ["Schnaps", "Spirituosen"]
+  },
+  {
+    "store": "hofer",
+    "id": 543694,
+    "name": "STATESMAN Blended Scotch Whisky 0,7l",
+    "category": "Alkohol",
+    "subcategories": ["Whisky", "Spirituosen"]
+  },
+  {
+    "store": "hofer",
+    "id": 549821,
+    "name": "Schilerezzo gespritzt 0,33l",
+    "category": "Getränke",
+    "subcategories": ["Erfrischungsgetränke", "Schorle"]
+  },
+  {
+    "store": "hofer",
+    "id": 549095,
+    "name": "WILDBRUNNER Jagdbitter Kräuterlikör 0,7l",
+    "category": "Alkohol",
+    "subcategories": ["Kräuterlikör", "Spirituosen"]
+  },
+  {
+    "store": "hofer",
+    "id": 544423,
+    "name": "Syrah Rosé trocken 0,25l",
+    "category": "Alkohol",
+    "subcategories": ["Roséwein", "Wein"]
+  },
+  {
+    "store": "hofer",
+    "id": 543699,
+    "name": "TORO LOCO Tinto Superior 0,75l",
+    "category": "Alkohol",
+    "subcategories": ["Rotwein", "Wein"]
+  },
+  {
+    "store": "hofer",
+    "id": 545061,
+    "name": "VILLA GATTI Chardonnay trocken 75cl",
+    "category": "Alkohol",
+    "subcategories": ["Weißwein", "Wein"]
+  },
+  {
+    "store": "hofer",
+    "id": 545055,
+    "name": "TIROLER QUELLE Mineralwasser mild 1,5l",
+    "category": "Getränke",
+    "subcategories": ["Mineralwasser", "Wasser"]
+  },
+  {
+    "store": "hofer",
+    "id": 545054,
+    "name": "TIROLER QUELLE Mineralwasser prickelnd 0,5l",
+    "category": "Getränke",
+    "subcategories": ["Mineralwasser", "Wasser"]
+  },
+  {
+    "store": "hofer",
+    "id": 543692,
+    "name": "TIROLER QUELLE Mineralwasser prickelnd 1,5l",
+    "category": "Getränke",
+    "subcategories": ["Mineralwasser", "Wasser"]
+  },
+  {
+    "store": "hofer",
+    "id": 545119,
+    "name": "TIROLER QUELLE Mineralwasser still 1,5l",
+    "category": "Getränke",
+    "subcategories": ["Mineralwasser", "Wasser"]
+  },
+  {
+    "store": "hofer",
+    "id": 546800,
+    "name": "Snack Tapas Serrano-Schinken Röllchen 85g",
+    "category": "Snacks",
+    "subcategories": ["Schinken", "Tapas"]
+  },
+  {
+    "store": "hofer",
+    "id": 549856,
+    "name": "WONNEMEYER Couscous Salat, Kräuter 200g",
+    "category": "Salate",
+    "subcategories": ["Couscous", "Kräutersalat"]
+  },
+  {
+    "store": "hofer",
+    "id": 549854,
+    "name": "WONNEMEYER Couscous Salat, Rosinen 200g",
+    "category": "Salate",
+    "subcategories": ["Couscous", "Rosinensalat"]
+  },
+  {
+    "store": "hofer",
+    "id": 544992,
+    "name": "ZURÜCK ZUM URSPRUNG Bio Eier 10Stk.",
+    "category": "Eier",
+    "subcategories": ["Freilandeier", "Bioeier"]
+  },
+  {
+    "store": "hofer",
+    "id": 549660,
+    "name": "Putenbrustfilet per kg",
+    "category": "Fleisch",
+    "subcategories": ["Geflügel", "Putenbrust"]
+  },
+  {
+    "store": "hofer",
+    "id": 547851,
+    "name": "Putenschnitzel frisch per kg",
+    "category": "Fleisch",
+    "subcategories": ["Geflügel", "Putenschnitzel"]
+  },
+  {
+    "store": "hofer",
+    "id": 547852,
+    "name": "Putensteak frisch per kg",
+    "category": "Fleisch",
+    "subcategories": ["Geflügel", "Putensteak"]
+  },
+  {
+    "store": "hofer",
+    "id": 543653,
+    "name": "Schweinslungenbraten per kg",
+    "category": "Fleisch",
+    "subcategories": ["Schweinefleisch", "Lungenbraten"]
+  },
+  {
+    "store": "hofer",
+    "id": 548747,
+    "name": "PRIMIS Grana Padano flakes 14 Monate 100g",
+    "category": "Käse",
+    "subcategories": ["Hartkäse", "Grana Padano"]
+  },
+  {
+    "store": "hofer",
+    "id": 549536,
+    "name": "PRIMIS Parmigiano Reggiano DOP 24M 250g",
+    "category": "Käse",
+    "subcategories": ["Hartkäse", "Parmesan"]
+  },
+  {
+    "store": "hofer",
+    "id": 544048,
+    "name": "SPÉCIALITÉ DES VOSGES Käsespezialität aus Frankreich 180g",
+    "category": "Käse",
+    "subcategories": ["Käsespezialität", "Französischer Käse"]
+  },
+  {
+    "store": "hofer",
+    "id": 544047,
+    "name": "SPÉCIALITÉ Le Bourgeron cremig 185g",
+    "category": "Käse",
+    "subcategories": ["Weichkäse", "Französischer Käse"]
+  },
+  {
+    "store": "hofer",
+    "id": 544049,
+    "name": "SPÉCIALITÉ Pays Basque 180g",
+    "category": "Käse",
+    "subcategories": ["Hartkäse", "Französischer Käse"]
+  },
+  {
+    "store": "hofer",
+    "id": 545497,
+    "name": "SPÉCIALITÉ Pur Brebis 150g",
+    "category": "Käse",
+    "subcategories": ["Schafskäse", "Französischer Käse"]
+  },
+  {
+    "store": "hofer",
+    "id": 546473,
+    "name": "Schafskäse 200g",
+    "category": "Käse",
+    "subcategories": ["Weichkäse", "Schafskäse"]
+  },
+  {
+    "store": "hofer",
+    "id": 547216,
+    "name": "WONNEMEYER Antipasti Creme Bärlauch 150g",
+    "category": "Aufstriche",
+    "subcategories": ["Antipasti", "Creme", "Bärlauch"]
+  },
+  {
+    "store": "hofer",
+    "id": 547217,
+    "name": "WONNEMEYER Antipasti Creme Kirschpaprika 150g",
+    "category": "Aufstriche",
+    "subcategories": ["Antipasti", "Creme", "Kirschpaprika"]
+  },
+  {
+    "store": "hofer",
+    "id": 547218,
+    "name": "WONNEMEYER Antipasti Creme Senf Honig 150g",
+    "category": "Aufstriche",
+    "subcategories": ["Antipasti", "Creme", "Senf", "Honig"]
+  },
+  {
+    "store": "hofer",
+    "id": 543912,
+    "name": "ZURÜCK ZUM URSPRUNG Bergbauer Hüttenkäse Natur 20% 200g",
+    "category": "Käse",
+    "subcategories": ["Frischkäse", "Hüttenkäse", "Bergbauern"]
+  },
+  {
+    "store": "hofer",
+    "id": 543931,
+    "name": "ZURÜCK ZUM URSPRUNG Bergbauern Alpengouda 300g",
+    "category": "Käse",
+    "subcategories": ["Hartkäse", "Gouda", "Bergbauern"]
+  },
+  {
+    "store": "hofer",
+    "id": 545646,
+    "name": "ZURÜCK ZUM URSPRUNG Bergbauern Butterkäse 350g",
+    "category": "Käse",
+    "subcategories": ["Butterkäse", "Bergbauern"]
+  },
+  {
+    "store": "hofer",
+    "id": 544190,
+    "name": "ZURÜCK ZUM URSPRUNG Bergbauern Erzherzog Johann 250g",
+    "category": "Käse",
+    "subcategories": ["Weichkäse", "Bergbauern"]
+  },
+  {
+    "store": "hofer",
+    "id": 543936,
+    "name": "ZURÜCK ZUM URSPRUNG Bergbauern Frischkäse Kren 70% 200g",
+    "category": "Käse",
+    "subcategories": ["Frischkäse", "Bergbauern", "Kren"]
+  },
+  {
+    "store": "hofer",
+    "id": 545406,
+    "name": "ZURÜCK ZUM URSPRUNG Bergbauern Frischkäse Kräuter 70% 200g",
+    "category": "Käse",
+    "subcategories": ["Frischkäse", "Bergbauern", "Kräuter"]
+  },
+  {
+    "store": "hofer",
+    "id": 543935,
+    "name": "ZURÜCK ZUM URSPRUNG Bergbauern Frischkäse Natur 45% 200g",
+    "category": "Käse",
+    "subcategories": ["Frischkäse", "Bergbauern", "Natur"]
+  },
+  {
+    "store": "hofer",
+    "id": 543937,
+    "name": "ZURÜCK ZUM URSPRUNG Bergbauern Frischkäse Natur 70% 200g",
+    "category": "Käse",
+    "subcategories": ["Frischkäse", "Bergbauern", "Natur"]
+  },
+  {
+    "store": "hofer",
+    "id": 545553,
+    "name": "ZURÜCK ZUM URSPRUNG Bergbauern Heumilch Bergkäse 3 Monate gereift 300g",
+    "category": "Käse",
+    "subcategories": ["Hartkäse", "Bergbauern", "Heumilch"]
+  },
+  {
+    "store": "hofer",
+    "id": 545552,
+    "name": "ZURÜCK ZUM URSPRUNG Bergbauern Heumilch Bergkäse 9 Monate 250g",
+    "category": "Käse",
+    "subcategories": ["Hartkäse", "Bergbauern", "Heumilch"]
+  },
+  {
+    "store": "hofer",
+    "id": 546063,
+    "name": "ZURÜCK ZUM URSPRUNG Bergbauern Heumilch Emmentaler 175g",
+    "category": "Käse",
+    "subcategories": ["Hartkäse", "Bergbauern", "Heumilch", "Emmentaler"]
+  },
+  {
+    "store": "hofer",
+    "id": 545589,
+    "name": "ZURÜCK ZUM URSPRUNG Bergbauern Heumilch Emmentaler 300g",
+    "category": "Käse",
+    "subcategories": ["Hartkäse", "Bergbauern", "Heumilch", "Emmentaler"]
+  },
+  {
+    "store": "hofer",
+    "id": 545628,
+    "name": "ZURÜCK ZUM URSPRUNG Bergbauern Heumilch Emmentaler gerieben 250g",
+    "category": "Käse",
+    "subcategories": [
+      "Hartkäse",
+      "Bergbauern",
+      "Heumilch",
+      "Emmentaler",
+      "Gerieben"
+    ]
+  },
+  {
+    "store": "hofer",
+    "id": 544196,
+    "name": "ZURÜCK ZUM URSPRUNG Bergbauern Heumilch Gouda 350g",
+    "category": "Käse",
+    "subcategories": ["Hartkäse", "Bergbauern", "Heumilch", "Gouda"]
+  },
+  {
+    "store": "hofer",
+    "id": 545583,
+    "name": "ZURÜCK ZUM URSPRUNG Bergbauern Heumilch Murtaler 250g",
+    "category": "Käse",
+    "subcategories": ["Weichkäse", "Bergbauern", "Heumilch", "Murtaler"]
+  },
+  {
+    "store": "hofer",
+    "id": 544123,
+    "name": "ZURÜCK ZUM URSPRUNG Bergbauern Heumilch Sennkäse Kräuter 300g",
+    "category": "Käse",
+    "subcategories": [
+      "Hartkäse",
+      "Bergbauern",
+      "Heumilch",
+      "Sennkäse",
+      "Kräuter"
+    ]
+  },
+  {
+    "store": "hofer",
+    "id": 545540,
+    "name": "ZURÜCK ZUM URSPRUNG Bergbauern Heumilch Sennkäse Natur 300g",
+    "category": "Käse",
+    "subcategories": ["Hartkäse", "Bergbauern", "Heumilch", "Sennkäse", "Natur"]
+  },
+  {
+    "store": "hofer",
+    "id": 545390,
+    "name": "ZURÜCK ZUM URSPRUNG Bergbauern Hüttenkäse Kräuter 200g",
+    "category": "Käse",
+    "subcategories": ["Frischkäse", "Hüttenkäse", "Bergbauern", "Kräuter"]
+  },
+  {
+    "store": "hofer",
+    "id": 543913,
+    "name": "ZURÜCK ZUM URSPRUNG Bergbauern Hüttenkäse Natur 10% 200g",
+    "category": "Käse",
+    "subcategories": ["Frischkäse", "Hüttenkäse", "Bergbauern", "Natur"]
+  },
+  {
+    "store": "hofer",
+    "id": 548106,
+    "name": "ZURÜCK ZUM URSPRUNG Bergbauern Käserarität Natur 200g",
+    "category": "Käse",
+    "subcategories": ["Käserarität", "Bergbauern", "Natur"]
+  },
+  {
+    "store": "hofer",
+    "id": 548105,
+    "name": "ZURÜCK ZUM URSPRUNG Bergbauern Käserarität Wein 200g",
+    "category": "Käse",
+    "subcategories": ["Käserarität", "Bergbauern", "Wein"]
+  },
+  {
+    "store": "hofer",
+    "id": 548107,
+    "name": "ZURÜCK ZUM URSPRUNG Bergbauern Käserarität Wildkräuter 200g",
+    "category": "Käse",
+    "subcategories": ["Käserarität", "Bergbauern", "Wildkräuter"]
+  },
+  {
+    "store": "hofer",
+    "id": 544897,
+    "name": "ZURÜCK ZUM URSPRUNG Bergbauern Mozzarella 125g",
+    "category": "Käse",
+    "subcategories": ["Weichkäse", "Mozzarella", "Bergbauern"]
+  },
+  {
+    "store": "hofer",
+    "id": 544981,
+    "name": "ZURÜCK ZUM URSPRUNG Bergbauern Mozzarella Mini 125g",
+    "category": "Käse",
+    "subcategories": ["Weichkäse", "Mozzarella", "Bergbauern", "Mini"]
+  },
+  {
+    "store": "hofer",
+    "id": 545629,
+    "name": "ZURÜCK ZUM URSPRUNG Bergbauern Mozzarella gerieben 250g",
+    "category": "Käse",
+    "subcategories": ["Weichkäse", "Mozzarella", "Bergbauern", "Gerieben"]
+  },
+  {
+    "store": "hofer",
+    "id": 545647,
+    "name": "ZURÜCK ZUM URSPRUNG Bergbauern Tilsiter 350g",
+    "category": "Käse",
+    "subcategories": ["Schnittkäse", "Tilsiter", "Bergbauern"]
+  },
+  {
+    "store": "hofer",
+    "id": 543930,
+    "name": "ZURÜCK ZUM URSPRUNG Bergbauern Weidtaler Käse 300g",
+    "category": "Käse",
+    "subcategories": ["Schnittkäse", "Bergbauern"]
+  },
+  {
+    "store": "hofer",
+    "id": 545402,
+    "name": "ZURÜCK ZUM URSPRUNG Bergbauern Weinkäse 300g",
+    "category": "Käse",
+    "subcategories": ["Schnittkäse", "Bergbauern"]
+  },
+  {
+    "store": "hofer",
+    "id": 545539,
+    "name": "ZURÜCK ZUM URSPRUNG Berggbauern Heumilch Sennkäse Pfeffer 300g",
+    "category": "Käse",
+    "subcategories": [
+      "Hartkäse",
+      "Bergbauern",
+      "Heumilch",
+      "Sennkäse",
+      "Pfeffer"
+    ]
+  },
+  {
+    "store": "hofer",
+    "id": 545544,
+    "name": "ZURÜCK ZUM URSPRUNG Bio Aufstrich, Tomate-Basilikum 150g",
+    "category": "Aufstriche",
+    "subcategories": ["Bio", "Aufstrich", "Tomate", "Basilikum"]
+  },
+  {
+    "store": "hofer",
+    "id": 545443,
+    "name": "QIMIQ Classic 300g",
+    "category": "Desserts",
+    "subcategories": ["Dessert", "Qimiq"]
+  },
+  {
+    "store": "hofer",
+    "id": 543979,
+    "name": "QIMIQ Classic Vanille 300g",
+    "category": "Desserts",
+    "subcategories": ["Dessert", "Qimiq", "Vanille"]
+  },
+  {
+    "store": "hofer",
+    "id": 543980,
+    "name": "QIMIQ Sahne-Basis 300g",
+    "category": "Desserts",
+    "subcategories": ["Dessert", "Qimiq", "Sahne"]
+  },
+  {
+    "store": "hofer",
+    "id": 543663,
+    "name": "TOPI Maxi Milch- & Haselnuss Dessert 400g",
+    "category": "Desserts",
+    "subcategories": ["Dessert", "Milch", "Haselnuss"]
+  },
+  {
+    "store": "hofer",
+    "id": 546875,
+    "name": "ZURÜCK ZUM URSPRUNG Bergbauer Heumilch Schlagobers 250ml",
+    "category": "Milchprodukte",
+    "subcategories": ["Schlagobers", "Sahne", "Bergbauern", "Heumilch"]
+  },
+  {
+    "store": "hofer",
+    "id": 547904,
+    "name": "ZURÜCK ZUM URSPRUNG Bergbauern Buttermilch Heidelbeere 500ml",
+    "category": "Milchprodukte",
+    "subcategories": [
+      "Buttermilch",
+      "Fruchtbuttermilch",
+      "Bergbauern",
+      "Heidelbeere"
+    ]
+  },
+  {
+    "store": "hofer",
+    "id": 545400,
+    "name": "ZURÜCK ZUM URSPRUNG Bergbauern Buttermilch Mango-Maracuja 500ml",
+    "category": "Milchprodukte",
+    "subcategories": [
+      "Buttermilch",
+      "Fruchtbuttermilch",
+      "Bergbauern",
+      "Mango",
+      "Maracuja"
+    ]
+  },
+  {
+    "store": "hofer",
+    "id": 543928,
+    "name": "ZURÜCK ZUM URSPRUNG Bergbauern Buttermilch Weichsel 500ml",
+    "category": "Milchprodukte",
+    "subcategories": [
+      "Buttermilch",
+      "Fruchtbuttermilch",
+      "Bergbauern",
+      "Weichsel"
+    ]
+  },
+  {
+    "store": "hofer",
+    "id": 547083,
+    "name": "ZURÜCK ZUM URSPRUNG Bergbauern Heumilch Joghurt, Vanille-Himbeer 250g",
+    "category": "Milchprodukte",
+    "subcategories": ["Joghurt", "Bergbauern", "Heumilch", "Vanille", "Himbeer"]
+  },
+  {
+    "store": "hofer",
+    "id": 547084,
+    "name": "ZURÜCK ZUM URSPRUNG Bergbauern Heumilch Joghurt, Vanille-Mango-Pfirsich 250g",
+    "category": "Milchprodukte",
+    "subcategories": [
+      "Joghurt",
+      "Bergbauern",
+      "Heumilch",
+      "Vanille",
+      "Mango",
+      "Pfirsich"
+    ]
+  },
+  {
+    "store": "hofer",
+    "id": 544899,
+    "name": "ZURÜCK ZUM URSPRUNG Bergbauern Heumilch Sauerrahm 250g",
+    "category": "Milchprodukte",
+    "subcategories": ["Sauerrahm", "Bergbauern", "Heumilch"]
+  },
+  {
+    "store": "hofer",
+    "id": 548470,
+    "name": "ZURÜCK ZUM URSPRUNG Bergbauern Heumilch in Glasflasche 1l",
+    "category": "Milchprodukte",
+    "subcategories": ["Milch", "Heumilch", "Bergbauern", "Glasflasche"]
+  },
+  {
+    "store": "hofer",
+    "id": 548715,
+    "name": "ZURÜCK ZUM URSPRUNG Bergbauern Heumilch-Dessert, Erdbeere-Limette 150g",
+    "category": "Desserts",
+    "subcategories": ["Dessert", "Heumilch", "Erdbeere", "Limette"]
+  },
+  {
+    "store": "hofer",
+    "id": 547913,
+    "name": "ZURÜCK ZUM URSPRUNG Bergbauern Heumilch-Dessert, Rahmjoghurt Weichsel-Vanille 150g",
+    "category": "Desserts",
+    "subcategories": [
+      "Dessert",
+      "Heumilch",
+      "Rahmjoghurt",
+      "Weichsel",
+      "Vanille"
+    ]
+  },
+  {
+    "store": "hofer",
+    "id": 546984,
+    "name": "ZURÜCK ZUM URSPRUNG Bergbauern Heumilchdessert Rahmjoghurt Mango-Maracuja 150g",
+    "category": "Desserts",
+    "subcategories": ["Dessert", "Heumilch", "Rahmjoghurt", "Mango", "Maracuja"]
+  },
+  {
+    "store": "hofer",
+    "id": 546986,
+    "name": "ZURÜCK ZUM URSPRUNG Bergbauern Heumilchdessert Rahmjoghurt Waldfrucht 150g",
+    "category": "Desserts",
+    "subcategories": ["Dessert", "Heumilch", "Rahmjoghurt", "Waldfrucht"]
+  },
+  {
+    "store": "hofer",
+    "id": 546931,
+    "name": "ZURÜCK ZUM URSPRUNG Bergbauern Joghurt Mango Pfirsich 200g",
+    "category": "Milchprodukte",
+    "subcategories": ["Joghurt", "Bergbauern", "Mango", "Pfirsich"]
+  },
+  {
+    "store": "hofer",
+    "id": 546929,
+    "name": "ZURÜCK ZUM URSPRUNG Bergbauern Joghurt Marille 200g",
+    "category": "Milchprodukte",
+    "subcategories": ["Joghurt", "Bergbauern", "Marille"]
+  },
+  {
+    "store": "hofer",
+    "id": 544702,
+    "name": "ZURÜCK ZUM URSPRUNG Bergbauern Joghurt griechischer Art, 10 % Fett 400g",
+    "category": "Milchprodukte",
+    "subcategories": [
+      "Joghurt",
+      "Bergbauern",
+      "Griechischer Joghurt",
+      "10% Fett"
+    ]
+  },
+  {
+    "store": "hofer",
+    "id": 545988,
+    "name": "ZURÜCK ZUM URSPRUNG Bergbauern Joghurt griechischer Art, 2 % Fett 400g",
+    "category": "Milchprodukte",
+    "subcategories": [
+      "Joghurt",
+      "Bergbauern",
+      "Griechischer Joghurt",
+      "2% Fett"
+    ]
+  },
+  {
+    "store": "hofer",
+    "id": 546938,
+    "name": "ZURÜCK ZUM URSPRUNG Bergbauern Joghurt, Erdbeer 400g",
+    "category": "Milchprodukte",
+    "subcategories": ["Joghurt", "Bergbauern", "Erdbeer"]
+  },
+  {
+    "store": "hofer",
+    "id": 546932,
+    "name": "ZURÜCK ZUM URSPRUNG Bergbauern Joghurt, Erdbeere-Kirsche 200g",
+    "category": "Milchprodukte",
+    "subcategories": ["Joghurt", "Bergbauern", "Erdbeere", "Kirsche"]
+  },
+  {
+    "store": "hofer",
+    "id": 546939,
+    "name": "ZURÜCK ZUM URSPRUNG Bergbauern Joghurt, Heidelbeere 400g",
+    "category": "Milchprodukte",
+    "subcategories": ["Joghurt", "Bergbauern", "Heidelbeere"]
+  },
+  {
+    "store": "hofer",
+    "id": 546936,
+    "name": "ZURÜCK ZUM URSPRUNG Bergbauern Joghurt, Himbeere 400g",
+    "category": "Milchprodukte",
+    "subcategories": ["Joghurt", "Bergbauern", "Himbeere"]
+  },
+  {
+    "store": "hofer",
+    "id": 546930,
+    "name": "ZURÜCK ZUM URSPRUNG Bergbauern Joghurt, Kaffee 200g",
+    "category": "Milchprodukte",
+    "subcategories": ["Joghurt", "Bergbauern", "Kaffee"]
+  },
+  {
+    "store": "hofer",
+    "id": 546937,
+    "name": "ZURÜCK ZUM URSPRUNG Bergbauern Joghurt, Vanille 400g",
+    "category": "Milchprodukte",
+    "subcategories": ["Joghurt", "Bergbauern", "Vanille"]
+  },
+  {
+    "store": "hofer",
+    "id": 545403,
+    "name": "ZURÜCK ZUM URSPRUNG Bergbauern Joghurtbutter 250g",
+    "category": "Butter",
+    "subcategories": ["Joghurtbutter", "Bergbauern"]
+  },
+  {
+    "store": "hofer",
+    "id": 545404,
+    "name": "ZURÜCK ZUM URSPRUNG Bergbauern Magertopfen 250g",
+    "category": "Milchprodukte",
+    "subcategories": ["Topfen", "Magertopfen", "Bergbauern"]
+  },
+  {
+    "store": "hofer",
+    "id": 543929,
+    "name": "ZURÜCK ZUM URSPRUNG Bergbauern Naturjoghurt 0,9% Fett 400g",
+    "category": "Milchprodukte",
+    "subcategories": ["Joghurt", "Bergbauern", "Natur", "0,9% Fett"]
+  },
+  {
+    "store": "hofer",
+    "id": 545401,
+    "name": "ZURÜCK ZUM URSPRUNG Bergbauern Naturjoghurt Mild 3,6% Fett 400g",
+    "category": "Milchprodukte",
+    "subcategories": ["Joghurt", "Bergbauern", "Natur", "3,6% Fett"]
+  },
+  {
+    "store": "hofer",
+    "id": 546974,
+    "name": "ZURÜCK ZUM URSPRUNG Bergbauern Sauermilchjoghurt, Erdbeer-Ribisel 180g",
+    "category": "Milchprodukte",
+    "subcategories": [
+      "Joghurt",
+      "Sauermilchjoghurt",
+      "Bergbauern",
+      "Erdbeer",
+      "Ribisel"
+    ]
+  },
+  {
+    "store": "hofer",
+    "id": 546971,
+    "name": "ZURÜCK ZUM URSPRUNG Bergbauern Sauermilchjoghurt, Heidelbeere 180g",
+    "category": "Milchprodukte",
+    "subcategories": [
+      "Joghurt",
+      "Sauermilchjoghurt",
+      "Bergbauern",
+      "Heidelbeere"
+    ]
+  },
+  {
+    "store": "hofer",
+    "id": 546972,
+    "name": "ZURÜCK ZUM URSPRUNG Bergbauern Sauermilchjoghurt, Himbeere 180g",
+    "category": "Milchprodukte",
+    "subcategories": ["Joghurt", "Sauermilchjoghurt", "Bergbauern", "Himbeere"]
+  },
+  {
+    "store": "hofer",
+    "id": 546975,
+    "name": "ZURÜCK ZUM URSPRUNG Bergbauern Sauermilchjoghurt, Mango 180g",
+    "category": "Milchprodukte",
+    "subcategories": ["Joghurt", "Sauermilchjoghurt", "Bergbauern", "Mango"]
+  },
+  {
+    "store": "hofer",
+    "id": 546973,
+    "name": "ZURÜCK ZUM URSPRUNG Bergbauern Sauermilchjoghurt, Weichsel 180g",
+    "category": "Milchprodukte",
+    "subcategories": ["Joghurt", "Sauermilchjoghurt", "Bergbauern", "Weichsel"]
+  },
+  {
+    "store": "hofer",
+    "id": 543933,
+    "name": "ZURÜCK ZUM URSPRUNG Bergbauern Speisetopfen 250g",
+    "category": "Milchprodukte",
+    "subcategories": ["Topfen", "Speisetopfen", "Bergbauern"]
+  },
+  {
+    "store": "hofer",
+    "id": 544814,
+    "name": "ZURÜCK ZUM URSPRUNG Bergbauern Trink-Kefir Natur 485ml",
+    "category": "Milchprodukte",
+    "subcategories": ["Trink-Kefir", "Bergbauern", "Natur"]
+  },
+  {
+    "store": "hofer",
+    "id": 544895,
+    "name": "ZURÜCK ZUM URSPRUNG Bergbauernbutter aus Süßrahm 250g",
+    "category": "Butter",
+    "subcategories": ["Butter", "Bergbauern", "Süßrahm"]
+  },
+  {
+    "store": "hofer",
+    "id": 543876,
+    "name": "Salzburger Scherzl 100g",
+    "category": "Wurst",
+    "subcategories": ["Schinken", "Scherzl"]
+  },
+  {
+    "store": "hofer",
+    "id": 545522,
+    "name": "Schwarzwälder Klassik 80g",
+    "category": "Wurst",
+    "subcategories": ["Schinken", "Schwarzwälder"]
+  },
+  {
+    "store": "hofer",
+    "id": 545521,
+    "name": "Schwarzwälder Pikant 80g",
+    "category": "Wurst",
+    "subcategories": ["Schinken", "Schwarzwälder"]
+  }
+]

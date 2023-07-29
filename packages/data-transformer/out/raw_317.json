@@ -1,0 +1,707 @@
+[
+  {
+    "store": "spar",
+    "id": "2020001702817",
+    "name": "Nescafé Gold Löskaffee Cappuccino wenig süß 250g",
+    "category": "Kaffee",
+    "subcategories": ["Instantkaffee", "Cappuccino"]
+  },
+  {
+    "store": "spar",
+    "id": "770286",
+    "name": "Nescafé Gold Löskaffee Edelmischung 100g",
+    "category": "Kaffee",
+    "subcategories": ["Instantkaffee", "Edelmischung"]
+  },
+  {
+    "store": "spar",
+    "id": "770293",
+    "name": "Nescafé Gold Löskaffee Edelmischung 200g",
+    "category": "Kaffee",
+    "subcategories": ["Instantkaffee", "Edelmischung"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003352041",
+    "name": "Nescafé Gold Löskaffee Entkoffeiniert 100g",
+    "category": "Kaffee",
+    "subcategories": ["Instantkaffee", "Entkoffeiniert"]
+  },
+  {
+    "store": "spar",
+    "id": "7499760",
+    "name": "Nescafé Gold Löskaffee Espresso",
+    "category": "Kaffee",
+    "subcategories": ["Instantkaffee", "Espresso"]
+  },
+  {
+    "store": "spar",
+    "id": "5201648",
+    "name": "Nescafé Gold Löskaffee Latte 8 Sticks 8 Portionen",
+    "category": "Kaffee",
+    "subcategories": ["Instantkaffee", "Latte", "Sticks", "Portionen"]
+  },
+  {
+    "store": "spar",
+    "id": "6453329",
+    "name": "Nescafé Gold Löskaffee Mild 200g",
+    "category": "Kaffee",
+    "subcategories": ["Instantkaffee", "Mild"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003497803",
+    "name": "Nescafé Gold Löskaffee Vanilla Latte Sticks 8x18,5g",
+    "category": "Kaffee",
+    "subcategories": ["Instantkaffee", "Vanilla Latte", "Sticks"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004383297",
+    "name": "Nescafé Kapseln für NESPRESSO 3 Americas",
+    "category": "Kaffee",
+    "subcategories": ["Kaffeekapseln", "NESPRESSO", "3 Americas"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004383372",
+    "name": "Nescafé Kapseln für NESPRESSO Brazil",
+    "category": "Kaffee",
+    "subcategories": ["Kaffeekapseln", "NESPRESSO", "Brazil"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004379603",
+    "name": "Nescafé Kapseln für NESPRESSO India",
+    "category": "Kaffee",
+    "subcategories": ["Kaffeekapseln", "NESPRESSO", "India"]
+  },
+  {
+    "store": "spar",
+    "id": "8001245",
+    "name": "Nescafé Löskafee Kaffee & Creamer 10 Portionen",
+    "category": "Kaffee",
+    "subcategories": ["Löslicher Kaffee", "Kaffee & Creamer", "Portionen"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002974756",
+    "name": "Nescafé Löskaffee Eiskaffee 10 Sticks 10 Portionen",
+    "category": "Kaffee",
+    "subcategories": ["Löslicher Kaffee", "Eiskaffee", "Sticks", "Portionen"]
+  },
+  {
+    "store": "spar",
+    "id": "5720163",
+    "name": "Nesquik Instantkakao",
+    "category": "Kakao",
+    "subcategories": ["Instantkakao"]
+  },
+  {
+    "store": "spar",
+    "id": "7499098",
+    "name": "Nesquik Instantkakao",
+    "category": "Kakao",
+    "subcategories": ["Instantkakao"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004708847",
+    "name": "Nesquik Kakao Schoko Hafer",
+    "category": "Kakao",
+    "subcategories": ["Kakao", "Schoko Hafer"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002581879",
+    "name": "Nesquik Kakao Zuckerreduziert",
+    "category": "Kakao",
+    "subcategories": ["Kakao", "Zuckerreduziert"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001746354",
+    "name": "Mionetto Spumante Prestige Collection Rosé",
+    "category": "Sekt",
+    "subcategories": ["Spumante", "Prestige Collection", "Rosé"]
+  },
+  {
+    "store": "spar",
+    "id": "6213329",
+    "name": "Moët & Chandon Champagner Brut Impérial",
+    "category": "Champagner",
+    "subcategories": ["Champagner", "Brut Impérial"]
+  },
+  {
+    "store": "spar",
+    "id": "1596793",
+    "name": "Moët & Chandon Champagner Brut Impérial",
+    "category": "Champagner",
+    "subcategories": ["Champagner", "Brut Impérial"]
+  },
+  {
+    "store": "spar",
+    "id": "2020000640455",
+    "name": "Moët & Chandon Champagner Ice Imperial",
+    "category": "Champagner",
+    "subcategories": ["Champagner", "Ice Imperial"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003317316",
+    "name": "Moët & Chandon Champagner Ice Imperial Rosé",
+    "category": "Champagner",
+    "subcategories": ["Champagner", "Ice Imperial", "Rosé"]
+  },
+  {
+    "store": "spar",
+    "id": "7520990",
+    "name": "Moët & Chandon Champagner Impérial im Geschenkkarton",
+    "category": "Champagner",
+    "subcategories": ["Champagner", "Impérial", "Geschenkkarton"]
+  },
+  {
+    "store": "spar",
+    "id": "2020000640318",
+    "name": "Moët & Chandon Champagner Rosè Impérial",
+    "category": "Champagner",
+    "subcategories": ["Champagner", "Rosè Impérial"]
+  },
+  {
+    "store": "spar",
+    "id": "5196494",
+    "name": "Moët & Chandon Champagner Rosé Imperial im GK",
+    "category": "Champagner",
+    "subcategories": ["Champagner", "Rosé Imperial", "Geschenkkarton"]
+  },
+  {
+    "store": "spar",
+    "id": "1542493",
+    "name": "Moët & Chandon Champagner Rosé Impérial",
+    "category": "Champagner",
+    "subcategories": ["Champagner", "Rosé Impérial"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004609854",
+    "name": "Mr. Bio Prosecco DOC Biologico Brut (vegan)",
+    "category": "Prosecco",
+    "subcategories": ["Prosecco", "Bio", "Brut", "vegan"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004609779",
+    "name": "Mr. Bio Prosecco DOC Biologico Extra dry (vegan)",
+    "category": "Prosecco",
+    "subcategories": ["Prosecco", "Bio", "Extra dry", "vegan"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004609939",
+    "name": "Mr. Bio Prosecco DOC Biologico Rose (vegan)",
+    "category": "Prosecco",
+    "subcategories": ["Prosecco", "Bio", "Rose", "vegan"]
+  },
+  {
+    "store": "spar",
+    "id": "7527401",
+    "name": "Nicolas Feuillatte Champagner Grande Réserve Brut",
+    "category": "Champagner",
+    "subcategories": ["Champagner", "Grande Réserve", "Brut"]
+  },
+  {
+    "store": "spar",
+    "id": "2020000671428",
+    "name": "Mitchell's Green Spot",
+    "category": "Whisky",
+    "subcategories": ["Green Spot"]
+  },
+  {
+    "store": "spar",
+    "id": "7683695",
+    "name": "Mozart Chocolate Cream",
+    "category": "Likör",
+    "subcategories": ["Schokoladenlikör"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003730764",
+    "name": "Mozart Coffee Chocolate Sahnelikör",
+    "category": "Likör",
+    "subcategories": ["Schokoladenlikör", "Kaffee"]
+  },
+  {
+    "store": "spar",
+    "id": "2974729",
+    "name": "Mozart Likör Trio",
+    "category": "Likör",
+    "subcategories": ["Schokoladenlikör"]
+  },
+  {
+    "store": "spar",
+    "id": "7684500",
+    "name": "Mozart White Chocolate Sahnelikör",
+    "category": "Likör",
+    "subcategories": ["Schokoladenlikör"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004053862",
+    "name": "Munakra Vienna Dry Gin",
+    "category": "Gin",
+    "subcategories": ["Trockener Gin"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002204624",
+    "name": "Napoléon Brandy VSOP",
+    "category": "Brandy",
+    "subcategories": ["VSOP"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004217325",
+    "name": "Niemetz Schwedenbomben Likör",
+    "category": "Likör",
+    "subcategories": ["Schwedenbomben"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003454691",
+    "name": "Moenchsberg Sparkling",
+    "category": "Sekt",
+    "subcategories": ["Sekt"]
+  },
+  {
+    "store": "spar",
+    "id": "2972220",
+    "name": "Montebuena Tempranillo Madurado Rioja DOCa 2020",
+    "category": "Wein",
+    "subcategories": ["Tempranillo", "Madurado", "Rioja"]
+  },
+  {
+    "store": "spar",
+    "id": "3933831",
+    "name": "Montes Alpha Cabernet Sauvignon D.O. Colchagua Valley 2020",
+    "category": "Wein",
+    "subcategories": ["Cabernet Sauvignon", "Colchagua Valley"]
+  },
+  {
+    "store": "spar",
+    "id": "3929469",
+    "name": "Montes Cabernet Sauvignon Reserva D.O. Valle de Colchagua 2021",
+    "category": "Wein",
+    "subcategories": ["Cabernet Sauvignon", "Valle de Colchagua"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002345723",
+    "name": "Mud House Pinot Noir 2019",
+    "category": "Wein",
+    "subcategories": ["Pinot Noir"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001719419",
+    "name": "Mud House Sauvignon Blanc 2022",
+    "category": "Wein",
+    "subcategories": ["Sauvignon Blanc"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003843525",
+    "name": "Muratie Ansela Van de Caab 2018",
+    "category": "Wein",
+    "subcategories": ["Rotwein"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003843457",
+    "name": "Muratie Ronnie Melck Shiraz 2018",
+    "category": "Wein",
+    "subcategories": ["Rotwein", "Shiraz"]
+  },
+  {
+    "store": "spar",
+    "id": "5132874",
+    "name": "Muriel Rioja Crianza DOCa 2019",
+    "category": "Wein",
+    "subcategories": ["Rioja", "Crianza"]
+  },
+  {
+    "store": "spar",
+    "id": "6445393",
+    "name": "Muriel Rioja Reserva DOCa 2016",
+    "category": "Wein",
+    "subcategories": ["Rioja", "Reserva"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003729317",
+    "name": "Muster Aparella",
+    "category": "Wein",
+    "subcategories": ["Weißwein"]
+  },
+  {
+    "store": "spar",
+    "id": "8199447",
+    "name": "Muster.gamlitz Sauvignon Blanc Reverenz Südsteiermark DAC 2021",
+    "category": "Wein",
+    "subcategories": ["Sauvignon Blanc", "Reverenz", "Südsteiermark DAC"]
+  },
+  {
+    "store": "spar",
+    "id": "8199362",
+    "name": "Muster.gamlitz Weißburgunder Reverenz Südsteiermark DAC 2021",
+    "category": "Wein",
+    "subcategories": ["Weißburgunder", "Reverenz", "Südsteiermark DAC"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003182181",
+    "name": "Müller Gemischter Satz DAC Ried Point",
+    "category": "Wein",
+    "subcategories": ["Gemischter Satz", "Ried Point"]
+  },
+  {
+    "store": "spar",
+    "id": "1387551",
+    "name": "Müller-Grossmann Grüner Veltliner Furth Kremstal DAC 2021",
+    "category": "Wein",
+    "subcategories": ["Grüner Veltliner", "Furth", "Kremstal DAC"]
+  },
+  {
+    "store": "spar",
+    "id": "1387513",
+    "name": "Müller-Grossmann Grüner Veltliner Satz Viertel Kremstal DAC 2020",
+    "category": "Wein",
+    "subcategories": ["Grüner Veltliner", "Satz Viertel", "Kremstal DAC"]
+  },
+  {
+    "store": "spar",
+    "id": "1387582",
+    "name": "Müller-Grossmann Riesling Kremstal DAC Furth 2021",
+    "category": "Wein",
+    "subcategories": ["Riesling", "Kremstal DAC", "Furth"]
+  },
+  {
+    "store": "spar",
+    "id": "1387612",
+    "name": "Müller-Grossmann Rosé 2022",
+    "category": "Wein",
+    "subcategories": ["Rosé"]
+  },
+  {
+    "store": "spar",
+    "id": "3134016",
+    "name": "Montes Natürliches Mineralwasser leicht perlend",
+    "category": "Mineralwasser",
+    "subcategories": ["Natürliches Mineralwasser", "Leicht perlend"]
+  },
+  {
+    "store": "spar",
+    "id": "4060796",
+    "name": "Montes Natürliches Mineralwasser perlend",
+    "category": "Mineralwasser",
+    "subcategories": ["Natürliches Mineralwasser", "Perlend"]
+  },
+  {
+    "store": "spar",
+    "id": "5060337",
+    "name": "Montes Natürliches Mineralwasser still",
+    "category": "Mineralwasser",
+    "subcategories": ["Natürliches Mineralwasser", "Still"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004317179",
+    "name": "Morgentau Bio Erdäpfel Gemüse Rolle",
+    "category": "Snacks",
+    "subcategories": ["Erdäpfel Gemüse", "Rolle"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004317193",
+    "name": "Morgentau Bio Erdäpfel Käse Rolle",
+    "category": "Snacks",
+    "subcategories": ["Erdäpfel Käse", "Rolle"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004317223",
+    "name": "Morgentau Bio Gemüse Semmelrolle",
+    "category": "Snacks",
+    "subcategories": ["Gemüse Semmel", "Rolle"]
+  },
+  {
+    "store": "spar",
+    "id": "8185013",
+    "name": "Neni Humus Chili Kräuter Salsa",
+    "category": "Aufstrich",
+    "subcategories": ["Humus", "Chili", "Kräuter", "Salsa"]
+  },
+  {
+    "store": "spar",
+    "id": "8184863",
+    "name": "Neni Humus Classic",
+    "category": "Aufstrich",
+    "subcategories": ["Humus", "Classic"]
+  },
+  {
+    "store": "spar",
+    "id": "8184924",
+    "name": "Neni Humus Olivenöl und Kichererbsen",
+    "category": "Aufstrich",
+    "subcategories": ["Humus", "Olivenöl", "Kichererbsen"]
+  },
+  {
+    "store": "spar",
+    "id": "8185105",
+    "name": "Neni Humus Roten Rüben",
+    "category": "Aufstrich",
+    "subcategories": ["Humus", "Roten Rüben"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003916694",
+    "name": "Neni Humus mit Zaatar und Pinienkernen",
+    "category": "Aufstrich",
+    "subcategories": ["Humus", "Zaatar", "Pinienkerne"]
+  },
+  {
+    "store": "spar",
+    "id": "8185136",
+    "name": "Neni Kichererbsensalat",
+    "category": "Salat",
+    "subcategories": ["Kichererbsensalat"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004668653",
+    "name": "Neni Tahina Pure 250g",
+    "category": "Aufstrich",
+    "subcategories": ["Tahina", "Pure"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001531608",
+    "name": "Neni Tomaten Humus",
+    "category": "Aufstrich",
+    "subcategories": ["Humus", "Tomaten"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001329670",
+    "name": "Müller Ecke des Monats Tom & Jerry Bunte Knusperkugeln",
+    "category": "Joghurt",
+    "subcategories": ["Ecke des Monats", "Tom & Jerry", "Knusperkugeln"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001329755",
+    "name": "Müller Ecke des Monats Tom & Jerry Schoko-Sterne",
+    "category": "Joghurt",
+    "subcategories": ["Ecke des Monats", "Tom & Jerry", "Schoko-Sterne"]
+  },
+  {
+    "store": "spar",
+    "id": "3946237",
+    "name": "Müller Grieß Pudding mit Kirschsoße",
+    "category": "Pudding",
+    "subcategories": ["Grieß Pudding", "Kirschsoße"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004414229",
+    "name": "Müller Joghurt mit der Ecke Amarena Kirsch",
+    "category": "Joghurt",
+    "subcategories": ["Joghurt", "Amarena Kirsch"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003386176",
+    "name": "Müller Joghurt mit der Ecke Brownie",
+    "category": "Joghurt",
+    "subcategories": ["Joghurt", "Brownie"]
+  },
+  {
+    "store": "spar",
+    "id": "541602",
+    "name": "Müller Joghurt mit der Ecke Erdbeere",
+    "category": "Joghurt",
+    "subcategories": ["Joghurt", "Erdbeere"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002529741",
+    "name": "Müller Joghurt mit der Ecke Heidelbeere",
+    "category": "Joghurt",
+    "subcategories": ["Joghurt", "Heidelbeere"]
+  },
+  {
+    "store": "spar",
+    "id": "819954",
+    "name": "Müller Joghurt mit der Ecke Kirsche",
+    "category": "Joghurt",
+    "subcategories": ["Joghurt", "Kirsche"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004412515",
+    "name": "Müller Joghurt mit der Ecke Knusperherzen",
+    "category": "Joghurt",
+    "subcategories": ["Joghurt", "Knusperherzen"]
+  },
+  {
+    "store": "spar",
+    "id": "8202666",
+    "name": "Müller Joghurt mit der Ecke Rom",
+    "category": "Joghurt",
+    "subcategories": ["Joghurt", "Rom"]
+  },
+  {
+    "store": "spar",
+    "id": "2659879",
+    "name": "Müller Joghurt mit der Ecke Schoko Balls",
+    "category": "Joghurt",
+    "subcategories": ["Joghurt", "Schoko Balls"]
+  },
+  {
+    "store": "spar",
+    "id": "819879",
+    "name": "Müller Joghurt mit der Ecke Schoko Flakes",
+    "category": "Joghurt",
+    "subcategories": ["Joghurt", "Schoko Flakes"]
+  },
+  {
+    "store": "spar",
+    "id": "6780371",
+    "name": "Müller Joghurt mit der Ecke Schoko-Stars",
+    "category": "Joghurt",
+    "subcategories": ["Joghurt", "Schoko-Stars"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004414205",
+    "name": "Müller Joghurt mit der Ecke à la Pistachio Amarettini",
+    "category": "Joghurt",
+    "subcategories": ["Joghurt", "Pistachio Amarettini"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002627348",
+    "name": "Müller Milchreis High Protein Klassik",
+    "category": "Milchreis",
+    "subcategories": ["Milchreis", "High Protein", "Klassik"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002627485",
+    "name": "Müller Milchreis High Protein Schoko",
+    "category": "Milchreis",
+    "subcategories": ["Milchreis", "High Protein", "Schoko"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002627393",
+    "name": "Müller Milchreis High Protein Schoko-Banane",
+    "category": "Milchreis",
+    "subcategories": ["Milchreis", "High Protein", "Schoko-Banane"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002627539",
+    "name": "Müller Milchreis High Protein Vanille",
+    "category": "Milchreis",
+    "subcategories": ["Milchreis", "High Protein", "Vanille"]
+  },
+  {
+    "store": "spar",
+    "id": "4406129",
+    "name": "Müller Milchreis Himbeere",
+    "category": "Milchreis",
+    "subcategories": ["Milchreis", "Himbeere"]
+  },
+  {
+    "store": "spar",
+    "id": "2020000970019",
+    "name": "Müller Milchreis Maracuja Traum",
+    "category": "Milchreis",
+    "subcategories": ["Milchreis", "Maracuja Traum"]
+  },
+  {
+    "store": "spar",
+    "id": "820066",
+    "name": "Müller Milchreis Original",
+    "category": "Milchreis",
+    "subcategories": ["Milchreis", "Original"]
+  },
+  {
+    "store": "spar",
+    "id": "531542",
+    "name": "Müller Milchreis Schoko",
+    "category": "Milchreis",
+    "subcategories": ["Milchreis", "Schoko"]
+  },
+  {
+    "store": "spar",
+    "id": "2020000969907",
+    "name": "Müller Milchreis Typ Zitronen Creme",
+    "category": "Milchreis",
+    "subcategories": ["Milchreis", "Zitronen Creme"]
+  },
+  {
+    "store": "spar",
+    "id": "908351",
+    "name": "Müller Milchreis Vanille",
+    "category": "Milchreis",
+    "subcategories": ["Milchreis", "Vanille"]
+  },
+  {
+    "store": "spar",
+    "id": "531559",
+    "name": "Müller Milchreis Zimt",
+    "category": "Milchreis",
+    "subcategories": ["Milchreis", "Zimt"]
+  },
+  {
+    "store": "spar",
+    "id": "5896264",
+    "name": "Müller Milchreis heiss&lecker Typ Pina Colada",
+    "category": "Milchreis",
+    "subcategories": ["Milchreis", "heiss&lecker", "Pina Colada"]
+  },
+  {
+    "store": "spar",
+    "id": "5896028",
+    "name": "Müller Milchreis heiss&lecker Weiße Schokolade Macadamia",
+    "category": "Milchreis",
+    "subcategories": [
+      "Milchreis",
+      "heiss&lecker",
+      "Weiße Schokolade",
+      "Macadamia"
+    ]
+  },
+  {
+    "store": "spar",
+    "id": "2020000470779",
+    "name": "Müller Schoko Pudding mit Schokosoße",
+    "category": "Pudding",
+    "subcategories": ["Schoko Pudding", "Schokosoße"]
+  },
+  {
+    "store": "spar",
+    "id": "3944653",
+    "name": "Müller Schoko Pudding mit Vanillesoße",
+    "category": "Pudding",
+    "subcategories": ["Schoko Pudding", "Vanillesoße"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002930134",
+    "name": "Müller Shake Banana Twist",
+    "category": "Shake",
+    "subcategories": ["Banana Twist"]
+  }
+]

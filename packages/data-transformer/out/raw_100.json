@@ -1,0 +1,702 @@
+[
+  {
+    "store": "billa",
+    "id": "00-715979",
+    "name": "RooBar Schoko Mandel Riegel",
+    "category": "Riegel",
+    "subcategories": ["Schokolade", "Mandel"]
+  },
+  {
+    "store": "billa",
+    "id": "00-715982",
+    "name": "RooBar Schokolade Haselnuss Riegel",
+    "category": "Riegel",
+    "subcategories": ["Schokolade", "Haselnuss"]
+  },
+  {
+    "store": "billa",
+    "id": "00-716115",
+    "name": "RooBar Schokolade Kokosnuss Riegel",
+    "category": "Riegel",
+    "subcategories": ["Schokolade", "Kokosnuss"]
+  },
+  {
+    "store": "billa",
+    "id": "00-337745",
+    "name": "Sarotti Magische Momente Helle Pralinen",
+    "category": "Pralinen",
+    "subcategories": ["Helle Pralinen"]
+  },
+  {
+    "store": "billa",
+    "id": "00-938292",
+    "name": "Sarotti No.1 Ecuador Edelbitter 72%",
+    "category": "Schokolade",
+    "subcategories": ["Edelbitter", "Ecuador"]
+  },
+  {
+    "store": "billa",
+    "id": "00-938300",
+    "name": "Sarotti No.1 Edelbitter 70% Mit Orange",
+    "category": "Schokolade",
+    "subcategories": ["Edelbitter", "Orange"]
+  },
+  {
+    "store": "billa",
+    "id": "00-710977",
+    "name": "Sarotti No.1 Edelbitter 75%",
+    "category": "Schokolade",
+    "subcategories": ["Edelbitter"]
+  },
+  {
+    "store": "billa",
+    "id": "00-938299",
+    "name": "Sarotti No.1 Edelbitter 85%",
+    "category": "Schokolade",
+    "subcategories": ["Edelbitter"]
+  },
+  {
+    "store": "billa",
+    "id": "00-674692",
+    "name": "Sarotti Tiamo Amaretto Trüffel",
+    "category": "Trüffel",
+    "subcategories": ["Amaretto"]
+  },
+  {
+    "store": "billa",
+    "id": "00-665081",
+    "name": "Sarotti Tiamo Champagner Trüffel",
+    "category": "Trüffel",
+    "subcategories": ["Champagner"]
+  },
+  {
+    "store": "billa",
+    "id": "00-670658",
+    "name": "Sarotti Tiamo Cognac Trüffel",
+    "category": "Trüffel",
+    "subcategories": ["Cognac"]
+  },
+  {
+    "store": "billa",
+    "id": "00-662160",
+    "name": "Sarotti Tiamo Dunkler Champagner Trüffel",
+    "category": "Trüffel",
+    "subcategories": ["Dunkler Champagner"]
+  },
+  {
+    "store": "billa",
+    "id": "00-779080",
+    "name": "Schogetten Alpenvollmilch",
+    "category": "Schokolade",
+    "subcategories": ["Alpenvollmilch"]
+  },
+  {
+    "store": "billa",
+    "id": "00-411480",
+    "name": "Schogetten Joghurt - Erdbeer",
+    "category": "Schokolade",
+    "subcategories": ["Joghurt", "Erdbeer"]
+  },
+  {
+    "store": "billa",
+    "id": "00-938246",
+    "name": "Schogetten Vollmilch-Haselnuss",
+    "category": "Schokolade",
+    "subcategories": ["Vollmilch-Haselnuss"]
+  },
+  {
+    "store": "billa",
+    "id": "00-528272",
+    "name": "Schwarze Herren Hauchdünne Täfelchen",
+    "category": "Schokolade",
+    "subcategories": ["Hauchdünne Täfelchen"]
+  },
+  {
+    "store": "billa",
+    "id": "00-528214",
+    "name": "Schwarze Herren Tafelschokolade",
+    "category": "Schokolade",
+    "subcategories": ["Tafelschokolade"]
+  },
+  {
+    "store": "billa",
+    "id": "00-528227",
+    "name": "Schwarze Herren Täfelchen",
+    "category": "Schokolade",
+    "subcategories": ["Täfelchen"]
+  },
+  {
+    "store": "billa",
+    "id": "00-467497",
+    "name": "Smarties Minis",
+    "category": "Süßigkeiten",
+    "subcategories": ["Minis"]
+  },
+  {
+    "store": "billa",
+    "id": "00-487972",
+    "name": "Smarties Multipack",
+    "category": "Süßigkeiten",
+    "subcategories": ["Multipack"]
+  },
+  {
+    "store": "billa",
+    "id": "00-932988",
+    "name": "Smarties Riesenrolle",
+    "category": "Süßigkeiten",
+    "subcategories": ["Riesenrolle"]
+  },
+  {
+    "store": "billa",
+    "id": "00-601780",
+    "name": "Snickers",
+    "category": "Riegel",
+    "subcategories": ["Snickers"]
+  },
+  {
+    "store": "billa",
+    "id": "00-766646",
+    "name": "Snickers",
+    "category": "Riegel",
+    "subcategories": ["Snickers"]
+  },
+  {
+    "store": "billa",
+    "id": "00-469768",
+    "name": "Snickers Creamy Peanut Butter 4er",
+    "category": "Riegel",
+    "subcategories": ["Creamy Peanut Butter"]
+  },
+  {
+    "store": "billa",
+    "id": "00-710514",
+    "name": "Snickers Duo",
+    "category": "Riegel",
+    "subcategories": ["Duo"]
+  },
+  {
+    "store": "billa",
+    "id": "00-884093",
+    "name": "Stark Bananica",
+    "category": "Süßigkeiten",
+    "subcategories": ["Bananica"]
+  },
+  {
+    "store": "billa",
+    "id": "00-826409",
+    "name": "Storck Durchbeißer",
+    "category": "Süßigkeiten",
+    "subcategories": ["Durchbeißer"]
+  },
+  {
+    "store": "billa",
+    "id": "00-423068",
+    "name": "Storck Kau Früchtchen",
+    "category": "Süßigkeiten",
+    "subcategories": ["Kau Früchtchen"]
+  },
+  {
+    "store": "billa",
+    "id": "00-384572",
+    "name": "Storck Knoppers Erdnuss Riegel 3er",
+    "category": "Riegel",
+    "subcategories": ["Knoppers Erdnuss"]
+  },
+  {
+    "store": "billa",
+    "id": "00-384579",
+    "name": "Storck Knoppers Kokos Riegel 3er",
+    "category": "Riegel",
+    "subcategories": ["Knoppers Kokos"]
+  },
+  {
+    "store": "billa",
+    "id": "00-663690",
+    "name": "Storck Knoppers NussRiegel 3er",
+    "category": "Riegel",
+    "subcategories": ["Knoppers Nuss"]
+  },
+  {
+    "store": "billa",
+    "id": "00-444993",
+    "name": "Storck Schokoriesen",
+    "category": "Süßigkeiten",
+    "subcategories": ["Schokoriesen"]
+  },
+  {
+    "store": "billa",
+    "id": "00-65417",
+    "name": "Storck Toffifee",
+    "category": "Süßigkeiten",
+    "subcategories": ["Toffifee"]
+  },
+  {
+    "store": "billa",
+    "id": "00-414516",
+    "name": "Storck Toffifee",
+    "category": "Süßigkeiten",
+    "subcategories": ["Toffifee"]
+  },
+  {
+    "store": "billa",
+    "id": "00-423067",
+    "name": "Storck Vollmilchbrocken",
+    "category": "Schokolade",
+    "subcategories": ["Vollmilchbrocken"]
+  },
+  {
+    "store": "billa",
+    "id": "00-721404",
+    "name": "Suchard Finessa Mandel-Honig",
+    "category": "Schokolade",
+    "subcategories": ["Mandel-Honig"]
+  },
+  {
+    "store": "billa",
+    "id": "00-602260",
+    "name": "Suchard Finessa Marzipan",
+    "category": "Schokolade",
+    "subcategories": ["Marzipan"]
+  },
+  {
+    "store": "billa",
+    "id": "00-11411",
+    "name": "Suchard Junior Weiß",
+    "category": "Schokolade",
+    "subcategories": ["Weiß"]
+  },
+  {
+    "store": "billa",
+    "id": "00-433006",
+    "name": "Suchard Sensations 70%",
+    "category": "Schokolade",
+    "subcategories": ["70%"]
+  },
+  {
+    "store": "billa",
+    "id": "00-837672",
+    "name": "Suchard Sensations 86%",
+    "category": "Schokolade",
+    "subcategories": ["86%"]
+  },
+  {
+    "store": "billa",
+    "id": "00-433007",
+    "name": "Suchard Sensations Orange Noir 70%",
+    "category": "Schokolade",
+    "subcategories": ["Orange Noir", "70%"]
+  },
+  {
+    "store": "billa",
+    "id": "00-612141",
+    "name": "Suchard Sensations Velma",
+    "category": "Schokolade",
+    "subcategories": ["Velma"]
+  },
+  {
+    "store": "billa",
+    "id": "00-702202",
+    "name": "Swizzels Squashies Cherry & Apfel",
+    "category": "Süßigkeiten",
+    "subcategories": ["Cherry", "Apfel"]
+  },
+  {
+    "store": "billa",
+    "id": "00-397557",
+    "name": "Tetesept Husten Bonbons Bronchial Aktiv",
+    "category": "Bonbons",
+    "subcategories": ["Bronchial Aktiv"]
+  },
+  {
+    "store": "billa",
+    "id": "00-504399",
+    "name": "Tic Tac Fresh Mint",
+    "category": "Bonbons",
+    "subcategories": ["Fresh Mint"]
+  },
+  {
+    "store": "billa",
+    "id": "00-504400",
+    "name": "Tic Tac Fresh Orange",
+    "category": "Bonbons",
+    "subcategories": ["Fresh Orange"]
+  },
+  {
+    "store": "billa",
+    "id": "00-12287",
+    "name": "Toblerone Milch",
+    "category": "Schokolade",
+    "subcategories": ["Milch"]
+  },
+  {
+    "store": "billa",
+    "id": "00-556301",
+    "name": "Trolli Dino Rex",
+    "category": "Süßigkeiten",
+    "subcategories": ["Dino Rex"]
+  },
+  {
+    "store": "billa",
+    "id": "00-677528",
+    "name": "Trolli Haifische",
+    "category": "Süßigkeiten",
+    "subcategories": ["Haifische"]
+  },
+  {
+    "store": "billa",
+    "id": "00-905568",
+    "name": "Trolli Saure Glühwürmchen",
+    "category": "Süßigkeiten",
+    "subcategories": ["Saure Glühwürmchen"]
+  },
+  {
+    "store": "billa",
+    "id": "00-513291",
+    "name": "True Gum Himbeere & Vanille",
+    "category": "Kaugummi",
+    "subcategories": ["Himbeere", "Vanille"]
+  },
+  {
+    "store": "billa",
+    "id": "00-399269",
+    "name": "True Gum Minze",
+    "category": "Kaugummi",
+    "subcategories": ["Minze"]
+  },
+  {
+    "store": "billa",
+    "id": "00-513288",
+    "name": "True Mints - Frische Minze",
+    "category": "Bonbons",
+    "subcategories": ["Frische Minze"]
+  },
+  {
+    "store": "billa",
+    "id": "00-513282",
+    "name": "True Mints - Kirsche",
+    "category": "Bonbons",
+    "subcategories": ["Kirsche"]
+  },
+  {
+    "store": "billa",
+    "id": "00-428219",
+    "name": "Trumpf Edle Tropfen in Nuss Gin Gin",
+    "category": "Schokolade",
+    "subcategories": ["Edle Tropfen in Nuss Gin Gin"]
+  },
+  {
+    "store": "billa",
+    "id": "00-406046",
+    "name": "Trumpf Edle Tropfen in Nuss Obstbrände",
+    "category": "Schokolade",
+    "subcategories": ["Edle Tropfen in Nuss Obstbrände"]
+  },
+  {
+    "store": "billa",
+    "id": "00-401982",
+    "name": "Tutti Frutti 4er",
+    "category": "Süßigkeiten",
+    "subcategories": ["Tutti Frutti"]
+  },
+  {
+    "store": "billa",
+    "id": "00-763196",
+    "name": "Twix",
+    "category": "Riegel",
+    "subcategories": ["Twix"]
+  },
+  {
+    "store": "billa",
+    "id": "00-526852",
+    "name": "Twix White 4er",
+    "category": "Riegel",
+    "subcategories": ["Twix White"]
+  },
+  {
+    "store": "billa",
+    "id": "00-793055",
+    "name": "Walkers Oatflake&Cranberry Biscuits",
+    "category": "Kekse",
+    "subcategories": ["Oatflake&Cranberry Biscuits"]
+  },
+  {
+    "store": "billa",
+    "id": "00-816291",
+    "name": "Walkers Shortbread Ginger",
+    "category": "Kekse",
+    "subcategories": ["Shortbread Ginger"]
+  },
+  {
+    "store": "billa",
+    "id": "00-605752",
+    "name": "Wasa Biscuit Cereal",
+    "category": "Kekse",
+    "subcategories": ["Biscuit Cereal"]
+  },
+  {
+    "store": "billa",
+    "id": "00-722214",
+    "name": "Werther's Original Blissful Caramel Bites",
+    "category": "Bonbons",
+    "subcategories": ["Caramel Bites"]
+  },
+  {
+    "store": "billa",
+    "id": "00-700608",
+    "name": "Wick Atemfrei Eukalyptus",
+    "category": "Lutschbonbons",
+    "subcategories": ["Eukalyptus"]
+  },
+  {
+    "store": "billa",
+    "id": "00-700581",
+    "name": "Wick Blau",
+    "category": "Lutschbonbons",
+    "subcategories": ["Blau"]
+  },
+  {
+    "store": "billa",
+    "id": "00-700720",
+    "name": "Wick Blau ohne Zucker",
+    "category": "Lutschbonbons",
+    "subcategories": ["Blau ohne Zucker"]
+  },
+  {
+    "store": "billa",
+    "id": "00-705237",
+    "name": "Zotter Mitzi Blue Vielen Dank",
+    "category": "Schokolade",
+    "subcategories": ["Mitzi Blue", "Vielen Dank"]
+  },
+  {
+    "store": "billa",
+    "id": "00-419122",
+    "name": "Zotter Waldbeer-Kokos Schokolade mit Dattelzucker",
+    "category": "Schokolade",
+    "subcategories": ["Waldbeer-Kokos", "Dattelzucker"]
+  },
+  {
+    "store": "billa",
+    "id": "00-716146",
+    "name": "bett'r Erdnussbutter Cups",
+    "category": "Cups",
+    "subcategories": ["Erdnussbutter"]
+  },
+  {
+    "store": "billa",
+    "id": "00-716145",
+    "name": "bett'r Haselnussmus Cups",
+    "category": "Cups",
+    "subcategories": ["Haselnussmus"]
+  },
+  {
+    "store": "billa",
+    "id": "00-716143",
+    "name": "bett'r Mandelmus Cups",
+    "category": "Cups",
+    "subcategories": ["Mandelmus"]
+  },
+  {
+    "store": "billa",
+    "id": "00-713170",
+    "name": "BI KIDS Badekugel",
+    "category": "Kinderpflege",
+    "subcategories": ["Badekugel"]
+  },
+  {
+    "store": "billa",
+    "id": "00-713168",
+    "name": "BI KIDS Schaumbad",
+    "category": "Kinderpflege",
+    "subcategories": ["Schaumbad"]
+  },
+  {
+    "store": "billa",
+    "id": "00-713582",
+    "name": "BI KIDS Seife Apfelino",
+    "category": "Kinderpflege",
+    "subcategories": ["Seife Apfelino"]
+  },
+  {
+    "store": "billa",
+    "id": "00-713586",
+    "name": "BI KIDS Seife Kirschteffi",
+    "category": "Kinderpflege",
+    "subcategories": ["Seife Kirschteffi"]
+  },
+  {
+    "store": "billa",
+    "id": "00-302215",
+    "name": "Babywell Baumwoll Pflegetücher Box",
+    "category": "Babyartikel",
+    "subcategories": ["Baumwoll Pflegetücher"]
+  },
+  {
+    "store": "billa",
+    "id": "00-529171",
+    "name": "Babywell Feuchte Waschlappen",
+    "category": "Babyartikel",
+    "subcategories": ["Feuchte Waschlappen"]
+  },
+  {
+    "store": "billa",
+    "id": "00-858393",
+    "name": "Babywell Kopf bis Fuß Waschgel",
+    "category": "Babyartikel",
+    "subcategories": ["Kopf bis Fuß Waschgel"]
+  },
+  {
+    "store": "billa",
+    "id": "00-528679",
+    "name": "Babywell Lotion Tücher 4er",
+    "category": "Babyartikel",
+    "subcategories": ["Lotion Tücher"]
+  },
+  {
+    "store": "billa",
+    "id": "00-858494",
+    "name": "Babywell Premium-Windeln Junior Gr. 5",
+    "category": "Windeln",
+    "subcategories": ["Premium-Windeln", "Junior Gr. 5"]
+  },
+  {
+    "store": "billa",
+    "id": "00-858479",
+    "name": "Babywell Premium-Windeln Maxi Gr. 4",
+    "category": "Windeln",
+    "subcategories": ["Premium-Windeln", "Maxi Gr. 4"]
+  },
+  {
+    "store": "billa",
+    "id": "00-858491",
+    "name": "Babywell Premium-Windeln Maxi Plus Gr. 4+",
+    "category": "Windeln",
+    "subcategories": ["Premium-Windeln", "Maxi Plus Gr. 4+"]
+  },
+  {
+    "store": "billa",
+    "id": "00-858475",
+    "name": "Babywell Premium-Windeln Midi Gr. 3",
+    "category": "Windeln",
+    "subcategories": ["Premium-Windeln", "Midi Gr. 3"]
+  },
+  {
+    "store": "billa",
+    "id": "00-858471",
+    "name": "Babywell Premium-Windeln Mini Gr. 2",
+    "category": "Windeln",
+    "subcategories": ["Premium-Windeln", "Mini Gr. 2"]
+  },
+  {
+    "store": "billa",
+    "id": "00-923093",
+    "name": "Babywell Premium-Windeln Newborn Gr. 1",
+    "category": "Windeln",
+    "subcategories": ["Premium-Windeln", "Newborn Gr. 1"]
+  },
+  {
+    "store": "billa",
+    "id": "00-858498",
+    "name": "Babywell Premium-Windeln XXL Gr.6",
+    "category": "Windeln",
+    "subcategories": ["Premium-Windeln", "XXL Gr.6"]
+  },
+  {
+    "store": "billa",
+    "id": "00-858425",
+    "name": "Babywell Puder",
+    "category": "Babyartikel",
+    "subcategories": ["Puder"]
+  },
+  {
+    "store": "billa",
+    "id": "00-852785",
+    "name": "Babywell Reinigunswattepads 60 Stück",
+    "category": "Babyartikel",
+    "subcategories": ["Reinigunswattepads 60 Stück"]
+  },
+  {
+    "store": "billa",
+    "id": "00-529261",
+    "name": "Babywell Sensitiv Feuchttücher 4er",
+    "category": "Babyartikel",
+    "subcategories": ["Sensitiv Feuchttücher"]
+  },
+  {
+    "store": "billa",
+    "id": "00-858388",
+    "name": "Babywell Shampoo",
+    "category": "Babyartikel",
+    "subcategories": ["Shampoo"]
+  },
+  {
+    "store": "billa",
+    "id": "00-259276",
+    "name": "Babywell Sicherheitswattestäbchen",
+    "category": "Babyartikel",
+    "subcategories": ["Sicherheitswattestäbchen"]
+  },
+  {
+    "store": "billa",
+    "id": "00-858429",
+    "name": "Babywell Stilleinlagen",
+    "category": "Babyartikel",
+    "subcategories": ["Stilleinlagen"]
+  },
+  {
+    "store": "billa",
+    "id": "00-858441",
+    "name": "Babywell Wickelunterlage",
+    "category": "Babyartikel",
+    "subcategories": ["Wickelunterlage"]
+  },
+  {
+    "store": "billa",
+    "id": "00-621639",
+    "name": "Babywell Windelpants XXL Gr. 6",
+    "category": "Windeln",
+    "subcategories": ["Windelpants", "XXL Gr. 6"]
+  },
+  {
+    "store": "billa",
+    "id": "00-929602",
+    "name": "Eco By Naty Windeln Gr. 4",
+    "category": "Windeln",
+    "subcategories": ["Windeln", "Gr. 4"]
+  },
+  {
+    "store": "billa",
+    "id": "00-929603",
+    "name": "Eco By Naty Windeln Gr. 4+",
+    "category": "Windeln",
+    "subcategories": ["Windeln", "Gr. 4+"]
+  },
+  {
+    "store": "billa",
+    "id": "00-929604",
+    "name": "Eco By Naty Windeln Gr. 5",
+    "category": "Windeln",
+    "subcategories": ["Windeln", "Gr. 5"]
+  },
+  {
+    "store": "billa",
+    "id": "00-883734",
+    "name": "Hipp Ultra Sensitiv Tücher Gesicht & Hände",
+    "category": "Babyartikel",
+    "subcategories": ["Ultra Sensitiv Tücher", "Gesicht & Hände"]
+  },
+  {
+    "store": "billa",
+    "id": "00-664678",
+    "name": "Huggies DryNites Bettschutzeinlage",
+    "category": "Babyartikel",
+    "subcategories": ["DryNites", "Bettschutzeinlage"]
+  },
+  {
+    "store": "billa",
+    "id": "00-901986",
+    "name": "Huggies DryNites Boy Nachthöschen 4-7 Jahre",
+    "category": "Babyartikel",
+    "subcategories": ["DryNites", "Boy Nachthöschen"]
+  }
+]

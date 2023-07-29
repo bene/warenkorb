@@ -1,0 +1,710 @@
+[
+  {
+    "store": "spar",
+    "id": "2020004089885",
+    "name": "Eskimo Calippo Super Mix",
+    "category": "Eis",
+    "subcategories": ["Eissorten", "Eis am Stiel", "Super Mix"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004083265",
+    "name": "Eskimo Cookie Chocolate",
+    "category": "Eis",
+    "subcategories": ["Eissorten", "Eis am Stiel", "Cookie Chocolate"]
+  },
+  {
+    "store": "spar",
+    "id": "3971277",
+    "name": "Eskimo Cornetto Classico 6 Stück",
+    "category": "Eis",
+    "subcategories": ["Eissorten", "Eistüten", "Classico"]
+  },
+  {
+    "store": "spar",
+    "id": "3971246",
+    "name": "Eskimo Cornetto Erdbeer 6 Stück",
+    "category": "Eis",
+    "subcategories": ["Eissorten", "Eistüten", "Erdbeer"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004497796",
+    "name": "Eskimo Cornetto Soft Caramel & Hazelnut 4 x 140 ml",
+    "category": "Eis",
+    "subcategories": ["Eissorten", "Eistüten", "Soft Caramel & Hazelnut"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001016181",
+    "name": "Eskimo Cremissimo Banane Stracciatella Schokolade",
+    "category": "Eis",
+    "subcategories": [
+      "Eissorten",
+      "Cremissimo",
+      "Banane Stracciatella Schokolade"
+    ]
+  },
+  {
+    "store": "spar",
+    "id": "2020003703621",
+    "name": "Eskimo Cremissimo Bourbon Vanille",
+    "category": "Eis",
+    "subcategories": ["Eissorten", "Cremissimo", "Bourbon Vanille"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003264436",
+    "name": "Eskimo Cremissimo Erdbeer Joghurt",
+    "category": "Eis",
+    "subcategories": ["Eissorten", "Cremissimo", "Erdbeer Joghurt"]
+  },
+  {
+    "store": "spar",
+    "id": "3040072",
+    "name": "Eskimo Cremissimo Erdbeer Vanille",
+    "category": "Eis",
+    "subcategories": ["Eissorten", "Cremissimo", "Erdbeer Vanille"]
+  },
+  {
+    "store": "spar",
+    "id": "3069806",
+    "name": "Eskimo Cremissimo Haselnuss Vanille Schoko",
+    "category": "Eis",
+    "subcategories": ["Eissorten", "Cremissimo", "Haselnuss Vanille Schoko"]
+  },
+  {
+    "store": "spar",
+    "id": "8059215",
+    "name": "Eskimo Cremissimo Heidelbeer Traum",
+    "category": "Eis",
+    "subcategories": ["Eissorten", "Cremissimo", "Heidelbeer Traum"]
+  },
+  {
+    "store": "spar",
+    "id": "6401672",
+    "name": "Eskimo Cremissimo Himbeer Zitrone Erdbeer",
+    "category": "Eis",
+    "subcategories": ["Eissorten", "Cremissimo", "Himbeer Zitrone Erdbeer"]
+  },
+  {
+    "store": "spar",
+    "id": "3040065",
+    "name": "Eskimo Cremissimo Kaffee Vanille",
+    "category": "Eis",
+    "subcategories": ["Eissorten", "Cremissimo", "Kaffee Vanille"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003262128",
+    "name": "Eskimo Cremissimo Marille Himbeer Vanille",
+    "category": "Eis",
+    "subcategories": ["Eissorten", "Cremissimo", "Marille Himbeer Vanille"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004476685",
+    "name": "Eskimo Cremissimo Mascarpone Waldfrucht",
+    "category": "Eis",
+    "subcategories": ["Eissorten", "Cremissimo", "Mascarpone Waldfrucht"]
+  },
+  {
+    "store": "spar",
+    "id": "3069776",
+    "name": "Eskimo Cremissimo Pistazie-Vanille-Nougat",
+    "category": "Eis",
+    "subcategories": ["Eissorten", "Cremissimo", "Pistazie-Vanille-Nougat"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003711190",
+    "name": "Eskimo Cremissimo Salted Caramel",
+    "category": "Eis",
+    "subcategories": ["Eissorten", "Cremissimo", "Salted Caramel"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003703652",
+    "name": "Eskimo Cremissimo Schokoheld",
+    "category": "Eis",
+    "subcategories": ["Eissorten", "Cremissimo", "Schokoheld"]
+  },
+  {
+    "store": "spar",
+    "id": "5681921",
+    "name": "Eskimo Cremissimo Schwarzwälder Kirsch",
+    "category": "Eis",
+    "subcategories": ["Eissorten", "Cremissimo", "Schwarzwälder Kirsch"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004476715",
+    "name": "Eskimo Cremissimo Strawberry Cheesecake",
+    "category": "Eis",
+    "subcategories": ["Eissorten", "Cremissimo", "Strawberry Cheesecake"]
+  },
+  {
+    "store": "spar",
+    "id": "3040058",
+    "name": "Eskimo Cremissimo Vanille",
+    "category": "Eis",
+    "subcategories": ["Eissorten", "Cremissimo", "Vanille"]
+  },
+  {
+    "store": "spar",
+    "id": "6786588",
+    "name": "Eskimo Cremissimo Waldbeer Joghurt Marille",
+    "category": "Eis",
+    "subcategories": ["Eissorten", "Cremissimo", "Waldbeer Joghurt Marille"]
+  },
+  {
+    "store": "spar",
+    "id": "1184105",
+    "name": "Eskimo Cremissimo Walnuss",
+    "category": "Eis",
+    "subcategories": ["Eissorten", "Cremissimo", "Walnuss"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002312152",
+    "name": "Eskimo Cremissimo à la Erdbeer Combino",
+    "category": "Eis",
+    "subcategories": ["Eissorten", "Cremissimo", "à la Erdbeer Combino"]
+  },
+  {
+    "store": "spar",
+    "id": "4995968",
+    "name": "Eskimo Erdbeer Combino 6 Stück",
+    "category": "Eis",
+    "subcategories": ["Eissorten", "Erdbeer Combino"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004498229",
+    "name": "Eskimo Flutschfinger Flutschfinger 8 Stück",
+    "category": "Eis",
+    "subcategories": ["Eissorten", "Flutschfinger"]
+  },
+  {
+    "store": "spar",
+    "id": "4995999",
+    "name": "Eskimo Jolly 9 Stück",
+    "category": "Eis",
+    "subcategories": ["Eissorten", "Jolly"]
+  },
+  {
+    "store": "spar",
+    "id": "1171747",
+    "name": "Eskimo Magnum Classic 4 Stück",
+    "category": "Eis",
+    "subcategories": ["Eissorten", "Magnum", "Classic"]
+  },
+  {
+    "store": "spar",
+    "id": "1172133",
+    "name": "Eskimo Magnum Classic 8 Stück",
+    "category": "Eis",
+    "subcategories": ["Eissorten", "Magnum", "Classic"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004498021",
+    "name": "Eskimo Magnum Double Double Starchaser 4 x 85 ml",
+    "category": "Eis",
+    "subcategories": ["Eissorten", "Magnum", "Double Starchaser"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003704550",
+    "name": "Eskimo Magnum Double Gold Caramel Billionaire",
+    "category": "Eis",
+    "subcategories": ["Eissorten", "Magnum", "Double Gold Caramel Billionaire"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003703737",
+    "name": "Eskimo Magnum Double Gold Caramel Billionaire",
+    "category": "Eis",
+    "subcategories": ["Eissorten", "Magnum", "Double Gold Caramel Billionaire"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004476807",
+    "name": "Eskimo Magnum Double Starchaser",
+    "category": "Eis",
+    "subcategories": ["Eissorten", "Magnum", "Double Starchaser"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004476821",
+    "name": "Eskimo Magnum Double Sunlover",
+    "category": "Eis",
+    "subcategories": ["Eissorten", "Magnum", "Double Sunlover"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004498038",
+    "name": "Eskimo Magnum Double Sunlover 4 x 85 ml",
+    "category": "Eis",
+    "subcategories": ["Eissorten", "Magnum", "Double Sunlover"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002818692",
+    "name": "Eskimo Magnum Magnum Vegan Mandel",
+    "category": "Eis",
+    "subcategories": ["Eissorten", "Magnum", "Vegan Mandel"]
+  },
+  {
+    "store": "spar",
+    "id": "1171754",
+    "name": "Eskimo Magnum Mandel 4 Stück",
+    "category": "Eis",
+    "subcategories": ["Eissorten", "Magnum", "Mandel"]
+  },
+  {
+    "store": "spar",
+    "id": "1172140",
+    "name": "Eskimo Magnum Mandel 8 Stück",
+    "category": "Eis",
+    "subcategories": ["Eissorten", "Magnum", "Mandel"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002312251",
+    "name": "Eskimo Magnum Mandel im Becher",
+    "category": "Eis",
+    "subcategories": ["Eissorten", "Magnum", "Mandel"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002302122",
+    "name": "Eskimo Magnum Mania 8 Stück",
+    "category": "Eis",
+    "subcategories": ["Eissorten", "Magnum", "Mania"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002311216",
+    "name": "Eskimo Magnum Mini Almond 6 Stück",
+    "category": "Eis",
+    "subcategories": ["Eissorten", "Magnum Mini", "Almond"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002342579",
+    "name": "Eskimo Magnum Mini Classic + Almond + White 6 Stück",
+    "category": "Eis",
+    "subcategories": ["Eissorten", "Magnum Mini", "Classic", "Almond", "White"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004498168",
+    "name": "Eskimo Magnum Mini Vegan Classic & Almond 6 x 55 ml",
+    "category": "Eis",
+    "subcategories": ["Eissorten", "Magnum Mini", "Vegan", "Classic & Almond"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004497765",
+    "name": "Eskimo Magnum Vegan Raspberry Swirl 3 x 90 ml",
+    "category": "Eis",
+    "subcategories": ["Eissorten", "Magnum", "Vegan", "Raspberry Swirl"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003280405",
+    "name": "Eskimo Magnum White Chocolate Strawberry 4 Stück",
+    "category": "Eis",
+    "subcategories": ["Eissorten", "Magnum", "White Chocolate Strawberry"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003262074",
+    "name": "Eskimo Magnum Yoghurt & Raspberry 6 Stück 330ml",
+    "category": "Eis",
+    "subcategories": ["Eissorten", "Magnum", "Yoghurt & Raspberry"]
+  },
+  {
+    "store": "spar",
+    "id": "1183870",
+    "name": "Eskimo Nogger 6 Stück",
+    "category": "Eis",
+    "subcategories": ["Eissorten", "Nogger"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002817985",
+    "name": "Eskimo Schwimmbadhelden",
+    "category": "Eis",
+    "subcategories": ["Eissorten", "Schwimmbadhelden"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002312176",
+    "name": "Eskimo Tiramisu",
+    "category": "Eis",
+    "subcategories": ["Eissorten", "Tiramisu"]
+  },
+  {
+    "store": "spar",
+    "id": "2993300",
+    "name": "Eskimo Twinni 9 Stück",
+    "category": "Eis",
+    "subcategories": ["Eissorten", "Twinni"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004498045",
+    "name": "Eskimo Twister Monstaah 4 Stück",
+    "category": "Eis",
+    "subcategories": ["Eissorten", "Twister", "Monstaah"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004073426",
+    "name": "Eskimo VEGAN BOURBON VANILLA",
+    "category": "Eis",
+    "subcategories": ["Eissorten", "Vegan", "Bourbon Vanilla"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001687978",
+    "name": "Eskimo Viennetta Vanille 650ml",
+    "category": "Eis",
+    "subcategories": ["Eissorten", "Viennetta", "Vanille"]
+  },
+  {
+    "store": "spar",
+    "id": "5965212",
+    "name": "FW-Trading Junge Ente",
+    "category": "Fleisch",
+    "subcategories": ["Geflügel", "Junge Ente"]
+  },
+  {
+    "store": "spar",
+    "id": "5965281",
+    "name": "FW-Trading Junge Ente",
+    "category": "Fleisch",
+    "subcategories": ["Geflügel", "Junge Ente"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002190156",
+    "name": "Escal Premium-Hummer ganz + gekocht",
+    "category": "Fisch",
+    "subcategories": ["Krustentiere", "Premium-Hummer", "Gekocht"]
+  },
+  {
+    "store": "spar",
+    "id": "2020000965329",
+    "name": "Escal White Tiger Garnelen gekocht",
+    "category": "Fisch",
+    "subcategories": ["Krustentiere", "White Tiger Garnelen", "Gekocht"]
+  },
+  {
+    "store": "spar",
+    "id": "8015259",
+    "name": "Escal bio-Garnelen Kräuter-Knoblauch Würzung",
+    "category": "Fisch",
+    "subcategories": [
+      "Krustentiere",
+      "Bio-Garnelen",
+      "Kräuter-Knoblauch Würzung"
+    ]
+  },
+  {
+    "store": "spar",
+    "id": "6583163",
+    "name": "Escal bio-King Prawns",
+    "category": "Fisch",
+    "subcategories": ["Krustentiere", "Bio-King Prawns"]
+  },
+  {
+    "store": "spar",
+    "id": "1827798",
+    "name": "Erlenbacher Double Chocolate-Cake",
+    "category": "Backwaren",
+    "subcategories": ["Kuchen", "Double Chocolate-Cake"]
+  },
+  {
+    "store": "spar",
+    "id": "1826999",
+    "name": "Erlenbacher Erdbeer-Cheesecake",
+    "category": "Backwaren",
+    "subcategories": ["Kuchen", "Erdbeer-Cheesecake"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001190652",
+    "name": "Fabbri Amarena Kirschen in Sirup",
+    "category": "Konserven",
+    "subcategories": ["Früchte", "Amarena Kirschen", "Sirup"]
+  },
+  {
+    "store": "spar",
+    "id": "3276426",
+    "name": "Estermann Tafelöl",
+    "category": "Speiseöle",
+    "subcategories": ["Tafelöl"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004443809",
+    "name": "Everest Good Karma Curry Good Karma 70g",
+    "category": "Gewürze",
+    "subcategories": ["Curry", "Good Karma"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004443793",
+    "name": "Everest Tikka Masala Curry Paste Tikka Masala 70g",
+    "category": "Gewürze",
+    "subcategories": ["Curry Paste", "Tikka Masala"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002599232",
+    "name": "Exklusiv bei SPAR Österreichischer Qualitäts Honig",
+    "category": "Gewürze",
+    "subcategories": ["Honig", "Qualitäts Honig"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001217434",
+    "name": "Feinkost Leitinger Kalamata Oliven mit Stein",
+    "category": "Konserven",
+    "subcategories": ["Oliven", "Kalamata Oliven", "Mit Stein"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003418471",
+    "name": "Feinkost Leitinger Oliven Cocktail",
+    "category": "Konserven",
+    "subcategories": ["Oliven", "Oliven Cocktail"]
+  },
+  {
+    "store": "spar",
+    "id": "7787560",
+    "name": "Feinkost Leitinger Schwarze Oliven gefüllt mit Frischkäse",
+    "category": "Konserven",
+    "subcategories": ["Oliven", "Schwarze Oliven", "Gefüllt mit Frischkäse"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004691668",
+    "name": "Feinkost Leitinger Weinblätter gefüllt mit Reis",
+    "category": "Konserven",
+    "subcategories": ["Weinblätter", "Gefüllt mit Reis"]
+  },
+  {
+    "store": "spar",
+    "id": "5274895",
+    "name": "Felix Chili con Carne",
+    "category": "Fertiggerichte",
+    "subcategories": ["Chili con Carne"]
+  },
+  {
+    "store": "spar",
+    "id": "5246021",
+    "name": "Felix Chili con Carne",
+    "category": "Fertiggerichte",
+    "subcategories": ["Chili con Carne"]
+  },
+  {
+    "store": "spar",
+    "id": "5274802",
+    "name": "Felix Erdäpfelgulasch",
+    "category": "Fertiggerichte",
+    "subcategories": ["Erdäpfelgulasch"]
+  },
+  {
+    "store": "spar",
+    "id": "7181290",
+    "name": "Felix Erdäpfelgulasch",
+    "category": "Fertiggerichte",
+    "subcategories": ["Erdäpfelgulasch"]
+  },
+  {
+    "store": "spar",
+    "id": "7177651",
+    "name": "Felix Fleischravioli",
+    "category": "Fertiggerichte",
+    "subcategories": ["Fleischravioli"]
+  },
+  {
+    "store": "spar",
+    "id": "5577637",
+    "name": "Felix Gulaschsuppe",
+    "category": "Fertiggerichte",
+    "subcategories": ["Gulaschsuppe"]
+  },
+  {
+    "store": "spar",
+    "id": "7182662",
+    "name": "Felix Höllenfeuer Chili con Carne",
+    "category": "Fertiggerichte",
+    "subcategories": ["Chili con Carne", "Höllenfeuer"]
+  },
+  {
+    "store": "spar",
+    "id": "5897278",
+    "name": "Felix Linsen im Speck",
+    "category": "Fertiggerichte",
+    "subcategories": ["Linsen", "Im Speck"]
+  },
+  {
+    "store": "spar",
+    "id": "7180729",
+    "name": "Felix Linsen mit Speck",
+    "category": "Fertiggerichte",
+    "subcategories": ["Linsen", "Mit Speck"]
+  },
+  {
+    "store": "spar",
+    "id": "345903",
+    "name": "Eselmehl Weizenmehl W480 glatt",
+    "category": "Mehl",
+    "subcategories": ["Weizenmehl", "W480 glatt"]
+  },
+  {
+    "store": "spar",
+    "id": "345408",
+    "name": "Eselmehl Weizenmehl W480 griffig",
+    "category": "Mehl",
+    "subcategories": ["Weizenmehl", "W480 griffig"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003913983",
+    "name": "Exklusiv bei SPAR NUSSYY Bio Polenta mit Steinpilzen",
+    "category": "Mehl",
+    "subcategories": ["Polenta", "Bio", "Mit Steinpilzen"]
+  },
+  {
+    "store": "spar",
+    "id": "5821631",
+    "name": "Farina Farina Polenta Polenta 1 kg",
+    "category": "Mehl",
+    "subcategories": ["Polenta"]
+  },
+  {
+    "store": "spar",
+    "id": "242561",
+    "name": "Farina Goldgrieß 500G",
+    "category": "Mehl",
+    "subcategories": ["Goldgrieß"]
+  },
+  {
+    "store": "spar",
+    "id": "2986678",
+    "name": "Farina Weizenmehl glatt W 480 1KG",
+    "category": "Mehl",
+    "subcategories": ["Weizenmehl", "Glatt", "W480"]
+  },
+  {
+    "store": "spar",
+    "id": "903684",
+    "name": "Farina Weizenmehl universal W 480 1KG",
+    "category": "Mehl",
+    "subcategories": ["Weizenmehl", "Universal", "W480"]
+  },
+  {
+    "store": "spar",
+    "id": "119757",
+    "name": "Farina Weizenmehl universal W 480 2,5KG",
+    "category": "Mehl",
+    "subcategories": ["Weizenmehl", "Universal", "W480"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004369758",
+    "name": "Felicia Bio-Vollkornreis Farfalle glutenfrei",
+    "category": "Getreideprodukte",
+    "subcategories": ["Bio-Vollkornreis", "Farfalle", "Glutenfrei"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004379320",
+    "name": "Felicia Mezzi Rigatoni Bio Vollkornhafer glutenfrei",
+    "category": "Getreideprodukte",
+    "subcategories": ["Mezzi Rigatoni", "Bio Vollkornhafer", "Glutenfrei"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003403422",
+    "name": "Exotic Food Fischsauce 70% Sardellenextrakt",
+    "category": "Soßen",
+    "subcategories": ["Fischsauce", "Sardellenextrakt"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003746628",
+    "name": "Felix American Sauce",
+    "category": "Soßen",
+    "subcategories": ["American Sauce"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003381683",
+    "name": "Felix BBQ-Original Sauce",
+    "category": "Soßen",
+    "subcategories": ["BBQ-Original Sauce"]
+  },
+  {
+    "store": "spar",
+    "id": "2020000619819",
+    "name": "Felix Bio Ketchup pur",
+    "category": "Soßen",
+    "subcategories": ["Bio Ketchup", "Ketchup pur"]
+  },
+  {
+    "store": "spar",
+    "id": "2020000620044",
+    "name": "Felix Bio-Tomaten-Ketchup zucker- und salzreduziert",
+    "category": "Soßen",
+    "subcategories": ["Bio-Tomaten-Ketchup", "Zucker- und salzreduziert"]
+  },
+  {
+    "store": "spar",
+    "id": "3586921",
+    "name": "Felix Hot Ketchup",
+    "category": "Soßen",
+    "subcategories": ["Hot Ketchup"]
+  },
+  {
+    "store": "spar",
+    "id": "1457964",
+    "name": "Felix Hot Ketchup ohne Zuckerzusatz",
+    "category": "Soßen",
+    "subcategories": ["Hot Ketchup", "Ohne Zuckerzusatz"]
+  },
+  {
+    "store": "spar",
+    "id": "7286483",
+    "name": "Felix Höllenfeuer Ketchup extra scharf",
+    "category": "Soßen",
+    "subcategories": ["Höllenfeuer Ketchup", "Extra scharf"]
+  },
+  {
+    "store": "spar",
+    "id": "1002218",
+    "name": "Felix Höllenfeuer Shot 130g",
+    "category": "Soßen",
+    "subcategories": ["Höllenfeuer Shot"]
+  },
+  {
+    "store": "spar",
+    "id": "6520151",
+    "name": "Felix Ketchup hot",
+    "category": "Soßen",
+    "subcategories": ["Ketchup", "Hot"]
+  },
+  {
+    "store": "spar",
+    "id": "136556",
+    "name": "Felix Ketchup mild",
+    "category": "Soßen",
+    "subcategories": ["Ketchup", "Mild"]
+  }
+]

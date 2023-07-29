@@ -1,0 +1,706 @@
+[
+  {
+    "store": "spar",
+    "id": "5372607",
+    "name": "BEN’s ORIGINAL Sauce Süß-Sauer extra Ananas 400G",
+    "category": "Sauce",
+    "subcategories": ["Ananas", "Süß-Sauer"]
+  },
+  {
+    "store": "spar",
+    "id": "643283",
+    "name": "BEN’s ORIGINAL Sauce Süß-Sauer extra Gemüse 400G",
+    "category": "Sauce",
+    "subcategories": ["Gemüse", "Süß-Sauer"]
+  },
+  {
+    "store": "spar",
+    "id": "6210991",
+    "name": "BEN’s ORIGINAL Sauce rotes cremiges Curry 400G",
+    "category": "Sauce",
+    "subcategories": ["Curry"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002405243",
+    "name": "Barilla Bio-Sugo Basilikum",
+    "category": "Sauce",
+    "subcategories": ["Basilikum"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004297501",
+    "name": "Barilla Bolognese Soja vegan",
+    "category": "Sauce",
+    "subcategories": ["Bolognese", "Soja", "vegan"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003423659",
+    "name": "Barilla Pesto Basil e Peperoncino",
+    "category": "Sauce",
+    "subcategories": ["Pesto", "Basil", "Peperoncino"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002682972",
+    "name": "Barilla Pesto Basilico Vegan",
+    "category": "Sauce",
+    "subcategories": ["Pesto", "Basilico", "vegan"]
+  },
+  {
+    "store": "spar",
+    "id": "2020000832157",
+    "name": "Barilla Pesto Basilico e Rucola",
+    "category": "Sauce",
+    "subcategories": ["Pesto", "Basilico", "Rucola"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004297549",
+    "name": "Barilla Pesto Pistacchio",
+    "category": "Sauce",
+    "subcategories": ["Pesto", "Pistacchio"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002683191",
+    "name": "Barilla Pesto Pomodori Secchi",
+    "category": "Sauce",
+    "subcategories": ["Pesto", "Pomodori Secchi"]
+  },
+  {
+    "store": "spar",
+    "id": "5720231",
+    "name": "Barilla Pesto Rosso",
+    "category": "Sauce",
+    "subcategories": ["Pesto", "Rosso"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004297563",
+    "name": "Barilla Pesto Rustico  Basilico e Olive",
+    "category": "Sauce",
+    "subcategories": ["Pesto", "Rustico", "Basilico", "Olive"]
+  },
+  {
+    "store": "spar",
+    "id": "4066668",
+    "name": "Barilla Pesto Siciliana",
+    "category": "Sauce",
+    "subcategories": ["Pesto", "Siciliana"]
+  },
+  {
+    "store": "spar",
+    "id": "4684459",
+    "name": "Barilla Pesto alla Calabrese",
+    "category": "Sauce",
+    "subcategories": ["Pesto", "alla Calabrese"]
+  },
+  {
+    "store": "spar",
+    "id": "4684442",
+    "name": "Barilla Pesto alla Genovese",
+    "category": "Sauce",
+    "subcategories": ["Pesto", "alla Genovese"]
+  },
+  {
+    "store": "spar",
+    "id": "3188705",
+    "name": "Barilla Sugo Arrabiata",
+    "category": "Sauce",
+    "subcategories": ["Sugo", "Arrabiata"]
+  },
+  {
+    "store": "spar",
+    "id": "3188668",
+    "name": "Barilla Sugo Basilico",
+    "category": "Sauce",
+    "subcategories": ["Sugo", "Basilico"]
+  },
+  {
+    "store": "spar",
+    "id": "842938",
+    "name": "Barilla Sugo Bolognese",
+    "category": "Sauce",
+    "subcategories": ["Sugo", "Bolognese"]
+  },
+  {
+    "store": "spar",
+    "id": "3188675",
+    "name": "Barilla Sugo Napoletana",
+    "category": "Sauce",
+    "subcategories": ["Sugo", "Napoletana"]
+  },
+  {
+    "store": "spar",
+    "id": "3188699",
+    "name": "Barilla Sugo Olive",
+    "category": "Sauce",
+    "subcategories": ["Sugo", "Olive"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003135873",
+    "name": "Barilla Sugo Pomodoro",
+    "category": "Sauce",
+    "subcategories": ["Sugo", "Pomodoro"]
+  },
+  {
+    "store": "spar",
+    "id": "4684480",
+    "name": "Barilla Sugo Pomodoro Ricotta",
+    "category": "Sauce",
+    "subcategories": ["Sugo", "Pomodoro", "Ricotta"]
+  },
+  {
+    "store": "spar",
+    "id": "2020000832140",
+    "name": "Barilla Sugo Toscana Kräuter",
+    "category": "Sauce",
+    "subcategories": ["Sugo", "Toscana", "Kräuter"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002405335",
+    "name": "Barilla Sugo Zucchine & gegrilltes Gemüse",
+    "category": "Sauce",
+    "subcategories": ["Sugo", "Zucchine", "gegrilltes Gemüse"]
+  },
+  {
+    "store": "spar",
+    "id": "3839119",
+    "name": "Baktat Popcorn Mais",
+    "category": "Mais",
+    "subcategories": []
+  },
+  {
+    "store": "spar",
+    "id": "2798080",
+    "name": "Bahlsen Messino Edelherb",
+    "category": "Kekse",
+    "subcategories": ["Messino", "Edelherb"]
+  },
+  {
+    "store": "spar",
+    "id": "2798097",
+    "name": "Bahlsen Messino Vollmilch",
+    "category": "Kekse",
+    "subcategories": ["Messino", "Vollmilch"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004311795",
+    "name": "Bahlsen Nutella Biscuit",
+    "category": "Kekse",
+    "subcategories": ["Nutella"]
+  },
+  {
+    "store": "spar",
+    "id": "2798219",
+    "name": "Bahlsen Ohne Gleichen Edelherb",
+    "category": "Kekse",
+    "subcategories": ["Ohne Gleichen", "Edelherb"]
+  },
+  {
+    "store": "spar",
+    "id": "2798226",
+    "name": "Bahlsen Ohne Gleichen Vollmilch",
+    "category": "Kekse",
+    "subcategories": ["Ohne Gleichen", "Vollmilch"]
+  },
+  {
+    "store": "spar",
+    "id": "4733577",
+    "name": "Bahlsen Pick Up Choco & Milk 5 x 28g",
+    "category": "Kekse",
+    "subcategories": ["Pick Up", "Choco", "Milk"]
+  },
+  {
+    "store": "spar",
+    "id": "4733546",
+    "name": "Bahlsen Pick Up Choco 5 x 28g",
+    "category": "Kekse",
+    "subcategories": ["Pick Up", "Choco"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004069948",
+    "name": "Bahlsen Pick Up dark",
+    "category": "Kekse",
+    "subcategories": ["Pick Up", "dark"]
+  },
+  {
+    "store": "spar",
+    "id": "2020000985501",
+    "name": "Bahlsen Rekord Gebäckmischung",
+    "category": "Kekse",
+    "subcategories": ["Rekord", "Gebäckmischung"]
+  },
+  {
+    "store": "spar",
+    "id": "2020000985532",
+    "name": "Bahlsen Rekord Waffelmischung",
+    "category": "Kekse",
+    "subcategories": ["Rekord", "Waffelmischung"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004214706",
+    "name": "Bahlsen Waffeletten",
+    "category": "Kekse",
+    "subcategories": ["Waffeletten"]
+  },
+  {
+    "store": "spar",
+    "id": "2798240",
+    "name": "Bahlsen Waffeletten Vollmilch",
+    "category": "Kekse",
+    "subcategories": ["Waffeletten", "Vollmilch"]
+  },
+  {
+    "store": "spar",
+    "id": "6398019",
+    "name": "Baileys Original Irish Cream Truffles",
+    "category": "Süßigkeiten",
+    "subcategories": ["Baileys", "Irish Cream", "Truffles"]
+  },
+  {
+    "store": "spar",
+    "id": "3092071",
+    "name": "Balisto Korn 6 x 18,5g",
+    "category": "Süßigkeiten",
+    "subcategories": ["Balisto", "Korn"]
+  },
+  {
+    "store": "spar",
+    "id": "3092064",
+    "name": "Balisto Müsli 6 x 18,5g",
+    "category": "Süßigkeiten",
+    "subcategories": ["Balisto", "Müsli"]
+  },
+  {
+    "store": "spar",
+    "id": "3092040",
+    "name": "Balisto Yoberry 6 x 18,5g",
+    "category": "Süßigkeiten",
+    "subcategories": ["Balisto", "Yoberry"]
+  },
+  {
+    "store": "spar",
+    "id": "1232486",
+    "name": "Bambi Lane Biscuits",
+    "category": "Kekse",
+    "subcategories": ["Bambi Lane", "Biscuits"]
+  },
+  {
+    "store": "spar",
+    "id": "2020000539926",
+    "name": "Bambi Lane Kekse gemahlen",
+    "category": "Kekse",
+    "subcategories": ["Bambi Lane", "Kekse", "gemahlen"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003705076",
+    "name": "Barbecue BBQ Grillbesteckset 2 tlg., Edelstahl",
+    "category": "Grillzubehör",
+    "subcategories": ["Grillbesteckset", "Edelstahl"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001650002",
+    "name": "Barbecue Gemüsekorb",
+    "category": "Grillzubehör",
+    "subcategories": ["Gemüsekorb"]
+  },
+  {
+    "store": "spar",
+    "id": "6286293",
+    "name": "Barbecue Grill- und Kaminanzünder 48 Stk.",
+    "category": "Grillzubehör",
+    "subcategories": ["Grill- und Kaminanzünder"]
+  },
+  {
+    "store": "spar",
+    "id": "8188311",
+    "name": "Barbecue Grillbriketts",
+    "category": "Grillzubehör",
+    "subcategories": ["Grillbriketts"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001709380",
+    "name": "Barbecue Grillbürste 3in1",
+    "category": "Grillzubehör",
+    "subcategories": ["Grillbürste", "3in1"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002715298",
+    "name": "Barbecue Grillbürste Stahl",
+    "category": "Grillzubehör",
+    "subcategories": ["Grillbürste", "Stahl"]
+  },
+  {
+    "store": "spar",
+    "id": "7875618",
+    "name": "Barbecue Grillkohle 3 kg",
+    "category": "Grillzubehör",
+    "subcategories": ["Grillkohle"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002524487",
+    "name": "Barbecue Grillmatte 3 Stück",
+    "category": "Grillzubehör",
+    "subcategories": ["Grillmatte"]
+  },
+  {
+    "store": "spar",
+    "id": "1287523",
+    "name": "Barefoot Cabernet Sauvignon",
+    "category": "Wein",
+    "subcategories": ["Barefoot", "Cabernet Sauvignon"]
+  },
+  {
+    "store": "spar",
+    "id": "2020000563679",
+    "name": "Barefoot Merlot",
+    "category": "Wein",
+    "subcategories": ["Barefoot", "Merlot"]
+  },
+  {
+    "store": "spar",
+    "id": "1287530",
+    "name": "Barefoot Moscato",
+    "category": "Wein",
+    "subcategories": ["Barefoot", "Moscato"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004251213",
+    "name": "Barefoot Pink Moscato",
+    "category": "Wein",
+    "subcategories": ["Barefoot", "Pink Moscato"]
+  },
+  {
+    "store": "spar",
+    "id": "2020000564508",
+    "name": "Barefoot Pinot Grigio",
+    "category": "Wein",
+    "subcategories": ["Barefoot", "Pinot Grigio"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004273727",
+    "name": "Barebells Proteinriegel Chocolate Dough",
+    "category": "Proteinriegel",
+    "subcategories": ["Barebells", "Proteinriegel", "Chocolate Dough"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004382856",
+    "name": "Barebells Proteinriegel Marshmallow Rocky Road",
+    "category": "Proteinriegel",
+    "subcategories": ["Barebells", "Proteinriegel", "Marshmallow Rocky Road"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003660184",
+    "name": "Barebells Proteinriegel Salty Peanut",
+    "category": "Proteinriegel",
+    "subcategories": ["Barebells", "Proteinriegel", "Salty Peanut"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004024930",
+    "name": "Barebells Proteinriegel White Salty Peanut",
+    "category": "Proteinriegel",
+    "subcategories": ["Barebells", "Proteinriegel", "White Salty Peanut"]
+  },
+  {
+    "store": "spar",
+    "id": "5021581",
+    "name": "Barbecue Grillschale eckig 5er",
+    "category": "Grillzubehör",
+    "subcategories": ["Grillschale", "eckig"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002715267",
+    "name": "Barbecue Grillthermometer kabellos",
+    "category": "Grillzubehör",
+    "subcategories": ["Grillthermometer", "kabellos"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003059070",
+    "name": "Barbecue Picknick Grill",
+    "category": "Grillzubehör",
+    "subcategories": ["Picknick Grill"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001526499",
+    "name": "Barbecue Pizza Set",
+    "category": "Grillzubehör",
+    "subcategories": ["Pizza Set"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001986743",
+    "name": "Barbecue Räucherbretter",
+    "category": "Grillzubehör",
+    "subcategories": ["Räucherbretter"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002272982",
+    "name": "Barbecue Smoker Box",
+    "category": "Grillzubehör",
+    "subcategories": ["Smoker Box"]
+  },
+  {
+    "store": "spar",
+    "id": "1995008",
+    "name": "Barbecue Öko Grill-und Kaminanzünder 36 Stück",
+    "category": "Grillzubehör",
+    "subcategories": ["Öko Grill-und Kaminanzünder"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004683212",
+    "name": "Barbie Rote Traube + stilles Wasser",
+    "category": "Getränke",
+    "subcategories": ["Rote Traube", "stilles Wasser"]
+  },
+  {
+    "store": "spar",
+    "id": "7429439",
+    "name": "Barbossa 0,7 L",
+    "category": "Rum",
+    "subcategories": []
+  },
+  {
+    "store": "spar",
+    "id": "7623660",
+    "name": "Barbossa Spiced Gold",
+    "category": "Rum",
+    "subcategories": ["Spiced Gold"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002932695",
+    "name": "Barcelo Imperial Onyx",
+    "category": "Rum",
+    "subcategories": ["Imperial Onyx"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003214790",
+    "name": "Barebells Protein-Milchshake Banane",
+    "category": "Proteinshake",
+    "subcategories": ["Barebells", "Protein-Milchshake", "Banane"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004382788",
+    "name": "Barebells Proteinriegel Caramel Choco",
+    "category": "Proteinriegel",
+    "subcategories": ["Barebells", "Proteinriegel", "Caramel Choco"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003215278",
+    "name": "Barebells Proteinriegel Cashew Caramel",
+    "category": "Proteinriegel",
+    "subcategories": ["Barebells", "Proteinriegel", "Cashew Caramel"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003215247",
+    "name": "Barebells Proteinriegel Hazelnut Nougat",
+    "category": "Proteinriegel",
+    "subcategories": ["Barebells", "Proteinriegel", "Hazelnut Nougat"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003215216",
+    "name": "Barebells Proteinriegel Salty Peanut",
+    "category": "Proteinriegel",
+    "subcategories": ["Barebells", "Proteinriegel", "Salty Peanut"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003214851",
+    "name": "Barebells Proteinriegel White Chocolate Almond",
+    "category": "Proteinriegel",
+    "subcategories": ["Barebells", "Proteinriegel", "White Chocolate Almond"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004548542",
+    "name": "Barebells Soft Proteinriegel Salted Peanut Caramel",
+    "category": "Proteinriegel",
+    "subcategories": [
+      "Barebells",
+      "Soft Proteinriegel",
+      "Salted Peanut Caramel"
+    ]
+  },
+  {
+    "store": "spar",
+    "id": "2020003890284",
+    "name": "Barilla Mulino Bianco Abbracci 350g",
+    "category": "Kekse",
+    "subcategories": ["Mulino Bianco", "Abbracci"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003890406",
+    "name": "Barilla Mulino Bianco Batticuori",
+    "category": "Kekse",
+    "subcategories": ["Mulino Bianco", "Batticuori"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003328978",
+    "name": "Barilla Mulino Bianco Galletti",
+    "category": "Kekse",
+    "subcategories": ["Mulino Bianco", "Galletti"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003710506",
+    "name": "Barilla Mulino Bianco Nascondini",
+    "category": "Kekse",
+    "subcategories": ["Mulino Bianco", "Nascondini"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003329029",
+    "name": "Barilla Mulino Bianco Tarallucci",
+    "category": "Kekse",
+    "subcategories": ["Mulino Bianco", "Tarallucci"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004369734",
+    "name": "BEAUTY KISS Haarspray Extra starker Halt 300 ml",
+    "category": "Haarpflege",
+    "subcategories": ["Haarspray", "Extra starker Halt"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004369741",
+    "name": "BEAUTY KISS Haarspray Ultra starker Halt 300 ml",
+    "category": "Haarpflege",
+    "subcategories": ["Haarspray", "Ultra starker Halt"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002627522",
+    "name": "BEAUTY KISS Men 2in1 Wax für Haare & Bart 75ml",
+    "category": "Haarpflege",
+    "subcategories": ["Men", "Wax", "Haare", "Bart"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002624644",
+    "name": "BEAUTY KISS Shampoo Anti Fett 300ml",
+    "category": "Haarpflege",
+    "subcategories": ["Shampoo", "Anti Fett"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002624620",
+    "name": "BEAUTY KISS Shampoo Everyday 300ml",
+    "category": "Haarpflege",
+    "subcategories": ["Shampoo", "Everyday"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002624743",
+    "name": "BEAUTY KISS Shampoo Repair Effect 300ml",
+    "category": "Haarpflege",
+    "subcategories": ["Shampoo", "Repair Effect"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002664206",
+    "name": "BEAUTY KISS Styling Gel X-tra Strong hold 250 ml",
+    "category": "Haarpflege",
+    "subcategories": ["Styling Gel", "X-tra Strong hold"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004437587",
+    "name": "BEAUTY KISS Trockenshampoo Classic 200ml",
+    "category": "Haarpflege",
+    "subcategories": ["Trockenshampoo", "Classic"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004437600",
+    "name": "BEAUTY KISS Trockenshampoo Fresh Flower 200ml",
+    "category": "Haarpflege",
+    "subcategories": ["Trockenshampoo", "Fresh Flower"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002885991",
+    "name": "BEAUTY KISS Hand & Nagel Balsam 125ml",
+    "category": "Handpflege",
+    "subcategories": ["Hand & Nagel Balsam"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002911584",
+    "name": "BEAUTY KISS Handcreme Q10 100 ml",
+    "category": "Handpflege",
+    "subcategories": ["Handcreme", "Q10"]
+  },
+  {
+    "store": "spar",
+    "id": "5938919",
+    "name": "BEAUTY KISS Lip Balm Classic 4,8g",
+    "category": "Lippenpflege",
+    "subcategories": ["Lip Balm", "Classic"]
+  },
+  {
+    "store": "spar",
+    "id": "5940288",
+    "name": "BEAUTY KISS Lip Balm Pearl & Shine 4,8g",
+    "category": "Lippenpflege",
+    "subcategories": ["Lip Balm", "Pearl & Shine"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001635245",
+    "name": "BEAUTY KISS Lip Balm Protect 4,8g",
+    "category": "Lippenpflege",
+    "subcategories": ["Lip Balm", "Protect"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002795108",
+    "name": "BEAUTY KISS Wattepads 100 Stück",
+    "category": "Hygieneprodukte",
+    "subcategories": ["Wattepads"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003567810",
+    "name": "BEAUTY KISS Wattestäbchen 300 Stück",
+    "category": "Hygieneprodukte",
+    "subcategories": ["Wattestäbchen"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003567827",
+    "name": "BEAUTY KISS Wattestäbchen Nachfüllung 160 Stück",
+    "category": "Hygieneprodukte",
+    "subcategories": ["Wattestäbchen", "Nachfüllung"]
+  }
+]

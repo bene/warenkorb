@@ -1,0 +1,660 @@
+[
+  {
+    "store": "billa",
+    "id": "00-593249",
+    "name": "BILLA Bio Zarter Brokkoli",
+    "category": "Gemüse",
+    "subcategories": ["Brokkoli"]
+  },
+  {
+    "store": "billa",
+    "id": "00-696599",
+    "name": "BILLA Dille",
+    "category": "Kräuter",
+    "subcategories": ["Dill"]
+  },
+  {
+    "store": "billa",
+    "id": "00-530139",
+    "name": "BILLA Edamame",
+    "category": "Gemüse",
+    "subcategories": ["Edamame"]
+  },
+  {
+    "store": "billa",
+    "id": "00-530140",
+    "name": "BILLA Farmergemüse",
+    "category": "Gemüse",
+    "subcategories": ["Gemüsemischung", "Farmersgemüse"]
+  },
+  {
+    "store": "billa",
+    "id": "00-409710",
+    "name": "BILLA Feine Mischung",
+    "category": "Gemüse",
+    "subcategories": ["Gemüsemischung"]
+  },
+  {
+    "store": "billa",
+    "id": "00-498034",
+    "name": "BILLA Gartenmischung",
+    "category": "Gemüse",
+    "subcategories": ["Gemüsemischung", "Gartenmischung"]
+  },
+  {
+    "store": "billa",
+    "id": "00-386778",
+    "name": "BILLA Italienische Kräuter",
+    "category": "Kräuter",
+    "subcategories": ["Italienische Kräuter"]
+  },
+  {
+    "store": "billa",
+    "id": "00-386786",
+    "name": "BILLA Knoblauch",
+    "category": "Gemüse",
+    "subcategories": ["Knoblauch"]
+  },
+  {
+    "store": "billa",
+    "id": "00-696596",
+    "name": "BILLA Petersilie",
+    "category": "Kräuter",
+    "subcategories": ["Petersilie"]
+  },
+  {
+    "store": "billa",
+    "id": "00-696597",
+    "name": "BILLA Schnittlauch",
+    "category": "Kräuter",
+    "subcategories": ["Schnittlauch"]
+  },
+  {
+    "store": "billa",
+    "id": "00-530142",
+    "name": "BILLA Sonnengemüse",
+    "category": "Gemüse",
+    "subcategories": ["Gemüsemischung", "Sonnengemüse"]
+  },
+  {
+    "store": "billa",
+    "id": "00-529314",
+    "name": "BILLA Suppengemüse",
+    "category": "Gemüse",
+    "subcategories": ["Gemüsemischung", "Suppengemüse"]
+  },
+  {
+    "store": "billa",
+    "id": "00-498036",
+    "name": "BILLA Vitalmischung",
+    "category": "Gemüse",
+    "subcategories": ["Gemüsemischung", "Vitalmischung"]
+  },
+  {
+    "store": "billa",
+    "id": "00-489499",
+    "name": "Clever Blattspinat",
+    "category": "Gemüse",
+    "subcategories": ["Blattspinat"]
+  },
+  {
+    "store": "billa",
+    "id": "00-504077",
+    "name": "Clever Brokkoli",
+    "category": "Gemüse",
+    "subcategories": ["Brokkoli"]
+  },
+  {
+    "store": "billa",
+    "id": "00-260832",
+    "name": "Clever Buttergemüse",
+    "category": "Gemüse",
+    "subcategories": ["Gemüsemischung", "Buttergemüse"]
+  },
+  {
+    "store": "billa",
+    "id": "00-882281",
+    "name": "Clever Cremespinat",
+    "category": "Gemüse",
+    "subcategories": ["Cremespinat"]
+  },
+  {
+    "store": "billa",
+    "id": "00-488970",
+    "name": "Clever Junge Erbsen",
+    "category": "Gemüse",
+    "subcategories": ["Erbsen"]
+  },
+  {
+    "store": "billa",
+    "id": "00-489496",
+    "name": "Clever Junge Fisolen",
+    "category": "Gemüse",
+    "subcategories": ["Fisolen"]
+  },
+  {
+    "store": "billa",
+    "id": "00-504079",
+    "name": "Clever Kaisergemüse",
+    "category": "Gemüse",
+    "subcategories": ["Gemüsemischung", "Kaisergemüse"]
+  },
+  {
+    "store": "billa",
+    "id": "00-528084",
+    "name": "Clever Karfiol",
+    "category": "Gemüse",
+    "subcategories": ["Karfiol"]
+  },
+  {
+    "store": "billa",
+    "id": "00-527944",
+    "name": "Clever Mexikogemüse",
+    "category": "Gemüse",
+    "subcategories": ["Gemüsemischung", "Mexikogemüse"]
+  },
+  {
+    "store": "billa",
+    "id": "00-476643",
+    "name": "Clever Pfannengemüse Italienischer Art",
+    "category": "Gemüse",
+    "subcategories": ["Pfannengemüse", "Italienischer Art"]
+  },
+  {
+    "store": "billa",
+    "id": "00-504192",
+    "name": "Clever Pusztagemüse",
+    "category": "Gemüse",
+    "subcategories": ["Pusztagemüse"]
+  },
+  {
+    "store": "billa",
+    "id": "00-882152",
+    "name": "Clever Rotkraut",
+    "category": "Gemüse",
+    "subcategories": ["Rotkraut"]
+  },
+  {
+    "store": "billa",
+    "id": "00-504189",
+    "name": "Clever Sommergemüse",
+    "category": "Gemüse",
+    "subcategories": ["Gemüsemischung", "Sommergemüse"]
+  },
+  {
+    "store": "billa",
+    "id": "00-504080",
+    "name": "Clever Wok Gemüse",
+    "category": "Gemüse",
+    "subcategories": ["Gemüsemischung", "Wok Gemüse"]
+  },
+  {
+    "store": "billa",
+    "id": "00-499332",
+    "name": "Followfood Bio-Brokkoli-Reis",
+    "category": "Gemüse",
+    "subcategories": ["Brokkoli", "Reis"]
+  },
+  {
+    "store": "billa",
+    "id": "00-478496",
+    "name": "Followfood Bio-Karfiol-Reis",
+    "category": "Gemüse",
+    "subcategories": ["Karfiol", "Reis"]
+  },
+  {
+    "store": "billa",
+    "id": "00-719416",
+    "name": "Frosta Gemüse Beilage Gelbe Karotten & Grüner Spargel",
+    "category": "Gemüse",
+    "subcategories": ["Gemüsemischung", "Gelbe Karotten", "Grüner Spargel"]
+  },
+  {
+    "store": "billa",
+    "id": "00-815817",
+    "name": "Frosta Gemüse Bowl Cremiges Linsen Curry",
+    "category": "Gemüse",
+    "subcategories": ["Gemüsemischung", "Linsen Curry"]
+  },
+  {
+    "store": "billa",
+    "id": "00-822529",
+    "name": "Frosta Gemüse Bowl Gegrillte Zucchini",
+    "category": "Gemüse",
+    "subcategories": ["Gemüsemischung", "Gegrillte Zucchini"]
+  },
+  {
+    "store": "billa",
+    "id": "00-776547",
+    "name": "Frosta Gemüse Bowl Milder Blumenkohlreis",
+    "category": "Gemüse",
+    "subcategories": ["Gemüsemischung", "Blumenkohlreis"]
+  },
+  {
+    "store": "billa",
+    "id": "00-820870",
+    "name": "Frosta Gemüse Bowl Pikanter Bulgur",
+    "category": "Gemüse",
+    "subcategories": ["Gemüsemischung", "Pikanter Bulgur"]
+  },
+  {
+    "store": "billa",
+    "id": "00-822518",
+    "name": "Frosta Gemüse Bowl Würzige Falafel",
+    "category": "Gemüse",
+    "subcategories": ["Gemüsemischung", "Würzige Falafel"]
+  },
+  {
+    "store": "billa",
+    "id": "00-756024",
+    "name": "Frosta Gemüse Mix Asiatische Küche",
+    "category": "Gemüse",
+    "subcategories": ["Gemüsemischung", "Asiatische Küche"]
+  },
+  {
+    "store": "billa",
+    "id": "00-716255",
+    "name": "Frosta Gemüse Mix Mediterrane Küche",
+    "category": "Gemüse",
+    "subcategories": ["Gemüsemischung", "Mediterrane Küche"]
+  },
+  {
+    "store": "billa",
+    "id": "00-757651",
+    "name": "Frosta Gemüse Pfanne Asia Curry",
+    "category": "Gemüse",
+    "subcategories": ["Pfannengemüse", "Asia Curry"]
+  },
+  {
+    "store": "billa",
+    "id": "00-680783",
+    "name": "Frosta Gemüse Pfanne Curry Kokos",
+    "category": "Gemüse",
+    "subcategories": ["Pfannengemüse", "Curry Kokos"]
+  },
+  {
+    "store": "billa",
+    "id": "00-799966",
+    "name": "Frosta Gemüse Pfanne Italia Tradizionale",
+    "category": "Gemüse",
+    "subcategories": ["Pfannengemüse", "Italia Tradizionale"]
+  },
+  {
+    "store": "billa",
+    "id": "00-718798",
+    "name": "Frosta Gemüse Pfanne Kartoffel Champignon",
+    "category": "Gemüse",
+    "subcategories": ["Pfannengemüse", "Kartoffel Champignon"]
+  },
+  {
+    "store": "billa",
+    "id": "00-680785",
+    "name": "Frosta Gemüse Pfanne Provence",
+    "category": "Gemüse",
+    "subcategories": ["Pfannengemüse", "Provence"]
+  },
+  {
+    "store": "billa",
+    "id": "00-680780",
+    "name": "Frosta Gemüse Pfanne Sommergarten",
+    "category": "Gemüse",
+    "subcategories": ["Pfannengemüse", "Sommergarten"]
+  },
+  {
+    "store": "billa",
+    "id": "00-680782",
+    "name": "Frosta Gemüse Pfanne Toskana",
+    "category": "Gemüse",
+    "subcategories": ["Pfannengemüse", "Toskana"]
+  },
+  {
+    "store": "billa",
+    "id": "00-756022",
+    "name": "Frosta Gemüsemix Italienische Küche",
+    "category": "Gemüse",
+    "subcategories": ["Gemüsemischung", "Italienische Küche"]
+  },
+  {
+    "store": "billa",
+    "id": "00-414992",
+    "name": "Iglo 3 Rosen Mischung",
+    "category": "Gemüse",
+    "subcategories": ["Gemüsemischung", "3 Rosen Mischung"]
+  },
+  {
+    "store": "billa",
+    "id": "00-564213",
+    "name": "Iglo 8 Kräuter",
+    "category": "Kräuter",
+    "subcategories": ["8 Kräuter"]
+  },
+  {
+    "store": "billa",
+    "id": "00-565323",
+    "name": "Iglo Basilikum",
+    "category": "Kräuter",
+    "subcategories": ["Basilikum"]
+  },
+  {
+    "store": "billa",
+    "id": "00-424163",
+    "name": "Iglo Blattspinat Zwutschgerl",
+    "category": "Gemüse",
+    "subcategories": ["Blattspinat", "Zwutschgerl"]
+  },
+  {
+    "store": "billa",
+    "id": "00-721036",
+    "name": "Iglo Blattspinat Zwutschgerl",
+    "category": "Gemüse",
+    "subcategories": ["Blattspinat", "Zwutschgerl"]
+  },
+  {
+    "store": "billa",
+    "id": "00-704548",
+    "name": "Iglo Blattspinat mit Schafkäse",
+    "category": "Gemüse",
+    "subcategories": ["Blattspinat", "Schafkäse"]
+  },
+  {
+    "store": "billa",
+    "id": "00-737",
+    "name": "Iglo Broccoli",
+    "category": "Gemüse",
+    "subcategories": ["Broccoli"]
+  },
+  {
+    "store": "billa",
+    "id": "00-721548",
+    "name": "Iglo Broccoli",
+    "category": "Gemüse",
+    "subcategories": ["Broccoli"]
+  },
+  {
+    "store": "billa",
+    "id": "00-314243",
+    "name": "Iglo Buntes Gemüse Trio",
+    "category": "Gemüse",
+    "subcategories": ["Gemüsemischung", "Buntes Gemüse Trio"]
+  },
+  {
+    "store": "billa",
+    "id": "00-314226",
+    "name": "Iglo Buntes Pusztagemüse",
+    "category": "Gemüse",
+    "subcategories": ["Gemüsemischung", "Buntes Pusztagemüse"]
+  },
+  {
+    "store": "billa",
+    "id": "00-583699",
+    "name": "Iglo Buttergemüse Der Klassiker",
+    "category": "Gemüse",
+    "subcategories": ["Gemüsemischung", "Buttergemüse"]
+  },
+  {
+    "store": "billa",
+    "id": "00-418572",
+    "name": "Iglo Cremegemüse Erbsen & Karotten",
+    "category": "Gemüse",
+    "subcategories": ["Cremegemüse", "Erbsen", "Karotten"]
+  },
+  {
+    "store": "billa",
+    "id": "00-30388",
+    "name": "Iglo Cremegemüse Rahm-Broccoli",
+    "category": "Gemüse",
+    "subcategories": ["Cremegemüse", "Rahm-Broccoli"]
+  },
+  {
+    "store": "billa",
+    "id": "00-407139",
+    "name": "Iglo Cremegemüse Rahm-Farmers",
+    "category": "Gemüse",
+    "subcategories": ["Cremegemüse", "Rahm-Farmers"]
+  },
+  {
+    "store": "billa",
+    "id": "00-615908",
+    "name": "Iglo Cremegemüse Zarte Mischung",
+    "category": "Gemüse",
+    "subcategories": ["Cremegemüse", "Gemüsemischung", "Zarte Mischung"]
+  },
+  {
+    "store": "billa",
+    "id": "00-82507",
+    "name": "Iglo Cremespinat",
+    "category": "Gemüse",
+    "subcategories": ["Cremespinat"]
+  },
+  {
+    "store": "billa",
+    "id": "00-559244",
+    "name": "Iglo Cremespinat Laktosefrei",
+    "category": "Gemüse",
+    "subcategories": ["Cremespinat"]
+  },
+  {
+    "store": "billa",
+    "id": "00-535719",
+    "name": "Iglo Dille",
+    "category": "Kräuter",
+    "subcategories": ["Dill"]
+  },
+  {
+    "store": "billa",
+    "id": "00-847309",
+    "name": "Iglo Erbsen",
+    "category": "Gemüse",
+    "subcategories": ["Erbsen"]
+  },
+  {
+    "store": "billa",
+    "id": "00-615909",
+    "name": "Iglo Erbsen Karotten Duo",
+    "category": "Gemüse",
+    "subcategories": ["Erbsen", "Karotten"]
+  },
+  {
+    "store": "billa",
+    "id": "00-615910",
+    "name": "Iglo Erbsen Mais Duo",
+    "category": "Gemüse",
+    "subcategories": ["Erbsen", "Mais"]
+  },
+  {
+    "store": "billa",
+    "id": "00-302227",
+    "name": "Iglo Farmers Gemüse",
+    "category": "Gemüse",
+    "subcategories": ["Farmers Gemüse"]
+  },
+  {
+    "store": "billa",
+    "id": "00-865743",
+    "name": "Iglo Ganze Fisolen",
+    "category": "Gemüse",
+    "subcategories": ["Fisolen"]
+  },
+  {
+    "store": "billa",
+    "id": "00-440314",
+    "name": "Iglo Gebackene Champignons",
+    "category": "Gemüse",
+    "subcategories": ["Gebackene Champignons"]
+  },
+  {
+    "store": "billa",
+    "id": "00-420529",
+    "name": "Iglo Gemüse à la Crème Bunte Auslese",
+    "category": "Gemüse",
+    "subcategories": ["Gemüse à la Crème", "Bunte Auslese"]
+  },
+  {
+    "store": "billa",
+    "id": "00-242928",
+    "name": "Iglo Ideenküche Broccoli Buchweizen",
+    "category": "Gemüse",
+    "subcategories": ["Broccoli", "Buchweizen"]
+  },
+  {
+    "store": "billa",
+    "id": "00-352256",
+    "name": "Iglo Ideenküche Bunter Karfiolreis",
+    "category": "Gemüse",
+    "subcategories": ["Karfiolreis"]
+  },
+  {
+    "store": "billa",
+    "id": "00-242938",
+    "name": "Iglo Ideenküche Kürbis Quinoa",
+    "category": "Gemüse",
+    "subcategories": ["Kürbis", "Quinoa"]
+  },
+  {
+    "store": "billa",
+    "id": "00-718716",
+    "name": "Iglo Ideenküche Perl-Couscous, Kürbis, Linsen",
+    "category": "Gemüse",
+    "subcategories": ["Perl-Couscous", "Kürbis", "Linsen"]
+  },
+  {
+    "store": "billa",
+    "id": "00-242934",
+    "name": "Iglo Ideenküche Zucchini Bulgur",
+    "category": "Gemüse",
+    "subcategories": ["Zucchini", "Bulgur"]
+  },
+  {
+    "store": "billa",
+    "id": "00-665232",
+    "name": "Iglo Junge Erbsen",
+    "category": "Gemüse",
+    "subcategories": ["Erbsen"]
+  },
+  {
+    "store": "billa",
+    "id": "00-665233",
+    "name": "Iglo Junge Fisolen",
+    "category": "Gemüse",
+    "subcategories": ["Fisolen"]
+  },
+  {
+    "store": "billa",
+    "id": "00-314229",
+    "name": "Iglo Junges Sommergemüse",
+    "category": "Gemüse",
+    "subcategories": ["Gemüsemischung", "Junges Sommergemüse"]
+  },
+  {
+    "store": "billa",
+    "id": "00-7215",
+    "name": "Iglo Kohlgemüse",
+    "category": "Gemüse",
+    "subcategories": ["Kohlgemüse"]
+  },
+  {
+    "store": "billa",
+    "id": "00-439239",
+    "name": "Iglo Kohlrabi-Rahmgemüse",
+    "category": "Gemüse",
+    "subcategories": ["Kohlrabi-Rahmgemüse"]
+  },
+  {
+    "store": "billa",
+    "id": "00-5315",
+    "name": "Iglo Kohlsprossen",
+    "category": "Gemüse",
+    "subcategories": ["Kohlsprossen"]
+  },
+  {
+    "store": "billa",
+    "id": "00-400193",
+    "name": "Iglo Krautsalat mit Speck",
+    "category": "Gemüse",
+    "subcategories": ["Krautsalat", "Speck"]
+  },
+  {
+    "store": "billa",
+    "id": "00-82529",
+    "name": "Iglo Letscho",
+    "category": "Gemüse",
+    "subcategories": ["Letscho"]
+  },
+  {
+    "store": "billa",
+    "id": "00-314224",
+    "name": "Iglo Marchfelder Gemüse Allerlei",
+    "category": "Gemüse",
+    "subcategories": ["Gemüsemischung", "Marchfelder Gemüse Allerlei"]
+  },
+  {
+    "store": "billa",
+    "id": "00-564670",
+    "name": "Iglo Petersilie",
+    "category": "Kräuter",
+    "subcategories": ["Petersilie"]
+  },
+  {
+    "store": "billa",
+    "id": "00-507289",
+    "name": "Iglo Rahm-Blattspinat",
+    "category": "Gemüse",
+    "subcategories": ["Rahm-Blattspinat"]
+  },
+  {
+    "store": "billa",
+    "id": "00-82931",
+    "name": "Iglo Rahmfisolen",
+    "category": "Gemüse",
+    "subcategories": ["Rahmfisolen"]
+  },
+  {
+    "store": "billa",
+    "id": "00-15731",
+    "name": "Iglo Rotkraut",
+    "category": "Gemüse",
+    "subcategories": ["Rotkraut"]
+  },
+  {
+    "store": "billa",
+    "id": "00-5235",
+    "name": "Iglo Rotkraut mit Apfelstücken",
+    "category": "Gemüse",
+    "subcategories": ["Rotkraut", "Apfelstücken"]
+  },
+  {
+    "store": "billa",
+    "id": "00-420797",
+    "name": "Iglo Röstgemüse 4 Jahreszeiten",
+    "category": "Gemüse",
+    "subcategories": ["Röstgemüse", "4 Jahreszeiten"]
+  },
+  {
+    "store": "billa",
+    "id": "00-401000",
+    "name": "Iglo Röstgemüse France",
+    "category": "Gemüse",
+    "subcategories": ["Röstgemüse", "France"]
+  },
+  {
+    "store": "billa",
+    "id": "00-503670",
+    "name": "Iglo Röstgemüse Förster Art",
+    "category": "Gemüse",
+    "subcategories": ["Röstgemüse", "Förster Art"]
+  },
+  {
+    "store": "billa",
+    "id": "00-400967",
+    "name": "Iglo Röstgemüse Korsika",
+    "category": "Gemüse",
+    "subcategories": ["Röstgemüse", "Korsika"]
+  },
+  {
+    "store": "billa",
+    "id": "00-414990",
+    "name": "Iglo Röstgemüse Mais & Mehr",
+    "category": "Gemüse",
+    "subcategories": ["Röstgemüse", "Mais & Mehr"]
+  }
+]

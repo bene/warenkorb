@@ -1,0 +1,702 @@
+[
+  {
+    "store": "billa",
+    "id": "00-724835",
+    "name": "Just Spices Pizza Gewürz",
+    "category": "Gewürze",
+    "subcategories": ["Italienisch", "Pizza"]
+  },
+  {
+    "store": "billa",
+    "id": "00-719244",
+    "name": "Just Spices Pommes Gewürzsalz",
+    "category": "Gewürze",
+    "subcategories": ["Pommes Frites", "Gewürze"]
+  },
+  {
+    "store": "billa",
+    "id": "00-719353",
+    "name": "Just Spices Rührei Gewürzmix",
+    "category": "Gewürze",
+    "subcategories": ["Frühstück", "Rührei"]
+  },
+  {
+    "store": "billa",
+    "id": "00-719230",
+    "name": "Just Spices Stullen Spice",
+    "category": "Gewürze",
+    "subcategories": ["Brot", "Brotaufstrich"]
+  },
+  {
+    "store": "billa",
+    "id": "00-719248",
+    "name": "Just Spices Tomate Mozzarella Gewürz",
+    "category": "Gewürze",
+    "subcategories": ["Italienisch", "Gewürze"]
+  },
+  {
+    "store": "billa",
+    "id": "00-423176",
+    "name": "Knorr Kräuterlinge Frühlingskräuter",
+    "category": "Gewürze",
+    "subcategories": ["Kräuter", "Frühling"]
+  },
+  {
+    "store": "billa",
+    "id": "00-423175",
+    "name": "Knorr Kräuterlinge Italienische Kräuter",
+    "category": "Gewürze",
+    "subcategories": ["Italienisch", "Kräuter"]
+  },
+  {
+    "store": "billa",
+    "id": "00-825608",
+    "name": "Kotanyi Lebkuchen Grossmutter Art",
+    "category": "Gewürze",
+    "subcategories": ["Weihnachten", "Lebkuchen"]
+  },
+  {
+    "store": "billa",
+    "id": "00-2724",
+    "name": "Kotányi Anis Ganz",
+    "category": "Gewürze",
+    "subcategories": ["Anis", "Ganz"]
+  },
+  {
+    "store": "billa",
+    "id": "00-343615",
+    "name": "Kotányi Asiatischer Kräuter Mix",
+    "category": "Gewürze",
+    "subcategories": ["Asiatisch", "Kräuter"]
+  },
+  {
+    "store": "billa",
+    "id": "00-401401",
+    "name": "Kotányi Barbecue Gewürzsalz",
+    "category": "Gewürze",
+    "subcategories": ["Grillen", "Gewürzsalz"]
+  },
+  {
+    "store": "billa",
+    "id": "00-2619",
+    "name": "Kotányi Basilikum Gerebelt",
+    "category": "Gewürze",
+    "subcategories": ["Kräuter", "Basilikum"]
+  },
+  {
+    "store": "billa",
+    "id": "00-179952",
+    "name": "Kotányi Basilikum Gerebelt",
+    "category": "Gewürze",
+    "subcategories": ["Kräuter", "Basilikum"]
+  },
+  {
+    "store": "billa",
+    "id": "00-796990",
+    "name": "Kotányi Bauernbrot Gewürzzubereitung",
+    "category": "Gewürze",
+    "subcategories": ["Brot", "Gewürzzubereitung"]
+  },
+  {
+    "store": "billa",
+    "id": "00-556546",
+    "name": "Kotányi Bio Ingwer Gemahlen",
+    "category": "Gewürze",
+    "subcategories": ["Bio", "Ingwer"]
+  },
+  {
+    "store": "billa",
+    "id": "00-556593",
+    "name": "Kotányi Bio Knoblauchgranulat",
+    "category": "Gewürze",
+    "subcategories": ["Bio", "Knoblauch"]
+  },
+  {
+    "store": "billa",
+    "id": "00-556576",
+    "name": "Kotányi Bio Majoran Gerebelt",
+    "category": "Gewürze",
+    "subcategories": ["Bio", "Majoran"]
+  },
+  {
+    "store": "billa",
+    "id": "00-556527",
+    "name": "Kotányi Bio Zimt Gemahlen",
+    "category": "Gewürze",
+    "subcategories": ["Bio", "Zimt"]
+  },
+  {
+    "store": "billa",
+    "id": "00-2791",
+    "name": "Kotányi Brathuhn Gewürzsalz",
+    "category": "Gewürze",
+    "subcategories": ["Brathuhn", "Gewürzsalz"]
+  },
+  {
+    "store": "billa",
+    "id": "00-409444",
+    "name": "Kotányi Brathuhn Gewürzsalz",
+    "category": "Gewürze",
+    "subcategories": ["Brathuhn", "Gewürzsalz"]
+  },
+  {
+    "store": "billa",
+    "id": "00-415388",
+    "name": "Kotányi Brathuhn Kräuter-Knoblauch",
+    "category": "Gewürze",
+    "subcategories": ["Brathuhn", "Kräuter-Knoblauch"]
+  },
+  {
+    "store": "billa",
+    "id": "00-834195",
+    "name": "Kotányi Brathuhn Provence Gewürzzubereitung",
+    "category": "Gewürze",
+    "subcategories": ["Brathuhn", "Provence"]
+  },
+  {
+    "store": "billa",
+    "id": "00-179994",
+    "name": "Kotányi Brathuhngewürzsalz",
+    "category": "Gewürze",
+    "subcategories": ["Brathuhn", "Gewürzsalz"]
+  },
+  {
+    "store": "billa",
+    "id": "00-180125",
+    "name": "Kotányi Cayennepfeffer Gemahlen",
+    "category": "Gewürze",
+    "subcategories": ["Chili", "Cayennepfeffer"]
+  },
+  {
+    "store": "billa",
+    "id": "00-655408",
+    "name": "Kotányi Chili Birdseye Mühle",
+    "category": "Gewürze",
+    "subcategories": ["Chili", "Mühle"]
+  },
+  {
+    "store": "billa",
+    "id": "00-626784",
+    "name": "Kotányi Chili Mix Scharf Mühle",
+    "category": "Gewürze",
+    "subcategories": ["Chili", "Mühle"]
+  },
+  {
+    "store": "billa",
+    "id": "00-180141",
+    "name": "Kotányi Chili Powder",
+    "category": "Gewürze",
+    "subcategories": ["Chili", "Pulver"]
+  },
+  {
+    "store": "billa",
+    "id": "00-694725",
+    "name": "Kotányi Chili granuliert extra scharf",
+    "category": "Gewürze",
+    "subcategories": ["Chili", "extra scharf"]
+  },
+  {
+    "store": "billa",
+    "id": "00-825760",
+    "name": "Kotányi Chili mit Meersalz Mühle",
+    "category": "Gewürze",
+    "subcategories": ["Chili", "Mühle"]
+  },
+  {
+    "store": "billa",
+    "id": "00-563911",
+    "name": "Kotányi Classic Burger",
+    "category": "Gewürze",
+    "subcategories": ["Burger", "Klassiker"]
+  },
+  {
+    "store": "billa",
+    "id": "00-495598",
+    "name": "Kotányi Coconut Chicken Curry",
+    "category": "Gewürze",
+    "subcategories": ["Hähnchen", "Curry"]
+  },
+  {
+    "store": "billa",
+    "id": "00-905740",
+    "name": "Kotányi Curcuma Gemahlen",
+    "category": "Gewürze",
+    "subcategories": ["Kurkuma", "Gemahlen"]
+  },
+  {
+    "store": "billa",
+    "id": "00-822356",
+    "name": "Kotányi Curcuma Gemahlen",
+    "category": "Gewürze",
+    "subcategories": ["Kurkuma", "Gemahlen"]
+  },
+  {
+    "store": "billa",
+    "id": "00-791194",
+    "name": "Kotányi Curry Madras",
+    "category": "Gewürze",
+    "subcategories": ["Curry", "Madras"]
+  },
+  {
+    "store": "billa",
+    "id": "00-180158",
+    "name": "Kotányi Curry Powder",
+    "category": "Gewürze",
+    "subcategories": ["Curry", "Pulver"]
+  },
+  {
+    "store": "billa",
+    "id": "00-181040",
+    "name": "Kotányi Curry Powder",
+    "category": "Gewürze",
+    "subcategories": ["Curry", "Pulver"]
+  },
+  {
+    "store": "billa",
+    "id": "00-10919",
+    "name": "Kotányi Dillspitzen Gerebelt",
+    "category": "Gewürze",
+    "subcategories": ["Kräuter", "Dill"]
+  },
+  {
+    "store": "billa",
+    "id": "00-416906",
+    "name": "Kotányi Einlegegewürz Gewürzmischung",
+    "category": "Gewürze",
+    "subcategories": ["Einlegen", "Gewürzmischung"]
+  },
+  {
+    "store": "billa",
+    "id": "00-12008",
+    "name": "Kotányi Faschiertes Gewürzzubereitung",
+    "category": "Gewürze",
+    "subcategories": ["Faschiertes", "Gewürzzubereitung"]
+  },
+  {
+    "store": "billa",
+    "id": "00-418136",
+    "name": "Kotányi Fenchel Ganz",
+    "category": "Gewürze",
+    "subcategories": ["Fenchel", "Ganz"]
+  },
+  {
+    "store": "billa",
+    "id": "00-6109",
+    "name": "Kotányi Fisch Gewürzzubereitung",
+    "category": "Gewürze",
+    "subcategories": ["Fisch", "Gewürzzubereitung"]
+  },
+  {
+    "store": "billa",
+    "id": "00-805907",
+    "name": "Kotányi Glühweingewürz",
+    "category": "Gewürze",
+    "subcategories": ["Glühwein", "Gewürz"]
+  },
+  {
+    "store": "billa",
+    "id": "00-906083",
+    "name": "Kotányi Gorumet Schnittlauch",
+    "category": "Gewürze",
+    "subcategories": ["Gourmet", "Schnittlauch"]
+  },
+  {
+    "store": "billa",
+    "id": "00-906080",
+    "name": "Kotányi Gourmet Italienische Kräuter Getrocknet",
+    "category": "Gewürze",
+    "subcategories": ["Gourmet", "Italienisch"]
+  },
+  {
+    "store": "billa",
+    "id": "00-906081",
+    "name": "Kotányi Gourmet Petersilie Getrocknet",
+    "category": "Gewürze",
+    "subcategories": ["Gourmet", "Petersilie"]
+  },
+  {
+    "store": "billa",
+    "id": "00-906082",
+    "name": "Kotányi Gourmet Salatkräuter Getrocknet",
+    "category": "Gewürze",
+    "subcategories": ["Gourmet", "Salatkräuter"]
+  },
+  {
+    "store": "billa",
+    "id": "00-822352",
+    "name": "Kotányi Griechische Küche Gyros Gewürzzubereitung",
+    "category": "Gewürze",
+    "subcategories": ["Griechisch", "Gyros"]
+  },
+  {
+    "store": "billa",
+    "id": "00-343617",
+    "name": "Kotányi Griechischer Kräuter Mix",
+    "category": "Gewürze",
+    "subcategories": ["Griechisch", "Kräuter"]
+  },
+  {
+    "store": "billa",
+    "id": "00-762945",
+    "name": "Kotányi Grillgemüse Gewürzzubereitung",
+    "category": "Gewürze",
+    "subcategories": ["Grillen", "Gemüse"]
+  },
+  {
+    "store": "billa",
+    "id": "00-289428",
+    "name": "Kotányi Grillgewürz Gösser Märzen",
+    "category": "Gewürze",
+    "subcategories": ["Grillen", "Bier"]
+  },
+  {
+    "store": "billa",
+    "id": "00-409445",
+    "name": "Kotányi Grillgewürzsalz",
+    "category": "Gewürze",
+    "subcategories": ["Grillen", "Gewürzsalz"]
+  },
+  {
+    "store": "billa",
+    "id": "00-180257",
+    "name": "Kotányi Grillgewürzsalz",
+    "category": "Gewürze",
+    "subcategories": ["Grillen", "Gewürzsalz"]
+  },
+  {
+    "store": "billa",
+    "id": "00-2797",
+    "name": "Kotányi Grillgewürzsalz",
+    "category": "Gewürze",
+    "subcategories": ["Grillen", "Gewürzsalz"]
+  },
+  {
+    "store": "billa",
+    "id": "00-829768",
+    "name": "Kotányi Grillkotelett Argentina",
+    "category": "Gewürze",
+    "subcategories": ["Grillen", "Kotelett"]
+  },
+  {
+    "store": "billa",
+    "id": "00-741766",
+    "name": "Kotányi Himalayasalz Mühle",
+    "category": "Gewürze",
+    "subcategories": ["Salz", "Mühle"]
+  },
+  {
+    "store": "billa",
+    "id": "00-179069",
+    "name": "Kotányi Ingwer Gemahlen",
+    "category": "Gewürze",
+    "subcategories": ["Ingwer", "Gemahlen"]
+  },
+  {
+    "store": "billa",
+    "id": "00-495639",
+    "name": "Kotányi Italienische Zucchinipfanne",
+    "category": "Gewürze",
+    "subcategories": ["Italienisch", "Zucchini"]
+  },
+  {
+    "store": "billa",
+    "id": "00-834844",
+    "name": "Kotányi Knoblauch Kräutersalz Mühle",
+    "category": "Gewürze",
+    "subcategories": ["Knoblauch", "Mühle"]
+  },
+  {
+    "store": "billa",
+    "id": "00-626783",
+    "name": "Kotányi Knoblauch Pikant Mühle",
+    "category": "Gewürze",
+    "subcategories": ["Knoblauch", "Mühle"]
+  },
+  {
+    "store": "billa",
+    "id": "00-3497",
+    "name": "Kotányi Knoblauchgranulat",
+    "category": "Gewürze",
+    "subcategories": ["Knoblauch", "Granulat"]
+  },
+  {
+    "store": "billa",
+    "id": "00-409446",
+    "name": "Kotányi Knoblauchgranulat groß",
+    "category": "Gewürze",
+    "subcategories": ["Knoblauch", "Granulat"]
+  },
+  {
+    "store": "billa",
+    "id": "00-180299",
+    "name": "Kotányi Knoblauchgranulat klein",
+    "category": "Gewürze",
+    "subcategories": ["Knoblauch", "Granulat"]
+  },
+  {
+    "store": "billa",
+    "id": "00-438850",
+    "name": "Kotányi Koriander Gemahlen",
+    "category": "Gewürze",
+    "subcategories": ["Koriander", "Gemahlen"]
+  },
+  {
+    "store": "billa",
+    "id": "00-915970",
+    "name": "Kotányi Kreuzkümmel Gemahlen",
+    "category": "Gewürze",
+    "subcategories": ["Kreuzkümmel", "Gemahlen"]
+  },
+  {
+    "store": "billa",
+    "id": "00-825759",
+    "name": "Kotányi Kräuter Rustikana Mühle",
+    "category": "Gewürze",
+    "subcategories": ["Kräuter", "Mühle"]
+  },
+  {
+    "store": "billa",
+    "id": "00-12006",
+    "name": "Kotányi Kräuterbutter Gewürzzubereitung",
+    "category": "Gewürze",
+    "subcategories": ["Kräuter", "Butter"]
+  },
+  {
+    "store": "billa",
+    "id": "00-180331",
+    "name": "Kotányi Kümmel Ganz",
+    "category": "Gewürze",
+    "subcategories": ["Kümmel", "Ganz"]
+  },
+  {
+    "store": "billa",
+    "id": "00-4896",
+    "name": "Kotányi Kümmel Ganz",
+    "category": "Gewürze",
+    "subcategories": ["Kümmel", "Ganz"]
+  },
+  {
+    "store": "billa",
+    "id": "00-2768",
+    "name": "Kotányi Kümmel Ganz",
+    "category": "Gewürze",
+    "subcategories": ["Kümmel", "Ganz"]
+  },
+  {
+    "store": "billa",
+    "id": "00-2751",
+    "name": "Kotányi Kümmel Gemahlen",
+    "category": "Gewürze",
+    "subcategories": ["Kümmel", "Gemahlen"]
+  },
+  {
+    "store": "billa",
+    "id": "00-180349",
+    "name": "Kotányi Kümmel Gemahlen",
+    "category": "Gewürze",
+    "subcategories": ["Kümmel", "Gemahlen"]
+  },
+  {
+    "store": "billa",
+    "id": "00-495631",
+    "name": "Kotányi Lachs Zitrone Knoblauch",
+    "category": "Gewürze",
+    "subcategories": ["Lachs", "Zitrone"]
+  },
+  {
+    "store": "billa",
+    "id": "00-408416",
+    "name": "Kotányi Liebstöckl Gerebelt",
+    "category": "Gewürze",
+    "subcategories": ["Kräuter", "Liebstöckel"]
+  },
+  {
+    "store": "billa",
+    "id": "00-2752",
+    "name": "Kotányi Lorbeerblätter",
+    "category": "Gewürze",
+    "subcategories": ["Kräuter", "Lorbeer"]
+  },
+  {
+    "store": "billa",
+    "id": "00-2796",
+    "name": "Kotányi Majoran Gerebelt",
+    "category": "Gewürze",
+    "subcategories": ["Kräuter", "Majoran"]
+  },
+  {
+    "store": "billa",
+    "id": "00-180406",
+    "name": "Kotányi Majoran Gerebelt",
+    "category": "Gewürze",
+    "subcategories": ["Kräuter", "Majoran"]
+  },
+  {
+    "store": "billa",
+    "id": "00-2770",
+    "name": "Kotányi Majoran Gerebelt",
+    "category": "Gewürze",
+    "subcategories": ["Kräuter", "Majoran"]
+  },
+  {
+    "store": "billa",
+    "id": "00-499500",
+    "name": "Kotányi Mediterranes Brot mit Kräutern",
+    "category": "Gewürze",
+    "subcategories": ["Brot", "Mediterran"]
+  },
+  {
+    "store": "billa",
+    "id": "00-282752",
+    "name": "Kotányi Meersalz Chili Knoblauch Mühle",
+    "category": "Gewürze",
+    "subcategories": ["Meersalz", "Mühle"]
+  },
+  {
+    "store": "billa",
+    "id": "00-828919",
+    "name": "Kotányi Meersalz Mühle",
+    "category": "Gewürze",
+    "subcategories": ["Meersalz", "Mühle"]
+  },
+  {
+    "store": "billa",
+    "id": "00-2652",
+    "name": "Kotányi Muskatnuss Ganz",
+    "category": "Gewürze",
+    "subcategories": ["Muskatnuss", "Ganz"]
+  },
+  {
+    "store": "billa",
+    "id": "00-10917",
+    "name": "Kotányi Muskatnuss Gemahlen",
+    "category": "Gewürze",
+    "subcategories": ["Muskatnuss", "Gemahlen"]
+  },
+  {
+    "store": "billa",
+    "id": "00-2657",
+    "name": "Kotányi Natron",
+    "category": "Gewürze",
+    "subcategories": ["Backen", "Natron"]
+  },
+  {
+    "store": "billa",
+    "id": "00-2747",
+    "name": "Kotányi Nelken Ganz",
+    "category": "Gewürze",
+    "subcategories": ["Nelken", "Ganz"]
+  },
+  {
+    "store": "billa",
+    "id": "00-2598",
+    "name": "Kotányi Nelken Gemahlen",
+    "category": "Gewürze",
+    "subcategories": ["Nelken", "Gemahlen"]
+  },
+  {
+    "store": "billa",
+    "id": "00-653527",
+    "name": "Kotányi Neue Küche Blumig Würzig für Kartoffel",
+    "category": "Gewürze",
+    "subcategories": ["Kartoffel", "Blumig-Würzig"]
+  },
+  {
+    "store": "billa",
+    "id": "00-409309",
+    "name": "Kotányi Neugewürz Piment Ganz",
+    "category": "Gewürze",
+    "subcategories": ["Neugewürz", "Piment"]
+  },
+  {
+    "store": "billa",
+    "id": "00-499514",
+    "name": "Kotányi Oliven-Knoblauch Brot Gewürzzubereitung",
+    "category": "Gewürze",
+    "subcategories": ["Brot", "Oliven-Knoblauch"]
+  },
+  {
+    "store": "billa",
+    "id": "00-181131",
+    "name": "Kotányi Oregano Gerebelt",
+    "category": "Gewürze",
+    "subcategories": ["Kräuter", "Oregano"]
+  },
+  {
+    "store": "billa",
+    "id": "00-2599",
+    "name": "Kotányi Oregano Gerebelt",
+    "category": "Gewürze",
+    "subcategories": ["Kräuter", "Oregano"]
+  },
+  {
+    "store": "billa",
+    "id": "00-180430",
+    "name": "Kotányi Oregano Gerebelt",
+    "category": "Gewürze",
+    "subcategories": ["Kräuter", "Oregano"]
+  },
+  {
+    "store": "billa",
+    "id": "00-180448",
+    "name": "Kotányi Paprika Edelsüß",
+    "category": "Gewürze",
+    "subcategories": ["Paprika", "Edelsüß"]
+  },
+  {
+    "store": "billa",
+    "id": "00-57519",
+    "name": "Kotányi Paprika Edelsüß Spezial",
+    "category": "Gewürze",
+    "subcategories": ["Paprika", "Edelsüß"]
+  },
+  {
+    "store": "billa",
+    "id": "00-57524",
+    "name": "Kotányi Paprika Edelsüß Spezial",
+    "category": "Gewürze",
+    "subcategories": ["Paprika", "Edelsüß"]
+  },
+  {
+    "store": "billa",
+    "id": "00-3480",
+    "name": "Kotányi Paprika Scharf",
+    "category": "Gewürze",
+    "subcategories": ["Paprika", "Scharf"]
+  },
+  {
+    "store": "billa",
+    "id": "00-7290",
+    "name": "Kotányi Pasta Asciutta Gewürzmischung",
+    "category": "Gewürze",
+    "subcategories": ["Pasta", "Gewürzmischung"]
+  },
+  {
+    "store": "billa",
+    "id": "00-837176",
+    "name": "Kotányi Pfeffer Bunt",
+    "category": "Gewürze",
+    "subcategories": ["Pfeffer", "Bunt"]
+  },
+  {
+    "store": "billa",
+    "id": "00-825758",
+    "name": "Kotányi Pfeffer Mühle Bunt",
+    "category": "Gewürze",
+    "subcategories": ["Pfeffer", "Mühle"]
+  },
+  {
+    "store": "billa",
+    "id": "00-828920",
+    "name": "Kotányi Pfeffer Mühle Schwarz",
+    "category": "Gewürze",
+    "subcategories": ["Pfeffer", "Mühle"]
+  },
+  {
+    "store": "billa",
+    "id": "00-179846",
+    "name": "Kotányi Pfeffer Schwarz Ganz",
+    "category": "Gewürze",
+    "subcategories": ["Pfeffer", "Ganz"]
+  }
+]

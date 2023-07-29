@@ -1,0 +1,695 @@
+[
+  {
+    "store": "billa",
+    "id": "00-356751",
+    "name": "Joya & Dream Mandel Barista Drink",
+    "category": "Getränke",
+    "subcategories": ["Milchersatz", "Mandel", "Barista"]
+  },
+  {
+    "store": "billa",
+    "id": "00-363122",
+    "name": "Joya & Dream Mandel Protein Drink",
+    "category": "Getränke",
+    "subcategories": ["Milchersatz", "Mandel", "Protein"]
+  },
+  {
+    "store": "billa",
+    "id": "00-363191",
+    "name": "Joya & Dream Reis Drink Zuckerfrei",
+    "category": "Getränke",
+    "subcategories": ["Milchersatz", "Reis", "Zuckerfrei"]
+  },
+  {
+    "store": "billa",
+    "id": "00-671896",
+    "name": "Joya Bio Hafer Drink",
+    "category": "Getränke",
+    "subcategories": ["Milchersatz", "Hafer"]
+  },
+  {
+    "store": "billa",
+    "id": "00-471501",
+    "name": "Joya Bio Hafer Glutenfrei Drink",
+    "category": "Getränke",
+    "subcategories": ["Milchersatz", "Hafer", "Glutenfrei"]
+  },
+  {
+    "store": "billa",
+    "id": "00-275512",
+    "name": "Joya Bio Reis Drink",
+    "category": "Getränke",
+    "subcategories": ["Milchersatz", "Reis"]
+  },
+  {
+    "store": "billa",
+    "id": "00-530512",
+    "name": "Joya Erbsendrink",
+    "category": "Getränke",
+    "subcategories": ["Milchersatz", "Erbsen"]
+  },
+  {
+    "store": "billa",
+    "id": "00-344261",
+    "name": "Joya Frischer Hafer Drink",
+    "category": "Getränke",
+    "subcategories": ["Milchersatz", "Hafer"]
+  },
+  {
+    "store": "billa",
+    "id": "00-583445",
+    "name": "Joya Haferdrink Voll Frisch",
+    "category": "Getränke",
+    "subcategories": ["Milchersatz", "Hafer"]
+  },
+  {
+    "store": "billa",
+    "id": "00-878270",
+    "name": "Joya Kokos Reis Drink",
+    "category": "Getränke",
+    "subcategories": ["Milchersatz", "Kokos", "Reis"]
+  },
+  {
+    "store": "billa",
+    "id": "00-391972",
+    "name": "Joya Mandel Drink Zuckerfrei",
+    "category": "Getränke",
+    "subcategories": ["Milchersatz", "Mandel", "Zuckerfrei"]
+  },
+  {
+    "store": "billa",
+    "id": "00-705918",
+    "name": "Joya Mlik Haferdrink Halbfett 1,8%",
+    "category": "Getränke",
+    "subcategories": ["Milchersatz", "Hafer", "Halbfett"]
+  },
+  {
+    "store": "billa",
+    "id": "00-705919",
+    "name": "Joya Mlik Haferdrink Vollfett 3,5%",
+    "category": "Getränke",
+    "subcategories": ["Milchersatz", "Hafer", "Vollfett"]
+  },
+  {
+    "store": "billa",
+    "id": "00-501460",
+    "name": "Joya Soja Drink Natur + Calcium",
+    "category": "Getränke",
+    "subcategories": ["Milchersatz", "Soja", "Calcium"]
+  },
+  {
+    "store": "billa",
+    "id": "00-389048",
+    "name": "Just Taste Black Bean Spaghetti",
+    "category": "Lebensmittel",
+    "subcategories": ["Nudeln", "Bohnen"]
+  },
+  {
+    "store": "billa",
+    "id": "00-306642",
+    "name": "Kelly's Pombär Ketchup",
+    "category": "Lebensmittel",
+    "subcategories": ["Soßen", "Ketchup"]
+  },
+  {
+    "store": "billa",
+    "id": "00-310350",
+    "name": "Kelly's Pombär Original",
+    "category": "Lebensmittel",
+    "subcategories": ["Snacks", "Chips"]
+  },
+  {
+    "store": "billa",
+    "id": "00-302191",
+    "name": "Kelly's Pombär Original",
+    "category": "Lebensmittel",
+    "subcategories": ["Snacks", "Chips"]
+  },
+  {
+    "store": "billa",
+    "id": "00-306630",
+    "name": "Kelly's Pombär Paprika",
+    "category": "Lebensmittel",
+    "subcategories": ["Snacks", "Chips", "Paprika"]
+  },
+  {
+    "store": "billa",
+    "id": "00-306598",
+    "name": "Kelly's Pombär Sour-Cream",
+    "category": "Lebensmittel",
+    "subcategories": ["Snacks", "Chips", "Sour Cream"]
+  },
+  {
+    "store": "billa",
+    "id": "00-918217",
+    "name": "Kikkoman Teriyaki Glutenfrei",
+    "category": "Lebensmittel",
+    "subcategories": ["Soßen", "Teriyaki", "Glutenfrei"]
+  },
+  {
+    "store": "billa",
+    "id": "00-667630",
+    "name": "Kneipp Baldrain Nacht",
+    "category": "Gesundheit",
+    "subcategories": ["Schlaf", "Entspannung"]
+  },
+  {
+    "store": "billa",
+    "id": "00-303724",
+    "name": "Kneipp Frauen Mineralstoffe",
+    "category": "Gesundheit",
+    "subcategories": ["Frauen", "Mineralstoffe"]
+  },
+  {
+    "store": "billa",
+    "id": "00-915029",
+    "name": "Kneipp Magnesium + Vitamin B+C+E",
+    "category": "Gesundheit",
+    "subcategories": ["Magnesium", "Vitamine"]
+  },
+  {
+    "store": "billa",
+    "id": "00-142374",
+    "name": "Kneipp Magnesium+Calcium+D3",
+    "category": "Gesundheit",
+    "subcategories": ["Magnesium", "Calcium", "Vitamin D3"]
+  },
+  {
+    "store": "billa",
+    "id": "00-724052",
+    "name": "Layenberger 3k Bar Kokos Vanille",
+    "category": "Lebensmittel",
+    "subcategories": ["Riegel", "Protein", "Kokos", "Vanille"]
+  },
+  {
+    "store": "billa",
+    "id": "00-724054",
+    "name": "Layenberger 3k Bar Kokos/Mandel/Erdnuss",
+    "category": "Lebensmittel",
+    "subcategories": ["Riegel", "Protein", "Kokos", "Mandel", "Erdnuss"]
+  },
+  {
+    "store": "billa",
+    "id": "00-724050",
+    "name": "Layenberger 3k Bar Salz/Karamell/Erdnuss",
+    "category": "Lebensmittel",
+    "subcategories": ["Riegel", "Protein", "Salz", "Karamell", "Erdnuss"]
+  },
+  {
+    "store": "billa",
+    "id": "00-724045",
+    "name": "Layenberger 3k Protein Bar Crunchy Brown",
+    "category": "Lebensmittel",
+    "subcategories": ["Riegel", "Protein", "Crunchy Brown"]
+  },
+  {
+    "store": "billa",
+    "id": "00-724042",
+    "name": "Layenberger 3k Protein Bar Raspberry",
+    "category": "Lebensmittel",
+    "subcategories": ["Riegel", "Protein", "Raspberry"]
+  },
+  {
+    "store": "billa",
+    "id": "00-724044",
+    "name": "Layenberger 3k Protein Bar dunkle Schokolade",
+    "category": "Lebensmittel",
+    "subcategories": ["Riegel", "Protein", "dunkle Schokolade"]
+  },
+  {
+    "store": "billa",
+    "id": "00-723787",
+    "name": "Layenberger 3k Proteinshake Beerenmix",
+    "category": "Lebensmittel",
+    "subcategories": ["Proteinshake", "Beerenmix"]
+  },
+  {
+    "store": "billa",
+    "id": "00-724177",
+    "name": "Layenberger 3k Proteinshake Dunkle Schokolade",
+    "category": "Lebensmittel",
+    "subcategories": ["Proteinshake", "dunkle Schokolade"]
+  },
+  {
+    "store": "billa",
+    "id": "00-724048",
+    "name": "Layenberger 3k Proteinshake Vanille Sahne",
+    "category": "Lebensmittel",
+    "subcategories": ["Proteinshake", "Vanille Sahne"]
+  },
+  {
+    "store": "billa",
+    "id": "00-724041",
+    "name": "Layenberger Fit+Feelgood Slim Shake Schokolade",
+    "category": "Lebensmittel",
+    "subcategories": ["Shake", "Schokolade", "Slim"]
+  },
+  {
+    "store": "billa",
+    "id": "00-724038",
+    "name": "Layenberger Fit+Feelgood Vanille Kokos",
+    "category": "Lebensmittel",
+    "subcategories": ["Shake", "Vanille", "Kokos"]
+  },
+  {
+    "store": "billa",
+    "id": "00-724058",
+    "name": "Layenberger High Protein Shot Double Choco",
+    "category": "Lebensmittel",
+    "subcategories": ["Shot", "Protein", "Double Choco"]
+  },
+  {
+    "store": "billa",
+    "id": "00-724057",
+    "name": "Layenberger High Protein Shot Iced Coffe",
+    "category": "Lebensmittel",
+    "subcategories": ["Shot", "Protein", "Iced Coffee"]
+  },
+  {
+    "store": "billa",
+    "id": "00-863977",
+    "name": "Le Veneziane Mais Bandnudeln",
+    "category": "Lebensmittel",
+    "subcategories": ["Nudeln", "Mais"]
+  },
+  {
+    "store": "billa",
+    "id": "00-863976",
+    "name": "Le Veneziane Maisspiralen glutenfrei",
+    "category": "Lebensmittel",
+    "subcategories": ["Nudeln", "Mais", "glutenfrei"]
+  },
+  {
+    "store": "billa",
+    "id": "00-565388",
+    "name": "Lifebar Carob Hazelnut Riegel",
+    "category": "Lebensmittel",
+    "subcategories": ["Riegel", "Carob", "Haselnuss"]
+  },
+  {
+    "store": "billa",
+    "id": "00-543928",
+    "name": "Lifebar Plus Acai Banana",
+    "category": "Lebensmittel",
+    "subcategories": ["Riegel", "Acai", "Banane"]
+  },
+  {
+    "store": "billa",
+    "id": "00-543942",
+    "name": "Lifebar Plus Brazil Guarana",
+    "category": "Lebensmittel",
+    "subcategories": ["Riegel", "Guarana"]
+  },
+  {
+    "store": "billa",
+    "id": "00-722290",
+    "name": "Maxi Creamy Blueberry Muffin",
+    "category": "Lebensmittel",
+    "subcategories": ["Muffin", "Blueberry"]
+  },
+  {
+    "store": "billa",
+    "id": "00-722287",
+    "name": "Maxi Creamy Peanut Caramel",
+    "category": "Lebensmittel",
+    "subcategories": ["Caramel", "Peanut"]
+  },
+  {
+    "store": "billa",
+    "id": "00-722288",
+    "name": "Maxi Nut Salted Peanut",
+    "category": "Lebensmittel",
+    "subcategories": ["Peanut", "Salted"]
+  },
+  {
+    "store": "billa",
+    "id": "00-705367",
+    "name": "Moniletti Bio Maisstangerl Bergsalz",
+    "category": "Lebensmittel",
+    "subcategories": ["Snacks", "Maisstangerl", "Bergsalz"]
+  },
+  {
+    "store": "billa",
+    "id": "00-862789",
+    "name": "Multipower Protein Layer Caramel Peanut",
+    "category": "Lebensmittel",
+    "subcategories": ["Protein", "Layer", "Caramel", "Peanut"]
+  },
+  {
+    "store": "billa",
+    "id": "00-707893",
+    "name": "Multipower Vegan Layer Brownie",
+    "category": "Lebensmittel",
+    "subcategories": ["Vegan", "Layer", "Brownie"]
+  },
+  {
+    "store": "billa",
+    "id": "00-707899",
+    "name": "Multipower Vegan Proteinpulver Schoko",
+    "category": "Lebensmittel",
+    "subcategories": ["Vegan", "Proteinpulver", "Schoko"]
+  },
+  {
+    "store": "billa",
+    "id": "00-707898",
+    "name": "Multipower Vegan Proteinpulver Vanille",
+    "category": "Lebensmittel",
+    "subcategories": ["Vegan", "Proteinpulver", "Vanille"]
+  },
+  {
+    "store": "billa",
+    "id": "00-715487",
+    "name": "Natrue Hafer Barista Drink",
+    "category": "Getränke",
+    "subcategories": ["Milchersatz", "Hafer", "Barista"]
+  },
+  {
+    "store": "billa",
+    "id": "00-715484",
+    "name": "Natrue Hafer Drink",
+    "category": "Getränke",
+    "subcategories": ["Milchersatz", "Hafer"]
+  },
+  {
+    "store": "billa",
+    "id": "00-715488",
+    "name": "Natrue It's not Milk Drink",
+    "category": "Getränke",
+    "subcategories": ["Milchersatz", "It's not Milk"]
+  },
+  {
+    "store": "billa",
+    "id": "00-579321",
+    "name": "Nature Love Ashwagandha",
+    "category": "Gesundheit",
+    "subcategories": ["Kräuter", "Ashwagandha"]
+  },
+  {
+    "store": "billa",
+    "id": "00-304257",
+    "name": "Nature Love Hyaluronsäure",
+    "category": "Gesundheit",
+    "subcategories": ["Hyaluronsäure"]
+  },
+  {
+    "store": "billa",
+    "id": "00-304267",
+    "name": "Nature Love MSM Tabletten",
+    "category": "Gesundheit",
+    "subcategories": ["Nahrungsergänzung", "MSM", "Tabletten"]
+  },
+  {
+    "store": "billa",
+    "id": "00-392834",
+    "name": "Nature Love Mariendistel Komplex",
+    "category": "Gesundheit",
+    "subcategories": ["Kräuter", "Mariendistel"]
+  },
+  {
+    "store": "billa",
+    "id": "00-304273",
+    "name": "Nature Love Opc Traubenkern-Extrakt",
+    "category": "Gesundheit",
+    "subcategories": ["Nahrungsergänzung", "OPC", "Traubenkern-Extrakt"]
+  },
+  {
+    "store": "billa",
+    "id": "00-380880",
+    "name": "Nature Love Probiona Kulturen Komplex",
+    "category": "Gesundheit",
+    "subcategories": ["Nahrungsergänzung", "Probiona", "Kulturen"]
+  },
+  {
+    "store": "billa",
+    "id": "00-304284",
+    "name": "Nature Love Vitamin B Komplex",
+    "category": "Gesundheit",
+    "subcategories": ["Nahrungsergänzung", "Vitamin B"]
+  },
+  {
+    "store": "billa",
+    "id": "00-305527",
+    "name": "Nature Love Vitamin D3",
+    "category": "Gesundheit",
+    "subcategories": ["Nahrungsergänzung", "Vitamin D3"]
+  },
+  {
+    "store": "billa",
+    "id": "00-304286",
+    "name": "Nature Love Vitamin D3 + K2",
+    "category": "Gesundheit",
+    "subcategories": ["Nahrungsergänzung", "Vitamin D3", "Vitamin K2"]
+  },
+  {
+    "store": "billa",
+    "id": "00-391639",
+    "name": "Nature Love Zink mit natürlichem Vitamin C",
+    "category": "Gesundheit",
+    "subcategories": ["Nahrungsergänzung", "Zink", "Vitamin C"]
+  },
+  {
+    "store": "billa",
+    "id": "00-267212",
+    "name": "Oatly Haferdrink Barista Edition",
+    "category": "Getränke",
+    "subcategories": ["Milchersatz", "Hafer", "Barista"]
+  },
+  {
+    "store": "billa",
+    "id": "00-526993",
+    "name": "Oatly Haferdrink Barista Edition",
+    "category": "Getränke",
+    "subcategories": ["Milchersatz", "Hafer", "Barista"]
+  },
+  {
+    "store": "billa",
+    "id": "00-700859",
+    "name": "Oatly Haferdrink Barista Edition gekühlt",
+    "category": "Getränke",
+    "subcategories": ["Milchersatz", "Hafer", "Barista"]
+  },
+  {
+    "store": "billa",
+    "id": "00-267210",
+    "name": "Oatly Haferdrink Bio",
+    "category": "Getränke",
+    "subcategories": ["Milchersatz", "Hafer"]
+  },
+  {
+    "store": "billa",
+    "id": "00-494862",
+    "name": "Oatly Haferdrink Deluxe gekühlt",
+    "category": "Getränke",
+    "subcategories": ["Milchersatz", "Hafer"]
+  },
+  {
+    "store": "billa",
+    "id": "00-720401",
+    "name": "Oatly Haferdrink Fettarm",
+    "category": "Getränke",
+    "subcategories": ["Milchersatz", "Hafer", "Fettarm"]
+  },
+  {
+    "store": "billa",
+    "id": "00-267206",
+    "name": "Oatly Haferdrink Kakao",
+    "category": "Getränke",
+    "subcategories": ["Milchersatz", "Hafer", "Kakao"]
+  },
+  {
+    "store": "billa",
+    "id": "00-718603",
+    "name": "Oatly Haferdrink No Sugars gekühlt",
+    "category": "Getränke",
+    "subcategories": ["Milchersatz", "Hafer", "Ohne Zucker"]
+  },
+  {
+    "store": "billa",
+    "id": "00-587851",
+    "name": "Oatly Haferdrink Orange Mango",
+    "category": "Getränke",
+    "subcategories": ["Milchersatz", "Hafer", "Orange Mango"]
+  },
+  {
+    "store": "billa",
+    "id": "00-526995",
+    "name": "Oatly Haferdrink Vanille",
+    "category": "Getränke",
+    "subcategories": ["Milchersatz", "Hafer", "Vanille"]
+  },
+  {
+    "store": "billa",
+    "id": "00-720396",
+    "name": "Oatly Haferdrink Voll",
+    "category": "Getränke",
+    "subcategories": ["Milchersatz", "Hafer", "Voll"]
+  },
+  {
+    "store": "billa",
+    "id": "00-720404",
+    "name": "Oatly Haferdrink Zuckerfrei",
+    "category": "Getränke",
+    "subcategories": ["Milchersatz", "Hafer", "Zuckerfrei"]
+  },
+  {
+    "store": "billa",
+    "id": "00-113846",
+    "name": "Original Kreuz Schwedenbitter",
+    "category": "Gesundheit",
+    "subcategories": ["Schwedenbitter"]
+  },
+  {
+    "store": "billa",
+    "id": "00-261098",
+    "name": "Power System Big Block Schoko",
+    "category": "Lebensmittel",
+    "subcategories": ["Riegel", "Protein", "Schoko"]
+  },
+  {
+    "store": "billa",
+    "id": "00-380246",
+    "name": "Power System Bite Power Bar Schoko",
+    "category": "Lebensmittel",
+    "subcategories": ["Riegel", "Protein", "Schoko"]
+  },
+  {
+    "store": "billa",
+    "id": "00-247071",
+    "name": "Power System Cookie Chocolat Chip",
+    "category": "Lebensmittel",
+    "subcategories": ["Keks", "Schoko Chip"]
+  },
+  {
+    "store": "billa",
+    "id": "00-706624",
+    "name": "Power System Deluxebar White",
+    "category": "Lebensmittel",
+    "subcategories": ["Riegel", "Protein", "White"]
+  },
+  {
+    "store": "billa",
+    "id": "00-459659",
+    "name": "Power System High Protein Bar Banane",
+    "category": "Lebensmittel",
+    "subcategories": ["Riegel", "Protein", "Banane"]
+  },
+  {
+    "store": "billa",
+    "id": "00-459667",
+    "name": "Power System High Protein Bar Cocos",
+    "category": "Lebensmittel",
+    "subcategories": ["Riegel", "Protein", "Cocos"]
+  },
+  {
+    "store": "billa",
+    "id": "00-724152",
+    "name": "Power System LOWerCARB Protein Karamell-Erdnuss",
+    "category": "Lebensmittel",
+    "subcategories": ["Protein", "Karamell", "Erdnuss", "LOWerCARB"]
+  },
+  {
+    "store": "billa",
+    "id": "00-730565",
+    "name": "Power System Professional Eiweiß Schoko-Nougat",
+    "category": "Lebensmittel",
+    "subcategories": ["Protein", "Schoko-Nougat"]
+  },
+  {
+    "store": "billa",
+    "id": "00-268300",
+    "name": "Power System Professional Protein Bar Panna Cotta Krokant",
+    "category": "Lebensmittel",
+    "subcategories": ["Riegel", "Protein", "Panna Cotta", "Krokant"]
+  },
+  {
+    "store": "billa",
+    "id": "00-800536",
+    "name": "Power System Protein Bar Dark Chocolate",
+    "category": "Lebensmittel",
+    "subcategories": ["Riegel", "Protein", "Dark Chocolate"]
+  },
+  {
+    "store": "billa",
+    "id": "00-800563",
+    "name": "Power System Riegel Cookies & Cream",
+    "category": "Lebensmittel",
+    "subcategories": ["Riegel", "Cookies & Cream"]
+  },
+  {
+    "store": "billa",
+    "id": "00-271318",
+    "name": "Power System Riegel Lemon Cheese",
+    "category": "Lebensmittel",
+    "subcategories": ["Riegel", "Zitrone", "Käse"]
+  },
+  {
+    "store": "billa",
+    "id": "00-380138",
+    "name": "Power System Salted Cashew Karamellriegel",
+    "category": "Lebensmittel",
+    "subcategories": ["Riegel", "Karamell", "Cashew", "Salted"]
+  },
+  {
+    "store": "billa",
+    "id": "00-853721",
+    "name": "Power System Schoko-Nougatriegel",
+    "category": "Lebensmittel",
+    "subcategories": ["Riegel", "Schoko-Nougat"]
+  },
+  {
+    "store": "billa",
+    "id": "00-305671",
+    "name": "Powerbar Kokos Protein Riegel",
+    "category": "Lebensmittel",
+    "subcategories": ["Riegel", "Protein", "Kokos"]
+  },
+  {
+    "store": "billa",
+    "id": "00-944529",
+    "name": "Powerbar Protein Plus Low Sugar Vanilla",
+    "category": "Lebensmittel",
+    "subcategories": ["Riegel", "Protein", "Vanille", "Low Sugar"]
+  },
+  {
+    "store": "billa",
+    "id": "00-318221",
+    "name": "Purya! Protein Bar Choco-Maca",
+    "category": "Lebensmittel",
+    "subcategories": ["Riegel", "Protein", "Schoko-Maca"]
+  },
+  {
+    "store": "billa",
+    "id": "00-244074",
+    "name": "Recheis Dralli Glutenfrei",
+    "category": "Lebensmittel",
+    "subcategories": ["Nudeln", "Glutenfrei"]
+  },
+  {
+    "store": "billa",
+    "id": "00-244061",
+    "name": "Recheis Spaghetti Glutenfrei",
+    "category": "Lebensmittel",
+    "subcategories": ["Nudeln", "Glutenfrei"]
+  },
+  {
+    "store": "billa",
+    "id": "00-20029",
+    "name": "Samarin",
+    "category": "Gesundheit",
+    "subcategories": ["Verdauung"]
+  },
+  {
+    "store": "billa",
+    "id": "00-728633",
+    "name": "Schnitzer Bio Waffeln Glutenfrei",
+    "category": "Lebensmittel",
+    "subcategories": ["Waffeln", "Glutenfrei"]
+  },
+  {
+    "store": "billa",
+    "id": "00-723489",
+    "name": "Schnitzer Grissini Käse Glutenfrei",
+    "category": "Lebensmittel",
+    "subcategories": ["Grissini", "Käse", "Glutenfrei"]
+  }
+]

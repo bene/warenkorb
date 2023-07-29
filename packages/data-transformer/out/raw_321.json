@@ -1,0 +1,702 @@
+[
+  {
+    "store": "spar",
+    "id": "2020002014599",
+    "name": "Doppelherz Frauen Mineralien + Kollagen 30 Tabeletten",
+    "category": "Gesundheit",
+    "subcategories": ["Mineralien", "Kollagen"]
+  },
+  {
+    "store": "spar",
+    "id": "7239663",
+    "name": "Doppelherz Ginkgo + B-Vitamine + Cholin 40 Kapseln",
+    "category": "Gesundheit",
+    "subcategories": ["Ginkgo", "B-Vitamine", "Cholin"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002014247",
+    "name": "Doppelherz Glucosamin 1000 + Curcuma + Vitamin C 40 Kapseln",
+    "category": "Gesundheit",
+    "subcategories": ["Glucosamin", "Curcuma", "Vitamin C"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003801280",
+    "name": "Doppelherz Glucosamin 1500 +Kollagen +Hyaluron +Vitamin C 40 Kapseln",
+    "category": "Gesundheit",
+    "subcategories": ["Glucosamin", "Kollagen", "Hyaluron", "Vitamin C"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002013967",
+    "name": "Doppelherz Haar Intensiv + Biotin 30 Kapseln",
+    "category": "Gesundheit",
+    "subcategories": ["Haar Intensiv", "Biotin"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002014087",
+    "name": "Doppelherz Haut + Haare + Nägel 30 Tabletten",
+    "category": "Gesundheit",
+    "subcategories": ["Haut", "Haare", "Nägel"]
+  },
+  {
+    "store": "spar",
+    "id": "4331056",
+    "name": "Doppelherz Heiße Cranberry mit Vitamin C + Zink 10 Beutel",
+    "category": "Gesundheit",
+    "subcategories": ["Cranberry", "Vitamin C", "Zink"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003801075",
+    "name": "Doppelherz Heiße Zitrone  mit Vitamin C + Zink 10 Beutel",
+    "category": "Gesundheit",
+    "subcategories": ["Zitrone", "Vitamin C", "Zink"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002013813",
+    "name": "Doppelherz Heißer Granatapfel + Acerola + Sanddorn 10 Beutel",
+    "category": "Gesundheit",
+    "subcategories": ["Granatapfel", "Acerola", "Sanddorn"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002013721",
+    "name": "Doppelherz Heißer Holunder mit Vitamin C + Zink 10 Beutel",
+    "category": "Gesundheit",
+    "subcategories": ["Holunder", "Vitamin C", "Zink"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003801129",
+    "name": "Doppelherz Heißer Ingwer + Curcuma 10 Beutel",
+    "category": "Gesundheit",
+    "subcategories": ["Ingwer", "Curcuma"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003800436",
+    "name": "Doppelherz Husten Liquid bei Reizhusten 12 Portionen",
+    "category": "Gesundheit",
+    "subcategories": ["Husten", "Liquid", "Reizhusten"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002014032",
+    "name": "Doppelherz Hyaluron Plus 90mg mit Biotin + Q10 30 Kapseln",
+    "category": "Gesundheit",
+    "subcategories": ["Hyaluron", "Biotin", "Q10"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002014483",
+    "name": "Doppelherz Jod + Folsäure + Eisen + B12 45 Tabletten",
+    "category": "Gesundheit",
+    "subcategories": ["Jod", "Folsäure", "Eisen", "B12"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003892103",
+    "name": "Doppelherz Kieselerde + Kollagen 30 Kapseln",
+    "category": "Gesundheit",
+    "subcategories": ["Kieselerde", "Kollagen"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003915048",
+    "name": "Doppelherz Kollagen 1000 + Biotin + Q10 30 Tabletten",
+    "category": "Gesundheit",
+    "subcategories": ["Kollagen", "Biotin", "Q10"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002014216",
+    "name": "Doppelherz L-Arginin 1500 30 Kapseln",
+    "category": "Gesundheit",
+    "subcategories": ["L-Arginin"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002013561",
+    "name": "Doppelherz Lavendel Extrakt + Öl 30 Tabletten",
+    "category": "Gesundheit",
+    "subcategories": ["Lavendel Extrakt", "Öl"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002014292",
+    "name": "Doppelherz Lecithin + B-Vitamine 40 Kapseln",
+    "category": "Gesundheit",
+    "subcategories": ["Lecithin", "B-Vitamine"]
+  },
+  {
+    "store": "spar",
+    "id": "7239960",
+    "name": "Doppelherz Magnesium + Calcium + D3 15 Brausetabletten",
+    "category": "Gesundheit",
+    "subcategories": ["Magnesium", "Calcium", "D3"]
+  },
+  {
+    "store": "spar",
+    "id": "6653842",
+    "name": "Doppelherz Magnesium + Calcium + D3 40 Tabletten",
+    "category": "Gesundheit",
+    "subcategories": ["Magnesium", "Calcium", "D3"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002014629",
+    "name": "Doppelherz Magnesium + Calcium + D3 Direct 20 Portionen",
+    "category": "Gesundheit",
+    "subcategories": ["Magnesium", "Calcium", "D3"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002014346",
+    "name": "Doppelherz Magnesium + Kalium Sport 15 Brausetabletten",
+    "category": "Gesundheit",
+    "subcategories": ["Magnesium", "Kalium", "Sport"]
+  },
+  {
+    "store": "spar",
+    "id": "2403724",
+    "name": "Doppelherz Magnesium 400  + B6 + B12 + Folsäure Direct 20 Portionen",
+    "category": "Gesundheit",
+    "subcategories": ["Magnesium 400", "B6", "B12", "Folsäure"]
+  },
+  {
+    "store": "spar",
+    "id": "7239908",
+    "name": "Doppelherz Magnesium 400 + B1 + B6 + B12 + Folsäure 15 Brausetabletten",
+    "category": "Gesundheit",
+    "subcategories": ["Magnesium 400", "B1", "B6", "B12", "Folsäure"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002014445",
+    "name": "Doppelherz Magnesium 400 + B12 + C + E 30 Tabletten",
+    "category": "Gesundheit",
+    "subcategories": ["Magnesium 400", "B12", "C", "E"]
+  },
+  {
+    "store": "spar",
+    "id": "7240041",
+    "name": "Doppelherz Magnesium 400 + Kalium 30 Tabletten",
+    "category": "Gesundheit",
+    "subcategories": ["Magnesium 400", "Kalium"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002014360",
+    "name": "Doppelherz Magnesium 400 + Kalium Direct 20 Portionen",
+    "category": "Gesundheit",
+    "subcategories": ["Magnesium 400", "Kalium"]
+  },
+  {
+    "store": "spar",
+    "id": "6668143",
+    "name": "Doppelherz Magnesium 400 +B1+B6+B12+Folsäure 30 Tabletten",
+    "category": "Gesundheit",
+    "subcategories": ["Magnesium 400", "B1", "B6", "B12", "Folsäure"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003851391",
+    "name": "Doppelherz Magnesium 500  für die Nacht 30 Tabletten",
+    "category": "Gesundheit",
+    "subcategories": ["Magnesium 500", "Nacht"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004204738",
+    "name": "Doppelherz Magnesium 500 + B12 + D3 DEPOT Direct 20 Portionen",
+    "category": "Gesundheit",
+    "subcategories": ["Magnesium 500", "B12", "D3"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003892189",
+    "name": "Doppelherz Magnesium 500 + Calcium + Kalium + D3 + B6 30 Tabletten",
+    "category": "Gesundheit",
+    "subcategories": ["Magnesium 500", "Calcium", "Kalium", "D3", "B6"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002014384",
+    "name": "Doppelherz Magnesium 500 2-Phasen Depot 40 Tabletten",
+    "category": "Gesundheit",
+    "subcategories": ["Magnesium 500", "2-Phasen Depot"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003892332",
+    "name": "Doppelherz Melatonin 40 Tabletten",
+    "category": "Gesundheit",
+    "subcategories": ["Melatonin"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004239648",
+    "name": "Doppelherz Melatonin Spray Spray",
+    "category": "Gesundheit",
+    "subcategories": ["Melatonin", "Spray"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002014667",
+    "name": "Doppelherz Meno Rotklee + Nachtkerzenöl + Biotin 30 Kapseln",
+    "category": "Gesundheit",
+    "subcategories": ["Meno Rotklee", "Nachtkerzenöl", "Biotin"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002302023",
+    "name": "Doppelherz Nasenspray Meerwasser sensitiv 20ML",
+    "category": "Gesundheit",
+    "subcategories": ["Nasenspray", "Meerwasser", "sensitiv"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002014131",
+    "name": "Doppelherz Omega 3 1400mg 30 Kapseln",
+    "category": "Gesundheit",
+    "subcategories": ["Omega 3"]
+  },
+  {
+    "store": "spar",
+    "id": "7240171",
+    "name": "Doppelherz Omega 3 Seefischöl 1000 80 Kapseln",
+    "category": "Gesundheit",
+    "subcategories": ["Omega 3", "Seefischöl"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002302054",
+    "name": "Doppelherz Schnupfenspray Meerwasser 20ML",
+    "category": "Gesundheit",
+    "subcategories": ["Schnupfenspray", "Meerwasser"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002014339",
+    "name": "Doppelherz Selen 100 2-Phasen DEPOT 45 Tabletten",
+    "category": "Gesundheit",
+    "subcategories": ["Selen 100", "2-Phasen Depot"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004237835",
+    "name": "Doppelherz Sodbrennen akut + protect 20 Kautabletten",
+    "category": "Gesundheit",
+    "subcategories": ["Sodbrennen", "akut", "protect"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002014681",
+    "name": "Doppelherz Sport direct Vitamine + Mineralien 20 Portionen",
+    "category": "Gesundheit",
+    "subcategories": ["Sport", "Vitamine", "Mineralien"]
+  },
+  {
+    "store": "spar",
+    "id": "8160430",
+    "name": "Doppelherz Stress - gute Nerven 30 Tabletten",
+    "category": "Gesundheit",
+    "subcategories": ["Stress", "gute Nerven"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002014438",
+    "name": "Doppelherz Vegetarier Vitamine + Mineralstoffe 30 Tabletten",
+    "category": "Gesundheit",
+    "subcategories": ["Vegetarier", "Vitamine", "Mineralstoffe"]
+  },
+  {
+    "store": "spar",
+    "id": "6604325",
+    "name": "Doppelherz Vital Tonikum",
+    "category": "Gesundheit",
+    "subcategories": ["Vital Tonikum"]
+  },
+  {
+    "store": "spar",
+    "id": "2403625",
+    "name": "Doppelherz Vitamin B12 30 Tabeletten",
+    "category": "Gesundheit",
+    "subcategories": ["Vitamin B12"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002302078",
+    "name": "Doppelherz Vitamin B12 Direct 20 Portionen",
+    "category": "Gesundheit",
+    "subcategories": ["Vitamin B12"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003891830",
+    "name": "Doppelherz Vitamin C 1000 & Vitamin D 30 Tabletten",
+    "category": "Gesundheit",
+    "subcategories": ["Vitamin C 1000", "Vitamin D"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002302108",
+    "name": "Doppelherz Vitamin C 500 + Zink Depot Direct 20 Portionen",
+    "category": "Gesundheit",
+    "subcategories": ["Vitamin C 500", "Zink"]
+  },
+  {
+    "store": "spar",
+    "id": "2120164",
+    "name": "Doppelherz Vitamin D 1000 I.E. 45 Tabletten",
+    "category": "Gesundheit",
+    "subcategories": ["Vitamin D 1000"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002014674",
+    "name": "Doppelherz Zink & Histidin Depot 30 Tabletten",
+    "category": "Gesundheit",
+    "subcategories": ["Zink", "Histidin"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001870806",
+    "name": "Multipower 100% Whey Protein Chocolate Choco 450g",
+    "category": "Lebensmittel",
+    "subcategories": ["Whey Protein", "Chocolate", "Choco"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003433924",
+    "name": "Multipower Eiweißriegel Berry Yoghurt Flavour",
+    "category": "Lebensmittel",
+    "subcategories": ["Eiweißriegel", "Berry Yoghurt"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003433948",
+    "name": "Multipower Eiweißriegel Coconut Flavour",
+    "category": "Lebensmittel",
+    "subcategories": ["Eiweißriegel", "Coconut"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003433962",
+    "name": "Multipower Eiweißriegel Cookies & Cream Flavour",
+    "category": "Lebensmittel",
+    "subcategories": ["Eiweißriegel", "Cookies & Cream"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002626495",
+    "name": "Multipower Proteinpulver Vanille-Geschmack",
+    "category": "Lebensmittel",
+    "subcategories": ["Proteinpulver", "Vanille-Geschmack"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004198730",
+    "name": "Multipower Proteinriegel Caramel Peanut Crunch Flavour",
+    "category": "Lebensmittel",
+    "subcategories": ["Proteinriegel", "Caramel Peanut Crunch"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003003745",
+    "name": "Multipower Proteinriegel Cookies & Cream Flavour",
+    "category": "Lebensmittel",
+    "subcategories": ["Proteinriegel", "Cookies & Cream"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004198846",
+    "name": "Multipower Proteinriegel White Chocolate Salty Almond",
+    "category": "Lebensmittel",
+    "subcategories": ["Proteinriegel", "White Chocolate", "Salty Almond"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002694661",
+    "name": "Multipower Salty Peanut Caramel",
+    "category": "Lebensmittel",
+    "subcategories": ["Salty Peanut Caramel"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004426895",
+    "name": "Natumi Bio Cashew Drink Natural",
+    "category": "Lebensmittel",
+    "subcategories": ["Cashew Drink"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003987922",
+    "name": "BioArt demeter Bio-Senf mittelscharf",
+    "category": "Lebensmittel",
+    "subcategories": ["Bio-Senf", "mittelscharf"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002311186",
+    "name": "Doritos Tortilla Chips Nacho Cheese",
+    "category": "Lebensmittel",
+    "subcategories": ["Tortilla Chips", "Nacho Cheese"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004187888",
+    "name": "Doritos Tortilla Chips Paprika",
+    "category": "Lebensmittel",
+    "subcategories": ["Tortilla Chips", "Paprika"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004460868",
+    "name": "Doritos Tortilla Chips Pizza Salami",
+    "category": "Lebensmittel",
+    "subcategories": ["Tortilla Chips", "Pizza Salami"]
+  },
+  {
+    "store": "spar",
+    "id": "6517861",
+    "name": "Doritos Tortilla Chips Sweet Chili Pepper",
+    "category": "Lebensmittel",
+    "subcategories": ["Tortilla Chips", "Sweet Chili Pepper"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001972371",
+    "name": "Mogyi Pumpkin Seed",
+    "category": "Lebensmittel",
+    "subcategories": ["Pumpkin Seed"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001972456",
+    "name": "Mogyi Sunflower Seeds",
+    "category": "Lebensmittel",
+    "subcategories": ["Sunflower Seeds"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002340186",
+    "name": "Ahoj Brause-Bonbons",
+    "category": "Lebensmittel",
+    "subcategories": ["Brause-Bonbons"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004264725",
+    "name": "Alpenbauer Bio Bonbons Hopfen Pink Grapefruit",
+    "category": "Lebensmittel",
+    "subcategories": ["Bio Bonbons", "Hopfen", "Pink Grapefruit"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002407810",
+    "name": "Alpenbauer Bio Bonbons Ingwer-Kräuter",
+    "category": "Lebensmittel",
+    "subcategories": ["Bio Bonbons", "Ingwer-Kräuter"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002407834",
+    "name": "Alpenbauer Bio Bonbons Salbei-Kräuter",
+    "category": "Lebensmittel",
+    "subcategories": ["Bio Bonbons", "Salbei-Kräuter"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002564919",
+    "name": "Alpenbauer Brause-Bonbons Sportler",
+    "category": "Lebensmittel",
+    "subcategories": ["Brause-Bonbons", "Sportler"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004718884",
+    "name": "Alpenbauer Gebrannte Erdnüsse Gebrannte Erdnüsse 400g",
+    "category": "Lebensmittel",
+    "subcategories": ["Gebrannte Erdnüsse"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001869466",
+    "name": "Alpenbauer Klassik-Bonbons Ingwer-Kirsch",
+    "category": "Lebensmittel",
+    "subcategories": ["Klassik-Bonbons", "Ingwer-Kirsch"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001869435",
+    "name": "Alpenbauer Klassik-Bonbons Ingwer-Limette Ingwer-Orange",
+    "category": "Lebensmittel",
+    "subcategories": ["Klassik-Bonbons", "Ingwer-Limette", "Ingwer-Orange"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004302472",
+    "name": "Alprose Dragee Mix",
+    "category": "Lebensmittel",
+    "subcategories": ["Dragee Mix"]
+  },
+  {
+    "store": "spar",
+    "id": "7643378",
+    "name": "Amicelli 16 Stück",
+    "category": "Lebensmittel",
+    "subcategories": ["Amicelli"]
+  },
+  {
+    "store": "spar",
+    "id": "7656712",
+    "name": "Amicelli 2 x 200g",
+    "category": "Lebensmittel",
+    "subcategories": ["Amicelli"]
+  },
+  {
+    "store": "spar",
+    "id": "2020000520658",
+    "name": "Auer Baumstämme Classic Kakao 3 x 100g",
+    "category": "Lebensmittel",
+    "subcategories": ["Baumstämme", "Classic", "Kakao"]
+  },
+  {
+    "store": "spar",
+    "id": "2020000520603",
+    "name": "Auer Tortenecken Classic Haselnuss 3 x 100g",
+    "category": "Lebensmittel",
+    "subcategories": ["Tortenecken", "Classic", "Haselnuss"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002690700",
+    "name": "Auer Tortenecken à la Mozart 3 x 100g",
+    "category": "Lebensmittel",
+    "subcategories": ["Tortenecken", "Mozart"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003321122",
+    "name": "Frucht & Sinne Danke",
+    "category": "Lebensmittel",
+    "subcategories": ["Danke"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002565329",
+    "name": "Frucht & Sinne Einhorn Regenbogenschokolade",
+    "category": "Lebensmittel",
+    "subcategories": ["Einhorn", "Regenbogenschokolade"]
+  },
+  {
+    "store": "spar",
+    "id": "1999013",
+    "name": "Frucht & Sinne Fruchtschoklade Dunkle Himbeere",
+    "category": "Lebensmittel",
+    "subcategories": ["Fruchtschokolade", "Dunkle Himbeere"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001040926",
+    "name": "Frucht & Sinne Fruchtschoklade Dunkle Johannisbeere",
+    "category": "Lebensmittel",
+    "subcategories": ["Fruchtschokolade", "Dunkle Johannisbeere"]
+  },
+  {
+    "store": "spar",
+    "id": "1999181",
+    "name": "Frucht & Sinne Fruchtschoklade Dunkle Weidelbeere-Himbeere",
+    "category": "Lebensmittel",
+    "subcategories": ["Fruchtschokolade", "Dunkle Weidelbeere-Himbeere"]
+  },
+  {
+    "store": "spar",
+    "id": "1999228",
+    "name": "Frucht & Sinne Fruchtschoklade Helle Erdbeere",
+    "category": "Lebensmittel",
+    "subcategories": ["Fruchtschokolade", "Helle Erdbeere"]
+  },
+  {
+    "store": "spar",
+    "id": "1999235",
+    "name": "Frucht & Sinne Fruchtschoklade Helle Himbeere",
+    "category": "Lebensmittel",
+    "subcategories": ["Fruchtschokolade", "Helle Himbeere"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001040889",
+    "name": "Frucht & Sinne Fruchtschoklade Helle Marille",
+    "category": "Lebensmittel",
+    "subcategories": ["Fruchtschokolade", "Helle Marille"]
+  },
+  {
+    "store": "spar",
+    "id": "6606909",
+    "name": "Frucht & Sinne Fruchtschoklade Walnuss-Pistazie",
+    "category": "Lebensmittel",
+    "subcategories": ["Fruchtschokolade", "Walnuss-Pistazie"]
+  },
+  {
+    "store": "spar",
+    "id": "6607234",
+    "name": "Frucht & Sinne Gefüllte Schokolade Erdbeere-Johannisbeere",
+    "category": "Lebensmittel",
+    "subcategories": ["Gefüllte Schokolade", "Erdbeere-Johannisbeere"]
+  },
+  {
+    "store": "spar",
+    "id": "1999266",
+    "name": "Frucht & Sinne Gefüllte Schokolade Himbeere",
+    "category": "Lebensmittel",
+    "subcategories": ["Gefüllte Schokolade", "Himbeere"]
+  },
+  {
+    "store": "spar",
+    "id": "1999341",
+    "name": "Frucht & Sinne Gefüllte Schokolade Marille",
+    "category": "Lebensmittel",
+    "subcategories": ["Gefüllte Schokolade", "Marille"]
+  },
+  {
+    "store": "spar",
+    "id": "1999426",
+    "name": "Frucht & Sinne Gefüllte Schokolade Pfirsich-Himbeere",
+    "category": "Lebensmittel",
+    "subcategories": ["Gefüllte Schokolade", "Pfirsich-Himbeere"]
+  },
+  {
+    "store": "spar",
+    "id": "1999440",
+    "name": "Frucht & Sinne Gefüllte Schokolade Sauerkirsche-Apfel",
+    "category": "Lebensmittel",
+    "subcategories": ["Gefüllte Schokolade", "Sauerkirsche-Apfel"]
+  },
+  {
+    "store": "spar",
+    "id": "2020000585855",
+    "name": "Frucht & Sinne Gefüllte Schokolade Walnuss",
+    "category": "Lebensmittel",
+    "subcategories": ["Gefüllte Schokolade", "Walnuss"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001040278",
+    "name": "Frucht & Sinne Pralinen Fruchtige Kollektion",
+    "category": "Lebensmittel",
+    "subcategories": ["Pralinen", "Fruchtige Kollektion"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001040834",
+    "name": "Frucht & Sinne Pralinen Klassik Kollektion",
+    "category": "Lebensmittel",
+    "subcategories": ["Pralinen", "Klassik Kollektion"]
+  }
+]

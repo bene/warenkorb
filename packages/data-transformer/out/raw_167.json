@@ -1,0 +1,702 @@
+[
+  {
+    "store": "spar",
+    "id": "3484838",
+    "name": "SPAR Natur*pur Bio-Rostbraten-Ribeye-Steak",
+    "category": "Fleisch",
+    "subcategories": ["Steak", "Bio"]
+  },
+  {
+    "store": "spar",
+    "id": "6278717",
+    "name": "SPAR Natur*pur Bio-Schweine-Filet",
+    "category": "Fleisch",
+    "subcategories": ["Filet", "Bio"]
+  },
+  {
+    "store": "spar",
+    "id": "6278700",
+    "name": "SPAR Natur*pur Bio-Schweine-Karreesteak",
+    "category": "Fleisch",
+    "subcategories": ["Karreesteak", "Bio"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002800116",
+    "name": "SPAR Natur*pur Bio-Schweine-Schopf",
+    "category": "Fleisch",
+    "subcategories": ["Schopf", "Bio"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002800758",
+    "name": "SPAR Natur*pur Bio-Schweine-Schopfsteak",
+    "category": "Fleisch",
+    "subcategories": ["Schopfsteak", "Bio"]
+  },
+  {
+    "store": "spar",
+    "id": "6278694",
+    "name": "SPAR Natur*pur Bio-Schweins-Schnitzel",
+    "category": "Fleisch",
+    "subcategories": ["Schnitzel", "Bio"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002800789",
+    "name": "SPAR Natur*pur Bio-Schweins-Schnitzel",
+    "category": "Fleisch",
+    "subcategories": ["Schnitzel", "Bio"]
+  },
+  {
+    "store": "spar",
+    "id": "7103957",
+    "name": "Nudelsalat 1 KG",
+    "category": "Salate",
+    "subcategories": ["Nudelsalat"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001819386",
+    "name": "Nudelsalat Bella Ciao 1 KG",
+    "category": "Salate",
+    "subcategories": ["Nudelsalat"]
+  },
+  {
+    "store": "spar",
+    "id": "5535538",
+    "name": "Nussrebell 1 KG",
+    "category": "Nüsse",
+    "subcategories": ["Nuss"]
+  },
+  {
+    "store": "spar",
+    "id": "2299532",
+    "name": "Obersteirische Molkerei Erzherzog Johann",
+    "category": "Milch",
+    "subcategories": ["Molkerei"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002798123",
+    "name": "Occelli Weichkäse Tuma del Trifulau Mini 120g",
+    "category": "Käse",
+    "subcategories": ["Weichkäse"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002489748",
+    "name": "Ochsenmaulsalat 1 KG",
+    "category": "Salate",
+    "subcategories": ["Ochsenmaul"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003423321",
+    "name": "S-BUDGET Rahm-Camembert",
+    "category": "Käse",
+    "subcategories": ["Camembert", "Rahm"]
+  },
+  {
+    "store": "spar",
+    "id": "2153100",
+    "name": "S-BUDGET Schmelzkäse Eckerl Mix 8 Stück",
+    "category": "Käse",
+    "subcategories": ["Schmelzkäse"]
+  },
+  {
+    "store": "spar",
+    "id": "6985837",
+    "name": "S-BUDGET Schmelzkäse Eckerl Natur 16 Stück",
+    "category": "Käse",
+    "subcategories": ["Schmelzkäse"]
+  },
+  {
+    "store": "spar",
+    "id": "7716492",
+    "name": "S-BUDGET Toast-Käsescheiben 35% F.i.T. 10 Scheiben",
+    "category": "Käse",
+    "subcategories": ["Toast", "Käsescheiben"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002870546",
+    "name": "S-BUDGET Weichkäse cremig & mild",
+    "category": "Käse",
+    "subcategories": ["Weichkäse"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002870553",
+    "name": "S-BUDGET Weichkäse fein & würzig",
+    "category": "Käse",
+    "subcategories": ["Weichkäse"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002865573",
+    "name": "S-BUDGET Wurst-Salat Wurstsalat 400g",
+    "category": "Wurst",
+    "subcategories": ["Wurstsalat"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003527586",
+    "name": "S-BUDGET Österreichischer Bergkäse aus Heumilch",
+    "category": "Käse",
+    "subcategories": ["Bergkäse", "Heumilch"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004527707",
+    "name": "S-BUDGET Österreichischer Bergkäse aus Heumilch",
+    "category": "Käse",
+    "subcategories": ["Bergkäse", "Heumilch"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002561956",
+    "name": "S-BUDGET Österreichischer Butterkäse 45 % F. i. T.",
+    "category": "Käse",
+    "subcategories": ["Butterkäse"]
+  },
+  {
+    "store": "spar",
+    "id": "6527181",
+    "name": "S-BUDGET Österreichischer Gouda 45% F.i.T.",
+    "category": "Käse",
+    "subcategories": ["Gouda"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001195855",
+    "name": "S-BUDGET Österreichischer Großlochkäse",
+    "category": "Käse",
+    "subcategories": ["Großlochkäse"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002471446",
+    "name": "S-BUDGET Österreichischer Tilsiter 45% F.i.T.",
+    "category": "Käse",
+    "subcategories": ["Tilsiter"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002559083",
+    "name": "SPAR Natur*pur Bio-Bergkäse aus Heumilch",
+    "category": "Käse",
+    "subcategories": ["Bio-Bergkäse", "Heumilch"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004485434",
+    "name": "SPAR Natur*pur Bio-Bergkäse aus Heumilch",
+    "category": "Käse",
+    "subcategories": ["Bio-Bergkäse", "Heumilch"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003706035",
+    "name": "SPAR Natur*pur Bio-Bergkäse aus Heumilch gerieben",
+    "category": "Käse",
+    "subcategories": ["Bio-Bergkäse", "Heumilch", "gerieben"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003465796",
+    "name": "SPAR Natur*pur Bio-Bergkäse aus Heumilch in Scheiben",
+    "category": "Käse",
+    "subcategories": ["Bio-Bergkäse", "Heumilch", "Scheiben"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003785436",
+    "name": "SPAR Natur*pur Bio-Butterkäse aus Heumilch",
+    "category": "Käse",
+    "subcategories": ["Bio-Butterkäse", "Heumilch"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003465819",
+    "name": "SPAR Natur*pur Bio-Butterkäse in Scheiben",
+    "category": "Käse",
+    "subcategories": ["Bio-Butterkäse", "Scheiben"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002561802",
+    "name": "SPAR Natur*pur Bio-Camembert",
+    "category": "Käse",
+    "subcategories": ["Camembert"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003753145",
+    "name": "SPAR Natur*pur Bio-Cottage Cheese Natur",
+    "category": "Käse",
+    "subcategories": ["Cottage Cheese"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003753190",
+    "name": "SPAR Natur*pur Bio-Cottage Cheese Schnittlauch",
+    "category": "Käse",
+    "subcategories": ["Cottage Cheese"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003126765",
+    "name": "SPAR Natur*pur Bio-Edel-Schimmel-Käse",
+    "category": "Käse",
+    "subcategories": ["Edel-Schimmel-Käse"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002666248",
+    "name": "SPAR Natur*pur Bio-Emmentaler aus Bio-Heumilch gerieben",
+    "category": "Käse",
+    "subcategories": ["Bio-Emmentaler", "Heumilch", "gerieben"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002408572",
+    "name": "SPAR Natur*pur Bio-Emmentaler aus Heumilch",
+    "category": "Käse",
+    "subcategories": ["Emmentaler", "Heumilch"]
+  },
+  {
+    "store": "spar",
+    "id": "1451894",
+    "name": "SPAR Natur*pur Bio-Emmentaler aus Heumilch",
+    "category": "Käse",
+    "subcategories": ["Emmentaler", "Heumilch"]
+  },
+  {
+    "store": "spar",
+    "id": "8184634",
+    "name": "SPAR Natur*pur Bio-Feta",
+    "category": "Käse",
+    "subcategories": ["Feta"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003459474",
+    "name": "SPAR Natur*pur Bio-Mini-Mozarella",
+    "category": "Käse",
+    "subcategories": ["Mozarella"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004220387",
+    "name": "SPAR Natur*pur Bio-Mondseer",
+    "category": "Käse",
+    "subcategories": ["Mondseer"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003730771",
+    "name": "SPAR Natur*pur Bio-Mozzarella",
+    "category": "Käse",
+    "subcategories": ["Mozarella"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003526961",
+    "name": "SPAR Natur*pur Bio-Mozzarella gerieben",
+    "category": "Käse",
+    "subcategories": ["Mozarella", "gerieben"]
+  },
+  {
+    "store": "spar",
+    "id": "4105046",
+    "name": "SPAR Natur*pur Bio-Ortenburger aus Wiesenmilch",
+    "category": "Käse",
+    "subcategories": ["Ortenburger", "Wiesenmilch"]
+  },
+  {
+    "store": "spar",
+    "id": "4174578",
+    "name": "SPAR Natur*pur Bio-Pizzakäse aus Wiesenmilch",
+    "category": "Käse",
+    "subcategories": ["Pizzakäse", "Wiesenmilch"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002693916",
+    "name": "SPAR Natur*pur Bio-Raclette aus Bio-Heumlich",
+    "category": "Käse",
+    "subcategories": ["Raclette", "Heumilch"]
+  },
+  {
+    "store": "spar",
+    "id": "4106722",
+    "name": "SPAR Natur*pur Bio-Rahm-Tilsiter aus Wiesenmilch",
+    "category": "Käse",
+    "subcategories": ["Rahm-Tilsiter", "Wiesenmilch"]
+  },
+  {
+    "store": "spar",
+    "id": "3201107",
+    "name": "SPAR Natur*pur Bio-Rahmbrie",
+    "category": "Käse",
+    "subcategories": ["Rahmbrie"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002469436",
+    "name": "SPAR Natur*pur Bio-Schaf-Frischkäse Natur",
+    "category": "Käse",
+    "subcategories": ["Schaf-Frischkäse"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002469122",
+    "name": "SPAR Natur*pur Bio-Senngold Kräuter",
+    "category": "Käse",
+    "subcategories": ["Senngold", "Kräuter"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002469115",
+    "name": "SPAR Natur*pur Bio-Senngold Natur",
+    "category": "Käse",
+    "subcategories": ["Senngold"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004445247",
+    "name": "SPAR Natur*pur Bio-Senngold mediterran gewürzt",
+    "category": "Käse",
+    "subcategories": ["Senngold", "mediterran"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003785443",
+    "name": "SPAR Natur*pur Bio-Tilsiter aus Heumilch",
+    "category": "Käse",
+    "subcategories": ["Tilsiter", "Heumilch"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003465802",
+    "name": "SPAR Natur*pur Bio-Tilsiter in Scheiben",
+    "category": "Käse",
+    "subcategories": ["Tilsiter", "Scheiben"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003329968",
+    "name": "SPAR Natur*pur Bio-Topfenaufstrich Bärlauch",
+    "category": "Aufstrich",
+    "subcategories": ["Topfenaufstrich", "Bärlauch"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003710872",
+    "name": "SPAR Natur*pur Bio-Topfenaufstrich Ei Schnittlauch",
+    "category": "Aufstrich",
+    "subcategories": ["Topfenaufstrich", "Ei", "Schnittlauch"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003036675",
+    "name": "SPAR Natur*pur Bio-Topfenaufstrich Ei-Schnittlauch",
+    "category": "Aufstrich",
+    "subcategories": ["Topfenaufstrich", "Ei", "Schnittlauch"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003216954",
+    "name": "SPAR Natur*pur Bio-Topfenaufstrich Kokos-Curry",
+    "category": "Aufstrich",
+    "subcategories": ["Topfenaufstrich", "Kokos-Curry"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003102431",
+    "name": "SPAR Natur*pur Bio-Topfenaufstrich Kürbiskern",
+    "category": "Aufstrich",
+    "subcategories": ["Topfenaufstrich", "Kürbiskern"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003620829",
+    "name": "SPAR Natur*pur Bio-Topfenaufstrich Liptauer",
+    "category": "Aufstrich",
+    "subcategories": ["Topfenaufstrich", "Liptauer"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003036651",
+    "name": "SPAR Natur*pur Bio-Topfenaufstrich Liptauer Art",
+    "category": "Aufstrich",
+    "subcategories": ["Topfenaufstrich", "Liptauer"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003036613",
+    "name": "SPAR Natur*pur Bio-Topfenaufstrich getrocknete Tomaten",
+    "category": "Aufstrich",
+    "subcategories": ["Topfenaufstrich", "getrocknete Tomaten"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002561826",
+    "name": "SPAR Natur*pur Bio-Weichkäse mit Rotkultur und Weißschimmel",
+    "category": "Käse",
+    "subcategories": ["Weichkäse", "Rotkultur", "Weißschimmel"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002559151",
+    "name": "SPAR Natur*pur Bio-Ziegen-Camembert",
+    "category": "Käse",
+    "subcategories": ["Ziegen-Camembert"]
+  },
+  {
+    "store": "spar",
+    "id": "8201126",
+    "name": "SPAR Natur*pur Bio-Ziegen-Frischkäse Natur",
+    "category": "Käse",
+    "subcategories": ["Ziegen-Frischkäse"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003036705",
+    "name": "SPAR Natur*pur Griechischer Bio-Schaf- & Ziegenkäse mit Kräuter",
+    "category": "Käse",
+    "subcategories": ["Griechischer Schafkäse", "Ziegenkäse", "Kräuter"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004220875",
+    "name": "SPAR Natur*pur Griechischer Bio-Ziegenkäse Natur",
+    "category": "Käse",
+    "subcategories": ["Griechischer Ziegenkäse"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003532344",
+    "name": "SPAR Natur*pur Parmigiano Reggiano g.U.",
+    "category": "Käse",
+    "subcategories": ["Parmigiano Reggiano"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001818105",
+    "name": "SPAR Original griechisches Tzatziki",
+    "category": "Aufstrich",
+    "subcategories": ["Tzatziki"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001310210",
+    "name": "SPAR PREMIUM Asiago Stagionato D.O.P.",
+    "category": "Käse",
+    "subcategories": ["Asiago Stagionato"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002647377",
+    "name": "SPAR PREMIUM Bergkäse",
+    "category": "Käse",
+    "subcategories": ["Bergkäse"]
+  },
+  {
+    "store": "spar",
+    "id": "2956954",
+    "name": "SPAR PREMIUM Burrata",
+    "category": "Käse",
+    "subcategories": ["Burrata"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003939082",
+    "name": "SPAR PREMIUM Burrata al tartufo",
+    "category": "Käse",
+    "subcategories": ["Burrata", "tartufo"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001313730",
+    "name": "SPAR PREMIUM Taleggio D.O.P.",
+    "category": "Käse",
+    "subcategories": ["Taleggio"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001999323",
+    "name": "SPAR PREMIUM Vorarlberger Bergkäse g.U.",
+    "category": "Käse",
+    "subcategories": ["Bergkäse"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004381255",
+    "name": "SPAR Quargel Natur",
+    "category": "Käse",
+    "subcategories": ["Quargel"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004381286",
+    "name": "SPAR Quargel Paprika",
+    "category": "Käse",
+    "subcategories": ["Quargel", "Paprika"]
+  },
+  {
+    "store": "spar",
+    "id": "2020000753872",
+    "name": "SPAR Raclette Käse in Scheiben",
+    "category": "Käse",
+    "subcategories": ["Raclette", "Scheiben"]
+  },
+  {
+    "store": "spar",
+    "id": "7250934",
+    "name": "SPAR Schmelzkäse Rahm-Eckerl 8 x 31,25g",
+    "category": "Käse",
+    "subcategories": ["Schmelzkäse"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004353498",
+    "name": "SPAR Tilsiter in Scheiben",
+    "category": "Käse",
+    "subcategories": ["Tilsiter", "Scheiben"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001329120",
+    "name": "SPAR Vital Vital Mozzarella light",
+    "category": "Käse",
+    "subcategories": ["Vital Mozzarella", "light"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003329883",
+    "name": "SPAR Ziegenkäse aus Heumilch",
+    "category": "Käse",
+    "subcategories": ["Ziegenkäse", "Heumilch"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003355738",
+    "name": "SPAR Ziegenkäse in Scheiben",
+    "category": "Käse",
+    "subcategories": ["Ziegenkäse", "Scheiben"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002886295",
+    "name": "SPAR Ziegenweichkäse",
+    "category": "Käse",
+    "subcategories": ["Ziegenweichkäse"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001175239",
+    "name": "SPAR Zypriotischer Grillkäse Basilikum",
+    "category": "Käse",
+    "subcategories": ["Zypriotischer Grillkäse", "Basilikum"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001175338",
+    "name": "SPAR Zypriotischer Grillkäse Chili",
+    "category": "Käse",
+    "subcategories": ["Zypriotischer Grillkäse", "Chili"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002281366",
+    "name": "SPAR free from Chottage Cheese Kräuter",
+    "category": "Käse",
+    "subcategories": ["Chottage Cheese", "Kräuter"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002281403",
+    "name": "SPAR free from Cottage Cheese Natur",
+    "category": "Käse",
+    "subcategories": ["Cottage Cheese"]
+  },
+  {
+    "store": "spar",
+    "id": "2888293",
+    "name": "SPAR free from Frischkäse Kräuter",
+    "category": "Käse",
+    "subcategories": ["Frischkäse", "Kräuter"]
+  },
+  {
+    "store": "spar",
+    "id": "2888262",
+    "name": "SPAR free from Frischkäse Natur",
+    "category": "Käse",
+    "subcategories": ["Frischkäse"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001633272",
+    "name": "SPAR free from Mascarpone",
+    "category": "Käse",
+    "subcategories": ["Mascarpone"]
+  },
+  {
+    "store": "spar",
+    "id": "2403526",
+    "name": "SPAR free from Mozzarella",
+    "category": "Käse",
+    "subcategories": ["Mozzarella"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003036743",
+    "name": "SPAR free from griechischer Feta",
+    "category": "Käse",
+    "subcategories": ["Feta"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003987212",
+    "name": "SPAR österreichischer Trüffelkäse fein-aromatisch",
+    "category": "Käse",
+    "subcategories": ["Trüffelkäse"]
+  },
+  {
+    "store": "spar",
+    "id": "2020000463979",
+    "name": "Sabelli Sabellino Provolone",
+    "category": "Käse",
+    "subcategories": ["Provolone"]
+  },
+  {
+    "store": "spar",
+    "id": "3040331",
+    "name": "Saint Agur Französischer Edelpilzkäse",
+    "category": "Käse",
+    "subcategories": ["Edelpilzkäse"]
+  },
+  {
+    "store": "spar",
+    "id": "7129346",
+    "name": "Saint Albray Französischer Weichkäse leicht",
+    "category": "Käse",
+    "subcategories": ["Weichkäse", "leicht"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002098308",
+    "name": "Saint Albray L'original",
+    "category": "Käse",
+    "subcategories": ["Weichkäse"]
+  },
+  {
+    "store": "spar",
+    "id": "5432929",
+    "name": "Saint Albray Weichkäse",
+    "category": "Käse",
+    "subcategories": ["Weichkäse"]
+  }
+]

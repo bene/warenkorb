@@ -1,0 +1,702 @@
+[
+  {
+    "store": "billa",
+    "id": "00-792356",
+    "name": "Ananas aus Costa Rica",
+    "category": "Obst",
+    "subcategories": ["exotisch", "tropisch", "süß"]
+  },
+  {
+    "store": "billa",
+    "id": "00-764110",
+    "name": "Apfel 'Kanzi' Tasse aus Österreich",
+    "category": "Obst",
+    "subcategories": ["säuerlich", "heimisch"]
+  },
+  {
+    "store": "billa",
+    "id": "00-411116",
+    "name": "BILLA Bio Avocado aus Marokko / Mexiko / Peru",
+    "category": "Obst",
+    "subcategories": ["gesund", "fettreich", "selbstgemacht"]
+  },
+  {
+    "store": "billa",
+    "id": "00-493751",
+    "name": "BILLA Bio Birnen aus Argentinien",
+    "category": "Obst",
+    "subcategories": ["saftig", "weich", "süß"]
+  },
+  {
+    "store": "billa",
+    "id": "00-471788",
+    "name": "BILLA Bio Erdbeeren aus Spanien",
+    "category": "Obst",
+    "subcategories": ["rot", "süß", "saison"]
+  },
+  {
+    "store": "billa",
+    "id": "00-444759",
+    "name": "BILLA Bio Heidelbeeren aus Spanien",
+    "category": "Obst",
+    "subcategories": ["blau", "süß", "klein"]
+  },
+  {
+    "store": "billa",
+    "id": "00-471789",
+    "name": "BILLA Bio Himbeeren aus Spanien",
+    "category": "Obst",
+    "subcategories": ["rot", "süß", "klein"]
+  },
+  {
+    "store": "billa",
+    "id": "00-490093",
+    "name": "BILLA Bio Kiwi Gold aus Neuseeland",
+    "category": "Obst",
+    "subcategories": ["grün", "exotisch", "säuerlich"]
+  },
+  {
+    "store": "billa",
+    "id": "00-561102",
+    "name": "BILLA Bio Limetten aus Mexiko/Brasilien/Peru",
+    "category": "Obst",
+    "subcategories": ["grün", "säuerlich", "klein"]
+  },
+  {
+    "store": "billa",
+    "id": "00-444652",
+    "name": "BILLA Bio Mango aus Dominikanische Rep.",
+    "category": "Obst",
+    "subcategories": ["exotisch", "süß", "saison"]
+  },
+  {
+    "store": "billa",
+    "id": "00-583562",
+    "name": "BILLA Bio Orangen aus Südafrika",
+    "category": "Obst",
+    "subcategories": ["orange", "saftig", "vitamin c"]
+  },
+  {
+    "store": "billa",
+    "id": "00-583561",
+    "name": "BILLA Bio Zitronen aus Peru/Südafrika",
+    "category": "Obst",
+    "subcategories": ["gelb", "sauer", "vitamin c"]
+  },
+  {
+    "store": "billa",
+    "id": "00-89325",
+    "name": "Birnen 'Packhams' gelegt aus Südafrika",
+    "category": "Obst",
+    "subcategories": ["gelb", "süß", "exotisch"]
+  },
+  {
+    "store": "billa",
+    "id": "00-89330",
+    "name": "Birnen Gelegt aus Spanien",
+    "category": "Obst",
+    "subcategories": ["gelb", "süß", "heimisch"]
+  },
+  {
+    "store": "billa",
+    "id": "00-405960",
+    "name": "Blaue Trauben kernlos aus Italien / Peru / Indien / Namibia / Südafrika",
+    "category": "Obst",
+    "subcategories": ["blau", "saftig", "vitaminreich"]
+  },
+  {
+    "store": "billa",
+    "id": "00-414705",
+    "name": "Brombeeren aus Portugal / Spanien / Mexiko",
+    "category": "Obst",
+    "subcategories": ["dunkel", "säuerlich", "klein"]
+  },
+  {
+    "store": "billa",
+    "id": "00-89280",
+    "name": "Clever Apfel rot aus Österreich",
+    "category": "Obst",
+    "subcategories": ["rot", "süß", "heimisch"]
+  },
+  {
+    "store": "billa",
+    "id": "00-307536",
+    "name": "Clever Avocado aus Kolumbien",
+    "category": "Obst",
+    "subcategories": ["gesund", "fettreich"]
+  },
+  {
+    "store": "billa",
+    "id": "00-258074",
+    "name": "Clever Bananen aus Kolumbien",
+    "category": "Obst",
+    "subcategories": ["gelb", "süß"]
+  },
+  {
+    "store": "billa",
+    "id": "00-89316",
+    "name": "Clever Birnen aus Spanien",
+    "category": "Obst",
+    "subcategories": ["gelb", "süß"]
+  },
+  {
+    "store": "billa",
+    "id": "00-88206",
+    "name": "Clever Kiwi Tasse aus Chile / Neuseeland",
+    "category": "Obst",
+    "subcategories": ["grün", "exotisch", "säuerlich"]
+  },
+  {
+    "store": "billa",
+    "id": "00-705314",
+    "name": "Clever Zitronen aus Italien / Spanien / Griechenland / Südafrika",
+    "category": "Obst",
+    "subcategories": ["gelb", "sauer"]
+  },
+  {
+    "store": "billa",
+    "id": "00-364527",
+    "name": "Da komm ich her! Apfel Tasse rot aus Österreich",
+    "category": "Obst",
+    "subcategories": ["rot", "süß", "heimisch"]
+  },
+  {
+    "store": "billa",
+    "id": "00-89693",
+    "name": "Da komm ich her! Elstar Apfel gelegt aus Österreich",
+    "category": "Obst",
+    "subcategories": ["rot", "süß", "heimisch"]
+  },
+  {
+    "store": "billa",
+    "id": "00-89480",
+    "name": "Da komm ich her! Erdbeeren aus Österreich",
+    "category": "Obst",
+    "subcategories": ["rot", "süß", "heimisch"]
+  },
+  {
+    "store": "billa",
+    "id": "00-88130",
+    "name": "Da komm ich her! Erdbeeren aus Österreich",
+    "category": "Obst",
+    "subcategories": ["rot", "süß", "heimisch"]
+  },
+  {
+    "store": "billa",
+    "id": "00-89247",
+    "name": "Da komm ich her! Fuji Apfel gelegt aus Österreich",
+    "category": "Obst",
+    "subcategories": ["rot", "süß", "heimisch"]
+  },
+  {
+    "store": "billa",
+    "id": "00-349026",
+    "name": "Da komm ich her! Gala Apfel gelegt aus Österreich",
+    "category": "Obst",
+    "subcategories": ["rot", "süß", "heimisch"]
+  },
+  {
+    "store": "billa",
+    "id": "00-413594",
+    "name": "Da komm ich her! Golden Delicious Apfel Tasse aus Österreich",
+    "category": "Obst",
+    "subcategories": ["gelb", "süß", "heimisch"]
+  },
+  {
+    "store": "billa",
+    "id": "00-89724",
+    "name": "Da komm ich her! Golden Delicious Apfel aus Österreich",
+    "category": "Obst",
+    "subcategories": ["gelb", "süß", "heimisch"]
+  },
+  {
+    "store": "billa",
+    "id": "00-593312",
+    "name": "Da komm ich her! Heidelbeeren aus Österreich",
+    "category": "Obst",
+    "subcategories": ["blau", "süß", "heimisch"]
+  },
+  {
+    "store": "billa",
+    "id": "00-89184",
+    "name": "Da komm ich her! Kirschen Lose aus Österreich",
+    "category": "Obst",
+    "subcategories": ["rot", "süß", "heimisch"]
+  },
+  {
+    "store": "billa",
+    "id": "00-88283",
+    "name": "Da komm ich her! Marillen aus Österreich",
+    "category": "Obst",
+    "subcategories": ["orange", "süß", "heimisch"]
+  },
+  {
+    "store": "billa",
+    "id": "00-89581",
+    "name": "Da komm ich her! Mini Gala Apfel im Sackerl aus Österreich",
+    "category": "Obst",
+    "subcategories": ["rot", "süß", "heimisch"]
+  },
+  {
+    "store": "billa",
+    "id": "00-89062",
+    "name": "Da komm ich her! Ribiseln aus Österreich",
+    "category": "Obst",
+    "subcategories": ["rot", "sauer", "heimisch"]
+  },
+  {
+    "store": "billa",
+    "id": "00-89473",
+    "name": "Da komm ich her! Stachelbeeren aus Österreich",
+    "category": "Obst",
+    "subcategories": ["grün", "sauer", "heimisch"]
+  },
+  {
+    "store": "billa",
+    "id": "00-415859",
+    "name": "Datteln 'Deglet Nour' ohne Stein",
+    "category": "Obst",
+    "subcategories": ["gesund", "süß"]
+  },
+  {
+    "store": "billa",
+    "id": "00-89144",
+    "name": "Feigen frisch aus Italien",
+    "category": "Obst",
+    "subcategories": ["gelb", "süß"]
+  },
+  {
+    "store": "billa",
+    "id": "00-410607",
+    "name": "Heidelbeeren aus Peru",
+    "category": "Obst",
+    "subcategories": ["blau", "süß"]
+  },
+  {
+    "store": "billa",
+    "id": "00-410825",
+    "name": "Heidelbeeren aus Spanien / Marokko",
+    "category": "Obst",
+    "subcategories": ["blau", "süß"]
+  },
+  {
+    "store": "billa",
+    "id": "00-89235",
+    "name": "Heidelbeeren aus Spanien / Marokko",
+    "category": "Obst",
+    "subcategories": ["blau", "süß"]
+  },
+  {
+    "store": "billa",
+    "id": "00-410755",
+    "name": "Himbeeren aus Spanien / Marokko / Portugal",
+    "category": "Obst",
+    "subcategories": ["rot", "süß"]
+  },
+  {
+    "store": "billa",
+    "id": "00-89117",
+    "name": "Honigmelone aus Spanien",
+    "category": "Obst",
+    "subcategories": ["orange", "süß"]
+  },
+  {
+    "store": "billa",
+    "id": "00-89204",
+    "name": "Ja! Natürlich Apfel 'Natyra' gelegt aus Österreich",
+    "category": "Obst",
+    "subcategories": ["rot", "süß", "heimisch"]
+  },
+  {
+    "store": "billa",
+    "id": "00-431081",
+    "name": "Ja! Natürlich Apfel Tasse rot aus Österreich",
+    "category": "Obst",
+    "subcategories": ["rot", "süß", "heimisch"]
+  },
+  {
+    "store": "billa",
+    "id": "00-402489",
+    "name": "Ja! Natürlich Bananen aus Dominikanische Rep.",
+    "category": "Obst",
+    "subcategories": ["gelb", "süß"]
+  },
+  {
+    "store": "billa",
+    "id": "00-368890",
+    "name": "Ja! Natürlich Bio Apfel 'Topaz' gelegt aus Österreich",
+    "category": "Obst",
+    "subcategories": ["gelb", "süß", "heimisch"]
+  },
+  {
+    "store": "billa",
+    "id": "00-89188",
+    "name": "Ja! Natürlich Bio Apfel Topaz Tasse aus Österreich",
+    "category": "Obst",
+    "subcategories": ["gelb", "süß", "heimisch"]
+  },
+  {
+    "store": "billa",
+    "id": "00-503326",
+    "name": "Ja! Natürlich Bio Heidelbeeren aus Österreich",
+    "category": "Obst",
+    "subcategories": ["blau", "süß", "heimisch"]
+  },
+  {
+    "store": "billa",
+    "id": "00-400933",
+    "name": "Ja! Natürlich Bio Kiwi aus Italien",
+    "category": "Obst",
+    "subcategories": ["grün", "säuerlich"]
+  },
+  {
+    "store": "billa",
+    "id": "00-407346",
+    "name": "Ja! Natürlich Bio Zitronen aus Spanien / Italien / Griechenland",
+    "category": "Obst",
+    "subcategories": ["gelb", "sauer"]
+  },
+  {
+    "store": "billa",
+    "id": "00-724786",
+    "name": "Ja! Natürlich Bio-Snackäpfel aus Österreich",
+    "category": "Obst",
+    "subcategories": ["rot", "süß", "heimisch"]
+  },
+  {
+    "store": "billa",
+    "id": "00-402935",
+    "name": "Ja! Natürlich Datteln aus Tunesien",
+    "category": "Obst",
+    "subcategories": ["gesund", "süß"]
+  },
+  {
+    "store": "billa",
+    "id": "00-89363",
+    "name": "Ja! Natürlich Kirschen aus Österreich",
+    "category": "Obst",
+    "subcategories": ["rot", "süß", "heimisch"]
+  },
+  {
+    "store": "billa",
+    "id": "00-89050",
+    "name": "Ja! Natürlich Marillen aus Italien",
+    "category": "Obst",
+    "subcategories": ["orange", "süß"]
+  },
+  {
+    "store": "billa",
+    "id": "00-409123",
+    "name": "Ja! Natürlich Mini Wassermelone aus Spanien",
+    "category": "Obst",
+    "subcategories": ["grün", "süß"]
+  },
+  {
+    "store": "billa",
+    "id": "00-425406",
+    "name": "Ja! Natürlich Nektarinen aus Italien",
+    "category": "Obst",
+    "subcategories": ["orange", "süß"]
+  },
+  {
+    "store": "billa",
+    "id": "00-89083",
+    "name": "Ja! Natürlich Orangen aus Italien / Griechenland",
+    "category": "Obst",
+    "subcategories": ["orange", "saftig"]
+  },
+  {
+    "store": "billa",
+    "id": "00-413969",
+    "name": "Ja! Natürlich Sultana Trauben kernlos aus Griechenland / Zypern",
+    "category": "Obst",
+    "subcategories": ["gelb", "süß"]
+  },
+  {
+    "store": "billa",
+    "id": "00-427006",
+    "name": "Ja! Natürlich Zuckermelone aus Italien",
+    "category": "Obst",
+    "subcategories": ["grün", "süß"]
+  },
+  {
+    "store": "billa",
+    "id": "00-414440",
+    "name": "Kirschen aus Italien / Spanien",
+    "category": "Obst",
+    "subcategories": ["rot", "süß"]
+  },
+  {
+    "store": "billa",
+    "id": "00-89362",
+    "name": "Kirschen lose aus Türkei",
+    "category": "Obst",
+    "subcategories": ["rot", "süß"]
+  },
+  {
+    "store": "billa",
+    "id": "00-89150",
+    "name": "Kiwi essreif aus Neuseeland",
+    "category": "Obst",
+    "subcategories": ["grün", "säuerlich"]
+  },
+  {
+    "store": "billa",
+    "id": "00-89160",
+    "name": "Mango aus Peru",
+    "category": "Obst",
+    "subcategories": ["orange", "süß"]
+  },
+  {
+    "store": "billa",
+    "id": "00-88135",
+    "name": "Marillen aus Italien / Spanien",
+    "category": "Obst",
+    "subcategories": ["orange", "süß"]
+  },
+  {
+    "store": "billa",
+    "id": "00-89377",
+    "name": "Marillen lose aus Italien",
+    "category": "Obst",
+    "subcategories": ["orange", "süß"]
+  },
+  {
+    "store": "billa",
+    "id": "00-89380",
+    "name": "Nektarinen aus Spanien",
+    "category": "Obst",
+    "subcategories": ["orange", "süß"]
+  },
+  {
+    "store": "billa",
+    "id": "00-89401",
+    "name": "Nektarinen aus Spanien aus Spanien",
+    "category": "Obst",
+    "subcategories": ["orange", "süß"]
+  },
+  {
+    "store": "billa",
+    "id": "00-89382",
+    "name": "Nektarinen gelegt aus Spanien",
+    "category": "Obst",
+    "subcategories": ["orange", "süß"]
+  },
+  {
+    "store": "billa",
+    "id": "00-429156",
+    "name": "Passionsfrucht",
+    "category": "Obst",
+    "subcategories": ["exotisch", "sauer"]
+  },
+  {
+    "store": "billa",
+    "id": "00-89390",
+    "name": "Pfirsich gelegt aus Italien",
+    "category": "Obst",
+    "subcategories": ["orange", "süß"]
+  },
+  {
+    "store": "billa",
+    "id": "00-89375",
+    "name": "Pflaumen blau aus Spanien",
+    "category": "Obst",
+    "subcategories": ["blau", "süß"]
+  },
+  {
+    "store": "billa",
+    "id": "00-89405",
+    "name": "Pflaumen blau aus Spanien",
+    "category": "Obst",
+    "subcategories": ["blau", "süß"]
+  },
+  {
+    "store": "billa",
+    "id": "00-89113",
+    "name": "Physalis Becher aus Kolumbien",
+    "category": "Obst",
+    "subcategories": ["orange", "süß"]
+  },
+  {
+    "store": "billa",
+    "id": "00-89243",
+    "name": "Pink Lady Apfel Tasse",
+    "category": "Obst",
+    "subcategories": ["rot", "süß"]
+  },
+  {
+    "store": "billa",
+    "id": "00-725570",
+    "name": "Riesenkiwi gold aus Neuseeland",
+    "category": "Obst",
+    "subcategories": ["grün", "exotisch", "säuerlich"]
+  },
+  {
+    "store": "billa",
+    "id": "00-410582",
+    "name": "SanLucar Ananas aus Costa Rica",
+    "category": "Obst",
+    "subcategories": ["exotisch", "tropisch", "süß"]
+  },
+  {
+    "store": "billa",
+    "id": "00-89103",
+    "name": "SanLucar Bananen aus Ecuador",
+    "category": "Obst",
+    "subcategories": ["gelb", "süß"]
+  },
+  {
+    "store": "billa",
+    "id": "00-429151",
+    "name": "SanLucar Erdbeeren aus Spanien",
+    "category": "Obst",
+    "subcategories": ["rot", "süß"]
+  },
+  {
+    "store": "billa",
+    "id": "00-382586",
+    "name": "SanLucar Himbeeren / Heidelbeeren Mix aus Portugal / Marokko",
+    "category": "Obst",
+    "subcategories": ["rot", "blau", "süß"]
+  },
+  {
+    "store": "billa",
+    "id": "00-410973",
+    "name": "SanLucar Kirschen",
+    "category": "Obst",
+    "subcategories": ["rot", "süß"]
+  },
+  {
+    "store": "billa",
+    "id": "00-431092",
+    "name": "SanLucar Orangen gelegt aus Südafrika",
+    "category": "Obst",
+    "subcategories": ["orange", "saftig"]
+  },
+  {
+    "store": "billa",
+    "id": "00-410808",
+    "name": "SanLucar Plattpfirsiche gelegt aus Spanien",
+    "category": "Obst",
+    "subcategories": ["orange", "süß"]
+  },
+  {
+    "store": "billa",
+    "id": "00-410608",
+    "name": "SanLucar Premium Avocado Essreif aus Spanien",
+    "category": "Obst",
+    "subcategories": ["gesund", "fettreich"]
+  },
+  {
+    "store": "billa",
+    "id": "00-89428",
+    "name": "SanLucar Trauben rot kernlos aus Italien",
+    "category": "Obst",
+    "subcategories": ["rot", "süß"]
+  },
+  {
+    "store": "billa",
+    "id": "00-431106",
+    "name": "SanLucar Trauben weiß kernlos aus Italien",
+    "category": "Obst",
+    "subcategories": ["gelb", "süß"]
+  },
+  {
+    "store": "billa",
+    "id": "00-415755",
+    "name": "SanLucar Zitronen aus Südafrika",
+    "category": "Obst",
+    "subcategories": ["gelb", "sauer"]
+  },
+  {
+    "store": "billa",
+    "id": "00-89053",
+    "name": "SanLucar Zitronen unbehandelt aus Südafrika",
+    "category": "Obst",
+    "subcategories": ["gelb", "sauer"]
+  },
+  {
+    "store": "billa",
+    "id": "00-89218",
+    "name": "Tante Fanny Jonagold Apfel Tasse aus Österreich",
+    "category": "Obst",
+    "subcategories": ["rot", "süß", "heimisch"]
+  },
+  {
+    "store": "billa",
+    "id": "00-89414",
+    "name": "Trauben Weiß Kernlos aus Italien/Peru/Indien/Namibia/Südafrika",
+    "category": "Obst",
+    "subcategories": ["gelb", "süß"]
+  },
+  {
+    "store": "billa",
+    "id": "00-89440",
+    "name": "Trauben Weiß aus Italien",
+    "category": "Obst",
+    "subcategories": ["gelb", "süß"]
+  },
+  {
+    "store": "billa",
+    "id": "00-89121",
+    "name": "Wassermelone aus Spanien",
+    "category": "Obst",
+    "subcategories": ["grün", "süß"]
+  },
+  {
+    "store": "billa",
+    "id": "00-804413",
+    "name": "Wunderlinge Äpfel aus Österreich",
+    "category": "Obst",
+    "subcategories": ["rot", "süß", "heimisch"]
+  },
+  {
+    "store": "billa",
+    "id": "00-89123",
+    "name": "Zuckermelone aus Italien",
+    "category": "Obst",
+    "subcategories": ["gelb", "süß"]
+  },
+  {
+    "store": "billa",
+    "id": "00-89407",
+    "name": "Zwetschken lose aus Bosnien-herzegovina",
+    "category": "Obst",
+    "subcategories": ["lila", "süß"]
+  },
+  {
+    "store": "hofer",
+    "id": 545159,
+    "name": "EVELINA Äpfel",
+    "category": "Obst",
+    "subcategories": ["rot", "süß"]
+  },
+  {
+    "store": "hofer",
+    "id": 549202,
+    "name": "Granatapfelkerne 120g",
+    "category": "Obst",
+    "subcategories": ["rot", "süß"]
+  },
+  {
+    "store": "hofer",
+    "id": 543711,
+    "name": "NATUR AKTIV Bio Birnen 1kg",
+    "category": "Obst",
+    "subcategories": ["gelb", "süß"]
+  },
+  {
+    "store": "hofer",
+    "id": 548459,
+    "name": "NATUR AKTIV Bio Heidelbeeren 250g",
+    "category": "Obst",
+    "subcategories": ["blau", "süß"]
+  },
+  {
+    "store": "hofer",
+    "id": 548537,
+    "name": "NATUR AKTIV Bio Nektarinen 500g",
+    "category": "Obst",
+    "subcategories": ["orange", "süß"]
+  }
+]

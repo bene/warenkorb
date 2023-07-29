@@ -1,0 +1,705 @@
+[
+  {
+    "store": "spar",
+    "id": "2020004497734",
+    "name": "Vivil Bonbons ohne Zucker Limette-Minze",
+    "category": "Süßigkeiten",
+    "subcategories": ["Bonbons", "ohne Zucker", "Limette-Minze"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004497673",
+    "name": "Vivil Bonbons ohne Zucker extra stark",
+    "category": "Süßigkeiten",
+    "subcategories": ["Bonbons", "ohne Zucker", "extra stark"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002563783",
+    "name": "Thermo Therapy Rückenschmerzen-Band 1 Band + 4 Einsätze",
+    "category": "Gesundheit",
+    "subcategories": ["Rückenschmerzen-Band", "Thermo Therapy", "Einsätze"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004258090",
+    "name": "Thermo Therapy Selbsterwärmende Pflaster Schulter- und Rückenschmerzen 3 Stück",
+    "category": "Gesundheit",
+    "subcategories": [
+      "Selbsterwärmende Pflaster",
+      "Schulter- und Rückenschmerzen"
+    ]
+  },
+  {
+    "store": "spar",
+    "id": "2020003771590",
+    "name": "Wet Ones Be Fresh Antibaktierelle Feuchttücher 12 Stück",
+    "category": "Hygiene",
+    "subcategories": ["Antibaktierelle Feuchttücher", "Wet Ones", "Be Fresh"]
+  },
+  {
+    "store": "spar",
+    "id": "2020000412076",
+    "name": "Ölkreiden Pastell 12 Farben Jaxon Kreide   12er             GVE 12",
+    "category": "Künstlerbedarf",
+    "subcategories": ["Ölkreiden Pastell", "Farben", "Jaxon Kreide"]
+  },
+  {
+    "store": "spar",
+    "id": "7856860",
+    "name": "Vog Bierkanne Kugele 0,5L",
+    "category": "Getränke",
+    "subcategories": ["Bierkanne", "Kugele"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001751280",
+    "name": "Vog Delikatessglas Breech 15cl",
+    "category": "Lebensmittel",
+    "subcategories": ["Delikatessglas", "Breech"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001174850",
+    "name": "Vog Delikatessglas Breech 4,1cl",
+    "category": "Lebensmittel",
+    "subcategories": ["Delikatessglas", "Breech"]
+  },
+  {
+    "store": "spar",
+    "id": "1175844",
+    "name": "Vog Einkochglas Fido 0,125l",
+    "category": "Kochen & Backen",
+    "subcategories": ["Einkochglas", "Fido"]
+  },
+  {
+    "store": "spar",
+    "id": "1233728",
+    "name": "Vog Einkochringe 65x90 mm 10er Packung",
+    "category": "Kochen & Backen",
+    "subcategories": ["Einkochringe", "65x90 mm"]
+  },
+  {
+    "store": "spar",
+    "id": "5691159",
+    "name": "Vog Einkochringe 74x86 mm 10er Packung",
+    "category": "Kochen & Backen",
+    "subcategories": ["Einkochringe", "74x86 mm"]
+  },
+  {
+    "store": "spar",
+    "id": "5691012",
+    "name": "Vog Einkochringe 94x108 mm 10er Packung",
+    "category": "Kochen & Backen",
+    "subcategories": ["Einkochringe", "94x108 mm"]
+  },
+  {
+    "store": "spar",
+    "id": "1159936",
+    "name": "Vog Fruchtsaftflasche Passata mit Deckel 0,5l",
+    "category": "Lebensmittel",
+    "subcategories": ["Fruchtsaftflasche", "Passata", "Deckel"]
+  },
+  {
+    "store": "spar",
+    "id": "1159998",
+    "name": "Vog Fruchtsaftflasche Passata mit Deckel 1l",
+    "category": "Lebensmittel",
+    "subcategories": ["Fruchtsaftflasche", "Passata", "Deckel"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001177530",
+    "name": "Vog Geradehalsflasche Platin 0,1l",
+    "category": "Trinkgefäße",
+    "subcategories": ["Geradehalsflasche", "Platin"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001177547",
+    "name": "Vog Geradehalsflasche Platin 0,2l",
+    "category": "Trinkgefäße",
+    "subcategories": ["Geradehalsflasche", "Platin"]
+  },
+  {
+    "store": "spar",
+    "id": "1160062",
+    "name": "Vog Geradehalsflasche Platin 0,35l",
+    "category": "Trinkgefäße",
+    "subcategories": ["Geradehalsflasche", "Platin"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002569846",
+    "name": "Vog Glaskanne mit Glasfilter 1,5l",
+    "category": "Kaffee & Tee",
+    "subcategories": ["Glaskanne", "Glasfilter"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001578504",
+    "name": "Vog Glasteekanne mit Sieb 1,3l",
+    "category": "Kaffee & Tee",
+    "subcategories": ["Glasteekanne", "Sieb"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003116728",
+    "name": "Vog Guss Teekanne 800ml",
+    "category": "Kaffee & Tee",
+    "subcategories": ["Guss Teekanne", "800ml"]
+  },
+  {
+    "store": "spar",
+    "id": "5181285",
+    "name": "Vog Holz Teigroller 35 cm",
+    "category": "Kochen & Backen",
+    "subcategories": ["Holz Teigroller", "35 cm"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003881725",
+    "name": "Westside Edelstahl Entsafter 26 cm",
+    "category": "Elektronik",
+    "subcategories": ["Edelstahl Entsafter", "26 cm"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004573872",
+    "name": "Westside Edelstahl Universaltopf 9 Liter",
+    "category": "Kochen & Backen",
+    "subcategories": ["Edelstahl Universaltopf", "9 Liter"]
+  },
+  {
+    "store": "spar",
+    "id": "2397610",
+    "name": "Westside Thermoflasche Airpot 2,2 Liter",
+    "category": "Kochen & Backen",
+    "subcategories": ["Thermoflasche", "Airpot", "2,2 Liter"]
+  },
+  {
+    "store": "spar",
+    "id": "8123251",
+    "name": "Westside Universaltopf 9L",
+    "category": "Kochen & Backen",
+    "subcategories": ["Universaltopf", "9L"]
+  },
+  {
+    "store": "spar",
+    "id": "3425442",
+    "name": "Swirl Abfallsack 110 Liter 10 Stück",
+    "category": "Haushaltswaren",
+    "subcategories": ["Abfallsack", "110 Liter"]
+  },
+  {
+    "store": "spar",
+    "id": "3236956",
+    "name": "Swirl Abfallsack 120 Liter 8 Stück",
+    "category": "Haushaltswaren",
+    "subcategories": ["Abfallsack", "120 Liter"]
+  },
+  {
+    "store": "spar",
+    "id": "3236949",
+    "name": "Swirl Abfallsack 70 Liter 8 Stück",
+    "category": "Haushaltswaren",
+    "subcategories": ["Abfallsack", "70 Liter"]
+  },
+  {
+    "store": "spar",
+    "id": "2085173",
+    "name": "Swirl Abfallsack Extrastark 150 Liter 8 Stück",
+    "category": "Haushaltswaren",
+    "subcategories": ["Abfallsack", "Extrastark", "150 Liter"]
+  },
+  {
+    "store": "spar",
+    "id": "8208279",
+    "name": "Swirl Abfallsack mit Fixierband 60 Liter 10 Stück",
+    "category": "Haushaltswaren",
+    "subcategories": ["Abfallsack", "Fixierband", "60 Liter"]
+  },
+  {
+    "store": "spar",
+    "id": "2020000700814",
+    "name": "Swirl Bio Folienbeutel 35 Liter 6 Stück",
+    "category": "Haushaltswaren",
+    "subcategories": ["Bio Folienbeutel", "35 Liter"]
+  },
+  {
+    "store": "spar",
+    "id": "1290400",
+    "name": "Swirl Bio Müllbeutel 10 Liter 8 Stück",
+    "category": "Haushaltswaren",
+    "subcategories": ["Bio Müllbeutel", "10 Liter"]
+  },
+  {
+    "store": "spar",
+    "id": "2778495",
+    "name": "Swirl Bio-Müllbeutel 10 Liter 10 Stück",
+    "category": "Haushaltswaren",
+    "subcategories": ["Bio-Müllbeutel", "10 Liter"]
+  },
+  {
+    "store": "spar",
+    "id": "2317250",
+    "name": "Swirl Bio-Müllbeutel 10 Liter 8 Stück",
+    "category": "Haushaltswaren",
+    "subcategories": ["Bio-Müllbeutel", "10 Liter"]
+  },
+  {
+    "store": "spar",
+    "id": "1060454",
+    "name": "Swirl Bio-Müllbeutel 20 Liter 6 Stück",
+    "category": "Haushaltswaren",
+    "subcategories": ["Bio-Müllbeutel", "20 Liter"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003814938",
+    "name": "Swirl Duft Müllbeutel 20 Liter",
+    "category": "Haushaltswaren",
+    "subcategories": ["Duft Müllbeutel", "20 Liter"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003815010",
+    "name": "Swirl Duft Müllbeutel 35 Liter",
+    "category": "Haushaltswaren",
+    "subcategories": ["Duft Müllbeutel", "35 Liter"]
+  },
+  {
+    "store": "spar",
+    "id": "2101200",
+    "name": "Swirl Duft Müllbeutel Hochkant 20 Liter 12 Stück",
+    "category": "Haushaltswaren",
+    "subcategories": ["Duft Müllbeutel", "Hochkant", "20 Liter"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003814914",
+    "name": "Swirl Duft-Müllbeutel 10 Liter",
+    "category": "Haushaltswaren",
+    "subcategories": ["Duft-Müllbeutel", "10 Liter"]
+  },
+  {
+    "store": "spar",
+    "id": "5725007",
+    "name": "Swirl Motorfilter Universal 01",
+    "category": "Haushaltswaren",
+    "subcategories": ["Motorfilter", "Universal 01"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003813276",
+    "name": "Swirl Müllbeutel Anti Geruch 20 Liter",
+    "category": "Haushaltswaren",
+    "subcategories": ["Müllbeutel", "Anti Geruch", "20 Liter"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002466923",
+    "name": "Swirl Müllbeutel Anti Geruch 20 Liter 12 Stück",
+    "category": "Haushaltswaren",
+    "subcategories": ["Müllbeutel", "Anti Geruch", "20 Liter"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003813498",
+    "name": "Swirl Müllbeutel Anti Geruch 35 Liter",
+    "category": "Haushaltswaren",
+    "subcategories": ["Müllbeutel", "Anti Geruch", "35 Liter"]
+  },
+  {
+    "store": "spar",
+    "id": "2020000706960",
+    "name": "Swirl Müllbeutel Anti Geruch 35l 9 Stück",
+    "category": "Haushaltswaren",
+    "subcategories": ["Müllbeutel", "Anti Geruch", "35 Liter"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003253355",
+    "name": "Swirl Müllbeutel Anti Geruch 60 Liter 8 Stück",
+    "category": "Haushaltswaren",
+    "subcategories": ["Müllbeutel", "Anti Geruch", "60 Liter"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003814853",
+    "name": "Swirl Müllbeutel mit Fixierband 20 Liter",
+    "category": "Haushaltswaren",
+    "subcategories": ["Müllbeutel", "Fixierband", "20 Liter"]
+  },
+  {
+    "store": "spar",
+    "id": "6638887",
+    "name": "Swirl Müllbeutel mit Fixierband 35 Liter 10 Stück",
+    "category": "Haushaltswaren",
+    "subcategories": ["Müllbeutel", "Fixierband", "35 Liter"]
+  },
+  {
+    "store": "spar",
+    "id": "5473922",
+    "name": "Swirl Müllbeutel mit Tragegriff 10 Liter 30 Stück",
+    "category": "Haushaltswaren",
+    "subcategories": ["Müllbeutel", "Tragegriff", "10 Liter"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001393367",
+    "name": "Swirl Müllbeutel mit Tragegriff 5 Liter 40 Stück",
+    "category": "Haushaltswaren",
+    "subcategories": ["Müllbeutel", "Tragegriff", "5 Liter"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003815188",
+    "name": "Swirl Müllbeutel mit Zugband 20 Liter",
+    "category": "Haushaltswaren",
+    "subcategories": ["Müllbeutel", "Zugband", "20 Liter"]
+  },
+  {
+    "store": "spar",
+    "id": "8209283",
+    "name": "Swirl Müllbeutel mit Zugband 20 Liter 20 Stück",
+    "category": "Haushaltswaren",
+    "subcategories": ["Müllbeutel", "Zugband", "20 Liter"]
+  },
+  {
+    "store": "spar",
+    "id": "5405251",
+    "name": "Swirl Müllbeutel mit Zugband 20 Liter 25 Stück",
+    "category": "Haushaltswaren",
+    "subcategories": ["Müllbeutel", "Zugband", "20 Liter"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003815195",
+    "name": "Swirl Müllbeutel mit Zugband 35 Liter",
+    "category": "Haushaltswaren",
+    "subcategories": ["Müllbeutel", "Zugband", "35 Liter"]
+  },
+  {
+    "store": "spar",
+    "id": "5405398",
+    "name": "Swirl Müllbeutel mit Zugband 35 Liter 25 Stück",
+    "category": "Haushaltswaren",
+    "subcategories": ["Müllbeutel", "Zugband", "35 Liter"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003815201",
+    "name": "Swirl Müllbeutel mit Zugband 60 Liter",
+    "category": "Haushaltswaren",
+    "subcategories": ["Müllbeutel", "Zugband", "60 Liter"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003814877",
+    "name": "Swirl Müllsack mit Fixierband 35 Liter",
+    "category": "Haushaltswaren",
+    "subcategories": ["Müllsack", "Fixierband", "35 Liter"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003814884",
+    "name": "Swirl Müllsack mit Fixierband 60 Liter",
+    "category": "Haushaltswaren",
+    "subcategories": ["Müllsack", "Fixierband", "60 Liter"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002457723",
+    "name": "Swirl Profi Schwerlastsack 240 Liter 5 Stück",
+    "category": "Haushaltswaren",
+    "subcategories": ["Profi Schwerlastsack", "240 Liter"]
+  },
+  {
+    "store": "spar",
+    "id": "1375343",
+    "name": "Swirl Schwerlastsack 240 Liter 3 Stück",
+    "category": "Haushaltswaren",
+    "subcategories": ["Schwerlastsack", "240 Liter"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001624850",
+    "name": "Swirl Schwerlastsack Profi 120 Liter 12 Stück",
+    "category": "Haushaltswaren",
+    "subcategories": ["Schwerlastsack", "Profi", "120 Liter"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003815034",
+    "name": "Swirl Schwerlastsack Profi 60 Liter",
+    "category": "Haushaltswaren",
+    "subcategories": ["Schwerlastsack", "Profi", "60 Liter"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003815096",
+    "name": "Swirl Schwerlastsack mit Zugband 120 Liter",
+    "category": "Haushaltswaren",
+    "subcategories": ["Schwerlastsack", "Zugband", "120 Liter"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002457709",
+    "name": "Swirl Schwerlastsack mit Zugband 60 Liter 12 Stück",
+    "category": "Haushaltswaren",
+    "subcategories": ["Schwerlastsack", "Zugband", "60 Liter"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004114303",
+    "name": "Swirl Staubbeutel KÄ 3",
+    "category": "Haushaltswaren",
+    "subcategories": ["Staubbeutel", "KÄ 3"]
+  },
+  {
+    "store": "spar",
+    "id": "2020000926900",
+    "name": "Swirl Staubbeutel R39",
+    "category": "Haushaltswaren",
+    "subcategories": ["Staubbeutel", "R39"]
+  },
+  {
+    "store": "spar",
+    "id": "2020000570820",
+    "name": "Swirl Staubsauger Deo-Perlen Südsee Magnolie",
+    "category": "Haushaltswaren",
+    "subcategories": ["Staubsauger Deo-Perlen", "Südsee Magnolie"]
+  },
+  {
+    "store": "spar",
+    "id": "6981303",
+    "name": "Swirl Staubsauger Deo-Perlen fruchtige Frische",
+    "category": "Haushaltswaren",
+    "subcategories": ["Staubsauger Deo-Perlen", "fruchtige Frische"]
+  },
+  {
+    "store": "spar",
+    "id": "2020000570813",
+    "name": "Swirl Staubsauger Deo-Sticks Citrus",
+    "category": "Haushaltswaren",
+    "subcategories": ["Staubsauger Deo-Sticks", "Citrus"]
+  },
+  {
+    "store": "spar",
+    "id": "6676612",
+    "name": "Swirl Staubsaugerbeutel A06 4 Stk",
+    "category": "Haushaltswaren",
+    "subcategories": ["Staubsaugerbeutel", "A06"]
+  },
+  {
+    "store": "spar",
+    "id": "6664619",
+    "name": "Swirl Staubsaugerbeutel A07 4 Stk",
+    "category": "Haushaltswaren",
+    "subcategories": ["Staubsaugerbeutel", "A07"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002964184",
+    "name": "Swirl Staubsaugerbeutel A07/4",
+    "category": "Haushaltswaren",
+    "subcategories": ["Staubsaugerbeutel", "A07"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004114273",
+    "name": "Swirl Staubsaugerbeutel KÄ 4-6",
+    "category": "Haushaltswaren",
+    "subcategories": ["Staubsaugerbeutel", "KÄ", "4-6"]
+  },
+  {
+    "store": "spar",
+    "id": "6661465",
+    "name": "Swirl Staubsaugerbeutel M 40 4 Stk",
+    "category": "Haushaltswaren",
+    "subcategories": ["Staubsaugerbeutel", "M 40"]
+  },
+  {
+    "store": "spar",
+    "id": "6661489",
+    "name": "Swirl Staubsaugerbeutel M49 4 Stk",
+    "category": "Haushaltswaren",
+    "subcategories": ["Staubsaugerbeutel", "M49"]
+  },
+  {
+    "store": "spar",
+    "id": "6661595",
+    "name": "Swirl Staubsaugerbeutel M50 4 Stk",
+    "category": "Haushaltswaren",
+    "subcategories": ["Staubsaugerbeutel", "M50"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001693436",
+    "name": "Swirl Staubsaugerbeutel M50/4",
+    "category": "Haushaltswaren",
+    "subcategories": ["Staubsaugerbeutel", "M50"]
+  },
+  {
+    "store": "spar",
+    "id": "1833829",
+    "name": "Swirl Staubsaugerbeutel M52 4 Stk",
+    "category": "Haushaltswaren",
+    "subcategories": ["Staubsaugerbeutel", "M52"]
+  },
+  {
+    "store": "spar",
+    "id": "6664664",
+    "name": "Swirl Staubsaugerbeutel N71 4 Stk",
+    "category": "Haushaltswaren",
+    "subcategories": ["Staubsaugerbeutel", "N71"]
+  },
+  {
+    "store": "spar",
+    "id": "6664718",
+    "name": "Swirl Staubsaugerbeutel N73 4 Stk",
+    "category": "Haushaltswaren",
+    "subcategories": ["Staubsaugerbeutel", "N73"]
+  },
+  {
+    "store": "spar",
+    "id": "2020000596585",
+    "name": "Swirl Staubsaugerbeutel N74/4",
+    "category": "Haushaltswaren",
+    "subcategories": ["Staubsaugerbeutel", "N74"]
+  },
+  {
+    "store": "spar",
+    "id": "6664749",
+    "name": "Swirl Staubsaugerbeutel PH86 4 Stk",
+    "category": "Haushaltswaren",
+    "subcategories": ["Staubsaugerbeutel", "PH86"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002964160",
+    "name": "Swirl Staubsaugerbeutel PH86/4",
+    "category": "Haushaltswaren",
+    "subcategories": ["Staubsaugerbeutel", "PH86"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002964122",
+    "name": "Swirl Staubsaugerbeutel PH99/4",
+    "category": "Haushaltswaren",
+    "subcategories": ["Staubsaugerbeutel", "PH99"]
+  },
+  {
+    "store": "spar",
+    "id": "8067555",
+    "name": "Swirl Staubsaugerbeutel R36 4 Stk",
+    "category": "Haushaltswaren",
+    "subcategories": ["Staubsaugerbeutel", "R36"]
+  },
+  {
+    "store": "spar",
+    "id": "6661687",
+    "name": "Swirl Staubsaugerbeutel S 67 4 Stk",
+    "category": "Haushaltswaren",
+    "subcategories": ["Staubsaugerbeutel", "S 67"]
+  },
+  {
+    "store": "spar",
+    "id": "6661649",
+    "name": "Swirl Staubsaugerbeutel S62 4 Stk",
+    "category": "Haushaltswaren",
+    "subcategories": ["Staubsaugerbeutel", "S62"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002964146",
+    "name": "Swirl Staubsaugerbeutel S67/4",
+    "category": "Haushaltswaren",
+    "subcategories": ["Staubsaugerbeutel", "S67"]
+  },
+  {
+    "store": "spar",
+    "id": "1228601",
+    "name": "Swirl Staubsaugerbeutel S73 4 Stk",
+    "category": "Haushaltswaren",
+    "subcategories": ["Staubsaugerbeutel", "S73"]
+  },
+  {
+    "store": "spar",
+    "id": "6707552",
+    "name": "Swirl Staubsaugerbeutel Y 50 4 Stk",
+    "category": "Haushaltswaren",
+    "subcategories": ["Staubsaugerbeutel", "Y 50"]
+  },
+  {
+    "store": "spar",
+    "id": "6676971",
+    "name": "Swirl Staubsaugerbeutel Y05 4 Stk",
+    "category": "Haushaltswaren",
+    "subcategories": ["Staubsaugerbeutel", "Y05"]
+  },
+  {
+    "store": "spar",
+    "id": "6661786",
+    "name": "Swirl Staubsaugerbeutel Y101 4 Stk",
+    "category": "Haushaltswaren",
+    "subcategories": ["Staubsaugerbeutel", "Y101"]
+  },
+  {
+    "store": "spar",
+    "id": "2020000952527",
+    "name": "Swirl Staubsaugerbeutel Y12 4 Stk",
+    "category": "Haushaltswaren",
+    "subcategories": ["Staubsaugerbeutel", "Y12"]
+  },
+  {
+    "store": "spar",
+    "id": "7271205",
+    "name": "Swirl Staubsaugerbeutel Y30 4 Stk",
+    "category": "Haushaltswaren",
+    "subcategories": ["Staubsaugerbeutel", "Y30"]
+  },
+  {
+    "store": "spar",
+    "id": "6661724",
+    "name": "Swirl Staubsaugerbeutel Y93 4 Stk",
+    "category": "Haushaltswaren",
+    "subcategories": ["Staubsaugerbeutel", "Y93"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001805112",
+    "name": "Wenzel 2 Stumpenkerzen 100/60 antikrosa",
+    "category": "Dekoration",
+    "subcategories": ["Stumpenkerzen", "100/60", "antikrosa"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001347551",
+    "name": "Wenzel Rustic-Kerze 140/70 rubin",
+    "category": "Dekoration",
+    "subcategories": ["Rustic-Kerze", "140/70", "rubin"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001346073",
+    "name": "Wenzel Rustic-Kerze 80/70 weiss",
+    "category": "Dekoration",
+    "subcategories": ["Rustic-Kerze", "80/70", "weiss"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001346080",
+    "name": "Wenzel Rustic-Kerze 80/70 wollweiss",
+    "category": "Dekoration",
+    "subcategories": ["Rustic-Kerze", "80/70", "wollweiss"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001805600",
+    "name": "Wenzel Stabkerze 210/21 antikrosa",
+    "category": "Dekoration",
+    "subcategories": ["Stabkerze", "210/21", "antikrosa"]
+  }
+]

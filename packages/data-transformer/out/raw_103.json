@@ -1,0 +1,707 @@
+[
+  {
+    "store": "billa",
+    "id": "00-10220",
+    "name": "Glem Vital Anti-Schuppen Shampoo Ringelblume",
+    "category": "Shampoo",
+    "subcategories": ["Anti-Schuppen", "Ringelblume"]
+  },
+  {
+    "store": "billa",
+    "id": "00-572277",
+    "name": "Glem Vital Balsam Kokos",
+    "category": "Balsam",
+    "subcategories": ["Kokos"]
+  },
+  {
+    "store": "billa",
+    "id": "00-572271",
+    "name": "Glem Vital Balsam Multivitamin",
+    "category": "Balsam",
+    "subcategories": ["Multivitamin"]
+  },
+  {
+    "store": "billa",
+    "id": "00-572451",
+    "name": "Glem Vital Balsam Weizen",
+    "category": "Balsam",
+    "subcategories": ["Weizen"]
+  },
+  {
+    "store": "billa",
+    "id": "00-860030",
+    "name": "Glem Vital Shampoo Fresh It Up",
+    "category": "Shampoo",
+    "subcategories": ["Fresh It Up"]
+  },
+  {
+    "store": "billa",
+    "id": "00-402675",
+    "name": "Glem vital 2in1 Shampoo & Balsam Jojoba",
+    "category": "Shampoo",
+    "subcategories": ["2in1", "Jojoba"]
+  },
+  {
+    "store": "billa",
+    "id": "00-851518",
+    "name": "Glem vital 2in1 Shampoo & Balsam Pfirsichöl",
+    "category": "Shampoo",
+    "subcategories": ["2in1", "Pfirsichöl"]
+  },
+  {
+    "store": "billa",
+    "id": "00-10218",
+    "name": "Glem vital Anti-Fett Shampoo 7 Kräuter",
+    "category": "Shampoo",
+    "subcategories": ["Anti-Fett", "7 Kräuter"]
+  },
+  {
+    "store": "billa",
+    "id": "00-7660",
+    "name": "Glem vital Frische Shampoo Brennnessel",
+    "category": "Shampoo",
+    "subcategories": ["Frische", "Brennnessel"]
+  },
+  {
+    "store": "billa",
+    "id": "00-927977",
+    "name": "Glem vital Naturwunder Shampoo Grüner Apfel",
+    "category": "Shampoo",
+    "subcategories": ["Naturwunder", "Grüner Apfel"]
+  },
+  {
+    "store": "billa",
+    "id": "00-400285",
+    "name": "Glem vital Pflege Shampoo Weizen & Colorin",
+    "category": "Shampoo",
+    "subcategories": ["Pflege", "Weizen", "Colorin"]
+  },
+  {
+    "store": "billa",
+    "id": "00-900361",
+    "name": "Glem vital Repair Shampoo Sheabutter & Kokos",
+    "category": "Shampoo",
+    "subcategories": ["Repair", "Sheabutter", "Kokos"]
+  },
+  {
+    "store": "billa",
+    "id": "00-100840",
+    "name": "Glem vital Shampoo Multivitamin",
+    "category": "Shampoo",
+    "subcategories": ["Multivitamin"]
+  },
+  {
+    "store": "billa",
+    "id": "00-924130",
+    "name": "Gliss Kur Express Balsam",
+    "category": "Balsam",
+    "subcategories": ["Express"]
+  },
+  {
+    "store": "billa",
+    "id": "00-705993",
+    "name": "Gliss Kur Repair Tägliches Öl Elixier",
+    "category": "Repair",
+    "subcategories": ["Tägliches Öl Elixier"]
+  },
+  {
+    "store": "billa",
+    "id": "00-924115",
+    "name": "Gliss Kur Shampoo Verführerisch Lang",
+    "category": "Shampoo",
+    "subcategories": ["Verführerisch Lang"]
+  },
+  {
+    "store": "billa",
+    "id": "00-390432",
+    "name": "Guhl Anti-Schuppen Shampoo",
+    "category": "Shampoo",
+    "subcategories": ["Anti-Schuppen"]
+  },
+  {
+    "store": "billa",
+    "id": "00-390449",
+    "name": "Guhl Frische & Leichtigkeit Anti-Fett Shampoo",
+    "category": "Shampoo",
+    "subcategories": ["Frische & Leichtigkeit", "Anti-Fett"]
+  },
+  {
+    "store": "billa",
+    "id": "00-390411",
+    "name": "Guhl Intensiv Kräftigung Shampoo",
+    "category": "Shampoo",
+    "subcategories": ["Intensiv Kräftigung"]
+  },
+  {
+    "store": "billa",
+    "id": "00-666666",
+    "name": "Head & Shoulders 2in1 Antischuppen Milde Pflege bei Juckener Kopfhaut",
+    "category": "Shampoo",
+    "subcategories": ["2in1", "Antischuppen", "Milde Pflege"]
+  },
+  {
+    "store": "billa",
+    "id": "00-769164",
+    "name": "Head & Shoulders Apple Fresh Shampoo",
+    "category": "Shampoo",
+    "subcategories": ["Apple Fresh"]
+  },
+  {
+    "store": "billa",
+    "id": "00-732277",
+    "name": "Head & Shoulders Citrus Fresh Shampoo",
+    "category": "Shampoo",
+    "subcategories": ["Citrus Fresh"]
+  },
+  {
+    "store": "billa",
+    "id": "00-867999",
+    "name": "Head & Shoulders Citrus Fresh Shampoo",
+    "category": "Shampoo",
+    "subcategories": ["Citrus Fresh"]
+  },
+  {
+    "store": "billa",
+    "id": "00-279477",
+    "name": "Head & Shoulders Classic Clean 2in1 Shampoo",
+    "category": "Shampoo",
+    "subcategories": ["Classic Clean", "2in1"]
+  },
+  {
+    "store": "billa",
+    "id": "00-868003",
+    "name": "Head & Shoulders Classic Clean Shampoo",
+    "category": "Shampoo",
+    "subcategories": ["Classic Clean"]
+  },
+  {
+    "store": "billa",
+    "id": "00-732281",
+    "name": "Head & Shoulders Classic Clean Shampoo",
+    "category": "Shampoo",
+    "subcategories": ["Classic Clean"]
+  },
+  {
+    "store": "billa",
+    "id": "00-871838",
+    "name": "Head & Shoulders For Men Shampoo",
+    "category": "Shampoo",
+    "subcategories": ["For Men"]
+  },
+  {
+    "store": "billa",
+    "id": "00-732276",
+    "name": "Head & Shoulders For Men Shampoo",
+    "category": "Shampoo",
+    "subcategories": ["For Men"]
+  },
+  {
+    "store": "billa",
+    "id": "00-869024",
+    "name": "Head & Shoulders Shampoo Antischuppen Sensitive",
+    "category": "Shampoo",
+    "subcategories": ["Antischuppen", "Sensitive"]
+  },
+  {
+    "store": "billa",
+    "id": "00-731200",
+    "name": "Head & Shoulders Shampoo Apple Fresh",
+    "category": "Shampoo",
+    "subcategories": ["Apple Fresh"]
+  },
+  {
+    "store": "billa",
+    "id": "00-10207",
+    "name": "L'Oreal Elnett Haarspray Normaler Halt",
+    "category": "Haarspray",
+    "subcategories": ["Normaler Halt"]
+  },
+  {
+    "store": "billa",
+    "id": "00-694531",
+    "name": "L'Oreal Elvital Shampoo Anti Haarbruch",
+    "category": "Shampoo",
+    "subcategories": ["Anti Haarbruch"]
+  },
+  {
+    "store": "billa",
+    "id": "00-694537",
+    "name": "L'Oreal Elvital Shampoo Color Glanz",
+    "category": "Shampoo",
+    "subcategories": ["Color Glanz"]
+  },
+  {
+    "store": "billa",
+    "id": "00-924183",
+    "name": "L'Oreal Elvital Shampoo Dream Length",
+    "category": "Shampoo",
+    "subcategories": ["Dream Length"]
+  },
+  {
+    "store": "billa",
+    "id": "00-858920",
+    "name": "L'Oreal Elvital Shampoo Fibralogy",
+    "category": "Shampoo",
+    "subcategories": ["Fibralogy"]
+  },
+  {
+    "store": "billa",
+    "id": "00-694548",
+    "name": "L'Oreal Elvital Shampoo Multivitamin",
+    "category": "Shampoo",
+    "subcategories": ["Multivitamin"]
+  },
+  {
+    "store": "billa",
+    "id": "00-395326",
+    "name": "L'Oreal Elvital Shampoo Tonerde Absolute",
+    "category": "Shampoo",
+    "subcategories": ["Tonerde Absolute"]
+  },
+  {
+    "store": "billa",
+    "id": "00-263632",
+    "name": "L'Oreal Elvital Shampoo Öl Magique",
+    "category": "Shampoo",
+    "subcategories": ["Öl Magique"]
+  },
+  {
+    "store": "billa",
+    "id": "00-694444",
+    "name": "L'Oreal Elvital Spülung Anti Haarbruch",
+    "category": "Spülung",
+    "subcategories": ["Anti Haarbruch"]
+  },
+  {
+    "store": "billa",
+    "id": "00-694578",
+    "name": "L'Oreal Elvital Spülung Color Glanz",
+    "category": "Spülung",
+    "subcategories": ["Color Glanz"]
+  },
+  {
+    "store": "billa",
+    "id": "00-924185",
+    "name": "L'Oreal Elvital Spülung Dream Length",
+    "category": "Spülung",
+    "subcategories": ["Dream Length"]
+  },
+  {
+    "store": "billa",
+    "id": "00-695708",
+    "name": "L'Oreal Elvital Spülung Total Repair 5",
+    "category": "Spülung",
+    "subcategories": ["Total Repair 5"]
+  },
+  {
+    "store": "billa",
+    "id": "00-902879",
+    "name": "L'Oreal Elvital Syling Schaum Volumen",
+    "category": "Styling",
+    "subcategories": ["Schaum Volumen"]
+  },
+  {
+    "store": "billa",
+    "id": "00-864349",
+    "name": "L'Oreal Excellence Nr. 4 Mittelbraun",
+    "category": "Haarfarbe",
+    "subcategories": ["Mittelbraun"]
+  },
+  {
+    "store": "billa",
+    "id": "00-864359",
+    "name": "L'Oreal Excellence Nr. 9 Hellblond",
+    "category": "Haarfarbe",
+    "subcategories": ["Hellblond"]
+  },
+  {
+    "store": "billa",
+    "id": "00-395234",
+    "name": "L'Oreal Magic Retouch Braun bis Mittelbraun",
+    "category": "Haarfarbe",
+    "subcategories": ["Braun bis Mittelbraun"]
+  },
+  {
+    "store": "billa",
+    "id": "00-395233",
+    "name": "L'Oreal Magic Retouch Dunkelbraun bis Schwarzbraun",
+    "category": "Haarfarbe",
+    "subcategories": ["Dunkelbraun bis Schwarzbraun"]
+  },
+  {
+    "store": "billa",
+    "id": "00-404027",
+    "name": "L'Oreal Studio Line FX Liquid Gel Flex",
+    "category": "Haargel",
+    "subcategories": ["Liquid Gel Flex"]
+  },
+  {
+    "store": "billa",
+    "id": "00-381811",
+    "name": "Lavera Shampoo Feuchtigkeit & Pflege",
+    "category": "Shampoo",
+    "subcategories": ["Feuchtigkeit & Pflege"]
+  },
+  {
+    "store": "billa",
+    "id": "00-381813",
+    "name": "Lavera Shampoo Repair & Pflege",
+    "category": "Shampoo",
+    "subcategories": ["Repair & Pflege"]
+  },
+  {
+    "store": "billa",
+    "id": "00-381815",
+    "name": "Lavera Spülung Feuchtigkeit",
+    "category": "Spülung",
+    "subcategories": ["Feuchtigkeit"]
+  },
+  {
+    "store": "billa",
+    "id": "00-381814",
+    "name": "Lavera Spülung Repair & Pflege",
+    "category": "Spülung",
+    "subcategories": ["Repair & Pflege"]
+  },
+  {
+    "store": "billa",
+    "id": "00-659396",
+    "name": "Nivea Anti-Schuppen Shampoo for Men",
+    "category": "Shampoo",
+    "subcategories": ["Anti-Schuppen", "for Men"]
+  },
+  {
+    "store": "billa",
+    "id": "00-902697",
+    "name": "Nivea Haarspray Blond",
+    "category": "Haarspray",
+    "subcategories": ["Blond"]
+  },
+  {
+    "store": "billa",
+    "id": "00-904485",
+    "name": "Nivea Haarspray Diamond Gloss",
+    "category": "Haarspray",
+    "subcategories": ["Diamond Gloss"]
+  },
+  {
+    "store": "billa",
+    "id": "00-854153",
+    "name": "Nivea Haarspray Extra Starker Halt",
+    "category": "Haarspray",
+    "subcategories": ["Extra Starker Halt"]
+  },
+  {
+    "store": "billa",
+    "id": "00-854155",
+    "name": "Nivea Haarspray Ultra Stark",
+    "category": "Haarspray",
+    "subcategories": ["Ultra Stark"]
+  },
+  {
+    "store": "billa",
+    "id": "00-858818",
+    "name": "Nivea Haarspray Volume Sensation",
+    "category": "Haarspray",
+    "subcategories": ["Volume Sensation"]
+  },
+  {
+    "store": "billa",
+    "id": "00-901225",
+    "name": "Nivea Men Shampoo Strong Power",
+    "category": "Shampoo",
+    "subcategories": ["Strong Power"]
+  },
+  {
+    "store": "billa",
+    "id": "00-854158",
+    "name": "Nivea Schaumfestiger Color Protect & Care",
+    "category": "Schaumfestiger",
+    "subcategories": ["Color Protect & Care"]
+  },
+  {
+    "store": "billa",
+    "id": "00-858820",
+    "name": "Nivea Schaumfestiger Volume Sensation",
+    "category": "Schaumfestiger",
+    "subcategories": ["Volume Sensation"]
+  },
+  {
+    "store": "billa",
+    "id": "00-901226",
+    "name": "Nivea Shampoo Volume Sensation",
+    "category": "Shampoo",
+    "subcategories": ["Volume Sensation"]
+  },
+  {
+    "store": "billa",
+    "id": "00-868990",
+    "name": "Nivea Styling Cremegel",
+    "category": "Styling",
+    "subcategories": ["Cremegel"]
+  },
+  {
+    "store": "billa",
+    "id": "00-927766",
+    "name": "Pantene Pro-V 3in1 Anti-Schuppen Shampoo",
+    "category": "Shampoo",
+    "subcategories": ["3in1", "Anti-Schuppen"]
+  },
+  {
+    "store": "billa",
+    "id": "00-927789",
+    "name": "Pantene Pro-V 3in1 Repair & Care Shampoo",
+    "category": "Shampoo",
+    "subcategories": ["3in1", "Repair & Care"]
+  },
+  {
+    "store": "billa",
+    "id": "00-933578",
+    "name": "Pantene Pro-V 3in1 Volumen Pur Shampoo",
+    "category": "Shampoo",
+    "subcategories": ["3in1", "Volumen Pur"]
+  },
+  {
+    "store": "billa",
+    "id": "00-325266",
+    "name": "Pantene Pro-V Anti-Schuppen Shampoo",
+    "category": "Shampoo",
+    "subcategories": ["Anti-Schuppen"]
+  },
+  {
+    "store": "billa",
+    "id": "00-242679",
+    "name": "Pantene Pro-V Color Protect Shampoo",
+    "category": "Shampoo",
+    "subcategories": ["Color Protect"]
+  },
+  {
+    "store": "billa",
+    "id": "00-325271",
+    "name": "Pantene Pro-V Glatt & Seidig Shampoo",
+    "category": "Shampoo",
+    "subcategories": ["Glatt & Seidig"]
+  },
+  {
+    "store": "billa",
+    "id": "00-575186",
+    "name": "Pantene Pro-V Glatt & Seidig Spülung",
+    "category": "Spülung",
+    "subcategories": ["Glatt & Seidig"]
+  },
+  {
+    "store": "billa",
+    "id": "00-827601",
+    "name": "Pantene Pro-V Repair & Care Keratin Haarmaske",
+    "category": "Repair",
+    "subcategories": ["Repair & Care", "Keratin Haarmaske"]
+  },
+  {
+    "store": "billa",
+    "id": "00-858028",
+    "name": "Pantene Pro-V Repair & Care Keratin Haaröl",
+    "category": "Repair",
+    "subcategories": ["Repair & Care", "Keratin Haaröl"]
+  },
+  {
+    "store": "billa",
+    "id": "00-297192",
+    "name": "Pantene Pro-V Repair & Care Shampoo",
+    "category": "Shampoo",
+    "subcategories": ["Repair & Care"]
+  },
+  {
+    "store": "billa",
+    "id": "00-325248",
+    "name": "Pantene Pro-V Repair & Care Shampoo",
+    "category": "Shampoo",
+    "subcategories": ["Repair & Care"]
+  },
+  {
+    "store": "billa",
+    "id": "00-575152",
+    "name": "Pantene Pro-V Repair & Care Spülung",
+    "category": "Spülung",
+    "subcategories": ["Repair & Care"]
+  },
+  {
+    "store": "billa",
+    "id": "00-695789",
+    "name": "Plantur 39 Coffein Shampoo für Coloriertes Haar",
+    "category": "Shampoo",
+    "subcategories": ["Coffein", "Coloriertes Haar"]
+  },
+  {
+    "store": "billa",
+    "id": "00-695798",
+    "name": "Plantur 39 Coffein Shampoo für Feines Haar",
+    "category": "Shampoo",
+    "subcategories": ["Coffein", "Feines Haar"]
+  },
+  {
+    "store": "billa",
+    "id": "00-715937",
+    "name": "Poly Palette Vital Color 1-0 Schwarz",
+    "category": "Haarfarbe",
+    "subcategories": ["Schwarz"]
+  },
+  {
+    "store": "billa",
+    "id": "00-715936",
+    "name": "Poly Palette Vital Color 4-0 Dunkelbraun",
+    "category": "Haarfarbe",
+    "subcategories": ["Dunkelbraun"]
+  },
+  {
+    "store": "billa",
+    "id": "00-715934",
+    "name": "Poly Palette Vital Color 5-0 Mittelbraun",
+    "category": "Haarfarbe",
+    "subcategories": ["Mittelbraun"]
+  },
+  {
+    "store": "billa",
+    "id": "00-715933",
+    "name": "Poly Palette Vital Color 6-0 Hellbraun",
+    "category": "Haarfarbe",
+    "subcategories": ["Hellbraun"]
+  },
+  {
+    "store": "billa",
+    "id": "00-715932",
+    "name": "Poly Palette Vital Color 7-1 Dunkelblond",
+    "category": "Haarfarbe",
+    "subcategories": ["Dunkelblond"]
+  },
+  {
+    "store": "billa",
+    "id": "00-715931",
+    "name": "Poly Palette Vital Color 8-1 Aschblond",
+    "category": "Haarfarbe",
+    "subcategories": ["Aschblond"]
+  },
+  {
+    "store": "billa",
+    "id": "00-715929",
+    "name": "Poly Palette Vital Color 9-0 Hellblond",
+    "category": "Haarfarbe",
+    "subcategories": ["Hellblond"]
+  },
+  {
+    "store": "billa",
+    "id": "00-715930",
+    "name": "Poly Palette Vital Color 9-40 Mittelblond",
+    "category": "Haarfarbe",
+    "subcategories": ["Mittelblond"]
+  },
+  {
+    "store": "billa",
+    "id": "00-706078",
+    "name": "Savoderm Shampoo Ph5 Empfindliche Haut",
+    "category": "Shampoo",
+    "subcategories": ["Ph5", "Empfindliche Haut"]
+  },
+  {
+    "store": "billa",
+    "id": "00-649196",
+    "name": "Schwarzkopf Blonde L1++ Extremaufheller",
+    "category": "Haarfarbe",
+    "subcategories": ["L1++ Extremaufheller"]
+  },
+  {
+    "store": "billa",
+    "id": "00-759126",
+    "name": "Schwarzkopf Brillance 874 Samtbraun",
+    "category": "Haarfarbe",
+    "subcategories": ["Brillance", "Samtbraun"]
+  },
+  {
+    "store": "billa",
+    "id": "00-863245",
+    "name": "Schwarzkopf Brillance Intensiv-Color-Creme Nr. 842 Kaschmirrot",
+    "category": "Haarfarbe",
+    "subcategories": [
+      "Brillance",
+      "Intensiv-Color-Creme",
+      "Nr. 842",
+      "Kaschmirrot"
+    ]
+  },
+  {
+    "store": "billa",
+    "id": "00-905108",
+    "name": "Swiss O Par Frottee Trockenshampoo",
+    "category": "Trockenshampoo",
+    "subcategories": ["Frottee"]
+  },
+  {
+    "store": "billa",
+    "id": "00-648506",
+    "name": "Syoss 4-8 Schokobraun",
+    "category": "Haarfarbe",
+    "subcategories": ["Schokobraun"]
+  },
+  {
+    "store": "billa",
+    "id": "00-702166",
+    "name": "Syoss Anti-Grease Trockenshampoo",
+    "category": "Trockenshampoo",
+    "subcategories": ["Anti-Grease"]
+  },
+  {
+    "store": "billa",
+    "id": "00-648520",
+    "name": "Syoss Color 1-1 Schwarz",
+    "category": "Haarfarbe",
+    "subcategories": ["Schwarz"]
+  },
+  {
+    "store": "billa",
+    "id": "00-648518",
+    "name": "Syoss Color 1-4 Blauschwarz",
+    "category": "Haarfarbe",
+    "subcategories": ["Blauschwarz"]
+  },
+  {
+    "store": "billa",
+    "id": "00-648517",
+    "name": "Syoss Color 3-1 Dunkelbraun",
+    "category": "Haarfarbe",
+    "subcategories": ["Dunkelbraun"]
+  },
+  {
+    "store": "billa",
+    "id": "00-648515",
+    "name": "Syoss Color 4-1 Mittelbraun",
+    "category": "Haarfarbe",
+    "subcategories": ["Mittelbraun"]
+  },
+  {
+    "store": "billa",
+    "id": "00-648513",
+    "name": "Syoss Color 4-2 Mahagoni",
+    "category": "Haarfarbe",
+    "subcategories": ["Mahagoni"]
+  },
+  {
+    "store": "billa",
+    "id": "00-410512",
+    "name": "Syoss Color Shampoo",
+    "category": "Shampoo",
+    "subcategories": ["Color Shampoo"]
+  },
+  {
+    "store": "billa",
+    "id": "00-410510",
+    "name": "Syoss Full Hair 5 Shampoo",
+    "category": "Shampoo",
+    "subcategories": ["Full Hair 5"]
+  },
+  {
+    "store": "billa",
+    "id": "00-854885",
+    "name": "Syoss Haarspray Invisible Hold",
+    "category": "Haarspray",
+    "subcategories": ["Invisible Hold"]
+  }
+]

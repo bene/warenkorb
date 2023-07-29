@@ -1,0 +1,702 @@
+[
+  {
+    "store": "hofer",
+    "id": 549094,
+    "name": "NATURE'S GOLD Silberzwiebeln 320g",
+    "category": "Gemüse und Obst",
+    "subcategories": ["Zwiebeln"]
+  },
+  {
+    "store": "hofer",
+    "id": 544959,
+    "name": "NATURE'S GOLD Weiße Bohnen 800g",
+    "category": "Gemüse und Obst",
+    "subcategories": ["Bohnen"]
+  },
+  {
+    "store": "hofer",
+    "id": 547832,
+    "name": "NESTLÉ Cini Minis 500g",
+    "category": "Frühstück",
+    "subcategories": ["Müsli", "Frühstücksflocken"]
+  },
+  {
+    "store": "hofer",
+    "id": 547833,
+    "name": "NESTLÉ Lion Karamell & Schoko 480g",
+    "category": "Frühstück",
+    "subcategories": ["Müsli", "Frühstücksflocken"]
+  },
+  {
+    "store": "hofer",
+    "id": 548924,
+    "name": "NESTLÉ Nesquik 500g",
+    "category": "Frühstück",
+    "subcategories": ["Kakao", "Frühstücksflocken"]
+  },
+  {
+    "store": "hofer",
+    "id": 546983,
+    "name": "NATUR AKTIV Bio Quinoa Tricolore 450g",
+    "category": "Getreide",
+    "subcategories": ["Quinoa"]
+  },
+  {
+    "store": "hofer",
+    "id": 546982,
+    "name": "NATUR AKTIV Bio Quinoa weiß 450g",
+    "category": "Getreide",
+    "subcategories": ["Quinoa"]
+  },
+  {
+    "store": "hofer",
+    "id": 544588,
+    "name": "NESTLÉ Kit Kat 6x41,5g",
+    "category": "Süßigkeiten",
+    "subcategories": ["Schokolade"]
+  },
+  {
+    "store": "hofer",
+    "id": 546657,
+    "name": "NESTLÉ Kit Kat White 6x41,5g",
+    "category": "Süßigkeiten",
+    "subcategories": ["Schokolade"]
+  },
+  {
+    "store": "hofer",
+    "id": 544589,
+    "name": "NESTLÉ Smarties 204g",
+    "category": "Süßigkeiten",
+    "subcategories": ["Schokolade"]
+  },
+  {
+    "store": "hofer",
+    "id": 546247,
+    "name": "NIEMETZ Manja Feinstes Haselnusscreme-Stangerl 100g",
+    "category": "Süßigkeiten",
+    "subcategories": ["Schokolade", "Creme", "Haselnüsse"]
+  },
+  {
+    "store": "hofer",
+    "id": 545121,
+    "name": "NIEMETZ Schwedenbomben 180g",
+    "category": "Süßigkeiten",
+    "subcategories": ["Schaumzucker"]
+  },
+  {
+    "store": "hofer",
+    "id": 546248,
+    "name": "NIEMETZ Swedy Feinstes Erdnusscreme-Stangerl 100g",
+    "category": "Süßigkeiten",
+    "subcategories": ["Schokolade", "Creme", "Erdnüsse"]
+  },
+  {
+    "store": "hofer",
+    "id": 544040,
+    "name": "NIMM 2 Lachgummi 300g",
+    "category": "Süßigkeiten",
+    "subcategories": ["Fruchtgummi"]
+  },
+  {
+    "store": "hofer",
+    "id": 545489,
+    "name": "NIMM 2 Lachgummi Apfellinge 270g",
+    "category": "Süßigkeiten",
+    "subcategories": ["Fruchtgummi"]
+  },
+  {
+    "store": "hofer",
+    "id": 544039,
+    "name": "NIMM 2 Lachgummi Frucht und Joghurt 300g",
+    "category": "Süßigkeiten",
+    "subcategories": ["Fruchtgummi"]
+  },
+  {
+    "store": "hofer",
+    "id": 548399,
+    "name": "NIMM 2 Lachgummi Funfari 270g",
+    "category": "Süßigkeiten",
+    "subcategories": ["Fruchtgummi"]
+  },
+  {
+    "store": "hofer",
+    "id": 545480,
+    "name": "NIMM 2 Lachgummi Happies 390g",
+    "category": "Süßigkeiten",
+    "subcategories": ["Fruchtgummi"]
+  },
+  {
+    "store": "hofer",
+    "id": 545481,
+    "name": "NIMM 2 Lachgummi Heroes 270g",
+    "category": "Süßigkeiten",
+    "subcategories": ["Fruchtgummi"]
+  },
+  {
+    "store": "hofer",
+    "id": 545488,
+    "name": "NIMM 2 Lachgummi Joghurt 300g",
+    "category": "Süßigkeiten",
+    "subcategories": ["Fruchtgummi"]
+  },
+  {
+    "store": "hofer",
+    "id": 545487,
+    "name": "NIMM 2 Lachgummi Sauer 300g",
+    "category": "Süßigkeiten",
+    "subcategories": ["Fruchtgummi"]
+  },
+  {
+    "store": "hofer",
+    "id": 544028,
+    "name": "NIMM 2 Lachgummi Softies Fruchtmix 270g",
+    "category": "Süßigkeiten",
+    "subcategories": ["Fruchtgummi"]
+  },
+  {
+    "store": "hofer",
+    "id": 544029,
+    "name": "NIMM 2 Lachgummi Softies rote Früchte 270g",
+    "category": "Süßigkeiten",
+    "subcategories": ["Fruchtgummi"]
+  },
+  {
+    "store": "hofer",
+    "id": 546189,
+    "name": "NIMM 2 Lolly 160g",
+    "category": "Süßigkeiten",
+    "subcategories": ["Lutscher"]
+  },
+  {
+    "store": "hofer",
+    "id": 549979,
+    "name": "NIMM 2 Orangen- und Zitronenbonbons mit Vitaminen 375g",
+    "category": "Süßigkeiten",
+    "subcategories": ["Bonbons"]
+  },
+  {
+    "store": "hofer",
+    "id": 548868,
+    "name": "NIMM 2 Rote Früchte 375g",
+    "category": "Süßigkeiten",
+    "subcategories": ["Bonbons"]
+  },
+  {
+    "store": "hofer",
+    "id": 544077,
+    "name": "NIMM 2 Soft + Cola 300g",
+    "category": "Süßigkeiten",
+    "subcategories": ["Bonbons"]
+  },
+  {
+    "store": "hofer",
+    "id": 545511,
+    "name": "NIMM 2 Soft 300g",
+    "category": "Süßigkeiten",
+    "subcategories": ["Bonbons"]
+  },
+  {
+    "store": "hofer",
+    "id": 544076,
+    "name": "NIMM 2 Soft Brause 300g",
+    "category": "Süßigkeiten",
+    "subcategories": ["Bonbons", "Brause"]
+  },
+  {
+    "store": "hofer",
+    "id": 546822,
+    "name": "MAMIA Aqua Feuchttücher 2x56 Stück",
+    "category": "Babybedarf",
+    "subcategories": ["Feuchttücher"]
+  },
+  {
+    "store": "hofer",
+    "id": 548686,
+    "name": "MAMIA Baby Pants Grösse 6 18 Stück",
+    "category": "Babybedarf",
+    "subcategories": ["Windeln"]
+  },
+  {
+    "store": "hofer",
+    "id": 548865,
+    "name": "MAMIA Baby Pants Größe 6 18 Stück",
+    "category": "Babybedarf",
+    "subcategories": ["Windeln"]
+  },
+  {
+    "store": "hofer",
+    "id": 549696,
+    "name": "MAMIA Baby Pflegetücher, Aloe Vera 2x80 Stück",
+    "category": "Babybedarf",
+    "subcategories": ["Feuchttücher"]
+  },
+  {
+    "store": "hofer",
+    "id": 550021,
+    "name": "MAMIA Babypflege Naturkosmeti Wundschutzcreme 100ml",
+    "category": "Babybedarf",
+    "subcategories": ["Pflegecreme"]
+  },
+  {
+    "store": "hofer",
+    "id": 550019,
+    "name": "MAMIA Babypflege Naturkosmetik 3in1 200ml",
+    "category": "Babybedarf",
+    "subcategories": ["Pflegeprodukte"]
+  },
+  {
+    "store": "hofer",
+    "id": 550020,
+    "name": "MAMIA Babypflege Naturkosmetik Körperlotion 200ml",
+    "category": "Babybedarf",
+    "subcategories": ["Pflegeprodukte", "Lotion"]
+  },
+  {
+    "store": "hofer",
+    "id": 549057,
+    "name": "MAMIA Premium Windeln Maxi 4 80 Stück",
+    "category": "Babybedarf",
+    "subcategories": ["Windeln"]
+  },
+  {
+    "store": "hofer",
+    "id": 549100,
+    "name": "MAMIA Premium Windeln Maxi 4+ 76 Stück",
+    "category": "Babybedarf",
+    "subcategories": ["Windeln"]
+  },
+  {
+    "store": "hofer",
+    "id": 549056,
+    "name": "MAMIA Premium Windeln Mini 2 42 Stück",
+    "category": "Babybedarf",
+    "subcategories": ["Windeln"]
+  },
+  {
+    "store": "hofer",
+    "id": 548966,
+    "name": "MAMIA Premium Windeln XL 6 32 Stück",
+    "category": "Babybedarf",
+    "subcategories": ["Windeln"]
+  },
+  {
+    "store": "hofer",
+    "id": 549500,
+    "name": "MAMIA Windeln Größe 1",
+    "category": "Babybedarf",
+    "subcategories": ["Windeln"]
+  },
+  {
+    "store": "hofer",
+    "id": 548783,
+    "name": "MAMIA Windeln Größe 3 56 Stück",
+    "category": "Babybedarf",
+    "subcategories": ["Windeln"]
+  },
+  {
+    "store": "hofer",
+    "id": 548788,
+    "name": "MAMIA Windeln Größe 5 70 Stück",
+    "category": "Babybedarf",
+    "subcategories": ["Windeln"]
+  },
+  {
+    "store": "hofer",
+    "id": 549521,
+    "name": "O.B. Pro Comfort Mini 32 Stück",
+    "category": "Damenhygiene",
+    "subcategories": ["Tampons"]
+  },
+  {
+    "store": "hofer",
+    "id": 548108,
+    "name": "O.B. Pro Comfort Normal 32 Stück",
+    "category": "Damenhygiene",
+    "subcategories": ["Tampons"]
+  },
+  {
+    "store": "hofer",
+    "id": 548109,
+    "name": "O.B. Pro Comfort Super 32 Stück",
+    "category": "Damenhygiene",
+    "subcategories": ["Tampons"]
+  },
+  {
+    "store": "hofer",
+    "id": 547024,
+    "name": "NIVEA Black & White 50ml",
+    "category": "Körperpflege",
+    "subcategories": ["Deodorant", "Antitranspirant"]
+  },
+  {
+    "store": "hofer",
+    "id": 547023,
+    "name": "NIVEA Fresh Natural 0% Deodorant 50ml",
+    "category": "Körperpflege",
+    "subcategories": ["Deodorant"]
+  },
+  {
+    "store": "hofer",
+    "id": 544511,
+    "name": "OMBIA Deo Roll On Coolfresh Men 50ml",
+    "category": "Körperpflege",
+    "subcategories": ["Deodorant"]
+  },
+  {
+    "store": "hofer",
+    "id": 545857,
+    "name": "OMBIA Deo Roll On Green Spirit 50ml",
+    "category": "Körperpflege",
+    "subcategories": ["Deodorant"]
+  },
+  {
+    "store": "hofer",
+    "id": 544510,
+    "name": "OMBIA Deo Roll On Pure Basic 50ml",
+    "category": "Körperpflege",
+    "subcategories": ["Deodorant"]
+  },
+  {
+    "store": "hofer",
+    "id": 544512,
+    "name": "OMBIA Deo Roll On Sensitive  50ml",
+    "category": "Körperpflege",
+    "subcategories": ["Deodorant"]
+  },
+  {
+    "store": "hofer",
+    "id": 544743,
+    "name": "OMBIA Deospray Attraction 200ml",
+    "category": "Körperpflege",
+    "subcategories": ["Deodorant", "Spray"]
+  },
+  {
+    "store": "hofer",
+    "id": 544750,
+    "name": "OMBIA Deospray Comfort Dry 200ml",
+    "category": "Körperpflege",
+    "subcategories": ["Deodorant", "Spray"]
+  },
+  {
+    "store": "hofer",
+    "id": 544749,
+    "name": "OMBIA Deospray Pure Basic 200ml",
+    "category": "Körperpflege",
+    "subcategories": ["Deodorant", "Spray"]
+  },
+  {
+    "store": "hofer",
+    "id": 544748,
+    "name": "OMBIA Deospray Sensitive Care 200ml",
+    "category": "Körperpflege",
+    "subcategories": ["Deodorant", "Spray"]
+  },
+  {
+    "store": "hofer",
+    "id": 548896,
+    "name": "HEAD & SHOULDERS Apple Fresh 500ml",
+    "category": "Körperpflege",
+    "subcategories": ["Shampoo"]
+  },
+  {
+    "store": "hofer",
+    "id": 548897,
+    "name": "HEAD & SHOULDERS Citrus Fresh 500ml",
+    "category": "Körperpflege",
+    "subcategories": ["Shampoo"]
+  },
+  {
+    "store": "hofer",
+    "id": 548894,
+    "name": "HEAD & SHOULDERS Classic Clean 500ml",
+    "category": "Körperpflege",
+    "subcategories": ["Shampoo"]
+  },
+  {
+    "store": "hofer",
+    "id": 548895,
+    "name": "HEAD & SHOULDERS For Men 500ml",
+    "category": "Körperpflege",
+    "subcategories": ["Shampoo", "Männer"]
+  },
+  {
+    "store": "hofer",
+    "id": 549125,
+    "name": "OMBIA Conditioner Gesundheit und Glanz 500ml",
+    "category": "Körperpflege",
+    "subcategories": ["Conditioner", "Haarpflege"]
+  },
+  {
+    "store": "hofer",
+    "id": 549124,
+    "name": "OMBIA Conditioner Intensive Feuchtigkeitspflege 500ml",
+    "category": "Körperpflege",
+    "subcategories": ["Conditioner", "Haarpflege"]
+  },
+  {
+    "store": "hofer",
+    "id": 549526,
+    "name": "OMBIA Conditioner Volumenpflege 500ml",
+    "category": "Körperpflege",
+    "subcategories": ["Conditioner", "Haarpflege"]
+  },
+  {
+    "store": "hofer",
+    "id": 549123,
+    "name": "OMBIA Conditioner Öltherapie 500ml",
+    "category": "Körperpflege",
+    "subcategories": ["Conditioner", "Haarpflege"]
+  },
+  {
+    "store": "hofer",
+    "id": 544524,
+    "name": "KUKIDENT Haftcreme 47g",
+    "category": "Körperpflege",
+    "subcategories": ["Haftcreme"]
+  },
+  {
+    "store": "hofer",
+    "id": 546236,
+    "name": "KUKIDENT Haftcreme neutral 47g",
+    "category": "Körperpflege",
+    "subcategories": ["Haftcreme"]
+  },
+  {
+    "store": "hofer",
+    "id": 546644,
+    "name": "KUKIDENT Reinigungstabletten 60 Stück",
+    "category": "Körperpflege",
+    "subcategories": ["Reinigungstabletten", "Zahnersatzpflege"]
+  },
+  {
+    "store": "hofer",
+    "id": 548471,
+    "name": "OMBIA Ciara Sensitive 3-fach Ersatzklingen 4 Stück",
+    "category": "Körperpflege",
+    "subcategories": ["Rasierklingen"]
+  },
+  {
+    "store": "hofer",
+    "id": 547180,
+    "name": "OMBIA Ciara Sensitive 6-fach Ersatzklingen 3 Stück",
+    "category": "Körperpflege",
+    "subcategories": ["Rasierklingen"]
+  },
+  {
+    "store": "hofer",
+    "id": 544502,
+    "name": "OMBIA Damen Einwegrasierer mit 3 Klingen 10 Stk.",
+    "category": "Körperpflege",
+    "subcategories": ["Rasierer", "Einwegrasierer"]
+  },
+  {
+    "store": "hofer",
+    "id": 546117,
+    "name": "OMBIA Damen Rasiersystem 1 Stück",
+    "category": "Körperpflege",
+    "subcategories": ["Rasierer"]
+  },
+  {
+    "store": "hofer",
+    "id": 545772,
+    "name": "OMBIA Cream Seife with 3% Urea 150g",
+    "category": "Körperpflege",
+    "subcategories": ["Seife"]
+  },
+  {
+    "store": "hofer",
+    "id": 544594,
+    "name": "OMBIA Cremebad Milch & Honig 1l",
+    "category": "Körperpflege",
+    "subcategories": ["Badezusatz"]
+  },
+  {
+    "store": "hofer",
+    "id": 544595,
+    "name": "OMBIA Cremebad Rose & Mandelmilch 1l",
+    "category": "Körperpflege",
+    "subcategories": ["Badezusatz"]
+  },
+  {
+    "store": "hofer",
+    "id": 547226,
+    "name": "OMBIA Cremebad Spicy Flowers 1l",
+    "category": "Körperpflege",
+    "subcategories": ["Badezusatz"]
+  },
+  {
+    "store": "hofer",
+    "id": 545786,
+    "name": "OMBIA Body Lotion soft 500ml",
+    "category": "Körperpflege",
+    "subcategories": ["Bodylotion"]
+  },
+  {
+    "store": "hofer",
+    "id": 544516,
+    "name": "OMBIA Classic Reinigungstücher 25 Stück",
+    "category": "Körperpflege",
+    "subcategories": ["Reinigungstücher"]
+  },
+  {
+    "store": "hofer",
+    "id": 546139,
+    "name": "KOKETT Comfort Toilettenpapier 3-lagig 180 Blatt Rollen 10 Stück",
+    "category": "Haushalt",
+    "subcategories": ["Toilettenpapier"]
+  },
+  {
+    "store": "hofer",
+    "id": 544774,
+    "name": "KOKETT Feuchtes Toilettenpapier Kamille 2x70 Stück",
+    "category": "Haushalt",
+    "subcategories": ["Feuchtes Toilettenpapier"]
+  },
+  {
+    "store": "hofer",
+    "id": 546257,
+    "name": "KOKETT Feuchtes Toilettenpapier Pflegend 2x70 Stück",
+    "category": "Haushalt",
+    "subcategories": ["Feuchtes Toilettenpapier"]
+  },
+  {
+    "store": "hofer",
+    "id": 544763,
+    "name": "KOKETT Feuchtes Toilettenpapier Sensitive 2x70 Stück",
+    "category": "Haushalt",
+    "subcategories": ["Feuchtes Toilettenpapier"]
+  },
+  {
+    "store": "hofer",
+    "id": 544773,
+    "name": "KOKETT Feuchtes Toilettenpapier Sensitive 2x70 Stück",
+    "category": "Haushalt",
+    "subcategories": ["Feuchtes Toilettenpapier"]
+  },
+  {
+    "store": "hofer",
+    "id": 546259,
+    "name": "KOKETT Feuchtes Toilettenpapier in Box, Kamille 70 Stück",
+    "category": "Haushalt",
+    "subcategories": ["Feuchtes Toilettenpapier"]
+  },
+  {
+    "store": "hofer",
+    "id": 546819,
+    "name": "KOKETT Premium Toilettenpapier 3-lagig 200 Blatt Rollen 10 Stück",
+    "category": "Haushalt",
+    "subcategories": ["Toilettenpapier"]
+  },
+  {
+    "store": "hofer",
+    "id": 546256,
+    "name": "KOKETT Pure Feuchtes Toilettenpapier Shea Butter 2x70 Stück",
+    "category": "Haushalt",
+    "subcategories": ["Feuchtes Toilettenpapier"]
+  },
+  {
+    "store": "hofer",
+    "id": 546141,
+    "name": "KOKETT Pure Toilettenpapier 4-lagig 160 Blatt Rollen 10 Stück",
+    "category": "Haushalt",
+    "subcategories": ["Toilettenpapier"]
+  },
+  {
+    "store": "hofer",
+    "id": 546153,
+    "name": "KOKETT Taschentücher 3-lagig 100 Stück",
+    "category": "Haushalt",
+    "subcategories": ["Taschentücher"]
+  },
+  {
+    "store": "hofer",
+    "id": 549442,
+    "name": "KOKETT Taschentücher 30x10 Stück",
+    "category": "Haushalt",
+    "subcategories": ["Taschentücher"]
+  },
+  {
+    "store": "hofer",
+    "id": 546136,
+    "name": "KOKETT Taschentücher 4-lagig 100 Stk.",
+    "category": "Haushalt",
+    "subcategories": ["Taschentücher"]
+  },
+  {
+    "store": "hofer",
+    "id": 546140,
+    "name": "KOKETT Taschentücher 4-lagig 10x12 Stück",
+    "category": "Haushalt",
+    "subcategories": ["Taschentücher"]
+  },
+  {
+    "store": "hofer",
+    "id": 546146,
+    "name": "KOKETT Taschentücher in Würfelbox 3-lagig 60 Stk.",
+    "category": "Haushalt",
+    "subcategories": ["Taschentücher"]
+  },
+  {
+    "store": "hofer",
+    "id": 546137,
+    "name": "KOKETT Taschentücher in der Box mit Duft 100 Stück",
+    "category": "Haushalt",
+    "subcategories": ["Taschentücher", "Duft"]
+  },
+  {
+    "store": "hofer",
+    "id": 548475,
+    "name": "KOKETT Taschentücher in der Würfelbox 60 Stück",
+    "category": "Haushalt",
+    "subcategories": ["Taschentücher"]
+  },
+  {
+    "store": "hofer",
+    "id": 547177,
+    "name": "KOKETT Excellent Küchenrolle 6 Stück",
+    "category": "Haushalt",
+    "subcategories": ["Küchenrolle"]
+  },
+  {
+    "store": "hofer",
+    "id": 546147,
+    "name": "KOKETT Servietten 1-lagig 100 Stück",
+    "category": "Haushalt",
+    "subcategories": ["Servietten"]
+  },
+  {
+    "store": "hofer",
+    "id": 548487,
+    "name": "KOKETT Servietten 3-lagig 30 Stück Lime",
+    "category": "Haushalt",
+    "subcategories": ["Servietten"]
+  },
+  {
+    "store": "hofer",
+    "id": 546262,
+    "name": "KOKETT Servietten 3-lagig Grau 30 Stück",
+    "category": "Haushalt",
+    "subcategories": ["Servietten"]
+  },
+  {
+    "store": "hofer",
+    "id": 547396,
+    "name": "KOKETT Servietten 3-lagig Kobaltblau 30 Stück",
+    "category": "Haushalt",
+    "subcategories": ["Servietten"]
+  },
+  {
+    "store": "hofer",
+    "id": 547395,
+    "name": "KOKETT Servietten 3-lagig Olivgrün 30 Stück",
+    "category": "Haushalt",
+    "subcategories": ["Servietten"]
+  },
+  {
+    "store": "hofer",
+    "id": 549688,
+    "name": "KOKETT Servietten 3-lagig Orange 30 Stück",
+    "category": "Haushalt",
+    "subcategories": ["Servietten"]
+  }
+]

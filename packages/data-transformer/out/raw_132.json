@@ -1,0 +1,702 @@
+[
+  {
+    "store": "hofer",
+    "id": 544924,
+    "name": "MILFINA Butterkäse 350g",
+    "category": "Käse",
+    "subcategories": ["Butterkäse"]
+  },
+  {
+    "store": "hofer",
+    "id": 543852,
+    "name": "MILFINA Cottage Cheese Kräuter 250g",
+    "category": "Käse",
+    "subcategories": ["Cottage Cheese"]
+  },
+  {
+    "store": "hofer",
+    "id": 543853,
+    "name": "MILFINA Cottage Cheese Laktosfrei 250g",
+    "category": "Käse",
+    "subcategories": ["Cottage Cheese", "Laktosefrei"]
+  },
+  {
+    "store": "hofer",
+    "id": 545340,
+    "name": "MILFINA Cottage Cheese Natur 250g",
+    "category": "Käse",
+    "subcategories": ["Cottage Cheese"]
+  },
+  {
+    "store": "hofer",
+    "id": 545341,
+    "name": "MILFINA Cottage Cheese Natur fettreduziert 250g",
+    "category": "Käse",
+    "subcategories": ["Cottage Cheese", "Fettreduziert"]
+  },
+  {
+    "store": "hofer",
+    "id": 543854,
+    "name": "MILFINA Cottage Cheese Schnittlauch fettreduziert 250g",
+    "category": "Käse",
+    "subcategories": ["Cottage Cheese", "Fettreduziert"]
+  },
+  {
+    "store": "hofer",
+    "id": 543677,
+    "name": "MILFINA Edamer in Scheiben mild-fein 400g",
+    "category": "Käse",
+    "subcategories": ["Edamer"]
+  },
+  {
+    "store": "hofer",
+    "id": 548862,
+    "name": "MILFINA Emmentaler 400g",
+    "category": "Käse",
+    "subcategories": ["Emmentaler"]
+  },
+  {
+    "store": "hofer",
+    "id": 544902,
+    "name": "MILFINA Emmentaler Schmelzkäsezubereitung Scheiben 250g",
+    "category": "Käse",
+    "subcategories": ["Emmentaler", "Schmelzkäse"]
+  },
+  {
+    "store": "hofer",
+    "id": 543987,
+    "name": "MILFINA Erzherzog Johann Käse per kg",
+    "category": "Käse",
+    "subcategories": ["Erzherzog Johann Käse"]
+  },
+  {
+    "store": "hofer",
+    "id": 546046,
+    "name": "MILFINA Feine Käsecreme mit Gouda 200g",
+    "category": "Käse",
+    "subcategories": ["Käsecreme", "Gouda"]
+  },
+  {
+    "store": "hofer",
+    "id": 545682,
+    "name": "MILFINA Feine Käseplatte mild 165g",
+    "category": "Käse",
+    "subcategories": ["Käseplatte"]
+  },
+  {
+    "store": "hofer",
+    "id": 545683,
+    "name": "MILFINA Feine Käseplatte würzig 165g",
+    "category": "Käse",
+    "subcategories": ["Käseplatte"]
+  },
+  {
+    "store": "hofer",
+    "id": 548888,
+    "name": "MILFINA Toastkäsescheiben 250g",
+    "category": "Käse",
+    "subcategories": ["Toastkäse"]
+  },
+  {
+    "store": "hofer",
+    "id": 545452,
+    "name": "MILFINA Trio Selection 250g",
+    "category": "Käse",
+    "subcategories": ["Trio Selection"]
+  },
+  {
+    "store": "hofer",
+    "id": 545451,
+    "name": "MILFINA Trio Selection fettreduziert 250g",
+    "category": "Käse",
+    "subcategories": ["Trio Selection", "Fettreduziert"]
+  },
+  {
+    "store": "hofer",
+    "id": 549411,
+    "name": "MILFINA Weinkäse 250g",
+    "category": "Käse",
+    "subcategories": ["Weinkäse"]
+  },
+  {
+    "store": "hofer",
+    "id": 543862,
+    "name": "MILFINA Weiss-Blauer Pirol mild 150g",
+    "category": "Käse",
+    "subcategories": ["Weiss-Blauer Pirol"]
+  },
+  {
+    "store": "hofer",
+    "id": 549035,
+    "name": "MILFINA Ziegenkäse",
+    "category": "Käse",
+    "subcategories": ["Ziegenkäse"]
+  },
+  {
+    "store": "hofer",
+    "id": 544818,
+    "name": "MILFINA würzige Käsecreme mit Bergkäse 200g",
+    "category": "Käse",
+    "subcategories": ["Käsecreme", "Bergkäse"]
+  },
+  {
+    "store": "hofer",
+    "id": 545592,
+    "name": "MILFINA Österreichischer Butterkäse 200g",
+    "category": "Käse",
+    "subcategories": ["Butterkäse"]
+  },
+  {
+    "store": "hofer",
+    "id": 549468,
+    "name": "MILFINA Österreichischer Gouda 400g",
+    "category": "Käse",
+    "subcategories": ["Gouda"]
+  },
+  {
+    "store": "hofer",
+    "id": 549673,
+    "name": "MILFINA Österreichischer Heumilch Emmentaler 350g",
+    "category": "Käse",
+    "subcategories": ["Heumilch Emmentaler"]
+  },
+  {
+    "store": "hofer",
+    "id": 549544,
+    "name": "MILFINA Österreichischer Junger Gouda 450g",
+    "category": "Käse",
+    "subcategories": ["Junger Gouda"]
+  },
+  {
+    "store": "hofer",
+    "id": 544203,
+    "name": "MILFINA Österreichischer Tilsiter 200g",
+    "category": "Käse",
+    "subcategories": ["Tilsiter"]
+  },
+  {
+    "store": "hofer",
+    "id": 544923,
+    "name": "MILFINA Österreichischer Tilsiter 350g",
+    "category": "Käse",
+    "subcategories": ["Tilsiter"]
+  },
+  {
+    "store": "hofer",
+    "id": 548239,
+    "name": "MINI BABYBEL High Protein 7x20g 140g",
+    "category": "Käse",
+    "subcategories": ["Mini Babybel", "High Protein"]
+  },
+  {
+    "store": "hofer",
+    "id": 544126,
+    "name": "GOOD CHOICE Schoko Donuts 216g",
+    "category": "Süßwaren",
+    "subcategories": ["Donuts", "Schokolade"]
+  },
+  {
+    "store": "hofer",
+    "id": 545541,
+    "name": "GOOD CHOICE Schoko Kuchenschnitte 220g",
+    "category": "Süßwaren",
+    "subcategories": ["Kuchenschnitte", "Schokolade"]
+  },
+  {
+    "store": "hofer",
+    "id": 549093,
+    "name": "GOURMET Dessert im Glas Passionsfrucht & Mango 60g",
+    "category": "Süßwaren",
+    "subcategories": ["Dessert", "Passionsfrucht", "Mango"]
+  },
+  {
+    "store": "hofer",
+    "id": 549568,
+    "name": "GOURMET Dessert im Glas Rote Grütze 60g",
+    "category": "Süßwaren",
+    "subcategories": ["Dessert", "Rote Grütze"]
+  },
+  {
+    "store": "hofer",
+    "id": 549114,
+    "name": "GOURMET Dessert im Glas, Apfel-Karamell-Zimt 60g",
+    "category": "Süßwaren",
+    "subcategories": ["Dessert", "Apfel", "Karamell", "Zimt"]
+  },
+  {
+    "store": "hofer",
+    "id": 549090,
+    "name": "GOURMET Dessert im Glas, Cheesec.-Rote Früchte 60g",
+    "category": "Süßwaren",
+    "subcategories": ["Dessert", "Cheesecake", "Rote Früchte"]
+  },
+  {
+    "store": "hofer",
+    "id": 549091,
+    "name": "GOURMET Dessert im Glas, Double Chocolate 60g",
+    "category": "Süßwaren",
+    "subcategories": ["Dessert", "Double Chocolate"]
+  },
+  {
+    "store": "hofer",
+    "id": 549092,
+    "name": "GOURMET Dessert im Glas, Erdbeere-Pistazie 60g",
+    "category": "Süßwaren",
+    "subcategories": ["Dessert", "Erdbeere", "Pistazie"]
+  },
+  {
+    "store": "hofer",
+    "id": 549089,
+    "name": "GOURMET Dessert im Glas, Praline 60g",
+    "category": "Süßwaren",
+    "subcategories": ["Dessert", "Praline"]
+  },
+  {
+    "store": "hofer",
+    "id": 549088,
+    "name": "GOURMET Dessert im Glas, Schoko-Eierlikör 60g",
+    "category": "Süßwaren",
+    "subcategories": ["Dessert", "Schokolade", "Eierlikör"]
+  },
+  {
+    "store": "hofer",
+    "id": 549463,
+    "name": "GOURMET Macarons 144g",
+    "category": "Süßwaren",
+    "subcategories": ["Macarons"]
+  },
+  {
+    "store": "hofer",
+    "id": 546355,
+    "name": "GOURMET Macarons 78g",
+    "category": "Süßwaren",
+    "subcategories": ["Macarons"]
+  },
+  {
+    "store": "hofer",
+    "id": 544986,
+    "name": "GOURMET Schaumrolle 120g",
+    "category": "Süßwaren",
+    "subcategories": ["Schaumrolle"]
+  },
+  {
+    "store": "hofer",
+    "id": 546944,
+    "name": "LYTTOS Original Grichiesches Joghurt Natur 0% Fett 3x200g 600g",
+    "category": "Joghurt",
+    "subcategories": ["Griechisches Joghurt", "Natur", "Fettarm"]
+  },
+  {
+    "store": "hofer",
+    "id": 546943,
+    "name": "LYTTOS Original Griechisches Joghurt 10% Fett 3x200g 600g",
+    "category": "Joghurt",
+    "subcategories": ["Griechisches Joghurt", "Fettreich"]
+  },
+  {
+    "store": "hofer",
+    "id": 546949,
+    "name": "LYTTOS Original Griechisches Joghurt Natur 10 % Fett 1kg",
+    "category": "Joghurt",
+    "subcategories": ["Griechisches Joghurt", "Natur", "Fettreich"]
+  },
+  {
+    "store": "hofer",
+    "id": 546950,
+    "name": "LYTTOS Original Griechisches Joghurt Natur 2 % Fett 1kg",
+    "category": "Joghurt",
+    "subcategories": ["Griechisches Joghurt", "Natur", "Fettarm"]
+  },
+  {
+    "store": "hofer",
+    "id": 546945,
+    "name": "LYTTOS Original Griechisches Joghurt Natur 2 % Fett 600g",
+    "category": "Joghurt",
+    "subcategories": ["Griechisches Joghurt", "Natur", "Fettarm"]
+  },
+  {
+    "store": "hofer",
+    "id": 546829,
+    "name": "MILFINA Ayran 250ml",
+    "category": "Joghurt",
+    "subcategories": ["Ayran"]
+  },
+  {
+    "store": "hofer",
+    "id": 544909,
+    "name": "MILFINA Butterschmalz 500g",
+    "category": "Butter",
+    "subcategories": ["Butterschmalz"]
+  },
+  {
+    "store": "hofer",
+    "id": 546385,
+    "name": "MILFINA Cremetopfen 40% 250g",
+    "category": "Butter",
+    "subcategories": ["Cremetopfen"]
+  },
+  {
+    "store": "hofer",
+    "id": 546469,
+    "name": "MILFINA Cremiges Fettarmes Naturjoghurt 0,1% Fett 250g",
+    "category": "Joghurt",
+    "subcategories": ["Fettarmes Naturjoghurt"]
+  },
+  {
+    "store": "hofer",
+    "id": 546862,
+    "name": "MILFINA Cremiges Fruchtjoghurt Erdbeere 180g",
+    "category": "Joghurt",
+    "subcategories": ["Cremiges Fruchtjoghurt", "Erdbeere"]
+  },
+  {
+    "store": "hofer",
+    "id": 546858,
+    "name": "MILFINA Cremiges Fruchtjoghurt Erdbeere 500g",
+    "category": "Joghurt",
+    "subcategories": ["Cremiges Fruchtjoghurt", "Erdbeere"]
+  },
+  {
+    "store": "hofer",
+    "id": 546859,
+    "name": "MILFINA Cremiges Fruchtjoghurt Heidelbeere 500g",
+    "category": "Joghurt",
+    "subcategories": ["Cremiges Fruchtjoghurt", "Heidelbeere"]
+  },
+  {
+    "store": "hofer",
+    "id": 546953,
+    "name": "MILFINA Cremiges Joghurt Bircher Müsli 1kg",
+    "category": "Joghurt",
+    "subcategories": ["Cremiges Joghurt", "Bircher Müsli"]
+  },
+  {
+    "store": "hofer",
+    "id": 546951,
+    "name": "MILFINA Cremiges Joghurt Erdbeere 1kg",
+    "category": "Joghurt",
+    "subcategories": ["Cremiges Joghurt", "Erdbeere"]
+  },
+  {
+    "store": "hofer",
+    "id": 546952,
+    "name": "MILFINA Cremiges Joghurt Vanille 1kg",
+    "category": "Joghurt",
+    "subcategories": ["Cremiges Joghurt", "Vanille"]
+  },
+  {
+    "store": "hofer",
+    "id": 544140,
+    "name": "MILFINA Cremiges Naturjoghurt 3,6% Fett 500g",
+    "category": "Joghurt",
+    "subcategories": ["Cremiges Naturjoghurt"]
+  },
+  {
+    "store": "hofer",
+    "id": 543891,
+    "name": "MILFINA Crème Fraîche Kräuter 150g",
+    "category": "Sauerrahm",
+    "subcategories": ["Crème Fraîche", "Kräuter"]
+  },
+  {
+    "store": "hofer",
+    "id": 545366,
+    "name": "MILFINA Crème Fraîche Natur 150g",
+    "category": "Sauerrahm",
+    "subcategories": ["Crème Fraîche"]
+  },
+  {
+    "store": "hofer",
+    "id": 545365,
+    "name": "MILFINA Crème Fraîche laktosefrei 150g",
+    "category": "Sauerrahm",
+    "subcategories": ["Crème Fraîche", "Laktosefrei"]
+  },
+  {
+    "store": "hofer",
+    "id": 548556,
+    "name": "MILFINA Erdbeere Active Drink 10x100g",
+    "category": "Trinkjoghurt",
+    "subcategories": ["Active Drink", "Erdbeere"]
+  },
+  {
+    "store": "hofer",
+    "id": 549211,
+    "name": "MILFINA Familienjoghurt 720g",
+    "category": "Joghurt",
+    "subcategories": ["Familienjoghurt"]
+  },
+  {
+    "store": "hofer",
+    "id": 548849,
+    "name": "MILFINA Fettarmer Kefir 500g",
+    "category": "Kefir",
+    "subcategories": ["Fettarm"]
+  },
+  {
+    "store": "hofer",
+    "id": 547914,
+    "name": "MILFINA Fri Fru Sauermilch mit Marillen 200g",
+    "category": "Sauermilch",
+    "subcategories": ["Marillen"]
+  },
+  {
+    "store": "hofer",
+    "id": 549734,
+    "name": "MILFINA Frischkäse Bärlauch 200g",
+    "category": "Frischkäse",
+    "subcategories": ["Frischkäse", "Bärlauch"]
+  },
+  {
+    "store": "hofer",
+    "id": 545373,
+    "name": "MILFINA Frischkäse Kräuter 200g",
+    "category": "Frischkäse",
+    "subcategories": ["Frischkäse", "Kräuter"]
+  },
+  {
+    "store": "hofer",
+    "id": 545374,
+    "name": "MILFINA Frischkäse Natur 200g",
+    "category": "Frischkäse",
+    "subcategories": ["Frischkäse", "Natur"]
+  },
+  {
+    "store": "hofer",
+    "id": 543899,
+    "name": "MILFINA Frischkäse Paprika 200g",
+    "category": "Frischkäse",
+    "subcategories": ["Frischkäse", "Paprika"]
+  },
+  {
+    "store": "hofer",
+    "id": 544078,
+    "name": "MILFINA Frischkäse fettreduziert 200g",
+    "category": "Frischkäse",
+    "subcategories": ["Frischkäse", "Fettreduziert"]
+  },
+  {
+    "store": "hofer",
+    "id": 543900,
+    "name": "MILFINA Frischkäse laktosefrei 200g",
+    "category": "Frischkäse",
+    "subcategories": ["Frischkäse", "Laktosefrei"]
+  },
+  {
+    "store": "hofer",
+    "id": 545512,
+    "name": "MILFINA Frischkäse mit feinen Kräutern 200g",
+    "category": "Frischkäse",
+    "subcategories": ["Frischkäse", "Kräuter"]
+  },
+  {
+    "store": "hofer",
+    "id": 544079,
+    "name": "MILFINA Frischkäse sahnig-cremig 200g",
+    "category": "Frischkäse",
+    "subcategories": ["Frischkäse"]
+  },
+  {
+    "store": "hofer",
+    "id": 546570,
+    "name": "MILFINA Frischkäse-Fass Feinste Kräuter 200g",
+    "category": "Frischkäse",
+    "subcategories": ["Frischkäse", "Kräuter"]
+  },
+  {
+    "store": "hofer",
+    "id": 546569,
+    "name": "MILFINA Frischkäse-Fass cremig-sahnig 200g",
+    "category": "Frischkäse",
+    "subcategories": ["Frischkäse"]
+  },
+  {
+    "store": "hofer",
+    "id": 543986,
+    "name": "MILFINA Gmundner Berg Premium Käse per kg",
+    "category": "Käse",
+    "subcategories": ["Gmundner Berg Premium Käse"]
+  },
+  {
+    "store": "hofer",
+    "id": 547242,
+    "name": "MILFINA Gouda Holland 450g",
+    "category": "Käse",
+    "subcategories": ["Gouda"]
+  },
+  {
+    "store": "hofer",
+    "id": 549920,
+    "name": "MILFINA Gouda Scheiben Geräuchert 200g",
+    "category": "Käse",
+    "subcategories": ["Gouda", "Geräuchert"]
+  },
+  {
+    "store": "hofer",
+    "id": 549919,
+    "name": "MILFINA Gouda Scheiben mild 250g",
+    "category": "Käse",
+    "subcategories": ["Gouda"]
+  },
+  {
+    "store": "hofer",
+    "id": 544898,
+    "name": "MILFINA Heumilch Emmentaler 200g",
+    "category": "Käse",
+    "subcategories": ["Heumilch Emmentaler"]
+  },
+  {
+    "store": "hofer",
+    "id": 543665,
+    "name": "MILFINA Heumilch Emmentaler gerieben 250g",
+    "category": "Käse",
+    "subcategories": ["Heumilch Emmentaler"]
+  },
+  {
+    "store": "hofer",
+    "id": 548667,
+    "name": "MILFINA Jausenkäse 45% Fett mild-fein 480g",
+    "category": "Käse",
+    "subcategories": ["Jausenkäse"]
+  },
+  {
+    "store": "hofer",
+    "id": 546424,
+    "name": "MILFINA Frucht Molke Mango 500ml",
+    "category": "Molke",
+    "subcategories": ["Frucht Molke", "Mango"]
+  },
+  {
+    "store": "hofer",
+    "id": 549797,
+    "name": "MILFINA Fruchtjoghurt  Zitrone 180g",
+    "category": "Joghurt",
+    "subcategories": ["Fruchtjoghurt", "Zitrone"]
+  },
+  {
+    "store": "hofer",
+    "id": 546865,
+    "name": "MILFINA Fruchtjoghurt Heidelbeere 180g",
+    "category": "Joghurt",
+    "subcategories": ["Fruchtjoghurt", "Heidelbeere"]
+  },
+  {
+    "store": "hofer",
+    "id": 546866,
+    "name": "MILFINA Fruchtjoghurt Himbeere 180g",
+    "category": "Joghurt",
+    "subcategories": ["Fruchtjoghurt", "Himbeere"]
+  },
+  {
+    "store": "hofer",
+    "id": 546863,
+    "name": "MILFINA Fruchtjoghurt Kaffee 180g",
+    "category": "Joghurt",
+    "subcategories": ["Fruchtjoghurt", "Kaffee"]
+  },
+  {
+    "store": "hofer",
+    "id": 546869,
+    "name": "MILFINA Fruchtjoghurt Marille 180 g",
+    "category": "Joghurt",
+    "subcategories": ["Fruchtjoghurt", "Marille"]
+  },
+  {
+    "store": "hofer",
+    "id": 549894,
+    "name": "MILFINA Fruchtjoghurt Pfirsich-Maracuja 500g",
+    "category": "Joghurt",
+    "subcategories": ["Fruchtjoghurt", "Pfirsich-Maracuja"]
+  },
+  {
+    "store": "hofer",
+    "id": 546864,
+    "name": "MILFINA Fruchtjoghurt Vanille 180g",
+    "category": "Joghurt",
+    "subcategories": ["Fruchtjoghurt", "Vanille"]
+  },
+  {
+    "store": "hofer",
+    "id": 546861,
+    "name": "MILFINA Fruchtjoghurt Vanille 500g",
+    "category": "Joghurt",
+    "subcategories": ["Fruchtjoghurt", "Vanille"]
+  },
+  {
+    "store": "hofer",
+    "id": 546868,
+    "name": "MILFINA Fruchtjoghurt Waldbeere 180g",
+    "category": "Joghurt",
+    "subcategories": ["Fruchtjoghurt", "Waldbeere"]
+  },
+  {
+    "store": "hofer",
+    "id": 543840,
+    "name": "MILFINA Fruchtmolke Erdbeere 500ml",
+    "category": "Molke",
+    "subcategories": ["Fruchtmolke", "Erdbeere"]
+  },
+  {
+    "store": "hofer",
+    "id": 546425,
+    "name": "MILFINA Fruchtmolke Maracuja 500ml",
+    "category": "Molke",
+    "subcategories": ["Fruchtmolke", "Maracuja"]
+  },
+  {
+    "store": "hofer",
+    "id": 548674,
+    "name": "MILFINA Fruit Milfinis 720g",
+    "category": "Joghurt",
+    "subcategories": ["Fruit Milfinis"]
+  },
+  {
+    "store": "hofer",
+    "id": 548258,
+    "name": "MILFINA Gouda geschnitten 250g",
+    "category": "Käse",
+    "subcategories": ["Gouda"]
+  },
+  {
+    "store": "hofer",
+    "id": 548259,
+    "name": "MILFINA Gouda geschnitten geräuchert 200g",
+    "category": "Käse",
+    "subcategories": ["Gouda", "Geräuchert"]
+  },
+  {
+    "store": "hofer",
+    "id": 547677,
+    "name": "MILFINA Grand Passion Double Toffee 175g",
+    "category": "Süßwaren",
+    "subcategories": ["Grand Passion", "Double Toffee"]
+  },
+  {
+    "store": "hofer",
+    "id": 547679,
+    "name": "MILFINA Grand Passion Double choc 175g",
+    "category": "Süßwaren",
+    "subcategories": ["Grand Passion", "Double Chocolate"]
+  },
+  {
+    "store": "hofer",
+    "id": 547678,
+    "name": "MILFINA Grand Passion double nut 175g",
+    "category": "Süßwaren",
+    "subcategories": ["Grand Passion", "Double Nut"]
+  },
+  {
+    "store": "hofer",
+    "id": 546085,
+    "name": "MILFINA Haltbare Vollmilch 3,5% Fett 1l",
+    "category": "Milch",
+    "subcategories": ["Vollmilch"]
+  },
+  {
+    "store": "hofer",
+    "id": 548541,
+    "name": "MILFINA Heumilch Naturjoghurt 3,6% Fett 1kg",
+    "category": "Joghurt",
+    "subcategories": ["Heumilch Naturjoghurt"]
+  }
+]

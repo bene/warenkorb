@@ -1,0 +1,702 @@
+[
+  {
+    "store": "spar",
+    "id": "2753539",
+    "name": "DanKlorix Hygiene-Reiniger Original 1,5l",
+    "category": "Reiniger",
+    "subcategories": ["Hygiene", "Haushalt"]
+  },
+  {
+    "store": "spar",
+    "id": "2753546",
+    "name": "DanKlorix Hygiene-Reiniger Grüne Frische 1,5 L",
+    "category": "Reiniger",
+    "subcategories": ["Hygiene", "Haushalt"]
+  },
+  {
+    "store": "spar",
+    "id": "2397924",
+    "name": "DanKlorix Hygiene-Reiniger Lavendel Frische 1,5l",
+    "category": "Reiniger",
+    "subcategories": ["Hygiene", "Haushalt"]
+  },
+  {
+    "store": "spar",
+    "id": "6894450",
+    "name": "DanKlorix Hygiene-Reiniger Zitronen Frische 1,5l",
+    "category": "Reiniger",
+    "subcategories": ["Hygiene", "Haushalt"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003703287",
+    "name": "DYMO Etikettiergerät Omega",
+    "category": "Bürobedarf",
+    "subcategories": ["Etikettiergerät"]
+  },
+  {
+    "store": "spar",
+    "id": "4595199",
+    "name": "DanKlorix Bad-Reiniger Schimmel Stopp 750ml",
+    "category": "Reiniger",
+    "subcategories": ["Bad", "Hygiene", "Haushalt"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004604057",
+    "name": "Comfort Weichspüler Blue Sky 50WG",
+    "category": "Waschmittel",
+    "subcategories": ["Weichspüler"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004604125",
+    "name": "Comfort Weichspüler Pure 50WG",
+    "category": "Waschmittel",
+    "subcategories": ["Weichspüler"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004604279",
+    "name": "Comfort Weichspüler Silk 50WG",
+    "category": "Waschmittel",
+    "subcategories": ["Weichspüler"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004549433",
+    "name": "Command Besenhalter Besenhalter",
+    "category": "Haushalt",
+    "subcategories": ["Aufbewahrung"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004549419",
+    "name": "Command Command Sprühflaschenaufhänger",
+    "category": "Haushalt",
+    "subcategories": ["Aufbewahrung"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002939021",
+    "name": "DESPAR Biscotti Noisette",
+    "category": "Lebensmittel",
+    "subcategories": ["Kekse", "Gebäck"]
+  },
+  {
+    "store": "spar",
+    "id": "7529375",
+    "name": "DESPAR Croissant mit Cremefüllung 9 Stück",
+    "category": "Lebensmittel",
+    "subcategories": ["Gebäck", "Frühstück"]
+  },
+  {
+    "store": "spar",
+    "id": "7529429",
+    "name": "DESPAR Croissant mit Marillen-Fruchtfüllung 9 Stück",
+    "category": "Lebensmittel",
+    "subcategories": ["Gebäck", "Frühstück"]
+  },
+  {
+    "store": "spar",
+    "id": "7529238",
+    "name": "DESPAR Croissant mit Schokoladencreme-Füllung 9 Stück",
+    "category": "Lebensmittel",
+    "subcategories": ["Gebäck", "Frühstück"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004349934",
+    "name": "DESPAR Cuscinetti croccanti sardi",
+    "category": "Lebensmittel",
+    "subcategories": ["Kekse"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001054053",
+    "name": "Cucumis Cucumber",
+    "category": "Lebensmittel",
+    "subcategories": ["Gemüse", "Salat"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001054091",
+    "name": "Cucumis Lavendel",
+    "category": "Lebensmittel",
+    "subcategories": ["Kräuter"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002878405",
+    "name": "Curing Shot Bio Orange/Ingwer/Kurkuma 60ml",
+    "category": "Lebensmittel",
+    "subcategories": ["Gesundheit", "Nahrungsergänzung"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003197895",
+    "name": "Curing Shot Bio Spirulina",
+    "category": "Lebensmittel",
+    "subcategories": ["Gesundheit", "Nahrungsergänzung"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004580634",
+    "name": "Curing Shot Probiotik",
+    "category": "Lebensmittel",
+    "subcategories": ["Gesundheit", "Nahrungsergänzung"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004667700",
+    "name": "Coors Bier Lager",
+    "category": "Alkohol",
+    "subcategories": ["Bier"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004643667",
+    "name": "Corona Cero 6 x 0,355l",
+    "category": "Alkohol",
+    "subcategories": ["Bier"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004501806",
+    "name": "Corona Extra Bier 6 x 0,355l",
+    "category": "Alkohol",
+    "subcategories": ["Bier"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003858512",
+    "name": "Costa Coffee Signature Blend Espresso 10 Kapseln",
+    "category": "Lebensmittel",
+    "subcategories": ["Kaffee", "Getränke"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003858468",
+    "name": "Costa Coffee Signature Blend Lungo 10 Kapseln",
+    "category": "Lebensmittel",
+    "subcategories": ["Kaffee", "Getränke"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003865596",
+    "name": "Costa Coffee The Bright Blend Espresso 10 Kapseln",
+    "category": "Lebensmittel",
+    "subcategories": ["Kaffee", "Getränke"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003865589",
+    "name": "Costa Coffee The Colombian Roast Espresso 10 Kapseln",
+    "category": "Lebensmittel",
+    "subcategories": ["Kaffee", "Getränke"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002225094",
+    "name": "Cremesso Espresso Alba 16 Kapseln",
+    "category": "Lebensmittel",
+    "subcategories": ["Kaffee", "Getränke"]
+  },
+  {
+    "store": "spar",
+    "id": "7092466",
+    "name": "Cremesso Espresso Classico 16 Kapseln",
+    "category": "Lebensmittel",
+    "subcategories": ["Kaffee", "Getränke"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002987626",
+    "name": "Cremesso Espresso Classico 48 Kapseln",
+    "category": "Lebensmittel",
+    "subcategories": ["Kaffee", "Getränke"]
+  },
+  {
+    "store": "spar",
+    "id": "7941368",
+    "name": "Cremesso Espresso Per Macchiato 16 Kapseln",
+    "category": "Lebensmittel",
+    "subcategories": ["Kaffee", "Getränke"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004595874",
+    "name": "Cremesso India 16 Kapseln",
+    "category": "Lebensmittel",
+    "subcategories": ["Kaffee", "Getränke"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003636295",
+    "name": "Cremesso Lungo Caramello 16 Kapseln",
+    "category": "Lebensmittel",
+    "subcategories": ["Kaffee", "Getränke"]
+  },
+  {
+    "store": "spar",
+    "id": "7092411",
+    "name": "Cremesso Lungo Crema 16 Kapseln",
+    "category": "Lebensmittel",
+    "subcategories": ["Kaffee", "Getränke"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002987039",
+    "name": "Cremesso Lungo Crema 48 Kapseln",
+    "category": "Lebensmittel",
+    "subcategories": ["Kaffee", "Getränke"]
+  },
+  {
+    "store": "spar",
+    "id": "7092633",
+    "name": "Cremesso Lungo Decaffeinato 16 Kapseln",
+    "category": "Lebensmittel",
+    "subcategories": ["Kaffee", "Getränke"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001433353",
+    "name": "Cremesso Lungo Fortissimo 16 Kapseln",
+    "category": "Lebensmittel",
+    "subcategories": ["Kaffee", "Getränke"]
+  },
+  {
+    "store": "spar",
+    "id": "7092602",
+    "name": "Cremesso Lungo Leggero 16 Kapseln",
+    "category": "Lebensmittel",
+    "subcategories": ["Kaffee", "Getränke"]
+  },
+  {
+    "store": "spar",
+    "id": "7092558",
+    "name": "Cremesso Ristretto Forte 16 Kapseln",
+    "category": "Lebensmittel",
+    "subcategories": ["Kaffee", "Getränke"]
+  },
+  {
+    "store": "spar",
+    "id": "2020000668688",
+    "name": "DESPAR Caffè Crema Classico",
+    "category": "Lebensmittel",
+    "subcategories": ["Kaffee", "Getränke"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004319012",
+    "name": "Cihuatán Alux 15 YO",
+    "category": "Alkohol",
+    "subcategories": ["Spirituosen", "Rum"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003734625",
+    "name": "Cihuatán Cinabrio 12YO",
+    "category": "Alkohol",
+    "subcategories": ["Spirituosen", "Rum"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003907067",
+    "name": "Cinzano Bianco",
+    "category": "Alkohol",
+    "subcategories": ["Spirituosen", "Vermouth"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003735509",
+    "name": "Claude Thorin Grand Champagne",
+    "category": "Alkohol",
+    "subcategories": ["Spirituosen", "Cognac"]
+  },
+  {
+    "store": "spar",
+    "id": "7685064",
+    "name": "Cointreau 0,7 L",
+    "category": "Alkohol",
+    "subcategories": ["Spirituosen", "Likör"]
+  },
+  {
+    "store": "spar",
+    "id": "3507537",
+    "name": "Courvoisier VS",
+    "category": "Alkohol",
+    "subcategories": ["Spirituosen", "Cognac"]
+  },
+  {
+    "store": "spar",
+    "id": "4038856",
+    "name": "Courvoisier VSOP VSOP",
+    "category": "Alkohol",
+    "subcategories": ["Spirituosen", "Cognac"]
+  },
+  {
+    "store": "spar",
+    "id": "5237371",
+    "name": "Cynar 0,7 L",
+    "category": "Alkohol",
+    "subcategories": ["Spirituosen", "Likör"]
+  },
+  {
+    "store": "spar",
+    "id": "3867525",
+    "name": "Château Gassier le Pas du Moine Sainte Victoire AOP BIO 2022",
+    "category": "Wein",
+    "subcategories": ["Roséwein", "Biowein"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003742804",
+    "name": "Château Grand Mayne Saint-Emilion Grande Cru Classé 2018",
+    "category": "Wein",
+    "subcategories": ["Rotwein", "Frankreich", "Bordeaux"]
+  },
+  {
+    "store": "spar",
+    "id": "8183439",
+    "name": "Château Grand Renom Bordeaux AOP 2020",
+    "category": "Wein",
+    "subcategories": ["Rotwein", "Frankreich", "Bordeaux"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004559661",
+    "name": "Château Le Boscq Saint-Estéphe Cru Bourgeois 2020",
+    "category": "Wein",
+    "subcategories": ["Rotwein", "Frankreich", "Bordeaux"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004559166",
+    "name": "Château Lusseau Saint-Emilion Grand Cru 2020",
+    "category": "Wein",
+    "subcategories": ["Rotwein", "Frankreich", "Bordeaux"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003068645",
+    "name": "Château Maret Bordeaux Superieur 2020",
+    "category": "Wein",
+    "subcategories": ["Rotwein", "Frankreich", "Bordeaux"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004221100",
+    "name": "Château Miraval Studio by Miraval Rosé Méditerranée IGP 2022",
+    "category": "Wein",
+    "subcategories": ["Roséwein", "Frankreich", "Provence"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004566577",
+    "name": "Château Pedesclaux Pauillac 5éme Cru 2020",
+    "category": "Wein",
+    "subcategories": ["Rotwein", "Frankreich", "Bordeaux"]
+  },
+  {
+    "store": "spar",
+    "id": "5435784",
+    "name": "Château Pey La Tour Bordeaux AOP 2021",
+    "category": "Wein",
+    "subcategories": ["Rotwein", "Frankreich", "Bordeaux"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004557872",
+    "name": "Château Poujeaux Moulis 2020",
+    "category": "Wein",
+    "subcategories": ["Rotwein", "Frankreich", "Bordeaux"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004125088",
+    "name": "Château Reysson Haut-Médoc Cru Bourgeois 2019",
+    "category": "Wein",
+    "subcategories": ["Rotwein", "Frankreich", "Bordeaux"]
+  },
+  {
+    "store": "spar",
+    "id": "5602193",
+    "name": "Château Roumieu Sauternes AOP 2019",
+    "category": "Wein",
+    "subcategories": ["Dessertwein", "Frankreich", "Bordeaux"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004557810",
+    "name": "Château Saint Pierre Saint-Julien 4eme Cru 2020",
+    "category": "Wein",
+    "subcategories": ["Rotwein", "Frankreich", "Bordeaux"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004279798",
+    "name": "Château Sociando-Mallet Haut-Medoc Grand Vin de Bordeaux 2019",
+    "category": "Wein",
+    "subcategories": ["Rotwein", "Frankreich", "Bordeaux"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001858767",
+    "name": "Château de Rully Rully 1er Cru Clos la Bressande 2019",
+    "category": "Wein",
+    "subcategories": ["Weißwein", "Frankreich", "Burgund"]
+  },
+  {
+    "store": "spar",
+    "id": "7704598",
+    "name": "Château du Cauze Saint-Emilion AOP Grand Cru 2020",
+    "category": "Wein",
+    "subcategories": ["Rotwein", "Frankreich", "Bordeaux"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004278401",
+    "name": "Château les Ormes de Pez Saint-Estéphe Grand Vin de Bordeaux 2019",
+    "category": "Wein",
+    "subcategories": ["Rotwein", "Frankreich", "Bordeaux"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004380081",
+    "name": "Cipriani Cocktail Bellini",
+    "category": "Alkohol",
+    "subcategories": ["Cocktail", "Mixgetränk"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004231130",
+    "name": "Cipriani Cocktail Bellini",
+    "category": "Alkohol",
+    "subcategories": ["Cocktail", "Mixgetränk"]
+  },
+  {
+    "store": "spar",
+    "id": "5009466",
+    "name": "Clos de los Siete 2019",
+    "category": "Wein",
+    "subcategories": ["Rotwein", "Argentinien"]
+  },
+  {
+    "store": "spar",
+    "id": "7794247",
+    "name": "Cloudy Bay Sauvignon Blanc 2022",
+    "category": "Wein",
+    "subcategories": ["Weißwein", "Neuseeland"]
+  },
+  {
+    "store": "spar",
+    "id": "2020000538059",
+    "name": "Coka Brombeerwein",
+    "category": "Alkohol",
+    "subcategories": ["Fruchtwein"]
+  },
+  {
+    "store": "spar",
+    "id": "1232196",
+    "name": "Coka Rotwein",
+    "category": "Alkohol",
+    "subcategories": ["Rotwein"]
+  },
+  {
+    "store": "spar",
+    "id": "8183767",
+    "name": "Concha y Toro Casillero del Diablo Cabernet Sauvignon Reserva 2020",
+    "category": "Wein",
+    "subcategories": ["Rotwein", "Chile"]
+  },
+  {
+    "store": "spar",
+    "id": "5044412",
+    "name": "Concha y Toro Casillero del Diablo Carmenére Reserva 2020",
+    "category": "Wein",
+    "subcategories": ["Rotwein", "Chile"]
+  },
+  {
+    "store": "spar",
+    "id": "8129857",
+    "name": "Condado de Haza Crianza Ribera del Duero DO 2019",
+    "category": "Wein",
+    "subcategories": ["Rotwein", "Spanien", "Ribera del Duero"]
+  },
+  {
+    "store": "spar",
+    "id": "439596",
+    "name": "Coppiere Montepulciano d`Abruzzo DOC 2021",
+    "category": "Wein",
+    "subcategories": ["Rotwein", "Italien", "Abruzzen"]
+  },
+  {
+    "store": "spar",
+    "id": "4068655",
+    "name": "Corte dei Mori Nero d`Avola DOC Sicilia 2020",
+    "category": "Wein",
+    "subcategories": ["Rotwein", "Italien", "Sizilien"]
+  },
+  {
+    "store": "spar",
+    "id": "2020000985754",
+    "name": "Croix Saint-Martin Bordeaux AOP 2020",
+    "category": "Wein",
+    "subcategories": ["Rotwein", "Frankreich", "Bordeaux"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004220141",
+    "name": "Curatolo Arini Don Carlo Nero d'Avola Appassimento Riserva 2020",
+    "category": "Wein",
+    "subcategories": ["Rotwein", "Italien", "Sizilien"]
+  },
+  {
+    "store": "spar",
+    "id": "1890969",
+    "name": "Curatolo Arini Marsala Fine DOC 2012",
+    "category": "Wein",
+    "subcategories": ["Likörwein", "Italien", "Sizilien"]
+  },
+  {
+    "store": "spar",
+    "id": "3081501",
+    "name": "Curatolo Arini Nero d'Avola Terre Siciliane IGP 2020",
+    "category": "Wein",
+    "subcategories": ["Rotwein", "Italien", "Sizilien"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001878604",
+    "name": "Curatolo Arini Zibibbo Vino Liquoroso Terre Siciliane IGT",
+    "category": "Wein",
+    "subcategories": ["Likörwein", "Italien", "Sizilien"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004438805",
+    "name": "Creapan Mini Pfannkuchen 36 Stück",
+    "category": "Lebensmittel",
+    "subcategories": ["Pfannkuchen"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002378127",
+    "name": "Clawson Cranberry Käse mit Cranberries 1 KG",
+    "category": "Lebensmittel",
+    "subcategories": ["Käse", "Früchte"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003149047",
+    "name": "Comté Prestige 1 KG",
+    "category": "Lebensmittel",
+    "subcategories": ["Käse"]
+  },
+  {
+    "store": "spar",
+    "id": "7582264",
+    "name": "Conte de Cesare Frz. Le Cremier Chaumes",
+    "category": "Lebensmittel",
+    "subcategories": ["Käse"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002645977",
+    "name": "DESPAR Grana Padano D.O.P.",
+    "category": "Lebensmittel",
+    "subcategories": ["Käse"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003812958",
+    "name": "DESPAR Grana Padano D.O.P. gerieben",
+    "category": "Lebensmittel",
+    "subcategories": ["Käse", "Gerieben"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003278495",
+    "name": "DESPAR Grana Padano gehobelt",
+    "category": "Lebensmittel",
+    "subcategories": ["Käse", "Gehobelt"]
+  },
+  {
+    "store": "spar",
+    "id": "989978",
+    "name": "Cremana Reines Pflanzenfett Reines Pflanzenfett",
+    "category": "Lebensmittel",
+    "subcategories": ["Öl", "Fett"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002881528",
+    "name": "Citterio Prosciutto Crudo del Poggio",
+    "category": "Lebensmittel",
+    "subcategories": ["Aufschnitt", "Schinken"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002890131",
+    "name": "Citterio Salame Camapagnolo",
+    "category": "Lebensmittel",
+    "subcategories": ["Aufschnitt", "Salami"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002881672",
+    "name": "Citterio Salami Rustico",
+    "category": "Lebensmittel",
+    "subcategories": ["Aufschnitt", "Salami"]
+  },
+  {
+    "store": "spar",
+    "id": "7301247",
+    "name": "DESPAR Antipasto Misto",
+    "category": "Lebensmittel",
+    "subcategories": ["Antipasti"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002667573",
+    "name": "Crown Seafood Party Garnelen Knoblauch",
+    "category": "Lebensmittel",
+    "subcategories": ["Meeresfrüchte", "Garnelen"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003239175",
+    "name": "DESPAR All natural ice cream Crema all' Italiana",
+    "category": "Lebensmittel",
+    "subcategories": ["Eiscreme", "Cremeeis"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003239144",
+    "name": "DESPAR All natural ice cream Kaffee 473ml Becher",
+    "category": "Lebensmittel",
+    "subcategories": ["Eiscreme", "Kaffeeeis"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003239113",
+    "name": "DESPAR All natural ice cream Milcheis",
+    "category": "Lebensmittel",
+    "subcategories": ["Eiscreme", "Milcheis"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003239151",
+    "name": "DESPAR All natural ice cream Minze & Schokostücke",
+    "category": "Lebensmittel",
+    "subcategories": ["Eiscreme", "Minze", "Schokolade"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003239090",
+    "name": "DESPAR All natural ice cream Stracciatella 473ml Becher",
+    "category": "Lebensmittel",
+    "subcategories": ["Eiscreme", "Stracciatella"]
+  }
+]

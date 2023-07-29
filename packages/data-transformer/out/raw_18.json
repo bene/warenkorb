@@ -1,0 +1,702 @@
+[
+  {
+    "store": "billa",
+    "id": "00-463745",
+    "name": "BILLA Bio Früchtetee",
+    "category": "Tee",
+    "subcategories": ["Bio", "Früchtetee"]
+  },
+  {
+    "store": "billa",
+    "id": "00-463743",
+    "name": "BILLA Bio Grüner Tee Jasmin",
+    "category": "Tee",
+    "subcategories": ["Bio", "Grüner Tee", "Jasmin"]
+  },
+  {
+    "store": "billa",
+    "id": "00-463742",
+    "name": "BILLA Bio Grüner Tee Sencha",
+    "category": "Tee",
+    "subcategories": ["Bio", "Grüner Tee", "Sencha"]
+  },
+  {
+    "store": "billa",
+    "id": "00-463733",
+    "name": "BILLA Bio Grüner Tee Zitronengras-Ingwer",
+    "category": "Tee",
+    "subcategories": ["Bio", "Grüner Tee", "Zitronengras", "Ingwer"]
+  },
+  {
+    "store": "billa",
+    "id": "00-463754",
+    "name": "BILLA Bio Kapseln Cremoso kompostierbar",
+    "category": "Kaffee",
+    "subcategories": ["Bio", "Kapseln", "Cremoso", "kompostierbar"]
+  },
+  {
+    "store": "billa",
+    "id": "00-463753",
+    "name": "BILLA Bio Kapseln Espresso kompostierbar",
+    "category": "Kaffee",
+    "subcategories": ["Bio", "Kapseln", "Espresso", "kompostierbar"]
+  },
+  {
+    "store": "billa",
+    "id": "00-463752",
+    "name": "BILLA Bio Kapseln Lungo kompostierbar",
+    "category": "Kaffee",
+    "subcategories": ["Bio", "Kapseln", "Lungo", "kompostierbar"]
+  },
+  {
+    "store": "billa",
+    "id": "00-463746",
+    "name": "BILLA Bio Kräutertee",
+    "category": "Tee",
+    "subcategories": ["Bio", "Kräutertee"]
+  },
+  {
+    "store": "billa",
+    "id": "00-463749",
+    "name": "BILLA Bio Röstkaffee gemahlen",
+    "category": "Kaffee",
+    "subcategories": ["Bio", "Röstkaffee", "gemahlen"]
+  },
+  {
+    "store": "billa",
+    "id": "00-463736",
+    "name": "BILLA Bio Schwarztee",
+    "category": "Tee",
+    "subcategories": ["Bio", "Schwarztee"]
+  },
+  {
+    "store": "billa",
+    "id": "00-465855",
+    "name": "BILLA Trinkkakao",
+    "category": "Kakao",
+    "subcategories": ["Trinkkakao"]
+  },
+  {
+    "store": "billa",
+    "id": "00-14751",
+    "name": "Benco Power Plus Kakao",
+    "category": "Kakao",
+    "subcategories": ["Power Plus Kakao"]
+  },
+  {
+    "store": "billa",
+    "id": "00-8797",
+    "name": "Benco Power Plus Kakao",
+    "category": "Kakao",
+    "subcategories": ["Power Plus Kakao"]
+  },
+  {
+    "store": "billa",
+    "id": "00-428240",
+    "name": "BioGourmet Lupinenkaffee",
+    "category": "Kaffee",
+    "subcategories": ["Bio", "Lupinenkaffee"]
+  },
+  {
+    "store": "billa",
+    "id": "00-427234",
+    "name": "Cafe Hag Ganze Bohne",
+    "category": "Kaffee",
+    "subcategories": ["Ganze Bohne"]
+  },
+  {
+    "store": "billa",
+    "id": "00-19577",
+    "name": "Cafe Hag Gemahlen",
+    "category": "Kaffee",
+    "subcategories": ["Gemahlen"]
+  },
+  {
+    "store": "billa",
+    "id": "00-1713",
+    "name": "Cafe Hag Löslich Koffeinfrei",
+    "category": "Kaffee",
+    "subcategories": ["Löslich", "Koffeinfrei"]
+  },
+  {
+    "store": "billa",
+    "id": "00-918898",
+    "name": "Cafe Hag Pads",
+    "category": "Kaffee",
+    "subcategories": ["Pads"]
+  },
+  {
+    "store": "billa",
+    "id": "00-648491",
+    "name": "Cafe Intencion Ecologico Pads",
+    "category": "Kaffee",
+    "subcategories": ["Pads", "Ecologico"]
+  },
+  {
+    "store": "billa",
+    "id": "00-910173",
+    "name": "Cafissimo Espresso Classico",
+    "category": "Kaffee",
+    "subcategories": ["Espresso", "Classico"]
+  },
+  {
+    "store": "billa",
+    "id": "00-832101",
+    "name": "Caotina Kakaogetränk",
+    "category": "Kakao",
+    "subcategories": ["Kakaogetränk"]
+  },
+  {
+    "store": "billa",
+    "id": "00-58253",
+    "name": "Caro Instant",
+    "category": "Kaffee",
+    "subcategories": ["Instant"]
+  },
+  {
+    "store": "billa",
+    "id": "00-813014",
+    "name": "Clever Caffe Crema",
+    "category": "Kaffee",
+    "subcategories": ["Caffe Crema"]
+  },
+  {
+    "store": "billa",
+    "id": "00-434366",
+    "name": "Clever Cappuccino",
+    "category": "Kaffee",
+    "subcategories": ["Cappuccino"]
+  },
+  {
+    "store": "billa",
+    "id": "00-606847",
+    "name": "Clever Cappuccino Ungesüßt",
+    "category": "Kaffee",
+    "subcategories": ["Cappuccino", "Ungesüßt"]
+  },
+  {
+    "store": "billa",
+    "id": "00-892762",
+    "name": "Clever Classico Espresso Kapseln",
+    "category": "Kaffee",
+    "subcategories": ["Espresso", "Kapseln", "Classico"]
+  },
+  {
+    "store": "billa",
+    "id": "00-892647",
+    "name": "Clever Cremoso Espresso Kapseln",
+    "category": "Kaffee",
+    "subcategories": ["Espresso", "Kapseln", "Cremoso"]
+  },
+  {
+    "store": "billa",
+    "id": "00-288588",
+    "name": "Clever Früchtetee",
+    "category": "Tee",
+    "subcategories": ["Früchtetee"]
+  },
+  {
+    "store": "billa",
+    "id": "00-930899",
+    "name": "Clever Kakao",
+    "category": "Kakao",
+    "subcategories": ["Kakao"]
+  },
+  {
+    "store": "billa",
+    "id": "00-288592",
+    "name": "Clever Kamillentee",
+    "category": "Tee",
+    "subcategories": ["Kamillentee"]
+  },
+  {
+    "store": "billa",
+    "id": "00-892896",
+    "name": "Clever Lungo Espresso Kapseln",
+    "category": "Kaffee",
+    "subcategories": ["Espresso", "Kapseln", "Lungo"]
+  },
+  {
+    "store": "billa",
+    "id": "00-680402",
+    "name": "Clever Löskaffee",
+    "category": "Kaffee",
+    "subcategories": ["Löskaffee"]
+  },
+  {
+    "store": "billa",
+    "id": "00-288594",
+    "name": "Clever Pfefferminztee",
+    "category": "Tee",
+    "subcategories": ["Pfefferminztee"]
+  },
+  {
+    "store": "billa",
+    "id": "00-892897",
+    "name": "Clever Ristretto Espresso Kapseln",
+    "category": "Kaffee",
+    "subcategories": ["Espresso", "Kapseln", "Ristretto"]
+  },
+  {
+    "store": "billa",
+    "id": "00-813032",
+    "name": "Clever Röstkaffee gemahlen",
+    "category": "Kaffee",
+    "subcategories": ["Röstkaffee", "gemahlen"]
+  },
+  {
+    "store": "billa",
+    "id": "00-288586",
+    "name": "Clever Schwarztee",
+    "category": "Tee",
+    "subcategories": ["Schwarztee"]
+  },
+  {
+    "store": "billa",
+    "id": "00-425400",
+    "name": "Clever Trink-Kakao",
+    "category": "Kakao",
+    "subcategories": ["Trink-Kakao"]
+  },
+  {
+    "store": "billa",
+    "id": "00-590000",
+    "name": "Dallmayr Home Barista Caffe Crema Dolce",
+    "category": "Kaffee",
+    "subcategories": ["Caffe Crema", "Dolce"]
+  },
+  {
+    "store": "billa",
+    "id": "00-887260",
+    "name": "Dallmayr Capsa Azzurro",
+    "category": "Kaffee",
+    "subcategories": ["Capsa", "Azzurro"]
+  },
+  {
+    "store": "billa",
+    "id": "00-887252",
+    "name": "Dallmayr Capsa Barista",
+    "category": "Kaffee",
+    "subcategories": ["Capsa", "Barista"]
+  },
+  {
+    "store": "billa",
+    "id": "00-887258",
+    "name": "Dallmayr Capsa Belluno",
+    "category": "Kaffee",
+    "subcategories": ["Capsa", "Belluno"]
+  },
+  {
+    "store": "billa",
+    "id": "00-655789",
+    "name": "Dallmayr Capsa Crema d'Oro",
+    "category": "Kaffee",
+    "subcategories": ["Capsa", "Crema d'Oro"]
+  },
+  {
+    "store": "billa",
+    "id": "00-343241",
+    "name": "Dallmayr Capsa Espresso Decaffeinato",
+    "category": "Kaffee",
+    "subcategories": ["Capsa", "Espresso", "Decaffeinato"]
+  },
+  {
+    "store": "billa",
+    "id": "00-655788",
+    "name": "Dallmayr Capsa Prodomo",
+    "category": "Kaffee",
+    "subcategories": ["Capsa", "Prodomo"]
+  },
+  {
+    "store": "billa",
+    "id": "00-887261",
+    "name": "Dallmayr Capsa Ristretto",
+    "category": "Kaffee",
+    "subcategories": ["Capsa", "Ristretto"]
+  },
+  {
+    "store": "billa",
+    "id": "00-819270",
+    "name": "Dallmayr Crema D'Oro Ganze Bohne",
+    "category": "Kaffee",
+    "subcategories": ["Crema D'Oro", "Ganze Bohne"]
+  },
+  {
+    "store": "billa",
+    "id": "00-910383",
+    "name": "Dallmayr Crema D'Oro Intensa",
+    "category": "Kaffee",
+    "subcategories": ["Crema D'Oro", "Intensa"]
+  },
+  {
+    "store": "billa",
+    "id": "00-589728",
+    "name": "Dallmayr Home Barista Espresso Intenso",
+    "category": "Kaffee",
+    "subcategories": ["Espresso", "Intenso"]
+  },
+  {
+    "store": "billa",
+    "id": "00-787665",
+    "name": "Dallmayr Prodomo Entcoffeiniert Kaffee gemahlen",
+    "category": "Kaffee",
+    "subcategories": ["Prodomo", "Entcoffeiniert", "Kaffee", "gemahlen"]
+  },
+  {
+    "store": "billa",
+    "id": "00-427495",
+    "name": "Dallmayr Prodomo Ganze Bohne",
+    "category": "Kaffee",
+    "subcategories": ["Prodomo", "Ganze Bohne"]
+  },
+  {
+    "store": "billa",
+    "id": "00-401617",
+    "name": "Dallmayr Prodomo Gemahlen",
+    "category": "Kaffee",
+    "subcategories": ["Prodomo", "Gemahlen"]
+  },
+  {
+    "store": "billa",
+    "id": "00-819637",
+    "name": "EZA Espresso Organico Ganze Bohne",
+    "category": "Kaffee",
+    "subcategories": ["Espresso", "Organico", "Ganze Bohne"]
+  },
+  {
+    "store": "billa",
+    "id": "00-435021",
+    "name": "EZA Kaffee Organico Gemahlen",
+    "category": "Kaffee",
+    "subcategories": ["Kaffee", "Organico", "Gemahlen"]
+  },
+  {
+    "store": "billa",
+    "id": "00-889018",
+    "name": "Eduscho Cafissimo Crema Superiore",
+    "category": "Kaffee",
+    "subcategories": ["Cafissimo", "Crema Superiore"]
+  },
+  {
+    "store": "billa",
+    "id": "00-910174",
+    "name": "Eduscho Cafissimo Gala Nr. 1",
+    "category": "Kaffee",
+    "subcategories": ["Cafissimo", "Gala Nr. 1"]
+  },
+  {
+    "store": "billa",
+    "id": "00-910176",
+    "name": "Eduscho Crema Elegante",
+    "category": "Kaffee",
+    "subcategories": ["Crema Elegante"]
+  },
+  {
+    "store": "billa",
+    "id": "00-890881",
+    "name": "Eduscho Espresso Classico ganze Bohne",
+    "category": "Kaffee",
+    "subcategories": ["Espresso Classico", "ganze Bohne"]
+  },
+  {
+    "store": "billa",
+    "id": "00-428432",
+    "name": "Eduscho Gala Nr. 1 Ganze Bohne",
+    "category": "Kaffee",
+    "subcategories": ["Gala Nr. 1", "Ganze Bohne"]
+  },
+  {
+    "store": "billa",
+    "id": "00-428440",
+    "name": "Eduscho Gala Nr. 1 Gemahlen",
+    "category": "Kaffee",
+    "subcategories": ["Gala Nr. 1", "Gemahlen"]
+  },
+  {
+    "store": "billa",
+    "id": "00-910171",
+    "name": "Eduscho Gala Nr. 1 Pads",
+    "category": "Kaffee",
+    "subcategories": ["Gala Nr. 1", "Pads"]
+  },
+  {
+    "store": "billa",
+    "id": "00-428439",
+    "name": "Eduscho Melange Ganze Bohne",
+    "category": "Kaffee",
+    "subcategories": ["Melange", "Ganze Bohne"]
+  },
+  {
+    "store": "billa",
+    "id": "00-428437",
+    "name": "Eduscho Milde Natur Ganze Bohne",
+    "category": "Kaffee",
+    "subcategories": ["Milde Natur", "Ganze Bohne"]
+  },
+  {
+    "store": "billa",
+    "id": "00-429180",
+    "name": "Eduscho Milde Natur Gemahlen",
+    "category": "Kaffee",
+    "subcategories": ["Milde Natur", "Gemahlen"]
+  },
+  {
+    "store": "billa",
+    "id": "00-428435",
+    "name": "Eduscho Wiener Gold Ganze Bohne",
+    "category": "Kaffee",
+    "subcategories": ["Wiener Gold", "Ganze Bohne"]
+  },
+  {
+    "store": "billa",
+    "id": "00-429179",
+    "name": "Eduscho Wiener Gold Gemahlen",
+    "category": "Kaffee",
+    "subcategories": ["Wiener Gold", "Gemahlen"]
+  },
+  {
+    "store": "billa",
+    "id": "00-918501",
+    "name": "English Tea Shop Grüner Tee lose",
+    "category": "Tee",
+    "subcategories": ["Grüner Tee", "lose"]
+  },
+  {
+    "store": "billa",
+    "id": "00-918527",
+    "name": "English Tea Shop Super Beeren lose",
+    "category": "Tee",
+    "subcategories": ["Super Beeren", "lose"]
+  },
+  {
+    "store": "billa",
+    "id": "00-918517",
+    "name": "English Tea Shop Weißer Tee lose",
+    "category": "Tee",
+    "subcategories": ["Weißer Tee", "lose"]
+  },
+  {
+    "store": "billa",
+    "id": "00-701260",
+    "name": "Franck Jubilarna Gemahlener Kaffee",
+    "category": "Kaffee",
+    "subcategories": ["Jubilarna", "Gemahlener Kaffee"]
+  },
+  {
+    "store": "billa",
+    "id": "00-490773",
+    "name": "Fred Kaffee - Der Crema (Ganze Bohne)",
+    "category": "Kaffee",
+    "subcategories": ["Fred Kaffee", "Der Crema", "Ganze Bohne"]
+  },
+  {
+    "store": "billa",
+    "id": "00-490775",
+    "name": "Fred Kaffee - Der Espresso (Ganze Bohne)",
+    "category": "Kaffee",
+    "subcategories": ["Fred Kaffee", "Der Espresso", "Ganze Bohne"]
+  },
+  {
+    "store": "billa",
+    "id": "00-490771",
+    "name": "Fred Kaffee - Der Wiener (Ganze Bohne)",
+    "category": "Kaffee",
+    "subcategories": ["Fred Kaffee", "Der Wiener", "Ganze Bohne"]
+  },
+  {
+    "store": "billa",
+    "id": "00-843650",
+    "name": "Grand Kaffee Gold",
+    "category": "Kaffee",
+    "subcategories": ["Grand Kaffee Gold"]
+  },
+  {
+    "store": "billa",
+    "id": "00-508539",
+    "name": "Grand Kaffee Gold",
+    "category": "Kaffee",
+    "subcategories": ["Grand Kaffee Gold"]
+  },
+  {
+    "store": "billa",
+    "id": "00-720722",
+    "name": "Hakuma Caffé Latte",
+    "category": "Kaffee",
+    "subcategories": ["Caffé Latte"]
+  },
+  {
+    "store": "billa",
+    "id": "00-576335",
+    "name": "Hipp Bio-Fenchel-Tee",
+    "category": "Tee",
+    "subcategories": ["Bio-Fenchel-Tee"]
+  },
+  {
+    "store": "billa",
+    "id": "00-361031",
+    "name": "Hipp Instant Fechel Tee Zuckerfrei",
+    "category": "Tee",
+    "subcategories": ["Instant", "Fenchel Tee", "Zuckerfrei"]
+  },
+  {
+    "store": "billa",
+    "id": "00-244517",
+    "name": "Illy Arabica Selection Brasile - Ganze Bohne",
+    "category": "Kaffee",
+    "subcategories": ["Arabica Selection", "Brasile", "Ganze Bohne"]
+  },
+  {
+    "store": "billa",
+    "id": "00-244520",
+    "name": "Illy Arabica Selection Guatemala - Ganze Bohne",
+    "category": "Kaffee",
+    "subcategories": ["Arabica Selection", "Guatemala", "Ganze Bohne"]
+  },
+  {
+    "store": "billa",
+    "id": "00-421153",
+    "name": "Illy Italienischer Espresso Ganze Bohne",
+    "category": "Kaffee",
+    "subcategories": ["Italienischer Espresso", "Ganze Bohne"]
+  },
+  {
+    "store": "billa",
+    "id": "00-414657",
+    "name": "Illy Italienischer Espresso Gemahlen",
+    "category": "Kaffee",
+    "subcategories": ["Italienischer Espresso", "Gemahlen"]
+  },
+  {
+    "store": "billa",
+    "id": "00-284793",
+    "name": "Illy Kapseln Classico Lungo",
+    "category": "Kaffee",
+    "subcategories": ["Kapseln", "Classico Lungo"]
+  },
+  {
+    "store": "billa",
+    "id": "00-284795",
+    "name": "Illy Kapseln Espresso Classico",
+    "category": "Kaffee",
+    "subcategories": ["Kapseln", "Espresso", "Classico"]
+  },
+  {
+    "store": "billa",
+    "id": "00-284797",
+    "name": "Illy Kapseln Espresso Forte",
+    "category": "Kaffee",
+    "subcategories": ["Kapseln", "Espresso", "Forte"]
+  },
+  {
+    "store": "billa",
+    "id": "00-913890",
+    "name": "Illy Moka Gemahlen",
+    "category": "Kaffee",
+    "subcategories": ["Moka", "Gemahlen"]
+  },
+  {
+    "store": "billa",
+    "id": "00-733273",
+    "name": "J. Hornig Caffè Crema",
+    "category": "Kaffee",
+    "subcategories": ["Caffè Crema"]
+  },
+  {
+    "store": "billa",
+    "id": "00-679187",
+    "name": "J. Hornig Caffè Crema Intenso",
+    "category": "Kaffee",
+    "subcategories": ["Caffè Crema", "Intenso"]
+  },
+  {
+    "store": "billa",
+    "id": "00-443489",
+    "name": "J. Hornig Classico Lungo Kapseln kompostierbar",
+    "category": "Kaffee",
+    "subcategories": ["Classico Lungo", "Kapseln", "kompostierbar"]
+  },
+  {
+    "store": "billa",
+    "id": "00-443490",
+    "name": "J. Hornig Crema Lungo Fairtrade Kapseln kompostierbar",
+    "category": "Kaffee",
+    "subcategories": ["Crema Lungo", "Fairtrade", "Kapseln", "kompostierbar"]
+  },
+  {
+    "store": "billa",
+    "id": "00-443482",
+    "name": "J. Hornig Crema Lungo Kapseln kompostierbar",
+    "category": "Kaffee",
+    "subcategories": ["Crema Lungo", "Kapseln", "kompostierbar"]
+  },
+  {
+    "store": "billa",
+    "id": "00-409821",
+    "name": "J. Hornig Entcoff",
+    "category": "Kaffee",
+    "subcategories": ["Entcoff"]
+  },
+  {
+    "store": "billa",
+    "id": "00-443484",
+    "name": "J. Hornig Intenso Espresso Kapseln kompostierbar",
+    "category": "Kaffee",
+    "subcategories": ["Intenso Espresso", "Kapseln", "kompostierbar"]
+  },
+  {
+    "store": "billa",
+    "id": "00-422532",
+    "name": "J. Hornig Spezial",
+    "category": "Kaffee",
+    "subcategories": ["Spezial"]
+  },
+  {
+    "store": "billa",
+    "id": "00-409820",
+    "name": "J. Hornig Spezial gemahlen",
+    "category": "Kaffee",
+    "subcategories": ["Spezial", "gemahlen"]
+  },
+  {
+    "store": "billa",
+    "id": "00-310191",
+    "name": "Ja! Natürlich Bio Trinkkakao",
+    "category": "Kakao",
+    "subcategories": ["Bio", "Trinkkakao"]
+  },
+  {
+    "store": "billa",
+    "id": "00-379743",
+    "name": "Ja! Natürlich Blütentraum Kräutertee",
+    "category": "Tee",
+    "subcategories": ["Blütentraum", "Kräutertee"]
+  },
+  {
+    "store": "billa",
+    "id": "00-379734",
+    "name": "Ja! Natürlich Energiebündel Kräutertee",
+    "category": "Tee",
+    "subcategories": ["Energiebündel", "Kräutertee"]
+  },
+  {
+    "store": "billa",
+    "id": "00-425098",
+    "name": "Ja! Natürlich Espresso Intenso Ganze Bohne",
+    "category": "Kaffee",
+    "subcategories": ["Espresso Intenso", "Ganze Bohne"]
+  },
+  {
+    "store": "billa",
+    "id": "00-871422",
+    "name": "Ja! Natürlich Früchtetee",
+    "category": "Tee",
+    "subcategories": ["Früchtetee"]
+  },
+  {
+    "store": "billa",
+    "id": "00-875467",
+    "name": "Ja! Natürlich Hochlandkaffee Gemahlen",
+    "category": "Kaffee",
+    "subcategories": ["Hochlandkaffee", "Gemahlen"]
+  }
+]

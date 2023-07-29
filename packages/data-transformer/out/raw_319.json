@@ -1,0 +1,715 @@
+[
+  {
+    "store": "spar",
+    "id": "2020002011994",
+    "name": "Aiko Sweet Chilli Sauce",
+    "category": "Sauce",
+    "subcategories": ["Chillisauce", "Süß", "Würzsauce"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002515713",
+    "name": "Aiko Süss Sauer Sauce",
+    "category": "Sauce",
+    "subcategories": ["Sauer", "Süß", "Würzsauce"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003344664",
+    "name": "Brennstoff Hot Sauce 100ml 100 ML",
+    "category": "Sauce",
+    "subcategories": ["Hot Sauce", "Würzsauce"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004332752",
+    "name": "Brennstoff Hot Sauce No. 95 100ml",
+    "category": "Sauce",
+    "subcategories": ["Hot Sauce", "Würzsauce"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004411150",
+    "name": "Cholula Hot Sauce Chili Garlic",
+    "category": "Sauce",
+    "subcategories": ["Hot Sauce", "Knoblauch", "Chili", "Würzsauce"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004411129",
+    "name": "Cholula Hot Sauce Original",
+    "category": "Sauce",
+    "subcategories": ["Hot Sauce", "Würzsauce"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001306381",
+    "name": "Frifrench Balsamicosauce",
+    "category": "Sauce",
+    "subcategories": ["Balsamico", "Sauce"]
+  },
+  {
+    "store": "spar",
+    "id": "5738748",
+    "name": "Frifrench Frenchsauce",
+    "category": "Sauce",
+    "subcategories": ["Französisch", "Sauce"]
+  },
+  {
+    "store": "spar",
+    "id": "5738861",
+    "name": "Frifrench Jogu Frisch",
+    "category": "Sauce",
+    "subcategories": ["Joghurt", "Frisch", "Sauce"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003790737",
+    "name": "Genusskoarl Tirolerwürze Bio-Würzsauce Tiroler Würze",
+    "category": "Sauce",
+    "subcategories": ["Würzsauce", "Tiroler Würze"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002647841",
+    "name": "Genusskoarl Wienerwürze Bio-Würzsauce Wiener Würze",
+    "category": "Sauce",
+    "subcategories": ["Würzsauce", "Wiener Würze"]
+  },
+  {
+    "store": "spar",
+    "id": "7498312",
+    "name": "Nesquik Schokosirup",
+    "category": "Sauce",
+    "subcategories": ["Schokolade", "Sirup"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003928680",
+    "name": "A-WARE Bio Hanf Protein 250G",
+    "category": "Protein",
+    "subcategories": ["Bio", "Hanf", "Protein"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003815744",
+    "name": "A-WARE Bio-Hanfriegel Himbeer-Erdnuss Crunch",
+    "category": "Protein",
+    "subcategories": ["Bio", "Hanfriegel", "Himbeer", "Erdnuss", "Crunch"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003815812",
+    "name": "A-WARE Bio-Hanfriegel Kürbis Kakao",
+    "category": "Protein",
+    "subcategories": ["Bio", "Hanfriegel", "Kürbis", "Kakao"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003913402",
+    "name": "Abtei A-Z Komplett A-Z Komplett 42 Tabeltten",
+    "category": "Vitamine",
+    "subcategories": ["Vitamin", "Tabeltten"]
+  },
+  {
+    "store": "spar",
+    "id": "2459172",
+    "name": "Abtei Artischocke Plus mit wertvollem Olivenöl 30 Kapseln",
+    "category": "Vitamine",
+    "subcategories": ["Artischocke", "Olivenöl", "Kapseln"]
+  },
+  {
+    "store": "spar",
+    "id": "5634156",
+    "name": "Abtei Augen Vital 30 Kapseln",
+    "category": "Vitamine",
+    "subcategories": ["Augen", "Vital", "Kapseln"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003913259",
+    "name": "Abtei B-Komplex Forte 50 Tabletten",
+    "category": "Vitamine",
+    "subcategories": ["B-Komplex", "Tabletten"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004334992",
+    "name": "Abtei Beauty Elixier Silica Plus",
+    "category": "Vitamine",
+    "subcategories": ["Beauty", "Elixier", "Silica", "Plus"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004334961",
+    "name": "Abtei Beauty Kollagen Intensiv 5000 10x25ml",
+    "category": "Vitamine",
+    "subcategories": ["Beauty", "Kollagen", "Intensiv"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003913389",
+    "name": "Abtei Calcium 1400 + D3 & K 30 Tabletten",
+    "category": "Vitamine",
+    "subcategories": ["Calcium", "Vitamin D3", "Vitamin K", "Tabletten"]
+  },
+  {
+    "store": "spar",
+    "id": "5439041",
+    "name": "Abtei Haar Vital Depot 30 Tabletten",
+    "category": "Vitamine",
+    "subcategories": ["Haar", "Vital", "Tabletten"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003913136",
+    "name": "Abtei Immun Pro 30 Kapseln",
+    "category": "Vitamine",
+    "subcategories": ["Immun", "Pro", "Kapseln"]
+  },
+  {
+    "store": "spar",
+    "id": "7327681",
+    "name": "Abtei Kieselerde Biotin Plus 56 Tabletten",
+    "category": "Vitamine",
+    "subcategories": ["Kieselerde", "Biotin", "Tabletten"]
+  },
+  {
+    "store": "spar",
+    "id": "7797668",
+    "name": "Abtei Lecithin 2000 Plus B-Vitamine 40 Kapseln",
+    "category": "Vitamine",
+    "subcategories": ["Lecithin", "B-Vitamine", "Kapseln"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003913372",
+    "name": "Abtei Magen-Darm Entspannung 20 Kautabletten",
+    "category": "Vitamine",
+    "subcategories": ["Magen-Darm", "Entspannung", "Kautabletten"]
+  },
+  {
+    "store": "spar",
+    "id": "5032853",
+    "name": "Abtei Magnesium 400 30 Tabletten",
+    "category": "Vitamine",
+    "subcategories": ["Magnesium", "Tabletten"]
+  },
+  {
+    "store": "spar",
+    "id": "5523948",
+    "name": "Abtei Magnesium Calcium + D3 42 Tabletten",
+    "category": "Vitamine",
+    "subcategories": ["Magnesium", "Calcium", "Vitamin D3", "Tabletten"]
+  },
+  {
+    "store": "spar",
+    "id": "2016108",
+    "name": "Abtei Magnesium Plus mit Extra-Vital-Depot 42 Kapseln",
+    "category": "Vitamine",
+    "subcategories": ["Magnesium", "Extra-Vital-Depot", "Kapseln"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003913303",
+    "name": "Abtei Mariendistel Plus Artischocke + Vitamin E 30 Kapseln",
+    "category": "Vitamine",
+    "subcategories": ["Mariendistel", "Artischocke", "Vitamin E", "Kapseln"]
+  },
+  {
+    "store": "spar",
+    "id": "2020000475590",
+    "name": "Abtei Nachtruhe Nachtruhe Baldrian-Hopfen 30 Tabletten",
+    "category": "Vitamine",
+    "subcategories": ["Nachtruhe", "Baldrian-Hopfen", "Tabletten"]
+  },
+  {
+    "store": "spar",
+    "id": "1054774",
+    "name": "Abtei Omega-3-6-9 Lachsöl + Leinöl + Olivenöl 60 Kapseln",
+    "category": "Vitamine",
+    "subcategories": [
+      "Omega-3",
+      "Omega-6",
+      "Omega-9",
+      "Lachsöl",
+      "Leinöl",
+      "Olivenöl",
+      "Kapseln"
+    ]
+  },
+  {
+    "store": "spar",
+    "id": "2020002013851",
+    "name": "Abtei Schwarzkümmelöl Plus mit Vitamin E 48 Kapseln",
+    "category": "Vitamine",
+    "subcategories": ["Schwarzkümmelöl", "Vitamin E", "Kapseln"]
+  },
+  {
+    "store": "spar",
+    "id": "6343064",
+    "name": "Abtei Starkes Bindegewebe 42 Tabletten",
+    "category": "Vitamine",
+    "subcategories": ["Bindegewebe", "Tabletten"]
+  },
+  {
+    "store": "spar",
+    "id": "2020000475651",
+    "name": "Abtei Vitamin C 600 + Zink + E 42 Tabletten",
+    "category": "Vitamine",
+    "subcategories": ["Vitamin C", "Zink", "Vitamin E", "Tabletten"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002014056",
+    "name": "Abtei Vitamin D3 2500 I.E. + Zink + Selen 42 Tabletten",
+    "category": "Vitamine",
+    "subcategories": ["Vitamin D3", "Zink", "Selen", "Tabletten"]
+  },
+  {
+    "store": "spar",
+    "id": "6362263",
+    "name": "Abtei Vitamin D3 Wochendepot 5600 I.E. 12 Tabletten",
+    "category": "Vitamine",
+    "subcategories": ["Vitamin D3", "Wochendepot", "Tabletten"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004130150",
+    "name": "Abtei Vitamin D3 pflanzlich 2100 24 Stück",
+    "category": "Vitamine",
+    "subcategories": ["Vitamin D3", "pflanzlich", "Stück"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003913204",
+    "name": "Abtei Zink + Histidin 30 Tabletten",
+    "category": "Vitamine",
+    "subcategories": ["Zink", "Histidin", "Tabletten"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003913488",
+    "name": "Abtei Zink Plus 32 Kapseln",
+    "category": "Vitamine",
+    "subcategories": ["Zink", "Kapseln"]
+  },
+  {
+    "store": "spar",
+    "id": "7392450",
+    "name": "All in ® Banane 200ML",
+    "category": "Protein",
+    "subcategories": ["Banane"]
+  },
+  {
+    "store": "spar",
+    "id": "6686895",
+    "name": "All in ® Complete Protein Mahlzeit Erdbeere 200ML",
+    "category": "Protein",
+    "subcategories": ["Complete Protein", "Mahlzeit", "Erdbeere"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002753801",
+    "name": "All in ® Complete Protein Mahlzeit Joghurt Johannisbeere 250ML",
+    "category": "Protein",
+    "subcategories": [
+      "Complete Protein",
+      "Mahlzeit",
+      "Joghurt",
+      "Johannisbeere"
+    ]
+  },
+  {
+    "store": "spar",
+    "id": "2020002753771",
+    "name": "All in ® Complete Protein Mahlzeit Joghurt Orange 250ML",
+    "category": "Protein",
+    "subcategories": ["Complete Protein", "Mahlzeit", "Joghurt", "Orange"]
+  },
+  {
+    "store": "spar",
+    "id": "6686918",
+    "name": "All in ® Complete Protein Mahlzeit Kaffee 200ML",
+    "category": "Protein",
+    "subcategories": ["Complete Protein", "Mahlzeit", "Kaffee"]
+  },
+  {
+    "store": "spar",
+    "id": "6687007",
+    "name": "All in ® Complete Protein Mahlzeit Schokolade 200ML",
+    "category": "Protein",
+    "subcategories": ["Complete Protein", "Mahlzeit", "Schokolade"]
+  },
+  {
+    "store": "spar",
+    "id": "6686888",
+    "name": "All in ® Complete Protein Mahlzeit Vanille 200ML",
+    "category": "Protein",
+    "subcategories": ["Complete Protein", "Mahlzeit", "Vanille"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004291172",
+    "name": "All in ® Complete Proteinriegel Chocolate & Oat 30G",
+    "category": "Proteinriegel",
+    "subcategories": ["Complete Proteinriegel", "Schokolade", "Hafer"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002713782",
+    "name": "All in ® Light Protein Water Maracuja 250ML",
+    "category": "Protein",
+    "subcategories": ["Light Protein Water", "Maracuja"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002753757",
+    "name": "All in ® Protein Drink Schokolade 250ML",
+    "category": "Protein",
+    "subcategories": ["Protein Drink", "Schokolade"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003777189",
+    "name": "All in ® Protein Mahlzeit Hafer & Kakao 250ML",
+    "category": "Protein",
+    "subcategories": ["Protein Mahlzeit", "Hafer", "Kakao"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004178350",
+    "name": "All in ® Protein Water Granatapfel",
+    "category": "Protein",
+    "subcategories": ["Protein Water", "Granatapfel"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003066702",
+    "name": "All in ® Proteindrink Kaffeegeschmack 250ML",
+    "category": "Protein",
+    "subcategories": ["Proteindrink", "Kaffee"]
+  },
+  {
+    "store": "spar",
+    "id": "7403620",
+    "name": "Alpro Cuisine Soya light 250ML",
+    "category": "Sojaprodukte",
+    "subcategories": ["Cuisine Soya", "Soya light"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003787041",
+    "name": "Alpro Hafer-Mandeldrink Hafer Mandeldrink 1L",
+    "category": "Pflanzendrink",
+    "subcategories": ["Hafer", "Mandeldrink"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003787058",
+    "name": "Alpro Haferdrink Original 1L",
+    "category": "Pflanzendrink",
+    "subcategories": ["Haferdrink"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003916380",
+    "name": "Alpro Haferdrink halbfett 1,8% 1L",
+    "category": "Pflanzendrink",
+    "subcategories": ["Haferdrink"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003916748",
+    "name": "Alpro Haferdrink vollfett 3,5% 1L",
+    "category": "Pflanzendrink",
+    "subcategories": ["Haferdrink"]
+  },
+  {
+    "store": "spar",
+    "id": "4565147",
+    "name": "Alpro Kokosnussdrink Original 1L",
+    "category": "Pflanzendrink",
+    "subcategories": ["Kokosnussdrink"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002932251",
+    "name": "Alpro Kokosnussdrink ungesüßt 1L",
+    "category": "Pflanzendrink",
+    "subcategories": ["Kokosnussdrink"]
+  },
+  {
+    "store": "spar",
+    "id": "1926767",
+    "name": "Alpro Mandeldrink Original 1L",
+    "category": "Pflanzendrink",
+    "subcategories": ["Mandeldrink"]
+  },
+  {
+    "store": "spar",
+    "id": "3951040",
+    "name": "Alpro Mandeldrink ungesüßt 1L",
+    "category": "Pflanzendrink",
+    "subcategories": ["Mandeldrink"]
+  },
+  {
+    "store": "spar",
+    "id": "5927388",
+    "name": "Alpro Soja Cuisine 250ML",
+    "category": "Sojaprodukte",
+    "subcategories": ["Soja Cuisine"]
+  },
+  {
+    "store": "spar",
+    "id": "5631018",
+    "name": "Alpro Sojadessert Dunkle Schokolade 4 x 125g",
+    "category": "Sojaprodukte",
+    "subcategories": ["Sojadessert", "Schokolade"]
+  },
+  {
+    "store": "spar",
+    "id": "826402",
+    "name": "Alpro Sojadessert Feine Vanille 4 x 125G",
+    "category": "Sojaprodukte",
+    "subcategories": ["Sojadessert", "Vanille"]
+  },
+  {
+    "store": "spar",
+    "id": "5696505",
+    "name": "Alpro Sojadessert Schokolade mildfein 4 x 125G",
+    "category": "Sojaprodukte",
+    "subcategories": ["Sojadessert", "Schokolade"]
+  },
+  {
+    "store": "spar",
+    "id": "6425746",
+    "name": "Alpro Sojadrink Light 1L",
+    "category": "Pflanzendrink",
+    "subcategories": ["Sojadrink", "Light"]
+  },
+  {
+    "store": "spar",
+    "id": "647472",
+    "name": "Alpro Sojadrink Original 1L",
+    "category": "Pflanzendrink",
+    "subcategories": ["Sojadrink"]
+  },
+  {
+    "store": "spar",
+    "id": "219280",
+    "name": "Alpro Sojadrink Schokolade 3 x 250ML",
+    "category": "Pflanzendrink",
+    "subcategories": ["Sojadrink", "Schokolade"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004251091",
+    "name": "Alpro Sojadrink Schokoladen-Geschmack 250ML",
+    "category": "Pflanzendrink",
+    "subcategories": ["Sojadrink", "Schokoladen-Geschmack"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004250834",
+    "name": "Alpro Sojadrink Vanille 250ML",
+    "category": "Pflanzendrink",
+    "subcategories": ["Sojadrink", "Vanille"]
+  },
+  {
+    "store": "spar",
+    "id": "7023323",
+    "name": "Alpro Sojadrink Vanille Geschmack 1L",
+    "category": "Pflanzendrink",
+    "subcategories": ["Sojadrink", "Vanille-Geschmack"]
+  },
+  {
+    "store": "spar",
+    "id": "8185211",
+    "name": "Alpro Sojadrink ungesüßt 1L",
+    "category": "Pflanzendrink",
+    "subcategories": ["Sojadrink"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004696663",
+    "name": "Alpro Soya Erdbeere",
+    "category": "Sojaprodukte",
+    "subcategories": ["Soja", "Erdbeere"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004696670",
+    "name": "Alpro Soya Heidelbeere",
+    "category": "Sojaprodukte",
+    "subcategories": ["Soja", "Heidelbeere"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002959302",
+    "name": "Alpro Soya Himbeere-Apfel",
+    "category": "Sojaprodukte",
+    "subcategories": ["Soja", "Himbeere", "Apfel"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002342432",
+    "name": "Alpro Soya Mango",
+    "category": "Sojaprodukte",
+    "subcategories": ["Soja", "Mango"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001635030",
+    "name": "Alpro Soya Natur Ungesüßt, ohne Zucker",
+    "category": "Sojaprodukte",
+    "subcategories": ["Soja", "Natur", "Ungesüßt", "Zuckerfrei"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004696687",
+    "name": "Alpro Soya Natur mit Kokosnuss",
+    "category": "Sojaprodukte",
+    "subcategories": ["Soja", "Natur", "Kokosnuss"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004696649",
+    "name": "Alpro Soya Natur ohne Zucker",
+    "category": "Sojaprodukte",
+    "subcategories": ["Soja", "Natur", "Zuckerfrei"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003999345",
+    "name": "Alpro Soya Skyr Style Natur ungesüßt",
+    "category": "Sojaprodukte",
+    "subcategories": ["Soja", "Skyr", "Natur", "Ungesüßt"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003706400",
+    "name": "Alpro Soya Soya Skyr Style Mango",
+    "category": "Sojaprodukte",
+    "subcategories": ["Soja", "Skyr", "Mango"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004696656",
+    "name": "Alpro Soya Zitrone-Limette",
+    "category": "Sojaprodukte",
+    "subcategories": ["Soja", "Zitrone", "Limette"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003479786",
+    "name": "Alpro Soyadrink Protein Schokolade 1L",
+    "category": "Pflanzendrink",
+    "subcategories": ["Protein", "Sojadrink", "Schokolade"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001516643",
+    "name": "Bullrich Basentabletten Säure-Basen-Balance 180 Stück",
+    "category": "Nahrungsergänzungsmittel",
+    "subcategories": ["Basentabletten", "Säure-Basen-Balance", "Tabletten"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004220417",
+    "name": "Bullrich Energie & Ausgleich SBB 42 Tabletten",
+    "category": "Nahrungsergänzungsmittel",
+    "subcategories": ["Energie", "Ausgleich", "Tabletten"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003135972",
+    "name": "Bullrich Heilerde Kapseln 48 Stück",
+    "category": "Nahrungsergänzungsmittel",
+    "subcategories": ["Heilerde", "Kapseln"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004220394",
+    "name": "Bullrich Heilerde Pulver",
+    "category": "Nahrungsergänzungsmittel",
+    "subcategories": ["Heilerde", "Pulver"]
+  },
+  {
+    "store": "spar",
+    "id": "7623059",
+    "name": "Cedevita Cedevita Orange 200g naranča",
+    "category": "Getränkepulver",
+    "subcategories": ["Cedevita", "Orangenpulver"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003440311",
+    "name": "Cedevita Multivitamin-Brausepulver Zitrone",
+    "category": "Getränkepulver",
+    "subcategories": ["Cedevita", "Brausepulver", "Zitrone"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003818745",
+    "name": "Chiefs Proteinriegel Crispy Cookie",
+    "category": "Proteinriegel",
+    "subcategories": ["Proteinriegel", "Crispy Cookie"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004067340",
+    "name": "Chiefs Proteinriegel Erdbeere",
+    "category": "Proteinriegel",
+    "subcategories": ["Proteinriegel", "Erdbeere"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003818752",
+    "name": "Chiefs Proteinriegel Salty Caramel",
+    "category": "Proteinriegel",
+    "subcategories": ["Proteinriegel", "Salty Caramel"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003818769",
+    "name": "Chiefs Proteinriegel White Mocha",
+    "category": "Proteinriegel",
+    "subcategories": ["Proteinriegel", "White Mocha"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004231222",
+    "name": "Carpe Diem Dark Demerara Rohrzucker Dark Demerara",
+    "category": "Getränk",
+    "subcategories": ["Carpe Diem", "Dark Demerara", "Rohrzucker"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002666163",
+    "name": "Casa Rinaldi Aceto Balsamico di Modena IGP aus biologischem Anbau",
+    "category": "Essig",
+    "subcategories": ["Aceto Balsamico di Modena", "Biologischer Anbau"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002666200",
+    "name": "Casa Rinaldi Bianco Modena aus biologischem Anbau",
+    "category": "Essig",
+    "subcategories": ["Bianco Modena", "Biologischer Anbau"]
+  },
+  {
+    "store": "spar",
+    "id": "4373391",
+    "name": "Chio Big Pep Smokey Bacon",
+    "category": "Knabberartikel",
+    "subcategories": ["Chio", "Big Pep", "Smokey Bacon"]
+  },
+  {
+    "store": "spar",
+    "id": "4707103",
+    "name": "Chio Dip Hot Cheese",
+    "category": "Knabberartikel",
+    "subcategories": ["Chio Dip", "Hot Cheese"]
+  }
+]

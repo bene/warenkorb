@@ -1,0 +1,702 @@
+[
+  {
+    "store": "billa",
+    "id": "00-575136",
+    "name": "Ja! Natürlich Bio Erdäpfel Vorgegart",
+    "category": "Gemüse",
+    "subcategories": ["Erdäpfel", "Bio"]
+  },
+  {
+    "store": "billa",
+    "id": "00-575149",
+    "name": "Ja! Natürlich Bio Rote Rübe Gekocht",
+    "category": "Gemüse",
+    "subcategories": ["Rote Rübe", "Bio"]
+  },
+  {
+    "store": "billa",
+    "id": "00-523973",
+    "name": "Ja! Natürlich Gnocchi",
+    "category": "Nudeln",
+    "subcategories": ["Gnocchi"]
+  },
+  {
+    "store": "billa",
+    "id": "00-585482",
+    "name": "Ja! Natürlich Ravioli Schinken",
+    "category": "Nudeln",
+    "subcategories": ["Ravioli", "Schinken"]
+  },
+  {
+    "store": "billa",
+    "id": "00-507288",
+    "name": "Ja! Natürlich Tortelloni Ricotta-Spinat",
+    "category": "Nudeln",
+    "subcategories": ["Tortelloni", "Ricotta", "Spinat"]
+  },
+  {
+    "store": "billa",
+    "id": "00-415706",
+    "name": "Leif Pancake Teig",
+    "category": "Backwaren",
+    "subcategories": ["Pancake"]
+  },
+  {
+    "store": "billa",
+    "id": "00-584526",
+    "name": "Lisl Wagner-Bacher Semmelkren",
+    "category": "Saucen",
+    "subcategories": ["Semmelkren"]
+  },
+  {
+    "store": "billa",
+    "id": "00-517971",
+    "name": "Lisl Wagner-Bacher Brioche Knödel",
+    "category": "Backwaren",
+    "subcategories": ["Brioche", "Knödel"]
+  },
+  {
+    "store": "billa",
+    "id": "00-701952",
+    "name": "Lisl Wagner-Bacher Rotes Thaicurry",
+    "category": "Gourmet",
+    "subcategories": ["Thaicurry"]
+  },
+  {
+    "store": "billa",
+    "id": "00-584524",
+    "name": "Lisl Wagner-Bacher Tafelspitz Mit Wurzelgemüse",
+    "category": "Fleisch",
+    "subcategories": ["Tafelspitz", "Wurzelgemüse"]
+  },
+  {
+    "store": "billa",
+    "id": "00-516024",
+    "name": "Lisl Wagner-Bacher Veganes Thaicurry",
+    "category": "Gourmet",
+    "subcategories": ["Veganes", "Thaicurry"]
+  },
+  {
+    "store": "billa",
+    "id": "00-956660",
+    "name": "My best Semmelknödel Rolle",
+    "category": "Backwaren",
+    "subcategories": ["Semmelknödel"]
+  },
+  {
+    "store": "billa",
+    "id": "00-323146",
+    "name": "Mühlen Cordon Bleu",
+    "category": "Fleisch",
+    "subcategories": ["Cordon Bleu"]
+  },
+  {
+    "store": "billa",
+    "id": "00-398205",
+    "name": "PURE Green Curry Mit Huhn Und Nudeln",
+    "category": "Fertiggerichte",
+    "subcategories": ["Green Curry", "Huhn", "Nudeln"]
+  },
+  {
+    "store": "billa",
+    "id": "00-398204",
+    "name": "PURE Huhn Süß-Sauer mit Reis",
+    "category": "Fertiggerichte",
+    "subcategories": ["Huhn", "Süß-Sauer", "Reis"]
+  },
+  {
+    "store": "billa",
+    "id": "00-398324",
+    "name": "PURE Huhn Tikka Masala mit Reis",
+    "category": "Fertiggerichte",
+    "subcategories": ["Huhn", "Tikka Masala", "Reis"]
+  },
+  {
+    "store": "billa",
+    "id": "00-591960",
+    "name": "PURE Lasagnette Bolognese",
+    "category": "Fertiggerichte",
+    "subcategories": ["Lasagnette", "Bolognese"]
+  },
+  {
+    "store": "billa",
+    "id": "00-398199",
+    "name": "PURE Spaghetti Bolognese",
+    "category": "Fertiggerichte",
+    "subcategories": ["Spaghetti", "Bolognese"]
+  },
+  {
+    "store": "billa",
+    "id": "00-450126",
+    "name": "Power Chicken Masala Bowl",
+    "category": "Fertiggerichte",
+    "subcategories": ["Chicken Masala", "Bowl"]
+  },
+  {
+    "store": "billa",
+    "id": "00-720416",
+    "name": "Radatz Bohnensuppe",
+    "category": "Suppen",
+    "subcategories": ["Bohnensuppe"]
+  },
+  {
+    "store": "billa",
+    "id": "00-720386",
+    "name": "Radatz Chili Con Carne",
+    "category": "Fleisch",
+    "subcategories": ["Chili Con Carne"]
+  },
+  {
+    "store": "billa",
+    "id": "00-720413",
+    "name": "Radatz Erdäpfelgulasch",
+    "category": "Fleisch",
+    "subcategories": ["Erdäpfelgulasch"]
+  },
+  {
+    "store": "billa",
+    "id": "00-720420",
+    "name": "Radatz Gemüsecremesuppe",
+    "category": "Suppen",
+    "subcategories": ["Gemüsecremesuppe"]
+  },
+  {
+    "store": "billa",
+    "id": "00-301920",
+    "name": "Radatz Gulaschsuppe",
+    "category": "Suppen",
+    "subcategories": ["Gulaschsuppe"]
+  },
+  {
+    "store": "billa",
+    "id": "00-720437",
+    "name": "Radatz Hühnersuppe",
+    "category": "Suppen",
+    "subcategories": ["Hühnersuppe"]
+  },
+  {
+    "store": "billa",
+    "id": "00-644876",
+    "name": "Radatz Klare Rindssuppe",
+    "category": "Suppen",
+    "subcategories": ["Klare Rindssuppe"]
+  },
+  {
+    "store": "billa",
+    "id": "00-720406",
+    "name": "Radatz Krautfleckerl",
+    "category": "Fleisch",
+    "subcategories": ["Krautfleckerl"]
+  },
+  {
+    "store": "billa",
+    "id": "00-301180",
+    "name": "Radatz Kürbiscremesuppe",
+    "category": "Suppen",
+    "subcategories": ["Kürbiscremesuppe"]
+  },
+  {
+    "store": "billa",
+    "id": "00-98015",
+    "name": "Radatz Leberknödel",
+    "category": "Fleisch",
+    "subcategories": ["Leberknödel"]
+  },
+  {
+    "store": "billa",
+    "id": "00-720387",
+    "name": "Radatz Rindsgulasch",
+    "category": "Fleisch",
+    "subcategories": ["Rindsgulasch"]
+  },
+  {
+    "store": "billa",
+    "id": "00-720395",
+    "name": "Radatz Rindsroulade",
+    "category": "Fleisch",
+    "subcategories": ["Rindsroulade"]
+  },
+  {
+    "store": "billa",
+    "id": "00-720403",
+    "name": "Radatz Schulter Scherzel",
+    "category": "Fleisch",
+    "subcategories": ["Schulter Scherzel"]
+  },
+  {
+    "store": "billa",
+    "id": "00-720409",
+    "name": "Radatz Specklinsen",
+    "category": "Fleisch",
+    "subcategories": ["Specklinsen"]
+  },
+  {
+    "store": "billa",
+    "id": "00-720392",
+    "name": "Radatz Szegediner Krautfleisch",
+    "category": "Fleisch",
+    "subcategories": ["Szegediner Krautfleisch"]
+  },
+  {
+    "store": "billa",
+    "id": "00-592088",
+    "name": "Simply Good Girasoli Gorgonzola&Speck&Zwiebel",
+    "category": "Nudeln",
+    "subcategories": ["Girasoli", "Gorgonzola", "Speck", "Zwiebel"]
+  },
+  {
+    "store": "billa",
+    "id": "00-554307",
+    "name": "Simply Good Beef Teriyaki",
+    "category": "Fertiggerichte",
+    "subcategories": ["Beef Teriyaki"]
+  },
+  {
+    "store": "billa",
+    "id": "00-267161",
+    "name": "Simply Good Caesar Dressing",
+    "category": "Saucen",
+    "subcategories": ["Caesar Dressing"]
+  },
+  {
+    "store": "billa",
+    "id": "00-570686",
+    "name": "Simply Good Chicken Curry",
+    "category": "Fertiggerichte",
+    "subcategories": ["Chicken Curry"]
+  },
+  {
+    "store": "billa",
+    "id": "00-592097",
+    "name": "Simply Good Girasoli Mit Pilzen",
+    "category": "Nudeln",
+    "subcategories": ["Girasoli", "Pilze"]
+  },
+  {
+    "store": "billa",
+    "id": "00-592084",
+    "name": "Simply Good Girasoli Tomate Mozzarella",
+    "category": "Nudeln",
+    "subcategories": ["Girasoli", "Tomate", "Mozzarella"]
+  },
+  {
+    "store": "billa",
+    "id": "00-706819",
+    "name": "Simply Good Karfiolgnocchi",
+    "category": "Nudeln",
+    "subcategories": ["Karfiolgnocchi"]
+  },
+  {
+    "store": "billa",
+    "id": "00-530657",
+    "name": "Simply Good Kartoffel Gnocchi",
+    "category": "Nudeln",
+    "subcategories": ["Kartoffel Gnocchi"]
+  },
+  {
+    "store": "billa",
+    "id": "00-530654",
+    "name": "Simply Good Kartoffel Gnocchi",
+    "category": "Nudeln",
+    "subcategories": ["Kartoffel Gnocchi"]
+  },
+  {
+    "store": "billa",
+    "id": "00-967378",
+    "name": "Simply Good Knoblauch-Kräuter Dressing",
+    "category": "Saucen",
+    "subcategories": ["Knoblauch-Kräuter Dressing"]
+  },
+  {
+    "store": "billa",
+    "id": "00-570684",
+    "name": "Simply Good Korma Curry",
+    "category": "Fertiggerichte",
+    "subcategories": ["Korma Curry"]
+  },
+  {
+    "store": "billa",
+    "id": "00-967394",
+    "name": "Simply Good Kräuter Dressing",
+    "category": "Saucen",
+    "subcategories": ["Kräuter Dressing"]
+  },
+  {
+    "store": "billa",
+    "id": "00-702611",
+    "name": "Simply Good Lammköfte Mit Tomatenreis",
+    "category": "Fertiggerichte",
+    "subcategories": ["Lammköfte", "Tomatenreis"]
+  },
+  {
+    "store": "billa",
+    "id": "00-570685",
+    "name": "Simply Good Linsenfusilli",
+    "category": "Nudeln",
+    "subcategories": ["Linsenfusilli"]
+  },
+  {
+    "store": "billa",
+    "id": "00-592083",
+    "name": "Simply Good Mezzelune Mit Trüffel",
+    "category": "Nudeln",
+    "subcategories": ["Mezzelune", "Trüffel"]
+  },
+  {
+    "store": "billa",
+    "id": "00-716171",
+    "name": "Simply Good Nockerl",
+    "category": "Backwaren",
+    "subcategories": ["Nockerl"]
+  },
+  {
+    "store": "billa",
+    "id": "00-304532",
+    "name": "Simply Good Polpette Bulgur Bowl",
+    "category": "Fertiggerichte",
+    "subcategories": ["Polpette Bulgur", "Bowl"]
+  },
+  {
+    "store": "billa",
+    "id": "00-570687",
+    "name": "Simply Good Rainbow Bulgogi",
+    "category": "Fertiggerichte",
+    "subcategories": ["Rainbow Bulgogi"]
+  },
+  {
+    "store": "billa",
+    "id": "00-592103",
+    "name": "Simply Good Ravioli Spinat & Ricotta",
+    "category": "Nudeln",
+    "subcategories": ["Ravioli", "Spinat", "Ricotta"]
+  },
+  {
+    "store": "billa",
+    "id": "00-959130",
+    "name": "Simply Good Rote Rüben gekocht",
+    "category": "Gemüse",
+    "subcategories": ["Rote Rüben"]
+  },
+  {
+    "store": "billa",
+    "id": "00-716217",
+    "name": "Simply Good Schupfnudeln",
+    "category": "Nudeln",
+    "subcategories": ["Schupfnudeln"]
+  },
+  {
+    "store": "billa",
+    "id": "00-554300",
+    "name": "Simply Good Siciliana Linguine Bowl",
+    "category": "Fertiggerichte",
+    "subcategories": ["Siciliana Linguine", "Bowl"]
+  },
+  {
+    "store": "billa",
+    "id": "00-537427",
+    "name": "Simply Good Süßkartoffel Suppe",
+    "category": "Suppen",
+    "subcategories": ["Süßkartoffel Suppe"]
+  },
+  {
+    "store": "billa",
+    "id": "00-554310",
+    "name": "Simply Good Thai Red Chicken Curry",
+    "category": "Fertiggerichte",
+    "subcategories": ["Thai Red Chicken Curry"]
+  },
+  {
+    "store": "billa",
+    "id": "00-718738",
+    "name": "Simply Good Tomatensuppe",
+    "category": "Suppen",
+    "subcategories": ["Tomatensuppe"]
+  },
+  {
+    "store": "billa",
+    "id": "00-931061",
+    "name": "Simply Good Tortelli Ricotta & Spargel",
+    "category": "Nudeln",
+    "subcategories": ["Tortelli", "Ricotta", "Spargel"]
+  },
+  {
+    "store": "billa",
+    "id": "00-553806",
+    "name": "Simply Good Tortelli Rucola",
+    "category": "Nudeln",
+    "subcategories": ["Tortelli", "Rucola"]
+  },
+  {
+    "store": "billa",
+    "id": "00-511885",
+    "name": "Simply Good Tortelloni Käse",
+    "category": "Nudeln",
+    "subcategories": ["Tortelloni", "Käse"]
+  },
+  {
+    "store": "billa",
+    "id": "00-511874",
+    "name": "Simply Good Tortelloni Prosciutto",
+    "category": "Nudeln",
+    "subcategories": ["Tortelloni", "Prosciutto"]
+  },
+  {
+    "store": "billa",
+    "id": "00-511896",
+    "name": "Simply Good Tortelloni Ricotta Spinat",
+    "category": "Nudeln",
+    "subcategories": ["Tortelloni", "Ricotta", "Spinat"]
+  },
+  {
+    "store": "billa",
+    "id": "00-511817",
+    "name": "Simply Good Tortelloni Rindfleisch",
+    "category": "Nudeln",
+    "subcategories": ["Tortelloni", "Rindfleisch"]
+  },
+  {
+    "store": "billa",
+    "id": "00-554303",
+    "name": "Simply Good Toscana Pasta Bowl",
+    "category": "Fertiggerichte",
+    "subcategories": ["Toscana Pasta", "Bowl"]
+  },
+  {
+    "store": "billa",
+    "id": "00-466459",
+    "name": "Simply Good Zucchini Bärlauchsuppe",
+    "category": "Suppen",
+    "subcategories": ["Zucchini Bärlauchsuppe"]
+  },
+  {
+    "store": "billa",
+    "id": "00-716579",
+    "name": "The Green Mountain Chicken Chunks plant based",
+    "category": "Veganes",
+    "subcategories": ["Chicken Chunks", "pflanzlich"]
+  },
+  {
+    "store": "billa",
+    "id": "00-583377",
+    "name": "The Green Mountain Filet Hähnchen-Art plant based",
+    "category": "Veganes",
+    "subcategories": ["Filet Hähnchen-Art", "pflanzlich"]
+  },
+  {
+    "store": "billa",
+    "id": "00-716580",
+    "name": "The Green Mountain Pfeffer Medaillon plant based",
+    "category": "Veganes",
+    "subcategories": ["Pfeffer Medaillon", "pflanzlich"]
+  },
+  {
+    "store": "billa",
+    "id": "00-716551",
+    "name": "The Green Mountain Schnitzel Wiener-Art plant based",
+    "category": "Veganes",
+    "subcategories": ["Schnitzel Wiener-Art", "pflanzlich"]
+  },
+  {
+    "store": "billa",
+    "id": "00-583376",
+    "name": "The Green Mountain Steak plant based",
+    "category": "Veganes",
+    "subcategories": ["Steak", "pflanzlich"]
+  },
+  {
+    "store": "billa",
+    "id": "00-587760",
+    "name": "Vegavita Bio Falafel",
+    "category": "Fleischersatz",
+    "subcategories": ["Falafel", "Bio"]
+  },
+  {
+    "store": "billa",
+    "id": "00-726401",
+    "name": "Vegavita Crispy Burger",
+    "category": "Fleischersatz",
+    "subcategories": ["Crispy Burger"]
+  },
+  {
+    "store": "billa",
+    "id": "00-726073",
+    "name": "Vegavita Filet Fisch-Art",
+    "category": "Fleischersatz",
+    "subcategories": ["Filet Fisch-Art"]
+  },
+  {
+    "store": "billa",
+    "id": "00-726198",
+    "name": "Vegavita Filet Huhn-Art",
+    "category": "Fleischersatz",
+    "subcategories": ["Filet Huhn-Art"]
+  },
+  {
+    "store": "billa",
+    "id": "00-817927",
+    "name": "Vegavita Frankfurter",
+    "category": "Fleischersatz",
+    "subcategories": ["Frankfurter"]
+  },
+  {
+    "store": "billa",
+    "id": "00-346199",
+    "name": "Vegavita Gehacktes gewürzt",
+    "category": "Fleischersatz",
+    "subcategories": ["Gehacktes gewürzt"]
+  },
+  {
+    "store": "billa",
+    "id": "00-725194",
+    "name": "Vegavita Kebab",
+    "category": "Fleischersatz",
+    "subcategories": ["Kebab"]
+  },
+  {
+    "store": "billa",
+    "id": "00-721144",
+    "name": "Vegavita Nuggets",
+    "category": "Fleischersatz",
+    "subcategories": ["Nuggets"]
+  },
+  {
+    "store": "billa",
+    "id": "00-346167",
+    "name": "Vegavita Pulled Chunks Kebab",
+    "category": "Fleischersatz",
+    "subcategories": ["Pulled Chunks", "Kebab"]
+  },
+  {
+    "store": "billa",
+    "id": "00-323227",
+    "name": "Vegavita Schnitzel",
+    "category": "Fleischersatz",
+    "subcategories": ["Schnitzel"]
+  },
+  {
+    "store": "billa",
+    "id": "00-716288",
+    "name": "Verdino Vegane Crispy Burger",
+    "category": "Fleischersatz",
+    "subcategories": ["Vegane Crispy Burger"]
+  },
+  {
+    "store": "billa",
+    "id": "00-716291",
+    "name": "Verdino Vegane Schnitzel",
+    "category": "Fleischersatz",
+    "subcategories": ["Vegane Schnitzel"]
+  },
+  {
+    "store": "billa",
+    "id": "00-716350",
+    "name": "Verdino Veganes Hähnchenfilet",
+    "category": "Fleischersatz",
+    "subcategories": ["Veganes Hähnchenfilet"]
+  },
+  {
+    "store": "billa",
+    "id": "00-936334",
+    "name": "Vivera Vegane Stäbchen Fisch-Art",
+    "category": "Fleischersatz",
+    "subcategories": ["Vegane Stäbchen", "Fisch-Art"]
+  },
+  {
+    "store": "billa",
+    "id": "00-472852",
+    "name": "Vivera Vegane Tenders Hähnchen-Art",
+    "category": "Fleischersatz",
+    "subcategories": ["Vegane Tenders", "Hähnchen-Art"]
+  },
+  {
+    "store": "billa",
+    "id": "00-936336",
+    "name": "Vivera Veganes Schnitzel Hähnchen-Art",
+    "category": "Fleischersatz",
+    "subcategories": ["Veganes Schnitzel", "Hähnchen-Art"]
+  },
+  {
+    "store": "billa",
+    "id": "00-255432",
+    "name": "Vivera Veganes Steak",
+    "category": "Fleischersatz",
+    "subcategories": ["Veganes Steak"]
+  },
+  {
+    "store": "billa",
+    "id": "00-516242",
+    "name": "Vivera Vegetarisches Filet Spinat & Käse",
+    "category": "Fleischersatz",
+    "subcategories": ["Vegetarisches Filet", "Spinat", "Käse"]
+  },
+  {
+    "store": "billa",
+    "id": "00-299585",
+    "name": "Youcook Chinese Style Sweet & Sour",
+    "category": "Fertiggerichte",
+    "subcategories": ["Chinese Style", "Sweet & Sour"]
+  },
+  {
+    "store": "billa",
+    "id": "00-299587",
+    "name": "Youcook Indian Style Butter Chicken",
+    "category": "Fertiggerichte",
+    "subcategories": ["Indian Style", "Butter Chicken"]
+  },
+  {
+    "store": "billa",
+    "id": "00-468303",
+    "name": "Youcook Indian Style Chicken Tandoori",
+    "category": "Fertiggerichte",
+    "subcategories": ["Indian Style", "Chicken Tandoori"]
+  },
+  {
+    "store": "billa",
+    "id": "00-299589",
+    "name": "Youcook Indian Style Chicken Tikka",
+    "category": "Fertiggerichte",
+    "subcategories": ["Indian Style", "Chicken Tikka"]
+  },
+  {
+    "store": "billa",
+    "id": "00-299582",
+    "name": "Youcook Japanese Style Chicken Teriyaki",
+    "category": "Fertiggerichte",
+    "subcategories": ["Japanese Style", "Chicken Teriyaki"]
+  },
+  {
+    "store": "hofer",
+    "id": 547114,
+    "name": "BBQ Salate Kartoffel 350g",
+    "category": "Gemüse",
+    "subcategories": ["Salate", "Kartoffel"]
+  },
+  {
+    "store": "hofer",
+    "id": 547112,
+    "name": "BBQ Salate Kraut 350g",
+    "category": "Gemüse",
+    "subcategories": ["Salate", "Kraut"]
+  },
+  {
+    "store": "hofer",
+    "id": 547115,
+    "name": "BBQ Salate Nudelsalat Italienisch 250g",
+    "category": "Salate",
+    "subcategories": ["Nudelsalat", "Italienisch"]
+  },
+  {
+    "store": "hofer",
+    "id": 547113,
+    "name": "BBQ Salate Nudelsalat Paprika 300g",
+    "category": "Salate",
+    "subcategories": ["Nudelsalat", "Paprika"]
+  },
+  {
+    "store": "billa",
+    "id": "00-498440",
+    "name": "BILLA Freilandeier L",
+    "category": "Eier",
+    "subcategories": ["Freilandeier"]
+  }
+]

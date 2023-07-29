@@ -1,0 +1,702 @@
+[
+  {
+    "store": "billa",
+    "id": "00-509593",
+    "name": "Glade Aromatherapy Raumduft Moment of Zen Lavendel & Sandelholz",
+    "category": "Raumduft",
+    "subcategories": ["Aromatherapie", "Lavendel", "Sandelholz"]
+  },
+  {
+    "store": "billa",
+    "id": "00-876111",
+    "name": "Glade Automatic Spray Relaxing Zen Nachfüller",
+    "category": "Raumduft",
+    "subcategories": ["Spray", "Nachfüller", "Entspannung"]
+  },
+  {
+    "store": "billa",
+    "id": "00-876102",
+    "name": "Glade Automatic Spray Sensual Sandalwood & Jasmine Nachfüller",
+    "category": "Raumduft",
+    "subcategories": ["Spray", "Nachfüller", "Sandelholz", "Jasmin", "sinnlich"]
+  },
+  {
+    "store": "billa",
+    "id": "00-340766",
+    "name": "Glade Beerentraum Spray",
+    "category": "Raumduft",
+    "subcategories": ["Spray", "Beere"]
+  },
+  {
+    "store": "billa",
+    "id": "00-312307",
+    "name": "Glade Duftkerze Anti-Tabak",
+    "category": "Duftkerze",
+    "subcategories": ["Anti-Tabak"]
+  },
+  {
+    "store": "billa",
+    "id": "00-312320",
+    "name": "Glade Duftkerze Cosy Apple & Cinnamon",
+    "category": "Duftkerze",
+    "subcategories": ["Apfel", "Zimt"]
+  },
+  {
+    "store": "billa",
+    "id": "00-312312",
+    "name": "Glade Duftkerze I Love You",
+    "category": "Duftkerze",
+    "subcategories": ["Liebe"]
+  },
+  {
+    "store": "billa",
+    "id": "00-312309",
+    "name": "Glade Duftkerze Romantic Vanilla Blossom",
+    "category": "Duftkerze",
+    "subcategories": ["Vanille", "Blüte", "romantisch"]
+  },
+  {
+    "store": "billa",
+    "id": "00-312317",
+    "name": "Glade Duftkerze Sensual Sandalwood & Jasmine",
+    "category": "Duftkerze",
+    "subcategories": ["Sandelholz", "Jasmin", "sinnlich"]
+  },
+  {
+    "store": "billa",
+    "id": "00-890542",
+    "name": "Glade Duftspray Fresh Lemon",
+    "category": "Duftspray",
+    "subcategories": ["Zitrone"]
+  },
+  {
+    "store": "billa",
+    "id": "00-313593",
+    "name": "Glade Premium Duftkerze Luscious Cherry & Peony",
+    "category": "Duftkerze",
+    "subcategories": ["Kirsche", "Pfingstrose"]
+  },
+  {
+    "store": "billa",
+    "id": "00-619671",
+    "name": "Glade Sense & Spray Pure Clean Linen Nachfüller",
+    "category": "Raumduft",
+    "subcategories": ["Spray", "Nachfüller", "reine Leinen"]
+  },
+  {
+    "store": "billa",
+    "id": "00-633596",
+    "name": "Glade Sense & Spray Relaxing Zen Nachfüller",
+    "category": "Raumduft",
+    "subcategories": ["Spray", "Nachfüller", "Entspannung"]
+  },
+  {
+    "store": "billa",
+    "id": "00-701480",
+    "name": "Glade Sense & Spray Sensual Sandalwood & Jasmine Nachfüller",
+    "category": "Raumduft",
+    "subcategories": ["Spray", "Nachfüller", "Sandelholz", "Jasmin", "sinnlich"]
+  },
+  {
+    "store": "billa",
+    "id": "00-307600",
+    "name": "Glade Touch & Fresh Fresh Lemon Minispray",
+    "category": "Minispray",
+    "subcategories": ["Zitrone"]
+  },
+  {
+    "store": "billa",
+    "id": "00-857105",
+    "name": "Glade Touch & Fresh Fresh Lemon Minispray Nachfüller",
+    "category": "Minispray",
+    "subcategories": ["Nachfüller", "Zitrone"]
+  },
+  {
+    "store": "billa",
+    "id": "00-857104",
+    "name": "Glade Touch & Fresh Marine Minispray Nachfüller",
+    "category": "Minispray",
+    "subcategories": ["Nachfüller", "Meeresduft"]
+  },
+  {
+    "store": "billa",
+    "id": "00-902040",
+    "name": "Glade Touch & Fresh Pure Clean Linen Minispray Nachfüller",
+    "category": "Minispray",
+    "subcategories": ["Nachfüller", "reine Leinen"]
+  },
+  {
+    "store": "billa",
+    "id": "00-505146",
+    "name": "Glade Touch & Fresh Relaxing Zen Minispray Nachfüller",
+    "category": "Minispray",
+    "subcategories": ["Nachfüller", "Entspannung"]
+  },
+  {
+    "store": "billa",
+    "id": "00-894014",
+    "name": "Glade Touch & Fresh Sensual Sandalwood & Jasmine Minispray Nachfüller",
+    "category": "Minispray",
+    "subcategories": ["Nachfüller", "Sandelholz", "Jasmin", "sinnlich"]
+  },
+  {
+    "store": "billa",
+    "id": "00-860733",
+    "name": "Glade Touch & Fresh Summer Bouquet Minispray Nachfüller",
+    "category": "Minispray",
+    "subcategories": ["Nachfüller", "Sommerblumen"]
+  },
+  {
+    "store": "billa",
+    "id": "00-532285",
+    "name": "Hofer Premium Motivlicht I denk aun di!",
+    "category": "Motivlicht",
+    "subcategories": ["Gedanken", "Dich"]
+  },
+  {
+    "store": "billa",
+    "id": "00-653602",
+    "name": "Hofer Tradition Kompositions-Öllicht",
+    "category": "Öllicht",
+    "subcategories": ["Tradition"]
+  },
+  {
+    "store": "billa",
+    "id": "00-556147",
+    "name": "Jeka Grabkerze Einsatz Nr. 18",
+    "category": "Grabkerze",
+    "subcategories": ["Einsatz", "Nr. 18"]
+  },
+  {
+    "store": "billa",
+    "id": "00-737082",
+    "name": "Lysoform Raumspray Lemon",
+    "category": "Raumspray",
+    "subcategories": ["Zitrone"]
+  },
+  {
+    "store": "billa",
+    "id": "00-708140",
+    "name": "Teelichter",
+    "category": "Teelichter",
+    "subcategories": []
+  },
+  {
+    "store": "billa",
+    "id": "00-407817",
+    "name": "Ajax Azr Lavendel und Magnolie",
+    "category": "Reiniger",
+    "subcategories": ["Lavendel", "Magnolie"]
+  },
+  {
+    "store": "billa",
+    "id": "00-860707",
+    "name": "Ajax Glasrein",
+    "category": "Reiniger",
+    "subcategories": ["Glas"]
+  },
+  {
+    "store": "billa",
+    "id": "00-854555",
+    "name": "Ajax Glasrein Pumpe 3fach aktiv",
+    "category": "Reiniger",
+    "subcategories": ["Glas", "Pumpe"]
+  },
+  {
+    "store": "billa",
+    "id": "00-860464",
+    "name": "Ajax Kristallklar Glasreiniger",
+    "category": "Reiniger",
+    "subcategories": ["Glas"]
+  },
+  {
+    "store": "billa",
+    "id": "00-783364",
+    "name": "Ajax Parkett und empfindliche Oberflächen",
+    "category": "Reiniger",
+    "subcategories": ["Parkett", "empfindliche Oberflächen"]
+  },
+  {
+    "store": "billa",
+    "id": "00-886543",
+    "name": "Ajax Ultra 7 Antibakteriell",
+    "category": "Reiniger",
+    "subcategories": ["Antibakteriell"]
+  },
+  {
+    "store": "billa",
+    "id": "00-886531",
+    "name": "Ajax Ultra7 Allzweckreiniger Frühlingsblumen",
+    "category": "Reiniger",
+    "subcategories": ["Allzweckreiniger", "Frühlingsblumen"]
+  },
+  {
+    "store": "billa",
+    "id": "00-139769",
+    "name": "Aktiv Handschuhe",
+    "category": "Handschuhe",
+    "subcategories": []
+  },
+  {
+    "store": "billa",
+    "id": "00-870077",
+    "name": "Antikal Spezialreiniger Sprühflasche",
+    "category": "Spezialreiniger",
+    "subcategories": ["Sprühflasche"]
+  },
+  {
+    "store": "billa",
+    "id": "00-708306",
+    "name": "BI HOME Desinfektionstücher",
+    "category": "Desinfektionstücher",
+    "subcategories": []
+  },
+  {
+    "store": "billa",
+    "id": "00-713164",
+    "name": "BI HOME Glasreiniger",
+    "category": "Reiniger",
+    "subcategories": ["Glas"]
+  },
+  {
+    "store": "billa",
+    "id": "00-723448",
+    "name": "BI HOME Hygiene und Desinfektionsreiniger",
+    "category": "Desinfektionsreiniger",
+    "subcategories": ["Hygiene"]
+  },
+  {
+    "store": "billa",
+    "id": "00-713172",
+    "name": "BI HOME Powerreiniger",
+    "category": "Reiniger",
+    "subcategories": ["Power"]
+  },
+  {
+    "store": "billa",
+    "id": "00-723455",
+    "name": "BI HOME Reisewaschmitteltube",
+    "category": "Waschmittel",
+    "subcategories": ["Reise"]
+  },
+  {
+    "store": "billa",
+    "id": "00-723459",
+    "name": "BI HOME Spülmittel Konzentrat Balsam",
+    "category": "Spülmittel",
+    "subcategories": ["Konzentrat", "Balsam"]
+  },
+  {
+    "store": "billa",
+    "id": "00-723457",
+    "name": "BI HOME Spülmittel Konzentrat Granatapfel",
+    "category": "Spülmittel",
+    "subcategories": ["Konzentrat", "Granatapfel"]
+  },
+  {
+    "store": "billa",
+    "id": "00-723458",
+    "name": "BI HOME Spülmittel Konzentrat Orange",
+    "category": "Spülmittel",
+    "subcategories": ["Konzentrat", "Orange"]
+  },
+  {
+    "store": "billa",
+    "id": "00-723456",
+    "name": "BI HOME WC Tabs 16 Stk",
+    "category": "WC Reiniger",
+    "subcategories": ["Tabs"]
+  },
+  {
+    "store": "billa",
+    "id": "00-506881",
+    "name": "BILLA Schnellentkalker",
+    "category": "Entkalker",
+    "subcategories": []
+  },
+  {
+    "store": "billa",
+    "id": "00-526764",
+    "name": "BILLA Staubfangtücher Nachfüllung",
+    "category": "Staubfangtücher",
+    "subcategories": ["Nachfüllung"]
+  },
+  {
+    "store": "billa",
+    "id": "00-526763",
+    "name": "BILLA Staubwischer-Set",
+    "category": "Staubwischer",
+    "subcategories": []
+  },
+  {
+    "store": "billa",
+    "id": "00-719919",
+    "name": "Bi Home Allzweckreiniger Zitrus",
+    "category": "Reiniger",
+    "subcategories": ["Allzweckreiniger", "Zitrone"]
+  },
+  {
+    "store": "billa",
+    "id": "00-757803",
+    "name": "Blue Star 6x Effekt WC-Kraft-Tabs",
+    "category": "WC Reiniger",
+    "subcategories": ["Tabs"]
+  },
+  {
+    "store": "billa",
+    "id": "00-486490",
+    "name": "Blue Star Blau-Aktiv Blütenfrische",
+    "category": "WC Reiniger",
+    "subcategories": ["Blütenfrische"]
+  },
+  {
+    "store": "billa",
+    "id": "00-877523",
+    "name": "Blue Star Chlor",
+    "category": "WC Reiniger",
+    "subcategories": ["Chlor"]
+  },
+  {
+    "store": "billa",
+    "id": "00-352428",
+    "name": "Blue Star Deluxe Sanfter Jasmin Duo",
+    "category": "WC Reiniger",
+    "subcategories": ["Sanfter Jasmin"]
+  },
+  {
+    "store": "billa",
+    "id": "00-352427",
+    "name": "Blue Star Deluxe Zarte Magnolie Duo",
+    "category": "WC Reiniger",
+    "subcategories": ["Zarte Magnolie"]
+  },
+  {
+    "store": "billa",
+    "id": "00-960674",
+    "name": "Blue Star Duft-Switch Apfelblüte-Wasserlilie",
+    "category": "WC Reiniger",
+    "subcategories": ["Duft-Switch", "Apfelblüte", "Wasserlilie"]
+  },
+  {
+    "store": "billa",
+    "id": "00-304981",
+    "name": "Blue Star Ka Lavendel Duo",
+    "category": "WC Reiniger",
+    "subcategories": ["Lavendel"]
+  },
+  {
+    "store": "billa",
+    "id": "00-944586",
+    "name": "Blue Star Kraft Aktiv Gel Blütenfrische",
+    "category": "WC Reiniger",
+    "subcategories": ["Blütenfrische"]
+  },
+  {
+    "store": "billa",
+    "id": "00-944583",
+    "name": "Blue Star Kraft Aktiv Gel Ocean Fresh",
+    "category": "WC Reiniger",
+    "subcategories": ["Ocean Fresh"]
+  },
+  {
+    "store": "billa",
+    "id": "00-314299",
+    "name": "Blue Star Kraft Aktiv Hawaii Duo",
+    "category": "WC Reiniger",
+    "subcategories": ["Hawaii"]
+  },
+  {
+    "store": "billa",
+    "id": "00-702586",
+    "name": "Blue Star Kraft Aktiv Lemon Duo",
+    "category": "WC Reiniger",
+    "subcategories": ["Zitrone"]
+  },
+  {
+    "store": "billa",
+    "id": "00-702589",
+    "name": "Blue Star Kraft Aktiv Morgenfrische Duo",
+    "category": "WC Reiniger",
+    "subcategories": ["Morgenfrische"]
+  },
+  {
+    "store": "billa",
+    "id": "00-250076",
+    "name": "Blue Star Spülkasten-Würfel",
+    "category": "WC Reiniger",
+    "subcategories": ["Spülkasten"]
+  },
+  {
+    "store": "billa",
+    "id": "00-680399",
+    "name": "Blue Star Türkis Aktiv Ocean",
+    "category": "WC Reiniger",
+    "subcategories": ["Ocean"]
+  },
+  {
+    "store": "billa",
+    "id": "00-877524",
+    "name": "Blue Star Zitrus",
+    "category": "WC Reiniger",
+    "subcategories": ["Zitrone"]
+  },
+  {
+    "store": "billa",
+    "id": "00-4507",
+    "name": "Bref Citrus",
+    "category": "Reiniger",
+    "subcategories": ["Zitrone"]
+  },
+  {
+    "store": "billa",
+    "id": "00-101099",
+    "name": "Brillo Seifenkissen",
+    "category": "Seifenkissen",
+    "subcategories": []
+  },
+  {
+    "store": "billa",
+    "id": "00-850892",
+    "name": "Ceraclen Glaskeramikreiniger",
+    "category": "Reiniger",
+    "subcategories": ["Glaskeramik"]
+  },
+  {
+    "store": "billa",
+    "id": "00-632382",
+    "name": "Cif Bad & Dusche Sprühflasche",
+    "category": "Reiniger",
+    "subcategories": ["Bad", "Dusche"]
+  },
+  {
+    "store": "billa",
+    "id": "00-23097",
+    "name": "Cif Cremereiniger Citrus",
+    "category": "Reiniger",
+    "subcategories": ["Creme", "Zitrone"]
+  },
+  {
+    "store": "billa",
+    "id": "00-103484",
+    "name": "Cif Crème Scheuermilch Classic",
+    "category": "Reiniger",
+    "subcategories": ["Scheuermilch", "Klassisch"]
+  },
+  {
+    "store": "billa",
+    "id": "00-292364",
+    "name": "Cif Power & Shine Bad & Dusche",
+    "category": "Reiniger",
+    "subcategories": ["Bad", "Dusche"]
+  },
+  {
+    "store": "billa",
+    "id": "00-763637",
+    "name": "Cif Power & Shine Glas & Fläche",
+    "category": "Reiniger",
+    "subcategories": ["Glas", "Fläche"]
+  },
+  {
+    "store": "billa",
+    "id": "00-292370",
+    "name": "Cif Power & Shine Küche",
+    "category": "Reiniger",
+    "subcategories": ["Küche"]
+  },
+  {
+    "store": "billa",
+    "id": "00-930850",
+    "name": "Cillit Bang Kraftreiniger Kalk & Schmutz",
+    "category": "Reiniger",
+    "subcategories": ["Kalk", "Schmutz"]
+  },
+  {
+    "store": "billa",
+    "id": "00-930985",
+    "name": "Cillit Bang Kraftreiniger Universal Fettlöser",
+    "category": "Reiniger",
+    "subcategories": ["Universell", "Fettlöser"]
+  },
+  {
+    "store": "billa",
+    "id": "00-885261",
+    "name": "Cillit Bang WC Hygiene",
+    "category": "WC Reiniger",
+    "subcategories": ["Hygiene"]
+  },
+  {
+    "store": "billa",
+    "id": "00-885264",
+    "name": "Cillit Bang WC Kraft",
+    "category": "WC Reiniger",
+    "subcategories": ["Kraft"]
+  },
+  {
+    "store": "billa",
+    "id": "00-876399",
+    "name": "Claro Hygienetabs Alles in 1+",
+    "category": "Spülmaschinentabs",
+    "subcategories": ["Hygienetabs"]
+  },
+  {
+    "store": "billa",
+    "id": "00-265308",
+    "name": "Claro Multi Tabs Alles in 1",
+    "category": "Spülmaschinentabs",
+    "subcategories": []
+  },
+  {
+    "store": "billa",
+    "id": "00-887956",
+    "name": "Claro Öko Classic Tabs",
+    "category": "Spülmaschinentabs",
+    "subcategories": ["Öko"]
+  },
+  {
+    "store": "billa",
+    "id": "00-865271",
+    "name": "Clean & Clear Brillenputztücher",
+    "category": "Brillenputztücher",
+    "subcategories": []
+  },
+  {
+    "store": "billa",
+    "id": "00-498074",
+    "name": "Clever 12 in 1 Geschirr-Reiniger-Tabs",
+    "category": "Spülmaschinentabs",
+    "subcategories": ["Geschirr-Reiniger"]
+  },
+  {
+    "store": "billa",
+    "id": "00-374439",
+    "name": "Clever 2-Phasen Geschirrspültabs",
+    "category": "Spülmaschinentabs",
+    "subcategories": []
+  },
+  {
+    "store": "billa",
+    "id": "00-491955",
+    "name": "Clever Allzwecktücher Citrus",
+    "category": "Allzwecktücher",
+    "subcategories": ["Allzweck", "Zitrone"]
+  },
+  {
+    "store": "billa",
+    "id": "00-491946",
+    "name": "Clever Allzwecktücher Pure Frische",
+    "category": "Allzwecktücher",
+    "subcategories": ["Allzweck", "Frisch"]
+  },
+  {
+    "store": "billa",
+    "id": "00-352489",
+    "name": "Clever Badreiniger",
+    "category": "Reiniger",
+    "subcategories": ["Bad"]
+  },
+  {
+    "store": "billa",
+    "id": "00-862944",
+    "name": "Clever Essigreiniger",
+    "category": "Reiniger",
+    "subcategories": ["Essig"]
+  },
+  {
+    "store": "billa",
+    "id": "00-386752",
+    "name": "Clever Flüssige WC Steine",
+    "category": "WC Reiniger",
+    "subcategories": ["Flüssig", "Steine"]
+  },
+  {
+    "store": "billa",
+    "id": "00-381047",
+    "name": "Clever Glanzspüler",
+    "category": "Glanzspüler",
+    "subcategories": []
+  },
+  {
+    "store": "billa",
+    "id": "00-352487",
+    "name": "Clever Glasreiniger",
+    "category": "Reiniger",
+    "subcategories": ["Glas"]
+  },
+  {
+    "store": "billa",
+    "id": "00-863930",
+    "name": "Clever Haushaltstücher perforiert",
+    "category": "Haushaltstücher",
+    "subcategories": ["perforiert"]
+  },
+  {
+    "store": "billa",
+    "id": "00-462181",
+    "name": "Clever Microfaser Bodenwischbezüge",
+    "category": "Bodenwischbezüge",
+    "subcategories": ["Microfaser"]
+  },
+  {
+    "store": "billa",
+    "id": "00-456554",
+    "name": "Clever Microfasertücher",
+    "category": "Microfasertücher",
+    "subcategories": []
+  },
+  {
+    "store": "billa",
+    "id": "00-464466",
+    "name": "Clever Regeneriersalz",
+    "category": "Regeneriersalz",
+    "subcategories": []
+  },
+  {
+    "store": "billa",
+    "id": "00-863315",
+    "name": "Clever Reibtuch 60x60cm",
+    "category": "Reibtuch",
+    "subcategories": []
+  },
+  {
+    "store": "billa",
+    "id": "00-376755",
+    "name": "Clever Scheuermilch",
+    "category": "Reiniger",
+    "subcategories": ["Scheuermilch"]
+  },
+  {
+    "store": "billa",
+    "id": "00-677672",
+    "name": "Clever Schwammtücher",
+    "category": "Schwammtücher",
+    "subcategories": []
+  },
+  {
+    "store": "billa",
+    "id": "00-399947",
+    "name": "Clever Spülmittel Balsam",
+    "category": "Spülmittel",
+    "subcategories": ["Balsam"]
+  },
+  {
+    "store": "billa",
+    "id": "00-399717",
+    "name": "Clever Spülmittel Granatapfel",
+    "category": "Spülmittel",
+    "subcategories": ["Granatapfel"]
+  },
+  {
+    "store": "billa",
+    "id": "00-399728",
+    "name": "Clever Spülmittel Konzentrat Orangenduft",
+    "category": "Spülmittel",
+    "subcategories": ["Konzentrat", "Orange"]
+  },
+  {
+    "store": "billa",
+    "id": "00-456593",
+    "name": "Clever Staubtücher",
+    "category": "Staubtücher",
+    "subcategories": []
+  }
+]

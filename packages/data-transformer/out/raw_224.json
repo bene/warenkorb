@@ -1,0 +1,702 @@
+[
+  {
+    "store": "spar",
+    "id": "2020002187477",
+    "name": "STABILO Textmarker Boss pastelltürkis",
+    "category": "Schreibwaren",
+    "subcategories": ["Textmarker", "Bürobedarf"]
+  },
+  {
+    "store": "spar",
+    "id": "4065173",
+    "name": "STABILO Textmarker Boss pink",
+    "category": "Schreibwaren",
+    "subcategories": ["Textmarker", "Bürobedarf"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003689253",
+    "name": "STABILO Textmarker Boss seidengrau",
+    "category": "Schreibwaren",
+    "subcategories": ["Textmarker", "Bürobedarf"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003675539",
+    "name": "STABILO Textmarker Green Boss pastell, 4 Farben",
+    "category": "Schreibwaren",
+    "subcategories": ["Textmarker", "Bürobedarf"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004073600",
+    "name": "STABILO Textmarker Mini 5er",
+    "category": "Schreibwaren",
+    "subcategories": ["Textmarker", "Bürobedarf"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002187217",
+    "name": "STABILO Textmarker Mini PASTELlove 6 Farben",
+    "category": "Schreibwaren",
+    "subcategories": ["Textmarker", "Bürobedarf"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003256967",
+    "name": "STABILO Textmarker Mini Sweet Friends 5 Farben",
+    "category": "Schreibwaren",
+    "subcategories": ["Textmarker", "Bürobedarf"]
+  },
+  {
+    "store": "spar",
+    "id": "2905778",
+    "name": "STABILO Textmarker Neon 4 Farben",
+    "category": "Schreibwaren",
+    "subcategories": ["Textmarker", "Bürobedarf"]
+  },
+  {
+    "store": "spar",
+    "id": "1949339",
+    "name": "STABILO Textmarkerset Green Boss 4 Farben",
+    "category": "Schreibwaren",
+    "subcategories": ["Textmarker", "Bürobedarf"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003762611",
+    "name": "STABILO Tintenroller EASYoriginal Holograph Rechtshänder, blau",
+    "category": "Schreibwaren",
+    "subcategories": ["Tintenroller", "Bürobedarf"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003762635",
+    "name": "STABILO Tintenroller EASYoriginal Holograph Rechtshänder, grün",
+    "category": "Schreibwaren",
+    "subcategories": ["Tintenroller", "Bürobedarf"]
+  },
+  {
+    "store": "spar",
+    "id": "2020000410331",
+    "name": "STABILO Tintenroller Easy Original für Rechtshänder, blau",
+    "category": "Schreibwaren",
+    "subcategories": ["Tintenroller", "Bürobedarf"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004073587",
+    "name": "STABILO Tintenroller Easy Original für Rechtshänder, minzgrün",
+    "category": "Schreibwaren",
+    "subcategories": ["Tintenroller", "Bürobedarf"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004073471",
+    "name": "STABILO Tintenroller Easy Original für Rechtshänder, wolkenblau",
+    "category": "Schreibwaren",
+    "subcategories": ["Tintenroller", "Bürobedarf"]
+  },
+  {
+    "store": "spar",
+    "id": "6933876",
+    "name": "STABILO Tintenroller pointVisco blau",
+    "category": "Schreibwaren",
+    "subcategories": ["Tintenroller", "Bürobedarf"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001584932",
+    "name": "STABILO Tintenroller pointVisco grün",
+    "category": "Schreibwaren",
+    "subcategories": ["Tintenroller", "Bürobedarf"]
+  },
+  {
+    "store": "spar",
+    "id": "6933852",
+    "name": "STABILO Tintenroller pointVisco rot",
+    "category": "Schreibwaren",
+    "subcategories": ["Tintenroller", "Bürobedarf"]
+  },
+  {
+    "store": "spar",
+    "id": "6933883",
+    "name": "STABILO Tintenroller pointVisco schwarz",
+    "category": "Schreibwaren",
+    "subcategories": ["Tintenroller", "Bürobedarf"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004051707",
+    "name": "STABILO Woody 3in1, Pastellfarben 6er Pack mit Spitzer",
+    "category": "Schreibwaren",
+    "subcategories": ["Stifte", "Buntstifte"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001100880",
+    "name": "SUKI Kraftgewebe Reparaturband premium silber 50mx48mm",
+    "category": "Heimwerken",
+    "subcategories": ["Reparaturband", "Klebeband"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002476564",
+    "name": "SPAR dunkelblau 24x24cm 50 Stück",
+    "category": "Haushaltswaren",
+    "subcategories": ["Servietten"]
+  },
+  {
+    "store": "spar",
+    "id": "2020000552314",
+    "name": "SPAR enjoy Jauseneier aus Freilandhaltung gekocht, mit Salz",
+    "category": "Lebensmittel",
+    "subcategories": ["Eier", "Snacks"]
+  },
+  {
+    "store": "spar",
+    "id": "2563251",
+    "name": "SPAR enjoy Jogurt-Dressing mit Kürbiskernöl",
+    "category": "Lebensmittel",
+    "subcategories": ["Dressing", "Jogurt"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001636624",
+    "name": "SPAR Wasabi Peanuts",
+    "category": "Lebensmittel",
+    "subcategories": ["Nüsse", "Snacks"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004223418",
+    "name": "SPAR Veggie vegane dunkle Schokolade Himbeer-Quinoa",
+    "category": "Lebensmittel",
+    "subcategories": ["Schokolade", "Vegan"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002398965",
+    "name": "SPAR Rührstäbchen 13 cm 100 Stück",
+    "category": "Haushaltswaren",
+    "subcategories": ["Küchenutensilien", "Kochgeschirr"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002398880",
+    "name": "SPAR Schaschlik Spieße 20 cm 50 Stück",
+    "category": "Haushaltswaren",
+    "subcategories": ["Grillzubehör", "Kochgeschirr"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002398859",
+    "name": "SPAR Schaschlik Spieße 30 cm 35 Stück",
+    "category": "Haushaltswaren",
+    "subcategories": ["Grillzubehör", "Kochgeschirr"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002515324",
+    "name": "SPAR Servietten 24x24cm 50 Stück",
+    "category": "Haushaltswaren",
+    "subcategories": ["Servietten"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002476526",
+    "name": "SPAR Servietten 24x24cm 50 Stück",
+    "category": "Haushaltswaren",
+    "subcategories": ["Servietten"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002515393",
+    "name": "SPAR Servietten 24x24cm 50 Stück",
+    "category": "Haushaltswaren",
+    "subcategories": ["Servietten"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002470364",
+    "name": "SPAR Servietten 33x33cm 30 Stück",
+    "category": "Haushaltswaren",
+    "subcategories": ["Servietten"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002476649",
+    "name": "SPAR Servietten 33x33cm 30 Stück",
+    "category": "Haushaltswaren",
+    "subcategories": ["Servietten"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002476595",
+    "name": "SPAR Servietten 33x33cm 30 Stück",
+    "category": "Haushaltswaren",
+    "subcategories": ["Servietten"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002476748",
+    "name": "SPAR Servietten 33x33cm 30 Stück",
+    "category": "Haushaltswaren",
+    "subcategories": ["Servietten"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002470371",
+    "name": "SPAR Servietten 33x33cm 30 Stück",
+    "category": "Haushaltswaren",
+    "subcategories": ["Servietten"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002476618",
+    "name": "SPAR Servietten 33x33cm 30 Stück",
+    "category": "Haushaltswaren",
+    "subcategories": ["Servietten"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002476670",
+    "name": "SPAR Servietten 33x33cm 30 Stück",
+    "category": "Haushaltswaren",
+    "subcategories": ["Servietten"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002470098",
+    "name": "SPAR Servietten 33x33cm 30 Stück",
+    "category": "Haushaltswaren",
+    "subcategories": ["Servietten"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002476663",
+    "name": "SPAR Servietten 33x33cm 30 Stück",
+    "category": "Haushaltswaren",
+    "subcategories": ["Servietten"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002476809",
+    "name": "SPAR Servietten 33x33cm 30 Stück",
+    "category": "Haushaltswaren",
+    "subcategories": ["Servietten"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002476816",
+    "name": "SPAR Servietten 33x33cm 30 Stück",
+    "category": "Haushaltswaren",
+    "subcategories": ["Servietten"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002476779",
+    "name": "SPAR Servietten 33x33cm 30 Stück",
+    "category": "Haushaltswaren",
+    "subcategories": ["Servietten"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002515577",
+    "name": "SPAR Servietten 40x40 cm 50 Stück",
+    "category": "Haushaltswaren",
+    "subcategories": ["Servietten"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002515669",
+    "name": "SPAR Servietten 40x40cm 50 Stück",
+    "category": "Haushaltswaren",
+    "subcategories": ["Servietten"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002515607",
+    "name": "SPAR Servietten 40x40cm 50 Stück",
+    "category": "Haushaltswaren",
+    "subcategories": ["Servietten"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002515621",
+    "name": "SPAR Servietten 40x40cm 50 Stück",
+    "category": "Haushaltswaren",
+    "subcategories": ["Servietten"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002515737",
+    "name": "SPAR Servietten 40x40cm 50 Stück",
+    "category": "Haushaltswaren",
+    "subcategories": ["Servietten"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002515690",
+    "name": "SPAR Servietten 40x40cm 50 Stück",
+    "category": "Haushaltswaren",
+    "subcategories": ["Servietten"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004629203",
+    "name": "SPAR Spritzbeutel 31 cm 1 Adapter und 4 Tüllen",
+    "category": "Haushaltswaren",
+    "subcategories": ["Küchenutensilien", "Kochgeschirr"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004093660",
+    "name": "SPAR Tortenspitzen 33 cm",
+    "category": "Backzubehör",
+    "subcategories": ["Kuchenzubehör"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004093707",
+    "name": "SPAR Tortenspitzen 36 cm 6",
+    "category": "Backzubehör",
+    "subcategories": ["Kuchenzubehör"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004093714",
+    "name": "SPAR Tortenspitzen 40 x 20 xm 6",
+    "category": "Backzubehör",
+    "subcategories": ["Kuchenzubehör"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002515294",
+    "name": "SPAR creme 24x24cm 50 Stück",
+    "category": "Haushaltswaren",
+    "subcategories": ["Servietten"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002476557",
+    "name": "SPAR hellblau 24x24cm 50 Stück",
+    "category": "Haushaltswaren",
+    "subcategories": ["Servietten"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002476571",
+    "name": "SPAR hellgrau 24x24cm 50 Stück",
+    "category": "Haushaltswaren",
+    "subcategories": ["Servietten"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002476410",
+    "name": "SPAR hellgruen 24x24cm 50 Stück",
+    "category": "Haushaltswaren",
+    "subcategories": ["Servietten"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002515331",
+    "name": "SPAR orange 24x24cm 50 Stück",
+    "category": "Haushaltswaren",
+    "subcategories": ["Servietten"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002515355",
+    "name": "SPAR rosa 24x24cm 50 Stück",
+    "category": "Haushaltswaren",
+    "subcategories": ["Servietten"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002515386",
+    "name": "SPAR rot 24x24cm 50 Stück",
+    "category": "Haushaltswaren",
+    "subcategories": ["Servietten"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002515218",
+    "name": "SPAR weiss 24x24cm 50 Stück",
+    "category": "Haushaltswaren",
+    "subcategories": ["Servietten"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003471810",
+    "name": "Sallys Ausrollstab 50cm",
+    "category": "Backzubehör",
+    "subcategories": []
+  },
+  {
+    "store": "spar",
+    "id": "2020003097652",
+    "name": "Sallys Backblech Premium",
+    "category": "Backzubehör",
+    "subcategories": ["Backblech"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003097638",
+    "name": "Sallys Backrahmen 10 cm",
+    "category": "Backzubehör",
+    "subcategories": ["Backform"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003885877",
+    "name": "Sallys Dosierflasche",
+    "category": "Küchenutensilien",
+    "subcategories": []
+  },
+  {
+    "store": "spar",
+    "id": "2020003885563",
+    "name": "Sallys Eisbehälter Kugeln",
+    "category": "Küchenutensilien",
+    "subcategories": ["Eis"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003885273",
+    "name": "Sallys Eisbehälter Sticks",
+    "category": "Küchenutensilien",
+    "subcategories": ["Eis"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003885396",
+    "name": "Sallys Eisbehälter Würfel",
+    "category": "Küchenutensilien",
+    "subcategories": ["Eis"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003956539",
+    "name": "Sallys Emaille Ofenform 28 cm",
+    "category": "Backzubehör",
+    "subcategories": ["Ofenform"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003506437",
+    "name": "SPAR Schwerlast Müllbeutel offen 110l 10 Stk.",
+    "category": "Haushaltswaren",
+    "subcategories": ["Müllbeutel"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003798603",
+    "name": "SPAR Spar Alufolie 15 m",
+    "category": "Haushaltswaren",
+    "subcategories": ["Alufolie"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003827457",
+    "name": "SPAR ÖKO Frischhaltefolie 20 m",
+    "category": "Haushaltswaren",
+    "subcategories": ["Frischhaltefolie"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003507151",
+    "name": "SPAR Öko Müllbeutel 150l 8 Stk.",
+    "category": "Haushaltswaren",
+    "subcategories": ["Müllbeutel"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003507120",
+    "name": "SPAR Öko Müllbeutel mit Zugband 120l 10 Stk.",
+    "category": "Haushaltswaren",
+    "subcategories": ["Müllbeutel"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003506635",
+    "name": "SPAR Öko Müllbeutel mit Zugband 20l 25 Stk.",
+    "category": "Haushaltswaren",
+    "subcategories": ["Müllbeutel"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003506697",
+    "name": "SPAR Öko Müllbeutel mit Zugband 35l 20 Stk.",
+    "category": "Haushaltswaren",
+    "subcategories": ["Müllbeutel"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003507090",
+    "name": "SPAR Öko Müllbeutel mit Zugband 60l 15 Stk.",
+    "category": "Haushaltswaren",
+    "subcategories": ["Müllbeutel"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002103750",
+    "name": "Sallys Dauerbackfolie",
+    "category": "Backzubehör",
+    "subcategories": []
+  },
+  {
+    "store": "spar",
+    "id": "2020003341618",
+    "name": "Saeco Aquaclean Wasserfiltter",
+    "category": "Küchengeräte",
+    "subcategories": ["Kaffeemaschinenzubehör", "Wasserfilter"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003748172",
+    "name": "Sagrotan Hygiene-Textilerfrischer Frische Wäsche 500ml",
+    "category": "Haushaltswaren",
+    "subcategories": ["Textilerfrischer"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003748196",
+    "name": "Sagrotan Waschmaschinen Hygiene-Reiniger 250ml",
+    "category": "Haushaltswaren",
+    "subcategories": ["Waschmaschinenreiniger"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002105129",
+    "name": "Sallys Backbuch Sallys Classics",
+    "category": "Bücher",
+    "subcategories": ["Kochbuch"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003956607",
+    "name": "Sallys Emaille Ofenform 32 cm",
+    "category": "Backzubehör",
+    "subcategories": ["Ofenform"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003956621",
+    "name": "Sallys Emaille Ofenform 32 cm",
+    "category": "Backzubehör",
+    "subcategories": ["Ofenform"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003956560",
+    "name": "Sallys Emaille Ofenform 32 cm",
+    "category": "Backzubehör",
+    "subcategories": ["Ofenform"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003956553",
+    "name": "Sallys Emaille Schüssel 15 cm mintgrün",
+    "category": "Küchenutensilien",
+    "subcategories": ["Schüssel"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003053559",
+    "name": "Sallys Emaille Schüssel 15 cm petrol 15,5 cm",
+    "category": "Küchenutensilien",
+    "subcategories": ["Schüssel"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003053566",
+    "name": "Sallys Emaille Schüssel 15 cm senfgelb 15,5 cm",
+    "category": "Küchenutensilien",
+    "subcategories": ["Schüssel"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003053634",
+    "name": "Sallys Emaille Schüssel 24 cm anthrazit",
+    "category": "Küchenutensilien",
+    "subcategories": ["Schüssel"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003956546",
+    "name": "Sallys Emaille Schüssel 24 cm mintgrün",
+    "category": "Küchenutensilien",
+    "subcategories": ["Schüssel"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003053658",
+    "name": "Sallys Emaille Schüssel 24 cm senfgelb 23,5 cm",
+    "category": "Küchenutensilien",
+    "subcategories": ["Schüssel"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002517328",
+    "name": "Sallys Gewebematte Silikon 60 cm",
+    "category": "Backzubehör",
+    "subcategories": ["Backmatte"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003472329",
+    "name": "Sallys Gusseisenpfanne eckig",
+    "category": "Küchenutensilien",
+    "subcategories": ["Pfanne"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003472336",
+    "name": "Sallys Gusseisenpfanne rund",
+    "category": "Küchenutensilien",
+    "subcategories": ["Pfanne"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003472213",
+    "name": "Sallys Gusseisentopf Ela petrol",
+    "category": "Küchenutensilien",
+    "subcategories": ["Topf"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003655630",
+    "name": "Sallys Gusseisentopf Murat",
+    "category": "Küchenutensilien",
+    "subcategories": ["Topf"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003472121",
+    "name": "Sallys Gusseisentopf Samira schwarz",
+    "category": "Küchenutensilien",
+    "subcategories": ["Topf"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003085871",
+    "name": "Sallys Keramik Tortenteller Rot Matt 30cm",
+    "category": "Backzubehör",
+    "subcategories": ["Tortenplatte"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002624460",
+    "name": "Sallys Kuchen/Brotmesser",
+    "category": "Küchenutensilien",
+    "subcategories": ["Messer"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003892363",
+    "name": "Sallys Messlöffel-Set",
+    "category": "Küchenutensilien",
+    "subcategories": []
+  }
+]

@@ -1,0 +1,702 @@
+[
+  {
+    "store": "spar",
+    "id": "7842092",
+    "name": "Ursus OE Heft OE.2 A5, liniert, mit Rahmen 20 Blatt",
+    "category": "Heft",
+    "subcategories": ["Notizbuch", "Schreibwaren"]
+  },
+  {
+    "store": "spar",
+    "id": "7818196",
+    "name": "Ursus OE Heft OE.20 A5, glatt, 40 Blatt",
+    "category": "Heft",
+    "subcategories": ["Notizbuch", "Schreibwaren"]
+  },
+  {
+    "store": "spar",
+    "id": "7827334",
+    "name": "Ursus OE Heft OE.22 A5, liniert, mit Rahmen 40 Blatt",
+    "category": "Heft",
+    "subcategories": ["Notizbuch", "Schreibwaren"]
+  },
+  {
+    "store": "spar",
+    "id": "3520611",
+    "name": "Ursus OE Heft OE.23 A5, liniert mit Korrekturrand, 40 Blatt",
+    "category": "Heft",
+    "subcategories": ["Notizbuch", "Schreibwaren"]
+  },
+  {
+    "store": "spar",
+    "id": "7833854",
+    "name": "Ursus OE Heft OE.24 A5 40 Blatt, kariert, mit Rahmen",
+    "category": "Heft",
+    "subcategories": ["Notizbuch", "Schreibwaren"]
+  },
+  {
+    "store": "spar",
+    "id": "3520604",
+    "name": "Ursus OE Heft OE.25 Vokabelheft A5, liniert, 2 Mittelstriche, 40 Blatt",
+    "category": "Heft",
+    "subcategories": ["Notizbuch", "Schreibwaren"]
+  },
+  {
+    "store": "spar",
+    "id": "7831591",
+    "name": "Ursus OE Heft OE.26 Vokabelheft A5, liniert, mit Mittelstrich, 40 Blatt",
+    "category": "Heft",
+    "subcategories": ["Notizbuch", "Schreibwaren"]
+  },
+  {
+    "store": "spar",
+    "id": "7826054",
+    "name": "Ursus OE Heft OE.2b Musikheft 16 Blatt",
+    "category": "Heft",
+    "subcategories": ["Notizbuch", "Schreibwaren", "Musik"]
+  },
+  {
+    "store": "spar",
+    "id": "3520444",
+    "name": "Ursus OE Heft OE.3 A5, kariert, 20 Blatt",
+    "category": "Heft",
+    "subcategories": ["Notizbuch", "Schreibwaren"]
+  },
+  {
+    "store": "spar",
+    "id": "3520765",
+    "name": "Ursus OE Heft OE.30 Quart, glatt, 20 Blatt",
+    "category": "Heft",
+    "subcategories": ["Notizbuch", "Schreibwaren"]
+  },
+  {
+    "store": "spar",
+    "id": "7853104",
+    "name": "Ursus OE Heft OE.32 Quart, liniert, mit Rahmen, 20 Blatt",
+    "category": "Heft",
+    "subcategories": ["Notizbuch", "Schreibwaren"]
+  },
+  {
+    "store": "spar",
+    "id": "7854026",
+    "name": "Ursus OE Heft OE.34 Quart, kariert, mit Rahmen, 20 Blatt",
+    "category": "Heft",
+    "subcategories": ["Notizbuch", "Schreibwaren"]
+  },
+  {
+    "store": "spar",
+    "id": "7853715",
+    "name": "Ursus OE Heft OE.35 Quart, liniert mit Korrekturrand, 20 Blatt",
+    "category": "Heft",
+    "subcategories": ["Notizbuch", "Schreibwaren"]
+  },
+  {
+    "store": "spar",
+    "id": "6504397",
+    "name": "Ursus OE Heft OE.37 Quart, kariert, 20 Blatt",
+    "category": "Heft",
+    "subcategories": ["Notizbuch", "Schreibwaren"]
+  },
+  {
+    "store": "spar",
+    "id": "7854576",
+    "name": "Ursus OE Heft OE.38 Quart, kariert mit Korrekturrand, 20 Blatt",
+    "category": "Heft",
+    "subcategories": ["Notizbuch", "Schreibwaren"]
+  },
+  {
+    "store": "spar",
+    "id": "2397160",
+    "name": "Ursus OE Heft OE.3c Musikheft 8 Blatt",
+    "category": "Heft",
+    "subcategories": ["Notizbuch", "Schreibwaren", "Musik"]
+  },
+  {
+    "store": "spar",
+    "id": "7843846",
+    "name": "Ursus OE Heft OE.4 A5, kariert, mit Rahmen, 20 Blatt",
+    "category": "Heft",
+    "subcategories": ["Notizbuch", "Schreibwaren"]
+  },
+  {
+    "store": "spar",
+    "id": "7835957",
+    "name": "Ursus OE Heft OE.40 A4, glatt, 40 Blatt",
+    "category": "Heft",
+    "subcategories": ["Notizbuch", "Schreibwaren"]
+  },
+  {
+    "store": "spar",
+    "id": "2020000619802",
+    "name": "Ursus OE Heft OE.41 A4, liniert, 40 Blatt",
+    "category": "Heft",
+    "subcategories": ["Notizbuch", "Schreibwaren"]
+  },
+  {
+    "store": "spar",
+    "id": "7837814",
+    "name": "Ursus OE Heft OE.42 A4, liniert, mit Rahmen, 40 Blatt",
+    "category": "Heft",
+    "subcategories": ["Notizbuch", "Schreibwaren"]
+  },
+  {
+    "store": "spar",
+    "id": "7838972",
+    "name": "Ursus OE Heft OE.43 A4, liniert mit Korrekturrand, 40 Blatt",
+    "category": "Heft",
+    "subcategories": ["Notizbuch", "Schreibwaren"]
+  },
+  {
+    "store": "spar",
+    "id": "7839726",
+    "name": "Ursus OE Heft OE.44 A4, kariert, mit Rahmen, 40 Blatt",
+    "category": "Heft",
+    "subcategories": ["Notizbuch", "Schreibwaren"]
+  },
+  {
+    "store": "spar",
+    "id": "6504434",
+    "name": "Ursus OE Heft OE.45 Vokabelheft A4, liniert, mit Mittelstrich, 40 Blatt",
+    "category": "Heft",
+    "subcategories": ["Notizbuch", "Schreibwaren"]
+  },
+  {
+    "store": "spar",
+    "id": "6504441",
+    "name": "Ursus OE Heft OE.46 Vokabelheft A4, liniert, 2 Mittelstriche, 40 Blatt",
+    "category": "Heft",
+    "subcategories": ["Notizbuch", "Schreibwaren"]
+  },
+  {
+    "store": "spar",
+    "id": "7841750",
+    "name": "Ursus OE Heft OE.47 A4, kariert mit Korrekturrand 40 Blatt",
+    "category": "Heft",
+    "subcategories": ["Notizbuch", "Schreibwaren"]
+  },
+  {
+    "store": "spar",
+    "id": "3520703",
+    "name": "Ursus OE Heft OE.48 A4, hochkariert, 40 Blatt",
+    "category": "Heft",
+    "subcategories": ["Notizbuch", "Schreibwaren"]
+  },
+  {
+    "store": "spar",
+    "id": "4046028",
+    "name": "Ursus OE Heft OE.49 A4, kariert, 40 Blatt",
+    "category": "Heft",
+    "subcategories": ["Notizbuch", "Schreibwaren"]
+  },
+  {
+    "store": "spar",
+    "id": "3520420",
+    "name": "Ursus OE Heft OE.5 A5, liniert, 20 Blatt",
+    "category": "Heft",
+    "subcategories": ["Notizbuch", "Schreibwaren"]
+  },
+  {
+    "store": "spar",
+    "id": "3520758",
+    "name": "Ursus OE Heft OE.50 Quart, glatt, 40 Blatt",
+    "category": "Heft",
+    "subcategories": ["Notizbuch", "Schreibwaren"]
+  },
+  {
+    "store": "spar",
+    "id": "7843563",
+    "name": "Ursus OE Heft OE.52 Quart, liniert, mit Rahmen, 40 Blatt",
+    "category": "Heft",
+    "subcategories": ["Notizbuch", "Schreibwaren"]
+  },
+  {
+    "store": "spar",
+    "id": "7844041",
+    "name": "Ursus OE Heft OE.53 Quart, liniert mit Korrekturrand, 40 Blatt",
+    "category": "Heft",
+    "subcategories": ["Notizbuch", "Schreibwaren"]
+  },
+  {
+    "store": "spar",
+    "id": "7849435",
+    "name": "Ursus OE Heft OE.54 Quart, kariert, mit Rahmen, 40 Blatt",
+    "category": "Heft",
+    "subcategories": ["Notizbuch", "Schreibwaren"]
+  },
+  {
+    "store": "spar",
+    "id": "7851964",
+    "name": "Ursus OE Heft OE.55 Quart, kariert mit Korrekturrand, 40 Blatt",
+    "category": "Heft",
+    "subcategories": ["Notizbuch", "Schreibwaren"]
+  },
+  {
+    "store": "spar",
+    "id": "3520475",
+    "name": "Ursus OE Heft OE.6 Vokabelheft A5, liniert, mit Mittelstrich, 20 Blatt",
+    "category": "Heft",
+    "subcategories": ["Notizbuch", "Schreibwaren"]
+  },
+  {
+    "store": "spar",
+    "id": "7818158",
+    "name": "Ursus OE Heft OE.63c Mitteilungsheft A5 12 Blatt",
+    "category": "Heft",
+    "subcategories": ["Notizbuch", "Schreibwaren"]
+  },
+  {
+    "store": "spar",
+    "id": "7857010",
+    "name": "Ursus OE Heft OE.64c Aufgabenheft A5 quer 16 Blatt",
+    "category": "Heft",
+    "subcategories": ["Notizbuch", "Schreibwaren"]
+  },
+  {
+    "store": "spar",
+    "id": "6120382",
+    "name": "Ursus OE Heft OE.65c Terminplaner A5 48 Blatt",
+    "category": "Heft",
+    "subcategories": ["Notizbuch", "Schreibwaren"]
+  },
+  {
+    "store": "spar",
+    "id": "3520437",
+    "name": "Ursus OE Heft OE.7 A5, liniert mit Korrekturrand, 20 Blatt",
+    "category": "Heft",
+    "subcategories": ["Notizbuch", "Schreibwaren"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003327759",
+    "name": "Ursus OE Heftumschlag aus Papier A4",
+    "category": "Heftumschlag",
+    "subcategories": ["Schreibwaren"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003327797",
+    "name": "Ursus OE Heftumschlag aus Papier A4",
+    "category": "Heftumschlag",
+    "subcategories": ["Schreibwaren"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003327667",
+    "name": "Ursus OE Heftumschlag aus Papier A4",
+    "category": "Heftumschlag",
+    "subcategories": ["Schreibwaren"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003327629",
+    "name": "Ursus OE Heftumschlag aus Papier A4",
+    "category": "Heftumschlag",
+    "subcategories": ["Schreibwaren"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003327841",
+    "name": "Ursus OE Heftumschlag aus Papier A4",
+    "category": "Heftumschlag",
+    "subcategories": ["Schreibwaren"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003327926",
+    "name": "Ursus OE Heftumschlag aus Papier A5",
+    "category": "Heftumschlag",
+    "subcategories": ["Schreibwaren"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003327889",
+    "name": "Ursus OE Heftumschlag aus Papier A5",
+    "category": "Heftumschlag",
+    "subcategories": ["Schreibwaren"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003327865",
+    "name": "Ursus OE Heftumschlag aus Papier A5",
+    "category": "Heftumschlag",
+    "subcategories": ["Schreibwaren"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003327964",
+    "name": "Ursus OE Heftumschlag aus Papier A5",
+    "category": "Heftumschlag",
+    "subcategories": ["Schreibwaren"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003327919",
+    "name": "Ursus OE Heftumschlag aus Papier A5",
+    "category": "Heftumschlag",
+    "subcategories": ["Schreibwaren"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003328046",
+    "name": "Ursus OE Heftumschlag aus Papier Quart",
+    "category": "Heftumschlag",
+    "subcategories": ["Schreibwaren"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003328022",
+    "name": "Ursus OE Heftumschlag aus Papier Quart",
+    "category": "Heftumschlag",
+    "subcategories": ["Schreibwaren"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003328053",
+    "name": "Ursus OE Heftumschlag aus Papier Quart",
+    "category": "Heftumschlag",
+    "subcategories": ["Schreibwaren"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003328077",
+    "name": "Ursus OE Heftumschlag aus Papier Quart",
+    "category": "Heftumschlag",
+    "subcategories": ["Schreibwaren"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003327988",
+    "name": "Ursus OE Heftumschlag aus Papier Quart",
+    "category": "Heftumschlag",
+    "subcategories": ["Schreibwaren"]
+  },
+  {
+    "store": "spar",
+    "id": "882446",
+    "name": "Ursus OE Linienblatt A4 liniert/kariert",
+    "category": "Linienblatt",
+    "subcategories": ["Schreibwaren"]
+  },
+  {
+    "store": "spar",
+    "id": "3522806",
+    "name": "Ursus OE Löschblattheft A5 10 Blatt",
+    "category": "Löschblattheft",
+    "subcategories": ["Schreibwaren"]
+  },
+  {
+    "store": "spar",
+    "id": "1740356",
+    "name": "Ursus OE Notizblock A4 glatt, 48 Blatt",
+    "category": "Notizblock",
+    "subcategories": ["Schreibwaren"]
+  },
+  {
+    "store": "spar",
+    "id": "3520376",
+    "name": "Ursus OE Notizblock A6 glatt, 48 Blatt",
+    "category": "Notizblock",
+    "subcategories": ["Schreibwaren"]
+  },
+  {
+    "store": "spar",
+    "id": "7839412",
+    "name": "Ursus OE Notizblock A6 kariert, 48 Blatt",
+    "category": "Notizblock",
+    "subcategories": ["Schreibwaren"]
+  },
+  {
+    "store": "spar",
+    "id": "7838842",
+    "name": "Ursus OE Notizblock A6 liniert, 48 Blatt",
+    "category": "Notizblock",
+    "subcategories": ["Schreibwaren"]
+  },
+  {
+    "store": "spar",
+    "id": "7250354",
+    "name": "Ursus OE Ringbuchblock A4 kariert 5mm 100 Blatt",
+    "category": "Ringbuchblock",
+    "subcategories": ["Schreibwaren"]
+  },
+  {
+    "store": "spar",
+    "id": "7250378",
+    "name": "Ursus OE Ringbuchblock A4 liniert 9mm 100 Blatt",
+    "category": "Ringbuchblock",
+    "subcategories": ["Schreibwaren"]
+  },
+  {
+    "store": "spar",
+    "id": "143134",
+    "name": "Ursus OE Ringbucheinlagen A4 glatt 100 Blatt",
+    "category": "Ringbucheinlagen",
+    "subcategories": ["Schreibwaren"]
+  },
+  {
+    "store": "spar",
+    "id": "6504281",
+    "name": "Ursus OE Ringbucheinlagen A4 kariert 5mm, mit Korrekturrand 100 Blatt",
+    "category": "Ringbucheinlagen",
+    "subcategories": ["Schreibwaren"]
+  },
+  {
+    "store": "spar",
+    "id": "7825767",
+    "name": "Ursus OE Ringbucheinlagen A4 kariert, 5mm, 100 Blatt",
+    "category": "Ringbucheinlagen",
+    "subcategories": ["Schreibwaren"]
+  },
+  {
+    "store": "spar",
+    "id": "5481637",
+    "name": "Ursus OE Ringbucheinlagen A4 liniert 9mm, mit Korrekturrand 100 Blatt",
+    "category": "Ringbucheinlagen",
+    "subcategories": ["Schreibwaren"]
+  },
+  {
+    "store": "spar",
+    "id": "7817878",
+    "name": "Ursus OE Ringbucheinlagen A4 liniert, 9mm, 100 Blatt",
+    "category": "Ringbucheinlagen",
+    "subcategories": ["Schreibwaren"]
+  },
+  {
+    "store": "spar",
+    "id": "805452",
+    "name": "Uttendorf Märzen Märzen",
+    "category": "Bier",
+    "subcategories": ["Getränke"]
+  },
+  {
+    "store": "spar",
+    "id": "322935",
+    "name": "Uttendorf Pils Pils feinherb",
+    "category": "Bier",
+    "subcategories": ["Getränke"]
+  },
+  {
+    "store": "spar",
+    "id": "308014",
+    "name": "Uttendorf Pils Pils feinherb 6 x 0,33l",
+    "category": "Bier",
+    "subcategories": ["Getränke"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003825903",
+    "name": "Valdo Prosecco Marca Oro DOC Rosé",
+    "category": "Prosecco",
+    "subcategories": ["Getränke"]
+  },
+  {
+    "store": "spar",
+    "id": "8018588",
+    "name": "Valdo Prosecco Marca Oro Valdobbiadene DOCG",
+    "category": "Prosecco",
+    "subcategories": ["Getränke"]
+  },
+  {
+    "store": "spar",
+    "id": "7525124",
+    "name": "Valdo Prosecco Spumante DOC",
+    "category": "Prosecco",
+    "subcategories": ["Getränke"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003493058",
+    "name": "Valdo Prosecco Spumante DOC",
+    "category": "Prosecco",
+    "subcategories": ["Getränke"]
+  },
+  {
+    "store": "spar",
+    "id": "6159405",
+    "name": "Veuve Clicquot Champagner Brut Yellow Label",
+    "category": "Champagner",
+    "subcategories": ["Getränke"]
+  },
+  {
+    "store": "spar",
+    "id": "7529450",
+    "name": "Veuve Clicquot Champagner Brut Yellow Label",
+    "category": "Champagner",
+    "subcategories": ["Getränke"]
+  },
+  {
+    "store": "spar",
+    "id": "7524776",
+    "name": "Veuve Clicquot Champagner Rosè",
+    "category": "Champagner",
+    "subcategories": ["Getränke"]
+  },
+  {
+    "store": "spar",
+    "id": "7690877",
+    "name": "Vecchia Romagna 0,7 L",
+    "category": "Spirituosen",
+    "subcategories": ["Getränke"]
+  },
+  {
+    "store": "spar",
+    "id": "7676796",
+    "name": "Verpoorten Eierlikör",
+    "category": "Likör",
+    "subcategories": ["Getränke"]
+  },
+  {
+    "store": "spar",
+    "id": "5215027",
+    "name": "Velmet Honigwein Met",
+    "category": "Met",
+    "subcategories": ["Getränke"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001486205",
+    "name": "Vicchiomaggio San Jacopo Chianti Classico DOCG 2021",
+    "category": "Wein",
+    "subcategories": ["Getränke"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003783692",
+    "name": "Vignerons de l'Enclave Châteauneuf-du-Pape AOP Cru 2021",
+    "category": "Wein",
+    "subcategories": ["Getränke"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003004889",
+    "name": "Vignobles Jean Jean Le Rosé des Aresquiers Pays d'Oc BIO 2022",
+    "category": "Wein",
+    "subcategories": ["Getränke"]
+  },
+  {
+    "store": "spar",
+    "id": "5540570",
+    "name": "VOSS Quellwasser Prickelnd",
+    "category": "Wasser",
+    "subcategories": ["Getränke"]
+  },
+  {
+    "store": "spar",
+    "id": "2020000549772",
+    "name": "Valvo Pecorino Siciliano",
+    "category": "Käse",
+    "subcategories": ["Lebensmittel"]
+  },
+  {
+    "store": "spar",
+    "id": "2020000448143",
+    "name": "Valvo Pecorino Walnuss",
+    "category": "Käse",
+    "subcategories": ["Lebensmittel"]
+  },
+  {
+    "store": "spar",
+    "id": "2020000451525",
+    "name": "Valvo Pecorino mit Oliven",
+    "category": "Käse",
+    "subcategories": ["Lebensmittel"]
+  },
+  {
+    "store": "spar",
+    "id": "2020000445517",
+    "name": "Valvo Pecorino schwarzer Peffer",
+    "category": "Käse",
+    "subcategories": ["Lebensmittel"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004702524",
+    "name": "Valvo Valvo Pecorino Fantasia",
+    "category": "Käse",
+    "subcategories": ["Lebensmittel"]
+  },
+  {
+    "store": "spar",
+    "id": "4293552",
+    "name": "Vici Hummerschwänze aus Surimi",
+    "category": "Fisch",
+    "subcategories": ["Lebensmittel"]
+  },
+  {
+    "store": "spar",
+    "id": "8153524",
+    "name": "Vici MSC Meeres Snacks",
+    "category": "Fisch",
+    "subcategories": ["Lebensmittel"]
+  },
+  {
+    "store": "spar",
+    "id": "7559662",
+    "name": "Vici MSC Meeres Snacks",
+    "category": "Fisch",
+    "subcategories": ["Lebensmittel"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003989841",
+    "name": "Vici MSC Meeres Snacks",
+    "category": "Fisch",
+    "subcategories": ["Lebensmittel"]
+  },
+  {
+    "store": "spar",
+    "id": "1803440",
+    "name": "Vici Makrelenfilet geräuchert Natur",
+    "category": "Fisch",
+    "subcategories": ["Lebensmittel"]
+  },
+  {
+    "store": "spar",
+    "id": "1803426",
+    "name": "Vici Makrelenfilet geräuchert mit Pfeffer",
+    "category": "Fisch",
+    "subcategories": ["Lebensmittel"]
+  },
+  {
+    "store": "spar",
+    "id": "7559709",
+    "name": "Vici Meeres Snacks mit Cocktailsauce",
+    "category": "Fisch",
+    "subcategories": ["Lebensmittel"]
+  },
+  {
+    "store": "spar",
+    "id": "8133175",
+    "name": "Vici Surimi in Jumbo-Garnelenform in Knoblauch-Öl MSC",
+    "category": "Fisch",
+    "subcategories": ["Lebensmittel"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003589935",
+    "name": "Veganz Bio Cashewbert",
+    "category": "Vegan",
+    "subcategories": ["Lebensmittel"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001296217",
+    "name": "Veganz Crispy Nuggets",
+    "category": "Vegan",
+    "subcategories": ["Lebensmittel"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004697806",
+    "name": "Veganz Das vegane Ei 100g",
+    "category": "Vegan",
+    "subcategories": ["Lebensmittel"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003004742",
+    "name": "Veganz Der Genussige Klassik",
+    "category": "Vegan",
+    "subcategories": ["Lebensmittel"]
+  }
+]

@@ -1,0 +1,787 @@
+[
+  {
+    "store": "spar",
+    "id": "2020004128591",
+    "name": "Domäne Wachau Grüner Veltliner Federspiel Ried Kreuzberg Wachau DAC 2022",
+    "category": "Wein",
+    "subcategories": [
+      "Grüner Veltliner",
+      "Federspiel",
+      "Ried",
+      "Kreuzberg",
+      "Wachau",
+      "DAC 2022"
+    ]
+  },
+  {
+    "store": "spar",
+    "id": "2020001055647",
+    "name": "Domäne Wachau Grüner Veltliner Federspiel Ried Pichlpoint Wachau DAC 2022",
+    "category": "Wein",
+    "subcategories": [
+      "Grüner Veltliner",
+      "Federspiel",
+      "Ried",
+      "Pichlpoint",
+      "Wachau",
+      "DAC 2022"
+    ]
+  },
+  {
+    "store": "spar",
+    "id": "2020004128546",
+    "name": "Domäne Wachau Grüner Veltliner Smaragd Ried Axpoint Wachau DAC 2021",
+    "category": "Wein",
+    "subcategories": [
+      "Grüner Veltliner",
+      "Smaragd",
+      "Ried",
+      "Axpoint",
+      "Wachau",
+      "DAC 2021"
+    ]
+  },
+  {
+    "store": "spar",
+    "id": "2020004663702",
+    "name": "Domäne Wachau Neuburger Federspiel Spitzer Graben Wachau DAC 2022",
+    "category": "Wein",
+    "subcategories": [
+      "Neuburger",
+      "Federspiel",
+      "Spitzer Graben",
+      "Wachau",
+      "DAC 2022"
+    ]
+  },
+  {
+    "store": "spar",
+    "id": "8183149",
+    "name": "Domäne Wachau Riesling Federspiel Himmelstiege Wachau DAC 2022",
+    "category": "Wein",
+    "subcategories": [
+      "Riesling",
+      "Federspiel",
+      "Himmelstiege",
+      "Wachau",
+      "DAC 2022"
+    ]
+  },
+  {
+    "store": "spar",
+    "id": "2020004128577",
+    "name": "Domäne Wachau Riesling Federspiel Ried Bruck Wachau DAC 2021",
+    "category": "Wein",
+    "subcategories": [
+      "Riesling",
+      "Federspiel",
+      "Ried",
+      "Bruck",
+      "Wachau",
+      "DAC 2021"
+    ]
+  },
+  {
+    "store": "spar",
+    "id": "2020001055616",
+    "name": "Domäne Wachau Riesling Federspiel Ried Steinriegl Wachau DAC 2022",
+    "category": "Wein",
+    "subcategories": [
+      "Riesling",
+      "Federspiel",
+      "Ried",
+      "Steinriegl",
+      "Wachau",
+      "DAC 2022"
+    ]
+  },
+  {
+    "store": "spar",
+    "id": "6430160",
+    "name": "Domäne Wachau Selection Grüner Veltliner Wachau DAC 2022",
+    "category": "Wein",
+    "subcategories": ["Grüner Veltliner", "Wachau", "DAC 2022"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002596170",
+    "name": "Domäne Wachau Selection Neuburger Wachau DAC 2021",
+    "category": "Wein",
+    "subcategories": ["Neuburger", "Wachau", "DAC 2021"]
+  },
+  {
+    "store": "spar",
+    "id": "3891681",
+    "name": "Domäne Wachau Selection Zweigelt Rosé 2022",
+    "category": "Wein",
+    "subcategories": ["Zweigelt", "Rosé", "2022"]
+  },
+  {
+    "store": "spar",
+    "id": "6798796",
+    "name": "Don Simon Sangria Garcia",
+    "category": "Sangria",
+    "subcategories": []
+  },
+  {
+    "store": "spar",
+    "id": "4060901",
+    "name": "Dreisiebner Muster Gelber Muskateller Klassik 2022",
+    "category": "Wein",
+    "subcategories": ["Gelber Muskateller", "Klassik", "2022"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001848201",
+    "name": "Dreisiebner Muster Rosé 2022",
+    "category": "Wein",
+    "subcategories": ["Rosé", "2022"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003935671",
+    "name": "Dreisiebner Muster Sauvignon Blanc Erste Geige 2022",
+    "category": "Wein",
+    "subcategories": ["Sauvignon Blanc", "Erste Geige", "2022"]
+  },
+  {
+    "store": "spar",
+    "id": "4060895",
+    "name": "Dreisiebner Muster Sauvignon Blanc Klassik 2021",
+    "category": "Wein",
+    "subcategories": ["Sauvignon Blanc", "Klassik", "2021"]
+  },
+  {
+    "store": "spar",
+    "id": "4060918",
+    "name": "Dreisiebner Muster Sämling 88 2022",
+    "category": "Wein",
+    "subcategories": ["Sämling 88", "2022"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004390059",
+    "name": "Dreisiebner Muster Weißburgunder Gentlemen 2022",
+    "category": "Wein",
+    "subcategories": ["Weißburgunder", "Gentlemen", "2022"]
+  },
+  {
+    "store": "spar",
+    "id": "8183774",
+    "name": "Dreisiebner Muster Welschriesling Klassik 2022",
+    "category": "Wein",
+    "subcategories": ["Welschriesling", "Klassik", "2022"]
+  },
+  {
+    "store": "spar",
+    "id": "4079088",
+    "name": "Eichinger Birgit Chardonnay Ried Strasser Gaisberg 2022",
+    "category": "Wein",
+    "subcategories": ["Chardonnay", "Ried", "Strasser Gaisberg", "2022"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001711604",
+    "name": "Eichinger Birgit Grüner Veltliner Strass Kamptal DAC 2022",
+    "category": "Wein",
+    "subcategories": ["Grüner Veltliner", "Strass", "Kamptal DAC 2022"]
+  },
+  {
+    "store": "spar",
+    "id": "4726340",
+    "name": "Eichinger Birgit Grüner Veltliner Strasser Ried Hasel Kamptal DAC 2021",
+    "category": "Wein",
+    "subcategories": [
+      "Grüner Veltliner",
+      "Strasser Ried Hasel",
+      "Kamptal DAC 2021"
+    ]
+  },
+  {
+    "store": "spar",
+    "id": "3052204",
+    "name": "Gallo Family Vineyards Cabernet Sauvignon 2020",
+    "category": "Wein",
+    "subcategories": ["Cabernet Sauvignon", "2020"]
+  },
+  {
+    "store": "spar",
+    "id": "2969534",
+    "name": "Gallo Family Vineyards Chardonnay 2021",
+    "category": "Wein",
+    "subcategories": ["Chardonnay", "2021"]
+  },
+  {
+    "store": "spar",
+    "id": "3051238",
+    "name": "Gallo Family Vineyards Grenache Rosé 2021",
+    "category": "Wein",
+    "subcategories": ["Grenache", "Rosé", "2021"]
+  },
+  {
+    "store": "spar",
+    "id": "3052211",
+    "name": "Gallo Family Vineyards Zinfandel 2020",
+    "category": "Wein",
+    "subcategories": ["Zinfandel", "2020"]
+  },
+  {
+    "store": "spar",
+    "id": "1298123",
+    "name": "Gassier Le Pive Gris BIO IGP 2022",
+    "category": "Wein",
+    "subcategories": ["Le Pive Gris", "BIO", "IGP 2022"]
+  },
+  {
+    "store": "spar",
+    "id": "6876036",
+    "name": "Gassier Sables d`Azur Côtes de Provence AOP 2022",
+    "category": "Wein",
+    "subcategories": ["Sables d'Azur", "Côtes de Provence AOP", "2022"]
+  },
+  {
+    "store": "spar",
+    "id": "6647322",
+    "name": "Gebrüder Nittnaus Beerenauslese Exquisit 2018",
+    "category": "Wein",
+    "subcategories": ["Beerenauslese", "Exquisit", "2018"]
+  },
+  {
+    "store": "spar",
+    "id": "4006602",
+    "name": "Gebrüder Nittnaus Blaufränkisch Exquisit 2020",
+    "category": "Wein",
+    "subcategories": ["Blaufränkisch", "Exquisit", "2020"]
+  },
+  {
+    "store": "spar",
+    "id": "3929599",
+    "name": "Gebrüder Nittnaus Chardonnay Exquisit 2022",
+    "category": "Wein",
+    "subcategories": ["Chardonnay", "Exquisit", "2022"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003049163",
+    "name": "Gebrüder Nittnaus Eiswein Exquisit 2020",
+    "category": "Wein",
+    "subcategories": ["Eiswein", "Exquisit", "2020"]
+  },
+  {
+    "store": "spar",
+    "id": "6647285",
+    "name": "Gebrüder Nittnaus Eiswein Exquisit Rosé 2020",
+    "category": "Wein",
+    "subcategories": ["Eiswein", "Exquisit Rosé", "2020"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001659647",
+    "name": "Gebrüder Nittnaus Gelber Muskateller Exquisit 2022",
+    "category": "Wein",
+    "subcategories": ["Gelber Muskateller", "Exquisit", "2022"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001090006",
+    "name": "Gebrüder Nittnaus Merlot-Blaufränkisch Ried Salzberg 2018",
+    "category": "Wein",
+    "subcategories": ["Merlot-Blaufränkisch", "Ried Salzberg", "2018"]
+  },
+  {
+    "store": "spar",
+    "id": "6005788",
+    "name": "Gebrüder Nittnaus Muskat Ottonel 2022",
+    "category": "Wein",
+    "subcategories": ["Muskat Ottonel", "2022"]
+  },
+  {
+    "store": "spar",
+    "id": "2020000471141",
+    "name": "Gebrüder Nittnaus Rosé Zweigelt 2022",
+    "category": "Wein",
+    "subcategories": ["Rosé", "Zweigelt", "2022"]
+  },
+  {
+    "store": "spar",
+    "id": "5082162",
+    "name": "Gebrüder Nittnaus Sauvignon Blanc Exquisit 2022",
+    "category": "Wein",
+    "subcategories": ["Sauvignon Blanc", "Exquisit", "2022"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002853150",
+    "name": "Gebrüder Nittnaus Spätlese Exquisit 2021",
+    "category": "Wein",
+    "subcategories": ["Spätlese", "Exquisit", "2021"]
+  },
+  {
+    "store": "spar",
+    "id": "6647469",
+    "name": "Gebrüder Nittnaus Trockenbeerenauslese Exquisit 2018",
+    "category": "Wein",
+    "subcategories": ["Trockenbeerenauslese", "Exquisit", "2018"]
+  },
+  {
+    "store": "spar",
+    "id": "4070733",
+    "name": "Gebrüder Nittnaus Zweigelt Exquisit 2021",
+    "category": "Wein",
+    "subcategories": ["Zweigelt", "Exquisit", "2021"]
+  },
+  {
+    "store": "spar",
+    "id": "8183477",
+    "name": "Gebrüder Nittnaus Zweigelt Reserve Neusiedlersee DAC Luckenwald 2020",
+    "category": "Wein",
+    "subcategories": [
+      "Zweigelt",
+      "Reserve",
+      "Neusiedlersee DAC Luckenwald",
+      "2020"
+    ]
+  },
+  {
+    "store": "spar",
+    "id": "6254353",
+    "name": "Gebrüder Nittnaus Zweigelt Sunset 2022",
+    "category": "Wein",
+    "subcategories": ["Zweigelt", "Sunset", "2022"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002514709",
+    "name": "Gerard Bertrand Côte des Roses 2022",
+    "category": "Wein",
+    "subcategories": ["Côte des Roses", "2022"]
+  },
+  {
+    "store": "spar",
+    "id": "8183590",
+    "name": "Gerstacker Glühwein St. Lorenz",
+    "category": "Glühwein",
+    "subcategories": []
+  },
+  {
+    "store": "spar",
+    "id": "8183569",
+    "name": "Gerstacker Nürnberger Christkindles Glühwein",
+    "category": "Glühwein",
+    "subcategories": []
+  },
+  {
+    "store": "spar",
+    "id": "2104232",
+    "name": "Geyerhof Grüner Veltliner Gutsreserve BIO 2015",
+    "category": "Wein",
+    "subcategories": ["Grüner Veltliner", "Gutsreserve", "BIO", "2015"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004747952",
+    "name": "Geyerhof Grüner Veltliner Stockwerk Kremstal DAC BIODYNAMISCH 2022",
+    "category": "Wein",
+    "subcategories": [
+      "Grüner Veltliner",
+      "Stockwerk",
+      "Kremstal DAC BIODYNAMISCH",
+      "2022"
+    ]
+  },
+  {
+    "store": "spar",
+    "id": "1402315",
+    "name": "Geyerhof Grüner Veltliner Wildwux BIODYNAMISCH 2022",
+    "category": "Wein",
+    "subcategories": ["Grüner Veltliner", "Wildwux", "BIODYNAMISCH", "2022"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003407383",
+    "name": "Gracioso Dose Litchi",
+    "category": "Alkoholfreie Getränke",
+    "subcategories": ["Dose Litchi"]
+  },
+  {
+    "store": "spar",
+    "id": "1423716",
+    "name": "Gracioso Hugo",
+    "category": "Alkoholfreie Getränke",
+    "subcategories": ["Hugo"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003407437",
+    "name": "Gracioso Hugo Black",
+    "category": "Alkoholfreie Getränke",
+    "subcategories": ["Hugo Black"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001703708",
+    "name": "Gracioso Hugo Blue",
+    "category": "Alkoholfreie Getränke",
+    "subcategories": ["Hugo Blue"]
+  },
+  {
+    "store": "spar",
+    "id": "2943282",
+    "name": "Gracioso Hugo Limone",
+    "category": "Alkoholfreie Getränke",
+    "subcategories": ["Hugo Limone"]
+  },
+  {
+    "store": "spar",
+    "id": "2376134",
+    "name": "Gracioso Hugo Rosé",
+    "category": "Alkoholfreie Getränke",
+    "subcategories": ["Hugo Rosé"]
+  },
+  {
+    "store": "spar",
+    "id": "1006339",
+    "name": "Gracioso Hugo in der Dose",
+    "category": "Alkoholfreie Getränke",
+    "subcategories": ["Hugo in der Dose"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001060399",
+    "name": "Gracioso Hugo on Ice",
+    "category": "Alkoholfreie Getränke",
+    "subcategories": ["Hugo on Ice"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003733246",
+    "name": "Gracioso Schilerito",
+    "category": "Alkoholfreie Getränke",
+    "subcategories": ["Schilerito"]
+  },
+  {
+    "store": "spar",
+    "id": "8183712",
+    "name": "Grand Sud Merlot Vin de Pays d`OC single 2020",
+    "category": "Wein",
+    "subcategories": ["Merlot", "Vin de Pays d'OC", "single", "2020"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002281021",
+    "name": "Grant Burge Barossa Ink Shiraz 2021",
+    "category": "Wein",
+    "subcategories": ["Barossa Ink Shiraz", "2021"]
+  },
+  {
+    "store": "spar",
+    "id": "3909386",
+    "name": "Grassl Philipp Gelber Muskateller BIO 2022",
+    "category": "Wein",
+    "subcategories": ["Gelber Muskateller", "BIO", "2022"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003856822",
+    "name": "Griesbauerhof Lagrein Riserva Südtirol DOC 2019",
+    "category": "Wein",
+    "subcategories": ["Lagrein Riserva", "Südtirol DOC", "2019"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003085703",
+    "name": "Gross&Gross Jakobi Sauvignon Blanc Südsteiermark DAC 2021",
+    "category": "Wein",
+    "subcategories": ["Jakobi Sauvignon Blanc", "Südsteiermark DAC", "2021"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002644116",
+    "name": "Hagn Blauer Zweigelt 2021",
+    "category": "Wein",
+    "subcategories": ["Blauer Zweigelt", "2021"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003829871",
+    "name": "Hagn Gelber Muskateller 2022",
+    "category": "Wein",
+    "subcategories": ["Gelber Muskateller", "2022"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003829901",
+    "name": "Hagn Grüner Veltliner Antlasbergen 2022",
+    "category": "Wein",
+    "subcategories": ["Grüner Veltliner", "Antlasbergen", "2022"]
+  },
+  {
+    "store": "spar",
+    "id": "2660516",
+    "name": "Hagn Grüner Veltliner Filius 2022",
+    "category": "Wein",
+    "subcategories": ["Grüner Veltliner", "Filius", "2022"]
+  },
+  {
+    "store": "spar",
+    "id": "6348298",
+    "name": "Hagn Grüner Veltliner Weinviertel DAC Klassik 2022",
+    "category": "Wein",
+    "subcategories": ["Grüner Veltliner", "Weinviertel DAC Klassik", "2022"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003537615",
+    "name": "Hajszan Gemischter Satz DAC Nussberg",
+    "category": "Wein",
+    "subcategories": ["Gemischter Satz", "DAC", "Nussberg"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003537684",
+    "name": "Hajszan Grüner Veltliner Grüner Veltliner",
+    "category": "Wein",
+    "subcategories": ["Grüner Veltliner", "Grüner Veltliner"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004466211",
+    "name": "Heinrich Gernot & Heike Cuvée Naturtalent 2019",
+    "category": "Wein",
+    "subcategories": ["Cuvée Naturtalent", "2019"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003103650",
+    "name": "Heinrich Gernot & Heike Cuvêe GoBugsGo BIODYNAMISCH 2017",
+    "category": "Wein",
+    "subcategories": ["Cuvêe GoBugsGo", "BIODYNAMISCH", "2017"]
+  },
+  {
+    "store": "spar",
+    "id": "7401732",
+    "name": "Heinrich Gernot & Heike Guter Blaufränkisch BIODYNAMISCH 2018",
+    "category": "Wein",
+    "subcategories": ["Guter Blaufränkisch", "BIODYNAMISCH", "2018"]
+  },
+  {
+    "store": "spar",
+    "id": "2308999",
+    "name": "Heinrich Gernot & Heike Guter Merlot BIODYNAMISCH 2018",
+    "category": "Wein",
+    "subcategories": ["Guter Merlot", "BIODYNAMISCH", "2018"]
+  },
+  {
+    "store": "spar",
+    "id": "7401206",
+    "name": "Heinrich Gernot & Heike Guter St. Laurent BIO 2018",
+    "category": "Wein",
+    "subcategories": ["Guter St. Laurent", "BIO", "2018"]
+  },
+  {
+    "store": "spar",
+    "id": "7401046",
+    "name": "Heinrich Gernot & Heike Guter Zweigelt BIO 2017",
+    "category": "Wein",
+    "subcategories": ["Guter Zweigelt", "BIO", "2017"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001518487",
+    "name": "Heinrich Gernot & Heike Organic red 2018",
+    "category": "Wein",
+    "subcategories": ["Organic red", "2018"]
+  },
+  {
+    "store": "spar",
+    "id": "4061410",
+    "name": "Hiedler Grüner Veltliner Kamptal DAC 2022",
+    "category": "Wein",
+    "subcategories": ["Grüner Veltliner", "Kamptal DAC", "2022"]
+  },
+  {
+    "store": "spar",
+    "id": "7933769",
+    "name": "Hiedler Grüner Veltliner Kamptal DAC Ried Kittmannsberg 1.ÖTW 2020",
+    "category": "Wein",
+    "subcategories": [
+      "Grüner Veltliner",
+      "Kamptal DAC",
+      "Ried Kittmannsberg",
+      "1.ÖTW",
+      "2020"
+    ]
+  },
+  {
+    "store": "spar",
+    "id": "4712909",
+    "name": "Hiedler Riesling 2021",
+    "category": "Wein",
+    "subcategories": ["Riesling", "2021"]
+  },
+  {
+    "store": "spar",
+    "id": "7933615",
+    "name": "Hiedler Riesling Kamptal DAC Ried Gaisberg 1.ÖTW 2021",
+    "category": "Wein",
+    "subcategories": [
+      "Riesling",
+      "Kamptal DAC",
+      "Ried Gaisberg",
+      "1.ÖTW",
+      "2021"
+    ]
+  },
+  {
+    "store": "spar",
+    "id": "1209341",
+    "name": "Hillinger Der Steppensee Rosé 2022",
+    "category": "Wein",
+    "subcategories": ["Der Steppensee Rosé", "2022"]
+  },
+  {
+    "store": "spar",
+    "id": "1209464",
+    "name": "Hillinger Der Steppensee Rot 2021",
+    "category": "Wein",
+    "subcategories": ["Der Steppensee Rot", "2021"]
+  },
+  {
+    "store": "spar",
+    "id": "1209631",
+    "name": "Hillinger Der Steppensee Weiß 2022",
+    "category": "Wein",
+    "subcategories": ["Der Steppensee Weiß", "2022"]
+  },
+  {
+    "store": "spar",
+    "id": "7812125",
+    "name": "Hillinger Finest Hill 2020",
+    "category": "Wein",
+    "subcategories": ["Finest Hill", "2020"]
+  },
+  {
+    "store": "spar",
+    "id": "7396588",
+    "name": "Hillinger Hill Liter Grüner Veltliner",
+    "category": "Wein",
+    "subcategories": ["Hill Liter Grüner Veltliner"]
+  },
+  {
+    "store": "spar",
+    "id": "7396489",
+    "name": "Hillinger Hill Liter Zweigelt",
+    "category": "Wein",
+    "subcategories": ["Hill Liter Zweigelt"]
+  },
+  {
+    "store": "spar",
+    "id": "7951688",
+    "name": "Hillinger Hill Liter Zweigelt lieblich",
+    "category": "Wein",
+    "subcategories": ["Hill Liter Zweigelt lieblich"]
+  },
+  {
+    "store": "spar",
+    "id": "6576479",
+    "name": "Hillinger Small Hill Red 2021",
+    "category": "Wein",
+    "subcategories": ["Small Hill Red", "2021"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003127755",
+    "name": "Hillinger Small Hill Red Holzkiste 2017",
+    "category": "Wein",
+    "subcategories": ["Small Hill Red Holzkiste", "2017"]
+  },
+  {
+    "store": "spar",
+    "id": "6845421",
+    "name": "Hillinger Small Hill Rosé 2022",
+    "category": "Wein",
+    "subcategories": ["Small Hill Rosé", "2022"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003243455",
+    "name": "Hillinger Small Hill Small Hill Red 2020",
+    "category": "Wein",
+    "subcategories": ["Small Hill Red", "2020"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003243462",
+    "name": "Hillinger Small Hill Small Hill White 2021",
+    "category": "Wein",
+    "subcategories": ["Small Hill White", "2021"]
+  },
+  {
+    "store": "spar",
+    "id": "6586454",
+    "name": "Hillinger Small Hill White 2021",
+    "category": "Wein",
+    "subcategories": ["Small Hill White", "2021"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001660995",
+    "name": "Hirschmugl Muscaris BIO 2021",
+    "category": "Wein",
+    "subcategories": ["Muscaris", "BIO", "2021"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001660964",
+    "name": "Hirschmugl Sauvignon Blanc Südsteiermark DAC BIO 2020",
+    "category": "Wein",
+    "subcategories": ["Sauvignon Blanc", "Südsteiermark DAC", "BIO", "2020"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001053131",
+    "name": "Huber Markus Chardonnay BIO 2021",
+    "category": "Wein",
+    "subcategories": ["Chardonnay", "BIO", "2021"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003731242",
+    "name": "Huber Markus Gelber Muskateller BIO 2021",
+    "category": "Wein",
+    "subcategories": ["Gelber Muskateller", "BIO", "2021"]
+  },
+  {
+    "store": "spar",
+    "id": "4458159",
+    "name": "Huber Markus Grüner Veltliner Traisental DAC Nussdorfer BIO 2021",
+    "category": "Wein",
+    "subcategories": [
+      "Grüner Veltliner",
+      "Traisental DAC",
+      "Nussdorfer",
+      "BIO",
+      "2021"
+    ]
+  },
+  {
+    "store": "spar",
+    "id": "2020001883851",
+    "name": "Huber Markus Grüner Veltliner Traisental DAC Obere Steigen BIO 2022",
+    "category": "Wein",
+    "subcategories": [
+      "Grüner Veltliner",
+      "Traisental DAC",
+      "Obere Steigen",
+      "BIO",
+      "2022"
+    ]
+  },
+  {
+    "store": "spar",
+    "id": "2020003307676",
+    "name": "Huber Markus Grüner Veltliner Vision Organic 2022",
+    "category": "Wein",
+    "subcategories": ["Grüner Veltliner", "Vision", "Organic", "2022"]
+  }
+]

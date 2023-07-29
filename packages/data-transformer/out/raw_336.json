@@ -1,0 +1,702 @@
+[
+  {
+    "store": "spar",
+    "id": "3610442",
+    "name": "Hofbauer Confiserie-Pralinen Für Verwöhnte - Nougat",
+    "category": "Süßwaren",
+    "subcategories": ["Pralinen", "Nougat"]
+  },
+  {
+    "store": "spar",
+    "id": "2020000982289",
+    "name": "Hofbauer Marc de Schlumberger Rosé Edition",
+    "category": "Süßwaren",
+    "subcategories": ["Schokolade"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004091956",
+    "name": "Hofer 7 Tage Für dich transparent",
+    "category": "Hygieneartikel",
+    "subcategories": []
+  },
+  {
+    "store": "spar",
+    "id": "2020004091246",
+    "name": "Hofer 7 Tage Für immer in unserem Herz´n",
+    "category": "Hygieneartikel",
+    "subcategories": []
+  },
+  {
+    "store": "spar",
+    "id": "2020003962943",
+    "name": "Hofer Glasgrablicht 44 Stunden Ahornblatt",
+    "category": "Dekoration",
+    "subcategories": ["Grablicht", "Ahornblatt"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004720986",
+    "name": "Hofer Glaslaterne Rose",
+    "category": "Dekoration",
+    "subcategories": ["Laterne", "Rose"]
+  },
+  {
+    "store": "spar",
+    "id": "7385889",
+    "name": "Gourmet A La Carte Katzenfutter Fleisch & Fisch 4 x 85 g",
+    "category": "Tierbedarf",
+    "subcategories": ["Katzenfutter", "Fleisch", "Fisch"]
+  },
+  {
+    "store": "spar",
+    "id": "7913167",
+    "name": "Gourmet A La Carte Katzenfutter Sorten-Mix Fisch 4x85g",
+    "category": "Tierbedarf",
+    "subcategories": ["Katzenfutter", "Fisch"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003082115",
+    "name": "Gourmet Gold Gold Katzennahrung Ragout Duetto 24x85g",
+    "category": "Tierbedarf",
+    "subcategories": ["Katzenfutter", "Ragout"]
+  },
+  {
+    "store": "spar",
+    "id": "2451534",
+    "name": "Gourmet Gold Katzenfutter Délicatesse 85 g",
+    "category": "Tierbedarf",
+    "subcategories": ["Katzenfutter"]
+  },
+  {
+    "store": "spar",
+    "id": "2429373",
+    "name": "Gourmet Gold Katzenfutter Ente & Truthahn",
+    "category": "Tierbedarf",
+    "subcategories": ["Katzenfutter", "Ente", "Truthahn"]
+  },
+  {
+    "store": "spar",
+    "id": "7386039",
+    "name": "Gourmet Gold Katzenfutter Feine Komposition in Sauce 8 x 85 g",
+    "category": "Tierbedarf",
+    "subcategories": ["Katzenfutter", "Sauce"]
+  },
+  {
+    "store": "spar",
+    "id": "8209566",
+    "name": "Gourmet Gold Katzenfutter Feine Komposition mit Rind un 85 g",
+    "category": "Tierbedarf",
+    "subcategories": ["Katzenfutter", "Rind"]
+  },
+  {
+    "store": "spar",
+    "id": "8209689",
+    "name": "Gourmet Gold Katzenfutter Feine Pastete mit Thunfisch",
+    "category": "Tierbedarf",
+    "subcategories": ["Katzenfutter", "Thunfisch"]
+  },
+  {
+    "store": "spar",
+    "id": "5415120",
+    "name": "Gourmet Gold Katzenfutter Feiner Pasteten Mix 8 x 85 g",
+    "category": "Tierbedarf",
+    "subcategories": ["Katzenfutter", "Pastete"]
+  },
+  {
+    "store": "spar",
+    "id": "8209719",
+    "name": "Gourmet Gold Katzenfutter Huhn & Leber in Sauce 85 g",
+    "category": "Tierbedarf",
+    "subcategories": ["Katzenfutter", "Huhn", "Leber", "Sauce"]
+  },
+  {
+    "store": "spar",
+    "id": "2449937",
+    "name": "Gourmet Gold Katzenfutter Kalb und Gemüse in Sauce",
+    "category": "Tierbedarf",
+    "subcategories": ["Katzenfutter", "Kalb", "Gemüse", "Sauce"]
+  },
+  {
+    "store": "spar",
+    "id": "2449852",
+    "name": "Gourmet Gold Katzenfutter Lachs Huhn 85 g",
+    "category": "Tierbedarf",
+    "subcategories": ["Katzenfutter", "Lachs", "Huhn"]
+  },
+  {
+    "store": "spar",
+    "id": "2449760",
+    "name": "Gourmet Gold Katzenfutter Pastete Forelle 85 g",
+    "category": "Tierbedarf",
+    "subcategories": ["Katzenfutter", "Pastete", "Forelle"]
+  },
+  {
+    "store": "spar",
+    "id": "2430973",
+    "name": "Gourmet Gold Katzenfutter Pastete Truthahn 85 g",
+    "category": "Tierbedarf",
+    "subcategories": ["Katzenfutter", "Pastete", "Truthahn"]
+  },
+  {
+    "store": "spar",
+    "id": "2449500",
+    "name": "Gourmet Gold Katzenfutter Pastete mit Huhn 85 g",
+    "category": "Tierbedarf",
+    "subcategories": ["Katzenfutter", "Pastete", "Huhn"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003783388",
+    "name": "Gourmet Gold Katzenfutter Ragout Duet Fisch",
+    "category": "Tierbedarf",
+    "subcategories": ["Katzenfutter", "Ragout", "Fisch"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003783296",
+    "name": "Gourmet Gold Katzenfutter Ragout Duetto",
+    "category": "Tierbedarf",
+    "subcategories": ["Katzenfutter", "Ragout"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001014712",
+    "name": "Gourmet Gold Katzenfutter Ragout Fleisch 8x85g",
+    "category": "Tierbedarf",
+    "subcategories": ["Katzenfutter", "Ragout", "Fleisch"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003756504",
+    "name": "Gourmet Gold Katzenfutter Ragout Thunfisch",
+    "category": "Tierbedarf",
+    "subcategories": ["Katzenfutter", "Ragout", "Thunfisch"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001014699",
+    "name": "Gourmet Gold Katzenfutter Ragout mit Huhn",
+    "category": "Tierbedarf",
+    "subcategories": ["Katzenfutter", "Ragout", "Huhn"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001014705",
+    "name": "Gourmet Gold Katzenfutter Ragout mit Rind",
+    "category": "Tierbedarf",
+    "subcategories": ["Katzenfutter", "Ragout", "Rind"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003349102",
+    "name": "Gourmet Gold Katzenfutter Schmelzender Kern mit Huhn 85g",
+    "category": "Tierbedarf",
+    "subcategories": ["Katzenfutter", "Schmelzender Kern", "Huhn"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003349119",
+    "name": "Gourmet Gold Katzenfutter Schmelzender Kern mit Lachs 85g",
+    "category": "Tierbedarf",
+    "subcategories": ["Katzenfutter", "Schmelzender Kern", "Lachs"]
+  },
+  {
+    "store": "spar",
+    "id": "5415144",
+    "name": "Gourmet Gold Katzenfutter in Sauce, Mix 8 x 85 g",
+    "category": "Tierbedarf",
+    "subcategories": ["Katzenfutter", "Sauce"]
+  },
+  {
+    "store": "spar",
+    "id": "2449845",
+    "name": "Gourmet Gold Katzennahrung Lachs Karotte 85 g",
+    "category": "Tierbedarf",
+    "subcategories": ["Katzenfutter", "Lachs", "Karotte"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004609588",
+    "name": "Gourmet Gold Saftig feine Streifen Huhn",
+    "category": "Tierbedarf",
+    "subcategories": ["Katzenfutter", "Streifen", "Huhn"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004609816",
+    "name": "Gourmet Gold Saftig feine Streifen Huhn 8x85g",
+    "category": "Tierbedarf",
+    "subcategories": ["Katzenfutter", "Streifen", "Huhn"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004609717",
+    "name": "Gourmet Gold Saftig feine Streifen Lachs",
+    "category": "Tierbedarf",
+    "subcategories": ["Katzenfutter", "Streifen", "Lachs"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004178909",
+    "name": "Gourmet Katzenfutter Gelee Huhn Truthan 4x85g",
+    "category": "Tierbedarf",
+    "subcategories": ["Katzenfutter", "Gelee", "Huhn", "Truthahn"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003783449",
+    "name": "Gourmet Katzenfutter Gelee Thunfisch",
+    "category": "Tierbedarf",
+    "subcategories": ["Katzenfutter", "Gelee", "Thunfisch"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003935091",
+    "name": "Gourmet Katzenfutter Mousse mit Rind",
+    "category": "Tierbedarf",
+    "subcategories": ["Katzenfutter", "Mousse", "Rind"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003783456",
+    "name": "Gourmet Katzenfutter in Gelee Truthahn",
+    "category": "Tierbedarf",
+    "subcategories": ["Katzenfutter", "Gelee", "Truthahn"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003783395",
+    "name": "Gourmet Katzenfutter in Gelee, Huhn",
+    "category": "Tierbedarf",
+    "subcategories": ["Katzenfutter", "Gelee", "Huhn"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003934407",
+    "name": "Gourmet Katzennahrung Mousse mit Huhn 2x57g",
+    "category": "Tierbedarf",
+    "subcategories": ["Katzenfutter", "Mousse", "Huhn"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001052707",
+    "name": "Gourmet Mon Petit Katzenfutter Duetti Intense 6x50g",
+    "category": "Tierbedarf",
+    "subcategories": ["Katzenfutter", "Duetti", "Intense"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001052011",
+    "name": "Gourmet Mon Petit Katzenfutter Duetti Intense 6x50g",
+    "category": "Tierbedarf",
+    "subcategories": ["Katzenfutter", "Duetti", "Intense"]
+  },
+  {
+    "store": "spar",
+    "id": "3122020",
+    "name": "Gourmet Mon Petit Katzenfutter Fisch 6x 50 g",
+    "category": "Tierbedarf",
+    "subcategories": ["Katzenfutter", "Fisch"]
+  },
+  {
+    "store": "spar",
+    "id": "3122242",
+    "name": "Gourmet Mon Petit Katzenfutter Fleisch 6x 50 g",
+    "category": "Tierbedarf",
+    "subcategories": ["Katzenfutter", "Fleisch"]
+  },
+  {
+    "store": "spar",
+    "id": "3121047",
+    "name": "Gourmet Mon Petit Katzenfutter Intense Geflügel 6x50g",
+    "category": "Tierbedarf",
+    "subcategories": ["Katzenfutter", "Geflügel", "Intense"]
+  },
+  {
+    "store": "spar",
+    "id": "2020000411499",
+    "name": "Gourmet Perle Katzenfutter Duetto Sorten-Mix 4 x 85 g",
+    "category": "Tierbedarf",
+    "subcategories": ["Katzenfutter", "Sorten-Mix"]
+  },
+  {
+    "store": "spar",
+    "id": "6260279",
+    "name": "Gourmet Perle Katzenfutter Erlesene Streifen Mix 4x85g",
+    "category": "Tierbedarf",
+    "subcategories": ["Katzenfutter", "Erlesene Streifen", "Mix"]
+  },
+  {
+    "store": "spar",
+    "id": "7383564",
+    "name": "Gourmet Perle Katzenfutter Erlesene Streifen Mix 4x85g",
+    "category": "Tierbedarf",
+    "subcategories": ["Katzenfutter", "Erlesene Streifen", "Mix"]
+  },
+  {
+    "store": "spar",
+    "id": "6260293",
+    "name": "Gourmet Perle Katzenfutter Genuss des Meeres 4x85g",
+    "category": "Tierbedarf",
+    "subcategories": ["Katzenfutter", "Genuss des Meeres"]
+  },
+  {
+    "store": "spar",
+    "id": "7888014",
+    "name": "Gourmet Perle Katzenfutter Streifen exotics 8x85g",
+    "category": "Tierbedarf",
+    "subcategories": ["Katzenfutter", "Exotische Streifen"]
+  },
+  {
+    "store": "spar",
+    "id": "7888007",
+    "name": "Gourmet Perle Katzennahrung Erlesene Streifen Classic 8x85g",
+    "category": "Tierbedarf",
+    "subcategories": ["Katzenfutter", "Erlesene Streifen"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004625175",
+    "name": "Gourmet Perle Katzennahrung Erlesene Streifen in Sauce 24x85g",
+    "category": "Tierbedarf",
+    "subcategories": ["Katzenfutter", "Erlesene Streifen", "Sauce"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003153976",
+    "name": "Gourmet Perle Katzennahrung Genuss des Meeres 12x85g",
+    "category": "Tierbedarf",
+    "subcategories": ["Katzenfutter", "Genuss des Meeres"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002375911",
+    "name": "Gourmet Perle Katzennahrung Genuss in Sauce Fleisch&Fisch 8x85g Packung",
+    "category": "Tierbedarf",
+    "subcategories": ["Katzenfutter", "Genuss in Sauce", "Fleisch", "Fisch"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002375942",
+    "name": "Gourmet Perle Katzennahrung Genuss in Sauce Rind 85g",
+    "category": "Tierbedarf",
+    "subcategories": ["Katzenfutter", "Genuss in Sauce", "Rind"]
+  },
+  {
+    "store": "spar",
+    "id": "3714003",
+    "name": "Grappa Poggi del Sole",
+    "category": "Spirituosen",
+    "subcategories": ["Grappa"]
+  },
+  {
+    "store": "spar",
+    "id": "2165110",
+    "name": "Gröbi Limonade Pink Grapefruit zuckerfrei",
+    "category": "Getränke",
+    "subcategories": ["Limonade", "Pink Grapefruit", "zuckerfrei"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004128799",
+    "name": "Gröbi Limonade Pink Grapefruit zuckerfrei",
+    "category": "Getränke",
+    "subcategories": ["Limonade", "Pink Grapefruit", "zuckerfrei"]
+  },
+  {
+    "store": "spar",
+    "id": "6780340",
+    "name": "Gröbi Limonade Tropische Früchte zuckerfrei",
+    "category": "Getränke",
+    "subcategories": ["Limonade", "Tropische Früchte", "zuckerfrei"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004603432",
+    "name": "Gröbi Limonade Trübe Zitrone",
+    "category": "Getränke",
+    "subcategories": ["Limonade", "Trübe Zitrone"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004128751",
+    "name": "Gröbi Limonade Trübe Zitrone zuckerfrei",
+    "category": "Getränke",
+    "subcategories": ["Limonade", "Trübe Zitrone", "zuckerfrei"]
+  },
+  {
+    "store": "spar",
+    "id": "3763926",
+    "name": "Gröbi Limonade Waldbeer zuckerfrei",
+    "category": "Getränke",
+    "subcategories": ["Limonade", "Waldbeer", "zuckerfrei"]
+  },
+  {
+    "store": "spar",
+    "id": "2690810",
+    "name": "Gröbi Limonade Zitrone zuckerfrei",
+    "category": "Getränke",
+    "subcategories": ["Limonade", "Zitrone", "zuckerfrei"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004574251",
+    "name": "Gröbi Limonade Zuckerfrei",
+    "category": "Getränke",
+    "subcategories": ["Limonade", "zuckerfrei"]
+  },
+  {
+    "store": "spar",
+    "id": "2886671",
+    "name": "Gröbi Orangen Limonade zuckerfrei",
+    "category": "Getränke",
+    "subcategories": ["Limonade", "Orangen", "zuckerfrei"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002111762",
+    "name": "Grüne Oliven mit Mandel 1 KG",
+    "category": "Lebensmittel",
+    "subcategories": ["Oliven", "Mandel"]
+  },
+  {
+    "store": "spar",
+    "id": "7989834",
+    "name": "Guglhof Williamsbrand",
+    "category": "Spirituosen",
+    "subcategories": ["Williamsbrand"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004140821",
+    "name": "Guschlbauer Kokoskuppeln Kokoskuppeln 6er 6 Stk",
+    "category": "Backwaren",
+    "subcategories": ["Kokoskuppeln"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004140869",
+    "name": "Guschlbauer Linzerkipferl Linzerkipferl 4er 4 Stk",
+    "category": "Backwaren",
+    "subcategories": ["Linzerkipferl"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004140890",
+    "name": "Guschlbauer Linzerschnitte Linzerschnitte 3er 3 Stk",
+    "category": "Backwaren",
+    "subcategories": ["Linzerschnitte"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004140838",
+    "name": "Guschlbauer Linzerstangerl Linzerstangerl 4er 4 Stk",
+    "category": "Backwaren",
+    "subcategories": ["Linzerstangerl"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004140791",
+    "name": "Guschlbauer Punschwürfel Punschwürfel 6er",
+    "category": "Backwaren",
+    "subcategories": ["Punschwürfel"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004140920",
+    "name": "Guschlbauer Schaumrollen getunkt Schaumrollen getunkt 3er 3 Stk",
+    "category": "Backwaren",
+    "subcategories": ["Schaumrollen"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004140746",
+    "name": "Guschlbauer Schaumrollen gezuckert Schaumrollen gezuckert 3er 3 Stk",
+    "category": "Backwaren",
+    "subcategories": ["Schaumrollen"]
+  },
+  {
+    "store": "spar",
+    "id": "2020000887577",
+    "name": "Guschlbauer Schaumspitz 5 Stück",
+    "category": "Backwaren",
+    "subcategories": ["Schaumspitz"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003769665",
+    "name": "Gusswerk Bio-GuLi Cola-Geschmack",
+    "category": "Getränke",
+    "subcategories": ["Bio, Limonade", "Cola"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003769511",
+    "name": "Gusswerk Bio-GuLi Orangen-Mango Limo",
+    "category": "Getränke",
+    "subcategories": ["Bio", "Limonade", "Orangen", "Mango"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003769696",
+    "name": "Gusswerk Bio-GuLi Spezi",
+    "category": "Getränke",
+    "subcategories": ["Bio", "Limonade", "Spezi"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003769641",
+    "name": "Gusswerk Bio-GuLi Zitronen-Limetten Limo",
+    "category": "Getränke",
+    "subcategories": ["Bio", "Limonade"]
+  },
+  {
+    "store": "spar",
+    "id": "3711941",
+    "name": "Guinness Extra Stout 4 x 0,33l",
+    "category": "Getränke",
+    "subcategories": ["Guinness", "Stout"]
+  },
+  {
+    "store": "spar",
+    "id": "671569",
+    "name": "Guinness Extra Stout 4 x 0,33l",
+    "category": "Getränke",
+    "subcategories": ["Guinness", "Stout"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001022403",
+    "name": "Gusswerk Austrian Amber Ale",
+    "category": "Getränke",
+    "subcategories": ["Bier", "Amber Ale"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003345951",
+    "name": "Gusswerk Bio Edelguss",
+    "category": "Getränke",
+    "subcategories": ["Bio", "Bier", "Edelguss"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001664016",
+    "name": "Gusswerk Bio Nicobar",
+    "category": "Getränke",
+    "subcategories": ["Bier", "Nicobar"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003720734",
+    "name": "Gusswerk Bio Steinbier",
+    "category": "Getränke",
+    "subcategories": ["Bier", "Steinbier"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001663842",
+    "name": "Gusswerk Bio Steinbier",
+    "category": "Getränke",
+    "subcategories": ["Bier", "Steinbier"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003598463",
+    "name": "Gusswerk Bio Weizenbock",
+    "category": "Getränke",
+    "subcategories": ["Bier", "Weizenbock"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003174964",
+    "name": "Gusswerk Bio Winter-Steinbier 0,75lt.",
+    "category": "Getränke",
+    "subcategories": ["Bier", "Winter-Steinbier"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003476372",
+    "name": "Gusswerk Bio-Edelguss",
+    "category": "Getränke",
+    "subcategories": ["Bio", "Bier", "Edelguss"]
+  },
+  {
+    "store": "spar",
+    "id": "2020000594956",
+    "name": "Gusswerk Bio-Glutenfrei-Bier",
+    "category": "Getränke",
+    "subcategories": ["Bier", "glutenfrei"]
+  },
+  {
+    "store": "spar",
+    "id": "1105483",
+    "name": "Gusswerk Edelguss 4 x 0,33l",
+    "category": "Getränke",
+    "subcategories": ["Edelguss"]
+  },
+  {
+    "store": "spar",
+    "id": "7936821",
+    "name": "Gusswerk Weizenguss 4 x 0,33l",
+    "category": "Getränke",
+    "subcategories": ["Weizenguss"]
+  },
+  {
+    "store": "spar",
+    "id": "8183323",
+    "name": "Gurktaler Alpenkräuter Der Milde",
+    "category": "Spirituosen",
+    "subcategories": ["Kräuterlikör"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004207821",
+    "name": "Gurktaler Aperitif",
+    "category": "Spirituosen",
+    "subcategories": ["Aperitif"]
+  },
+  {
+    "store": "spar",
+    "id": "5727001",
+    "name": "Gusteria Erdäpflkas",
+    "category": "Lebensmittel",
+    "subcategories": ["Erdäpfelkäse"]
+  },
+  {
+    "store": "spar",
+    "id": "7362507",
+    "name": "Gusteria Natur",
+    "category": "Lebensmittel",
+    "subcategories": ["Gemüse", "Natur"]
+  },
+  {
+    "store": "spar",
+    "id": "1175158",
+    "name": "Guma Pâtisserie Creme",
+    "category": "Backwaren",
+    "subcategories": ["Pâtisserie", "Creme"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002934606",
+    "name": "Gurkenprinz Bio-Gewürzgurken",
+    "category": "Lebensmittel",
+    "subcategories": ["Gurken", "Gewürzgurken"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004126641",
+    "name": "Gurkenprinz Bio-Pfefferoni scharf",
+    "category": "Lebensmittel",
+    "subcategories": ["Pfefferoni", "scharf"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003236327",
+    "name": "Gurkenprinz Bio-Rote Rüben Salat",
+    "category": "Lebensmittel",
+    "subcategories": ["Rote Rüben", "Salat"]
+  }
+]

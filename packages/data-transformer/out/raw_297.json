@@ -1,0 +1,702 @@
+[
+  {
+    "store": "spar",
+    "id": "2020003594410",
+    "name": "Inzersdorfer Pure Beef Sugo Parmesan",
+    "category": "Lebensmittel",
+    "subcategories": ["Sugo", "Parmesan"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004297662",
+    "name": "Inzersdorfer Pure Green Veganes Sugo Bolognese",
+    "category": "Lebensmittel",
+    "subcategories": ["Sugo", "Bolognese"]
+  },
+  {
+    "store": "spar",
+    "id": "7626289",
+    "name": "Ildefonso Nougat Würfel 15 Stück",
+    "category": "Süßigkeiten",
+    "subcategories": ["Nougat", "Würfel"]
+  },
+  {
+    "store": "spar",
+    "id": "402224",
+    "name": "Ildefonso Nougat-Würfel 9 Stück",
+    "category": "Süßigkeiten",
+    "subcategories": ["Nougat", "Würfel"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003148958",
+    "name": "Ipuro Classic Line Dufträume Cuir 75ml",
+    "category": "Haushalt",
+    "subcategories": ["Duft", "Cuir"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003149894",
+    "name": "Ipuro Classic Line Dufträume Purete 75ml",
+    "category": "Haushalt",
+    "subcategories": ["Duft", "Purete"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003148620",
+    "name": "Ipuro Classic Line Raumduft Balance 240ml",
+    "category": "Haushalt",
+    "subcategories": ["Raumduft", "Balance"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003148927",
+    "name": "Ipuro Classic Line Raumduft Balance 75ml",
+    "category": "Haushalt",
+    "subcategories": ["Raumduft", "Balance"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003148743",
+    "name": "Ipuro Classic Line Raumduft Bergamote 240ml",
+    "category": "Haushalt",
+    "subcategories": ["Raumduft", "Bergamote"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003148934",
+    "name": "Ipuro Classic Line Raumduft Bergamote 75ml",
+    "category": "Haushalt",
+    "subcategories": ["Raumduft", "Bergamote"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003148774",
+    "name": "Ipuro Classic Line Raumduft Cachemire 240ml",
+    "category": "Haushalt",
+    "subcategories": ["Raumduft", "Cachemire"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003148941",
+    "name": "Ipuro Classic Line Raumduft Cachemire 75ml",
+    "category": "Haushalt",
+    "subcategories": ["Raumduft", "Cachemire"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003148781",
+    "name": "Ipuro Classic Line Raumduft Cuir 240ml",
+    "category": "Haushalt",
+    "subcategories": ["Raumduft", "Cuir"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003148828",
+    "name": "Ipuro Classic Line Raumduft Jardin 240ml",
+    "category": "Haushalt",
+    "subcategories": ["Raumduft", "Jardin"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003149924",
+    "name": "Ipuro Classic Line Raumduft Jardin 75ml",
+    "category": "Haushalt",
+    "subcategories": ["Raumduft", "Jardin"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003148798",
+    "name": "Ipuro Classic Line Raumduft Noir 240ml",
+    "category": "Haushalt",
+    "subcategories": ["Raumduft", "Noir"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003148965",
+    "name": "Ipuro Classic Line Raumduft Noir 75ml",
+    "category": "Haushalt",
+    "subcategories": ["Raumduft", "Noir"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003148811",
+    "name": "Ipuro Classic Line Raumduft Orchidee 240ml",
+    "category": "Haushalt",
+    "subcategories": ["Raumduft", "Orchidee"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003149900",
+    "name": "Ipuro Classic Line Raumduft Orchidee 75ml",
+    "category": "Haushalt",
+    "subcategories": ["Raumduft", "Orchidee"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003148804",
+    "name": "Ipuro Classic Line Raumduft Purete 240ml",
+    "category": "Haushalt",
+    "subcategories": ["Raumduft", "Purete"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002965617",
+    "name": "Ipuro Exclusive Raumduft Cuir Noble 240ml",
+    "category": "Haushalt",
+    "subcategories": ["Raumduft", "Cuir"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002965594",
+    "name": "Ipuro Exclusive Raumduft Santal Blanc 240ml",
+    "category": "Haushalt",
+    "subcategories": ["Raumduft", "Santal Blanc"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002965600",
+    "name": "Ipuro Exclusive Raumduft The Epice 240ml",
+    "category": "Haushalt",
+    "subcategories": ["Raumduft", "The Epice"]
+  },
+  {
+    "store": "spar",
+    "id": "6453817",
+    "name": "Jomo Bananenschnitte",
+    "category": "Backwaren",
+    "subcategories": ["Bananenschnitte"]
+  },
+  {
+    "store": "spar",
+    "id": "3108741",
+    "name": "Jomo Bauern Guglhupf",
+    "category": "Backwaren",
+    "subcategories": ["Bauern Guglhupf"]
+  },
+  {
+    "store": "spar",
+    "id": "6453787",
+    "name": "Jomo Chocoguglhupf",
+    "category": "Backwaren",
+    "subcategories": ["Chocoguglhupf"]
+  },
+  {
+    "store": "spar",
+    "id": "1419221",
+    "name": "Jomo Erdbeer-Roulade",
+    "category": "Backwaren",
+    "subcategories": ["Erdbeer-Roulade"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003331459",
+    "name": "Jomo Guglhupf Schoko-Rahm",
+    "category": "Backwaren",
+    "subcategories": ["Guglhupf", "Schoko-Rahm"]
+  },
+  {
+    "store": "spar",
+    "id": "1419245",
+    "name": "Jomo Haselnuss-Roulade",
+    "category": "Backwaren",
+    "subcategories": ["Haselnuss-Roulade"]
+  },
+  {
+    "store": "spar",
+    "id": "1419214",
+    "name": "Jomo Kakao-Roulade",
+    "category": "Backwaren",
+    "subcategories": ["Kakao-Roulade"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004361974",
+    "name": "Jomo Kuchen Dinkel-Nuss",
+    "category": "Backwaren",
+    "subcategories": ["Kuchen", "Dinkel-Nuss"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004196941",
+    "name": "Jomo Kuchen Topfen-Zitrone",
+    "category": "Backwaren",
+    "subcategories": ["Kuchen", "Topfen-Zitrone"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004579553",
+    "name": "Jomo Marmorguglhupf",
+    "category": "Backwaren",
+    "subcategories": ["Marmorguglhupf"]
+  },
+  {
+    "store": "spar",
+    "id": "7678462",
+    "name": "Jomo Marmorkuchen",
+    "category": "Backwaren",
+    "subcategories": ["Marmorkuchen"]
+  },
+  {
+    "store": "spar",
+    "id": "3389362",
+    "name": "Jomo Punschschnitte",
+    "category": "Backwaren",
+    "subcategories": ["Punschschnitte"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004196958",
+    "name": "Jomo Sommerroulade Erdbeer",
+    "category": "Backwaren",
+    "subcategories": ["Sommerroulade", "Erdbeer"]
+  },
+  {
+    "store": "spar",
+    "id": "4723523",
+    "name": "Jomo Stracciatellakuchen",
+    "category": "Backwaren",
+    "subcategories": ["Stracciatellakuchen"]
+  },
+  {
+    "store": "spar",
+    "id": "3649558",
+    "name": "Jomo Topfen-Guglhupf",
+    "category": "Backwaren",
+    "subcategories": ["Topfen-Guglhupf"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004017215",
+    "name": "Jomo Winterroulade",
+    "category": "Backwaren",
+    "subcategories": ["Winterroulade"]
+  },
+  {
+    "store": "spar",
+    "id": "4486206",
+    "name": "Jomo Zitronen-Guglhupf",
+    "category": "Backwaren",
+    "subcategories": ["Zitronen-Guglhupf"]
+  },
+  {
+    "store": "spar",
+    "id": "7256509",
+    "name": "Isostar Carnipure Fitness L-Carnitine Red Fruit Flavour",
+    "category": "Getränke",
+    "subcategories": ["Carnipure", "L-Carnitine", "Red Fruit Flavour"]
+  },
+  {
+    "store": "spar",
+    "id": "6404130",
+    "name": "Isostar Fast Hydration Powertabs Lemon Flavour",
+    "category": "Getränke",
+    "subcategories": ["Fast Hydration Powertabs", "Lemon Flavour"]
+  },
+  {
+    "store": "spar",
+    "id": "6404024",
+    "name": "Isostar Fast Hydration Powertabs Orange Flavour",
+    "category": "Getränke",
+    "subcategories": ["Fast Hydration Powertabs", "Orange Flavour"]
+  },
+  {
+    "store": "spar",
+    "id": "3606872",
+    "name": "Isostar Fast Hydration Sport Drink Lemon Flavour",
+    "category": "Getränke",
+    "subcategories": ["Fast Hydration Sport Drink", "Lemon Flavour"]
+  },
+  {
+    "store": "spar",
+    "id": "3606889",
+    "name": "Isostar Fast Hydration Sport Drink Orange Flavour",
+    "category": "Getränke",
+    "subcategories": ["Fast Hydration Sport Drink", "Orange Flavour"]
+  },
+  {
+    "store": "spar",
+    "id": "4091455",
+    "name": "Isostar Hydrate & Perform Cranberry Red Fruits Flavour",
+    "category": "Getränke",
+    "subcategories": ["Hydrate & Perform", "Cranberry Red Fruits Flavour"]
+  },
+  {
+    "store": "spar",
+    "id": "7094736",
+    "name": "Isostar Hydrate & Perform Sport Drink Lemon Flavour",
+    "category": "Getränke",
+    "subcategories": ["Hydrate & Perform Sport Drink", "Lemon Flavour"]
+  },
+  {
+    "store": "spar",
+    "id": "7094682",
+    "name": "Isostar Hydrate & Perform Sport Drink Orange Flavour",
+    "category": "Getränke",
+    "subcategories": ["Hydrate & Perform Sport Drink", "Orange Flavour"]
+  },
+  {
+    "store": "spar",
+    "id": "7128295",
+    "name": "Jacobs Icepresso Classic",
+    "category": "Lebensmittel",
+    "subcategories": ["Icepresso", "Classic"]
+  },
+  {
+    "store": "spar",
+    "id": "7127519",
+    "name": "Jacobs Icepresso Latte",
+    "category": "Lebensmittel",
+    "subcategories": ["Icepresso", "Latte"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003490705",
+    "name": "Jana Eistee Waldfrucht Preiselbeere",
+    "category": "Getränke",
+    "subcategories": ["Eistee", "Waldfrucht", "Preiselbeere"]
+  },
+  {
+    "store": "spar",
+    "id": "6203306",
+    "name": "Jever Pilsner 6 x 0,33l",
+    "category": "Getränke",
+    "subcategories": ["Pilsner"]
+  },
+  {
+    "store": "spar",
+    "id": "7494338",
+    "name": "Jacobs 2 in 1 10 Portionen",
+    "category": "Lebensmittel",
+    "subcategories": ["2 in 1"]
+  },
+  {
+    "store": "spar",
+    "id": "7494673",
+    "name": "Jacobs 3 in 1 10 Portionen",
+    "category": "Lebensmittel",
+    "subcategories": ["3 in 1"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001238859",
+    "name": "Jacobs 3 in 1 Café Latte 10 Portionen",
+    "category": "Lebensmittel",
+    "subcategories": ["3 in 1", "Café Latte"]
+  },
+  {
+    "store": "spar",
+    "id": "5131921",
+    "name": "Jacobs Caffe Crema Caffe Crema Classico 16 Pads",
+    "category": "Lebensmittel",
+    "subcategories": ["Caffe Crema Classico"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003737329",
+    "name": "Jacobs Caffe Crema Gold ganze Bohne",
+    "category": "Lebensmittel",
+    "subcategories": ["Caffe Crema Gold"]
+  },
+  {
+    "store": "spar",
+    "id": "7495656",
+    "name": "Jacobs Caffe Crema classico, ganze Bohne",
+    "category": "Lebensmittel",
+    "subcategories": ["Caffe Crema Classico"]
+  },
+  {
+    "store": "spar",
+    "id": "7495793",
+    "name": "Jacobs Caffe Crema classico, ganze Bohne",
+    "category": "Lebensmittel",
+    "subcategories": ["Caffe Crema Classico"]
+  },
+  {
+    "store": "spar",
+    "id": "7492457",
+    "name": "Jacobs Caffe Crema intenso ganze Bohne",
+    "category": "Lebensmittel",
+    "subcategories": ["Caffe Crema Intenso"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002737122",
+    "name": "Jacobs Cappuccino classico 8 Pads",
+    "category": "Lebensmittel",
+    "subcategories": ["Cappuccino Classico"]
+  },
+  {
+    "store": "spar",
+    "id": "7497704",
+    "name": "Jacobs Cronat Kräftig",
+    "category": "Lebensmittel",
+    "subcategories": ["Cronat Kräftig"]
+  },
+  {
+    "store": "spar",
+    "id": "7495229",
+    "name": "Jacobs Cronat Mild",
+    "category": "Lebensmittel",
+    "subcategories": ["Cronat Mild"]
+  },
+  {
+    "store": "spar",
+    "id": "6873851",
+    "name": "Jacobs Espresso 25 Portionen",
+    "category": "Lebensmittel",
+    "subcategories": ["Espresso"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002627645",
+    "name": "Jacobs Espresso Intenso 40 Kapseln",
+    "category": "Lebensmittel",
+    "subcategories": ["Espresso", "Intenso"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003129285",
+    "name": "Jacobs Lungo Classico 40 Kapseln",
+    "category": "Lebensmittel",
+    "subcategories": ["Lungo", "Classico"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002627621",
+    "name": "Jacobs Lungo Intenso 40 Kapseln",
+    "category": "Lebensmittel",
+    "subcategories": ["Lungo", "Intenso"]
+  },
+  {
+    "store": "spar",
+    "id": "7478697",
+    "name": "Jacobs Momente Cappuccino Choco",
+    "category": "Lebensmittel",
+    "subcategories": ["Momente", "Cappuccino Choco"]
+  },
+  {
+    "store": "spar",
+    "id": "6682316",
+    "name": "Jacobs Momente Cappuccino classico",
+    "category": "Lebensmittel",
+    "subcategories": ["Momente", "Cappuccino Classico"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001427390",
+    "name": "Jacobs Momente Espresso Intenso ganze Bohne",
+    "category": "Lebensmittel",
+    "subcategories": ["Momente", "Espresso Intenso"]
+  },
+  {
+    "store": "spar",
+    "id": "5131914",
+    "name": "Jacobs Monarch Crema 16 Pads",
+    "category": "Lebensmittel",
+    "subcategories": ["Monarch Crema"]
+  },
+  {
+    "store": "spar",
+    "id": "5664191",
+    "name": "Jacobs Monarch ganze Bohne",
+    "category": "Lebensmittel",
+    "subcategories": ["Monarch"]
+  },
+  {
+    "store": "spar",
+    "id": "7493843",
+    "name": "Jacobs Monarch gemahlen",
+    "category": "Lebensmittel",
+    "subcategories": ["Monarch"]
+  },
+  {
+    "store": "spar",
+    "id": "5142125",
+    "name": "Jacobs Monarch mild gemahlen",
+    "category": "Lebensmittel",
+    "subcategories": ["Monarch"]
+  },
+  {
+    "store": "spar",
+    "id": "8001481",
+    "name": "Julius Meinl Caffe Crema Intenso",
+    "category": "Lebensmittel",
+    "subcategories": ["Caffe Crema Intenso"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003815881",
+    "name": "Julius Meinl Espresso Mokka",
+    "category": "Lebensmittel",
+    "subcategories": ["Espresso Mokka"]
+  },
+  {
+    "store": "spar",
+    "id": "5339440",
+    "name": "Julius Meinl Frühstück gemahlen",
+    "category": "Lebensmittel",
+    "subcategories": ["Frühstück"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003470103",
+    "name": "Julius Meinl Inspresso Espresso Crema 10 kompostierbare Kapseln",
+    "category": "Lebensmittel",
+    "subcategories": ["Inspresso", "Espresso Crema"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003483905",
+    "name": "Julius Meinl Inspresso Espresso Crema 30 kompostierbare Kapseln",
+    "category": "Lebensmittel",
+    "subcategories": ["Inspresso", "Espresso Crema"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003470110",
+    "name": "Julius Meinl Inspresso Lungo Classico 10 kompostierbare Kapseln",
+    "category": "Lebensmittel",
+    "subcategories": ["Inspresso", "Lungo Classico"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003483882",
+    "name": "Julius Meinl Inspresso Lungo Classico 30 kompostierbare Kapseln",
+    "category": "Lebensmittel",
+    "subcategories": ["Inspresso", "Lungo Classico"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004211378",
+    "name": "Julius Meinl Inspresso Lungo Forte 10 Kapseln",
+    "category": "Lebensmittel",
+    "subcategories": ["Inspresso", "Lungo Forte"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002955106",
+    "name": "Jean Call Champagner Brut",
+    "category": "Getränke",
+    "subcategories": ["Champagner", "Brut"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002953751",
+    "name": "Jean Call Champagner Brut",
+    "category": "Getränke",
+    "subcategories": ["Champagner", "Brut"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003106453",
+    "name": "Jo's Kreation Norbert Szigeti Sekt Cuvée",
+    "category": "Getränke",
+    "subcategories": ["Sekt", "Cuvée"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003106293",
+    "name": "Jo's Kreation Norbert Szigeti Sekt Cuvée Rosé",
+    "category": "Getränke",
+    "subcategories": ["Sekt", "Cuvée Rosé"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003354267",
+    "name": "Jack Daniel's + Cola",
+    "category": "Getränke",
+    "subcategories": ["Jack Daniel's", "Cola"]
+  },
+  {
+    "store": "spar",
+    "id": "7681431",
+    "name": "Jack Daniel's 0,7 L",
+    "category": "Getränke",
+    "subcategories": ["Jack Daniel's"]
+  },
+  {
+    "store": "spar",
+    "id": "7689451",
+    "name": "Jack Daniel's Gentleman Jack",
+    "category": "Getränke",
+    "subcategories": ["Jack Daniel's", "Gentleman Jack"]
+  },
+  {
+    "store": "spar",
+    "id": "7684227",
+    "name": "Jack Daniel's Honey",
+    "category": "Getränke",
+    "subcategories": ["Jack Daniel's", "Honey"]
+  },
+  {
+    "store": "spar",
+    "id": "3239575",
+    "name": "Jack Daniel's Single Barrel",
+    "category": "Getränke",
+    "subcategories": ["Jack Daniel's", "Single Barrel"]
+  },
+  {
+    "store": "spar",
+    "id": "7691621",
+    "name": "Jameson 0,7 L",
+    "category": "Getränke",
+    "subcategories": ["Jameson"]
+  },
+  {
+    "store": "spar",
+    "id": "1890358",
+    "name": "Jameson Black Barrel",
+    "category": "Getränke",
+    "subcategories": ["Jameson", "Black Barrel"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002456245",
+    "name": "Jameson Caskmates",
+    "category": "Getränke",
+    "subcategories": ["Jameson", "Caskmates"]
+  },
+  {
+    "store": "spar",
+    "id": "2598390",
+    "name": "Jelzin 0,7 L",
+    "category": "Getränke",
+    "subcategories": ["Jelzin"]
+  },
+  {
+    "store": "spar",
+    "id": "7679193",
+    "name": "Jim Beam 0,7 L",
+    "category": "Getränke",
+    "subcategories": ["Jim Beam"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004181398",
+    "name": "Jim Beam Apple",
+    "category": "Getränke",
+    "subcategories": ["Jim Beam", "Apple"]
+  },
+  {
+    "store": "spar",
+    "id": "2376219",
+    "name": "Jim Beam Bourbon Whiskey & Cola",
+    "category": "Getränke",
+    "subcategories": ["Jim Beam", "Bourbon Whiskey", "Cola"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001218851",
+    "name": "Jim Beam Double Oak",
+    "category": "Getränke",
+    "subcategories": ["Jim Beam", "Double Oak"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003734793",
+    "name": "Jim Beam Honey",
+    "category": "Getränke",
+    "subcategories": ["Jim Beam", "Honey"]
+  }
+]

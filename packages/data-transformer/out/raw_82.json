@@ -1,0 +1,702 @@
+[
+  {
+    "store": "billa",
+    "id": "00-379560",
+    "name": "Clever Spaghetti",
+    "category": "Nudeln",
+    "subcategories": ["Pastaprodukte", "Trockennudeln"]
+  },
+  {
+    "store": "billa",
+    "id": "00-700598",
+    "name": "Clever Sugo Bolognese",
+    "category": "Pasta Saucen",
+    "subcategories": ["Tomatensaucen", "Bolognesesaucen"]
+  },
+  {
+    "store": "billa",
+    "id": "00-372542",
+    "name": "Conte De Cesare Bio Sugo Alle Verdure",
+    "category": "Pasta Saucen",
+    "subcategories": ["Tomatensaucen", "Gemüsesaucen"]
+  },
+  {
+    "store": "billa",
+    "id": "00-372539",
+    "name": "Conte De Cesare Bio Sugo Basilico",
+    "category": "Pasta Saucen",
+    "subcategories": ["Tomatensaucen", "Basilikumsaucen"]
+  },
+  {
+    "store": "billa",
+    "id": "00-888527",
+    "name": "Dalla Costa Disney Cars Bio Pasta",
+    "category": "Nudeln",
+    "subcategories": ["Pastaprodukte", "Trockennudeln"]
+  },
+  {
+    "store": "billa",
+    "id": "00-888529",
+    "name": "Dalla Costa Disney Mickey Mouse Bio Pasta",
+    "category": "Nudeln",
+    "subcategories": ["Pastaprodukte", "Trockennudeln"]
+  },
+  {
+    "store": "billa",
+    "id": "00-403749",
+    "name": "De Cecco Fusilli",
+    "category": "Nudeln",
+    "subcategories": ["Pastaprodukte", "Trockennudeln"]
+  },
+  {
+    "store": "billa",
+    "id": "00-409022",
+    "name": "De Cecco Lasagnette",
+    "category": "Nudeln",
+    "subcategories": ["Pastaprodukte", "Trockennudeln"]
+  },
+  {
+    "store": "billa",
+    "id": "00-422774",
+    "name": "De Cecco Linguine",
+    "category": "Nudeln",
+    "subcategories": ["Pastaprodukte", "Trockennudeln"]
+  },
+  {
+    "store": "billa",
+    "id": "00-105483",
+    "name": "De Cecco Pappardelle",
+    "category": "Nudeln",
+    "subcategories": ["Pastaprodukte", "Trockennudeln"]
+  },
+  {
+    "store": "billa",
+    "id": "00-403751",
+    "name": "De Cecco Spaghetti",
+    "category": "Nudeln",
+    "subcategories": ["Pastaprodukte", "Trockennudeln"]
+  },
+  {
+    "store": "billa",
+    "id": "00-939256",
+    "name": "Delverde Lasagne Nr.89",
+    "category": "Pasta",
+    "subcategories": ["Teigwaren", "Lasagne"]
+  },
+  {
+    "store": "billa",
+    "id": "00-636352",
+    "name": "Delverde Riccioli",
+    "category": "Pasta",
+    "subcategories": ["Teigwaren", "Riccioli-Nudeln"]
+  },
+  {
+    "store": "billa",
+    "id": "00-19893",
+    "name": "Delverde Spaghetti",
+    "category": "Pasta",
+    "subcategories": ["Teigwaren", "Trockenspaghetti"]
+  },
+  {
+    "store": "billa",
+    "id": "00-869521",
+    "name": "EZA Hom Mali Weißer Jasminreis",
+    "category": "Reis",
+    "subcategories": ["Duftreis", "Jasminreis"]
+  },
+  {
+    "store": "billa",
+    "id": "00-857962",
+    "name": "Everest Indischer Basmatireis Weiß",
+    "category": "Reis",
+    "subcategories": ["Basmatireis", "Duftreis"]
+  },
+  {
+    "store": "billa",
+    "id": "00-904004",
+    "name": "Everest Premium Bio Basmati Reis",
+    "category": "Reis",
+    "subcategories": ["Basmatireis", "Bio-Reis"]
+  },
+  {
+    "store": "billa",
+    "id": "00-516348",
+    "name": "Everest Premium Jasmin Reis",
+    "category": "Reis",
+    "subcategories": ["Duftreis", "Premium-Reis"]
+  },
+  {
+    "store": "billa",
+    "id": "00-410554",
+    "name": "Facile Kochbeutel-Reis",
+    "category": "Reis",
+    "subcategories": ["Kochbeutelreis", "Langkornreis"]
+  },
+  {
+    "store": "billa",
+    "id": "00-960514",
+    "name": "Facile Langkornreis im Kochbeutel",
+    "category": "Reis",
+    "subcategories": ["Kochbeutelreis", "Langkornreis"]
+  },
+  {
+    "store": "billa",
+    "id": "00-410264",
+    "name": "Facile Mittelkornreis",
+    "category": "Reis",
+    "subcategories": ["Mittelkornreis", "Rundkornreis"]
+  },
+  {
+    "store": "billa",
+    "id": "00-410261",
+    "name": "Facile Rundkornreis",
+    "category": "Reis",
+    "subcategories": ["Mittelkornreis", "Rundkornreis"]
+  },
+  {
+    "store": "billa",
+    "id": "00-448697",
+    "name": "Felicia 4-Korn Fusilli",
+    "category": "Nudeln",
+    "subcategories": ["Pastaprodukte", "Vollkornnudeln"]
+  },
+  {
+    "store": "billa",
+    "id": "00-448692",
+    "name": "Felicia 4-Korn Spaghetti",
+    "category": "Nudeln",
+    "subcategories": ["Pastaprodukte", "Vollkornnudeln"]
+  },
+  {
+    "store": "billa",
+    "id": "00-448701",
+    "name": "Felicia Buchweizen Fusilli",
+    "category": "Nudeln",
+    "subcategories": ["Pastaprodukte", "Glutenfreie Nudeln"]
+  },
+  {
+    "store": "billa",
+    "id": "00-448705",
+    "name": "Felicia Mais-Reis Penne",
+    "category": "Nudeln",
+    "subcategories": ["Pastaprodukte", "Glutenfreie Nudeln"]
+  },
+  {
+    "store": "billa",
+    "id": "00-448687",
+    "name": "Felicia Vollkornreis Spaghetti",
+    "category": "Nudeln",
+    "subcategories": ["Pastaprodukte", "Vollkornnudeln"]
+  },
+  {
+    "store": "billa",
+    "id": "00-468651",
+    "name": "Felix Pesto Rosso",
+    "category": "Pasta Saucen",
+    "subcategories": ["Pestos", "Tomatenpesto"]
+  },
+  {
+    "store": "billa",
+    "id": "00-722007",
+    "name": "Felix Pesto Tomate und Olive",
+    "category": "Pasta Saucen",
+    "subcategories": ["Pestos", "Tomatenpesto"]
+  },
+  {
+    "store": "billa",
+    "id": "00-468650",
+    "name": "Felix Pesto alla Genovese",
+    "category": "Pasta Saucen",
+    "subcategories": ["Pestos", "Basilikumpesto"]
+  },
+  {
+    "store": "billa",
+    "id": "00-830113",
+    "name": "Felix Sugo 5 Kräuter",
+    "category": "Pasta Saucen",
+    "subcategories": ["Tomatensaucen", "Kräutersaucen"]
+  },
+  {
+    "store": "billa",
+    "id": "00-777587",
+    "name": "Felix Sugo 5 Kräuter",
+    "category": "Pasta Saucen",
+    "subcategories": ["Tomatensaucen", "Kräutersaucen"]
+  },
+  {
+    "store": "billa",
+    "id": "00-433409",
+    "name": "Felix Sugo 5 Kräuter",
+    "category": "Pasta Saucen",
+    "subcategories": ["Tomatensaucen", "Kräutersaucen"]
+  },
+  {
+    "store": "billa",
+    "id": "00-379764",
+    "name": "Felix Sugo Basilikum ohne Zuckerzusatz",
+    "category": "Pasta Saucen",
+    "subcategories": ["Tomatensaucen", "Basilikumsaucen"]
+  },
+  {
+    "store": "billa",
+    "id": "00-289762",
+    "name": "Felix Sugo Fleisch ohne Zuckerzusatz",
+    "category": "Pasta Saucen",
+    "subcategories": ["Tomatensaucen", "Fleischsaucen"]
+  },
+  {
+    "store": "billa",
+    "id": "00-289766",
+    "name": "Felix Sugo Gemüse ohne Zuckerzusatz",
+    "category": "Pasta Saucen",
+    "subcategories": ["Tomatensaucen", "Gemüsesaucen"]
+  },
+  {
+    "store": "billa",
+    "id": "00-289764",
+    "name": "Felix Sugo Tomate ohne Zuckerzusatz",
+    "category": "Pasta Saucen",
+    "subcategories": ["Tomatensaucen"]
+  },
+  {
+    "store": "billa",
+    "id": "00-830115",
+    "name": "Felix Sugo mit Fleisch",
+    "category": "Pasta Saucen",
+    "subcategories": ["Tomatensaucen", "Fleischsaucen"]
+  },
+  {
+    "store": "billa",
+    "id": "00-433408",
+    "name": "Felix Sugo mit Fleisch",
+    "category": "Pasta Saucen",
+    "subcategories": ["Tomatensaucen", "Fleischsaucen"]
+  },
+  {
+    "store": "billa",
+    "id": "00-433411",
+    "name": "Felix Sugo mit Fleisch Pikant",
+    "category": "Pasta Saucen",
+    "subcategories": ["Tomatensaucen", "Pikante Saucen", "Fleischsaucen"]
+  },
+  {
+    "store": "billa",
+    "id": "00-683043",
+    "name": "Felix Sugo mit Frischkäse aus Vorarlberger",
+    "category": "Pasta Saucen",
+    "subcategories": ["Tomatensaucen", "Frischkäsesaucen"]
+  },
+  {
+    "store": "billa",
+    "id": "00-760841",
+    "name": "Felix Sugo mit Gegrilltem Gemüse",
+    "category": "Pasta Saucen",
+    "subcategories": ["Tomatensaucen", "Gemüsesaucen"]
+  },
+  {
+    "store": "billa",
+    "id": "00-820982",
+    "name": "Felix Sugo mit Gemüse",
+    "category": "Pasta Saucen",
+    "subcategories": ["Tomatensaucen", "Gemüsesaucen"]
+  },
+  {
+    "store": "billa",
+    "id": "00-433410",
+    "name": "Felix Sugo mit Gemüse",
+    "category": "Pasta Saucen",
+    "subcategories": ["Tomatensaucen", "Gemüsesaucen"]
+  },
+  {
+    "store": "billa",
+    "id": "00-683046",
+    "name": "Felix Sugo mit Steirischen Almrindfleisch",
+    "category": "Pasta Saucen",
+    "subcategories": ["Tomatensaucen", "Fleischsaucen"]
+  },
+  {
+    "store": "billa",
+    "id": "00-960571",
+    "name": "Garofalo Bucatini",
+    "category": "Nudeln",
+    "subcategories": ["Pastaprodukte", "Trockennudeln"]
+  },
+  {
+    "store": "billa",
+    "id": "00-960574",
+    "name": "Garofalo Casarecce",
+    "category": "Nudeln",
+    "subcategories": ["Pastaprodukte", "Trockennudeln"]
+  },
+  {
+    "store": "billa",
+    "id": "00-962405",
+    "name": "Garofalo Casarecce Glutenfrei",
+    "category": "Nudeln",
+    "subcategories": ["Pastaprodukte", "Glutenfreie Nudeln"]
+  },
+  {
+    "store": "billa",
+    "id": "00-767497",
+    "name": "Garofalo Farfalle Tricolore",
+    "category": "Nudeln",
+    "subcategories": ["Pastaprodukte", "Tricolore-Nudeln"]
+  },
+  {
+    "store": "billa",
+    "id": "00-842762",
+    "name": "Garofalo Fusilli Bucati Corti",
+    "category": "Nudeln",
+    "subcategories": ["Pastaprodukte", "Trockennudeln"]
+  },
+  {
+    "store": "billa",
+    "id": "00-666395",
+    "name": "Garofalo Gnocchi Glutenfrei",
+    "category": "Nudeln",
+    "subcategories": ["Pastaprodukte", "Glutenfreie Nudeln", "Gnocchi"]
+  },
+  {
+    "store": "billa",
+    "id": "00-962401",
+    "name": "Garofalo Linguine Glutenfrei",
+    "category": "Nudeln",
+    "subcategories": ["Pastaprodukte", "Glutenfreie Nudeln"]
+  },
+  {
+    "store": "billa",
+    "id": "00-842758",
+    "name": "Garofalo Mafalda Corta",
+    "category": "Nudeln",
+    "subcategories": ["Pastaprodukte", "Trockennudeln"]
+  },
+  {
+    "store": "billa",
+    "id": "00-842766",
+    "name": "Garofalo Penne Ziti Rigate",
+    "category": "Nudeln",
+    "subcategories": ["Pastaprodukte", "Trockennudeln"]
+  },
+  {
+    "store": "billa",
+    "id": "00-872269",
+    "name": "Garofalo Rigatoni",
+    "category": "Nudeln",
+    "subcategories": ["Pastaprodukte", "Trockennudeln"]
+  },
+  {
+    "store": "billa",
+    "id": "00-872271",
+    "name": "Garofalo Schiaffoni",
+    "category": "Nudeln",
+    "subcategories": ["Pastaprodukte", "Trockennudeln"]
+  },
+  {
+    "store": "billa",
+    "id": "00-900338",
+    "name": "Garofalo Spaghetti",
+    "category": "Nudeln",
+    "subcategories": ["Pastaprodukte", "Trockenspaghetti"]
+  },
+  {
+    "store": "billa",
+    "id": "00-962398",
+    "name": "Garofalo Spaghetti Glutenfrei",
+    "category": "Nudeln",
+    "subcategories": ["Pastaprodukte", "Glutenfreie Nudeln"]
+  },
+  {
+    "store": "billa",
+    "id": "00-378754",
+    "name": "Gran Cucina Pesto Rosso",
+    "category": "Pasta Saucen",
+    "subcategories": ["Pestos", "Tomatenpesto"]
+  },
+  {
+    "store": "billa",
+    "id": "00-832527",
+    "name": "Gran Cucina Pesto alla Genovese",
+    "category": "Pasta Saucen",
+    "subcategories": ["Pestos", "Basilikumpesto"]
+  },
+  {
+    "store": "billa",
+    "id": "00-102120",
+    "name": "Himalaya Gold Basmati-Reis",
+    "category": "Reis",
+    "subcategories": ["Basmatireis"]
+  },
+  {
+    "store": "billa",
+    "id": "00-285227",
+    "name": "Inzersdorfer Pure Beef Sugo Arrabbiata",
+    "category": "Pasta Saucen",
+    "subcategories": ["Tomatensaucen", "Arrabbiatasaucen"]
+  },
+  {
+    "store": "billa",
+    "id": "00-285224",
+    "name": "Inzersdorfer Pure Beef Sugo Bolognese",
+    "category": "Pasta Saucen",
+    "subcategories": ["Tomatensaucen", "Bolognesesaucen"]
+  },
+  {
+    "store": "billa",
+    "id": "00-304193",
+    "name": "Ja! Natürlich Arborio Bio-Risottoreis",
+    "category": "Reis",
+    "subcategories": ["Risottoreis", "Bio-Reis"]
+  },
+  {
+    "store": "billa",
+    "id": "00-883137",
+    "name": "Ja! Natürlich Bandnudeln",
+    "category": "Nudeln",
+    "subcategories": ["Pastaprodukte", "Bandnudeln"]
+  },
+  {
+    "store": "billa",
+    "id": "00-368878",
+    "name": "Ja! Natürlich Bio Fusilli",
+    "category": "Nudeln",
+    "subcategories": ["Pastaprodukte", "Bio-Nudeln"]
+  },
+  {
+    "store": "billa",
+    "id": "00-368888",
+    "name": "Ja! Natürlich Bio Penne",
+    "category": "Nudeln",
+    "subcategories": ["Pastaprodukte", "Bio-Nudeln"]
+  },
+  {
+    "store": "billa",
+    "id": "00-368864",
+    "name": "Ja! Natürlich Bio Spaghetti",
+    "category": "Nudeln",
+    "subcategories": ["Pastaprodukte", "Bio-Nudeln"]
+  },
+  {
+    "store": "billa",
+    "id": "00-304218",
+    "name": "Ja! Natürlich Carnaroli Bio-Risottoreis",
+    "category": "Reis",
+    "subcategories": ["Risottoreis", "Bio-Reis"]
+  },
+  {
+    "store": "billa",
+    "id": "00-368905",
+    "name": "Ja! Natürlich Dinkel Linguine",
+    "category": "Nudeln",
+    "subcategories": ["Dinkelnudeln", "Linguine"]
+  },
+  {
+    "store": "billa",
+    "id": "00-368907",
+    "name": "Ja! Natürlich Dinkel Makkaroni",
+    "category": "Nudeln",
+    "subcategories": ["Dinkelnudeln", "Makkaroni"]
+  },
+  {
+    "store": "billa",
+    "id": "00-650082",
+    "name": "Ja! Natürlich Dinkel-Vollkorn Spaghetti",
+    "category": "Nudeln",
+    "subcategories": ["Dinkelnudeln", "Vollkornnudeln"]
+  },
+  {
+    "store": "billa",
+    "id": "00-623227",
+    "name": "Ja! Natürlich Dinkel-Vollkorn Spiralen",
+    "category": "Nudeln",
+    "subcategories": ["Dinkelnudeln", "Vollkornnudeln"]
+  },
+  {
+    "store": "billa",
+    "id": "00-597293",
+    "name": "Ja! Natürlich Dinkelreis",
+    "category": "Reis",
+    "subcategories": ["Dinkelreis"]
+  },
+  {
+    "store": "billa",
+    "id": "00-261892",
+    "name": "Ja! Natürlich Eierspätzle",
+    "category": "Nudeln",
+    "subcategories": ["Teigwaren", "Spätzle"]
+  },
+  {
+    "store": "billa",
+    "id": "00-883133",
+    "name": "Ja! Natürlich Fadennudeln",
+    "category": "Nudeln",
+    "subcategories": ["Pastaprodukte", "Fadennudeln"]
+  },
+  {
+    "store": "billa",
+    "id": "00-350711",
+    "name": "Ja! Natürlich Fairtrade Basmatireis",
+    "category": "Reis",
+    "subcategories": ["Basmatireis", "Fairtrade-Reis"]
+  },
+  {
+    "store": "billa",
+    "id": "00-883139",
+    "name": "Ja! Natürlich Fleckerl",
+    "category": "Nudeln",
+    "subcategories": ["Pastaprodukte", "Fleckerl"]
+  },
+  {
+    "store": "billa",
+    "id": "00-883136",
+    "name": "Ja! Natürlich Hörnchen",
+    "category": "Nudeln",
+    "subcategories": ["Pastaprodukte", "Hörnchennudeln"]
+  },
+  {
+    "store": "billa",
+    "id": "00-722755",
+    "name": "Ja! Natürlich Langkornreis",
+    "category": "Reis",
+    "subcategories": ["Langkornreis"]
+  },
+  {
+    "store": "billa",
+    "id": "00-722668",
+    "name": "Ja! Natürlich Parboiled Reis Weiß",
+    "category": "Reis",
+    "subcategories": ["Parboiled-Reis"]
+  },
+  {
+    "store": "billa",
+    "id": "00-698877",
+    "name": "Ja! Natürlich Pesto Genovese",
+    "category": "Pasta Saucen",
+    "subcategories": ["Pestos", "Basilikumpesto"]
+  },
+  {
+    "store": "billa",
+    "id": "00-698878",
+    "name": "Ja! Natürlich Pesto Rosso",
+    "category": "Pasta Saucen",
+    "subcategories": ["Pestos", "Tomatenpesto"]
+  },
+  {
+    "store": "billa",
+    "id": "00-698879",
+    "name": "Ja! Natürlich Pesto Rucola",
+    "category": "Pasta Saucen",
+    "subcategories": ["Pestos", "Rucolapesto"]
+  },
+  {
+    "store": "billa",
+    "id": "00-883142",
+    "name": "Ja! Natürlich Spirelli",
+    "category": "Nudeln",
+    "subcategories": ["Pastaprodukte", "Spirellinudeln"]
+  },
+  {
+    "store": "billa",
+    "id": "00-635719",
+    "name": "Ja! Natürlich Zahlen Suppennudeln",
+    "category": "Nudeln",
+    "subcategories": ["Suppennudeln"]
+  },
+  {
+    "store": "billa",
+    "id": "00-389050",
+    "name": "Just Taste Edamame Spaghetti",
+    "category": "Nudeln",
+    "subcategories": ["Edamamenudeln"]
+  },
+  {
+    "store": "billa",
+    "id": "00-389043",
+    "name": "Just Taste Kichererbsen Fettuccine",
+    "category": "Nudeln",
+    "subcategories": ["Kichererbsennudeln", "Fettuccine"]
+  },
+  {
+    "store": "billa",
+    "id": "00-389033",
+    "name": "Just Taste Lila Süsskartoffel Fettucine",
+    "category": "Nudeln",
+    "subcategories": ["Süßkartoffelnudeln", "Fettuccine"]
+  },
+  {
+    "store": "billa",
+    "id": "00-389038",
+    "name": "Just Taste Süsskartoffel Spaghetti",
+    "category": "Nudeln",
+    "subcategories": ["Süßkartoffelnudeln"]
+  },
+  {
+    "store": "billa",
+    "id": "00-279911",
+    "name": "Kajnok Slim Fettuccine",
+    "category": "Nudeln",
+    "subcategories": ["Shiratakinudeln", "Fettuccine"]
+  },
+  {
+    "store": "billa",
+    "id": "00-279904",
+    "name": "Kajnok Slim Nudeln",
+    "category": "Nudeln",
+    "subcategories": ["Shiratakinudeln"]
+  },
+  {
+    "store": "billa",
+    "id": "00-279906",
+    "name": "Kajnok Slim Penne",
+    "category": "Nudeln",
+    "subcategories": ["Shiratakinudeln", "Penne"]
+  },
+  {
+    "store": "billa",
+    "id": "00-279909",
+    "name": "Kajnok Slim Spaghetti",
+    "category": "Nudeln",
+    "subcategories": ["Shiratakinudeln"]
+  },
+  {
+    "store": "billa",
+    "id": "00-12260",
+    "name": "Land-Leben Eierschöberl",
+    "category": "Nudeln",
+    "subcategories": ["Teigwaren", "Eierschöberl-Nudeln"]
+  },
+  {
+    "store": "billa",
+    "id": "00-502611",
+    "name": "Land-Leben Frittaten",
+    "category": "Nudeln",
+    "subcategories": ["Teigwaren", "Suppennudeln"]
+  },
+  {
+    "store": "billa",
+    "id": "00-344398",
+    "name": "Le Veneziane Lasagne Glutenfrei",
+    "category": "Nudeln",
+    "subcategories": ["Pastaprodukte", "Glutenfreie Lasagne"]
+  },
+  {
+    "store": "billa",
+    "id": "00-747986",
+    "name": "Le Veneziane Mais Penne",
+    "category": "Nudeln",
+    "subcategories": ["Pastaprodukte", "Glutenfreie Nudeln"]
+  },
+  {
+    "store": "billa",
+    "id": "00-905436",
+    "name": "Le Veneziane Mais Spaghetti",
+    "category": "Nudeln",
+    "subcategories": ["Pastaprodukte", "Glutenfreie Nudeln"]
+  },
+  {
+    "store": "billa",
+    "id": "00-344546",
+    "name": "Le Veneziane Potato Gnocchi",
+    "category": "Nudeln",
+    "subcategories": ["Pastaprodukte", "Gnocchi"]
+  }
+]

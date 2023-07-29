@@ -1,0 +1,765 @@
+[
+  {
+    "store": "billa",
+    "id": "00-478867",
+    "name": "Edlmoser Laessiger Zweigelt Rosé",
+    "category": "Wein",
+    "subcategories": ["Rosewein", "Zweigelt", "Laessiger"]
+  },
+  {
+    "store": "billa",
+    "id": "00-493415",
+    "name": "Eichenwald Blaufränkisch Klassik",
+    "category": "Wein",
+    "subcategories": ["Rotwein", "Blaufränkisch", "Klassik"]
+  },
+  {
+    "store": "billa",
+    "id": "00-468623",
+    "name": "Eichenwald Merlot Klassik",
+    "category": "Wein",
+    "subcategories": ["Rotwein", "Merlot", "Klassik"]
+  },
+  {
+    "store": "billa",
+    "id": "00-480804",
+    "name": "Eichenwald Zweigelt Klassik",
+    "category": "Wein",
+    "subcategories": ["Rotwein", "Zweigelt", "Klassik"]
+  },
+  {
+    "store": "billa",
+    "id": "00-323803",
+    "name": "Epicuro Primitivo Di Manduria",
+    "category": "Wein",
+    "subcategories": ["Rotwein", "Primitivo", "Manduria"]
+  },
+  {
+    "store": "billa",
+    "id": "00-323652",
+    "name": "Epicuro Salice Salentino Riserva",
+    "category": "Wein",
+    "subcategories": ["Rotwein", "Salentino", "Riserva"]
+  },
+  {
+    "store": "billa",
+    "id": "00-395455",
+    "name": "Erwin Sabathi Jederzeit",
+    "category": "Wein",
+    "subcategories": ["Weißwein", "Erwin Sabathi", "Jederzeit"]
+  },
+  {
+    "store": "billa",
+    "id": "00-481059",
+    "name": "Erwin Sabathi Leutschach Chardonnay",
+    "category": "Wein",
+    "subcategories": ["Weißwein", "Chardonnay", "Leutschach"]
+  },
+  {
+    "store": "billa",
+    "id": "00-474736",
+    "name": "Erzherzog Johann Weissburgunder Klassik",
+    "category": "Wein",
+    "subcategories": ["Weißwein", "Weissburgunder", "Klassik"]
+  },
+  {
+    "store": "billa",
+    "id": "00-462151",
+    "name": "Erzherzog Johann Welschriesling Klassik",
+    "category": "Wein",
+    "subcategories": ["Weißwein", "Welschriesling", "Klassik"]
+  },
+  {
+    "store": "billa",
+    "id": "00-468030",
+    "name": "Esterhazy Chardonnay Cuvee Reserve",
+    "category": "Wein",
+    "subcategories": ["Weißwein", "Chardonnay", "Cuvee", "Reserve"]
+  },
+  {
+    "store": "billa",
+    "id": "00-472012",
+    "name": "Esterhazy Pinot Noir Cuvee Reserve",
+    "category": "Wein",
+    "subcategories": ["Rotwein", "Pinot Noir", "Cuvee", "Reserve"]
+  },
+  {
+    "store": "billa",
+    "id": "00-966892",
+    "name": "Forstreiter Grüner Veltliner Kalk & Stein 2020",
+    "category": "Wein",
+    "subcategories": ["Weißwein", "Grüner Veltliner", "Kalk", "Stein"]
+  },
+  {
+    "store": "billa",
+    "id": "00-401206",
+    "name": "Frascati Prima Luna",
+    "category": "Wein",
+    "subcategories": ["Weißwein", "Frascati", "Prima Luna"]
+  },
+  {
+    "store": "billa",
+    "id": "00-299170",
+    "name": "Fratelli Martini Chianti DOCG",
+    "category": "Wein",
+    "subcategories": ["Rotwein", "Chianti", "DOCG"]
+  },
+  {
+    "store": "billa",
+    "id": "00-299303",
+    "name": "Fratelli Martini Merlot Veneto IGT",
+    "category": "Wein",
+    "subcategories": ["Rotwein", "Merlot", "Veneto", "IGT"]
+  },
+  {
+    "store": "billa",
+    "id": "00-479926",
+    "name": "Fuhrgassl-Huber Wr. Gemischter Satz DAC",
+    "category": "Wein",
+    "subcategories": ["Weißwein", "Gemischter Satz", "DAC"]
+  },
+  {
+    "store": "billa",
+    "id": "00-397411",
+    "name": "G+R Triebaumer Syrah",
+    "category": "Wein",
+    "subcategories": ["Rotwein", "Syrah", "Triebaumer"]
+  },
+  {
+    "store": "billa",
+    "id": "00-337164",
+    "name": "G+R Triebaumer Trie Rot",
+    "category": "Wein",
+    "subcategories": ["Rotwein", "Triebaumer", "Trie Rot"]
+  },
+  {
+    "store": "billa",
+    "id": "00-356057",
+    "name": "Gallo Cabernet Sauvignon",
+    "category": "Wein",
+    "subcategories": ["Rotwein", "Cabernet Sauvignon", "Gallo"]
+  },
+  {
+    "store": "billa",
+    "id": "00-333839",
+    "name": "Gallo Chardonnay",
+    "category": "Wein",
+    "subcategories": ["Weißwein", "Chardonnay", "Gallo"]
+  },
+  {
+    "store": "billa",
+    "id": "00-797555",
+    "name": "Gallo Grenache Rosé",
+    "category": "Wein",
+    "subcategories": ["Rosewein", "Grenache", "Gallo"]
+  },
+  {
+    "store": "billa",
+    "id": "00-736968",
+    "name": "Gallo Moscato",
+    "category": "Wein",
+    "subcategories": ["Weißwein", "Moscato", "Gallo"]
+  },
+  {
+    "store": "billa",
+    "id": "00-337112",
+    "name": "Gallo Zinfandel",
+    "category": "Wein",
+    "subcategories": ["Rotwein", "Zinfandel", "Gallo"]
+  },
+  {
+    "store": "billa",
+    "id": "00-464502",
+    "name": "Gebrüder Nittnaus Beerenauslese Exquisit Rosé",
+    "category": "Wein",
+    "subcategories": ["Weißwein", "Beerenauslese", "Exquisit", "Rose"]
+  },
+  {
+    "store": "billa",
+    "id": "00-647686",
+    "name": "Gebrüder Nittnaus Blaufränkisch",
+    "category": "Wein",
+    "subcategories": ["Rotwein", "Blaufränkisch", "Gebrüder Nittnaus"]
+  },
+  {
+    "store": "billa",
+    "id": "00-489912",
+    "name": "Gebrüder Nittnaus Chardonnay Exquisit",
+    "category": "Wein",
+    "subcategories": ["Weißwein", "Chardonnay", "Exquisit", "Gebrüder Nittnaus"]
+  },
+  {
+    "store": "billa",
+    "id": "00-395664",
+    "name": "Gebrüder Nittnaus Eiswein Exquisit",
+    "category": "Wein",
+    "subcategories": ["Weißwein", "Eiswein", "Exquisit", "Gebrüder Nittnaus"]
+  },
+  {
+    "store": "billa",
+    "id": "00-578561",
+    "name": "Gebrüder Nittnaus Muskat Ottonel lieblich",
+    "category": "Wein",
+    "subcategories": [
+      "Weißwein",
+      "Muskat Ottonel",
+      "lieblich",
+      "Gebrüder Nittnaus"
+    ]
+  },
+  {
+    "store": "billa",
+    "id": "00-443508",
+    "name": "Gebrüder Nittnaus Zweigelt Neusiedlersee DAC",
+    "category": "Wein",
+    "subcategories": [
+      "Rotwein",
+      "Zweigelt",
+      "Neusiedlersee",
+      "DAC",
+      "Gebrüder Nittnaus"
+    ]
+  },
+  {
+    "store": "billa",
+    "id": "00-346983",
+    "name": "Gebrüder Nittnaus Zweigelt lieblich",
+    "category": "Wein",
+    "subcategories": ["Rotwein", "Zweigelt", "lieblich", "Gebrüder Nittnaus"]
+  },
+  {
+    "store": "billa",
+    "id": "00-448079",
+    "name": "Gesellmann zb",
+    "category": "Wein",
+    "subcategories": ["Wein", "Gesellmann", "zb"]
+  },
+  {
+    "store": "billa",
+    "id": "00-587168",
+    "name": "Gmeinböck Grüner Veltliner Hasenliebe",
+    "category": "Wein",
+    "subcategories": ["Weißwein", "Grüner Veltliner", "Hasenliebe", "Gmeinböck"]
+  },
+  {
+    "store": "billa",
+    "id": "00-587173",
+    "name": "Gmeinböck Riesling",
+    "category": "Wein",
+    "subcategories": ["Weißwein", "Riesling", "Gmeinböck"]
+  },
+  {
+    "store": "billa",
+    "id": "00-537082",
+    "name": "Gobelsburg Riesling Urgestein Kamptal DAC",
+    "category": "Wein",
+    "subcategories": ["Weißwein", "Riesling", "Urgestein", "Kamptal", "DAC"]
+  },
+  {
+    "store": "billa",
+    "id": "00-311187",
+    "name": "Gran Dominio Rioja Reserva",
+    "category": "Wein",
+    "subcategories": ["Rotwein", "Rioja", "Reserva", "Gran Dominio"]
+  },
+  {
+    "store": "billa",
+    "id": "00-902729",
+    "name": "Grand Sud Chardonnay",
+    "category": "Wein",
+    "subcategories": ["Weißwein", "Chardonnay", "Grand Sud"]
+  },
+  {
+    "store": "billa",
+    "id": "00-650526",
+    "name": "Grand Sud Grenache lieblich",
+    "category": "Wein",
+    "subcategories": ["Rotwein", "Grenache", "lieblich", "Grand Sud"]
+  },
+  {
+    "store": "billa",
+    "id": "00-433589",
+    "name": "Grand Sud Merlot",
+    "category": "Wein",
+    "subcategories": ["Rotwein", "Merlot", "Grand Sud"]
+  },
+  {
+    "store": "billa",
+    "id": "00-587189",
+    "name": "Grand Sud Merlot Rosé",
+    "category": "Wein",
+    "subcategories": ["Rosewein", "Merlot", "Grand Sud"]
+  },
+  {
+    "store": "billa",
+    "id": "00-466562",
+    "name": "Gruber Gr. Veltliner Weinviertel DAC",
+    "category": "Wein",
+    "subcategories": [
+      "Weißwein",
+      "Grüner Veltliner",
+      "Weinviertel",
+      "DAC",
+      "Gruber"
+    ]
+  },
+  {
+    "store": "billa",
+    "id": "00-452712",
+    "name": "Gsellmann Andreas Blauer Zweigelt",
+    "category": "Wein",
+    "subcategories": ["Rotwein", "Blauer Zweigelt", "Gsellmann", "Andreas"]
+  },
+  {
+    "store": "billa",
+    "id": "00-461159",
+    "name": "Gsellmann Andreas Pannobile Rot",
+    "category": "Wein",
+    "subcategories": ["Rotwein", "Pannobile", "Gsellmann", "Andreas"]
+  },
+  {
+    "store": "billa",
+    "id": "00-528245",
+    "name": "Gut Hardegg Grüner Veltliner",
+    "category": "Wein",
+    "subcategories": ["Weißwein", "Grüner Veltliner", "Gut Hardegg"]
+  },
+  {
+    "store": "billa",
+    "id": "00-492180",
+    "name": "Gut Hardegg Rosé",
+    "category": "Wein",
+    "subcategories": ["Rosewein", "Gut Hardegg"]
+  },
+  {
+    "store": "billa",
+    "id": "00-465087",
+    "name": "Hagn Blauer Zweigelt",
+    "category": "Wein",
+    "subcategories": ["Rotwein", "Blauer Zweigelt", "Hagn"]
+  },
+  {
+    "store": "billa",
+    "id": "00-471892",
+    "name": "Hagn Grüner Veltliner Hundschupfen",
+    "category": "Wein",
+    "subcategories": ["Weißwein", "Grüner Veltliner", "Hundschupfen", "Hagn"]
+  },
+  {
+    "store": "billa",
+    "id": "00-506934",
+    "name": "Hannes Sabathi Sauvignon Blanc Südsteiermark DAC",
+    "category": "Wein",
+    "subcategories": [
+      "Weißwein",
+      "Sauvignon Blanc",
+      "Südsteiermark",
+      "DAC",
+      "Hannes Sabathi"
+    ]
+  },
+  {
+    "store": "billa",
+    "id": "00-487784",
+    "name": "Hannes Sabathi Welschriesling Südsteiermark DAC",
+    "category": "Wein",
+    "subcategories": [
+      "Weißwein",
+      "Welschriesling",
+      "Südsteiermark",
+      "DAC",
+      "Hannes Sabathi"
+    ]
+  },
+  {
+    "store": "billa",
+    "id": "00-464461",
+    "name": "Hans Igler Blaufränkisch Biiri Mittelburgenland DAC Reserve",
+    "category": "Wein",
+    "subcategories": [
+      "Rotwein",
+      "Blaufränkisch",
+      "Mittelburgenland",
+      "DAC",
+      "Reserve",
+      "Hans Igler",
+      "Biiri"
+    ]
+  },
+  {
+    "store": "billa",
+    "id": "00-391203",
+    "name": "Hans Igler Blaufränkisch Classic",
+    "category": "Wein",
+    "subcategories": ["Rotwein", "Blaufränkisch", "Hans Igler", "Classic"]
+  },
+  {
+    "store": "billa",
+    "id": "00-464445",
+    "name": "Hans Igler Ricciolino",
+    "category": "Wein",
+    "subcategories": ["Rotwein", "Hans Igler", "Ricciolino"]
+  },
+  {
+    "store": "billa",
+    "id": "00-482868",
+    "name": "Hans Igler Vulcano",
+    "category": "Wein",
+    "subcategories": ["Rotwein", "Hans Igler", "Vulcano"]
+  },
+  {
+    "store": "billa",
+    "id": "00-336380",
+    "name": "Hardys Shiraz Cabernet Sauvignon",
+    "category": "Wein",
+    "subcategories": ["Rotwein", "Shiraz", "Cabernet Sauvignon", "Hardys"]
+  },
+  {
+    "store": "billa",
+    "id": "00-451715",
+    "name": "Heinrich Siglos",
+    "category": "Wein",
+    "subcategories": ["Wein", "Heinrich", "Siglos"]
+  },
+  {
+    "store": "billa",
+    "id": "00-482264",
+    "name": "Heinrich Vitikult Blaufränkisch",
+    "category": "Wein",
+    "subcategories": ["Rotwein", "Blaufränkisch", "Vitikult", "Heinrich"]
+  },
+  {
+    "store": "billa",
+    "id": "00-370571",
+    "name": "Heinrich terra o.",
+    "category": "Wein",
+    "subcategories": ["Wein", "terra o.", "Heinrich"]
+  },
+  {
+    "store": "billa",
+    "id": "00-482507",
+    "name": "Hiedler Grüner Veltliner Kamptal DAC",
+    "category": "Wein",
+    "subcategories": [
+      "Weißwein",
+      "Grüner Veltliner",
+      "Kamptal",
+      "DAC",
+      "Hiedler"
+    ]
+  },
+  {
+    "store": "billa",
+    "id": "00-472626",
+    "name": "Hillinger Blaufränkisch",
+    "category": "Wein",
+    "subcategories": ["Rotwein", "Blaufränkisch", "Hillinger"]
+  },
+  {
+    "store": "billa",
+    "id": "00-463209",
+    "name": "Hillinger Hill Liter Grüner Veltliner",
+    "category": "Wein",
+    "subcategories": ["Weißwein", "Grüner Veltliner", "Hill", "Liter"]
+  },
+  {
+    "store": "billa",
+    "id": "00-495104",
+    "name": "Hillinger Small Hill Red",
+    "category": "Wein",
+    "subcategories": ["Rotwein", "Red", "Hillinger", "Small Hill"]
+  },
+  {
+    "store": "billa",
+    "id": "00-482919",
+    "name": "Hillinger Small Hill White",
+    "category": "Wein",
+    "subcategories": ["Weißwein", "White", "Hillinger", "Small Hill"]
+  },
+  {
+    "store": "billa",
+    "id": "00-721355",
+    "name": "Hochriegl Hugo Wine-Spritz",
+    "category": "Alkoholfreie Getränke",
+    "subcategories": ["Wine-Spritz", "Hugo", "Hochriegl"]
+  },
+  {
+    "store": "billa",
+    "id": "00-464936",
+    "name": "Holler Gelber Muskateller Klassik",
+    "category": "Wein",
+    "subcategories": ["Weißwein", "Gelber Muskateller", "Klassik", "Holler"]
+  },
+  {
+    "store": "billa",
+    "id": "00-471367",
+    "name": "Holzer Grüner Veltliner Federspiel",
+    "category": "Wein",
+    "subcategories": ["Weißwein", "Grüner Veltliner", "Federspiel", "Holzer"]
+  },
+  {
+    "store": "billa",
+    "id": "00-469628",
+    "name": "Huber Grüner Veltliner Rosenweg",
+    "category": "Wein",
+    "subcategories": ["Weißwein", "Grüner Veltliner", "Rosenweg", "Huber"]
+  },
+  {
+    "store": "billa",
+    "id": "00-469621",
+    "name": "Huber Riesling Terrassen Traisental DAC",
+    "category": "Wein",
+    "subcategories": [
+      "Weißwein",
+      "Riesling",
+      "Terrassen",
+      "Traisental",
+      "DAC",
+      "Huber"
+    ]
+  },
+  {
+    "store": "billa",
+    "id": "00-201723",
+    "name": "Hängendes Joch Grüner Veltliner",
+    "category": "Wein",
+    "subcategories": ["Weißwein", "Grüner Veltliner", "Hängendes Joch"]
+  },
+  {
+    "store": "billa",
+    "id": "00-372921",
+    "name": "Iby-Lehrner Rondo Blaufränkisch",
+    "category": "Wein",
+    "subcategories": ["Rotwein", "Blaufränkisch", "Rondo", "Iby-Lehrner"]
+  },
+  {
+    "store": "billa",
+    "id": "00-319627",
+    "name": "Inycon Nero D'Avola Growers Selection Sicilia DOC",
+    "category": "Wein",
+    "subcategories": [
+      "Rotwein",
+      "Nero D'Avola",
+      "Sicilia",
+      "DOC",
+      "Inycon",
+      "Growers Selection"
+    ]
+  },
+  {
+    "store": "billa",
+    "id": "00-487912",
+    "name": "J. Heinrich Blaufränkisch",
+    "category": "Wein",
+    "subcategories": ["Rotwein", "Blaufränkisch", "J. Heinrich"]
+  },
+  {
+    "store": "billa",
+    "id": "00-434890",
+    "name": "J.P. Chenet Cabernet-Syrah",
+    "category": "Wein",
+    "subcategories": ["Rotwein", "Cabernet-Syrah", "J.P. Chenet"]
+  },
+  {
+    "store": "billa",
+    "id": "00-433587",
+    "name": "J.P. Chenet Cabernet-Syrah",
+    "category": "Wein",
+    "subcategories": ["Rotwein", "Cabernet-Syrah", "J.P. Chenet"]
+  },
+  {
+    "store": "billa",
+    "id": "00-403065",
+    "name": "Ja! Natürlich Blauer Zweigelt",
+    "category": "Wein",
+    "subcategories": ["Rotwein", "Blauer Zweigelt", "Ja! Natürlich"]
+  },
+  {
+    "store": "billa",
+    "id": "00-447986",
+    "name": "Ja! Natürlich Blaufränkisch",
+    "category": "Wein",
+    "subcategories": ["Rotwein", "Blaufränkisch", "Ja! Natürlich"]
+  },
+  {
+    "store": "billa",
+    "id": "00-454872",
+    "name": "Ja! Natürlich Cuvée Barrique",
+    "category": "Wein",
+    "subcategories": ["Wein", "Cuvée", "Barrique", "Ja! Natürlich"]
+  },
+  {
+    "store": "billa",
+    "id": "00-458672",
+    "name": "Ja! Natürlich Gemischter Satz",
+    "category": "Wein",
+    "subcategories": ["Weißwein", "Gemischter Satz", "Ja! Natürlich"]
+  },
+  {
+    "store": "billa",
+    "id": "00-461901",
+    "name": "Ja! Natürlich Grüner Veltliner",
+    "category": "Wein",
+    "subcategories": ["Weißwein", "Grüner Veltliner", "Ja! Natürlich"]
+  },
+  {
+    "store": "billa",
+    "id": "00-471342",
+    "name": "Ja! Natürlich St. Laurent",
+    "category": "Wein",
+    "subcategories": ["Rotwein", "St. Laurent", "Ja! Natürlich"]
+  },
+  {
+    "store": "billa",
+    "id": "00-433155",
+    "name": "Ja! Natürlich Weisser Burgunder",
+    "category": "Wein",
+    "subcategories": ["Weißwein", "Weisser Burgunder", "Ja! Natürlich"]
+  },
+  {
+    "store": "billa",
+    "id": "00-466428",
+    "name": "Ja! Natürlich Welschriesling",
+    "category": "Wein",
+    "subcategories": ["Weißwein", "Welschriesling", "Ja! Natürlich"]
+  },
+  {
+    "store": "billa",
+    "id": "00-478399",
+    "name": "Ja! Natürlich Zweigelt Rosé",
+    "category": "Wein",
+    "subcategories": ["Rosewein", "Zweigelt", "Rosé", "Ja! Natürlich"]
+  },
+  {
+    "store": "billa",
+    "id": "00-415163",
+    "name": "Julian Madrid Rioja Reserva",
+    "category": "Wein",
+    "subcategories": ["Rotwein", "Rioja", "Reserva", "Julian Madrid"]
+  },
+  {
+    "store": "billa",
+    "id": "00-466422",
+    "name": "Jurtschitsch Grü Ve - Grüner Veltliner",
+    "category": "Wein",
+    "subcategories": ["Weißwein", "Grüner Veltliner", "Jurtschitsch", "Grü Ve"]
+  },
+  {
+    "store": "billa",
+    "id": "00-463580",
+    "name": "Jöbstl Gelber Muskateller Klassik",
+    "category": "Wein",
+    "subcategories": ["Weißwein", "Gelber Muskateller", "Klassik", "Jöbstl"]
+  },
+  {
+    "store": "billa",
+    "id": "00-475708",
+    "name": "Jöbstl Weissburgunder Südsteiermark DAC",
+    "category": "Wein",
+    "subcategories": [
+      "Weißwein",
+      "Weissburgunder",
+      "Südsteiermark",
+      "DAC",
+      "Jöbstl"
+    ]
+  },
+  {
+    "store": "billa",
+    "id": "00-499614",
+    "name": "Kartäuser Riesling Federspiel",
+    "category": "Wein",
+    "subcategories": ["Weißwein", "Riesling", "Federspiel", "Kartäuser"]
+  },
+  {
+    "store": "billa",
+    "id": "00-423530",
+    "name": "Kellerei Bozen Lagrein",
+    "category": "Wein",
+    "subcategories": ["Rotwein", "Lagrein", "Kellerei Bozen"]
+  },
+  {
+    "store": "billa",
+    "id": "00-464061",
+    "name": "Keringer Blaufränkisch Aviator",
+    "category": "Wein",
+    "subcategories": ["Rotwein", "Blaufränkisch", "Aviator", "Keringer"]
+  },
+  {
+    "store": "billa",
+    "id": "00-396107",
+    "name": "Keringer Grande Cuvée",
+    "category": "Wein",
+    "subcategories": ["Wein", "Grande Cuvée", "Keringer"]
+  },
+  {
+    "store": "billa",
+    "id": "00-523984",
+    "name": "Keringer Zweigelt Heideboden",
+    "category": "Wein",
+    "subcategories": ["Rotwein", "Zweigelt", "Heideboden", "Keringer"]
+  },
+  {
+    "store": "billa",
+    "id": "00-309123",
+    "name": "Kirnbauer K+K Cuvée",
+    "category": "Wein",
+    "subcategories": ["Wein", "Cuvée", "Kirnbauer", "K+K"]
+  },
+  {
+    "store": "billa",
+    "id": "00-12486",
+    "name": "Kourtaki Retsina",
+    "category": "Wein",
+    "subcategories": ["Wein", "Retsina", "Kourtaki"]
+  },
+  {
+    "store": "billa",
+    "id": "00-256857",
+    "name": "Kracher Beerenauslese Cuvée",
+    "category": "Wein",
+    "subcategories": ["Weißwein", "Beerenauslese", "Cuvée", "Kracher"]
+  },
+  {
+    "store": "billa",
+    "id": "00-469800",
+    "name": "Kracher Muskat Ottonel Auslese",
+    "category": "Wein",
+    "subcategories": ["Weißwein", "Muskat Ottonel", "Auslese", "Kracher"]
+  },
+  {
+    "store": "billa",
+    "id": "00-509047",
+    "name": "Kracher Spätlese Cuvée",
+    "category": "Wein",
+    "subcategories": ["Wein", "Spätlese", "Cuvée", "Kracher"]
+  },
+  {
+    "store": "billa",
+    "id": "00-71113",
+    "name": "Kremser Schmidt Grüner Veltliner",
+    "category": "Wein",
+    "subcategories": ["Weißwein", "Grüner Veltliner", "Kremser Schmidt"]
+  },
+  {
+    "store": "billa",
+    "id": "00-473572",
+    "name": "Krispel Gelber Muskateller Klassik",
+    "category": "Wein",
+    "subcategories": ["Weißwein", "Gelber Muskateller", "Klassik", "Krispel"]
+  },
+  {
+    "store": "billa",
+    "id": "00-473587",
+    "name": "Krispel Sauvignon Blanc DAC",
+    "category": "Wein",
+    "subcategories": ["Weißwein", "Sauvignon Blanc", "DAC", "Krispel"]
+  },
+  {
+    "store": "billa",
+    "id": "00-473595",
+    "name": "Krispel Weissburgunder DAC",
+    "category": "Wein",
+    "subcategories": ["Weißwein", "Weissburgunder", "DAC", "Krispel"]
+  }
+]

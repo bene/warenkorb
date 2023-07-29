@@ -1,0 +1,702 @@
+[
+  {
+    "store": "hofer",
+    "id": 546225,
+    "name": "TANDIL Aktiv Weiss Tücher 20 Stück",
+    "category": "Reinigung",
+    "subcategories": ["Tücher", "Weiß", "Aktiv"]
+  },
+  {
+    "store": "hofer",
+    "id": 546239,
+    "name": "TANDIL Badreiniger 1l",
+    "category": "Reinigung",
+    "subcategories": ["Bad", "Reiniger"]
+  },
+  {
+    "store": "hofer",
+    "id": 548787,
+    "name": "TANDIL Brillenputztücher 100Stück",
+    "category": "Reinigung",
+    "subcategories": ["Brillenputztücher"]
+  },
+  {
+    "store": "hofer",
+    "id": 544585,
+    "name": "TANDIL Duschkabinen Reiniger 1l",
+    "category": "Reinigung",
+    "subcategories": ["Duschkabinen", "Reiniger"]
+  },
+  {
+    "store": "hofer",
+    "id": 545887,
+    "name": "TANDIL ECO Ökologisches Geschirrspülmittel - Classic 500ml",
+    "category": "Geschirrspülmittel",
+    "subcategories": ["Ökologisches", "Classic"]
+  },
+  {
+    "store": "hofer",
+    "id": 545886,
+    "name": "TANDIL ECO Ökologisches Geschirrspülmittel - Sensitive 500ml",
+    "category": "Geschirrspülmittel",
+    "subcategories": ["Ökologisches", "Sensitive"]
+  },
+  {
+    "store": "hofer",
+    "id": 548577,
+    "name": "TANDIL Eco Ökologischer Allzweck-Reiniger Baumwollblüte 1l",
+    "category": "Reinigung",
+    "subcategories": ["Ökologischer", "Allzweck-Reiniger"]
+  },
+  {
+    "store": "hofer",
+    "id": 544621,
+    "name": "TANDIL Eco Ökologischer Badreiniger 750ml",
+    "category": "Reinigung",
+    "subcategories": ["Ökologischer", "Badreiniger"]
+  },
+  {
+    "store": "hofer",
+    "id": 544620,
+    "name": "TANDIL Eco Ökologischer Glasreiniger 750ml",
+    "category": "Reinigung",
+    "subcategories": ["Ökologischer", "Glasreiniger"]
+  },
+  {
+    "store": "hofer",
+    "id": 544622,
+    "name": "TANDIL Eco Ökologischer Küchenreiniger 750ml",
+    "category": "Reinigung",
+    "subcategories": ["Ökologischer", "Küchenreiniger"]
+  },
+  {
+    "store": "hofer",
+    "id": 548600,
+    "name": "TANDIL Einweghandschuhe L 100 Stück",
+    "category": "Reinigung",
+    "subcategories": ["Einweghandschuhe", "L"]
+  },
+  {
+    "store": "hofer",
+    "id": 548599,
+    "name": "TANDIL Einweghandschuhe M 100 Stück",
+    "category": "Reinigung",
+    "subcategories": ["Einweghandschuhe", "M"]
+  },
+  {
+    "store": "hofer",
+    "id": 548598,
+    "name": "TANDIL Einweghandschuhe S 100 Stück",
+    "category": "Reinigung",
+    "subcategories": ["Einweghandschuhe", "S"]
+  },
+  {
+    "store": "hofer",
+    "id": 546224,
+    "name": "TANDIL Farbfangtücher 24 Stück",
+    "category": "Reinigung",
+    "subcategories": ["Farbfangtücher"]
+  },
+  {
+    "store": "hofer",
+    "id": 547090,
+    "name": "TANDIL Feuchte Allzwecktücher Lemon 80 Stück",
+    "category": "Reinigung",
+    "subcategories": ["Feuchte Allzwecktücher", "Lemon"]
+  },
+  {
+    "store": "hofer",
+    "id": 546743,
+    "name": "TANDIL Geschirrreiniger 6 Stück",
+    "category": "Geschirrreiniger",
+    "subcategories": ["Geschirrreiniger"]
+  },
+  {
+    "store": "hofer",
+    "id": 545140,
+    "name": "TANDIL Geschirrschpültabs Classic 100 Tabs 1,2kg",
+    "category": "Geschirrreiniger",
+    "subcategories": ["Geschirrspültabs", "Classic"]
+  },
+  {
+    "store": "hofer",
+    "id": 548025,
+    "name": "TANDIL Geschirrspülmittel Classic 1l",
+    "category": "Geschirrspülmittel",
+    "subcategories": ["Geschirrspülmittel", "Classic"]
+  },
+  {
+    "store": "hofer",
+    "id": 547091,
+    "name": "TANDIL feuchte Allzwecktücher Apfel 80 Stk.",
+    "category": "Reinigung",
+    "subcategories": ["Feuchte Allzwecktücher", "Apfel"]
+  },
+  {
+    "store": "hofer",
+    "id": 544613,
+    "name": "TANDIL 3in1 Caps Colorwaschmittel 22x26,9g",
+    "category": "Waschmittel",
+    "subcategories": ["3in1 Caps", "Colorwaschmittel"]
+  },
+  {
+    "store": "hofer",
+    "id": 545928,
+    "name": "TANDIL 3in1 Caps Vollwaschmittel 22x26,9g",
+    "category": "Waschmittel",
+    "subcategories": ["3in1 Caps", "Vollwaschmittel"]
+  },
+  {
+    "store": "hofer",
+    "id": 545876,
+    "name": "TANDIL Black Spezialwashmittel 1,5l",
+    "category": "Waschmittel",
+    "subcategories": ["Black Spezialwashmittel"]
+  },
+  {
+    "store": "hofer",
+    "id": 545952,
+    "name": "TANDIL Colorwaschmittel Blumig frisch 5,2kg",
+    "category": "Waschmittel",
+    "subcategories": ["Colorwaschmittel", "Blumig frisch"]
+  },
+  {
+    "store": "hofer",
+    "id": 545953,
+    "name": "TANDIL Colorwaschmittel classic 5,2kg",
+    "category": "Waschmittel",
+    "subcategories": ["Colorwaschmittel", "Classic"]
+  },
+  {
+    "store": "hofer",
+    "id": 547500,
+    "name": "TANDIL Eco Ökologisches Vollwaschmittel 2l",
+    "category": "Waschmittel",
+    "subcategories": ["Ökologisches", "Vollwaschmittel"]
+  },
+  {
+    "store": "hofer",
+    "id": 548176,
+    "name": "TANDIL Feinwaschmittel Fein 30 Wäschen 1,5l",
+    "category": "Waschmittel",
+    "subcategories": ["Feinwaschmittel", "Fein"]
+  },
+  {
+    "store": "hofer",
+    "id": 548177,
+    "name": "TANDIL Feinwaschmittel Sport 30 Wäschen 1,5l",
+    "category": "Waschmittel",
+    "subcategories": ["Feinwaschmittel", "Sport"]
+  },
+  {
+    "store": "hofer",
+    "id": 548178,
+    "name": "TANDIL Feinwaschmittel Wolle 30 Wäschen 1,5l",
+    "category": "Waschmittel",
+    "subcategories": ["Feinwaschmittel", "Wolle"]
+  },
+  {
+    "store": "hofer",
+    "id": 548490,
+    "name": "TANDIL Müllbeutel 120L 20 Stück",
+    "category": "Reinigung",
+    "subcategories": ["Müllbeutel", "120L"]
+  },
+  {
+    "store": "hofer",
+    "id": 548491,
+    "name": "TANDIL Müllbeutel 150L 15 Stück",
+    "category": "Reinigung",
+    "subcategories": ["Müllbeutel", "150L"]
+  },
+  {
+    "store": "hofer",
+    "id": 546825,
+    "name": "TANDIL Müllbeutel mit Henkel 25l 50 Stück",
+    "category": "Reinigung",
+    "subcategories": ["Müllbeutel", "Henkel"]
+  },
+  {
+    "store": "hofer",
+    "id": 545799,
+    "name": "TANDIL WC Duftspüler Fresh Spring mit Geruchsneutralisierer 3x55ml",
+    "category": "WC",
+    "subcategories": ["WC", "Duftspüler", "Fresh Spring"]
+  },
+  {
+    "store": "hofer",
+    "id": 545800,
+    "name": "TANDIL WC Duftspüler Lemon 3x55ml",
+    "category": "WC",
+    "subcategories": ["WC", "Duftspüler", "Lemon"]
+  },
+  {
+    "store": "hofer",
+    "id": 544447,
+    "name": "TANDIL WC Duftspüler Ocean 3x55ml",
+    "category": "WC",
+    "subcategories": ["WC", "Duftspüler", "Ocean"]
+  },
+  {
+    "store": "hofer",
+    "id": 548001,
+    "name": "TANDIL WC Duftspüler Winter Smooth 165ml",
+    "category": "WC",
+    "subcategories": ["WC", "Duftspüler", "Winter Smooth"]
+  },
+  {
+    "store": "hofer",
+    "id": 545912,
+    "name": "TANDIL WC Stick Lavendel 4x40g",
+    "category": "WC",
+    "subcategories": ["WC", "Stick", "Lavendel"]
+  },
+  {
+    "store": "hofer",
+    "id": 545910,
+    "name": "TANDIL WC Stick Lemon 4x40g",
+    "category": "WC",
+    "subcategories": ["WC", "Stick", "Lemon"]
+  },
+  {
+    "store": "hofer",
+    "id": 545911,
+    "name": "TANDIL WC Stick Ocean 4x40g",
+    "category": "WC",
+    "subcategories": ["WC", "Stick", "Ocean"]
+  },
+  {
+    "store": "hofer",
+    "id": 547206,
+    "name": "TANDIL WC-Power Steinchen Fruits 2x48g",
+    "category": "WC",
+    "subcategories": ["WC-Power", "Steinchen", "Fruits"]
+  },
+  {
+    "store": "hofer",
+    "id": 547204,
+    "name": "TANDIL WC-Power Steinchen Lemon 2x48g",
+    "category": "WC",
+    "subcategories": ["WC-Power", "Steinchen", "Lemon"]
+  },
+  {
+    "store": "hofer",
+    "id": 547205,
+    "name": "TANDIL WC-Power Steinchen Ocean 2x48g",
+    "category": "WC",
+    "subcategories": ["WC-Power", "Steinchen", "Ocean"]
+  },
+  {
+    "store": "hofer",
+    "id": 546667,
+    "name": "TANDIL WC-Reiniger Blue Wave 1l",
+    "category": "WC",
+    "subcategories": ["WC-Reiniger", "Blue Wave"]
+  },
+  {
+    "store": "hofer",
+    "id": 546668,
+    "name": "TANDIL WC-Reiniger Fresh Lemon 1l",
+    "category": "WC",
+    "subcategories": ["WC-Reiniger", "Fresh Lemon"]
+  },
+  {
+    "store": "hofer",
+    "id": 544558,
+    "name": "TANDIL Geschirrspülmittel Konzentrat 500ml",
+    "category": "Geschirrspülmittel",
+    "subcategories": ["Geschirrspülmittel", "Konzentrat"]
+  },
+  {
+    "store": "hofer",
+    "id": 545888,
+    "name": "TANDIL Geschirrspülmittel Konzentrat Lemon 500ml",
+    "category": "Geschirrspülmittel",
+    "subcategories": ["Geschirrspülmittel", "Konzentrat", "Lemon"]
+  },
+  {
+    "store": "hofer",
+    "id": 548026,
+    "name": "TANDIL Geschirrspülmittel Zitrone 1l",
+    "category": "Geschirrspülmittel",
+    "subcategories": ["Geschirrspülmittel", "Zitrone"]
+  },
+  {
+    "store": "hofer",
+    "id": 545017,
+    "name": "TANDIL Geschirrspültabs All in One 70 Tabs 1,4kg",
+    "category": "Geschirrspülmittel",
+    "subcategories": ["Geschirrspültabs", "All in One"]
+  },
+  {
+    "store": "hofer",
+    "id": 544453,
+    "name": "TANDIL Glasreiniger 1l",
+    "category": "Reinigung",
+    "subcategories": ["Glasreiniger"]
+  },
+  {
+    "store": "hofer",
+    "id": 544452,
+    "name": "TANDIL Glasreiniger Zitrone 1l",
+    "category": "Reinigung",
+    "subcategories": ["Glasreiniger", "Zitrone"]
+  },
+  {
+    "store": "hofer",
+    "id": 545836,
+    "name": "TANDIL Klarspüler 1l",
+    "category": "Geschirrspülmittel",
+    "subcategories": ["Klarspüler"]
+  },
+  {
+    "store": "hofer",
+    "id": 547095,
+    "name": "TANDIL Mikrofaser Fenstertuch 3 Stk.",
+    "category": "Reinigung",
+    "subcategories": ["Mikrofaser", "Fenstertuch"]
+  },
+  {
+    "store": "hofer",
+    "id": 547761,
+    "name": "TANDIL Mikrofaser Schwammtücher Blau 3 Stück",
+    "category": "Reinigung",
+    "subcategories": ["Mikrofaser", "Schwammtücher", "Blau"]
+  },
+  {
+    "store": "hofer",
+    "id": 547762,
+    "name": "TANDIL Mikrofaser Schwammtücher Blumen 3 Stück",
+    "category": "Reinigung",
+    "subcategories": ["Mikrofaser", "Schwammtücher", "Blumen"]
+  },
+  {
+    "store": "hofer",
+    "id": 544769,
+    "name": "TANDIL Mikrofaser Schwammtücher Grün 3 Stück",
+    "category": "Reinigung",
+    "subcategories": ["Mikrofaser", "Schwammtücher", "Grün"]
+  },
+  {
+    "store": "hofer",
+    "id": 549899,
+    "name": "TANDIL Mikrofaser Schwammtücher Otter 3 Stück",
+    "category": "Reinigung",
+    "subcategories": ["Mikrofaser", "Schwammtücher", "Otter"]
+  },
+  {
+    "store": "hofer",
+    "id": 546258,
+    "name": "TANDIL Mikrofaser Schwammtücher Rosa 3 Stk.",
+    "category": "Reinigung",
+    "subcategories": ["Mikrofaser", "Schwammtücher", "Rosa"]
+  },
+  {
+    "store": "hofer",
+    "id": 549900,
+    "name": "TANDIL Mikrofaser Schwammtücher Tiere 3er",
+    "category": "Reinigung",
+    "subcategories": ["Mikrofaser", "Schwammtücher", "Tiere"]
+  },
+  {
+    "store": "hofer",
+    "id": 547094,
+    "name": "TANDIL Mikrofaser Universaltuch 3 Stk.",
+    "category": "Reinigung",
+    "subcategories": ["Mikrofaser", "Universaltuch"]
+  },
+  {
+    "store": "hofer",
+    "id": 546111,
+    "name": "TANDIL Multi Power Reiniger 1l",
+    "category": "Reinigung",
+    "subcategories": ["Multi Power Reiniger"]
+  },
+  {
+    "store": "hofer",
+    "id": 544994,
+    "name": "TANDIL Regeneriersalz 2kg",
+    "category": "Reinigung",
+    "subcategories": ["Regeneriersalz"]
+  },
+  {
+    "store": "hofer",
+    "id": 546151,
+    "name": "TANDIL Schwammtücher 5 Stück",
+    "category": "Reinigung",
+    "subcategories": ["Schwammtücher"]
+  },
+  {
+    "store": "hofer",
+    "id": 546138,
+    "name": "TANDIL Topfreiniger 10 Stück",
+    "category": "Reinigung",
+    "subcategories": ["Topfreiniger"]
+  },
+  {
+    "store": "hofer",
+    "id": 544760,
+    "name": "TANDIL Topfreiniger 6 Stück",
+    "category": "Reinigung",
+    "subcategories": ["Topfreiniger"]
+  },
+  {
+    "store": "hofer",
+    "id": 549431,
+    "name": "TANDIL Premium Weichspüler Nordic Fresh 40 Wäschen 1l",
+    "category": "Weichspüler",
+    "subcategories": ["Premium Weichspüler", "Nordic Fresh"]
+  },
+  {
+    "store": "hofer",
+    "id": 549430,
+    "name": "TANDIL Premium Weichspüler Pure Cotton 40 Wäschen 1l",
+    "category": "Weichspüler",
+    "subcategories": ["Premium Weichspüler", "Pure Cotton"]
+  },
+  {
+    "store": "hofer",
+    "id": 548081,
+    "name": "TANDIL Spezial-Waschmittel Sensitiv 1,5l",
+    "category": "Waschmittel",
+    "subcategories": ["Spezial-Waschmittel", "Sensitiv"]
+  },
+  {
+    "store": "hofer",
+    "id": 545950,
+    "name": "TANDIL Vollwaschmittel Classic 5,2kg",
+    "category": "Waschmittel",
+    "subcategories": ["Vollwaschmittel", "Classic"]
+  },
+  {
+    "store": "hofer",
+    "id": 545951,
+    "name": "TANDIL Vollwaschmittel duftig frisch 5,2kg",
+    "category": "Waschmittel",
+    "subcategories": ["Vollwaschmittel", "duftig frisch"]
+  },
+  {
+    "store": "hofer",
+    "id": 544539,
+    "name": "TANDIL White Wonder 1,5l",
+    "category": "Küche",
+    "subcategories": ["White Wonder"]
+  },
+  {
+    "store": "hofer",
+    "id": 545346,
+    "name": "WAGNER & DELIKAT Debreziner 360g",
+    "category": "Wurst",
+    "subcategories": ["Debreziner"]
+  },
+  {
+    "store": "hofer",
+    "id": 549996,
+    "name": "ZURÜCK ZUM URSPRUNG Austernpilze 150g",
+    "category": "Pilze",
+    "subcategories": ["Austernpilze"]
+  },
+  {
+    "store": "hofer",
+    "id": 544649,
+    "name": "ZURÜCK ZUM URSPRUNG Apfel-Birnen Saft 1l",
+    "category": "Saft",
+    "subcategories": ["Apfel-Birnen Saft"]
+  },
+  {
+    "store": "hofer",
+    "id": 548407,
+    "name": "ZURÜCK ZUM URSPRUNG Apfel-Johannisbeer Saft 1l",
+    "category": "Saft",
+    "subcategories": ["Apfel-Johannisbeer Saft"]
+  },
+  {
+    "store": "hofer",
+    "id": 548672,
+    "name": "ZARANOFF Ice 275ml",
+    "category": "Alkohol",
+    "subcategories": ["ZARANOFF", "Ice"]
+  },
+  {
+    "store": "hofer",
+    "id": 545086,
+    "name": "ZARANOFF Vodka 0,7l",
+    "category": "Alkohol",
+    "subcategories": ["ZARANOFF", "Vodka"]
+  },
+  {
+    "store": "hofer",
+    "id": 549842,
+    "name": "ZARANOFF Vodka Energydrink 0,33l",
+    "category": "Alkohol",
+    "subcategories": ["ZARANOFF", "Vodka", "Energydrink"]
+  },
+  {
+    "store": "hofer",
+    "id": 545075,
+    "name": "Weißwein Vino Bianco Tetrapack 1,5l",
+    "category": "Wein",
+    "subcategories": ["Weißwein", "Vino Bianco"]
+  },
+  {
+    "store": "hofer",
+    "id": 549855,
+    "name": "WONNEMEYER Linsensalat mit Bulgur 200g",
+    "category": "Salat",
+    "subcategories": ["Linsensalat", "Bulgur"]
+  },
+  {
+    "store": "hofer",
+    "id": 544153,
+    "name": "WONNEMEYER Meerrettich Wurstsalat mit Gurken 200g",
+    "category": "Salat",
+    "subcategories": ["Meerrettich", "Wurstsalat", "Gurken"]
+  },
+  {
+    "store": "hofer",
+    "id": 544155,
+    "name": "WONNEMEYER Pikanter Wurstsalat mit Paprika und Zwiebeln 200g",
+    "category": "Salat",
+    "subcategories": ["Pikanter Wurstsalat", "Paprika", "Zwiebeln"]
+  },
+  {
+    "store": "hofer",
+    "id": 549857,
+    "name": "WONNEMEYER Süßer Bulgursalat 200g",
+    "category": "Salat",
+    "subcategories": ["Süßer Bulgursalat"]
+  },
+  {
+    "store": "hofer",
+    "id": 544156,
+    "name": "WONNEMEYER Wurstsalat mit Gurken 200g",
+    "category": "Salat",
+    "subcategories": ["Wurstsalat", "Gurken"]
+  },
+  {
+    "store": "hofer",
+    "id": 544154,
+    "name": "WONNEMEYER Wurstsalat mit Gurken und Kräutern 200g",
+    "category": "Salat",
+    "subcategories": ["Wurstsalat", "Gurken", "Kräutern"]
+  },
+  {
+    "store": "hofer",
+    "id": 546522,
+    "name": "XXL Burger Bacon 260g",
+    "category": "Burger",
+    "subcategories": ["XXL Burger", "Bacon"]
+  },
+  {
+    "store": "hofer",
+    "id": 545499,
+    "name": "XXL Burger Beef Filet 230g",
+    "category": "Burger",
+    "subcategories": ["XXL Burger", "Beef Filet"]
+  },
+  {
+    "store": "hofer",
+    "id": 545498,
+    "name": "XXL Burger Chorizo 250g",
+    "category": "Burger",
+    "subcategories": ["XXL Burger", "Chorizo"]
+  },
+  {
+    "store": "hofer",
+    "id": 549997,
+    "name": "ZURÜCK ZUM URSPRUNG BIO-Spareribs 1kg",
+    "category": "Fleisch",
+    "subcategories": ["BIO-Spareribs"]
+  },
+  {
+    "store": "hofer",
+    "id": 544950,
+    "name": "ZOTT Cheese Tiger 84g",
+    "category": "Käse",
+    "subcategories": ["Cheese Tiger"]
+  },
+  {
+    "store": "hofer",
+    "id": 544292,
+    "name": "ZURÜCK ZUM URSPRUNG  Fein-Würziger Bergbauern Weichkäse Rot-Weiss 150g",
+    "category": "Käse",
+    "subcategories": ["Fein-Würziger Bergbauern Weichkäse", "Rot-Weiss"]
+  },
+  {
+    "store": "hofer",
+    "id": 544072,
+    "name": "ZURÜCK ZUM URSPRUNG Almbaron 175g",
+    "category": "Käse",
+    "subcategories": ["Almbaron"]
+  },
+  {
+    "store": "hofer",
+    "id": 544131,
+    "name": "ZURÜCK ZUM URSPRUNG Aufstrich Gemüse 150g",
+    "category": "Aufstrich",
+    "subcategories": ["Aufstrich", "Gemüse"]
+  },
+  {
+    "store": "hofer",
+    "id": 545543,
+    "name": "ZURÜCK ZUM URSPRUNG Aufstrich Grünkern-Kürbiskern mit Sojabohnen 150g",
+    "category": "Aufstrich",
+    "subcategories": ["Aufstrich", "Grünkern-Kürbiskern", "Sojabohnen"]
+  },
+  {
+    "store": "hofer",
+    "id": 544130,
+    "name": "ZURÜCK ZUM URSPRUNG Aufstrich Rote Bohne-Walnuss 150g",
+    "category": "Aufstrich",
+    "subcategories": ["Aufstrich", "Rote Bohne-Walnuss"]
+  },
+  {
+    "store": "hofer",
+    "id": 546515,
+    "name": "ZURÜCK ZUM URSPRUNG Bauchspeck 100g",
+    "category": "Fleisch",
+    "subcategories": ["Bauchspeck"]
+  },
+  {
+    "store": "hofer",
+    "id": 546045,
+    "name": "ZURÜCK ZUM URSPRUNG Bauernbratwürstel 220g",
+    "category": "Wurst",
+    "subcategories": ["Bauernbratwürstel"]
+  },
+  {
+    "store": "hofer",
+    "id": 545697,
+    "name": "ZURÜCK ZUM URSPRUNG Beinschinken 150g",
+    "category": "Schinken",
+    "subcategories": ["Beinschinken"]
+  },
+  {
+    "store": "hofer",
+    "id": 546917,
+    "name": "ZURÜCK ZUM URSPRUNG Apfel Banane und Hirsche 190g",
+    "category": "Babykost",
+    "subcategories": ["Apfel", "Banane", "Hirsche"]
+  },
+  {
+    "store": "hofer",
+    "id": 546918,
+    "name": "ZURÜCK ZUM URSPRUNG Apfel Banane und Zwieback 190g",
+    "category": "Babykost",
+    "subcategories": ["Apfel", "Banane", "Zwieback"]
+  },
+  {
+    "store": "hofer",
+    "id": 546909,
+    "name": "ZURÜCK ZUM URSPRUNG Apfel pur 125g",
+    "category": "Babykost",
+    "subcategories": ["Apfel"]
+  },
+  {
+    "store": "hofer",
+    "id": 548710,
+    "name": "ZURÜCK ZUM URSPRUNG Apfel und Mango mit Dinkelgriess 190g",
+    "category": "Babykost",
+    "subcategories": ["Apfel", "Mango", "Dinkelgriess"]
+  }
+]

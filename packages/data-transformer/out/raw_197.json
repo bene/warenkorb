@@ -1,0 +1,702 @@
+[
+  {
+    "store": "spar",
+    "id": "2020003874109",
+    "name": "Rotbäckchen Vital Vitamin D 450ML",
+    "category": "Gesundheit",
+    "subcategories": ["Vitamine", "Nahrungsergänzung"]
+  },
+  {
+    "store": "spar",
+    "id": "5412822",
+    "name": "Roberto Grissini Crocchini Salati",
+    "category": "Snacks",
+    "subcategories": ["Salzgebäck", "Knabbereien"]
+  },
+  {
+    "store": "spar",
+    "id": "8083784",
+    "name": "Roberto Grissini Crocchini Sesam",
+    "category": "Snacks",
+    "subcategories": ["Salzgebäck", "Knabbereien"]
+  },
+  {
+    "store": "spar",
+    "id": "5412846",
+    "name": "Roberto Grissini Grocchini Rosmarin",
+    "category": "Snacks",
+    "subcategories": ["Salzgebäck", "Knabbereien"]
+  },
+  {
+    "store": "spar",
+    "id": "8083760",
+    "name": "Roberto Grissini Torinesi",
+    "category": "Snacks",
+    "subcategories": ["Salzgebäck", "Knabbereien"]
+  },
+  {
+    "store": "spar",
+    "id": "4482376",
+    "name": "Rohde Hirschtalgcreme Natur 100ml",
+    "category": "Kosmetik",
+    "subcategories": ["Creme", "Hautpflege"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004067937",
+    "name": "Ron Johan Vanilla",
+    "category": "Getränke",
+    "subcategories": ["Sirup", "Verfeinerung"]
+  },
+  {
+    "store": "spar",
+    "id": "7743153",
+    "name": "Rot-Weiss Zahnpasta 125 ml",
+    "category": "Hygiene",
+    "subcategories": ["Zahnpflege", "Zahnpasta"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001544080",
+    "name": "Rotho CARUBA Schüssel 3l",
+    "category": "Haushalt",
+    "subcategories": ["Aufbewahrung", "Schüsseln"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001544127",
+    "name": "Rotho CARUBA Sieb",
+    "category": "Haushalt",
+    "subcategories": ["Kochen", "Siebe"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003007941",
+    "name": "Rotho Fresh Kühlschrankkrug Fresh 2L",
+    "category": "Haushalt",
+    "subcategories": ["Aufbewahrung", "Kühlschrank"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002350253",
+    "name": "Rorax Power-Gel Bio-Rohrfrei 1L",
+    "category": "Haushalt",
+    "subcategories": ["Reiniger", "Rohrreinigung"]
+  },
+  {
+    "store": "spar",
+    "id": "2784977",
+    "name": "Rorax Power-Gel Rohrfrei 1L",
+    "category": "Haushalt",
+    "subcategories": ["Reiniger", "Rohrreinigung"]
+  },
+  {
+    "store": "spar",
+    "id": "6830960",
+    "name": "Rorax Rohrfrei Abflussreiniger Granulat 600g",
+    "category": "Haushalt",
+    "subcategories": ["Reiniger", "Abflussreinigung"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004314758",
+    "name": "Rotho Eimer Vario",
+    "category": "Haushalt",
+    "subcategories": ["Aufbewahrung", "Eimer"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004314826",
+    "name": "Rotho Eimer Vario",
+    "category": "Haushalt",
+    "subcategories": ["Aufbewahrung", "Eimer"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001547616",
+    "name": "Rotho Besteckkasten 6 Fächer",
+    "category": "Haushalt",
+    "subcategories": ["Küche", "Besteck"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003239052",
+    "name": "Rotho Box EVO TOTAL 11 L Box EVO TOTAL 11 L",
+    "category": "Haushalt",
+    "subcategories": ["Aufbewahrung", "Boxen"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003239069",
+    "name": "Rotho Box EVO TOTAL 15 L EVO TOTAL",
+    "category": "Haushalt",
+    "subcategories": ["Aufbewahrung", "Boxen"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001260348",
+    "name": "Rotho CLIC & LOCK Kühlschrankdose 0,5l",
+    "category": "Haushalt",
+    "subcategories": ["Aufbewahrung", "Kühlschrank"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001260355",
+    "name": "Rotho CLIC & LOCK Kühlschrankdose 0,75l",
+    "category": "Haushalt",
+    "subcategories": ["Aufbewahrung", "Kühlschrank"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001260386",
+    "name": "Rotho CLIC & LOCK Kühlschrankdose 0,8l",
+    "category": "Haushalt",
+    "subcategories": ["Aufbewahrung", "Kühlschrank"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001260393",
+    "name": "Rotho CLIC & LOCK Kühlschrankdose 1,4l",
+    "category": "Haushalt",
+    "subcategories": ["Aufbewahrung", "Kühlschrank"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001260416",
+    "name": "Rotho CLIC & LOCK Kühlschrankdose 2l",
+    "category": "Haushalt",
+    "subcategories": ["Aufbewahrung", "Kühlschrank"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001546060",
+    "name": "Rotho CLIC & LOCK Streudose 1,5l",
+    "category": "Haushalt",
+    "subcategories": ["Aufbewahrung", "Streudosen"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004200006",
+    "name": "Rotho DAILY Becken 6 L 34 cm DAILY",
+    "category": "Haushalt",
+    "subcategories": ["Aufbewahrung", "Becken"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004199997",
+    "name": "Rotho DAILY Becken 8 L 34x34cm DAILY",
+    "category": "Haushalt",
+    "subcategories": ["Aufbewahrung", "Becken"]
+  },
+  {
+    "store": "spar",
+    "id": "7473753",
+    "name": "Rotho DOMINO Gefrierdose Domino 3x1,5 l",
+    "category": "Haushalt",
+    "subcategories": ["Aufbewahrung", "Gefrierdosen"]
+  },
+  {
+    "store": "spar",
+    "id": "7473548",
+    "name": "Rotho DOMINO Gefrierdose Domino 4x0,75L",
+    "category": "Haushalt",
+    "subcategories": ["Aufbewahrung", "Gefrierdosen"]
+  },
+  {
+    "store": "spar",
+    "id": "7473425",
+    "name": "Rotho DOMINO Gefrierdosen Set Domino 4x0,2l",
+    "category": "Haushalt",
+    "subcategories": ["Aufbewahrung", "Gefrierdosen"]
+  },
+  {
+    "store": "spar",
+    "id": "7473463",
+    "name": "Rotho DOMINO Gefrierdosen Set Domino 4x0,5l",
+    "category": "Haushalt",
+    "subcategories": ["Aufbewahrung", "Gefrierdosen"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001543199",
+    "name": "Rotho FUN Aufbewahrungsbox 1,25l",
+    "category": "Haushalt",
+    "subcategories": ["Aufbewahrung", "Boxen"]
+  },
+  {
+    "store": "spar",
+    "id": "7599781",
+    "name": "Rotho Fresh Gugelhupfbehälter weiß",
+    "category": "Haushalt",
+    "subcategories": ["Aufbewahrung", "Backen"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003445132",
+    "name": "Rotho Fresh Kuchenbehälter",
+    "category": "Haushalt",
+    "subcategories": ["Aufbewahrung", "Kuchenbehälter"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003445163",
+    "name": "Rotho Fresh Kuchenbehälter",
+    "category": "Haushalt",
+    "subcategories": ["Aufbewahrung", "Kuchenbehälter"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002978549",
+    "name": "Rotho Fresh Kuchenbehälter",
+    "category": "Haushalt",
+    "subcategories": ["Aufbewahrung", "Kuchenbehälter"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002789060",
+    "name": "Rotho Fresh Kuchenbehälter Fresh Petrol",
+    "category": "Haushalt",
+    "subcategories": ["Aufbewahrung", "Kuchenbehälter"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002978556",
+    "name": "Rotho Fresh Kuchenbehälter Lagoon Green",
+    "category": "Haushalt",
+    "subcategories": ["Aufbewahrung", "Kuchenbehälter"]
+  },
+  {
+    "store": "spar",
+    "id": "7604195",
+    "name": "Rotho Fresh Kuchenbehälter weiß",
+    "category": "Haushalt",
+    "subcategories": ["Aufbewahrung", "Kuchenbehälter"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003007903",
+    "name": "Rotho Fresh Müslibox Fresh 4,1L mit Clic",
+    "category": "Haushalt",
+    "subcategories": ["Aufbewahrung", "Frühstück"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003445217",
+    "name": "Rotho Fresh Partybutler \"John\" medium horizon blue",
+    "category": "Haushalt",
+    "subcategories": ["Aufbewahrung", "Partyutensilien"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002789107",
+    "name": "Rotho Fresh Tortenglocke Fresh Petrol",
+    "category": "Haushalt",
+    "subcategories": ["Aufbewahrung", "Tortenglocke"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001551743",
+    "name": "Rotho Fresh Tortenglocke Fresh weiß hoch",
+    "category": "Haushalt",
+    "subcategories": ["Aufbewahrung", "Tortenglocke"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003445118",
+    "name": "Rotho Fresh Tortenglocke hoch",
+    "category": "Haushalt",
+    "subcategories": ["Aufbewahrung", "Tortenglocke"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003445033",
+    "name": "Rotho Fresh Tortenglocke hoch",
+    "category": "Haushalt",
+    "subcategories": ["Aufbewahrung", "Tortenglocke"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002978563",
+    "name": "Rotho Fresh Tortenglocke hoch",
+    "category": "Haushalt",
+    "subcategories": ["Aufbewahrung", "Tortenglocke"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002978570",
+    "name": "Rotho Fresh Tortenglocke hoch Lagoon Green",
+    "category": "Haushalt",
+    "subcategories": ["Aufbewahrung", "Tortenglocke"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003870644",
+    "name": "Rotho Partybutler John",
+    "category": "Haushalt",
+    "subcategories": ["Aufbewahrung", "Partyutensilien"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003870507",
+    "name": "Rotho Partybutler John",
+    "category": "Haushalt",
+    "subcategories": ["Aufbewahrung", "Partyutensilien"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001749478",
+    "name": "Rotho Komposteimer GREENLINE 7 L",
+    "category": "Haushalt",
+    "subcategories": ["Aufbewahrung", "Kompost"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003080234",
+    "name": "Rotho Kühlschrankdose Click&Lock",
+    "category": "Haushalt",
+    "subcategories": ["Aufbewahrung", "Kühlschrank"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001544332",
+    "name": "Rotho LOFT Premiumdose 1,5l",
+    "category": "Haushalt",
+    "subcategories": ["Aufbewahrung", "Dosen"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001544257",
+    "name": "Rotho LOFT Premiumdose 1l",
+    "category": "Haushalt",
+    "subcategories": ["Aufbewahrung", "Dosen"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001544325",
+    "name": "Rotho LOFT Premiumdose 2,1l",
+    "category": "Haushalt",
+    "subcategories": ["Aufbewahrung", "Dosen"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003445187",
+    "name": "Rotho Partybutler \"John\" medium anthrazit",
+    "category": "Haushalt",
+    "subcategories": ["Aufbewahrung", "Partyutensilien"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002789022",
+    "name": "Rotho Partybutler John Petrol medium",
+    "category": "Haushalt",
+    "subcategories": ["Aufbewahrung", "Partyutensilien"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001888788",
+    "name": "Rotho Partybutler John weiß XL",
+    "category": "Haushalt",
+    "subcategories": ["Aufbewahrung", "Partyutensilien"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001546527",
+    "name": "Rotho Partybutler John weiß medium",
+    "category": "Haushalt",
+    "subcategories": ["Aufbewahrung", "Partyutensilien"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002978600",
+    "name": "Rotho Partybutler M John",
+    "category": "Haushalt",
+    "subcategories": ["Aufbewahrung", "Partyutensilien"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002978631",
+    "name": "Rotho Partybutler M John Lagoon Green",
+    "category": "Haushalt",
+    "subcategories": ["Aufbewahrung", "Partyutensilien"]
+  },
+  {
+    "store": "spar",
+    "id": "6007249",
+    "name": "Römer Sekt Krönung 2016",
+    "category": "Getränke",
+    "subcategories": ["Sekt", "Alkohol"]
+  },
+  {
+    "store": "spar",
+    "id": "6876722",
+    "name": "Römer Sekt Light Alkoholfrei",
+    "category": "Getränke",
+    "subcategories": ["Sekt", "Alkoholfrei"]
+  },
+  {
+    "store": "spar",
+    "id": "2020000761778",
+    "name": "Römer Sekt Rose",
+    "category": "Getränke",
+    "subcategories": ["Sekt", "Rose"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003574238",
+    "name": "Römer Sekt Rosé Alkoholfrei",
+    "category": "Getränke",
+    "subcategories": ["Sekt", "Alkoholfrei"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003566264",
+    "name": "Rum Malecon Rare Proof 13 YO",
+    "category": "Getränke",
+    "subcategories": ["Rum"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003666391",
+    "name": "Rotweingut Prickler Blaufränkisch Ried Alt Satz 2022",
+    "category": "Getränke",
+    "subcategories": ["Rotwein", "Blaufränkisch"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004655448",
+    "name": "Rotweingut Prickler Cuvée Ried Altes Weingebirge 2022",
+    "category": "Getränke",
+    "subcategories": ["Rotwein", "Cuvée"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003916786",
+    "name": "Ruffino Bianco Aqua di Venus 2021",
+    "category": "Getränke",
+    "subcategories": ["Weißwein"]
+  },
+  {
+    "store": "spar",
+    "id": "8183255",
+    "name": "Ruffino Chianti Classico DOCG Riserva Ducale 2019",
+    "category": "Getränke",
+    "subcategories": ["Rotwein", "Chianti"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002985363",
+    "name": "Ruffino Chianti DOCG BIO 2022",
+    "category": "Getränke",
+    "subcategories": ["Rotwein", "Chianti"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002985271",
+    "name": "Ruffino Pinot Grigio DOC BIO 2022",
+    "category": "Getränke",
+    "subcategories": ["Weißwein", "Pinot Grigio"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003787706",
+    "name": "Römerquelle Emotion Ananas Zitrone",
+    "category": "Getränke",
+    "subcategories": ["Mineralwasser", "Frucht"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003787935",
+    "name": "Römerquelle Emotion Apfel Ribisel",
+    "category": "Getränke",
+    "subcategories": ["Mineralwasser", "Frucht"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003140419",
+    "name": "Römerquelle Emotion Apfel Zimt 1l",
+    "category": "Getränke",
+    "subcategories": ["Mineralwasser", "Frucht"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003787676",
+    "name": "Römerquelle Emotion Birne Melisse",
+    "category": "Getränke",
+    "subcategories": ["Mineralwasser", "Frucht"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003788031",
+    "name": "Römerquelle Emotion Birne Melisse",
+    "category": "Getränke",
+    "subcategories": ["Mineralwasser", "Frucht"]
+  },
+  {
+    "store": "spar",
+    "id": "6241650",
+    "name": "Rotholzer 1 KG",
+    "category": "Lebensmittel",
+    "subcategories": ["Backzutaten", "Mehl"]
+  },
+  {
+    "store": "spar",
+    "id": "5968817",
+    "name": "Rougette Ofenkäse Chili",
+    "category": "Lebensmittel",
+    "subcategories": ["Käse", "Ofenkäse"]
+  },
+  {
+    "store": "spar",
+    "id": "5181841",
+    "name": "Rougette Ofenkäse Fein-würzig",
+    "category": "Lebensmittel",
+    "subcategories": ["Käse", "Ofenkäse"]
+  },
+  {
+    "store": "spar",
+    "id": "5181896",
+    "name": "Rougette Ofenkäse Kräuter",
+    "category": "Lebensmittel",
+    "subcategories": ["Käse", "Ofenkäse"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001392230",
+    "name": "Rougette Ofenkäse Pfeffer",
+    "category": "Lebensmittel",
+    "subcategories": ["Käse", "Ofenkäse"]
+  },
+  {
+    "store": "spar",
+    "id": "4516194",
+    "name": "Rougette Ofenkäse mild",
+    "category": "Lebensmittel",
+    "subcategories": ["Käse", "Ofenkäse"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004675804",
+    "name": "Rupp Big Toastscheiben 300g/15",
+    "category": "Lebensmittel",
+    "subcategories": ["Brot", "Toast"]
+  },
+  {
+    "store": "spar",
+    "id": "7708954",
+    "name": "Rupp Enzian Enzian",
+    "category": "Lebensmittel",
+    "subcategories": ["Spirituosen", "Likör"]
+  },
+  {
+    "store": "spar",
+    "id": "2020000759034",
+    "name": "Rupp Feinster Streich  mit Bergkäse",
+    "category": "Lebensmittel",
+    "subcategories": ["Brotaufstrich", "Käse"]
+  },
+  {
+    "store": "spar",
+    "id": "6983208",
+    "name": "Rupp Feinster Streich Feinster Streich mit Gouda",
+    "category": "Lebensmittel",
+    "subcategories": ["Brotaufstrich", "Käse"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003395918",
+    "name": "Rupp Feinster Streich mit Cheddar",
+    "category": "Lebensmittel",
+    "subcategories": ["Brotaufstrich", "Käse"]
+  },
+  {
+    "store": "spar",
+    "id": "6981778",
+    "name": "Rupp Feinster Streich mit Emmentaler",
+    "category": "Lebensmittel",
+    "subcategories": ["Brotaufstrich", "Käse"]
+  },
+  {
+    "store": "spar",
+    "id": "2020000580621",
+    "name": "Rupp Mini Muuh Mini Muuh 4 Käse Snacks",
+    "category": "Lebensmittel",
+    "subcategories": ["Snacks", "Käse"]
+  },
+  {
+    "store": "spar",
+    "id": "3389171",
+    "name": "Rupp Räucherschmelzkäse",
+    "category": "Lebensmittel",
+    "subcategories": ["Käse", "Schmelzkäse"]
+  },
+  {
+    "store": "spar",
+    "id": "7706288",
+    "name": "Rupp S'beschte Sortiment 8 Portionen",
+    "category": "Lebensmittel",
+    "subcategories": ["Käse", "Sortiment"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003713521",
+    "name": "Rumfass 4 Stück 500ml Packung 0,5 L",
+    "category": "Lebensmittel",
+    "subcategories": ["Backzutaten", "Rum"]
+  },
+  {
+    "store": "spar",
+    "id": "524445",
+    "name": "Rupp kernige Haferflocken",
+    "category": "Lebensmittel",
+    "subcategories": ["Getreide", "Haferflocken"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004035738",
+    "name": "Rummo Fusilli 500G",
+    "category": "Lebensmittel",
+    "subcategories": ["Nudeln", "Fusilli"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004621849",
+    "name": "Rummo Linguine Nr. 13",
+    "category": "Lebensmittel",
+    "subcategories": ["Nudeln", "Linguine"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004035783",
+    "name": "Rummo Maccheroncelli Rigati 500G",
+    "category": "Lebensmittel",
+    "subcategories": ["Nudeln", "Maccheroncelli"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004621153",
+    "name": "Rummo Orecchiette Nr. 87",
+    "category": "Lebensmittel",
+    "subcategories": ["Nudeln", "Orecchiette"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004035745",
+    "name": "Rummo Riccioli 500G",
+    "category": "Lebensmittel",
+    "subcategories": ["Nudeln", "Riccioli"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004035790",
+    "name": "Rummo Spaghetti Nr.5 500G",
+    "category": "Lebensmittel",
+    "subcategories": ["Nudeln", "Spaghetti"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004621146",
+    "name": "Rummo Spaghetti alla Chitarra Nr. 104",
+    "category": "Lebensmittel",
+    "subcategories": ["Nudeln", "Spaghetti"]
+  }
+]

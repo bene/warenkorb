@@ -1,0 +1,702 @@
+[
+  {
+    "store": "spar",
+    "id": "8118516",
+    "name": "TANN Farmerschinken per Packung",
+    "category": "Schinken",
+    "subcategories": ["Bauernschinken", "Landschinken"]
+  },
+  {
+    "store": "spar",
+    "id": "3743256",
+    "name": "TANN Festtagsschinken",
+    "category": "Schinken",
+    "subcategories": ["Festschinken", "Spezialschinken"]
+  },
+  {
+    "store": "spar",
+    "id": "7943270",
+    "name": "TANN Frankfurter 1kg-Packung",
+    "category": "Frankfurter",
+    "subcategories": ["Würstchen", "Wiener"]
+  },
+  {
+    "store": "spar",
+    "id": "7771651",
+    "name": "TANN Frankfurter 2 Paar per 250g-Packung",
+    "category": "Frankfurter",
+    "subcategories": ["Würstchen", "Wiener"]
+  },
+  {
+    "store": "spar",
+    "id": "3052433",
+    "name": "TANN Frankfurter in Bedienung",
+    "category": "Frankfurter",
+    "subcategories": ["Würstchen", "Wiener"]
+  },
+  {
+    "store": "spar",
+    "id": "3324066",
+    "name": "TANN Frankfurter per Packung",
+    "category": "Frankfurter",
+    "subcategories": ["Würstchen", "Wiener"]
+  },
+  {
+    "store": "spar",
+    "id": "3369654",
+    "name": "TANN Fränkfurter Hautlos per Packung",
+    "category": "Frankfurter",
+    "subcategories": ["Würstchen", "Wiener"]
+  },
+  {
+    "store": "spar",
+    "id": "1995534",
+    "name": "TANN Grillzwerge per Packung",
+    "category": "Grillwurst",
+    "subcategories": ["Miniwürstchen", "Grillwürstchen"]
+  },
+  {
+    "store": "spar",
+    "id": "3556870",
+    "name": "TANN Gurkerl-Extra",
+    "category": "Wurst",
+    "subcategories": ["Gurkerlwurst", "Gurkenwurst"]
+  },
+  {
+    "store": "spar",
+    "id": "7448867",
+    "name": "TANN Haussulz Punkerl per Stück",
+    "category": "Haussulz",
+    "subcategories": ["Sülz", "Presssülze"]
+  },
+  {
+    "store": "spar",
+    "id": "2374321",
+    "name": "TANN Heurigenschinken",
+    "category": "Schinken",
+    "subcategories": ["Jausenschinken", "Brettljause"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004164711",
+    "name": "TANN High Protein Wurstsnack per Packung",
+    "category": "Wurstsnack",
+    "subcategories": ["Protein Snack", "Protein Riegel"]
+  },
+  {
+    "store": "spar",
+    "id": "221771",
+    "name": "TANN Honigkrustenschinken",
+    "category": "Schinken",
+    "subcategories": ["Krusterschinken", "Honigschinken"]
+  },
+  {
+    "store": "spar",
+    "id": "8118547",
+    "name": "TANN Honigkrustenschinken per Packung",
+    "category": "Schinken",
+    "subcategories": ["Krusterschinken", "Honigschinken"]
+  },
+  {
+    "store": "spar",
+    "id": "6036454",
+    "name": "TANN Honigkrustenschinken per Packung",
+    "category": "Schinken",
+    "subcategories": ["Krusterschinken", "Honigschinken"]
+  },
+  {
+    "store": "spar",
+    "id": "6216528",
+    "name": "TANN Jausenspeck",
+    "category": "Speck",
+    "subcategories": ["Jausenspeck", "Brettljause"]
+  },
+  {
+    "store": "spar",
+    "id": "4621546",
+    "name": "TANN Jubiläumsschinken",
+    "category": "Schinken",
+    "subcategories": ["Jubiläumsschinken", "Feinschmeckerschinken"]
+  },
+  {
+    "store": "spar",
+    "id": "69519",
+    "name": "TANN Kaiserfleisch per KG",
+    "category": "Kaiserfleisch",
+    "subcategories": ["Kassler", "Geräuchertes"]
+  },
+  {
+    "store": "spar",
+    "id": "574693",
+    "name": "TANN Kalbsleberstreichwurst per Stück",
+    "category": "Streichwurst",
+    "subcategories": ["Leberwurst", "Kalbsleberwurst"]
+  },
+  {
+    "store": "spar",
+    "id": "2020000845072",
+    "name": "TANN Kalbspariser per KG",
+    "category": "Kalbspariser",
+    "subcategories": ["Kalb", "Pariser"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001179909",
+    "name": "TANN Kalbspariser per Packung",
+    "category": "Kalbspariser",
+    "subcategories": ["Kalb", "Pariser"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001180899",
+    "name": "TANN Kalbspariser per Packung",
+    "category": "Kalbspariser",
+    "subcategories": ["Kalb", "Pariser"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003192180",
+    "name": "TANN Kantwurst per 100 g",
+    "category": "Kantwurst",
+    "subcategories": ["Kochwurst", "Suppenwurst"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003192142",
+    "name": "TANN Kantwurst per Stück",
+    "category": "Kantwurst",
+    "subcategories": ["Kochwurst", "Suppenwurst"]
+  },
+  {
+    "store": "spar",
+    "id": "559959",
+    "name": "TANN Karreekümmelbraten",
+    "category": "Braten",
+    "subcategories": ["Karreebraten", "Kümmelbraten"]
+  },
+  {
+    "store": "spar",
+    "id": "366540",
+    "name": "TANN Karreespeck",
+    "category": "Speck",
+    "subcategories": ["Karreespeck", "Geräuchertes"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003133596",
+    "name": "TANN Karreespeck per Packung",
+    "category": "Speck",
+    "subcategories": ["Karreespeck", "Geräuchertes"]
+  },
+  {
+    "store": "spar",
+    "id": "7769580",
+    "name": "TANN Knacker per KG",
+    "category": "Knacker",
+    "subcategories": ["Wurst", "Aufschnitt"]
+  },
+  {
+    "store": "spar",
+    "id": "3324097",
+    "name": "TANN Knacker per Packung",
+    "category": "Knacker",
+    "subcategories": ["Wurst", "Aufschnitt"]
+  },
+  {
+    "store": "spar",
+    "id": "7943256",
+    "name": "TANN Knacker per Packung",
+    "category": "Knacker",
+    "subcategories": ["Wurst", "Aufschnitt"]
+  },
+  {
+    "store": "spar",
+    "id": "569729",
+    "name": "TANN Knoblauchstreichwurst per Stück",
+    "category": "Streichwurst",
+    "subcategories": ["Knoblauchwurst", "Knoblauchleberwurst"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002940874",
+    "name": "TANN Krainer per Packung",
+    "category": "Krainer",
+    "subcategories": ["Würstchen", "Aufschnitt"]
+  },
+  {
+    "store": "spar",
+    "id": "357784",
+    "name": "TANN Krakauer",
+    "category": "Krakauer",
+    "subcategories": ["Wurst", "Aufschnitt"]
+  },
+  {
+    "store": "spar",
+    "id": "5195268",
+    "name": "TANN Krakauer per Packung",
+    "category": "Krakauer",
+    "subcategories": ["Wurst", "Aufschnitt"]
+  },
+  {
+    "store": "spar",
+    "id": "6020538",
+    "name": "TANN Krakauer per Packung",
+    "category": "Krakauer",
+    "subcategories": ["Wurst", "Aufschnitt"]
+  },
+  {
+    "store": "spar",
+    "id": "3324226",
+    "name": "TANN Käsekrainer per Packung",
+    "category": "Käsekrainer",
+    "subcategories": ["Wurst", "Aufschnitt"]
+  },
+  {
+    "store": "spar",
+    "id": "3098813",
+    "name": "TANN Käseleberkäse per KG",
+    "category": "Käseleberkäse",
+    "subcategories": ["Leberkäse", "Käsewurst"]
+  },
+  {
+    "store": "spar",
+    "id": "198905",
+    "name": "TANN Käsewurst per KG",
+    "category": "Käsewurst",
+    "subcategories": ["Wurst", "Aufschnitt"]
+  },
+  {
+    "store": "spar",
+    "id": "2020000680314",
+    "name": "TANN Käsewurst per Packung",
+    "category": "Käsewurst",
+    "subcategories": ["Wurst", "Aufschnitt"]
+  },
+  {
+    "store": "spar",
+    "id": "3151488",
+    "name": "TANN Käsewurst per Stück",
+    "category": "Käsewurst",
+    "subcategories": ["Wurst", "Aufschnitt"]
+  },
+  {
+    "store": "spar",
+    "id": "5555659",
+    "name": "TANN Kümmelbauch gebraten",
+    "category": "Kümmelbauch",
+    "subcategories": ["Bauchfleisch", "Geräuchertes"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003378324",
+    "name": "TANN Leberkäse vorgegart Käse per Packung",
+    "category": "Leberkäse",
+    "subcategories": ["Wurst", "Aufschnitt"]
+  },
+  {
+    "store": "spar",
+    "id": "5874309",
+    "name": "TANN Mini-Berner per Packung",
+    "category": "Mini-Berner",
+    "subcategories": ["Wurst", "Mini-Wurst"]
+  },
+  {
+    "store": "spar",
+    "id": "7448973",
+    "name": "TANN Mini-Frankfurter per Packung",
+    "category": "Mini-Frankfurter",
+    "subcategories": ["Wurst", "Mini-Wurst"]
+  },
+  {
+    "store": "spar",
+    "id": "6292515",
+    "name": "TANN Münchner Weisswurst per Packung",
+    "category": "Münchner Weisswurst",
+    "subcategories": ["Wurst", "Weißwurst"]
+  },
+  {
+    "store": "spar",
+    "id": "407113",
+    "name": "TANN Pfefferkarree",
+    "category": "Karree",
+    "subcategories": ["Schweinefleisch", "Kotelett"]
+  },
+  {
+    "store": "spar",
+    "id": "5284856",
+    "name": "TANN Pikante Käsewurst",
+    "category": "Käsewurst",
+    "subcategories": ["Wurst", "Aufschnitt"]
+  },
+  {
+    "store": "spar",
+    "id": "4380313",
+    "name": "TANN Polnische gebraten",
+    "category": "Polnische",
+    "subcategories": ["Wurst", "Aufschnitt"]
+  },
+  {
+    "store": "spar",
+    "id": "674867",
+    "name": "TANN Polnische spezial",
+    "category": "Polnische",
+    "subcategories": ["Wurst", "Aufschnitt"]
+  },
+  {
+    "store": "spar",
+    "id": "3068090",
+    "name": "TANN Presswurst per KG",
+    "category": "Presswurst",
+    "subcategories": ["Wurst", "Aufschnitt"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004112774",
+    "name": "TANN Puten Aufschnitt per Packung",
+    "category": "Putenaufschnitt",
+    "subcategories": ["Pute", "Aufschnitt"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004112842",
+    "name": "TANN Puten Extra-Pikant per Packung",
+    "category": "Putenwurst",
+    "subcategories": ["Pute", "Wurst"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004112781",
+    "name": "TANN Puten Extrawurst per Packung",
+    "category": "Putenwurst",
+    "subcategories": ["Pute", "Wurst"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004112767",
+    "name": "TANN Puten Extrawurst per Packung",
+    "category": "Putenwurst",
+    "subcategories": ["Pute", "Wurst"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004189424",
+    "name": "TANN Puten Grillzwerge per Packung",
+    "category": "Putenwurst",
+    "subcategories": ["Pute", "Wurst"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004132802",
+    "name": "TANN Puten Knacker 240g Packung",
+    "category": "Putenknacker",
+    "subcategories": ["Pute", "Wurst"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004254047",
+    "name": "TANN Puten Toastschinken per 100 g",
+    "category": "Puten",
+    "subcategories": ["Schinken", "Aufschnitt"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003580727",
+    "name": "TANN Putenfrankfurter per 240g-Packung",
+    "category": "Putenfrankfurter",
+    "subcategories": ["Pute", "Wurst"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004132789",
+    "name": "TANN Putenkrakauer per kg",
+    "category": "Putenkrakauer",
+    "subcategories": ["Pute", "Wurst"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003109065",
+    "name": "TANN Rauchschinken per Packung",
+    "category": "Schinken",
+    "subcategories": ["Geräucherter Schinken", "Spezialschinken"]
+  },
+  {
+    "store": "spar",
+    "id": "3078679",
+    "name": "TANN Rauchschulter geselcht",
+    "category": "Schulter",
+    "subcategories": ["Geräuchertes", "Geselchtes"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003213410",
+    "name": "TANN Rinderschinken im Pfeffermantel",
+    "category": "Rinderschinken",
+    "subcategories": ["Schinken", "Pfeffer Mantel"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002978228",
+    "name": "TANN Rindfleisch-Leberkäse per KG",
+    "category": "Leberkäse",
+    "subcategories": ["Käsewurst", "Rindfleischwurst"]
+  },
+  {
+    "store": "spar",
+    "id": "3765470",
+    "name": "TANN Rosmarinschinken",
+    "category": "Schinken",
+    "subcategories": ["Kräuterschinken", "Aromaschinken"]
+  },
+  {
+    "store": "spar",
+    "id": "7266324",
+    "name": "TANN Rostbratwürstel per Packung",
+    "category": "Rostbratwurst",
+    "subcategories": ["Wurst", "Aufschnitt"]
+  },
+  {
+    "store": "spar",
+    "id": "4466567",
+    "name": "TANN Sacherwürstel per Packung",
+    "category": "Sacherwürstel",
+    "subcategories": ["Wurst", "Aufschnitt"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003244872",
+    "name": "TANN Scharfe per Packung",
+    "category": "Scharfe",
+    "subcategories": ["Wurst", "Aufschnitt"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001179886",
+    "name": "TANN Schinkenaufschnitt per Packung",
+    "category": "Schinken",
+    "subcategories": ["Aufschnitt", "Feinschmecker"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003133435",
+    "name": "TANN Schinkenspeck per Packung",
+    "category": "Speck",
+    "subcategories": ["Schweinspeck", "Geräuchertes"]
+  },
+  {
+    "store": "spar",
+    "id": "4601210",
+    "name": "TANN Schulterteilsames mit Schwarte",
+    "category": "Schulter",
+    "subcategories": ["Schweinefleisch", "Geräuchertes"]
+  },
+  {
+    "store": "spar",
+    "id": "72793",
+    "name": "TANN Selchroller per KG",
+    "category": "Selchroller",
+    "subcategories": ["Rollschinken", "Sülze"]
+  },
+  {
+    "store": "spar",
+    "id": "154321",
+    "name": "TANN Selchschopf",
+    "category": "Selchschopf",
+    "subcategories": ["Schweinefleisch", "Geräuchertes"]
+  },
+  {
+    "store": "spar",
+    "id": "3765494",
+    "name": "TANN Spargelschinken",
+    "category": "Schinken",
+    "subcategories": ["Spezialschinken", "Spargel Schinken"]
+  },
+  {
+    "store": "spar",
+    "id": "7772030",
+    "name": "TANN Speckwürfel per Packung",
+    "category": "Speckwürfel",
+    "subcategories": ["Speck", "Würfel"]
+  },
+  {
+    "store": "spar",
+    "id": "3324202",
+    "name": "TANN St. Johanner per Packung",
+    "category": "St. Johanner",
+    "subcategories": ["Wurst", "Aufschnitt"]
+  },
+  {
+    "store": "spar",
+    "id": "567749",
+    "name": "TANN Streichwurst Fein per Stück",
+    "category": "Streichwurst",
+    "subcategories": ["Leberwurst", "Schinkenwurst"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003378942",
+    "name": "TANN Tafelspitz-Sülzchen",
+    "category": "Sülzchen",
+    "subcategories": ["Sülze", "Tafelspitz"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003378935",
+    "name": "TANN Tafelspitz-Sülzchen Punkerl per Packung",
+    "category": "Sülzchen",
+    "subcategories": ["Sülze", "Tafelspitz"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002846381",
+    "name": "TANN Tiroler Kaiserwurzen per Packung",
+    "category": "Tiroler Kaiserwurzen",
+    "subcategories": ["Wurst", "Tirol"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003113741",
+    "name": "TANN Tiroler Kaminwurzerl Bergkäse per Packung",
+    "category": "Tiroler Kaminwurzerl",
+    "subcategories": ["Wurst", "Käse"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003113802",
+    "name": "TANN Tiroler Kaminwurzerl Classic per Packung",
+    "category": "Tiroler Kaminwurzerl",
+    "subcategories": ["Wurst", "Klassisch"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003113703",
+    "name": "TANN Tiroler Kaminwurzerl feurig per Packung",
+    "category": "Tiroler Kaminwurzerl",
+    "subcategories": ["Wurst", "Feurig"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002602949",
+    "name": "TANN Tiroler Landjäger per Packung",
+    "category": "Tiroler Landjäger",
+    "subcategories": ["Wurst", "Tirol"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002602956",
+    "name": "TANN Tiroler Landjäger per Packung",
+    "category": "Tiroler Landjäger",
+    "subcategories": ["Wurst", "Tirol"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002950514",
+    "name": "TANN Tiroler Rinder Snack",
+    "category": "Rindersnack",
+    "subcategories": ["Rind", "Snack"]
+  },
+  {
+    "store": "spar",
+    "id": "154260",
+    "name": "TANN Toastschinken per KG",
+    "category": "Schinken",
+    "subcategories": ["Brotzeit", "Schinken"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004712967",
+    "name": "TANN Vegane Extra klassik per Packung",
+    "category": "Vegane Wurst",
+    "subcategories": ["Pflanzenbasierte", "Klassische Wurst"]
+  },
+  {
+    "store": "spar",
+    "id": "5738700",
+    "name": "TANN Verhackerts Becher per Stück",
+    "category": "Verhackert",
+    "subcategories": ["Aufstrich", "Bauernspezialität"]
+  },
+  {
+    "store": "spar",
+    "id": "3101070",
+    "name": "TANN Verhackerts per Stück",
+    "category": "Verhackert",
+    "subcategories": ["Aufstrich", "Bauernspezialität"]
+  },
+  {
+    "store": "spar",
+    "id": "4715405",
+    "name": "TANN Waldv. Rauchschinken per KG",
+    "category": "Schinken",
+    "subcategories": ["Waldviertler Schinken", "Geräucherter Schinken"]
+  },
+  {
+    "store": "spar",
+    "id": "5345113",
+    "name": "TANN Wernberger Rostbratwürstel per Packung",
+    "category": "Wernberger Rostbratwurst",
+    "subcategories": ["Wurst", "Aufschnitt"]
+  },
+  {
+    "store": "spar",
+    "id": "6988098",
+    "name": "TANN Wiener per KG",
+    "category": "Wiener",
+    "subcategories": ["Wurst", "Aufschnitt"]
+  },
+  {
+    "store": "spar",
+    "id": "6020576",
+    "name": "TANN Wiener per Packung",
+    "category": "Wiener",
+    "subcategories": ["Wurst", "Aufschnitt"]
+  },
+  {
+    "store": "spar",
+    "id": "5195244",
+    "name": "TANN Wiener per Packung",
+    "category": "Wiener",
+    "subcategories": ["Wurst", "Aufschnitt"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003143526",
+    "name": "TANN Wurstvariation 4-fach per Packung",
+    "category": "Wurstvariation",
+    "subcategories": ["Wurst", "Aufschnitt"]
+  },
+  {
+    "store": "spar",
+    "id": "67317",
+    "name": "TANN Wörtherseer per Stück",
+    "category": "Wörtherseer",
+    "subcategories": ["Wurst", "Aufschnitt"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002414085",
+    "name": "TANN schaut drauf Debreziner vom Rind & Schwein per Packung",
+    "category": "Debreziner",
+    "subcategories": ["Wurst", "Aufschnitt"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002414016",
+    "name": "TANN schaut drauf Frankfurter vom Rind & Schwein per Packung",
+    "category": "Frankfurter",
+    "subcategories": ["Wurst", "Aufschnitt"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002414122",
+    "name": "TANN schaut drauf Pariser Kranzl vom Rind & Schwein per Packung",
+    "category": "Pariser Kranzl",
+    "subcategories": ["Wurst", "Aufschnitt"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001283347",
+    "name": "TK Heilbuttfilet 1 KG",
+    "category": "Heilbutt",
+    "subcategories": ["Fisch", "Filet"]
+  }
+]

@@ -1,0 +1,724 @@
+[
+  {
+    "store": "spar",
+    "id": "7437663",
+    "name": "Scotty Hundefutter Pastete Kaninchen und Herz",
+    "category": "Hundefutter",
+    "subcategories": ["Pastete", "Kaninchen", "Herz"]
+  },
+  {
+    "store": "spar",
+    "id": "4344261",
+    "name": "Scotty Hundefutter Pastete Vielfalt",
+    "category": "Hundefutter",
+    "subcategories": ["Pastete", "Vielfalt"]
+  },
+  {
+    "store": "spar",
+    "id": "4402145",
+    "name": "Scotty Hundefutter Pastete mit Huhn",
+    "category": "Hundefutter",
+    "subcategories": ["Pastete", "Huhn"]
+  },
+  {
+    "store": "spar",
+    "id": "4331216",
+    "name": "Scotty Hundefutter Pastete mit Lachs und Forelle",
+    "category": "Hundefutter",
+    "subcategories": ["Pastete", "Lachs", "Forelle"]
+  },
+  {
+    "store": "spar",
+    "id": "7429798",
+    "name": "Scotty Hundefutter Pastete mit Lamm und Geflügel",
+    "category": "Hundefutter",
+    "subcategories": ["Pastete", "Lamm", "Geflügel"]
+  },
+  {
+    "store": "spar",
+    "id": "4402176",
+    "name": "Scotty Hundefutter Pastete mit Rind und Leber",
+    "category": "Hundefutter",
+    "subcategories": ["Pastete", "Rind", "Leber"]
+  },
+  {
+    "store": "spar",
+    "id": "7438073",
+    "name": "Scotty Hundefutter Pastete mit Rind und Truthahn",
+    "category": "Hundefutter",
+    "subcategories": ["Pastete", "Rind", "Truthahn"]
+  },
+  {
+    "store": "spar",
+    "id": "7867002",
+    "name": "Scotty Hundefutter mit Leber in Sauce",
+    "category": "Hundefutter",
+    "subcategories": ["Leber", "Sauce"]
+  },
+  {
+    "store": "spar",
+    "id": "2020000646785",
+    "name": "Scotty Hundesnacks Minis mit Ente",
+    "category": "Hundesnacks",
+    "subcategories": ["Minis", "Ente"]
+  },
+  {
+    "store": "spar",
+    "id": "5631186",
+    "name": "Scotty Hundesnacks Minis mit Lachs",
+    "category": "Hundesnacks",
+    "subcategories": ["Minis", "Lachs"]
+  },
+  {
+    "store": "spar",
+    "id": "4401766",
+    "name": "Scotty Hundewurst",
+    "category": "Hundewurst",
+    "subcategories": []
+  },
+  {
+    "store": "spar",
+    "id": "7902895",
+    "name": "Scotty Kaurollen mit Geflügel 2 Stück",
+    "category": "Kaurollen",
+    "subcategories": ["Geflügel"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002577308",
+    "name": "Scotty Knabber Sticks Rind 7 Stück",
+    "category": "Knabber Sticks",
+    "subcategories": ["Rind"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002562847",
+    "name": "Scotty Knabber Sticks mit Huhn & Pute 7 Stück",
+    "category": "Knabber Sticks",
+    "subcategories": ["Huhn", "Pute"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003662232",
+    "name": "Scotty Mini Sticks Gefluegel 10 x 5 g = 50 g e",
+    "category": "Mini Sticks",
+    "subcategories": ["Gefluegel"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003662386",
+    "name": "Scotty Mini Sticks mit Schinken 10 x 5 g = 50 g e",
+    "category": "Mini Sticks",
+    "subcategories": ["Schinken"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003664991",
+    "name": "Scotty Multi Pack in feiner Sauce 12 x 100g",
+    "category": "Multi Pack",
+    "subcategories": ["Sauce"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004527554",
+    "name": "Scotty Pastete mit Geflügel & Landgemüse",
+    "category": "Hundefutter",
+    "subcategories": ["Pastete", "Geflügel", "Landgemüse"]
+  },
+  {
+    "store": "spar",
+    "id": "4402152",
+    "name": "Scotty Pastete mit Kalb",
+    "category": "Hundefutter",
+    "subcategories": ["Pastete", "Kalb"]
+  },
+  {
+    "store": "spar",
+    "id": "4402169",
+    "name": "Scotty Pastete mit Pansen",
+    "category": "Hundefutter",
+    "subcategories": ["Pastete", "Pansen"]
+  },
+  {
+    "store": "spar",
+    "id": "2374628",
+    "name": "Scotty Streifensnack 28 Stück",
+    "category": "Hundesnacks",
+    "subcategories": ["Streifensnack"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004593139",
+    "name": "Scotty Trockennahrung Mini Huhn & Reis 1,5 kg",
+    "category": "Trockennahrung",
+    "subcategories": ["Mini", "Huhn", "Reis"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004430908",
+    "name": "Scotty Vollkostbrocken Rind & Geflügel",
+    "category": "Vollkostbrocken",
+    "subcategories": ["Rind", "Geflügel"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003555442",
+    "name": "Scotty nature 100% Huhn",
+    "category": "Hundefutter",
+    "subcategories": ["Huhn"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003555435",
+    "name": "Scotty nature 100% Rind",
+    "category": "Hundefutter",
+    "subcategories": ["Rind"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003628122",
+    "name": "Scotty nature Bio-Lamm & -Gemüse",
+    "category": "Hundefutter",
+    "subcategories": ["Bio", "Lamm", "Gemüse"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003628092",
+    "name": "Scotty nature Bio-Rind & Kartoffeln",
+    "category": "Hundefutter",
+    "subcategories": ["Bio", "Rind", "Kartoffeln"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004238368",
+    "name": "Scotty nature Hundefutter 100% Pute",
+    "category": "Hundefutter",
+    "subcategories": ["Pute"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004547798",
+    "name": "Scotty nature Putenflügerl",
+    "category": "Hundefutter",
+    "subcategories": ["Putenflügerl"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004593146",
+    "name": "Scotty nature Trockennahrung Adult Ente 2,5kg",
+    "category": "Trockennahrung",
+    "subcategories": ["Adult", "Ente"]
+  },
+  {
+    "store": "spar",
+    "id": "3796139",
+    "name": "Scotty premium Active Huhn, Dinkel mit Kartoffeln",
+    "category": "Hundefutter",
+    "subcategories": ["Active", "Huhn", "Dinkel", "Kartoffeln"]
+  },
+  {
+    "store": "spar",
+    "id": "2020000464174",
+    "name": "Scotty premium Geflügel mit Ente",
+    "category": "Hundefutter",
+    "subcategories": ["Geflügel", "Ente"]
+  },
+  {
+    "store": "spar",
+    "id": "3796245",
+    "name": "Scotty premium Hundefutter Rind & Herz mit Käsestücken",
+    "category": "Hundefutter",
+    "subcategories": ["Rind", "Herz", "Käsestücken"]
+  },
+  {
+    "store": "spar",
+    "id": "3796207",
+    "name": "Scotty premium Hundefutter in Gelee Geflügel,Leber&Karotten",
+    "category": "Hundefutter",
+    "subcategories": ["Gelee", "Geflügel", "Leber", "Karotten"]
+  },
+  {
+    "store": "spar",
+    "id": "6381578",
+    "name": "Scotty premium Meat-Sticks Lamm 2 x 10g",
+    "category": "Meat-Sticks",
+    "subcategories": ["Lamm"]
+  },
+  {
+    "store": "spar",
+    "id": "6381684",
+    "name": "Scotty premium Meat-Sticks mit Pansen 2 x 10g",
+    "category": "Meat-Sticks",
+    "subcategories": ["Pansen"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003262319",
+    "name": "Scotty premium Mini Burger-Patties",
+    "category": "Mini Burger-Patties",
+    "subcategories": []
+  },
+  {
+    "store": "spar",
+    "id": "2020000464327",
+    "name": "Scotty premium Rind mit Perlhuhn",
+    "category": "Hundefutter",
+    "subcategories": ["Rind", "Perlhuhn"]
+  },
+  {
+    "store": "spar",
+    "id": "3796108",
+    "name": "Scotty premium Sensitiv Lamm, Karotten&Spinat",
+    "category": "Hundefutter",
+    "subcategories": ["Sensitiv", "Lamm", "Karotten", "Spinat"]
+  },
+  {
+    "store": "spar",
+    "id": "7990779",
+    "name": "Sheba Classics Katzenfutter Kalb & Huhn 85 g",
+    "category": "Katzenfutter",
+    "subcategories": ["Classics", "Kalb", "Huhn"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001245635",
+    "name": "Sheba Classics Katzenfutter mit Lachs",
+    "category": "Katzenfutter",
+    "subcategories": ["Classics", "Lachs"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003915895",
+    "name": "Sheba Creamy Snacks mit Huhn 4x12g",
+    "category": "Creamy Snacks",
+    "subcategories": ["Huhn"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003915833",
+    "name": "Sheba Creamy Snacks mit Lachs 4x12g",
+    "category": "Creamy Snacks",
+    "subcategories": ["Lachs"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003915901",
+    "name": "Sheba Creamy Snacks mit Rind 4x12g",
+    "category": "Creamy Snacks",
+    "subcategories": ["Rind"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002850180",
+    "name": "Sheba Delikatesse in Gelee Katzenfutter Geflügel Variation 12x85g",
+    "category": "Delikatesse",
+    "subcategories": ["Gelee", "Geflügel", "Variation"]
+  },
+  {
+    "store": "spar",
+    "id": "7996566",
+    "name": "Sheba Delikatesse in Gelee Katzenfutter Geschnetzeltes mit Huhn 85 g",
+    "category": "Delikatesse",
+    "subcategories": ["Gelee", "Geschnetzeltes", "Huhn"]
+  },
+  {
+    "store": "spar",
+    "id": "2011684",
+    "name": "Sheba Delikatesse in Gelee Katzenfutter in Gelee Feine Vielfalt 4x85g",
+    "category": "Delikatesse",
+    "subcategories": ["Gelee", "Variation"]
+  },
+  {
+    "store": "spar",
+    "id": "7996658",
+    "name": "Sheba Empfehlung der Saison Katzenfutter Fesstagsmenü mit Gans in Sauce, 85 g",
+    "category": "Empfehlung der Saison",
+    "subcategories": ["Fesstagsmenü", "Gans", "Sauce"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004630001",
+    "name": "Sheba Filets Huhn 60g",
+    "category": "Filets",
+    "subcategories": ["Huhn"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004630377",
+    "name": "Sheba Filets Huhn mit Thunfisch 60g",
+    "category": "Filets",
+    "subcategories": ["Huhn", "Thunfisch"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003783821",
+    "name": "Sheba Fresh & Fine Katzenfutter mit Huhn & Lachs 6x50g",
+    "category": "Fresh & Fine",
+    "subcategories": ["Huhn", "Lachs"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003783777",
+    "name": "Sheba Fresh & Fine Katzenfutter mit Huhn & Truthahn 6x50g",
+    "category": "Fresh & Fine",
+    "subcategories": ["Huhn", "Truthahn"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003783838",
+    "name": "Sheba Fresh & Fine Katzenfutter mit Lachs & Thunfisch 6x50g",
+    "category": "Fresh & Fine",
+    "subcategories": ["Lachs", "Thunfisch"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003783807",
+    "name": "Sheba Fresh & Fine Katzenfutter mit Rind & Huhn 6x50g",
+    "category": "Fresh & Fine",
+    "subcategories": ["Rind", "Huhn"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004205063",
+    "name": "Sheba Katzenfutter Feine Vielfalt 8x85g",
+    "category": "Katzenfutter",
+    "subcategories": ["Feine Vielfalt"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002817725",
+    "name": "Sheba Katzenfutter Geflügel 36x85g",
+    "category": "Katzenfutter",
+    "subcategories": ["Geflügel"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003570452",
+    "name": "Sheba Katzenfutter Geflügel Adult 4x85g",
+    "category": "Katzenfutter",
+    "subcategories": ["Geflügel", "Adult"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002274290",
+    "name": "Sheba Katzenfutter Geflügel Variation 40x85g Beutel",
+    "category": "Katzenfutter",
+    "subcategories": ["Geflügel", "Variation"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004503794",
+    "name": "Sheba Katzennahrung Selection in Sauce Fisch 4x85g",
+    "category": "Katzennahrung",
+    "subcategories": ["Selection", "Sauce", "Fisch"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004398055",
+    "name": "Sheba Katzennahrung mit Huhn und Rind 12x85g",
+    "category": "Katzennahrung",
+    "subcategories": ["Huhn", "Rind"]
+  },
+  {
+    "store": "spar",
+    "id": "7990519",
+    "name": "Sheba Sauce Spéciale Katzenfutter Putenhäppchen in heller Sauce, 85 g",
+    "category": "Sauce Spéciale",
+    "subcategories": ["Putenhäppchen", "heller Sauce"]
+  },
+  {
+    "store": "spar",
+    "id": "7989957",
+    "name": "Sheba Sauce Spéciale Katzenfutter Truthahn & Gemüse",
+    "category": "Sauce Spéciale",
+    "subcategories": ["Truthahn", "Gemüse"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002850173",
+    "name": "Sheba Selection in Sauce Katzenfutter Feine Vielfalt 12x85g",
+    "category": "Selection in Sauce",
+    "subcategories": ["Feine Vielfalt"]
+  },
+  {
+    "store": "spar",
+    "id": "7993275",
+    "name": "Sheba Selection in Sauce Katzenfutter Geflügel 85 g",
+    "category": "Selection in Sauce",
+    "subcategories": ["Geflügel"]
+  },
+  {
+    "store": "spar",
+    "id": "2011769",
+    "name": "Sheba Selection in Sauce Katzenfutter Geflügel Variation 4x 85 g",
+    "category": "Selection in Sauce",
+    "subcategories": ["Geflügel", "Variation"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001257263",
+    "name": "Sheba Selection in Sauce Katzenfutter Geflügel Variation 8x85g",
+    "category": "Selection in Sauce",
+    "subcategories": ["Geflügel", "Variation"]
+  },
+  {
+    "store": "spar",
+    "id": "7991899",
+    "name": "Sheba Selection in Sauce Katzenfutter Kalbshäppchen",
+    "category": "Selection in Sauce",
+    "subcategories": ["Kalbshäppchen"]
+  },
+  {
+    "store": "spar",
+    "id": "7992001",
+    "name": "Sheba Selection in Sauce Katzenfutter Rinderhäppchen",
+    "category": "Selection in Sauce",
+    "subcategories": ["Rinderhäppchen"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004114723",
+    "name": "Sheba Soup Katzenfutter Huhn 4x40g",
+    "category": "Soup",
+    "subcategories": ["Huhn"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004114709",
+    "name": "Sheba Soup Katzenfutter Thunfisch 4x40g",
+    "category": "Soup",
+    "subcategories": ["Thunfisch"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003783876",
+    "name": "Sheba Taste of Paris mit Rind & Weißfisch 6x50g",
+    "category": "Taste of Paris",
+    "subcategories": ["Rind", "Weißfisch"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003783845",
+    "name": "Sheba Taste of Rome mit Truthahn & Huhn 6x50g",
+    "category": "Taste of Rome",
+    "subcategories": ["Truthahn", "Huhn"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004205001",
+    "name": "Sheba mit Lachs 8x85g",
+    "category": "Katzenfutter",
+    "subcategories": ["Lachs"]
+  },
+  {
+    "store": "spar",
+    "id": "7692550",
+    "name": "Sierra Reposado",
+    "category": "Spirituosen",
+    "subcategories": ["Reposado"]
+  },
+  {
+    "store": "spar",
+    "id": "7677984",
+    "name": "Sierra Silver",
+    "category": "Spirituosen",
+    "subcategories": ["Silver"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002937676",
+    "name": "Silberberg Gelber Muskateller Südsteiermark DAC 2022",
+    "category": "Wein",
+    "subcategories": ["Gelber Muskateller", "Südsteiermark", "DAC"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004612472",
+    "name": "Silberberg Grauburgunder Leutschach Südsteiermark DAC BIO 2020",
+    "category": "Wein",
+    "subcategories": [
+      "Grauburgunder",
+      "Leutschach",
+      "Südsteiermark",
+      "DAC",
+      "BIO"
+    ]
+  },
+  {
+    "store": "spar",
+    "id": "4359982",
+    "name": "Silberberg Morillon Südsteiermark DAC 2021",
+    "category": "Wein",
+    "subcategories": ["Morillon", "Südsteiermark", "DAC"]
+  },
+  {
+    "store": "spar",
+    "id": "5119967",
+    "name": "Silberberg Sauvignon Blanc Ried Steinbruch Südsteiermark DAC 2021",
+    "category": "Wein",
+    "subcategories": [
+      "Sauvignon Blanc",
+      "Ried Steinbruch",
+      "Südsteiermark",
+      "DAC"
+    ]
+  },
+  {
+    "store": "spar",
+    "id": "4359944",
+    "name": "Silberberg Sauvignon Blanc Südsteiermark DAC 2021",
+    "category": "Wein",
+    "subcategories": ["Sauvignon Blanc", "Südsteiermark", "DAC"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002476441",
+    "name": "Silberberg Sauvignon Blanc Südsteiermark DAC Leutschach BIO 2020",
+    "category": "Wein",
+    "subcategories": [
+      "Sauvignon Blanc",
+      "Südsteiermark",
+      "DAC",
+      "Leutschach",
+      "BIO"
+    ]
+  },
+  {
+    "store": "spar",
+    "id": "4503316",
+    "name": "Silberberg Steirischer Junker 2022",
+    "category": "Wein",
+    "subcategories": ["Steirischer Junker"]
+  },
+  {
+    "store": "spar",
+    "id": "4359937",
+    "name": "Silberberg Weißburgunder Ried Annaberg- Kitzeck Südsteiermark DAC 2021",
+    "category": "Wein",
+    "subcategories": [
+      "Weißburgunder",
+      "Ried Annaberg- Kitzeck",
+      "Südsteiermark",
+      "DAC"
+    ]
+  },
+  {
+    "store": "spar",
+    "id": "4359906",
+    "name": "Silberberg Welschriesling Südsteiermark DAC 2022",
+    "category": "Wein",
+    "subcategories": ["Welschriesling", "Südsteiermark", "DAC"]
+  },
+  {
+    "store": "spar",
+    "id": "4360049",
+    "name": "Silberberg Zweigelt S 2018",
+    "category": "Wein",
+    "subcategories": ["Zweigelt"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001882335",
+    "name": "Silberquelle Natürliches Mineralwasser prickelnd",
+    "category": "Mineralwasser",
+    "subcategories": ["prickelnd"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001882342",
+    "name": "Silberquelle Natürliches Mineralwasser still",
+    "category": "Mineralwasser",
+    "subcategories": ["still"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002106843",
+    "name": "Silberquelle Sport Natürliches Mineralwasser still",
+    "category": "Mineralwasser",
+    "subcategories": ["Sport", "still"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001718368",
+    "name": "Siggi Kakao Milch",
+    "category": "Milch",
+    "subcategories": ["Kakao"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003060601",
+    "name": "Silikomart Pralinenform Choco Crown",
+    "category": "Pralinenform",
+    "subcategories": ["Choco Crown"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003060595",
+    "name": "Silikomart Pralinenform My Love",
+    "category": "Pralinenform",
+    "subcategories": ["My Love"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003060656",
+    "name": "Silikomart Pralinenform My Snack",
+    "category": "Pralinenform",
+    "subcategories": ["My Snack"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003060618",
+    "name": "Silikomart Pralinenform Tartufino",
+    "category": "Pralinenform",
+    "subcategories": ["Tartufino"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003051234",
+    "name": "Silikomart Pralinenform Vertigo",
+    "category": "Pralinenform",
+    "subcategories": ["Vertigo"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004649317",
+    "name": "Silan Aroma Therapie Weichspüler Bezaubernde Magnolie 46WG",
+    "category": "Weichspüler",
+    "subcategories": ["Aroma Therapie", "Bezaubernde Magnolie"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004630056",
+    "name": "Silan Aroma Therapie Weichspüler Dreamy Lotus 126WG",
+    "category": "Weichspüler",
+    "subcategories": ["Aroma Therapie", "Dreamy Lotus"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004649331",
+    "name": "Silan Aroma Therapie Weichspüler Faszinierende Frangipani 46WG",
+    "category": "Weichspüler",
+    "subcategories": ["Aroma Therapie", "Faszinierende Frangipani"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004649355",
+    "name": "Silan Aroma Therapie Weichspüler Faszinierender Dschungel 46WG",
+    "category": "Weichspüler",
+    "subcategories": ["Aroma Therapie", "Faszinierender Dschungel"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004629975",
+    "name": "Silan Aroma Therapie Weichspüler Magic Magnolia 126WG",
+    "category": "Weichspüler",
+    "subcategories": ["Aroma Therapie", "Magic Magnolia"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004649300",
+    "name": "Silan Aroma Therapie Weichspüler Sinnliche Rose 46WG",
+    "category": "Weichspüler",
+    "subcategories": ["Aroma Therapie", "Sinnliche Rose"]
+  }
+]

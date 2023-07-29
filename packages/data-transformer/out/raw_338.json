@@ -1,0 +1,702 @@
+[
+  {
+    "store": "spar",
+    "id": "2020002637484",
+    "name": "Joie Tütenverschluss Bag Watcher",
+    "category": "Küche",
+    "subcategories": ["Tütenverschluss"]
+  },
+  {
+    "store": "spar",
+    "id": "1637625",
+    "name": "Hakle Toilettenpapier Verwöhnende Sauberkeit 9 Rollen",
+    "category": "Badezimmer",
+    "subcategories": ["Toilettenpapier"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004602015",
+    "name": "JURKOVIC Grablicht 10 Tage",
+    "category": "Balkon/Garten",
+    "subcategories": ["Grablicht"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004572066",
+    "name": "Jeka Glaslicht 24 Stunden 2er",
+    "category": "Balkon/Garten",
+    "subcategories": ["Glaslicht"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004123916",
+    "name": "Jeka Motivgrablicht 4 Tage Baum-Alle",
+    "category": "Balkon/Garten",
+    "subcategories": ["Motivgrablicht"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004123954",
+    "name": "Jeka Motivgrablicht 4 Tage Kleeblüte",
+    "category": "Balkon/Garten",
+    "subcategories": ["Motivgrablicht"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004123930",
+    "name": "Jeka Motivgrablicht 4 Tage Mohnblüte",
+    "category": "Balkon/Garten",
+    "subcategories": ["Motivgrablicht"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004123923",
+    "name": "Jeka Motivgrablicht 4 Tage Pfirsichblüte",
+    "category": "Balkon/Garten",
+    "subcategories": ["Motivgrablicht"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004123909",
+    "name": "Jeka Motivgrablicht 4 Tage Rose unvergessen",
+    "category": "Balkon/Garten",
+    "subcategories": ["Motivgrablicht"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004123947",
+    "name": "Jeka Motivgrablicht 4 Tage Tulpe",
+    "category": "Balkon/Garten",
+    "subcategories": ["Motivgrablicht"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003981463",
+    "name": "Jeka Motivgrablicht 45 Stunden Engel",
+    "category": "Balkon/Garten",
+    "subcategories": ["Motivgrablicht"]
+  },
+  {
+    "store": "spar",
+    "id": "5077557",
+    "name": "Jeka Motivgrablicht 45 Stunden Engel",
+    "category": "Balkon/Garten",
+    "subcategories": ["Motivgrablicht"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003981487",
+    "name": "Jeka Motivgrablicht 45 Stunden Herz",
+    "category": "Balkon/Garten",
+    "subcategories": ["Motivgrablicht"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004720221",
+    "name": "Jeka Motivgrablicht 5 Tage Die Zeit vergeht, die Liebe bl",
+    "category": "Balkon/Garten",
+    "subcategories": ["Motivgrablicht"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003981418",
+    "name": "Jeka Motivgrablicht 5 Tage Du fehlst",
+    "category": "Balkon/Garten",
+    "subcategories": ["Motivgrablicht"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003981395",
+    "name": "Jeka Motivgrablicht 5 Tage Magnolie Kreis",
+    "category": "Balkon/Garten",
+    "subcategories": ["Motivgrablicht"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004571731",
+    "name": "Jeka Motivgrablicht 5 Tage Rose/Erinnerung",
+    "category": "Balkon/Garten",
+    "subcategories": ["Motivgrablicht"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004720146",
+    "name": "Jeka Motivgrablicht 5 Tage Rosenbouquet",
+    "category": "Balkon/Garten",
+    "subcategories": ["Motivgrablicht"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004099372",
+    "name": "Jeka Motivgrablicht 7 Tage Gebirgsbach",
+    "category": "Balkon/Garten",
+    "subcategories": ["Motivgrablicht"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004124531",
+    "name": "Jeka Motivgrablicht 7 Tage SChmetterling",
+    "category": "Balkon/Garten",
+    "subcategories": ["Motivgrablicht"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004099358",
+    "name": "Jeka Motivgrablicht 7 Tage Wiese/Ballon",
+    "category": "Balkon/Garten",
+    "subcategories": ["Motivgrablicht"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003981425",
+    "name": "Jeka Motivgrablicht Rose - Dankba 5 Tage Rose",
+    "category": "Balkon/Garten",
+    "subcategories": ["Motivgrablicht"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004571984",
+    "name": "Jeka Nachfüllung 24 Stunden 4er",
+    "category": "Balkon/Garten",
+    "subcategories": ["Nachfüllung"]
+  },
+  {
+    "store": "spar",
+    "id": "221344",
+    "name": "Jan Pflanzenöl Schmierseife 750 g",
+    "category": "Küche",
+    "subcategories": ["Pflanzenöl", "Schmierseife"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003383359",
+    "name": "Joie Tütenclips Affe",
+    "category": "Küche",
+    "subcategories": ["Tütenclips"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004205698",
+    "name": "Julia Superiore Grappa",
+    "category": "Alkohol",
+    "subcategories": ["Grappa"]
+  },
+  {
+    "store": "spar",
+    "id": "2020000976400",
+    "name": "Kaahée Anti Hangover-Drink",
+    "category": "Getränke",
+    "subcategories": ["Anti Hangover-Drink"]
+  },
+  {
+    "store": "spar",
+    "id": "795197",
+    "name": "Kaiser Doppelmalz",
+    "category": "Bier",
+    "subcategories": ["Doppelmalz"]
+  },
+  {
+    "store": "spar",
+    "id": "835237",
+    "name": "Kaiser Fasstyp",
+    "category": "Bier",
+    "subcategories": ["Fasstyp"]
+  },
+  {
+    "store": "spar",
+    "id": "750714",
+    "name": "Kaiser Fasstyp",
+    "category": "Bier",
+    "subcategories": ["Fasstyp"]
+  },
+  {
+    "store": "spar",
+    "id": "7930799",
+    "name": "Kaiser Fasstyp 6 x 0,5l",
+    "category": "Bier",
+    "subcategories": ["Fasstyp"]
+  },
+  {
+    "store": "spar",
+    "id": "6377700",
+    "name": "Julius Meinl Instant Trinkschokolade",
+    "category": "Getränke",
+    "subcategories": ["Instant Trinkschokolade"]
+  },
+  {
+    "store": "spar",
+    "id": "3548226",
+    "name": "Julius Meinl Jubiläum ganze Bohne",
+    "category": "Kaffee",
+    "subcategories": ["Jubiläum", "ganze Bohne"]
+  },
+  {
+    "store": "spar",
+    "id": "7500190",
+    "name": "Julius Meinl Jubiläum gemahlen",
+    "category": "Kaffee",
+    "subcategories": ["Jubiläum", "gemahlen"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004193520",
+    "name": "Julius Meinl Premium Collection Caffe Crema ganze Bohne",
+    "category": "Kaffee",
+    "subcategories": ["Premium Collection Caffe Crema", "ganze Bohne"]
+  },
+  {
+    "store": "spar",
+    "id": "7500206",
+    "name": "Julius Meinl Präsident ganze Bohne",
+    "category": "Kaffee",
+    "subcategories": ["Präsident", "ganze Bohne"]
+  },
+  {
+    "store": "spar",
+    "id": "7499821",
+    "name": "Julius Meinl Präsident gemahlen",
+    "category": "Kaffee",
+    "subcategories": ["Präsident", "gemahlen"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004640895",
+    "name": "Julius Meinl Vienna Melange",
+    "category": "Kaffee",
+    "subcategories": ["Vienna Melange"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004319692",
+    "name": "Jura Red Wine Cask",
+    "category": "Alkohol",
+    "subcategories": ["Red Wine Cask"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004319708",
+    "name": "Jura Rum Cask",
+    "category": "Alkohol",
+    "subcategories": ["Rum Cask"]
+  },
+  {
+    "store": "spar",
+    "id": "7677700",
+    "name": "Jägermeister 0,7 L",
+    "category": "Alkohol",
+    "subcategories": ["Jägermeister"]
+  },
+  {
+    "store": "spar",
+    "id": "7693366",
+    "name": "Jägermeister 9er Packung",
+    "category": "Alkohol",
+    "subcategories": ["Jägermeister"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002975579",
+    "name": "Jägermeister Scharf Hot Ginger",
+    "category": "Alkohol",
+    "subcategories": ["Jägermeister", "Hot Ginger"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003026874",
+    "name": "KIZAKURA Sake",
+    "category": "Alkohol",
+    "subcategories": ["Sake"]
+  },
+  {
+    "store": "spar",
+    "id": "4178224",
+    "name": "Kahlua Kaffeelikör",
+    "category": "Alkohol",
+    "subcategories": ["Kaffeelikör"]
+  },
+  {
+    "store": "spar",
+    "id": "1361094",
+    "name": "Juris Muskat Ottonel Selection 2021",
+    "category": "Alkohol",
+    "subcategories": ["Muskat Ottonel"]
+  },
+  {
+    "store": "spar",
+    "id": "4482741",
+    "name": "Juris Pinot Noir Selection 2018",
+    "category": "Alkohol",
+    "subcategories": ["Pinot Noir"]
+  },
+  {
+    "store": "spar",
+    "id": "4155669",
+    "name": "Juris St. Laurent Selection 2018",
+    "category": "Alkohol",
+    "subcategories": ["St. Laurent"]
+  },
+  {
+    "store": "spar",
+    "id": "3660195",
+    "name": "Jurtschitsch Sonnhof Chardonnay 2021",
+    "category": "Alkohol",
+    "subcategories": ["Chardonnay"]
+  },
+  {
+    "store": "spar",
+    "id": "3531839",
+    "name": "Jurtschitsch Sonnhof Grüner Veltliner Kamptal DAC 2022",
+    "category": "Alkohol",
+    "subcategories": ["Grüner Veltliner"]
+  },
+  {
+    "store": "spar",
+    "id": "3661451",
+    "name": "Jurtschitsch Sonnhof Riesling Urgestein 2021",
+    "category": "Alkohol",
+    "subcategories": ["Riesling"]
+  },
+  {
+    "store": "spar",
+    "id": "3531846",
+    "name": "Jurtschitsch Sonnhof Zweigelt 2020",
+    "category": "Alkohol",
+    "subcategories": ["Zweigelt"]
+  },
+  {
+    "store": "spar",
+    "id": "5369201",
+    "name": "Jurtschitsch Sonnhof Zweigelt Rosé 2022",
+    "category": "Alkohol",
+    "subcategories": ["Zweigelt", "Rosé"]
+  },
+  {
+    "store": "spar",
+    "id": "3027226",
+    "name": "Justino`s Madeira Fine Medium Dry",
+    "category": "Alkohol",
+    "subcategories": ["Madeira", "Medium Dry"]
+  },
+  {
+    "store": "spar",
+    "id": "7771033",
+    "name": "Kaiken Malbec 2020",
+    "category": "Alkohol",
+    "subcategories": ["Malbec"]
+  },
+  {
+    "store": "spar",
+    "id": "2620176",
+    "name": "Juvina Mineralwasser prickelnd",
+    "category": "Getränke",
+    "subcategories": ["Mineralwasser", "prickelnd"]
+  },
+  {
+    "store": "spar",
+    "id": "6983505",
+    "name": "Juvina Mineralwasser prickelnd",
+    "category": "Getränke",
+    "subcategories": ["Mineralwasser", "prickelnd"]
+  },
+  {
+    "store": "spar",
+    "id": "1098907",
+    "name": "Juvina Mineralwasser still",
+    "category": "Getränke",
+    "subcategories": ["Mineralwasser", "still"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003862519",
+    "name": "Just Spices Avocado Topping 60g",
+    "category": "Gewürze",
+    "subcategories": ["Avocado Topping"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003862564",
+    "name": "Just Spices Gemüse Allrounder 75g",
+    "category": "Gewürze",
+    "subcategories": ["Gemüse Allrounder"]
+  },
+  {
+    "store": "spar",
+    "id": "2020000998532",
+    "name": "Just Spices Gewürz Bolognese 55g",
+    "category": "Gewürze",
+    "subcategories": ["Gewürz", "Bolognese"]
+  },
+  {
+    "store": "spar",
+    "id": "2020000998624",
+    "name": "Just Spices Gewürz Curry Madras 59g",
+    "category": "Gewürze",
+    "subcategories": ["Gewürz", "Curry Madras"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001006588",
+    "name": "Just Spices Gewürz Guacamole 60g",
+    "category": "Gewürze",
+    "subcategories": ["Gewürz", "Guacamole"]
+  },
+  {
+    "store": "spar",
+    "id": "2020000998563",
+    "name": "Just Spices Gewürz Indian Allrounder 65g",
+    "category": "Gewürze",
+    "subcategories": ["Gewürz", "Indian Allrounder"]
+  },
+  {
+    "store": "spar",
+    "id": "2020000998570",
+    "name": "Just Spices Gewürz Mexican Allrounder 57g",
+    "category": "Gewürze",
+    "subcategories": ["Gewürz", "Mexican Allrounder"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003862588",
+    "name": "Just Spices Hähnchen Gewürz 79g",
+    "category": "Gewürze",
+    "subcategories": ["Hähnchen Gewürz"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003862557",
+    "name": "Just Spices Italian Allrounder 57g",
+    "category": "Gewürze",
+    "subcategories": ["Italian Allrounder"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003862670",
+    "name": "Just Spices Kartoffel Allrounder 60g",
+    "category": "Gewürze",
+    "subcategories": ["Kartoffel Allrounder"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003862632",
+    "name": "Just Spices Kräuter Quark Gewürz 32g",
+    "category": "Gewürze",
+    "subcategories": ["Kräuter Quark Gewürz"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003862663",
+    "name": "Just Spices Mediterraner Gemüse Allrounder 50g",
+    "category": "Gewürze",
+    "subcategories": ["Mediterraner Gemüse Allrounder"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003862618",
+    "name": "Just Spices Pizza Gewürz 4,g",
+    "category": "Gewürze",
+    "subcategories": ["Pizza Gewürz"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003862595",
+    "name": "Just Spices Rührei Gewürz 60g",
+    "category": "Gewürze",
+    "subcategories": ["Rührei Gewürz"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003862526",
+    "name": "Just Spices Stullen Spice 50g",
+    "category": "Gewürze",
+    "subcategories": ["Stullen Spice"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003862717",
+    "name": "Just Spices Tomate Mozarella 65g",
+    "category": "Gewürze",
+    "subcategories": ["Tomate Mozarella"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002169879",
+    "name": "Kajnok Fettuccine Slim",
+    "category": "Lebensmittel",
+    "subcategories": ["Fettuccine Slim"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002169763",
+    "name": "Kajnok Penne Slim",
+    "category": "Lebensmittel",
+    "subcategories": ["Penne Slim"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004129642",
+    "name": "Just Spices 7 Kräuter Dressing Mix 24g",
+    "category": "Gewürze",
+    "subcategories": ["7 Kräuter Dressing Mix"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004130372",
+    "name": "Just Spices Bio-Küchen Kräuter Dressing Mix 24g",
+    "category": "Gewürze",
+    "subcategories": ["Bio-Küchen Kräuter Dressing Mix"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004130259",
+    "name": "Just Spices Bowl Dressing Mix 24g",
+    "category": "Gewürze",
+    "subcategories": ["Bowl Dressing Mix"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004130297",
+    "name": "Just Spices Dill-Kräuter Dressing Mix 24g",
+    "category": "Gewürze",
+    "subcategories": ["Dill-Kräuter Dressing Mix"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004130310",
+    "name": "Just Spices Fitness Dressing Mix 24g",
+    "category": "Gewürze",
+    "subcategories": ["Fitness Dressing Mix"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004130327",
+    "name": "Just Spices Gartenkräuter Dressing Mix 24g",
+    "category": "Gewürze",
+    "subcategories": ["Gartenkräuter Dressing Mix"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004130334",
+    "name": "Just Spices Italienische Kräuter Dressing Mix 24g",
+    "category": "Gewürze",
+    "subcategories": ["Italienische Kräuter Dressing Mix"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004130389",
+    "name": "Just Spices Paprika Kräuter Dressing Mix 24g",
+    "category": "Gewürze",
+    "subcategories": ["Paprika Kräuter Dressing Mix"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002281014",
+    "name": "Kaiser Bimenthol zuckerfrei",
+    "category": "Süßigkeiten",
+    "subcategories": ["Bimenthol", "zuckerfrei"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001180554",
+    "name": "Kaiser Bonbons Kirsche Aronia",
+    "category": "Süßigkeiten",
+    "subcategories": ["Bonbons", "Kirsche Aronia"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004355102",
+    "name": "Kaiser Bonbons Wilder Sanddorn",
+    "category": "Süßigkeiten",
+    "subcategories": ["Bonbons", "Wilder Sanddorn"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003888663",
+    "name": "Kaiser Hustenbonbon Mischung",
+    "category": "Süßigkeiten",
+    "subcategories": ["Hustenbonbon"]
+  },
+  {
+    "store": "spar",
+    "id": "4173977",
+    "name": "Kaiser Hustenbonbons Bimenthol Original",
+    "category": "Süßigkeiten",
+    "subcategories": ["Hustenbonbons", "Bimenthol Original"]
+  },
+  {
+    "store": "spar",
+    "id": "4173939",
+    "name": "Kaiser Hustenbonbons Brust Caramellen",
+    "category": "Süßigkeiten",
+    "subcategories": ["Hustenbonbons", "Brust Caramellen"]
+  },
+  {
+    "store": "spar",
+    "id": "1603651",
+    "name": "Kaiser Hustenbonbons Waldhonig Salbei",
+    "category": "Süßigkeiten",
+    "subcategories": ["Hustenbonbons", "Waldhonig Salbei"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003912979",
+    "name": "Juniper Lane Deo Spray Moonflower 75ml",
+    "category": "Körperpflege",
+    "subcategories": ["Deo Spray", "Moonflower"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003912955",
+    "name": "Juniper Lane Deo Spray Wonderleaf 75ml",
+    "category": "Körperpflege",
+    "subcategories": ["Deo Spray", "Wonderleaf"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003912948",
+    "name": "Juniper Lane Deospray Forever Rose 75ml",
+    "category": "Körperpflege",
+    "subcategories": ["Deospray", "Forever Rose"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004473370",
+    "name": "K2r Backofen Grillreiniger 500ml",
+    "category": "Haushalt",
+    "subcategories": ["Backofen Grillreiniger"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001081998",
+    "name": "K2r Farbfangtücher 20 Stück",
+    "category": "Haushalt",
+    "subcategories": ["Farbfangtücher"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002003333",
+    "name": "Kaiser Brotform 25cm perforiert",
+    "category": "Küche",
+    "subcategories": ["Brotform"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002012229",
+    "name": "Kaiser Brotform 35cm perforiert",
+    "category": "Küche",
+    "subcategories": ["Brotform"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002986735",
+    "name": "Kaiser Gugelhupfform 22cm boho purple",
+    "category": "Küche",
+    "subcategories": ["Gugelhupfform"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002986728",
+    "name": "Kaiser Gugelhupfform 22cm retro petrol",
+    "category": "Küche",
+    "subcategories": ["Gugelhupfform"]
+  }
+]

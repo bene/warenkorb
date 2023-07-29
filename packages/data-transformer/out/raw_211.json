@@ -1,0 +1,702 @@
+[
+  {
+    "store": "spar",
+    "id": "7532061",
+    "name": "SAX Locher schwarz",
+    "category": "Büromaterial",
+    "subcategories": ["Locher"]
+  },
+  {
+    "store": "spar",
+    "id": "2025391",
+    "name": "S-BUDGET Schneidbrett 24,7 x 14,8 cm",
+    "category": "Küchenutensilien",
+    "subcategories": ["Schneidbrett"]
+  },
+  {
+    "store": "spar",
+    "id": "2025407",
+    "name": "S-BUDGET Schneidbrett 29,50 x 19,50 cm",
+    "category": "Küchenutensilien",
+    "subcategories": ["Schneidbrett"]
+  },
+  {
+    "store": "spar",
+    "id": "2025414",
+    "name": "S-BUDGET Schneidbrett 45 x 30 cm",
+    "category": "Küchenutensilien",
+    "subcategories": ["Schneidbrett"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002981235",
+    "name": "S-BUDGET weiss 30x30cm 100 Stück",
+    "category": "Einwegartikel",
+    "subcategories": ["Servietten"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004607737",
+    "name": "SIMPEX Auflaufform 9,5",
+    "category": "Küchenutensilien",
+    "subcategories": ["Auflaufform"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004607690",
+    "name": "SIMPEX Auflaufform Keramik creme",
+    "category": "Küchenutensilien",
+    "subcategories": ["Auflaufform"]
+  },
+  {
+    "store": "spar",
+    "id": "8197085",
+    "name": "SIMPEX Basic Allesschneider inkl. 1 Messer",
+    "category": "Küchenutensilien",
+    "subcategories": ["Allesschneider"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002514235",
+    "name": "S-BUDGET Toilettenpapier 10 Rollen",
+    "category": "Hygieneartikel",
+    "subcategories": ["Toilettenpapier"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003209628",
+    "name": "S-BUDGET Teelichter 50er 4h",
+    "category": "Haushaltsartikel",
+    "subcategories": ["Teelichter"]
+  },
+  {
+    "store": "spar",
+    "id": "2227696",
+    "name": "S-BUDGET Scheuerschwämme 10 Stk",
+    "category": "Haushaltsartikel",
+    "subcategories": ["Scheuerschwamm"]
+  },
+  {
+    "store": "spar",
+    "id": "7896668",
+    "name": "S-BUDGET Schwammtuch 5 Stk",
+    "category": "Haushaltsartikel",
+    "subcategories": ["Schwammtuch"]
+  },
+  {
+    "store": "spar",
+    "id": "3797778",
+    "name": "S-BUDGET WC Bürste 1 Stk",
+    "category": "Badezimmerartikel",
+    "subcategories": ["WC Bürste"]
+  },
+  {
+    "store": "spar",
+    "id": "3797815",
+    "name": "S-BUDGET WC Bürste mit Reinigungsrand",
+    "category": "Badezimmerartikel",
+    "subcategories": ["WC Bürste"]
+  },
+  {
+    "store": "spar",
+    "id": "7896682",
+    "name": "S-BUDGET Wischtücher 10 Stk",
+    "category": "Haushaltsartikel",
+    "subcategories": ["Wischtuch"]
+  },
+  {
+    "store": "spar",
+    "id": "2103181",
+    "name": "S-BUDGET Wäscheklammern 50 Stück",
+    "category": "Haushaltsartikel",
+    "subcategories": ["Wäscheklammer"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001308804",
+    "name": "SIMPEX Basic Ausstechformenset 25-teilig",
+    "category": "Küchenutensilien",
+    "subcategories": ["Ausstechformen"]
+  },
+  {
+    "store": "spar",
+    "id": "6902186",
+    "name": "SIMPEX Basic Backblech mit Haube",
+    "category": "Küchenutensilien",
+    "subcategories": ["Backblech"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002665135",
+    "name": "SIMPEX Basic Backformenset 4-teilig",
+    "category": "Küchenutensilien",
+    "subcategories": ["Backformen"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004069870",
+    "name": "SIMPEX Basic Brat-u. Auflaufform 41 x 26,5 x 6 cm \"EasyOven\"",
+    "category": "Küchenutensilien",
+    "subcategories": ["Bratform", "Auflaufform"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004069641",
+    "name": "SIMPEX Basic Brat-u. Backform 28,5 x 23 x 4 cm \"EasyOven\"",
+    "category": "Küchenutensilien",
+    "subcategories": ["Bratform", "Backform"]
+  },
+  {
+    "store": "spar",
+    "id": "8133830",
+    "name": "SIMPEX Basic Bräter 31x23 cm",
+    "category": "Küchenutensilien",
+    "subcategories": ["Bräter"]
+  },
+  {
+    "store": "spar",
+    "id": "7633294",
+    "name": "SIMPEX Basic Bräter rechteck 34 x 26 cm",
+    "category": "Küchenutensilien",
+    "subcategories": ["Bräter"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003083310",
+    "name": "SIMPEX Basic Celebration Ausstechformen 16 Stück",
+    "category": "Küchenutensilien",
+    "subcategories": ["Ausstechformen"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003712371",
+    "name": "SIMPEX Basic Celebration Becher Zuckerrohr 0,2 Liter 8 Stück",
+    "category": "Partybedarf",
+    "subcategories": ["Becher"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004288097",
+    "name": "SIMPEX Basic Celebration Dosenkonfetti",
+    "category": "Partybedarf",
+    "subcategories": ["Konfetti"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004288080",
+    "name": "SIMPEX Basic Celebration Dosenkonfetti",
+    "category": "Partybedarf",
+    "subcategories": ["Konfetti"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004258632",
+    "name": "SIMPEX Basic Celebration Folienballon \"0\" 40 cm silber",
+    "category": "Partybedarf",
+    "subcategories": ["Folienballon"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004259219",
+    "name": "SIMPEX Basic Celebration Folienballon \"0\" silber 80 cm",
+    "category": "Partybedarf",
+    "subcategories": ["Folienballon"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004258649",
+    "name": "SIMPEX Basic Celebration Folienballon \"1\" silber 40 cm",
+    "category": "Partybedarf",
+    "subcategories": ["Folienballon"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004259745",
+    "name": "SIMPEX Basic Celebration Folienballon \"1\" silber 80 cm",
+    "category": "Partybedarf",
+    "subcategories": ["Folienballon"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004259783",
+    "name": "SIMPEX Basic Celebration Folienballon \"2\" silber 80 cm",
+    "category": "Partybedarf",
+    "subcategories": ["Folienballon"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004258663",
+    "name": "SIMPEX Basic Celebration Folienballon \"3\" silber 40 cm",
+    "category": "Partybedarf",
+    "subcategories": ["Folienballon"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004259790",
+    "name": "SIMPEX Basic Celebration Folienballon \"3\" silber 80 cm",
+    "category": "Partybedarf",
+    "subcategories": ["Folienballon"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004258816",
+    "name": "SIMPEX Basic Celebration Folienballon \"4\" silber 40 cm",
+    "category": "Partybedarf",
+    "subcategories": ["Folienballon"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004259820",
+    "name": "SIMPEX Basic Celebration Folienballon \"4\" silber 80 cm",
+    "category": "Partybedarf",
+    "subcategories": ["Folienballon"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004259882",
+    "name": "SIMPEX Basic Celebration Folienballon \"5\" silber 80 cm",
+    "category": "Partybedarf",
+    "subcategories": ["Folienballon"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004259899",
+    "name": "SIMPEX Basic Celebration Folienballon \"6\" silber 80 cm",
+    "category": "Partybedarf",
+    "subcategories": ["Folienballon"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004259004",
+    "name": "SIMPEX Basic Celebration Folienballon \"7\" silber 40 cm",
+    "category": "Partybedarf",
+    "subcategories": ["Folienballon"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004259912",
+    "name": "SIMPEX Basic Celebration Folienballon \"7\" silber 80 cm",
+    "category": "Partybedarf",
+    "subcategories": ["Folienballon"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004259936",
+    "name": "SIMPEX Basic Celebration Folienballon \"8\" silber 80 cm",
+    "category": "Partybedarf",
+    "subcategories": ["Folienballon"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004259066",
+    "name": "SIMPEX Basic Celebration Folienballon \"9\" silber 40 cm",
+    "category": "Partybedarf",
+    "subcategories": ["Folienballon"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004259950",
+    "name": "SIMPEX Basic Celebration Folienballon \"9\" silber 80 cm",
+    "category": "Partybedarf",
+    "subcategories": ["Folienballon"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004258656",
+    "name": "SIMPEX Basic Celebration Folienballon 2 40 cm",
+    "category": "Partybedarf",
+    "subcategories": ["Folienballon"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004258878",
+    "name": "SIMPEX Basic Celebration Folienballon 5 40 cm",
+    "category": "Partybedarf",
+    "subcategories": ["Folienballon"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004258908",
+    "name": "SIMPEX Basic Celebration Folienballon 6 40 cm",
+    "category": "Partybedarf",
+    "subcategories": ["Folienballon"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004259035",
+    "name": "SIMPEX Basic Celebration Folienballon 8 40 cm",
+    "category": "Partybedarf",
+    "subcategories": ["Folienballon"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004260703",
+    "name": "SIMPEX Basic Celebration Folienballon Herz 40 cm",
+    "category": "Partybedarf",
+    "subcategories": ["Folienballon"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004260574",
+    "name": "SIMPEX Basic Celebration Folienballon Kreis 40 cm",
+    "category": "Partybedarf",
+    "subcategories": ["Folienballon"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004260499",
+    "name": "SIMPEX Basic Celebration Folienballon Stern 40 cm",
+    "category": "Partybedarf",
+    "subcategories": ["Folienballon"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004287816",
+    "name": "SIMPEX Basic Celebration Fotoset 10-teilig",
+    "category": "Partybedarf",
+    "subcategories": ["Fotoset"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004288066",
+    "name": "SIMPEX Basic Celebration Fransengirlande",
+    "category": "Partydeko",
+    "subcategories": ["Girlande"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002382018",
+    "name": "SIMPEX Basic Celebration Gabel Holz 15 Stück",
+    "category": "Partyutensilien",
+    "subcategories": ["Gabel"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004288042",
+    "name": "SIMPEX Basic Celebration Girlande 3,6 m",
+    "category": "Partydeko",
+    "subcategories": ["Girlande"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003666377",
+    "name": "SIMPEX Basic Celebration Holz Gabel 15 Stk.",
+    "category": "Partyutensilien",
+    "subcategories": ["Gabel"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003666476",
+    "name": "SIMPEX Basic Celebration Holz Löffel 15 Stk.",
+    "category": "Partyutensilien",
+    "subcategories": ["Löffel"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003666292",
+    "name": "SIMPEX Basic Celebration Holz Messer 15 Stk.",
+    "category": "Partyutensilien",
+    "subcategories": ["Messer"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004287823",
+    "name": "SIMPEX Basic Celebration Hängedekoration Waben",
+    "category": "Partydeko",
+    "subcategories": ["Hängedekoration"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004287830",
+    "name": "SIMPEX Basic Celebration Hängedekoration Waben",
+    "category": "Partydeko",
+    "subcategories": ["Hängedekoration"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002379131",
+    "name": "SIMPEX Basic Celebration Kaffee to go Becher 0,35 Liter 6 Stück",
+    "category": "Partybedarf",
+    "subcategories": ["Becher"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003666490",
+    "name": "SIMPEX Basic Celebration Kaffeelöffel Birkenholz 15 Stück",
+    "category": "Partyutensilien",
+    "subcategories": ["Löffel"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004288073",
+    "name": "SIMPEX Basic Celebration Konfetti",
+    "category": "Partybedarf",
+    "subcategories": ["Konfetti"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003483615",
+    "name": "SIMPEX Basic Celebration Lufballone Herz 10 Stück",
+    "category": "Partybedarf",
+    "subcategories": ["Luftballon"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003483578",
+    "name": "SIMPEX Basic Celebration Luftballone 100 Stück",
+    "category": "Partybedarf",
+    "subcategories": ["Luftballon"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003483660",
+    "name": "SIMPEX Basic Celebration Luftballone 20 Stück",
+    "category": "Partybedarf",
+    "subcategories": ["Luftballon"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003483684",
+    "name": "SIMPEX Basic Celebration Luftballone 8 Stück",
+    "category": "Partybedarf",
+    "subcategories": ["Luftballon"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003483653",
+    "name": "SIMPEX Basic Celebration Luftballone Cupcakes 6 Stück",
+    "category": "Partybedarf",
+    "subcategories": ["Luftballon"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003483585",
+    "name": "SIMPEX Basic Celebration Luftballone Happy Birthday",
+    "category": "Partybedarf",
+    "subcategories": ["Luftballon"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003483707",
+    "name": "SIMPEX Basic Celebration Luftballone Metallic 10 Stück",
+    "category": "Partybedarf",
+    "subcategories": ["Luftballon"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003483967",
+    "name": "SIMPEX Basic Celebration Luftballone Neon 10 Stück",
+    "category": "Partybedarf",
+    "subcategories": ["Luftballon"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003483721",
+    "name": "SIMPEX Basic Celebration Luftballone Raupe 5 Stück",
+    "category": "Partybedarf",
+    "subcategories": ["Luftballon"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003483639",
+    "name": "SIMPEX Basic Celebration Luftballone Smile 6 Stück",
+    "category": "Partybedarf",
+    "subcategories": ["Luftballon"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003489464",
+    "name": "SIMPEX Basic Celebration Luftpumpe",
+    "category": "Partybedarf",
+    "subcategories": ["Luftpumpe"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004195845",
+    "name": "SIMPEX Basic Celebration Luftpumpe rot",
+    "category": "Partybedarf",
+    "subcategories": ["Luftpumpe"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004283870",
+    "name": "SIMPEX Basic Celebration Luftschlangen 3",
+    "category": "Partydeko",
+    "subcategories": ["Luftschlangen"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004288103",
+    "name": "SIMPEX Basic Celebration Luftschlangen Deko 1 3",
+    "category": "Partydeko",
+    "subcategories": ["Luftschlangen"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004288127",
+    "name": "SIMPEX Basic Celebration Luftschlangen Deko 2 3",
+    "category": "Partydeko",
+    "subcategories": ["Luftschlangen"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002382049",
+    "name": "SIMPEX Basic Celebration Löffel Holz 15 Stück",
+    "category": "Partyutensilien",
+    "subcategories": ["Löffel"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002379834",
+    "name": "SIMPEX Basic Celebration Messer Holz 15 Stück",
+    "category": "Partyutensilien",
+    "subcategories": ["Messer"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003483752",
+    "name": "SIMPEX Basic Celebration Modellierballone 10 Stück",
+    "category": "Partybedarf",
+    "subcategories": ["Modellierballon"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003950094",
+    "name": "SIMPEX Basic Celebration Pappbecher 0,2 Liter 20 Stück",
+    "category": "Partybedarf",
+    "subcategories": ["Becher"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003950186",
+    "name": "SIMPEX Basic Celebration Pappbecher 0,5 Liter 10 Stück",
+    "category": "Partybedarf",
+    "subcategories": ["Becher"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002402389",
+    "name": "SIMPEX Basic Celebration Pappbecher 0,5 Liter 20 Stück",
+    "category": "Partybedarf",
+    "subcategories": ["Becher"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002379582",
+    "name": "SIMPEX Basic Celebration Pappteller 13x20 cm 25 Stück",
+    "category": "Partybedarf",
+    "subcategories": ["Pappteller"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002379162",
+    "name": "SIMPEX Basic Celebration Pappteller 16,5x23 cm 25 Stück",
+    "category": "Partybedarf",
+    "subcategories": ["Pappteller"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002379636",
+    "name": "SIMPEX Basic Celebration Pappteller 18 cm 25 Stück",
+    "category": "Partybedarf",
+    "subcategories": ["Pappteller"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002379605",
+    "name": "SIMPEX Basic Celebration Pappteller 23 cm 25 Stück",
+    "category": "Partybedarf",
+    "subcategories": ["Pappteller"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004411310",
+    "name": "SIMPEX Basic Celebration Pappteller 23cm 20 Stück",
+    "category": "Partybedarf",
+    "subcategories": ["Pappteller"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002379599",
+    "name": "SIMPEX Basic Celebration Pappteller 29 cm 12 Stück",
+    "category": "Partybedarf",
+    "subcategories": ["Pappteller"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003664465",
+    "name": "SIMPEX Basic Celebration Pappteller Kraftkarton 10,5 x 17,5 cm",
+    "category": "Partybedarf",
+    "subcategories": ["Pappteller"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003664502",
+    "name": "SIMPEX Basic Celebration Pappteller Kraftkarton 13x20 cm",
+    "category": "Partybedarf",
+    "subcategories": ["Pappteller"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003664588",
+    "name": "SIMPEX Basic Celebration Pappteller Kraftkarton 23 cm rund",
+    "category": "Partybedarf",
+    "subcategories": ["Pappteller"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004287922",
+    "name": "SIMPEX Basic Celebration Partyhüte 6",
+    "category": "Partydeko",
+    "subcategories": ["Partyhut"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003489587",
+    "name": "SIMPEX Basic Celebration Partykette Happy Birthday",
+    "category": "Partydeko",
+    "subcategories": ["Partykette"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004287939",
+    "name": "SIMPEX Basic Celebration Partykette Happy Birthday",
+    "category": "Partydeko",
+    "subcategories": ["Partykette"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002398453",
+    "name": "SIMPEX Basic Celebration Partypicker Eisschirmchen 10 Stück",
+    "category": "Partybedarf",
+    "subcategories": ["Partypicker"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002398422",
+    "name": "SIMPEX Basic Celebration Partypicker Feuerwerk 10 Stück",
+    "category": "Partybedarf",
+    "subcategories": ["Partypicker"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002402143",
+    "name": "SIMPEX Basic Celebration Partypicker Früchte 12 Stück",
+    "category": "Partybedarf",
+    "subcategories": ["Partypicker"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002398477",
+    "name": "SIMPEX Basic Celebration Partypicker Herzen, Sterne, Blumen 50 Stück",
+    "category": "Partybedarf",
+    "subcategories": ["Partypicker"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002398729",
+    "name": "SIMPEX Basic Celebration Partypicker Holzperle 20 Stück",
+    "category": "Partybedarf",
+    "subcategories": ["Partypicker"]
+  }
+]

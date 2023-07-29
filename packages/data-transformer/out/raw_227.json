@@ -1,0 +1,702 @@
+[
+  {
+    "store": "spar",
+    "id": "5519583",
+    "name": "Schenkel Feine Anchovis in Olivenöl",
+    "category": "Konserven",
+    "subcategories": ["Fisch", "Olivenöl", "Anchovis"]
+  },
+  {
+    "store": "spar",
+    "id": "3716908",
+    "name": "Schenkel Forellen Caviar",
+    "category": "Konserven",
+    "subcategories": ["Fisch", "Kaviar", "Forelle"]
+  },
+  {
+    "store": "spar",
+    "id": "5519613",
+    "name": "Schenkel Gerollte Anchovis mit Kapern",
+    "category": "Konserven",
+    "subcategories": ["Fisch", "Anchovis", "Kapern"]
+  },
+  {
+    "store": "spar",
+    "id": "8079749",
+    "name": "Schenkel Goma Wakame",
+    "category": "Konserven",
+    "subcategories": ["Asiatisch", "Algen", "Goma Wakame"]
+  },
+  {
+    "store": "spar",
+    "id": "2511252",
+    "name": "Schenkel Nordische Heringsfilets in Remoulade mit roten Rüben",
+    "category": "Konserven",
+    "subcategories": ["Fisch", "Heringsfilets", "Remoulade", "Rote Rüben"]
+  },
+  {
+    "store": "spar",
+    "id": "2511238",
+    "name": "Schenkel Nordische Heringsfilets in Senf-Remoulade",
+    "category": "Konserven",
+    "subcategories": ["Fisch", "Heringsfilets", "Remoulade", "Senf"]
+  },
+  {
+    "store": "spar",
+    "id": "3716885",
+    "name": "Schenkel Nordischer Caviar",
+    "category": "Konserven",
+    "subcategories": ["Fisch", "Kaviar"]
+  },
+  {
+    "store": "spar",
+    "id": "1648768",
+    "name": "Schenkel Saiblings Caviar",
+    "category": "Konserven",
+    "subcategories": ["Fisch", "Kaviar", "Saibling"]
+  },
+  {
+    "store": "spar",
+    "id": "1400489",
+    "name": "Schloss Fuschl Saiblingsfilet",
+    "category": "Fisch",
+    "subcategories": ["Saibling"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003900105",
+    "name": "Schlagfix sprühfertige vegane Schlagcreme",
+    "category": "Backwaren",
+    "subcategories": ["Vegan", "Schlagcreme"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003316807",
+    "name": "Sammontana Barattolino Nocciola",
+    "category": "Süßwaren",
+    "subcategories": ["Eis", "Nocciola"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003316876",
+    "name": "Sammontana Barattolino Panna Cotta",
+    "category": "Süßwaren",
+    "subcategories": ["Eis", "Panna Cotta"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003316968",
+    "name": "Sammontana Barattolino Vaniglia Pistacchio",
+    "category": "Süßwaren",
+    "subcategories": ["Eis", "Vaniglia", "Pistacchio"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003728501",
+    "name": "Sammontana Barattolino Vanille mit Amarena Kirschen",
+    "category": "Süßwaren",
+    "subcategories": ["Eis", "Vanille", "Amarena Kirschen"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004113665",
+    "name": "Sammontana Gruvi Croccantino 4 Stück",
+    "category": "Süßwaren",
+    "subcategories": ["Eis", "Gruvi", "Croccantino"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004113672",
+    "name": "Sammontana Gruvi Pistacchio",
+    "category": "Süßwaren",
+    "subcategories": ["Eis", "Gruvi", "Pistacchio"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003800788",
+    "name": "Sauce mit Venusmuscheln 400 G",
+    "category": "Saucen",
+    "subcategories": ["Fisch", "Venusmuscheln"]
+  },
+  {
+    "store": "spar",
+    "id": "3122556",
+    "name": "Salzburg Patisserie Esterházy Torte",
+    "category": "Süßwaren",
+    "subcategories": ["Torten", "Esterházy Torte"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002102210",
+    "name": "Salzburg Patisserie Opera Torte",
+    "category": "Süßwaren",
+    "subcategories": ["Torten", "Opera Torte"]
+  },
+  {
+    "store": "spar",
+    "id": "1808797",
+    "name": "Salzburg Patisserie Sacher Torte",
+    "category": "Süßwaren",
+    "subcategories": ["Torten", "Sacher Torte"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003891946",
+    "name": "Sallys Tortenfolie 10 cm",
+    "category": "Backwaren",
+    "subcategories": ["Torten", "Tortenfolie"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002517267",
+    "name": "Sallys Tortenretter rund",
+    "category": "Backwaren",
+    "subcategories": ["Torten", "Tortenretter"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003097621",
+    "name": "Sallys Tortenring 10cm",
+    "category": "Backwaren",
+    "subcategories": ["Torten", "Tortenring"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003891816",
+    "name": "Sallys Tortenring 12-18 cm",
+    "category": "Backwaren",
+    "subcategories": ["Torten", "Tortenring"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002932930",
+    "name": "Sallys Tortenteller grün",
+    "category": "Backwaren",
+    "subcategories": ["Torten", "Tortenteller"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002932947",
+    "name": "Sallys Tortenteller rosa",
+    "category": "Backwaren",
+    "subcategories": ["Torten", "Tortenteller"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002624521",
+    "name": "Sallys Zahlen Ausstecher 9-teilig",
+    "category": "Backwaren",
+    "subcategories": ["Ausstecher", "Zahlen"]
+  },
+  {
+    "store": "spar",
+    "id": "4925651",
+    "name": "Salt Selection Mühle XXL Griechisches Meersalz",
+    "category": "Gewürze",
+    "subcategories": ["Salz", "Griechisches Meersalz"]
+  },
+  {
+    "store": "spar",
+    "id": "4925644",
+    "name": "Salt Selection Mühle XXL Kalahari Wüstensalz",
+    "category": "Gewürze",
+    "subcategories": ["Salz", "Kalahari Wüstensalz"]
+  },
+  {
+    "store": "spar",
+    "id": "4926764",
+    "name": "Salt Selection Mühle XXL Meersalz mit Chili",
+    "category": "Gewürze",
+    "subcategories": ["Salz", "Meersalz", "Chili"]
+  },
+  {
+    "store": "spar",
+    "id": "4926702",
+    "name": "Salt Selection Mühle XXL Meersalz mit Kräutern",
+    "category": "Gewürze",
+    "subcategories": ["Salz", "Meersalz", "Kräuter"]
+  },
+  {
+    "store": "spar",
+    "id": "4927402",
+    "name": "Salt Selection Mühle XXL Meersalz mit Limetten",
+    "category": "Gewürze",
+    "subcategories": ["Salz", "Meersalz", "Limetten"]
+  },
+  {
+    "store": "spar",
+    "id": "4926696",
+    "name": "Salt Selection Mühle XXL Meersalz mit Zitrone Rosmarin",
+    "category": "Gewürze",
+    "subcategories": ["Salz", "Meersalz", "Zitrone", "Rosmarin"]
+  },
+  {
+    "store": "spar",
+    "id": "4927280",
+    "name": "Salt Selection Mühle XXL Meersalz mit buntem Pfeffer",
+    "category": "Gewürze",
+    "subcategories": ["Salz", "Meersalz", "Pfeffer"]
+  },
+  {
+    "store": "spar",
+    "id": "4926689",
+    "name": "Salt Selection Mühle XXL Persische Salzjuwelen",
+    "category": "Gewürze",
+    "subcategories": ["Salz", "Persisches Salzjuwelen"]
+  },
+  {
+    "store": "spar",
+    "id": "4925897",
+    "name": "Salt Selection Mühle XXL Persisches blaues Steinsaltz",
+    "category": "Gewürze",
+    "subcategories": ["Salz", "Persisches blaues Steinsaltz"]
+  },
+  {
+    "store": "spar",
+    "id": "4926191",
+    "name": "Salt Selection Mühle XXL Rosa Kristallsalz",
+    "category": "Gewürze",
+    "subcategories": ["Salz", "Rosa Kristallsalz"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003566783",
+    "name": "Santa Maria Seasoning Mix for Fajitas 28g",
+    "category": "Gewürzmischungen",
+    "subcategories": ["Fajitas", "Gewürzmischungen"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003566776",
+    "name": "Santa Maria Seasoning Mix for Tacos 28g",
+    "category": "Gewürzmischungen",
+    "subcategories": ["Tacos", "Gewürzmischungen"]
+  },
+  {
+    "store": "spar",
+    "id": "3511336",
+    "name": "Schenkel Meersalz fein",
+    "category": "Salz",
+    "subcategories": ["Meersalz"]
+  },
+  {
+    "store": "spar",
+    "id": "5626977",
+    "name": "Schenkel Meersalz grob",
+    "category": "Salz",
+    "subcategories": ["Meersalz"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001500062",
+    "name": "Schenkel Maronicreme mit Vanille",
+    "category": "Süßwaren",
+    "subcategories": ["Maronicreme", "Vanille"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001500116",
+    "name": "Schenkel Maronipüree ungesüßt",
+    "category": "Süßwaren",
+    "subcategories": ["Maroni"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003959691",
+    "name": "Santa Maria Taco Tubs Mini",
+    "category": "Backwaren",
+    "subcategories": ["Tacos", "Mini"]
+  },
+  {
+    "store": "spar",
+    "id": "3112939",
+    "name": "Saupiquet Thunfisch Brotaufstrich Knoblauch",
+    "category": "Fisch",
+    "subcategories": ["Thunfisch", "Brotaufstrich", "Knoblauch"]
+  },
+  {
+    "store": "spar",
+    "id": "7337383",
+    "name": "Schenkel Calamare in eigener Tinte",
+    "category": "Konserven",
+    "subcategories": ["Tintenfisch", "Calamare"]
+  },
+  {
+    "store": "spar",
+    "id": "6140311",
+    "name": "Schenkel Französische Oliven mit Kräutern der Provence",
+    "category": "Konserven",
+    "subcategories": ["Oliven", "Kräuter der Provence"]
+  },
+  {
+    "store": "spar",
+    "id": "286183",
+    "name": "Schenkel Geräucherte Austern in Pflanzenöl",
+    "category": "Fisch",
+    "subcategories": ["Austern", "Geräuchert", "Pflanzenöl"]
+  },
+  {
+    "store": "spar",
+    "id": "2686417",
+    "name": "Schenkel Heringsfilets Dill-Kräuter-Creme",
+    "category": "Fisch",
+    "subcategories": ["Heringsfilets", "Dill-Kräuter-Creme"]
+  },
+  {
+    "store": "spar",
+    "id": "7807824",
+    "name": "Schenkel Heringsfilets in Cocktail-Creme",
+    "category": "Fisch",
+    "subcategories": ["Heringsfilets", "Cocktail-Creme"]
+  },
+  {
+    "store": "spar",
+    "id": "6904401",
+    "name": "Schenkel Heringsfilets in Curry-Ananas-Creme",
+    "category": "Fisch",
+    "subcategories": ["Heringsfilets", "Curry-Ananas-Creme"]
+  },
+  {
+    "store": "spar",
+    "id": "2686424",
+    "name": "Schenkel Heringsfilets in Eier-Senf-Creme",
+    "category": "Fisch",
+    "subcategories": ["Heringsfilets", "Eier-Senf-Creme"]
+  },
+  {
+    "store": "spar",
+    "id": "2686394",
+    "name": "Schenkel Heringsfilets in Tomaten-Creme",
+    "category": "Fisch",
+    "subcategories": ["Heringsfilets", "Tomaten-Creme"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003243868",
+    "name": "Schenkel Hummerrahmsuppe",
+    "category": "Suppen",
+    "subcategories": ["Hummerrahmsuppe"]
+  },
+  {
+    "store": "spar",
+    "id": "5629336",
+    "name": "Schenkel Kapern in Essig",
+    "category": "Gewürze",
+    "subcategories": ["Kapern", "Essig"]
+  },
+  {
+    "store": "spar",
+    "id": "5629305",
+    "name": "Schenkel Kapernbeeren mariniert",
+    "category": "Gewürze",
+    "subcategories": ["Kapernbeeren", "mariniert"]
+  },
+  {
+    "store": "spar",
+    "id": "3078792",
+    "name": "Schenkel Manzanilla Oliven mit Anchovis",
+    "category": "Konserven",
+    "subcategories": ["Oliven", "Anchovis"]
+  },
+  {
+    "store": "spar",
+    "id": "4858645",
+    "name": "Schenkel Manzanilla Oliven mit Chili-Füllung",
+    "category": "Konserven",
+    "subcategories": ["Oliven", "Chili-Füllung"]
+  },
+  {
+    "store": "spar",
+    "id": "3078785",
+    "name": "Schenkel Manzanilla Oliven mit Thunfisch",
+    "category": "Konserven",
+    "subcategories": ["Oliven", "Thunfisch"]
+  },
+  {
+    "store": "spar",
+    "id": "3638842",
+    "name": "Schenkel Maroni naturell",
+    "category": "Nüsse",
+    "subcategories": ["Maroni"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003766060",
+    "name": "Schenkel Muscheln geräuchert in Öl",
+    "category": "Konserven",
+    "subcategories": ["Muscheln", "Geräuchert", "Öl"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003765742",
+    "name": "Schenkel Muscheln geräuchert mit Chili in Öl",
+    "category": "Konserven",
+    "subcategories": ["Muscheln", "Geräuchert", "Chili", "Öl"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003765674",
+    "name": "Schenkel Muscheln geräuchert mit Zitrone in Öl",
+    "category": "Konserven",
+    "subcategories": ["Muscheln", "Geräuchert", "Zitrone", "Öl"]
+  },
+  {
+    "store": "spar",
+    "id": "1035865",
+    "name": "Schenkel Palmenherzen",
+    "category": "Konserven",
+    "subcategories": ["Gemüse", "Palmenherzen"]
+  },
+  {
+    "store": "spar",
+    "id": "6667443",
+    "name": "Schenkel Paprika rot geröstet",
+    "category": "Gemüse",
+    "subcategories": ["Paprika", "geröstet"]
+  },
+  {
+    "store": "spar",
+    "id": "6849566",
+    "name": "Schenkel Riesenkalmar in Olivenöl",
+    "category": "Konserven",
+    "subcategories": ["Tintenfisch", "Olivenöl"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001928415",
+    "name": "Schenkel Sardinen Piri",
+    "category": "Konserven",
+    "subcategories": ["Sardinen", "Piri"]
+  },
+  {
+    "store": "spar",
+    "id": "831055",
+    "name": "Schenkel Sardinen in Olivenöl",
+    "category": "Konserven",
+    "subcategories": ["Sardinen", "Olivenöl"]
+  },
+  {
+    "store": "spar",
+    "id": "3078761",
+    "name": "Schenkel Sardinen mit Zitrone",
+    "category": "Konserven",
+    "subcategories": ["Sardinen", "Zitrone"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003455209",
+    "name": "Schenkel Sprotten geräuchert in Öl",
+    "category": "Konserven",
+    "subcategories": ["Sprotten", "Geräuchert", "Öl"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003501098",
+    "name": "Schenkel Steinpilzsuppe",
+    "category": "Suppen",
+    "subcategories": ["Steinpilzsuppe"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004169594",
+    "name": "Schenkel Thunfisch PiriPiri",
+    "category": "Konserven",
+    "subcategories": ["Thunfisch", "PiriPiri"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002793876",
+    "name": "Schenkel Thunfisch in Olivenöl",
+    "category": "Konserven",
+    "subcategories": ["Thunfisch", "Olivenöl"]
+  },
+  {
+    "store": "spar",
+    "id": "831086",
+    "name": "Schenkel Weißer Thunfisch in Olivenöl",
+    "category": "Konserven",
+    "subcategories": ["Thunfisch", "Olivenöl"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003243790",
+    "name": "Schenkel Zwiebelsuppe",
+    "category": "Suppen",
+    "subcategories": ["Zwiebelsuppe"]
+  },
+  {
+    "store": "spar",
+    "id": "7948039",
+    "name": "Salzach Gold Feinster Weizendunst Type 480 griffig",
+    "category": "Mehl",
+    "subcategories": ["Weizendunst", "480 griffig"]
+  },
+  {
+    "store": "spar",
+    "id": "7948312",
+    "name": "Salzach Gold Feinstes Weizenmehl Type 700 glatt",
+    "category": "Mehl",
+    "subcategories": ["Weizenmehl", "700 glatt"]
+  },
+  {
+    "store": "spar",
+    "id": "7948367",
+    "name": "Salzach Gold Roggenmehl Type 960",
+    "category": "Mehl",
+    "subcategories": ["Roggenmehl", "960"]
+  },
+  {
+    "store": "spar",
+    "id": "3651117",
+    "name": "Schenkel Basmati Reis",
+    "category": "Reis",
+    "subcategories": ["Basmati"]
+  },
+  {
+    "store": "spar",
+    "id": "8167934",
+    "name": "Schenkel Jasminreis",
+    "category": "Reis",
+    "subcategories": ["Jasminreis"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003570513",
+    "name": "Santa Maria Chunky Wrap Salsa medium",
+    "category": "Saucen",
+    "subcategories": ["Salsa", "medium"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003570780",
+    "name": "Santa Maria Garlic Salsa medium",
+    "category": "Saucen",
+    "subcategories": ["Salsa", "medium", "Knoblauch"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003566899",
+    "name": "Santa Maria Salsa Dip medium",
+    "category": "Saucen",
+    "subcategories": ["Salsa", "Dip", "medium"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003566806",
+    "name": "Santa Maria Taco Sauce hot",
+    "category": "Saucen",
+    "subcategories": ["Tacos", "Sauce", "hot"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003566790",
+    "name": "Santa Maria Taco Sauce mild",
+    "category": "Saucen",
+    "subcategories": ["Tacos", "Sauce", "mild"]
+  },
+  {
+    "store": "spar",
+    "id": "5795802",
+    "name": "Santa Maria Tex Mex Dip Guacamole Style",
+    "category": "Saucen",
+    "subcategories": ["Tex Mex", "Dip", "Guacamole Style"]
+  },
+  {
+    "store": "spar",
+    "id": "5795796",
+    "name": "Santa Maria Tex Mex Dip Nacho Cheese Style",
+    "category": "Saucen",
+    "subcategories": ["Tex Mex", "Dip", "Nacho Cheese Style"]
+  },
+  {
+    "store": "spar",
+    "id": "3291313",
+    "name": "Schenkel Nordische Senfsauce für Lachs",
+    "category": "Saucen",
+    "subcategories": ["Senfsauce", "Lachs"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003493959",
+    "name": "Schenkel Worcester Sauce 284ml",
+    "category": "Saucen",
+    "subcategories": ["Worcester Sauce"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001524129",
+    "name": "Samarin Brausepulver 36 x 4G",
+    "category": "Getränke",
+    "subcategories": ["Brausepulver"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004249883",
+    "name": "San Carlo la Vita è Buona Kartoffelchips Classic Salz",
+    "category": "Chips",
+    "subcategories": ["Kartoffelchips", "Classic Salz"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004249906",
+    "name": "San Carlo la Vita è Buona Kartoffelchips Pesto",
+    "category": "Chips",
+    "subcategories": ["Kartoffelchips", "Pesto"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003566851",
+    "name": "Santa Maria Crispy Corn Tortilla Chips Chili",
+    "category": "Chips",
+    "subcategories": ["Tortilla Chips", "Chili"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003566820",
+    "name": "Santa Maria Crispy Corn Tortilla Chips salted",
+    "category": "Chips",
+    "subcategories": ["Tortilla Chips", "salted"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003812804",
+    "name": "Santa Maria Nacho Chips",
+    "category": "Chips",
+    "subcategories": ["Nacho Chips"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004070289",
+    "name": "Sapori Amaretti alla mandorla",
+    "category": "Kekse",
+    "subcategories": ["Amaretti", "Mandorla"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004070241",
+    "name": "Sapori Cantuccini Choco Chunks 175g",
+    "category": "Kekse",
+    "subcategories": ["Cantuccini", "Choco Chunks"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004070258",
+    "name": "Sapori Cantuccini alla Mandorla",
+    "category": "Kekse",
+    "subcategories": ["Cantuccini", "Mandorla"]
+  },
+  {
+    "store": "spar",
+    "id": "1568202",
+    "name": "Sarotti Tiamo Feinste Trüffel Amaretto",
+    "category": "Süßwaren",
+    "subcategories": ["Trüffel", "Amaretto"]
+  },
+  {
+    "store": "spar",
+    "id": "7623813",
+    "name": "Sarotti Tiamo Feinste Trüffel Cognac-Sahne",
+    "category": "Süßwaren",
+    "subcategories": ["Trüffel", "Cognac-Sahne"]
+  }
+]

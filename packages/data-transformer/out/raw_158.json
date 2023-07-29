@@ -1,0 +1,702 @@
+[
+  {
+    "store": "lidl",
+    "id": 418470,
+    "name": "PARKSIDE® Tischkreissäge",
+    "category": "Werkzeug",
+    "subcategory": ["Maschinen"]
+  },
+  {
+    "store": "lidl",
+    "id": 384620,
+    "name": "PHILIPS Fruchtentsafter",
+    "category": "Küchengeräte",
+    "subcategory": ["Entsafter"]
+  },
+  {
+    "store": "lidl",
+    "id": 415286,
+    "name": "PHILIPS Toaster „HD2581/​10“",
+    "category": "Küchengeräte",
+    "subcategory": ["Toaster"]
+  },
+  {
+    "store": "lidl",
+    "id": 97197,
+    "name": "PRIMADONNA Olivenöl zum Braten",
+    "category": "Lebensmittel",
+    "subcategory": ["Öle"]
+  },
+  {
+    "store": "lidl",
+    "id": 18279207,
+    "name": "PROFIGARTEN Premium Blumenerde",
+    "category": "Garten",
+    "subcategory": ["Pflanzenerde"]
+  },
+  {
+    "store": "lidl",
+    "id": 22101120,
+    "name": "Paccheri",
+    "category": "Lebensmittel",
+    "subcategory": ["Nudeln"]
+  },
+  {
+    "store": "lidl",
+    "id": 5009857,
+    "name": "Pasta mit Brokkoli & Zucchini",
+    "category": "Lebensmittel",
+    "subcategory": ["Fertiggerichte"]
+  },
+  {
+    "store": "lidl",
+    "id": 22101158,
+    "name": "Pastrami",
+    "category": "Lebensmittel",
+    "subcategory": ["Aufschnitt"]
+  },
+  {
+    "store": "lidl",
+    "id": 5907602,
+    "name": "Pastéis de Nata",
+    "category": "Lebensmittel",
+    "subcategory": ["Gebäck"]
+  },
+  {
+    "store": "lidl",
+    "id": 5009858,
+    "name": "Penne Tricolore",
+    "category": "Lebensmittel",
+    "subcategory": ["Nudeln"]
+  },
+  {
+    "store": "lidl",
+    "id": 7001890,
+    "name": "Pepsi Cola oder Max",
+    "category": "Lebensmittel",
+    "subcategory": ["Getränke"]
+  },
+  {
+    "store": "lidl",
+    "id": 70018901,
+    "name": "Pepsi Cola oder Max",
+    "category": "Lebensmittel",
+    "subcategory": ["Getränke"]
+  },
+  {
+    "store": "lidl",
+    "id": 22101145,
+    "name": "Pesto",
+    "category": "Lebensmittel",
+    "subcategory": ["Saucen"]
+  },
+  {
+    "store": "lidl",
+    "id": 80403,
+    "name": "Pfirische",
+    "category": "Lebensmittel",
+    "subcategory": ["Obst"]
+  },
+  {
+    "store": "lidl",
+    "id": 804101,
+    "name": "Pflaumen",
+    "category": "Lebensmittel",
+    "subcategory": ["Obst"]
+  },
+  {
+    "store": "lidl",
+    "id": 22101151,
+    "name": "Pikantes Mousse",
+    "category": "Lebensmittel",
+    "subcategory": ["Aufstriche"]
+  },
+  {
+    "store": "lidl",
+    "id": 1011391,
+    "name": "Pilze",
+    "category": "Lebensmittel",
+    "subcategory": ["Gemüse"]
+  },
+  {
+    "store": "lidl",
+    "id": 3983390,
+    "name": "Playtive Wassersprinkler/​-strudel",
+    "category": "Spielzeug",
+    "subcategory": ["Outdoor-Spielzeug"]
+  },
+  {
+    "store": "lidl",
+    "id": 1011389,
+    "name": "Premium Pasta gefüllt",
+    "category": "Lebensmittel",
+    "subcategory": ["Fertiggerichte"]
+  },
+  {
+    "store": "lidl",
+    "id": 149516,
+    "name": "Prosecco Spumante",
+    "category": "Getränke",
+    "subcategory": ["Alkohol"]
+  },
+  {
+    "store": "lidl",
+    "id": 7008556,
+    "name": "Purina Gourmet Gold Katzennassnahrung",
+    "category": "Tierbedarf",
+    "subcategory": ["Katzenfutter"]
+  },
+  {
+    "store": "lidl",
+    "id": 3515850,
+    "name": "Radatz Kukuruz Bratwürstel",
+    "category": "Lebensmittel",
+    "subcategory": ["Wurst"]
+  },
+  {
+    "store": "lidl",
+    "id": 200934,
+    "name": "Rama Unwiderstehlich oder zum Streichen, Kochen und Backen",
+    "category": "Lebensmittel",
+    "subcategory": ["Margarine"]
+  },
+  {
+    "store": "lidl",
+    "id": 80847,
+    "name": "Ribisel aus der Steiermark",
+    "category": "Lebensmittel",
+    "subcategory": ["Obst"]
+  },
+  {
+    "store": "lidl",
+    "id": 22101143,
+    "name": "Risotto",
+    "category": "Lebensmittel",
+    "subcategory": ["Fertiggerichte"]
+  },
+  {
+    "store": "lidl",
+    "id": 175853,
+    "name": "Rispenhortensie",
+    "category": "Garten",
+    "subcategory": ["Pflanzen"]
+  },
+  {
+    "store": "lidl",
+    "id": 99224683,
+    "name": "Rosé",
+    "category": "Getränke",
+    "subcategory": ["Alkohol"]
+  },
+  {
+    "store": "lidl",
+    "id": 2605381,
+    "name": "Römerquelle Emotion",
+    "category": "Getränke",
+    "subcategory": ["Mineralwasser"]
+  },
+  {
+    "store": "lidl",
+    "id": 2012431,
+    "name": "Römerquelle Mineralwasser",
+    "category": "Getränke",
+    "subcategory": ["Mineralwasser"]
+  },
+  {
+    "store": "lidl",
+    "id": 201243,
+    "name": "Römerquelle Mineralwasser",
+    "category": "Getränke",
+    "subcategory": ["Mineralwasser"]
+  },
+  {
+    "store": "lidl",
+    "id": 407208,
+    "name": "SILVERCREST Milbensauger",
+    "category": "Haushaltsgeräte",
+    "subcategory": ["Staubsauger"]
+  },
+  {
+    "store": "lidl",
+    "id": 379885,
+    "name": "SILVERCREST® 2-in-1 Akku-Staubsauger",
+    "category": "Haushaltsgeräte",
+    "subcategory": ["Staubsauger"]
+  },
+  {
+    "store": "lidl",
+    "id": 397019,
+    "name": "SILVERCREST® Bluetooth Lautsprecher „Rhythm Blast“",
+    "category": "Elektronik",
+    "subcategory": ["Lautsprecher"]
+  },
+  {
+    "store": "lidl",
+    "id": 397027,
+    "name": "SILVERCREST® Bluetooth Lautsprecher „Tune“",
+    "category": "Elektronik",
+    "subcategory": ["Lautsprecher"]
+  },
+  {
+    "store": "lidl",
+    "id": 384919,
+    "name": "SILVERCREST® KITCHEN TOOLS Eiswürfelmaschine",
+    "category": "Küchengeräte",
+    "subcategory": ["Eiswürfelbereiter"]
+  },
+  {
+    "store": "lidl",
+    "id": 383186,
+    "name": "SILVERCREST® KITCHEN TOOLS Elektrische Multipfanne",
+    "category": "Küchengeräte",
+    "subcategory": ["Pfannen"]
+  },
+  {
+    "store": "lidl",
+    "id": 406586,
+    "name": "SILVERCREST® KITCHEN TOOLS Heißluftfritteuse, 9-in-1",
+    "category": "Küchengeräte",
+    "subcategory": ["Fritteusen"]
+  },
+  {
+    "store": "lidl",
+    "id": 406274,
+    "name": "SILVERCREST® KITCHEN TOOLS Induktionskochplatte",
+    "category": "Küchengeräte",
+    "subcategory": ["Kochplatten"]
+  },
+  {
+    "store": "lidl",
+    "id": 410689,
+    "name": "SILVERCREST® KITCHEN TOOLS Monsieur Cuisine „Smart“",
+    "category": "Küchengeräte",
+    "subcategory": ["Küchenmaschinen"]
+  },
+  {
+    "store": "lidl",
+    "id": 416066,
+    "name": "SILVERCREST® KITCHEN TOOLS Multizerkleinerer",
+    "category": "Küchengeräte",
+    "subcategory": ["Küchengeräte"]
+  },
+  {
+    "store": "lidl",
+    "id": 498417,
+    "name": "SILVERCREST® KITCHEN TOOLS Reiskocher",
+    "category": "Küchengeräte",
+    "subcategory": ["Reiskocher"]
+  },
+  {
+    "store": "lidl",
+    "id": 407710,
+    "name": "SILVERCREST® KITCHEN TOOLS Stabmixer-Set",
+    "category": "Küchengeräte",
+    "subcategory": ["Stabmixer"]
+  },
+  {
+    "store": "lidl",
+    "id": 400096,
+    "name": "SILVERCREST® KITCHEN TOOLS Wasserkocher",
+    "category": "Küchengeräte",
+    "subcategory": ["Wasserkocher"]
+  },
+  {
+    "store": "lidl",
+    "id": 498415,
+    "name": "SILVERCREST® KITCHEN TOOLS Zitruspresse",
+    "category": "Küchengeräte",
+    "subcategory": ["Zitruspressen"]
+  },
+  {
+    "store": "lidl",
+    "id": 393749,
+    "name": "SILVERCREST® Mobiles Klimagerät",
+    "category": "Haushaltsgeräte",
+    "subcategory": ["Klimageräte"]
+  },
+  {
+    "store": "lidl",
+    "id": 391435,
+    "name": "SILVERCREST® PERSONAL CARE Glas-Personenwaage",
+    "category": "Haushaltsgeräte",
+    "subcategory": ["Personenwaagen"]
+  },
+  {
+    "store": "lidl",
+    "id": 402449,
+    "name": "SILVERCREST® Polster- und Teppichreiniger",
+    "category": "Haushaltsgeräte",
+    "subcategory": ["Reiniger"]
+  },
+  {
+    "store": "lidl",
+    "id": 415575,
+    "name": "SOCCX BY CARINA Damen Sweathose",
+    "category": "Kleidung",
+    "subcategory": ["Hosen"]
+  },
+  {
+    "store": "lidl",
+    "id": 433133,
+    "name": "SOCCX BY CARINA Damen Sweatshirt",
+    "category": "Kleidung",
+    "subcategory": ["Sweatshirts"]
+  },
+  {
+    "store": "lidl",
+    "id": 415576,
+    "name": "SOCCX BY CARINA Damen Sweatshirt",
+    "category": "Kleidung",
+    "subcategory": ["Sweatshirts"]
+  },
+  {
+    "store": "lidl",
+    "id": 433134,
+    "name": "SOCCX BY CARINA Damen Sweatshorts",
+    "category": "Kleidung",
+    "subcategory": ["Shorts"]
+  },
+  {
+    "store": "lidl",
+    "id": 433132,
+    "name": "SOCCX BY CARINA Damen T-Shirt",
+    "category": "Kleidung",
+    "subcategory": ["T-Shirts"]
+  },
+  {
+    "store": "lidl",
+    "id": 433135,
+    "name": "SOCCX BY CARINA Damen Sweatshorts",
+    "category": "Kleidung",
+    "subcategory": ["Shorts"]
+  },
+  {
+    "store": "lidl",
+    "id": 2023851,
+    "name": "SOLEVITA Frischer Blutorangensaft",
+    "category": "Getränke",
+    "subcategory": ["Saft"]
+  },
+  {
+    "store": "lidl",
+    "id": 50097721,
+    "name": "Sacherschnitte 2er",
+    "category": "Lebensmittel",
+    "subcategory": ["Süßigkeiten"]
+  },
+  {
+    "store": "lidl",
+    "id": 22101103,
+    "name": "Salami Spianata Rossa",
+    "category": "Lebensmittel",
+    "subcategory": ["Salami"]
+  },
+  {
+    "store": "lidl",
+    "id": 1011387,
+    "name": "Salami-Spezialitäten",
+    "category": "Lebensmittel",
+    "subcategory": ["Salami"]
+  },
+  {
+    "store": "lidl",
+    "id": 221627,
+    "name": "SalzburgMilch Almkönig",
+    "category": "Lebensmittel",
+    "subcategory": ["Milchprodukte"]
+  },
+  {
+    "store": "lidl",
+    "id": 203472,
+    "name": "SalzburgMilch Fruchtjoghurt",
+    "category": "Lebensmittel",
+    "subcategory": ["Joghurt"]
+  },
+  {
+    "store": "lidl",
+    "id": 22101121,
+    "name": "Salzmühle",
+    "category": "Küchengeräte",
+    "subcategory": ["Gewürzmühlen"]
+  },
+  {
+    "store": "lidl",
+    "id": 22101142,
+    "name": "Sardellenfilets",
+    "category": "Lebensmittel",
+    "subcategory": ["Fisch"]
+  },
+  {
+    "store": "lidl",
+    "id": 201424,
+    "name": "Schartner Bombe Limonade",
+    "category": "Getränke",
+    "subcategory": ["Limonade"]
+  },
+  {
+    "store": "lidl",
+    "id": 2074991,
+    "name": "Schärdinger Brat- und Grillkäse",
+    "category": "Lebensmittel",
+    "subcategory": ["Käse"]
+  },
+  {
+    "store": "lidl",
+    "id": 229768,
+    "name": "Schärdinger Milchtraum",
+    "category": "Lebensmittel",
+    "subcategory": ["Milchprodukte"]
+  },
+  {
+    "store": "lidl",
+    "id": 2332901,
+    "name": "Schärdinger Sommerbutter",
+    "category": "Lebensmittel",
+    "subcategory": ["Butter"]
+  },
+  {
+    "store": "lidl",
+    "id": 2044951,
+    "name": "Select & GO Frisches Sushi",
+    "category": "Lebensmittel",
+    "subcategory": ["Sushi"]
+  },
+  {
+    "store": "lidl",
+    "id": 2029621,
+    "name": "Select & Go Salat & Pasta",
+    "category": "Lebensmittel",
+    "subcategory": ["Salate"]
+  },
+  {
+    "store": "lidl",
+    "id": 1011390,
+    "name": "Senf",
+    "category": "Lebensmittel",
+    "subcategory": ["Gewürze"]
+  },
+  {
+    "store": "lidl",
+    "id": 214661,
+    "name": "Sentimat Waschmittelpulver",
+    "category": "Haushaltsgeräte",
+    "subcategory": ["Waschmittel"]
+  },
+  {
+    "store": "lidl",
+    "id": 7004925,
+    "name": "Sentinell Weichspüler",
+    "category": "Haushaltsgeräte",
+    "subcategory": ["Weichspüler"]
+  },
+  {
+    "store": "lidl",
+    "id": 15062020,
+    "name": "Soda Trend® Universal CO2-Zylinder, Ersatz-Zylinder",
+    "category": "Haushaltsgeräte",
+    "subcategory": ["Soda-Stream-Zubehör"]
+  },
+  {
+    "store": "lidl",
+    "id": 1706,
+    "name": "Soda Trend® Universal CO2-Zylinder, Tausch-Zylinder",
+    "category": "Haushaltsgeräte",
+    "subcategory": ["Soda-Stream-Zubehör"]
+  },
+  {
+    "store": "lidl",
+    "id": 39239,
+    "name": "Sol&Mar Aioli",
+    "category": "Lebensmittel",
+    "subcategory": ["Saucen"]
+  },
+  {
+    "store": "lidl",
+    "id": 148113,
+    "name": "Sol&Mar Argentinische Rotgarnelen",
+    "category": "Lebensmittel",
+    "subcategory": ["Seafood"]
+  },
+  {
+    "store": "lidl",
+    "id": 29466,
+    "name": "Sol&Mar Artischockenherzen",
+    "category": "Lebensmittel",
+    "subcategory": ["Konserven"]
+  },
+  {
+    "store": "lidl",
+    "id": 95462,
+    "name": "Sol&Mar Chips",
+    "category": "Lebensmittel",
+    "subcategory": ["Snacks"]
+  },
+  {
+    "store": "lidl",
+    "id": 5700179,
+    "name": "Sol&Mar Chorizo Extra",
+    "category": "Lebensmittel",
+    "subcategory": ["Wurst"]
+  },
+  {
+    "store": "lidl",
+    "id": 5705302,
+    "name": "Sol&Mar Chorizo extra dulce/picante",
+    "category": "Lebensmittel",
+    "subcategory": ["Wurst"]
+  },
+  {
+    "store": "lidl",
+    "id": 5717721,
+    "name": "Sol&Mar Chorizo vom Iberico Schwein",
+    "category": "Lebensmittel",
+    "subcategory": ["Wurst"]
+  },
+  {
+    "store": "lidl",
+    "id": 5717125,
+    "name": "Sol&Mar Datteln/Pflaumen im Speckmantel",
+    "category": "Lebensmittel",
+    "subcategory": ["Snacks"]
+  },
+  {
+    "store": "lidl",
+    "id": 58117,
+    "name": "Sol&Mar Eingelegte Knoblauchzehen",
+    "category": "Lebensmittel",
+    "subcategory": ["Konserven"]
+  },
+  {
+    "store": "lidl",
+    "id": 5701927,
+    "name": "Sol&Mar Eingelegte Miesmuscheln",
+    "category": "Lebensmittel",
+    "subcategory": ["Seafood"]
+  },
+  {
+    "store": "lidl",
+    "id": 159126,
+    "name": "Sol&Mar Empanadas",
+    "category": "Lebensmittel",
+    "subcategory": ["Snacks"]
+  },
+  {
+    "store": "lidl",
+    "id": 5701624,
+    "name": "Sol&Mar Fuet Extra",
+    "category": "Lebensmittel",
+    "subcategory": ["Wurst"]
+  },
+  {
+    "store": "lidl",
+    "id": 5701876,
+    "name": "Sol&Mar Gazpacho",
+    "category": "Lebensmittel",
+    "subcategory": ["Suppen"]
+  },
+  {
+    "store": "lidl",
+    "id": 159090,
+    "name": "Sol&Mar Gestrudeltes Eissorbet",
+    "category": "Lebensmittel",
+    "subcategory": ["Eis"]
+  },
+  {
+    "store": "lidl",
+    "id": 5712078,
+    "name": "Sol&Mar Grüne Oliven",
+    "category": "Lebensmittel",
+    "subcategory": ["Oliven"]
+  },
+  {
+    "store": "lidl",
+    "id": 5700142,
+    "name": "Sol&Mar Grüne Riesenoliven",
+    "category": "Lebensmittel",
+    "subcategory": ["Oliven"]
+  },
+  {
+    "store": "lidl",
+    "id": 5701620,
+    "name": "Sol&Mar Jamón Serrano",
+    "category": "Lebensmittel",
+    "subcategory": ["Schinken"]
+  },
+  {
+    "store": "lidl",
+    "id": 5701621,
+    "name": "Sol&Mar Jamón Serrano Gran Reserva",
+    "category": "Lebensmittel",
+    "subcategory": ["Schinken"]
+  },
+  {
+    "store": "lidl",
+    "id": 5704862,
+    "name": "Sol&Mar Kroketten",
+    "category": "Lebensmittel",
+    "subcategory": ["Kroketten"]
+  },
+  {
+    "store": "lidl",
+    "id": 5709261,
+    "name": "Sol&Mar Käseecke",
+    "category": "Lebensmittel",
+    "subcategory": ["Käse"]
+  },
+  {
+    "store": "lidl",
+    "id": 5701936,
+    "name": "Sol&Mar Käseplatte",
+    "category": "Lebensmittel",
+    "subcategory": ["Käse"]
+  },
+  {
+    "store": "lidl",
+    "id": 5700073,
+    "name": "Sol&Mar Lomo Embuchado",
+    "category": "Lebensmittel",
+    "subcategory": ["Wurst"]
+  },
+  {
+    "store": "lidl",
+    "id": 5701604,
+    "name": "Sol&Mar MSC Sardellenfilets in Olivenöl",
+    "category": "Lebensmittel",
+    "subcategory": ["Fisch"]
+  },
+  {
+    "store": "lidl",
+    "id": 6000254,
+    "name": "Sol&Mar Meeresfrüchte/Miesmuscheln",
+    "category": "Lebensmittel",
+    "subcategory": ["Seafood"]
+  },
+  {
+    "store": "lidl",
+    "id": 5704852,
+    "name": "Sol&Mar Mini-Tortillas mit Garnelen",
+    "category": "Lebensmittel",
+    "subcategory": ["Tortillas"]
+  },
+  {
+    "store": "lidl",
+    "id": 170820,
+    "name": "Sol&Mar Mojo Sauce",
+    "category": "Lebensmittel",
+    "subcategory": ["Saucen"]
+  },
+  {
+    "store": "lidl",
+    "id": 12081,
+    "name": "Sol&Mar Natives Olivenöl extra",
+    "category": "Lebensmittel",
+    "subcategory": ["Öle"]
+  },
+  {
+    "store": "lidl",
+    "id": 5900017,
+    "name": "Sol&Mar Piri-Piri Sauce",
+    "category": "Lebensmittel",
+    "subcategory": ["Saucen"]
+  }
+]

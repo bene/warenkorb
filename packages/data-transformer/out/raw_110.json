@@ -1,0 +1,695 @@
+[
+  {
+    "store": "billa",
+    "id": "00-566063",
+    "name": "Clever Gefrierbeutel 3 Lt.",
+    "category": "Aufbewahrung",
+    "subcategories": ["Gefrierbeutel", "Aufbewahrungsbeutel"]
+  },
+  {
+    "store": "billa",
+    "id": "00-360948",
+    "name": "Clever Müllsäcke mit Zugband 30L",
+    "category": "Aufbewahrung",
+    "subcategories": ["Müllsäcke", "Müllbeutel"]
+  },
+  {
+    "store": "billa",
+    "id": "00-904083",
+    "name": "Clever Müllsäcke mit Zugband 60L",
+    "category": "Aufbewahrung",
+    "subcategories": ["Müllsäcke", "Müllbeutel"]
+  },
+  {
+    "store": "billa",
+    "id": "00-705397",
+    "name": "Folistar Frischhaltefolie 60m",
+    "category": "Aufbewahrung",
+    "subcategories": ["Frischhaltefolie"]
+  },
+  {
+    "store": "billa",
+    "id": "00-6155",
+    "name": "Kalle Bratfolie Extragröße",
+    "category": "Aufbewahrung",
+    "subcategories": ["Bratfolie"]
+  },
+  {
+    "store": "billa",
+    "id": "00-274571",
+    "name": "Müllstar Müllsäcke mit Zugband 60L",
+    "category": "Aufbewahrung",
+    "subcategories": ["Müllsäcke", "Müllbeutel"]
+  },
+  {
+    "store": "billa",
+    "id": "00-418488",
+    "name": "Nuts Bienenwachs Sandwichbeutel 2 teilig",
+    "category": "Aufbewahrung",
+    "subcategories": ["Sandwichbeutel", "Bienenwachsbeutel"]
+  },
+  {
+    "store": "billa",
+    "id": "00-418498",
+    "name": "Nuts Pflanzenwachstuch Vegan 4 teilig",
+    "category": "Aufbewahrung",
+    "subcategories": ["Pflanzenwachstuch"]
+  },
+  {
+    "store": "billa",
+    "id": "00-615990",
+    "name": "Pely Clean Multi Müllbeutel mit Zugband 35L",
+    "category": "Aufbewahrung",
+    "subcategories": ["Müllbeutel", "Müllsäcke"]
+  },
+  {
+    "store": "billa",
+    "id": "00-320195",
+    "name": "Swirl Aktive Frische-Müllbeutel 35L",
+    "category": "Aufbewahrung",
+    "subcategories": ["Müllbeutel", "Müllsäcke"]
+  },
+  {
+    "store": "billa",
+    "id": "00-307190",
+    "name": "Swirl Bio-Folienmüllbeutel 35L",
+    "category": "Aufbewahrung",
+    "subcategories": ["Müllbeutel", "Müllsäcke", "Bio-Müllbeutel"]
+  },
+  {
+    "store": "billa",
+    "id": "00-771014",
+    "name": "Swirl Bio-Müll Folienbeutel mit Zugband 10L",
+    "category": "Aufbewahrung",
+    "subcategories": ["Müllbeutel", "Müllsäcke", "Bio-Müllbeutel"]
+  },
+  {
+    "store": "billa",
+    "id": "00-842435",
+    "name": "Swirl Elastisches Fixierband Müllbeutel 35L",
+    "category": "Aufbewahrung",
+    "subcategories": ["Müllbeutel", "Müllsäcke"]
+  },
+  {
+    "store": "billa",
+    "id": "00-810093",
+    "name": "Swirl Müllsäcke 150L",
+    "category": "Aufbewahrung",
+    "subcategories": ["Müllsäcke", "Müllbeutel"]
+  },
+  {
+    "store": "billa",
+    "id": "00-871352",
+    "name": "Swirl Staubsaugerbeutel M 50",
+    "category": "Reinigung",
+    "subcategories": ["Staubsaugerbeutel"]
+  },
+  {
+    "store": "billa",
+    "id": "00-837501",
+    "name": "Swirl Staubsaugerbeutel S 67",
+    "category": "Reinigung",
+    "subcategories": ["Staubsaugerbeutel"]
+  },
+  {
+    "store": "billa",
+    "id": "00-784828",
+    "name": "Toppits Abreiss-Frischhaltefolie 20m",
+    "category": "Aufbewahrung",
+    "subcategories": ["Frischhaltefolie"]
+  },
+  {
+    "store": "billa",
+    "id": "00-410233",
+    "name": "Toppits Alufolie 50m",
+    "category": "Aufbewahrung",
+    "subcategories": ["Alufolie"]
+  },
+  {
+    "store": "billa",
+    "id": "00-958807",
+    "name": "Toppits Alufolie Extra Reissfest 20m",
+    "category": "Aufbewahrung",
+    "subcategories": ["Alufolie"]
+  },
+  {
+    "store": "billa",
+    "id": "00-937268",
+    "name": "Toppits Eiskugelbeutel",
+    "category": "Aufbewahrung",
+    "subcategories": ["Eiskugelbeutel"]
+  },
+  {
+    "store": "billa",
+    "id": "00-101511",
+    "name": "Toppits Gefrierbeutel 1L",
+    "category": "Aufbewahrung",
+    "subcategories": ["Gefrierbeutel"]
+  },
+  {
+    "store": "billa",
+    "id": "00-423017",
+    "name": "Toppits Gefrierbeutel 3L",
+    "category": "Aufbewahrung",
+    "subcategories": ["Gefrierbeutel"]
+  },
+  {
+    "store": "billa",
+    "id": "00-30094",
+    "name": "Toppits Gefrierbeutel 3er Sortimentspackung",
+    "category": "Aufbewahrung",
+    "subcategories": ["Gefrierbeutel"]
+  },
+  {
+    "store": "billa",
+    "id": "00-293378",
+    "name": "Toppits Ruck-Zuck Gefrierbeutel 3L",
+    "category": "Aufbewahrung",
+    "subcategories": ["Gefrierbeutel"]
+  },
+  {
+    "store": "billa",
+    "id": "00-293358",
+    "name": "Toppits Zipper Gefrierbeutel 1L",
+    "category": "Aufbewahrung",
+    "subcategories": ["Gefrierbeutel"]
+  },
+  {
+    "store": "billa",
+    "id": "00-373587",
+    "name": "Toppits Öko-Frischhaltefolie 20m",
+    "category": "Aufbewahrung",
+    "subcategories": ["Frischhaltefolie"]
+  },
+  {
+    "store": "billa",
+    "id": "00-291923",
+    "name": "Wepa Care Recycling Alufolie 20m",
+    "category": "Aufbewahrung",
+    "subcategories": ["Alufolie", "Recycling"]
+  },
+  {
+    "store": "billa",
+    "id": "00-6043",
+    "name": "Aeterna Bio-Öllicht",
+    "category": "Kerzen",
+    "subcategories": ["Öllicht"]
+  },
+  {
+    "store": "billa",
+    "id": "00-435589",
+    "name": "Aeterna Öllicht",
+    "category": "Kerzen",
+    "subcategories": ["Öllicht"]
+  },
+  {
+    "store": "billa",
+    "id": "00-892043",
+    "name": "Air Wick Anti Tabak Orange Wohlfühl Duftkerze",
+    "category": "Kerzen",
+    "subcategories": ["Duftkerze"]
+  },
+  {
+    "store": "billa",
+    "id": "00-276211",
+    "name": "Air Wick Blumenwiese Wohlfühl Duftkerze",
+    "category": "Kerzen",
+    "subcategories": ["Duftkerze"]
+  },
+  {
+    "store": "billa",
+    "id": "00-892064",
+    "name": "Air Wick Brombeere & Cranberry Wohlfühl Duftkerze",
+    "category": "Kerzen",
+    "subcategories": ["Duftkerze"]
+  },
+  {
+    "store": "billa",
+    "id": "00-102422",
+    "name": "Air Wick Duftgel Blütenfrisch",
+    "category": "Lufterfrischer",
+    "subcategories": ["Duftgel"]
+  },
+  {
+    "store": "billa",
+    "id": "00-102421",
+    "name": "Air Wick Duftgel Himmelsfrische",
+    "category": "Lufterfrischer",
+    "subcategories": ["Duftgel"]
+  },
+  {
+    "store": "billa",
+    "id": "00-514721",
+    "name": "Air Wick Duftstecker Cotton Weisser Flieder Nachfüller",
+    "category": "Lufterfrischer",
+    "subcategories": ["Duftstecker", "Nachfüller"]
+  },
+  {
+    "store": "billa",
+    "id": "00-430594",
+    "name": "Air Wick Duftstecker Seide & Lilienfrische Nachfüller",
+    "category": "Lufterfrischer",
+    "subcategories": ["Duftstecker", "Nachfüller"]
+  },
+  {
+    "store": "billa",
+    "id": "00-279199",
+    "name": "Air Wick Duftstecker Sommer Vergnügen",
+    "category": "Lufterfrischer",
+    "subcategories": ["Duftstecker"]
+  },
+  {
+    "store": "billa",
+    "id": "00-279929",
+    "name": "Air Wick Duftstecker Sommer Vergnügen Nachfüller",
+    "category": "Lufterfrischer",
+    "subcategories": ["Duftstecker", "Nachfüller"]
+  },
+  {
+    "store": "billa",
+    "id": "00-869714",
+    "name": "Air Wick Freshmatic Citrus Nachfüller",
+    "category": "Lufterfrischer",
+    "subcategories": ["Freshmatic", "Nachfüller"]
+  },
+  {
+    "store": "billa",
+    "id": "00-642343",
+    "name": "Air Wick Freshmatic Cotton Nachfüller",
+    "category": "Lufterfrischer",
+    "subcategories": ["Freshmatic", "Nachfüller"]
+  },
+  {
+    "store": "billa",
+    "id": "00-869715",
+    "name": "Air Wick Freshmatic Lavendel Nachfüller",
+    "category": "Lufterfrischer",
+    "subcategories": ["Freshmatic", "Nachfüller"]
+  },
+  {
+    "store": "billa",
+    "id": "00-303887",
+    "name": "Air Wick Freshmatic Max Starter Set",
+    "category": "Lufterfrischer",
+    "subcategories": ["Freshmatic", "Starter Set"]
+  },
+  {
+    "store": "billa",
+    "id": "00-755471",
+    "name": "Air Wick Freshmatic Seide & Lilienfrische Nachfüller",
+    "category": "Lufterfrischer",
+    "subcategories": ["Freshmatic", "Nachfüller"]
+  },
+  {
+    "store": "billa",
+    "id": "00-275645",
+    "name": "Air Wick Freshmatic Sommervergnügen Nachfüller",
+    "category": "Lufterfrischer",
+    "subcategories": ["Freshmatic", "Nachfüller"]
+  },
+  {
+    "store": "billa",
+    "id": "00-390299",
+    "name": "Air Wick Pure Frühlingsfrische",
+    "category": "Lufterfrischer",
+    "subcategories": ["Lufterfrischer Spray"]
+  },
+  {
+    "store": "billa",
+    "id": "00-390266",
+    "name": "Air Wick Pure Kirschblütenzauber",
+    "category": "Lufterfrischer",
+    "subcategories": ["Lufterfrischer Spray"]
+  },
+  {
+    "store": "billa",
+    "id": "00-514012",
+    "name": "Air Wick Traumhafte Vanille Wohlfühlkerze",
+    "category": "Kerzen",
+    "subcategories": ["Duftkerze"]
+  },
+  {
+    "store": "billa",
+    "id": "00-269741",
+    "name": "Alor Ätherisches Öl Blutorange",
+    "category": "Ätherische Öle",
+    "subcategories": ["Blutorange"]
+  },
+  {
+    "store": "billa",
+    "id": "00-270041",
+    "name": "Alor Ätherisches Öl Eukalyptus",
+    "category": "Ätherische Öle",
+    "subcategories": ["Eukalyptus"]
+  },
+  {
+    "store": "billa",
+    "id": "00-269601",
+    "name": "Alor Ätherisches Öl Orange",
+    "category": "Ätherische Öle",
+    "subcategories": ["Orange"]
+  },
+  {
+    "store": "billa",
+    "id": "00-269819",
+    "name": "Alor Ätherisches Öl Ying Yang",
+    "category": "Ätherische Öle",
+    "subcategories": ["Ying Yang"]
+  },
+  {
+    "store": "billa",
+    "id": "00-268389",
+    "name": "Alor Ätherisches Öl Zitrone",
+    "category": "Ätherische Öle",
+    "subcategories": ["Zitrone"]
+  },
+  {
+    "store": "billa",
+    "id": "00-558820",
+    "name": "Ambrosius 5 Tage Grablicht 'Du Fehlst'",
+    "category": "Kerzen",
+    "subcategories": ["Grablicht"]
+  },
+  {
+    "store": "billa",
+    "id": "00-684907",
+    "name": "Ambrosius 5 Tage Grablicht 'Engel'",
+    "category": "Kerzen",
+    "subcategories": ["Grablicht"]
+  },
+  {
+    "store": "billa",
+    "id": "00-406477",
+    "name": "Ambrosius 5 Tage Grablicht 'Herz-Blüte'",
+    "category": "Kerzen",
+    "subcategories": ["Grablicht"]
+  },
+  {
+    "store": "billa",
+    "id": "00-924998",
+    "name": "Ambrosius 5 Tage Grablicht 'In stillem Gedenken'",
+    "category": "Kerzen",
+    "subcategories": ["Grablicht"]
+  },
+  {
+    "store": "billa",
+    "id": "00-780217",
+    "name": "Ambrosius 5 Tage Grablicht 'Rose'",
+    "category": "Kerzen",
+    "subcategories": ["Grablicht"]
+  },
+  {
+    "store": "billa",
+    "id": "00-632126",
+    "name": "Ambrosius 7 Tage Kompositions-Öllicht Rot",
+    "category": "Kerzen",
+    "subcategories": ["Öllicht"]
+  },
+  {
+    "store": "billa",
+    "id": "00-632128",
+    "name": "Ambrosius 7 Tage Kompositions-Öllicht Weiß",
+    "category": "Kerzen",
+    "subcategories": ["Öllicht"]
+  },
+  {
+    "store": "billa",
+    "id": "00-653263",
+    "name": "Ambrosius Grablicht Weiß",
+    "category": "Kerzen",
+    "subcategories": ["Grablicht"]
+  },
+  {
+    "store": "billa",
+    "id": "00-703715",
+    "name": "BI HOME LIVING Duftkerze Anti Tabak",
+    "category": "Kerzen",
+    "subcategories": ["Duftkerze"]
+  },
+  {
+    "store": "billa",
+    "id": "00-703716",
+    "name": "BI HOME LIVING Duftkerze Apfel Zimt",
+    "category": "Kerzen",
+    "subcategories": ["Duftkerze"]
+  },
+  {
+    "store": "billa",
+    "id": "00-713149",
+    "name": "BI HOME LIVING Duftkerze Beere",
+    "category": "Kerzen",
+    "subcategories": ["Duftkerze"]
+  },
+  {
+    "store": "billa",
+    "id": "00-703712",
+    "name": "BI HOME LIVING Duftkerze Beere",
+    "category": "Kerzen",
+    "subcategories": ["Duftkerze"]
+  },
+  {
+    "store": "billa",
+    "id": "00-713142",
+    "name": "BI HOME LIVING Duftkerze Vanille",
+    "category": "Kerzen",
+    "subcategories": ["Duftkerze"]
+  },
+  {
+    "store": "billa",
+    "id": "00-703713",
+    "name": "BI HOME LIVING Duftkerze Vanille",
+    "category": "Kerzen",
+    "subcategories": ["Duftkerze"]
+  },
+  {
+    "store": "billa",
+    "id": "00-713151",
+    "name": "BI HOME LIVING Duftteelicht Apfel Zimt",
+    "category": "Kerzen",
+    "subcategories": ["Duftteelicht"]
+  },
+  {
+    "store": "billa",
+    "id": "00-713155",
+    "name": "BI HOME LIVING Duftteelicht Beere",
+    "category": "Kerzen",
+    "subcategories": ["Duftteelicht"]
+  },
+  {
+    "store": "billa",
+    "id": "00-703719",
+    "name": "BI HOME LIVING Duftteelicht Vanille",
+    "category": "Kerzen",
+    "subcategories": ["Duftteelicht"]
+  },
+  {
+    "store": "billa",
+    "id": "00-713153",
+    "name": "BI HOME LIVING Duftteelicht Vanille",
+    "category": "Kerzen",
+    "subcategories": ["Duftteelicht"]
+  },
+  {
+    "store": "billa",
+    "id": "00-280175",
+    "name": "BILLA Raumspray Blütenduft",
+    "category": "Lufterfrischer",
+    "subcategories": ["Raumspray"]
+  },
+  {
+    "store": "billa",
+    "id": "00-280179",
+    "name": "BILLA Raumspray Meeresbrise",
+    "category": "Lufterfrischer",
+    "subcategories": ["Raumspray"]
+  },
+  {
+    "store": "billa",
+    "id": "00-478082",
+    "name": "BILLA Stimmungsduft Wilde Rose",
+    "category": "Kerzen",
+    "subcategories": ["Duftkerze"]
+  },
+  {
+    "store": "billa",
+    "id": "00-478087",
+    "name": "BILLA Stimmungsduft Zarte Vanille",
+    "category": "Kerzen",
+    "subcategories": ["Duftkerze"]
+  },
+  {
+    "store": "billa",
+    "id": "00-513213",
+    "name": "Clever Lufterfrischer Mango-Papaya",
+    "category": "Lufterfrischer",
+    "subcategories": ["Duftstecker", "Duftspray"]
+  },
+  {
+    "store": "billa",
+    "id": "00-477638",
+    "name": "Clever Raumduft Granatapfel-Orange",
+    "category": "Kerzen",
+    "subcategories": ["Duftkerze", "Duftstecker", "Duftspray"]
+  },
+  {
+    "store": "billa",
+    "id": "00-477631",
+    "name": "Clever Raumduft Vanille",
+    "category": "Kerzen",
+    "subcategories": ["Duftkerze", "Duftstecker", "Duftspray"]
+  },
+  {
+    "store": "billa",
+    "id": "00-866602",
+    "name": "Compo Öllicht",
+    "category": "Kerzen",
+    "subcategories": ["Öllicht"]
+  },
+  {
+    "store": "billa",
+    "id": "00-868998",
+    "name": "Cricket Stabfeuerzeug Original",
+    "category": "Feuerzeuge",
+    "subcategories": ["Stabfeuerzeug"]
+  },
+  {
+    "store": "billa",
+    "id": "00-878004",
+    "name": "Dutfteelicht Wilde Himbeere",
+    "category": "Kerzen",
+    "subcategories": ["Duftteelicht"]
+  },
+  {
+    "store": "billa",
+    "id": "00-573721",
+    "name": "Febreze Zero Aqua Lufterfrischer",
+    "category": "Lufterfrischer",
+    "subcategories": ["Lufterfrischer Spray"]
+  },
+  {
+    "store": "billa",
+    "id": "00-954705",
+    "name": "Febreze 3Volution Duftstecker Frühlingserwachen Nachfüller",
+    "category": "Lufterfrischer",
+    "subcategories": ["Duftstecker", "Nachfüller"]
+  },
+  {
+    "store": "billa",
+    "id": "00-954616",
+    "name": "Febreze 3Volution Duftstecker Lenor Aprilfrisch",
+    "category": "Lufterfrischer",
+    "subcategories": ["Duftstecker", "Nachfüller"]
+  },
+  {
+    "store": "billa",
+    "id": "00-954624",
+    "name": "Febreze 3Volution Duftstecker Lenor Aprilfrisch Nachfüller",
+    "category": "Lufterfrischer",
+    "subcategories": ["Duftstecker", "Nachfüller"]
+  },
+  {
+    "store": "billa",
+    "id": "00-954728",
+    "name": "Febreze 3Volution Duftstecker Thai Orchidee Nachfüller",
+    "category": "Lufterfrischer",
+    "subcategories": ["Duftstecker", "Nachfüller"]
+  },
+  {
+    "store": "billa",
+    "id": "00-473308",
+    "name": "Febreze Car Neuwagenduft Lufterfrischer",
+    "category": "Lufterfrischer",
+    "subcategories": ["Lufterfrischer für Auto"]
+  },
+  {
+    "store": "billa",
+    "id": "00-923261",
+    "name": "Febreze Extra Stark Morgentau Lufterfrischer",
+    "category": "Lufterfrischer",
+    "subcategories": ["Lufterfrischer Spray"]
+  },
+  {
+    "store": "billa",
+    "id": "00-923265",
+    "name": "Febreze Frischehauch Lenor Aprilfrisch Lufterfrischer",
+    "category": "Lufterfrischer",
+    "subcategories": ["Lufterfrischer Spray"]
+  },
+  {
+    "store": "billa",
+    "id": "00-472126",
+    "name": "Febreze Frischehauch Vanille",
+    "category": "Lufterfrischer",
+    "subcategories": ["Lufterfrischer Spray"]
+  },
+  {
+    "store": "billa",
+    "id": "00-904660",
+    "name": "Frosch Oase Lavendeltraum Raumerfrischer",
+    "category": "Lufterfrischer",
+    "subcategories": ["Raumerfrischer"]
+  },
+  {
+    "store": "billa",
+    "id": "00-929147",
+    "name": "Frosch Oase Orangenblüte Nachfüllpack",
+    "category": "Lufterfrischer",
+    "subcategories": ["Nachfüllpack"]
+  },
+  {
+    "store": "billa",
+    "id": "00-903878",
+    "name": "Frosch Oase Orangenblüte Raumerfrischer",
+    "category": "Lufterfrischer",
+    "subcategories": ["Raumerfrischer"]
+  },
+  {
+    "store": "billa",
+    "id": "00-741602",
+    "name": "Frosch Oase Zitronengrasfrische Nachfüllpack",
+    "category": "Lufterfrischer",
+    "subcategories": ["Nachfüllpack"]
+  },
+  {
+    "store": "billa",
+    "id": "00-903879",
+    "name": "Frosch Oase Zitronengrasfrische Raumerfrischer",
+    "category": "Lufterfrischer",
+    "subcategories": ["Raumerfrischer"]
+  },
+  {
+    "store": "billa",
+    "id": "00-878006",
+    "name": "Gala Duftteelicht Vanille Ton in Ton",
+    "category": "Kerzen",
+    "subcategories": ["Duftteelicht"]
+  },
+  {
+    "store": "billa",
+    "id": "00-860764",
+    "name": "Gala Stundenbrenner",
+    "category": "Kerzen",
+    "subcategories": ["Stundenbrenner"]
+  },
+  {
+    "store": "billa",
+    "id": "00-901459",
+    "name": "Gala Teelichter Premium 8h",
+    "category": "Kerzen",
+    "subcategories": ["Teelichter"]
+  },
+  {
+    "store": "billa",
+    "id": "00-509592",
+    "name": "Glade Aromatherapy Calm Mind Bergamotte & Zitronengras Nachfüller",
+    "category": "Lufterfrischer",
+    "subcategories": ["Duftstecker", "Nachfüller"]
+  },
+  {
+    "store": "billa",
+    "id": "00-509589",
+    "name": "Glade Aromatherapy Moment of Zen Lavendel & Sandelholz Nachfüller",
+    "category": "Lufterfrischer",
+    "subcategories": ["Duftstecker", "Nachfüller"]
+  }
+]

@@ -1,0 +1,717 @@
+[
+  {
+    "store": "spar",
+    "id": "8056740",
+    "name": "Monger Konserven Allerlei fein-pikant",
+    "category": "Konserven",
+    "subcategories": ["Allerlei", "fein-pikant"]
+  },
+  {
+    "store": "spar",
+    "id": "8056481",
+    "name": "Monger Konserven Karottensalat in Streifen",
+    "category": "Konserven",
+    "subcategories": ["Karottensalat", "Streifen"]
+  },
+  {
+    "store": "spar",
+    "id": "8051547",
+    "name": "Monger Konserven Maiskölbchen  fein-zart",
+    "category": "Konserven",
+    "subcategories": ["Maiskölbchen", "fein-zart"]
+  },
+  {
+    "store": "spar",
+    "id": "8056924",
+    "name": "Monger Konserven Paprikasalat in Streifen",
+    "category": "Konserven",
+    "subcategories": ["Paprikasalat", "Streifen"]
+  },
+  {
+    "store": "spar",
+    "id": "8051776",
+    "name": "Monger Konserven Selleriesalat in Streifen",
+    "category": "Konserven",
+    "subcategories": ["Selleriesalat", "Streifen"]
+  },
+  {
+    "store": "spar",
+    "id": "8056658",
+    "name": "Monger Konserven Zwieberl fein-zart",
+    "category": "Konserven",
+    "subcategories": ["Zwieberl", "fein-zart"]
+  },
+  {
+    "store": "spar",
+    "id": "8051585",
+    "name": "Monger Konserven bunter Salat in Streifen",
+    "category": "Konserven",
+    "subcategories": ["bunter Salat", "Streifen"]
+  },
+  {
+    "store": "spar",
+    "id": "7992476",
+    "name": "Monger Konserven kleine Gurken",
+    "category": "Konserven",
+    "subcategories": ["kleine Gurken"]
+  },
+  {
+    "store": "spar",
+    "id": "7991608",
+    "name": "Monger Konserven milde Pfefferoni",
+    "category": "Konserven",
+    "subcategories": ["milde Pfefferoni"]
+  },
+  {
+    "store": "spar",
+    "id": "172592",
+    "name": "Mirabell Echte Salzburger Mozartkugeln 12 Stück",
+    "category": "Süßwaren",
+    "subcategories": ["Echte Salzburger Mozartkugeln", "12 Stück"]
+  },
+  {
+    "store": "spar",
+    "id": "172578",
+    "name": "Mirabell Echte Salzburger Mozartkugeln 6 Stück",
+    "category": "Süßwaren",
+    "subcategories": ["Echte Salzburger Mozartkugeln", "6 Stück"]
+  },
+  {
+    "store": "spar",
+    "id": "7655210",
+    "name": "Mirabell Echte Salzburger Mozartkugeln Geige",
+    "category": "Süßwaren",
+    "subcategories": ["Echte Salzburger Mozartkugeln", "Geige"]
+  },
+  {
+    "store": "spar",
+    "id": "2020000672210",
+    "name": "Mirabell Geschenkpackung Mozarttaler & Mozartkugeln",
+    "category": "Süßwaren",
+    "subcategories": ["Geschenkpackung", "Mozarttaler", "Mozartkugeln"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004003539",
+    "name": "Mirabell Mozartkugel",
+    "category": "Süßwaren",
+    "subcategories": ["Mozartkugel"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004069696",
+    "name": "Mirabell Mozartkugel",
+    "category": "Süßwaren",
+    "subcategories": ["Mozartkugel"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003965180",
+    "name": "Mirabell Mozartkugel",
+    "category": "Süßwaren",
+    "subcategories": ["Mozartkugel"]
+  },
+  {
+    "store": "spar",
+    "id": "918022",
+    "name": "Mirabell Mozartkugel 3 Stück",
+    "category": "Süßwaren",
+    "subcategories": ["Mozartkugel", "3 Stück"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003969027",
+    "name": "Mirabell Mozarttaler",
+    "category": "Süßwaren",
+    "subcategories": ["Mozarttaler"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003968983",
+    "name": "Mirabell Mozarttaler",
+    "category": "Süßwaren",
+    "subcategories": ["Mozarttaler"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003965272",
+    "name": "Mirabell Mozarttaler",
+    "category": "Süßwaren",
+    "subcategories": ["Mozarttaler"]
+  },
+  {
+    "store": "spar",
+    "id": "172233",
+    "name": "Mirabell Mozarttaler 10 Stück",
+    "category": "Süßwaren",
+    "subcategories": ["Mozarttaler", "10 Stück"]
+  },
+  {
+    "store": "spar",
+    "id": "7649998",
+    "name": "Mirabell Salzburger Mozarttafel",
+    "category": "Süßwaren",
+    "subcategories": ["Salzburger Mozarttafel"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003681882",
+    "name": "Mixa Hand & Nagel Creme Shea Ultra Soft 100ml",
+    "category": "Körperpflege",
+    "subcategories": ["Hand & Nagel Creme", "Shea Ultra Soft", "100ml"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004574923",
+    "name": "Mixa Hauterneuernde Creme Urea Cica Repair 400 ml",
+    "category": "Körperpflege",
+    "subcategories": ["Hauterneuernde Creme", "Urea Cica Repair", "400 ml"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004574985",
+    "name": "Mixa Hautstärkende Creme Ceramide Deep Moisture 400 ml",
+    "category": "Körperpflege",
+    "subcategories": ["Hautstärkende Creme", "Ceramide Deep Moisture", "400 ml"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003745393",
+    "name": "Birkmann Brotbackstein Schamott 30x40",
+    "category": "Backzubehör",
+    "subcategories": ["Brotbackstein", "Schamott", "30x40"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003427589",
+    "name": "Birkmann Bärentatzen/Madeleineform 18-fach",
+    "category": "Backzubehör",
+    "subcategories": ["Bärentatzen", "Madeleineform", "18-fach"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003428500",
+    "name": "Birkmann Chocolaterie Pralineform \"Toffee\" 2-teilig",
+    "category": "Backzubehör",
+    "subcategories": ["Chocolaterie Pralineform", "Toffee", "2-teilig"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001356324",
+    "name": "Dr. Oetker Backblech 37-52 cm",
+    "category": "Backzubehör",
+    "subcategories": ["Backblech", "37-52 cm"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001356126",
+    "name": "Dr. Oetker Backblech 42x29cm",
+    "category": "Backzubehör",
+    "subcategories": ["Backblech", "42x29cm"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004076236",
+    "name": "Gerd van Well Desserteller Trend weiss",
+    "category": "Geschirr",
+    "subcategories": ["Desserteller", "Trend weiss"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004076274",
+    "name": "Gerd van Well Essteller flach Trend weiss",
+    "category": "Geschirr",
+    "subcategories": ["Essteller flach", "Trend weiss"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004076243",
+    "name": "Gerd van Well Essteller tief Trend weiss",
+    "category": "Geschirr",
+    "subcategories": ["Essteller tief", "Trend weiss"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004076304",
+    "name": "Gerd van Well Kaffeebecher stapelbar weiss",
+    "category": "Geschirr",
+    "subcategories": ["Kaffeebecher", "stapelbar", "weiss"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004076205",
+    "name": "Gerd van Well Obertasse Trend weiss",
+    "category": "Geschirr",
+    "subcategories": ["Obertasse", "Trend weiss"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004076298",
+    "name": "Gerd van Well Schaelchen rund Trend weiss",
+    "category": "Geschirr",
+    "subcategories": ["Schaelchen rund", "Trend weiss"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004076229",
+    "name": "Gerd van Well Untertasse Trend weiss",
+    "category": "Geschirr",
+    "subcategories": ["Untertasse", "Trend weiss"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002309947",
+    "name": "Leifheit Drahtbügelglas 1140ml",
+    "category": "Aufbewahrung",
+    "subcategories": ["Drahtbügelglas", "1140ml"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002309893",
+    "name": "Leifheit Drahtbügelglas 135ml",
+    "category": "Aufbewahrung",
+    "subcategories": ["Drahtbügelglas", "135ml"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002309916",
+    "name": "Leifheit Drahtbügelglas 255ml",
+    "category": "Aufbewahrung",
+    "subcategories": ["Drahtbügelglas", "255ml"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002309923",
+    "name": "Leifheit Drahtbügelglas 370ml",
+    "category": "Aufbewahrung",
+    "subcategories": ["Drahtbügelglas", "370ml"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002311841",
+    "name": "Leifheit Einfülltrichter aus Kunststoff",
+    "category": "Küchenhelfer",
+    "subcategories": ["Einfülltrichter", "Kunststoff"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002405595",
+    "name": "Leifheit Einkochartikel 0,75l",
+    "category": "Einkochen",
+    "subcategories": ["Einkochartikel", "0,75l"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002405557",
+    "name": "Leifheit Einkochglas 0,5l",
+    "category": "Einkochen",
+    "subcategories": ["Einkochglas", "0,5l"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002405601",
+    "name": "Leifheit Einkochglas 1l",
+    "category": "Einkochen",
+    "subcategories": ["Einkochglas", "1l"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002311889",
+    "name": "Leifheit Geleeglas 1/4l",
+    "category": "Aufbewahrung",
+    "subcategories": ["Geleeglas", "1/4l"]
+  },
+  {
+    "store": "spar",
+    "id": "7664526",
+    "name": "Leifheit Isolierflasche Coco 0,75L",
+    "category": "Haushalt",
+    "subcategories": ["Isolierflasche Coco", "0,75L"]
+  },
+  {
+    "store": "spar",
+    "id": "7664250",
+    "name": "Leifheit Isolierflasche Coco 0,75L",
+    "category": "Haushalt",
+    "subcategories": ["Isolierflasche Coco", "0,75L"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002311858",
+    "name": "Leifheit Kirschentkerner Cherrymat",
+    "category": "Küchenhelfer",
+    "subcategories": ["Kirschentkerner", "Cherrymat"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002311353",
+    "name": "Leifheit Kirschentkerner aus Zink",
+    "category": "Küchenhelfer",
+    "subcategories": ["Kirschentkerner", "Zink"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002311452",
+    "name": "Leifheit Kurzzeitmesser ComfortLine",
+    "category": "Küchenhelfer",
+    "subcategories": ["Kurzzeitmesser", "ComfortLine"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002311445",
+    "name": "Leifheit Küchensieb ProLine 20cm",
+    "category": "Küchenhelfer",
+    "subcategories": ["Küchensieb", "ProLine", "20cm"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003144189",
+    "name": "Leifheit Küchenwaage KWA Silvia analog",
+    "category": "Küchenhelfer",
+    "subcategories": ["Küchenwaage", "KWA Silvia", "analog"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002311872",
+    "name": "Leifheit Passiermühle ProLine",
+    "category": "Küchenhelfer",
+    "subcategories": ["Passiermühle", "ProLine"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002311346",
+    "name": "Leifheit Y-Schäler mit Aufhängeöse",
+    "category": "Küchenhelfer",
+    "subcategories": ["Y-Schäler", "Aufhängeöse"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002311865",
+    "name": "Leifheit Zitruspresse Comfort line",
+    "category": "Küchenhelfer",
+    "subcategories": ["Zitruspresse", "Comfort line"]
+  },
+  {
+    "store": "spar",
+    "id": "2020000573739",
+    "name": "Mape Spritzbeutel Duo",
+    "category": "Backzubehör",
+    "subcategories": ["Spritzbeutel", "Duo"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001195206",
+    "name": "Mape Trio Spritzbeutel mit Tüllen bunt",
+    "category": "Backzubehör",
+    "subcategories": ["Trio Spritzbeutel", "Tüllen", "bunt"]
+  },
+  {
+    "store": "spar",
+    "id": "6870515",
+    "name": "Mape Universalkochtopf 9 Liter",
+    "category": "Kochen",
+    "subcategories": ["Universalkochtopf", "9 Liter"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003903847",
+    "name": "Mira Green Schuessel mint",
+    "category": "Geschirr",
+    "subcategories": ["Schuessel", "mint"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003903854",
+    "name": "Mira Green Schuessel stone",
+    "category": "Geschirr",
+    "subcategories": ["Schuessel", "stone"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003903861",
+    "name": "Mira Green Schüssel groß",
+    "category": "Geschirr",
+    "subcategories": ["Schüssel", "groß"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003903816",
+    "name": "Mira Green Schüssel klein",
+    "category": "Geschirr",
+    "subcategories": ["Schüssel", "klein"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003903830",
+    "name": "Mira Green Schüssel klein",
+    "category": "Geschirr",
+    "subcategories": ["Schüssel", "klein"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003903823",
+    "name": "Mira Green Schüssel klein",
+    "category": "Geschirr",
+    "subcategories": ["Schüssel", "klein"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003352515",
+    "name": "Mira Green Teller flach 23cm mint",
+    "category": "Geschirr",
+    "subcategories": ["Teller flach", "23cm", "mint"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003353048",
+    "name": "Mira Green Teller flach 23cm stone",
+    "category": "Geschirr",
+    "subcategories": ["Teller flach", "23cm", "stone"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003963148",
+    "name": "Mira Green Teller flach Mint",
+    "category": "Geschirr",
+    "subcategories": ["Teller flach", "Mint"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003963162",
+    "name": "Mira Green Teller flach Sand",
+    "category": "Geschirr",
+    "subcategories": ["Teller flach", "Sand"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003963155",
+    "name": "Mira Green Teller flach Stone",
+    "category": "Geschirr",
+    "subcategories": ["Teller flach", "Stone"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003963179",
+    "name": "Mira Green Trinkbecher 0,4 Liter Mint",
+    "category": "Geschirr",
+    "subcategories": ["Trinkbecher", "0,4 Liter", "Mint"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003963193",
+    "name": "Mira Green Trinkbecher 0,4 Liter Sand",
+    "category": "Geschirr",
+    "subcategories": ["Trinkbecher", "0,4 Liter", "Sand"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003963186",
+    "name": "Mira Green Trinkbecher 0,4 Liter Stone",
+    "category": "Geschirr",
+    "subcategories": ["Trinkbecher", "0,4 Liter", "Stone"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002438937",
+    "name": "Miraplast Messbecher 0,5 Liter mit verschiedenen Skalen",
+    "category": "Küchenhelfer",
+    "subcategories": ["Messbecher", "0,5 Liter", "verschiedenen Skalen"]
+  },
+  {
+    "store": "spar",
+    "id": "2272504",
+    "name": "Miraplast Trichter 7cm",
+    "category": "Küchenhelfer",
+    "subcategories": ["Trichter", "7cm"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003105869",
+    "name": "Montana Becher 330ml Enjoy",
+    "category": "Geschirr",
+    "subcategories": ["Becher", "330ml", "Enjoy"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003105968",
+    "name": "Montana Becher Latte Macchiato 280ml",
+    "category": "Geschirr",
+    "subcategories": ["Becher", "Latte Macchiato", "280ml"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003105999",
+    "name": "Montana Kaffeetasse 330ml Coffee",
+    "category": "Geschirr",
+    "subcategories": ["Kaffeetasse", "330ml", "Coffee"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003097416",
+    "name": "Montana Krug Fresh mit Einsatz 1,3l",
+    "category": "Geschirr",
+    "subcategories": ["Krug", "Fresh", "Einsatz", "1,3l"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003097508",
+    "name": "Montana Longdrinkglas gala 3er Set 240ml",
+    "category": "Geschirr",
+    "subcategories": ["Longdrinkglas", "gala", "3er Set", "240ml"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003105531",
+    "name": "Montana Longdrinkglas gala 3er Set 260ml",
+    "category": "Geschirr",
+    "subcategories": ["Longdrinkglas", "gala", "3er Set", "260ml"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003106170",
+    "name": "Montana Teekanne :content 1,0l schwarz",
+    "category": "Geschirr",
+    "subcategories": ["Teekanne", ":content", "1,0l", "schwarz"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004444691",
+    "name": "Lovely Feuchtes Toilettenpapier Kamille 60 Tücher",
+    "category": "Hygiene",
+    "subcategories": ["Feuchtes Toilettenpapier", "Kamille", "60 Tücher"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004593948",
+    "name": "Lovely Feuchtes Toilettenpapier Sensitive (Reisepackung) 15 Tücher",
+    "category": "Hygiene",
+    "subcategories": [
+      "Feuchtes Toilettenpapier",
+      "Sensitive",
+      "Reisepackung",
+      "15 Tücher"
+    ]
+  },
+  {
+    "store": "spar",
+    "id": "4969365",
+    "name": "Lovely Feuchtes Toilettenpapier Sensitive 60 Stück",
+    "category": "Hygiene",
+    "subcategories": ["Feuchtes Toilettenpapier", "Sensitive", "60 Stück"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003843204",
+    "name": "Lovely Feuchtes Toilettenpapier mit 99% Wasser 60 Tücher",
+    "category": "Hygiene",
+    "subcategories": ["Feuchtes Toilettenpapier", "99% Wasser", "60 Tücher"]
+  },
+  {
+    "store": "spar",
+    "id": "2776941",
+    "name": "Lovely Feuchtes Toilettenpapier mit Cahmere und Aloe Vera 60 Stück",
+    "category": "Hygiene",
+    "subcategories": [
+      "Feuchtes Toilettenpapier",
+      "Cahmere",
+      "Aloe Vera",
+      "60 Stück"
+    ]
+  },
+  {
+    "store": "spar",
+    "id": "2020003230899",
+    "name": "Lovely Feuchtes Toilettenpapier mit Mandelduft 60 Stück",
+    "category": "Hygiene",
+    "subcategories": ["Feuchtes Toilettenpapier", "Mandelduft", "60 Stück"]
+  },
+  {
+    "store": "spar",
+    "id": "5785742",
+    "name": "Lovely Junior Feuchte Toilettentücher Kinder Frucht Duft 60 Tücher",
+    "category": "Hygiene",
+    "subcategories": [
+      "Junior Feuchte Toilettentücher",
+      "Kinder",
+      "Frucht Duft",
+      "60 Tücher"
+    ]
+  },
+  {
+    "store": "spar",
+    "id": "2020002286019",
+    "name": "Lovely Küchenrolle BIG ROLL 2 Rollen",
+    "category": "Haushalt",
+    "subcategories": ["Küchenrolle", "BIG ROLL", "2 Rollen"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001027781",
+    "name": "Lovely Küchenrolle Dekor 4 Rollen",
+    "category": "Haushalt",
+    "subcategories": ["Küchenrolle", "Dekor", "4 Rollen"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002576196",
+    "name": "Lovely Küchenrolle weiß 6 Rollen",
+    "category": "Haushalt",
+    "subcategories": ["Küchenrolle", "weiß", "6 Rollen"]
+  },
+  {
+    "store": "spar",
+    "id": "4968344",
+    "name": "Lovely Premium Toilettenpapier weiß / 4-lagig 8 Rollen",
+    "category": "Hygiene",
+    "subcategories": ["Premium Toilettenpapier", "weiß", "4-lagig", "8 Rollen"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004369864",
+    "name": "Lovely Toilettenpapier Happy 10 Rollen",
+    "category": "Hygiene",
+    "subcategories": ["Toilettenpapier", "Happy", "10 Rollen"]
+  },
+  {
+    "store": "spar",
+    "id": "8185143",
+    "name": "Lovely Toilettenpapier Kamille / 3-lagig 10 Rollen",
+    "category": "Hygiene",
+    "subcategories": ["Toilettenpapier", "Kamille", "3-lagig", "10 Rollen"]
+  },
+  {
+    "store": "spar",
+    "id": "8185419",
+    "name": "Lovely Toilettenpapier gelb / 3-lagig 10 Rollen",
+    "category": "Hygiene",
+    "subcategories": ["Toilettenpapier", "gelb", "3-lagig", "10 Rollen"]
+  },
+  {
+    "store": "spar",
+    "id": "8184740",
+    "name": "Lovely Toilettenpapier lila / 3-lagig 10 Rollen",
+    "category": "Hygiene",
+    "subcategories": ["Toilettenpapier", "lila", "3-lagig", "10 Rollen"]
+  },
+  {
+    "store": "spar",
+    "id": "6981198",
+    "name": "Lovely Toilettenpapier weiß / 3-lagig 10 Rollen",
+    "category": "Hygiene",
+    "subcategories": ["Toilettenpapier", "weiß", "3-lagig", "10 Rollen"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001942961",
+    "name": "Lovely Toilettenpapier weiß / 4-lagig 10 Rollen",
+    "category": "Hygiene",
+    "subcategories": ["Toilettenpapier", "weiß", "4-lagig", "10 Rollen"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004306111",
+    "name": "Lovely ÖKO Toilettenpapier 8 Rollen",
+    "category": "Hygiene",
+    "subcategories": ["ÖKO Toilettenpapier", "8 Rollen"]
+  }
+]

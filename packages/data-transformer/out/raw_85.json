@@ -1,0 +1,702 @@
+[
+  {
+    "store": "billa",
+    "id": "00-8626",
+    "name": "Felix Tomatenketchup Mild",
+    "category": "Ketchup",
+    "subcategories": ["Tomatenketchup", "Mild"]
+  },
+  {
+    "store": "billa",
+    "id": "00-610896",
+    "name": "Fireland Foods End of Sanity Hot-Sauce",
+    "category": "Sauce",
+    "subcategories": ["Hot-Sauce", "Extrem scharf"]
+  },
+  {
+    "store": "billa",
+    "id": "00-475436",
+    "name": "Fireland Foods Habanero Hot-Sauce",
+    "category": "Sauce",
+    "subcategories": ["Hot-Sauce", "Scharf"]
+  },
+  {
+    "store": "billa",
+    "id": "00-883894",
+    "name": "Fireland Foods Smokanero Barbecue Sauce",
+    "category": "Sauce",
+    "subcategories": ["Barbecue Sauce", "Rauchig", "Scharf"]
+  },
+  {
+    "store": "billa",
+    "id": "00-911662",
+    "name": "Flying Goose Hoisin Sauce",
+    "category": "Sauce",
+    "subcategories": ["Hoisin Sauce"]
+  },
+  {
+    "store": "billa",
+    "id": "00-700601",
+    "name": "Formil Dessertsauce Vanille",
+    "category": "Sauce",
+    "subcategories": ["Dessertsauce", "Vanille"]
+  },
+  {
+    "store": "billa",
+    "id": "00-482411",
+    "name": "Granny's Secret Ajvar klassisch",
+    "category": "Sauce",
+    "subcategories": ["Ajvar", "Klassisch", "Paprikasauce"]
+  },
+  {
+    "store": "billa",
+    "id": "00-482400",
+    "name": "Granny's Secret Ajvar scharf",
+    "category": "Sauce",
+    "subcategories": ["Ajvar", "Scharf", "Paprikasauce"]
+  },
+  {
+    "store": "billa",
+    "id": "00-57624",
+    "name": "Haas Grillsenf",
+    "category": "Senf",
+    "subcategories": ["Grillsenf"]
+  },
+  {
+    "store": "billa",
+    "id": "00-491896",
+    "name": "Haas Stiegl Biersenf",
+    "category": "Senf",
+    "subcategories": ["Biersenf"]
+  },
+  {
+    "store": "billa",
+    "id": "00-654313",
+    "name": "Heinz Barbecue Sauce",
+    "category": "Sauce",
+    "subcategories": ["Barbecue Sauce"]
+  },
+  {
+    "store": "billa",
+    "id": "00-604219",
+    "name": "Heinz Cocktail Sauce",
+    "category": "Sauce",
+    "subcategories": ["Cocktail Sauce"]
+  },
+  {
+    "store": "billa",
+    "id": "00-604213",
+    "name": "Heinz Curry-Mango Sauce",
+    "category": "Sauce",
+    "subcategories": ["Curry-Mango Sauce"]
+  },
+  {
+    "store": "billa",
+    "id": "00-918562",
+    "name": "Heinz Ketchup",
+    "category": "Ketchup",
+    "subcategories": ["Tomatenketchup"]
+  },
+  {
+    "store": "billa",
+    "id": "00-432783",
+    "name": "Heinz Ketchup 50% weniger Zucker & Salz",
+    "category": "Ketchup",
+    "subcategories": ["Tomatenketchup", "Zuckerreduziert", "Salzreduziert"]
+  },
+  {
+    "store": "billa",
+    "id": "00-501984",
+    "name": "Heinz Ketchup Mild",
+    "category": "Ketchup",
+    "subcategories": ["Tomatenketchup", "Mild"]
+  },
+  {
+    "store": "billa",
+    "id": "00-924285",
+    "name": "Heinz Ketchup Weniger Zucker & Salz",
+    "category": "Ketchup",
+    "subcategories": ["Tomatenketchup", "Zuckerreduziert", "Salzreduziert"]
+  },
+  {
+    "store": "billa",
+    "id": "00-604218",
+    "name": "Heinz Knoblauch Sauce",
+    "category": "Sauce",
+    "subcategories": ["Knoblauch Sauce"]
+  },
+  {
+    "store": "billa",
+    "id": "00-528304",
+    "name": "Heinz Pommes Frites Sauce",
+    "category": "Sauce",
+    "subcategories": ["Pommes Frites Sauce"]
+  },
+  {
+    "store": "billa",
+    "id": "00-754754",
+    "name": "Heinz Worcester Sauce",
+    "category": "Sauce",
+    "subcategories": ["Worcester Sauce"]
+  },
+  {
+    "store": "billa",
+    "id": "00-966028",
+    "name": "Hela Curry Gewürz Ketchup Delikat",
+    "category": "Ketchup",
+    "subcategories": ["Curry-Gewürz Ketchup", "Delikat"]
+  },
+  {
+    "store": "billa",
+    "id": "00-291994",
+    "name": "Hellmann's Chili",
+    "category": "Sauce",
+    "subcategories": ["Chilisauce"]
+  },
+  {
+    "store": "billa",
+    "id": "00-469138",
+    "name": "Hellmann's Knoblauch Squeezer",
+    "category": "Sauce",
+    "subcategories": ["Knoblauch Sauce"]
+  },
+  {
+    "store": "billa",
+    "id": "00-939835",
+    "name": "Hellmann's Real Mayonnaise",
+    "category": "Mayonnaise",
+    "subcategories": ["Mayonnaise"]
+  },
+  {
+    "store": "billa",
+    "id": "00-938498",
+    "name": "Hellmann's Real Squeezer",
+    "category": "Mayonnaise",
+    "subcategories": ["Mayonnaise"]
+  },
+  {
+    "store": "billa",
+    "id": "00-578313",
+    "name": "Hellmann's Vegan Avocado & Lime Style Sauce",
+    "category": "Vegane Sauce",
+    "subcategories": ["Avocado-Limetten Sauce", "Vegan"]
+  },
+  {
+    "store": "billa",
+    "id": "00-578314",
+    "name": "Hellmann's Vegan Italian Cheeze Style Sauce",
+    "category": "Vegane Sauce",
+    "subcategories": ["Italienische Käse Sauce", "Vegan"]
+  },
+  {
+    "store": "billa",
+    "id": "00-578315",
+    "name": "Hellmann's Vegan Sundried Tomato & Basil Style Sauce",
+    "category": "Vegane Sauce",
+    "subcategories": ["Sonnentomaten-Basilikum Sauce", "Vegan"]
+  },
+  {
+    "store": "billa",
+    "id": "00-724437",
+    "name": "Hellmann's Vegan Tzatziki Style Sauce",
+    "category": "Vegane Sauce",
+    "subcategories": ["Tzatziki Sauce", "Vegan"]
+  },
+  {
+    "store": "billa",
+    "id": "00-387716",
+    "name": "Hellmann's Vegane Mayonnaise",
+    "category": "Vegane Sauce",
+    "subcategories": ["Mayonnaise", "Vegan"]
+  },
+  {
+    "store": "billa",
+    "id": "00-323107",
+    "name": "Herr Brenner Mango Pepper Grillsauce",
+    "category": "Sauce",
+    "subcategories": ["Grillsauce", "Mango Pepper"]
+  },
+  {
+    "store": "billa",
+    "id": "00-799321",
+    "name": "Huber Knoblauchpaste",
+    "category": "Knoblauch",
+    "subcategories": ["Knoblauchpaste"]
+  },
+  {
+    "store": "billa",
+    "id": "00-837030",
+    "name": "Händlmaier Altbayrischer Senf",
+    "category": "Senf",
+    "subcategories": ["Altbayrischer Senf"]
+  },
+  {
+    "store": "billa",
+    "id": "00-500422",
+    "name": "Händlmaier Hausmachersenf",
+    "category": "Senf",
+    "subcategories": ["Hausmachersenf"]
+  },
+  {
+    "store": "billa",
+    "id": "00-378293",
+    "name": "Ja! Natürlich Bio-Estragon Senf",
+    "category": "Bio-Senf",
+    "subcategories": ["Bio-Estragon Senf"]
+  },
+  {
+    "store": "billa",
+    "id": "00-937689",
+    "name": "Jambo Africa Chakalaka Sauce",
+    "category": "Sauce",
+    "subcategories": ["Chakalaka Sauce", "Afrikanisch"]
+  },
+  {
+    "store": "billa",
+    "id": "00-937454",
+    "name": "Jambo Africa Sweet Chilli Sauce",
+    "category": "Sauce",
+    "subcategories": ["Sweet Chilli Sauce", "Afrikanisch"]
+  },
+  {
+    "store": "billa",
+    "id": "00-965608",
+    "name": "Knorr Echt Natürlich! Pfeffersauce",
+    "category": "Sauce",
+    "subcategories": ["Pfeffersauce"]
+  },
+  {
+    "store": "billa",
+    "id": "00-965611",
+    "name": "Knorr Echt Natürlich! Waldpilzsauce",
+    "category": "Sauce",
+    "subcategories": ["Waldpilzsauce"]
+  },
+  {
+    "store": "billa",
+    "id": "00-20049",
+    "name": "Knorr Feinschmecker Carbonarasauce",
+    "category": "Sauce",
+    "subcategories": ["Carbonarasauce"]
+  },
+  {
+    "store": "billa",
+    "id": "00-418303",
+    "name": "Knorr Feinschmecker Jägersauce",
+    "category": "Sauce",
+    "subcategories": ["Jägersauce"]
+  },
+  {
+    "store": "billa",
+    "id": "00-6198",
+    "name": "Knorr Feinschmecker Kräuter-Rahmsauce",
+    "category": "Sauce",
+    "subcategories": ["Kräuter-Rahmsauce"]
+  },
+  {
+    "store": "billa",
+    "id": "00-21105",
+    "name": "Knorr Feinschmecker Pfeffersauce",
+    "category": "Sauce",
+    "subcategories": ["Pfeffersauce"]
+  },
+  {
+    "store": "billa",
+    "id": "00-1275",
+    "name": "Knorr Saft zum Schweinsbraten",
+    "category": "Bratensaft",
+    "subcategories": ["Saft", "Schweinsbraten"]
+  },
+  {
+    "store": "billa",
+    "id": "00-928603",
+    "name": "Knorr Salatkrönung 7-Kräuter 3er",
+    "category": "Salatdressing",
+    "subcategories": ["Salatkrönung", "7-Kräuter"]
+  },
+  {
+    "store": "billa",
+    "id": "00-928626",
+    "name": "Knorr Salatkrönung Gartenkräuter 3er",
+    "category": "Salatdressing",
+    "subcategories": ["Salatkrönung", "Gartenkräuter"]
+  },
+  {
+    "store": "billa",
+    "id": "00-928574",
+    "name": "Knorr Salatkrönung Italienische Kräuter 3er",
+    "category": "Salatdressing",
+    "subcategories": ["Salatkrönung", "Italienische Kräuter"]
+  },
+  {
+    "store": "billa",
+    "id": "00-928570",
+    "name": "Knorr Salatkrönung Kräuter-Knoblauch 3er",
+    "category": "Salatdressing",
+    "subcategories": ["Salatkrönung", "Kräuter-Knoblauch"]
+  },
+  {
+    "store": "billa",
+    "id": "00-928609",
+    "name": "Knorr Salatkrönung Kräuter-Zwiebel 3er",
+    "category": "Salatdressing",
+    "subcategories": ["Salatkrönung", "Kräuter-Zwiebel"]
+  },
+  {
+    "store": "billa",
+    "id": "00-928601",
+    "name": "Knorr Salatkrönung Würzige Kräuter 3er",
+    "category": "Salatdressing",
+    "subcategories": ["Salatkrönung", "Würzige Kräuter"]
+  },
+  {
+    "store": "billa",
+    "id": "00-704242",
+    "name": "Knorr Sauce Pur Braten",
+    "category": "Sauce",
+    "subcategories": ["Bratensauce"]
+  },
+  {
+    "store": "billa",
+    "id": "00-1276",
+    "name": "Knorr Sauce zum Rindsbraten",
+    "category": "Sauce",
+    "subcategories": ["Rindsbratensauce"]
+  },
+  {
+    "store": "billa",
+    "id": "00-18090",
+    "name": "Knorr Würfel Bratensaft",
+    "category": "Bratensaft",
+    "subcategories": ["Bratensaft"]
+  },
+  {
+    "store": "billa",
+    "id": "00-630608",
+    "name": "Krenland Österreich Tafelkren",
+    "category": "Kren",
+    "subcategories": ["Tafelkren"]
+  },
+  {
+    "store": "billa",
+    "id": "00-584158",
+    "name": "Kuner Burger Sauce Tuben-Flasche",
+    "category": "Sauce",
+    "subcategories": ["Burger Sauce"]
+  },
+  {
+    "store": "billa",
+    "id": "00-414327",
+    "name": "Kuner Chilisauce",
+    "category": "Sauce",
+    "subcategories": ["Chilisauce"]
+  },
+  {
+    "store": "billa",
+    "id": "00-413011",
+    "name": "Kuner Cocktailsauce",
+    "category": "Sauce",
+    "subcategories": ["Cocktailsauce"]
+  },
+  {
+    "store": "billa",
+    "id": "00-770954",
+    "name": "Kuner Currysauce",
+    "category": "Sauce",
+    "subcategories": ["Currysauce"]
+  },
+  {
+    "store": "billa",
+    "id": "00-7322",
+    "name": "Kuner Jogonaise",
+    "category": "Sauce",
+    "subcategories": ["Jogonaise"]
+  },
+  {
+    "store": "billa",
+    "id": "00-832582",
+    "name": "Kuner Karibiksauce",
+    "category": "Sauce",
+    "subcategories": ["Karibiksauce"]
+  },
+  {
+    "store": "billa",
+    "id": "00-407860",
+    "name": "Kuner Kräuter-Knoblauch Sauce",
+    "category": "Sauce",
+    "subcategories": ["Kräuter-Knoblauch Sauce"]
+  },
+  {
+    "store": "billa",
+    "id": "00-7323",
+    "name": "Kuner Mayonnaise 25%",
+    "category": "Mayonnaise",
+    "subcategories": ["Mayonnaise", "25%"]
+  },
+  {
+    "store": "billa",
+    "id": "00-402627",
+    "name": "Kuner Mayonnaise 25%",
+    "category": "Mayonnaise",
+    "subcategories": ["Mayonnaise", "25%"]
+  },
+  {
+    "store": "billa",
+    "id": "00-413501",
+    "name": "Kuner Mayonnaise 25%",
+    "category": "Mayonnaise",
+    "subcategories": ["Mayonnaise", "25%"]
+  },
+  {
+    "store": "billa",
+    "id": "00-421364",
+    "name": "Kuner Mayonnaise 25%",
+    "category": "Mayonnaise",
+    "subcategories": ["Mayonnaise", "25%"]
+  },
+  {
+    "store": "billa",
+    "id": "00-11140",
+    "name": "Kuner Mayonnaise 50%",
+    "category": "Mayonnaise",
+    "subcategories": ["Mayonnaise", "50%"]
+  },
+  {
+    "store": "billa",
+    "id": "00-55333",
+    "name": "Kuner Mayonnaise 50%",
+    "category": "Mayonnaise",
+    "subcategories": ["Mayonnaise", "50%"]
+  },
+  {
+    "store": "billa",
+    "id": "00-402626",
+    "name": "Kuner Mayonnaise 80%",
+    "category": "Mayonnaise",
+    "subcategories": ["Mayonnaise", "80%"]
+  },
+  {
+    "store": "billa",
+    "id": "00-8544",
+    "name": "Kuner Original Mayonnaise 80%",
+    "category": "Mayonnaise",
+    "subcategories": ["Mayonnaise", "80%"]
+  },
+  {
+    "store": "billa",
+    "id": "00-584562",
+    "name": "Kuner Potato Wedges Sauce Tuben-Flasche",
+    "category": "Sauce",
+    "subcategories": ["Potato Wedges Sauce"]
+  },
+  {
+    "store": "billa",
+    "id": "00-55319",
+    "name": "Kuner Sauce Tartare",
+    "category": "Sauce",
+    "subcategories": ["Tartare Sauce"]
+  },
+  {
+    "store": "billa",
+    "id": "00-469090",
+    "name": "Kuner YoFresh Mayonnaise",
+    "category": "Mayonnaise",
+    "subcategories": ["Mayonnaise", "Fettarm"]
+  },
+  {
+    "store": "billa",
+    "id": "00-937644",
+    "name": "Lien Ying Dim-Sum-Sauce süß",
+    "category": "Sauce",
+    "subcategories": ["Dim-Sum-Sauce", "Süß"]
+  },
+  {
+    "store": "billa",
+    "id": "00-742494",
+    "name": "MAGGI Gourmet Pfefferrahm Sauce",
+    "category": "Sauce",
+    "subcategories": ["Pfefferrahm Sauce"]
+  },
+  {
+    "store": "billa",
+    "id": "00-56150",
+    "name": "MAGGI Gulaschsaft 8 Würfel",
+    "category": "Gulaschsaft",
+    "subcategories": ["Gulaschsauce"]
+  },
+  {
+    "store": "billa",
+    "id": "00-56160",
+    "name": "MAGGI Saft zum Braten 8 Würfel",
+    "category": "Bratensaft",
+    "subcategories": ["Saft", "Braten"]
+  },
+  {
+    "store": "billa",
+    "id": "00-413607",
+    "name": "MAGGI Würze",
+    "category": "Gewürze",
+    "subcategories": ["Würze"]
+  },
+  {
+    "store": "billa",
+    "id": "00-932423",
+    "name": "Made For Meat Chipotle Burger Style Sauce",
+    "category": "Sauce",
+    "subcategories": ["Chipotle Burger Sauce"]
+  },
+  {
+    "store": "billa",
+    "id": "00-932443",
+    "name": "Made For Meat Smoked Pepper BBQ Sauce",
+    "category": "Sauce",
+    "subcategories": ["Smoked Pepper BBQ Sauce"]
+  },
+  {
+    "store": "billa",
+    "id": "00-932433",
+    "name": "Made For Meat Sriracha Hot Chili Sauce",
+    "category": "Sauce",
+    "subcategories": ["Sriracha Hot Chili Sauce"]
+  },
+  {
+    "store": "billa",
+    "id": "00-420590",
+    "name": "Maille Dijon Senf",
+    "category": "Senf",
+    "subcategories": ["Dijon Senf"]
+  },
+  {
+    "store": "billa",
+    "id": "00-788027",
+    "name": "Maille Dijon Senf nach alter Art",
+    "category": "Senf",
+    "subcategories": ["Dijon Senf"]
+  },
+  {
+    "store": "billa",
+    "id": "00-426722",
+    "name": "Maille Dijon-Senf mit Honig",
+    "category": "Senf",
+    "subcategories": ["Dijon Senf", "Honig"]
+  },
+  {
+    "store": "billa",
+    "id": "00-307365",
+    "name": "Mama's Food Hausgemachter Ajvar mild",
+    "category": "Sauce",
+    "subcategories": ["Ajvar", "Mild", "Paprikasauce"]
+  },
+  {
+    "store": "billa",
+    "id": "00-410928",
+    "name": "Mautner Markhof Apfelkren",
+    "category": "Kren",
+    "subcategories": ["Apfelkren"]
+  },
+  {
+    "store": "billa",
+    "id": "00-303805",
+    "name": "Mautner Markhof Bio Estragonsenf",
+    "category": "Bio-Senf",
+    "subcategories": ["Bio-Estragonsenf"]
+  },
+  {
+    "store": "billa",
+    "id": "00-607860",
+    "name": "Mautner Markhof Dijon Senf",
+    "category": "Senf",
+    "subcategories": ["Dijon Senf"]
+  },
+  {
+    "store": "billa",
+    "id": "00-632936",
+    "name": "Mautner Markhof Dill-Senf Sauce",
+    "category": "Sauce",
+    "subcategories": ["Dill-Senf Sauce"]
+  },
+  {
+    "store": "billa",
+    "id": "00-677",
+    "name": "Mautner Markhof Estragon Senf",
+    "category": "Senf",
+    "subcategories": ["Estragon Senf"]
+  },
+  {
+    "store": "billa",
+    "id": "00-8548",
+    "name": "Mautner Markhof Estragonsenf",
+    "category": "Senf",
+    "subcategories": ["Estragonsenf"]
+  },
+  {
+    "store": "billa",
+    "id": "00-57638",
+    "name": "Mautner Markhof Estragonsenf",
+    "category": "Senf",
+    "subcategories": ["Estragonsenf"]
+  },
+  {
+    "store": "billa",
+    "id": "00-599266",
+    "name": "Mautner Markhof French Dressing",
+    "category": "Dressing",
+    "subcategories": ["French Dressing"]
+  },
+  {
+    "store": "billa",
+    "id": "00-741008",
+    "name": "Mautner Markhof Honigsenf",
+    "category": "Senf",
+    "subcategories": ["Honigsenf"]
+  },
+  {
+    "store": "billa",
+    "id": "00-599311",
+    "name": "Mautner Markhof Joghurt Dressing",
+    "category": "Dressing",
+    "subcategories": ["Joghurt Dressing"]
+  },
+  {
+    "store": "billa",
+    "id": "00-57630",
+    "name": "Mautner Markhof Kremsersenf",
+    "category": "Senf",
+    "subcategories": ["Kremsersenf"]
+  },
+  {
+    "store": "billa",
+    "id": "00-8549",
+    "name": "Mautner Markhof Kremsersenf",
+    "category": "Senf",
+    "subcategories": ["Kremsersenf"]
+  },
+  {
+    "store": "billa",
+    "id": "00-599260",
+    "name": "Mautner Markhof Kräuter Dressing",
+    "category": "Dressing",
+    "subcategories": ["Kräuter Dressing"]
+  },
+  {
+    "store": "billa",
+    "id": "00-577926",
+    "name": "Mautner Markhof Mayonnaise Stehtube",
+    "category": "Mayonnaise",
+    "subcategories": ["Mayonnaise", "Stehtube"]
+  },
+  {
+    "store": "billa",
+    "id": "00-791379",
+    "name": "Mautner Markhof Oberskren",
+    "category": "Kren",
+    "subcategories": ["Oberskren"]
+  },
+  {
+    "store": "billa",
+    "id": "00-908236",
+    "name": "Mautner Markhof Pfefferoni Senf",
+    "category": "Senf",
+    "subcategories": ["Pfefferoni Senf"]
+  }
+]

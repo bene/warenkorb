@@ -1,0 +1,714 @@
+[
+  {
+    "store": "spar",
+    "id": "5898572",
+    "name": "Dr. Oetker Gelantine gemahlen weiß 3 x 9G",
+    "category": "Backen",
+    "subcategories": ["Gelatine", "Backen"]
+  },
+  {
+    "store": "spar",
+    "id": "7378775",
+    "name": "Dr. Oetker Germ 3 x 7G",
+    "category": "Backen",
+    "subcategories": ["Germ", "Backen"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004164568",
+    "name": "Dr. Oetker Gourmet Vanillemühle",
+    "category": "Backen",
+    "subcategories": ["Vanille", "Backen"]
+  },
+  {
+    "store": "spar",
+    "id": "5245000",
+    "name": "Dr. Oetker Kuchenglasur weiß, Vanillle Geschmack",
+    "category": "Backen",
+    "subcategories": ["Kuchenglasur", "Vanille", "Backen"]
+  },
+  {
+    "store": "spar",
+    "id": "2020000704638",
+    "name": "Günthart Back & Decor Zuckerdekoration 18 Stück",
+    "category": "Backen",
+    "subcategories": ["Zuckerdekoration", "Backen"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004006851",
+    "name": "Günthart Zuckerdekor Funny Faces 12 Stück",
+    "category": "Backen",
+    "subcategories": ["Zuckerdekoration", "Backen"]
+  },
+  {
+    "store": "spar",
+    "id": "5195923",
+    "name": "Haas Backpulver 3 x 16g",
+    "category": "Backen",
+    "subcategories": ["Backpulver", "Backen"]
+  },
+  {
+    "store": "spar",
+    "id": "7378836",
+    "name": "Haas Germ 3 x 7g",
+    "category": "Backen",
+    "subcategories": ["Germ", "Backen"]
+  },
+  {
+    "store": "spar",
+    "id": "70980",
+    "name": "Haas Hassa Einsiedehilfe  3 x 10g",
+    "category": "Backen",
+    "subcategories": ["Einsiedehilfe", "Backen"]
+  },
+  {
+    "store": "spar",
+    "id": "7380006",
+    "name": "Haas Quittin Gelierhilfe 1:1 2 x 17g",
+    "category": "Backen",
+    "subcategories": ["Gelierhilfe", "Backen"]
+  },
+  {
+    "store": "spar",
+    "id": "7390296",
+    "name": "Haas Quittin Gelierhilfe 2:1 2 x 24g",
+    "category": "Backen",
+    "subcategories": ["Gelierhilfe", "Backen"]
+  },
+  {
+    "store": "spar",
+    "id": "7453878",
+    "name": "Haas Quittin Gelierhilfe 3:1 2 x 24g",
+    "category": "Backen",
+    "subcategories": ["Gelierhilfe", "Backen"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002946272",
+    "name": "Haas Ruck-Zuck Marmelade",
+    "category": "Backen",
+    "subcategories": ["Marmelade", "Backen"]
+  },
+  {
+    "store": "spar",
+    "id": "740272",
+    "name": "Haas Tortengelee  kristallklar 3 x 11g",
+    "category": "Backen",
+    "subcategories": ["Tortengelee", "Gelierhilfe", "Backen"]
+  },
+  {
+    "store": "spar",
+    "id": "740333",
+    "name": "Haas Tortengelee  rot  3 x 11g",
+    "category": "Backen",
+    "subcategories": ["Tortengelee", "Gelierhilfe", "Backen"]
+  },
+  {
+    "store": "spar",
+    "id": "128117",
+    "name": "Haas Vanillecreme 3 x 15g",
+    "category": "Backen",
+    "subcategories": ["Vanille", "Creme", "Backen"]
+  },
+  {
+    "store": "spar",
+    "id": "8184733",
+    "name": "Haas Vanillinzucker  5 x 8g",
+    "category": "Backen",
+    "subcategories": ["Vanillezucker", "Backen"]
+  },
+  {
+    "store": "spar",
+    "id": "8185099",
+    "name": "Haas Weinstein-Backpulver 3 x 16g",
+    "category": "Backen",
+    "subcategories": ["Backpulver", "Backen"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004099709",
+    "name": "Hubble-Foodmanufactury Biertrebernbrot in der Flasche 1KG",
+    "category": "Brot",
+    "subcategories": ["Biertrebernbrot", "Brot"]
+  },
+  {
+    "store": "spar",
+    "id": "4055822",
+    "name": "Casa Rinaldi Natives Olivenöl extra mit Chilli",
+    "category": "Öl",
+    "subcategories": ["Olivenöl", "Öl", "Chilli"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001425365",
+    "name": "Frivissa Fett halbflüssig",
+    "category": "Öl",
+    "subcategories": ["Fett", "Öl"]
+  },
+  {
+    "store": "spar",
+    "id": "7093470",
+    "name": "Frivissa Frittieröl",
+    "category": "Öl",
+    "subcategories": ["Frittieröl", "Öl"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002954017",
+    "name": "Gegenbauer Hausessig edelherb",
+    "category": "Essig",
+    "subcategories": ["Hausessig", "Essig"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002953898",
+    "name": "Gegenbauer Hausessig edelsüß",
+    "category": "Essig",
+    "subcategories": ["Hausessig", "Essig"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002954031",
+    "name": "Gegenbauer Hausessig pur",
+    "category": "Essig",
+    "subcategories": ["Hausessig", "Essig"]
+  },
+  {
+    "store": "spar",
+    "id": "3928783",
+    "name": "Gegenbauer Leindotter Kernöl Kernöl",
+    "category": "Öl",
+    "subcategories": ["Leindotter", "Kernöl", "Öl"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001866168",
+    "name": "A. Vogel Herbamare für Fleisch & Geflügel",
+    "category": "Gewürze",
+    "subcategories": ["Herbamare", "Gewürze", "Fleisch", "Geflügel"]
+  },
+  {
+    "store": "spar",
+    "id": "2020000537533",
+    "name": "A. Vogel Herbamare original Meersalz mit Gemüse und Kräutern",
+    "category": "Gewürze",
+    "subcategories": ["Herbamare", "Gewürze", "Meersalz", "Gemüse", "Kräuter"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001865529",
+    "name": "A. Vogel Herbamare spicy mit Chili",
+    "category": "Gewürze",
+    "subcategories": ["Herbamare", "Gewürze", "Chili"]
+  },
+  {
+    "store": "spar",
+    "id": "2020000657323",
+    "name": "Asia Cook Chiliflocken 35g",
+    "category": "Gewürze",
+    "subcategories": ["Chiliflocken", "Gewürze", "Chili"]
+  },
+  {
+    "store": "spar",
+    "id": "2020000657279",
+    "name": "Asia Cook Ingwer gemahlen 35g",
+    "category": "Gewürze",
+    "subcategories": ["Ingwer", "Gewürze"]
+  },
+  {
+    "store": "spar",
+    "id": "2020000657347",
+    "name": "Asia Cook Kreuzkümmel gemahlen 40g",
+    "category": "Gewürze",
+    "subcategories": ["Kreuzkümmel", "Gewürze"]
+  },
+  {
+    "store": "spar",
+    "id": "2020000657378",
+    "name": "Asia Cook Kurkuma gemahlen 50g",
+    "category": "Gewürze",
+    "subcategories": ["Kurkuma", "Gewürze"]
+  },
+  {
+    "store": "spar",
+    "id": "2020000657422",
+    "name": "Asia Cook Zitronengras gemahlen 30g",
+    "category": "Gewürze",
+    "subcategories": ["Zitronengras", "Gewürze"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003838842",
+    "name": "Geeta's Korma Currypaste 80g",
+    "category": "Gewürze",
+    "subcategories": ["Currypaste", "Gewürze", "Korma"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003838859",
+    "name": "Geeta's Madras Currypaste 80g",
+    "category": "Gewürze",
+    "subcategories": ["Currypaste", "Gewürze", "Madras"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003838835",
+    "name": "Geeta's Tikka Currypaste 80g",
+    "category": "Gewürze",
+    "subcategories": ["Currypaste", "Gewürze", "Tikka"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002953713",
+    "name": "Gegenbauer Wiener Öl",
+    "category": "Öl",
+    "subcategories": ["Wiener", "Öl"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002942670",
+    "name": "Gemara Borrito Gewürzzubereitung 60g",
+    "category": "Gewürze",
+    "subcategories": ["Gewürzzubereitung", "Gemara"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002942441",
+    "name": "Gemara Chili ganz, Bird Eye 30g",
+    "category": "Gewürze",
+    "subcategories": ["Chili", "Gewürze"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002943103",
+    "name": "Gemara Geräucherte Chiliflakes mit Saat 35g",
+    "category": "Gewürze",
+    "subcategories": ["Chiliflakes", "Gewürze", "Chili"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002942557",
+    "name": "Gemara Gewürzzubereitung Knoblauch-Pfeffer 55g",
+    "category": "Gewürze",
+    "subcategories": ["Gewürzzubereitung", "Gemara", "Knoblauch", "Pfeffer"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002943172",
+    "name": "Gemara Gewürzzubereitung Mexican Salsa 65g",
+    "category": "Gewürze",
+    "subcategories": ["Gewürzzubereitung", "Gemara", "Salsa"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002943219",
+    "name": "Gemara Gewürzzubereitung für Chili con Carne 50g",
+    "category": "Gewürze",
+    "subcategories": ["Gewürzzubereitung", "Gemara", "Chili con Carne"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002943141",
+    "name": "Gemara Knoblauch geräuchert 60g",
+    "category": "Gewürze",
+    "subcategories": ["Knoblauch", "Gewürze"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002942755",
+    "name": "Gemara Peruanischer Chili Rub 60g",
+    "category": "Gewürze",
+    "subcategories": ["Chili", "Gewürze", "Rub"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003199295",
+    "name": "Gemara Piri Piri Gewürzzubereitung 50g",
+    "category": "Gewürze",
+    "subcategories": ["Gewürzzubereitung", "Gemara", "Piri Piri"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002942656",
+    "name": "Gemara Szechuanpfeffer ganz 40g",
+    "category": "Gewürze",
+    "subcategories": ["Szechuanpfeffer", "Gewürze"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002942717",
+    "name": "Gemara Tortilla Spice Mix hot 60g",
+    "category": "Gewürze",
+    "subcategories": ["Gewürzmischung", "Gemara", "Tortilla", "Hot"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002942731",
+    "name": "Gemara Tortilla Spice Mix medium 60g",
+    "category": "Gewürze",
+    "subcategories": ["Gewürzmischung", "Gemara", "Tortilla", "Medium"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002943066",
+    "name": "Gemara Würzmischung Copacabana Fire 60g",
+    "category": "Gewürze",
+    "subcategories": ["Würzmischung", "Gemara", "Fire"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003174605",
+    "name": "Gewürzmischung für Paella 9g El Avion Paella 9g Packung      GVE 10",
+    "category": "Gewürze",
+    "subcategories": ["Gewürzmischung", "Paella", "Gewürze"]
+  },
+  {
+    "store": "spar",
+    "id": "4763253",
+    "name": "Gusto Mundial Escates del Mediterrani",
+    "category": "Gewürze",
+    "subcategories": ["Gusto Mundial", "Gewürze"]
+  },
+  {
+    "store": "spar",
+    "id": "4887676",
+    "name": "Gusto Mundial Flor de Sal De Luxe",
+    "category": "Salz",
+    "subcategories": ["Gusto Mundial", "Salz"]
+  },
+  {
+    "store": "spar",
+    "id": "4760887",
+    "name": "Gusto Mundial Flor de Sal Hibiscus",
+    "category": "Salz",
+    "subcategories": ["Gusto Mundial", "Flor de Sal", "Hibiscus"]
+  },
+  {
+    "store": "spar",
+    "id": "4761044",
+    "name": "Gusto Mundial Flor de Sal Mediterránea",
+    "category": "Salz",
+    "subcategories": ["Gusto Mundial", "Flor de Sal", "Mediterránea"]
+  },
+  {
+    "store": "spar",
+    "id": "4756712",
+    "name": "Gusto Mundial Flor de Sal Natural",
+    "category": "Salz",
+    "subcategories": ["Gusto Mundial", "Flor de Sal", "Natural"]
+  },
+  {
+    "store": "spar",
+    "id": "4761679",
+    "name": "Gusto Mundial Flor de Sal Olivas Negras",
+    "category": "Salz",
+    "subcategories": ["Gusto Mundial", "Flor de Sal", "Olivas Negras"]
+  },
+  {
+    "store": "spar",
+    "id": "4761792",
+    "name": "Gusto Mundial Flor de Sal Sri Lanka",
+    "category": "Salz",
+    "subcategories": ["Gusto Mundial", "Flor de Sal", "Sri Lanka"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001926329",
+    "name": "India Cook Gerösteter Garam Masala Mix 40g",
+    "category": "Gewürze",
+    "subcategories": ["Gewürzmischung", "India Cook", "Garam Masala"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001926114",
+    "name": "India Cook Gerösteter Koriander gemahlen 30g",
+    "category": "Gewürze",
+    "subcategories": ["Koriander", "Gewürze"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001926190",
+    "name": "India Cook Gerösteter Kreuzkümmel gemahlen 45g",
+    "category": "Gewürze",
+    "subcategories": ["Kreuzkümmel", "Gewürze"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001926312",
+    "name": "India Cook Gerösteter Tandoori Mix 50g",
+    "category": "Gewürze",
+    "subcategories": ["Gewürzmischung", "India Cook", "Tandoori"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001925780",
+    "name": "India Cook Geröstetes Currypulver medium 50g",
+    "category": "Gewürze",
+    "subcategories": ["Currypulver", "Gewürze", "medium"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001925995",
+    "name": "India Cook Geröstetes Currypulver oriental 50g",
+    "category": "Gewürze",
+    "subcategories": ["Currypulver", "Gewürze", "oriental"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004027900",
+    "name": "3Bears Bio-Porridge Feine Beere 350G",
+    "category": "Frühstück",
+    "subcategories": ["Porridge", "Frühstück", "Beere"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004027917",
+    "name": "3Bears Bio-Porridge Fruchtfeierei 350G",
+    "category": "Frühstück",
+    "subcategories": ["Porridge", "Frühstück", "Frucht"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004027924",
+    "name": "3Bears Bio-Porridge Kakao Banane 350G",
+    "category": "Frühstück",
+    "subcategories": ["Porridge", "Frühstück", "Kakao", "Banane"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004027887",
+    "name": "3Bears Bio-Porridge Nussiger Kakao 350G",
+    "category": "Frühstück",
+    "subcategories": ["Porridge", "Frühstück", "Kakao", "Nuss"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002994938",
+    "name": "Bonne Maman Süße Orange",
+    "category": "Marmelade",
+    "subcategories": ["Marmelade", "Orange"]
+  },
+  {
+    "store": "spar",
+    "id": "8171429",
+    "name": "Brandner Fruchtaufstrich Brombeer-Apfel-Granatapfel",
+    "category": "Marmelade",
+    "subcategories": [
+      "Fruchtaufstrich",
+      "Marmelade",
+      "Brombeer",
+      "Apfel",
+      "Granatapfel"
+    ]
+  },
+  {
+    "store": "spar",
+    "id": "6745868",
+    "name": "Brandner Fruchtaufstrich Erdbeer-Apfel-Rhabarber",
+    "category": "Marmelade",
+    "subcategories": [
+      "Fruchtaufstrich",
+      "Marmelade",
+      "Erdbeer",
+      "Apfel",
+      "Rhabarber"
+    ]
+  },
+  {
+    "store": "spar",
+    "id": "6745738",
+    "name": "Brandner Fruchtaufstrich Holler Apfel",
+    "category": "Marmelade",
+    "subcategories": ["Fruchtaufstrich", "Marmelade", "Holler", "Apfel"]
+  },
+  {
+    "store": "spar",
+    "id": "6865504",
+    "name": "Brandner Fruchtaufstrich Marille-Amaretto",
+    "category": "Marmelade",
+    "subcategories": ["Fruchtaufstrich", "Marmelade", "Marille", "Amaretto"]
+  },
+  {
+    "store": "spar",
+    "id": "6745776",
+    "name": "Brandner Fruchtaufstrich Marille-Vanille",
+    "category": "Marmelade",
+    "subcategories": ["Fruchtaufstrich", "Marmelade", "Marille", "Vanille"]
+  },
+  {
+    "store": "spar",
+    "id": "6865429",
+    "name": "Brandner Fruchtaufstrich Quitten-Apfel",
+    "category": "Marmelade",
+    "subcategories": ["Fruchtaufstrich", "Marmelade", "Quitten", "Apfel"]
+  },
+  {
+    "store": "spar",
+    "id": "4140375",
+    "name": "Chivers Englische Marmelade Orange",
+    "category": "Marmelade",
+    "subcategories": ["Englische Marmelade", "Marmelade", "Orange"]
+  },
+  {
+    "store": "spar",
+    "id": "4140382",
+    "name": "Chivers Jelly Marmelade Lemon",
+    "category": "Marmelade",
+    "subcategories": ["Jelly", "Marmelade", "Lemon"]
+  },
+  {
+    "store": "spar",
+    "id": "4141105",
+    "name": "Chivers Konfitüre Ingwer",
+    "category": "Marmelade",
+    "subcategories": ["Konfitüre", "Marmelade", "Ingwer"]
+  },
+  {
+    "store": "spar",
+    "id": "4140368",
+    "name": "Chivers Olde English Orange",
+    "category": "Marmelade",
+    "subcategories": ["Marmelade", "Orange"]
+  },
+  {
+    "store": "spar",
+    "id": "5267071",
+    "name": "Grafschafter Goldsaft",
+    "category": "Marmelade",
+    "subcategories": ["Goldsaft", "Marmelade"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002991937",
+    "name": "Imkerei Mayrhofer Honig",
+    "category": "Honig",
+    "subcategories": ["Honig"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002991302",
+    "name": "Imkerei Mayrhofer Honig",
+    "category": "Honig",
+    "subcategories": ["Honig"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002991883",
+    "name": "Imkerei Mayrhofer Honig",
+    "category": "Honig",
+    "subcategories": ["Honig"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002991333",
+    "name": "Imkerei Mayrhofer Honig",
+    "category": "Honig",
+    "subcategories": ["Honig"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002991357",
+    "name": "Imkerei Mayrhofer Honig",
+    "category": "Honig",
+    "subcategories": ["Honig"]
+  },
+  {
+    "store": "spar",
+    "id": "7644320",
+    "name": "4 Diamanten MSC Thunfisch in Olivenöl",
+    "category": "Fisch",
+    "subcategories": ["Thunfisch", "Olivenöl", "Fisch"]
+  },
+  {
+    "store": "spar",
+    "id": "2020000774310",
+    "name": "4 Diamanten Makrelenfilets in Olivenöl ohne Haut und ohne Gräten",
+    "category": "Fisch",
+    "subcategories": ["Makrelenfilets", "Olivenöl", "Fisch"]
+  },
+  {
+    "store": "spar",
+    "id": "2020000774334",
+    "name": "4 Diamanten Makrelenfilets mit Gemüse in Tomatensauce",
+    "category": "Fisch",
+    "subcategories": ["Makrelenfilets", "Gemüse", "Tomatensauce", "Fisch"]
+  },
+  {
+    "store": "spar",
+    "id": "7644443",
+    "name": "4 Diamanten Thunfisch Naturell",
+    "category": "Fisch",
+    "subcategories": ["Thunfisch", "Fisch"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002494162",
+    "name": "4 Diamanten Thunfisch Naturell",
+    "category": "Fisch",
+    "subcategories": ["Thunfisch", "Fisch"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001902309",
+    "name": "4 Diamanten Thunfisch Salat nach mediterraner Art",
+    "category": "Fisch",
+    "subcategories": ["Thunfisch", "Salat", "mediterran", "Fisch"]
+  },
+  {
+    "store": "spar",
+    "id": "2020000866190",
+    "name": "4 Diamanten Thunfisch in Olivenöl",
+    "category": "Fisch",
+    "subcategories": ["Thunfisch", "Olivenöl", "Fisch"]
+  },
+  {
+    "store": "spar",
+    "id": "2020000911043",
+    "name": "4 Diamanten Thunfisch in Olivenöl",
+    "category": "Fisch",
+    "subcategories": ["Thunfisch", "Olivenöl", "Fisch"]
+  },
+  {
+    "store": "spar",
+    "id": "7309359",
+    "name": "4 Diamanten Thunfisch in Rapsöl",
+    "category": "Fisch",
+    "subcategories": ["Thunfisch", "Rapsöl", "Fisch"]
+  },
+  {
+    "store": "spar",
+    "id": "63012",
+    "name": "4 Diamanten Thunfisch in Sonnenblumenöl",
+    "category": "Fisch",
+    "subcategories": ["Thunfisch", "Sonnenblumenöl", "Fisch"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002494049",
+    "name": "4 Diamanten Thunfisch in Sonnenblumenöl",
+    "category": "Fisch",
+    "subcategories": ["Thunfisch", "Sonnenblumenöl", "Fisch"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001655533",
+    "name": "4 Diamanten Thunfisch mit Gemüse in scharfer Sauce",
+    "category": "Fisch",
+    "subcategories": ["Thunfisch", "Gemüse", "scharfe Sauce", "Fisch"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003439797",
+    "name": "4 Diamanten Thunfisch mit Öl mit Chili",
+    "category": "Fisch",
+    "subcategories": ["Thunfisch", "Öl", "Chili", "Fisch"]
+  },
+  {
+    "store": "spar",
+    "id": "5083879",
+    "name": "4 Diamanten Thunfisch naturell",
+    "category": "Fisch",
+    "subcategories": ["Thunfisch", "Fisch"]
+  }
+]

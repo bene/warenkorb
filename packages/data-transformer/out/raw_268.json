@@ -1,0 +1,702 @@
+[
+  {
+    "store": "spar",
+    "id": "5371334",
+    "name": "adidas 3in1 Duschgel After Sport Hydrating* 250ml",
+    "category": "Kosmetik",
+    "subcategories": ["Duschgel", "Körperpflege"]
+  },
+  {
+    "store": "spar",
+    "id": "4943976",
+    "name": "adidas 3in1 Duschgel Ice Dive 250ml",
+    "category": "Kosmetik",
+    "subcategories": ["Duschgel", "Körperpflege"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002478568",
+    "name": "adidas 3in1 Duschgel Power Booster 250ml",
+    "category": "Kosmetik",
+    "subcategories": ["Duschgel", "Körperpflege"]
+  },
+  {
+    "store": "spar",
+    "id": "6014315",
+    "name": "adidas 3in1 Duschgel Victory League 250ml",
+    "category": "Kosmetik",
+    "subcategories": ["Duschgel", "Körperpflege"]
+  },
+  {
+    "store": "spar",
+    "id": "3704820",
+    "name": "sebamed Duschgel Frische Dusche 200ml",
+    "category": "Kosmetik",
+    "subcategories": ["Duschgel", "Körperpflege"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003082726",
+    "name": "sebamed Duschgel Frische Dusche 50ml",
+    "category": "Kosmetik",
+    "subcategories": ["Duschgel", "Körperpflege"]
+  },
+  {
+    "store": "spar",
+    "id": "6175757",
+    "name": "sebamed Duschgel Wellness 200 ml",
+    "category": "Kosmetik",
+    "subcategories": ["Duschgel", "Körperpflege"]
+  },
+  {
+    "store": "spar",
+    "id": "2931302",
+    "name": "sebamed Duschöl 200ml",
+    "category": "Kosmetik",
+    "subcategories": ["Duschöl", "Körperpflege"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003476105",
+    "name": "sebamed Seifenfreies Waschstück 150g",
+    "category": "Kosmetik",
+    "subcategories": ["Seife", "Körperpflege"]
+  },
+  {
+    "store": "spar",
+    "id": "7670633",
+    "name": "spar office Aktenhüllen A4 10 Stück",
+    "category": "Büromaterial",
+    "subcategories": ["Aktenhüllen", "Bürobedarf"]
+  },
+  {
+    "store": "spar",
+    "id": "4258315",
+    "name": "spar office Aktenhüllen zum Abheften 10 Stück",
+    "category": "Büromaterial",
+    "subcategories": ["Aktenhüllen", "Bürobedarf"]
+  },
+  {
+    "store": "spar",
+    "id": "7671142",
+    "name": "spar office Bleistifte Stärke HB 4 Stück",
+    "category": "Büromaterial",
+    "subcategories": ["Bleistifte", "Schreibwaren"]
+  },
+  {
+    "store": "spar",
+    "id": "7951992",
+    "name": "spar office Büroklammern 50 mm silber 30 Stück",
+    "category": "Büromaterial",
+    "subcategories": ["Büroklammern", "Bürobedarf"]
+  },
+  {
+    "store": "spar",
+    "id": "7984259",
+    "name": "spar office Büroklammern Metall 25 mm",
+    "category": "Büromaterial",
+    "subcategories": ["Büroklammern", "Bürobedarf"]
+  },
+  {
+    "store": "spar",
+    "id": "7984693",
+    "name": "spar office Büroklammern bunt 26 mm",
+    "category": "Büromaterial",
+    "subcategories": ["Büroklammern", "Bürobedarf"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003355677",
+    "name": "spar office Collegeblock A4 kariert, 80 Blatt",
+    "category": "Büromaterial",
+    "subcategories": ["Collegeblock", "Schreibwaren"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003355653",
+    "name": "spar office Collegeblock A4 liniert, 80 Blatt",
+    "category": "Büromaterial",
+    "subcategories": ["Collegeblock", "Schreibwaren"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001070572",
+    "name": "spar office Duo Textmarker 4 Stück",
+    "category": "Büromaterial",
+    "subcategories": ["Textmarker", "Schreibwaren"]
+  },
+  {
+    "store": "spar",
+    "id": "2020000523758",
+    "name": "spar office Geometriedreieck 16cm",
+    "category": "Büromaterial",
+    "subcategories": ["Geometriedreieck", "Schreibwaren"]
+  },
+  {
+    "store": "spar",
+    "id": "2020000523840",
+    "name": "spar office Gummiringe bunt 50g",
+    "category": "Büromaterial",
+    "subcategories": ["Gummiringe", "Bürobedarf"]
+  },
+  {
+    "store": "spar",
+    "id": "8193421",
+    "name": "spar office Haftnotizen Set",
+    "category": "Büromaterial",
+    "subcategories": ["Haftnotizen", "Schreibwaren"]
+  },
+  {
+    "store": "spar",
+    "id": "2020000616412",
+    "name": "spar office Haftnotizen gelb 75 x 75 mm 450 Blatt",
+    "category": "Büromaterial",
+    "subcategories": ["Haftnotizen", "Schreibwaren"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001071357",
+    "name": "spar office Haftnotizwürfel bunt",
+    "category": "Büromaterial",
+    "subcategories": ["Haftnotizen", "Schreibwaren"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001708192",
+    "name": "spar office Heftklammern 24/6, verzinkt 2 x 1000 Stück",
+    "category": "Büromaterial",
+    "subcategories": ["Heftklammern", "Bürobedarf"]
+  },
+  {
+    "store": "spar",
+    "id": "7670862",
+    "name": "spar office Klarsichthüllen A4 10 Stück",
+    "category": "Büromaterial",
+    "subcategories": ["Klarsichthüllen", "Bürobedarf"]
+  },
+  {
+    "store": "spar",
+    "id": "7670626",
+    "name": "spar office Klarsichthüllen A4 100 Stück",
+    "category": "Büromaterial",
+    "subcategories": ["Klarsichthüllen", "Bürobedarf"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002455255",
+    "name": "spar office Klarsichthüllen A5 20 Stück",
+    "category": "Büromaterial",
+    "subcategories": ["Klarsichthüllen", "Bürobedarf"]
+  },
+  {
+    "store": "spar",
+    "id": "7872044",
+    "name": "spar office Klebeabroller inkl. 4 Nachfüllungen",
+    "category": "Büromaterial",
+    "subcategories": ["Klebeabroller", "Bürobedarf"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001708215",
+    "name": "spar office Klebeband transparent 10 Stück",
+    "category": "Büromaterial",
+    "subcategories": ["Klebeband", "Bürobedarf"]
+  },
+  {
+    "store": "spar",
+    "id": "7671074",
+    "name": "spar office Klebestifte 10g Doppelpackung",
+    "category": "Büromaterial",
+    "subcategories": ["Klebestifte", "Bürobedarf"]
+  },
+  {
+    "store": "spar",
+    "id": "7671098",
+    "name": "spar office Klebestifte 20g Doppelpackung",
+    "category": "Büromaterial",
+    "subcategories": ["Klebestifte", "Bürobedarf"]
+  },
+  {
+    "store": "spar",
+    "id": "7671050",
+    "name": "spar office Korrekturflüssigkeit 20ml",
+    "category": "Büromaterial",
+    "subcategories": ["Korrekturflüssigkeit", "Bürobedarf"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004214164",
+    "name": "spar office Korrekturroller 2 Stück",
+    "category": "Büromaterial",
+    "subcategories": ["Korrekturroller", "Bürobedarf"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004217455",
+    "name": "spar office Korrekturstift 8ml",
+    "category": "Büromaterial",
+    "subcategories": ["Korrekturstift", "Bürobedarf"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002358907",
+    "name": "spar office Kugelschreiber sortiert 8 Stück",
+    "category": "Büromaterial",
+    "subcategories": ["Kugelschreiber", "Schreibwaren"]
+  },
+  {
+    "store": "spar",
+    "id": "2020000523772",
+    "name": "spar office Lineal 15cm",
+    "category": "Büromaterial",
+    "subcategories": ["Lineal", "Schreibwaren"]
+  },
+  {
+    "store": "spar",
+    "id": "2020000523789",
+    "name": "spar office Lineal 30cm",
+    "category": "Büromaterial",
+    "subcategories": ["Lineal", "Schreibwaren"]
+  },
+  {
+    "store": "spar",
+    "id": "7940767",
+    "name": "spar office Luftpolstertaschen 200 x 275 mm 4 Stück",
+    "category": "Büromaterial",
+    "subcategories": ["Luftpolstertaschen", "Bürobedarf"]
+  },
+  {
+    "store": "spar",
+    "id": "7940934",
+    "name": "spar office Luftpolstertaschen 290 x 370 mm 4 Stück",
+    "category": "Büromaterial",
+    "subcategories": ["Luftpolstertaschen", "Bürobedarf"]
+  },
+  {
+    "store": "spar",
+    "id": "2020000523833",
+    "name": "spar office Metallklemmen bunt 25 Stück",
+    "category": "Büromaterial",
+    "subcategories": ["Metallklemmen", "Bürobedarf"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003323225",
+    "name": "spar office Multi-Marker permanent 4 Farben",
+    "category": "Büromaterial",
+    "subcategories": ["Marker", "Schreibwaren"]
+  },
+  {
+    "store": "spar",
+    "id": "5411443",
+    "name": "spar office Multifunktionspapier A4 500 Blatt",
+    "category": "Büromaterial",
+    "subcategories": ["Multifunktionspapier", "Bürobedarf"]
+  },
+  {
+    "store": "spar",
+    "id": "8132840",
+    "name": "spar office Musterbeutelklammern gold 80 Stück",
+    "category": "Büromaterial",
+    "subcategories": ["Musterbeutelklammern", "Bürobedarf"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003705755",
+    "name": "spar office Nachfüllminen Tintenroller 3 Stk.",
+    "category": "Büromaterial",
+    "subcategories": ["Tintenrollerminen", "Bürobedarf"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001071722",
+    "name": "spar office Nachfüllung Zettelbox 800 Blatt weiß",
+    "category": "Büromaterial",
+    "subcategories": ["Zettelbox", "Bürobedarf"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003355455",
+    "name": "spar office Notizblock A4 kariert 48 Blatt",
+    "category": "Büromaterial",
+    "subcategories": ["Notizblock", "Schreibwaren"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003355431",
+    "name": "spar office Notizblock A4 liniert 48 Blatt",
+    "category": "Büromaterial",
+    "subcategories": ["Notizblock", "Schreibwaren"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003355592",
+    "name": "spar office Notizblock A5 kariert, 48 Blatt",
+    "category": "Büromaterial",
+    "subcategories": ["Notizblock", "Schreibwaren"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003355516",
+    "name": "spar office Notizblock A5 liniert, 48 Blatt",
+    "category": "Büromaterial",
+    "subcategories": ["Notizblock", "Schreibwaren"]
+  },
+  {
+    "store": "spar",
+    "id": "7827327",
+    "name": "spar office Ordner A4 5cm",
+    "category": "Büromaterial",
+    "subcategories": ["Ordner", "Bürobedarf"]
+  },
+  {
+    "store": "spar",
+    "id": "3116760",
+    "name": "spar office Ordner A4 5cm",
+    "category": "Büromaterial",
+    "subcategories": ["Ordner", "Bürobedarf"]
+  },
+  {
+    "store": "spar",
+    "id": "3116784",
+    "name": "spar office Ordner A4 5cm",
+    "category": "Büromaterial",
+    "subcategories": ["Ordner", "Bürobedarf"]
+  },
+  {
+    "store": "spar",
+    "id": "3104774",
+    "name": "spar office Ordner A4 5cm",
+    "category": "Büromaterial",
+    "subcategories": ["Ordner", "Bürobedarf"]
+  },
+  {
+    "store": "spar",
+    "id": "7827655",
+    "name": "spar office Ordner A4 5cm",
+    "category": "Büromaterial",
+    "subcategories": ["Ordner", "Bürobedarf"]
+  },
+  {
+    "store": "spar",
+    "id": "3116791",
+    "name": "spar office Ordner A4 5cm",
+    "category": "Büromaterial",
+    "subcategories": ["Ordner", "Bürobedarf"]
+  },
+  {
+    "store": "spar",
+    "id": "3116838",
+    "name": "spar office Ordner A4 7,5cm",
+    "category": "Büromaterial",
+    "subcategories": ["Ordner", "Bürobedarf"]
+  },
+  {
+    "store": "spar",
+    "id": "3111536",
+    "name": "spar office Ordner A4 7,5cm",
+    "category": "Büromaterial",
+    "subcategories": ["Ordner", "Bürobedarf"]
+  },
+  {
+    "store": "spar",
+    "id": "3116845",
+    "name": "spar office Ordner A4 7,5cm",
+    "category": "Büromaterial",
+    "subcategories": ["Ordner", "Bürobedarf"]
+  },
+  {
+    "store": "spar",
+    "id": "7826719",
+    "name": "spar office Ordner A4 7,5cm",
+    "category": "Büromaterial",
+    "subcategories": ["Ordner", "Bürobedarf"]
+  },
+  {
+    "store": "spar",
+    "id": "3116869",
+    "name": "spar office Ordner A4 7,5cm",
+    "category": "Büromaterial",
+    "subcategories": ["Ordner", "Bürobedarf"]
+  },
+  {
+    "store": "spar",
+    "id": "7827501",
+    "name": "spar office Ordner A4 7,5cm",
+    "category": "Büromaterial",
+    "subcategories": ["Ordner", "Bürobedarf"]
+  },
+  {
+    "store": "spar",
+    "id": "3111888",
+    "name": "spar office Ordner A4 7,5cm, gelb",
+    "category": "Büromaterial",
+    "subcategories": ["Ordner", "Bürobedarf"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003705694",
+    "name": "spar office Permanentmarker 4 Farben",
+    "category": "Büromaterial",
+    "subcategories": ["Permanentmarker", "Schreibwaren"]
+  },
+  {
+    "store": "spar",
+    "id": "7983405",
+    "name": "spar office Pinnwandnadeln bunt",
+    "category": "Büromaterial",
+    "subcategories": ["Pinnwandnadeln", "Bürobedarf"]
+  },
+  {
+    "store": "spar",
+    "id": "8132871",
+    "name": "spar office Radiergummi Doppelpackung",
+    "category": "Büromaterial",
+    "subcategories": ["Radiergummi", "Schreibwaren"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002432911",
+    "name": "spar office Register A4 Karton 10 teilig",
+    "category": "Büromaterial",
+    "subcategories": ["Register", "Schreibwaren"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002432881",
+    "name": "spar office Register A4 Karton 6 teilig",
+    "category": "Büromaterial",
+    "subcategories": ["Register", "Schreibwaren"]
+  },
+  {
+    "store": "spar",
+    "id": "7950247",
+    "name": "spar office Reißnägel messing 120 Stück",
+    "category": "Büromaterial",
+    "subcategories": ["Reißnägel", "Bürobedarf"]
+  },
+  {
+    "store": "spar",
+    "id": "7953989",
+    "name": "spar office Reißnägel weiß 120 Stück",
+    "category": "Büromaterial",
+    "subcategories": ["Reißnägel", "Bürobedarf"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001687381",
+    "name": "spar office Ringbucheinlagen A4 kariert 150 Blatt",
+    "category": "Büromaterial",
+    "subcategories": ["Ringbucheinlagen", "Bürobedarf"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001687367",
+    "name": "spar office Ringbucheinlagen A4 liniert 150 Blatt",
+    "category": "Büromaterial",
+    "subcategories": ["Ringbucheinlagen", "Bürobedarf"]
+  },
+  {
+    "store": "spar",
+    "id": "7670640",
+    "name": "spar office Schere 16 cm",
+    "category": "Büromaterial",
+    "subcategories": ["Schere", "Schreibwaren"]
+  },
+  {
+    "store": "spar",
+    "id": "7878053",
+    "name": "spar office Schere 20 cm",
+    "category": "Büromaterial",
+    "subcategories": ["Schere", "Schreibwaren"]
+  },
+  {
+    "store": "spar",
+    "id": "7984730",
+    "name": "spar office Schnellhefter A4 5 Stück, farblich sortiert",
+    "category": "Büromaterial",
+    "subcategories": ["Schnellhefter", "Bürobedarf"]
+  },
+  {
+    "store": "spar",
+    "id": "7671333",
+    "name": "spar office Textmarker 4 Stück",
+    "category": "Büromaterial",
+    "subcategories": ["Textmarker", "Schreibwaren"]
+  },
+  {
+    "store": "spar",
+    "id": "2989624",
+    "name": "spar office Textmarker Dreikantform, gelb",
+    "category": "Büromaterial",
+    "subcategories": ["Textmarker", "Schreibwaren"]
+  },
+  {
+    "store": "spar",
+    "id": "2989853",
+    "name": "spar office Textmarker Dreikantform, grün",
+    "category": "Büromaterial",
+    "subcategories": ["Textmarker", "Schreibwaren"]
+  },
+  {
+    "store": "spar",
+    "id": "2989914",
+    "name": "spar office Textmarker Dreikantform, orange",
+    "category": "Büromaterial",
+    "subcategories": ["Textmarker", "Schreibwaren"]
+  },
+  {
+    "store": "spar",
+    "id": "2989907",
+    "name": "spar office Textmarker Dreikantform, pink",
+    "category": "Büromaterial",
+    "subcategories": ["Textmarker", "Schreibwaren"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003323430",
+    "name": "spar office Textmarker pastell 4 Farben",
+    "category": "Büromaterial",
+    "subcategories": ["Textmarker", "Schreibwaren"]
+  },
+  {
+    "store": "spar",
+    "id": "2192628",
+    "name": "spar office Tintenentferner 4 Stück",
+    "category": "Büromaterial",
+    "subcategories": ["Tintenentferner", "Schreibwaren"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003705663",
+    "name": "spar office Tintenpatronen universal, blau 10 Stk.",
+    "category": "Büromaterial",
+    "subcategories": ["Tintenpatronen", "Schreibwaren"]
+  },
+  {
+    "store": "spar",
+    "id": "7842917",
+    "name": "spar office Tintenroller blau 2 Stück",
+    "category": "Büromaterial",
+    "subcategories": ["Tintenroller", "Schreibwaren"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001071210",
+    "name": "spar office Tintenroller radierbar",
+    "category": "Büromaterial",
+    "subcategories": ["Tintenroller", "Schreibwaren"]
+  },
+  {
+    "store": "spar",
+    "id": "7843389",
+    "name": "spar office Tintenroller rot",
+    "category": "Büromaterial",
+    "subcategories": ["Tintenroller", "Schreibwaren"]
+  },
+  {
+    "store": "spar",
+    "id": "7843167",
+    "name": "spar office Tintenroller schwarz 2 Stück",
+    "category": "Büromaterial",
+    "subcategories": ["Tintenroller", "Schreibwaren"]
+  },
+  {
+    "store": "spar",
+    "id": "2388199",
+    "name": "spar office Tischrechner Solar/Batterie",
+    "category": "Büromaterial",
+    "subcategories": ["Tischrechner", "Bürobedarf"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002432836",
+    "name": "spar office Trennstreifen farblich sortiert 100 Stück",
+    "category": "Büromaterial",
+    "subcategories": ["Trennstreifen", "Schreibwaren"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001071609",
+    "name": "spar office Zettelbox 800 Blatt weiß",
+    "category": "Büromaterial",
+    "subcategories": ["Zettelbox", "Bürobedarf"]
+  },
+  {
+    "store": "spar",
+    "id": "1389135",
+    "name": "spar office nature Kuverts C4 mit Fenster 10 Stück",
+    "category": "Büromaterial",
+    "subcategories": ["Kuverts", "Briefumschläge"]
+  },
+  {
+    "store": "spar",
+    "id": "1380798",
+    "name": "spar office nature Kuverts C4 ohne Fenster 10 Stück",
+    "category": "Büromaterial",
+    "subcategories": ["Kuverts", "Briefumschläge"]
+  },
+  {
+    "store": "spar",
+    "id": "7939617",
+    "name": "spar office nature Kuverts C5 mit Fenster 20 Stück",
+    "category": "Büromaterial",
+    "subcategories": ["Kuverts", "Briefumschläge"]
+  },
+  {
+    "store": "spar",
+    "id": "7939464",
+    "name": "spar office nature Kuverts C5 ohne Fenster 20 Stück",
+    "category": "Büromaterial",
+    "subcategories": ["Kuverts", "Briefumschläge"]
+  },
+  {
+    "store": "spar",
+    "id": "7940729",
+    "name": "spar office nature Kuverts C6 mit Fenster 20 Stück",
+    "category": "Büromaterial",
+    "subcategories": ["Kuverts", "Briefumschläge"]
+  },
+  {
+    "store": "spar",
+    "id": "7939402",
+    "name": "spar office nature Kuverts C6 ohne Fenster 20 Stück",
+    "category": "Büromaterial",
+    "subcategories": ["Kuverts", "Briefumschläge"]
+  },
+  {
+    "store": "spar",
+    "id": "7944871",
+    "name": "spar office nature Kuverts DIN lang mit Fenster 25 Stück",
+    "category": "Büromaterial",
+    "subcategories": ["Kuverts", "Briefumschläge"]
+  },
+  {
+    "store": "spar",
+    "id": "7944833",
+    "name": "spar office nature Kuverts DIN lang ohne Fenster 25 Stück",
+    "category": "Büromaterial",
+    "subcategories": ["Kuverts", "Briefumschläge"]
+  },
+  {
+    "store": "spar",
+    "id": "1600223",
+    "name": "spar office nature Multifunktionspapier A4 500 Blatt",
+    "category": "Büromaterial",
+    "subcategories": ["Multifunktionspapier", "Bürobedarf"]
+  },
+  {
+    "store": "spar",
+    "id": "1390254",
+    "name": "spar office nature Notizblock A4 kariert 48 Blatt",
+    "category": "Büromaterial",
+    "subcategories": ["Notizblock", "Schreibwaren"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003094019",
+    "name": "Zwilling Gourmet Brotmesser 20 cm",
+    "category": "Küchenutensilien",
+    "subcategories": ["Messer", "Kochen und Backen"]
+  }
+]

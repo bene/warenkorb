@@ -1,0 +1,702 @@
+[
+  {
+    "store": "spar",
+    "id": "2020004552259",
+    "name": "Rauch Eistee Cola Gums Orange Taste",
+    "category": "Eistee",
+    "subcategories": ["Cola Gums", "Orange Taste"]
+  },
+  {
+    "store": "spar",
+    "id": "5670741",
+    "name": "Rauch Eistee Mango",
+    "category": "Eistee",
+    "subcategories": ["Mango"]
+  },
+  {
+    "store": "spar",
+    "id": "5670666",
+    "name": "Rauch Eistee Mango",
+    "category": "Eistee",
+    "subcategories": ["Mango"]
+  },
+  {
+    "store": "spar",
+    "id": "3109137",
+    "name": "Rauch Eistee Pfirsich",
+    "category": "Eistee",
+    "subcategories": ["Pfirsich"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001126637",
+    "name": "Rauch Eistee Pfirsich",
+    "category": "Eistee",
+    "subcategories": ["Pfirsich"]
+  },
+  {
+    "store": "spar",
+    "id": "4104797",
+    "name": "Rauch Eistee Pfirsich",
+    "category": "Eistee",
+    "subcategories": ["Pfirsich"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003214257",
+    "name": "Rauch Eistee Pfirsich",
+    "category": "Eistee",
+    "subcategories": ["Pfirsich"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002865450",
+    "name": "Rauch Eistee Pfirsich Zero",
+    "category": "Eistee",
+    "subcategories": ["Pfirsich Zero"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004552327",
+    "name": "Rauch Eistee Strawberry Stripes Kiwi Taste",
+    "category": "Eistee",
+    "subcategories": ["Strawberry Stripes", "Kiwi Taste"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002867539",
+    "name": "Rauch Eistee Zero Pfirsich",
+    "category": "Eistee",
+    "subcategories": ["Zero Pfirsich"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002867508",
+    "name": "Rauch Eistee Zero Zitrone",
+    "category": "Eistee",
+    "subcategories": ["Zero Zitrone"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002867492",
+    "name": "Rauch Eistee Zero Zitrone",
+    "category": "Eistee",
+    "subcategories": ["Zero Zitrone"]
+  },
+  {
+    "store": "spar",
+    "id": "3109144",
+    "name": "Rauch Eistee Zitrone",
+    "category": "Eistee",
+    "subcategories": ["Zitrone"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003214264",
+    "name": "Rauch Eistee Zitrone",
+    "category": "Eistee",
+    "subcategories": ["Zitrone"]
+  },
+  {
+    "store": "spar",
+    "id": "4104759",
+    "name": "Rauch Eistee Zitrone",
+    "category": "Eistee",
+    "subcategories": ["Zitrone"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001126620",
+    "name": "Rauch Eistee Zitrone",
+    "category": "Eistee",
+    "subcategories": ["Zitrone"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004552303",
+    "name": "Rauch Eistee ice mints raspberry taste",
+    "category": "Eistee",
+    "subcategories": ["ice mints", "Raspberry Taste"]
+  },
+  {
+    "store": "spar",
+    "id": "239158",
+    "name": "Rauch Halb-Halb Apfel-Orange",
+    "category": "Fruchtsaft",
+    "subcategories": ["Halb-Halb", "Apfel-Orange"]
+  },
+  {
+    "store": "spar",
+    "id": "73158",
+    "name": "Rauch Happy Day 100% Ananas",
+    "category": "Fruchtsaft",
+    "subcategories": ["Ananas"]
+  },
+  {
+    "store": "spar",
+    "id": "7094729",
+    "name": "Rauch Happy Day 100% Apfelsaft",
+    "category": "Fruchtsaft",
+    "subcategories": ["Apfelsaft"]
+  },
+  {
+    "store": "spar",
+    "id": "1209082",
+    "name": "Rauch Happy Day 100% Bio-Apfel 3 x 0,2L",
+    "category": "Fruchtsaft",
+    "subcategories": ["Bio-Apfel"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003676802",
+    "name": "Rauch Happy Day 100% Bio-Apfelsaft 3x0,2l",
+    "category": "Fruchtsaft",
+    "subcategories": ["Bio-Apfelsaft"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003589843",
+    "name": "Rauch Happy Day 100% Multivitaminsaft",
+    "category": "Fruchtsaft",
+    "subcategories": ["Multivitaminsaft"]
+  },
+  {
+    "store": "spar",
+    "id": "7301544",
+    "name": "Rauch Happy Day 100% Orange 3 x 0,2l",
+    "category": "Fruchtsaft",
+    "subcategories": ["Orange"]
+  },
+  {
+    "store": "spar",
+    "id": "598095",
+    "name": "Rauch Happy Day 100% Orangensaft",
+    "category": "Fruchtsaft",
+    "subcategories": ["Orangensaft"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003589799",
+    "name": "Rauch Happy Day 100% Orangensaft",
+    "category": "Fruchtsaft",
+    "subcategories": ["Orangensaft"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001865550",
+    "name": "Rauch Happy Day 100% Orangensaft",
+    "category": "Fruchtsaft",
+    "subcategories": ["Orangensaft"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003676772",
+    "name": "Rauch Happy Day 100% Orangensaft",
+    "category": "Fruchtsaft",
+    "subcategories": ["Orangensaft"]
+  },
+  {
+    "store": "spar",
+    "id": "7549823",
+    "name": "Rauch Happy Day 100% Rote Traube",
+    "category": "Fruchtsaft",
+    "subcategories": ["Rote Traube"]
+  },
+  {
+    "store": "spar",
+    "id": "3108680",
+    "name": "Rauch Happy Day Apfel Sprizz",
+    "category": "Fruchtsaft",
+    "subcategories": ["Apfel Sprizz"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001817627",
+    "name": "Rauch Happy Day Apfel Sprizz",
+    "category": "Fruchtsaft",
+    "subcategories": ["Apfel Sprizz"]
+  },
+  {
+    "store": "spar",
+    "id": "7025051",
+    "name": "Rauch Happy Day Apfel mild",
+    "category": "Fruchtsaft",
+    "subcategories": ["Apfel"]
+  },
+  {
+    "store": "spar",
+    "id": "306386",
+    "name": "Rauch Happy Day Apfelsaft",
+    "category": "Fruchtsaft",
+    "subcategories": ["Apfelsaft"]
+  },
+  {
+    "store": "spar",
+    "id": "5206063",
+    "name": "Rauch Happy Day Apfelsaft trüb",
+    "category": "Fruchtsaft",
+    "subcategories": ["Apfelsaft trüb"]
+  },
+  {
+    "store": "spar",
+    "id": "6610074",
+    "name": "Rauch Happy Day Banane",
+    "category": "Fruchtsaft",
+    "subcategories": ["Banane"]
+  },
+  {
+    "store": "spar",
+    "id": "7549878",
+    "name": "Rauch Happy Day Birne",
+    "category": "Fruchtsaft",
+    "subcategories": ["Birne"]
+  },
+  {
+    "store": "spar",
+    "id": "7937866",
+    "name": "Rauch Happy Day Cocos Ananas",
+    "category": "Fruchtsaft",
+    "subcategories": ["Cocos Ananas"]
+  },
+  {
+    "store": "spar",
+    "id": "6042738",
+    "name": "Rauch Happy Day Cranberry",
+    "category": "Fruchtsaft",
+    "subcategories": ["Cranberry"]
+  },
+  {
+    "store": "spar",
+    "id": "5839315",
+    "name": "Rauch Happy Day Erdbeere",
+    "category": "Fruchtsaft",
+    "subcategories": ["Erdbeere"]
+  },
+  {
+    "store": "spar",
+    "id": "6429874",
+    "name": "Rauch Happy Day Granatapfel",
+    "category": "Fruchtsaft",
+    "subcategories": ["Granatapfel"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001011278",
+    "name": "Rauch Happy Day Himbeer",
+    "category": "Fruchtsaft",
+    "subcategories": ["Himbeer"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001817719",
+    "name": "Rauch Happy Day Holunder Limette Sprizz",
+    "category": "Fruchtsaft",
+    "subcategories": ["Holunder Limette Sprizz"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001747818",
+    "name": "Rauch Happy Day Holunderblüte Limette Sprizz",
+    "category": "Fruchtsaft",
+    "subcategories": ["Holunderblüte Limette Sprizz"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004340153",
+    "name": "Rauch Happy Day Immun Eisen",
+    "category": "Fruchtsaft",
+    "subcategories": ["Immun Eisen"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003569159",
+    "name": "Rauch Happy Day Immun Plus",
+    "category": "Fruchtsaft",
+    "subcategories": ["Immun Plus"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003983818",
+    "name": "Rauch Happy Day Immun vital",
+    "category": "Fruchtsaft",
+    "subcategories": ["Immun vital"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001817696",
+    "name": "Rauch Happy Day Johannis Sprizz",
+    "category": "Fruchtsaft",
+    "subcategories": ["Johannis Sprizz"]
+  },
+  {
+    "store": "spar",
+    "id": "3344231",
+    "name": "Rauch Happy Day Johannisbeer Spritzer",
+    "category": "Fruchtsaft",
+    "subcategories": ["Johannisbeer Spritzer"]
+  },
+  {
+    "store": "spar",
+    "id": "4568889",
+    "name": "Rauch Happy Day Kirsche",
+    "category": "Fruchtsaft",
+    "subcategories": ["Kirsche"]
+  },
+  {
+    "store": "spar",
+    "id": "4341994",
+    "name": "Rauch Happy Day Mango",
+    "category": "Fruchtsaft",
+    "subcategories": ["Mango"]
+  },
+  {
+    "store": "spar",
+    "id": "1190007",
+    "name": "Rauch Happy Day Mango Sprizz",
+    "category": "Fruchtsaft",
+    "subcategories": ["Mango Sprizz"]
+  },
+  {
+    "store": "spar",
+    "id": "6037253",
+    "name": "Rauch Happy Day Maracuja",
+    "category": "Fruchtsaft",
+    "subcategories": ["Maracuja"]
+  },
+  {
+    "store": "spar",
+    "id": "7549854",
+    "name": "Rauch Happy Day Marille",
+    "category": "Fruchtsaft",
+    "subcategories": ["Marille"]
+  },
+  {
+    "store": "spar",
+    "id": "5519873",
+    "name": "Rauch Happy Day Multivitamin",
+    "category": "Fruchtsaft",
+    "subcategories": ["Multivitamin"]
+  },
+  {
+    "store": "spar",
+    "id": "517638",
+    "name": "Rauch Happy Day Multivitamin",
+    "category": "Fruchtsaft",
+    "subcategories": ["Multivitamin"]
+  },
+  {
+    "store": "spar",
+    "id": "7558214",
+    "name": "Rauch Happy Day Multivitamin mild",
+    "category": "Fruchtsaft",
+    "subcategories": ["Multivitamin mild"]
+  },
+  {
+    "store": "spar",
+    "id": "6273507",
+    "name": "Rauch Happy Day Orange",
+    "category": "Fruchtsaft",
+    "subcategories": ["Orange"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002865153",
+    "name": "Rauch Happy Day Orange - Maracuja",
+    "category": "Fruchtsaft",
+    "subcategories": ["Orange - Maracuja"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002012557",
+    "name": "Rauch Happy Day Orange Mango",
+    "category": "Fruchtsaft",
+    "subcategories": ["Orange Mango"]
+  },
+  {
+    "store": "spar",
+    "id": "6623227",
+    "name": "Rauch Happy Day Orange mild",
+    "category": "Fruchtsaft",
+    "subcategories": ["Orangensaft"]
+  },
+  {
+    "store": "spar",
+    "id": "237048",
+    "name": "Rauch Happy Day Orangensaft",
+    "category": "Fruchtsaft",
+    "subcategories": ["Orangensaft"]
+  },
+  {
+    "store": "spar",
+    "id": "3759905",
+    "name": "Rauch Happy Day Orangensaft mit Fruchtfleisch",
+    "category": "Fruchtsaft",
+    "subcategories": ["Orangensaft"]
+  },
+  {
+    "store": "spar",
+    "id": "5498062",
+    "name": "Rauch Happy Day Pfirsich",
+    "category": "Fruchtsaft",
+    "subcategories": ["Pfirsich"]
+  },
+  {
+    "store": "spar",
+    "id": "6042691",
+    "name": "Rauch Happy Day Pink Grapefruit",
+    "category": "Fruchtsaft",
+    "subcategories": ["Pink Grapefruit"]
+  },
+  {
+    "store": "spar",
+    "id": "2025520",
+    "name": "Rauch Happy Day Pink Guave",
+    "category": "Fruchtsaft",
+    "subcategories": ["Pink Guave"]
+  },
+  {
+    "store": "spar",
+    "id": "7037474",
+    "name": "Rauch Happy Day Roter Mulitvitamin",
+    "category": "Fruchtsaft",
+    "subcategories": ["Roter Multivitamin"]
+  },
+  {
+    "store": "spar",
+    "id": "237741",
+    "name": "Rauch Happy Day Schwarze Johannisbeere",
+    "category": "Fruchtsaft",
+    "subcategories": ["Schwarze Johannisbeere"]
+  },
+  {
+    "store": "spar",
+    "id": "7374142",
+    "name": "Rauch Happy Day Sprizz Marille",
+    "category": "Fruchtsaft",
+    "subcategories": ["Sprizz Marille"]
+  },
+  {
+    "store": "spar",
+    "id": "279598",
+    "name": "Rauch Happy Day Tomatensaft",
+    "category": "Fruchtsaft",
+    "subcategories": ["Tomatensaft"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003983795",
+    "name": "Rauch Happy Day immun aktiv",
+    "category": "Fruchtsaft",
+    "subcategories": ["Immun aktiv"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004614070",
+    "name": "Rauch Juice Bar +25% Oat Drink Apfel Traube Himbeere",
+    "category": "Fruchtsaft",
+    "subcategories": ["+25% Oat Drink Apfel Traube Himbeere"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004723536",
+    "name": "Rauch Juice Bar +25% Oat Drink Apple, Grape, Kiwi",
+    "category": "Fruchtsaft",
+    "subcategories": ["+25% Oat Drink Apple, Grape, Kiwi"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004614193",
+    "name": "Rauch Juice Bar +25% Oat Drink Orange Mango Maracuja",
+    "category": "Fruchtsaft",
+    "subcategories": ["+25% Oat Drink Orange Mango Maracuja"]
+  },
+  {
+    "store": "spar",
+    "id": "6225544",
+    "name": "Rauch Juice Bar Blutorange Blutorange",
+    "category": "Fruchtsaft",
+    "subcategories": ["Blutorange Blutorange"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002493349",
+    "name": "Rauch Juice Bar Früchtetee Heidelbeer-Himbeer",
+    "category": "Fruchtsaft",
+    "subcategories": ["Früchtetee Heidelbeer-Himbeer"]
+  },
+  {
+    "store": "spar",
+    "id": "6225650",
+    "name": "Rauch Juice Bar Orange",
+    "category": "Fruchtsaft",
+    "subcategories": ["Orange"]
+  },
+  {
+    "store": "spar",
+    "id": "2020000568803",
+    "name": "Rauch Juice Bar Orange Mango Karotte",
+    "category": "Fruchtsaft",
+    "subcategories": ["Orange Mango Karotte"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002485283",
+    "name": "Rauch Juice Bar Orange Mango Maracuja",
+    "category": "Fruchtsaft",
+    "subcategories": ["Orange Mango Maracuja"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003153792",
+    "name": "Rauch Juice Bar Pink Dragon",
+    "category": "Fruchtsaft",
+    "subcategories": ["Pink Dragon"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003760778",
+    "name": "Rauch Juice Bar Saft Berry Booster",
+    "category": "Fruchtsaft",
+    "subcategories": ["Saft Berry Booster"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003760723",
+    "name": "Rauch Juice Bar Saft Immunizer",
+    "category": "Fruchtsaft",
+    "subcategories": ["Saft Immunizer"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002493240",
+    "name": "Rauch Juice Bar Schwarztee Zitrone Ingwer",
+    "category": "Fruchtsaft",
+    "subcategories": ["Schwarztee Zitrone Ingwer"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002867560",
+    "name": "Rauch Juice Bar Weisser Tee Maracuja Pfirsich",
+    "category": "Fruchtsaft",
+    "subcategories": ["Weisser Tee Maracuja Pfirsich"]
+  },
+  {
+    "store": "spar",
+    "id": "3201169",
+    "name": "Rauch Nativa Green Tea Lemon",
+    "category": "Tee",
+    "subcategories": ["Green Tea Lemon"]
+  },
+  {
+    "store": "spar",
+    "id": "3344255",
+    "name": "Rauch Nativa Green Tea Lemon",
+    "category": "Tee",
+    "subcategories": ["Green Tea Lemon"]
+  },
+  {
+    "store": "spar",
+    "id": "3180808",
+    "name": "Rauch Sport Isotonic Citrus Power",
+    "category": "Sportgetränk",
+    "subcategories": ["Isotonic Citrus Power"]
+  },
+  {
+    "store": "spar",
+    "id": "6881450",
+    "name": "Rauch Sport Isotonic Wild Berries",
+    "category": "Sportgetränk",
+    "subcategories": ["Isotonic Wild Berries"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003767630",
+    "name": "Rauch Yippy Berries",
+    "category": "Fruchtsaft",
+    "subcategories": ["Berries"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004246608",
+    "name": "Rauch Yippy Drachenstark Drachenstark",
+    "category": "Fruchtsaft",
+    "subcategories": ["Drachenstark"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002340308",
+    "name": "Rauch Yippy Erdbeere",
+    "category": "Fruchtsaft",
+    "subcategories": ["Erdbeere"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004246592",
+    "name": "Rauch Yippy Glitzerhorn",
+    "category": "Fruchtsaft",
+    "subcategories": ["Glitzerhorn"]
+  },
+  {
+    "store": "spar",
+    "id": "7834547",
+    "name": "Rauch Yippy Kirsche",
+    "category": "Fruchtsaft",
+    "subcategories": ["Kirsche"]
+  },
+  {
+    "store": "spar",
+    "id": "7834578",
+    "name": "Rauch Yippy Multi",
+    "category": "Fruchtsaft",
+    "subcategories": ["Multi"]
+  },
+  {
+    "store": "spar",
+    "id": "6398309",
+    "name": "Rauch Yippy Party Cherry",
+    "category": "Fruchtsaft",
+    "subcategories": ["Party Cherry"]
+  },
+  {
+    "store": "spar",
+    "id": "6398439",
+    "name": "Rauch Yippy Party White Grape",
+    "category": "Fruchtsaft",
+    "subcategories": ["Party White Grape"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003767661",
+    "name": "Rauch Yippy Pfirsich",
+    "category": "Fruchtsaft",
+    "subcategories": ["Pfirsich"]
+  },
+  {
+    "store": "spar",
+    "id": "2381169",
+    "name": "Rauch Yippy Red Berries",
+    "category": "Fruchtsaft",
+    "subcategories": ["Red Berries"]
+  },
+  {
+    "store": "spar",
+    "id": "6880897",
+    "name": "Red Bull Energy Drink",
+    "category": "Energy Drink",
+    "subcategories": []
+  },
+  {
+    "store": "spar",
+    "id": "151238",
+    "name": "Red Bull Energy Drink",
+    "category": "Energy Drink",
+    "subcategories": []
+  },
+  {
+    "store": "spar",
+    "id": "6056421",
+    "name": "Red Bull Energy Drink",
+    "category": "Energy Drink",
+    "subcategories": []
+  }
+]

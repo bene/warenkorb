@@ -1,0 +1,702 @@
+[
+  {
+    "store": "spar",
+    "id": "8154811",
+    "name": "Donau Stehsammler Kunststoff transparent",
+    "category": "Büromaterial",
+    "subcategories": ["Stehsammler", "Kunststoff", "transparent"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002414108",
+    "name": "Donau Zählrahmen Holz",
+    "category": "Büromaterial",
+    "subcategories": ["Zählrahmen", "Holz"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003675171",
+    "name": "Gelstifte Premium 24 Farben Gelstifte Set 24er GVE 6",
+    "category": "Schreibwaren",
+    "subcategories": ["Gelstifte", "Premium", "24 Farben", "Set"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003061578",
+    "name": "Birkmann 3D-Backform Tanne Tini Glam. Edt.",
+    "category": "Küchenutensilien",
+    "subcategories": ["3D-Backform", "Tanne", "Tini Glam. Edt."]
+  },
+  {
+    "store": "spar",
+    "id": "2020003428814",
+    "name": "Birkmann Anisrolle \"Weihnachten\" mit 12 Motiven",
+    "category": "Küchenutensilien",
+    "subcategories": ["Anisrolle", "\"Weihnachten\"", "12 Motiven"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003422614",
+    "name": "Birkmann Backform 3D Traktor Kalle",
+    "category": "Küchenutensilien",
+    "subcategories": ["Backform", "3D", "Traktor", "Kalle"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002988265",
+    "name": "Birkmann Baguetteblech",
+    "category": "Küchenutensilien",
+    "subcategories": ["Baguetteblech"]
+  },
+  {
+    "store": "spar",
+    "id": "8154798",
+    "name": "HAN Briefkorb transparent",
+    "category": "Büromaterial",
+    "subcategories": ["Briefkorb", "transparent"]
+  },
+  {
+    "store": "spar",
+    "id": "3462522",
+    "name": "HEFTSCHONER QUER S1 Musikheft, farblos Heftschoner queMusikh.&Form.S1 GVE 10",
+    "category": "Schreibwaren",
+    "subcategories": ["Heftschoner", "Musikheft", "farblos", "S1"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001005932",
+    "name": "HP Druckerpatone Multi 62-BK + 62-CL",
+    "category": "Druckerzubehör",
+    "subcategories": ["Druckerpatrone", "Multi", "62-BK", "62-CL"]
+  },
+  {
+    "store": "spar",
+    "id": "5814060",
+    "name": "HP Druckerpatrone 21-BK",
+    "category": "Druckerzubehör",
+    "subcategories": ["Druckerpatrone", "21-BK"]
+  },
+  {
+    "store": "spar",
+    "id": "5814077",
+    "name": "HP Druckerpatrone 22-CL",
+    "category": "Druckerzubehör",
+    "subcategories": ["Druckerpatrone", "22-CL"]
+  },
+  {
+    "store": "spar",
+    "id": "7596025",
+    "name": "HP Druckerpatrone 301-BK",
+    "category": "Druckerzubehör",
+    "subcategories": ["Druckerpatrone", "301-BK"]
+  },
+  {
+    "store": "spar",
+    "id": "1065886",
+    "name": "HP Druckerpatrone 301-BK XL",
+    "category": "Druckerzubehör",
+    "subcategories": ["Druckerpatrone", "301-BK XL"]
+  },
+  {
+    "store": "spar",
+    "id": "7596049",
+    "name": "HP Druckerpatrone 301-CL",
+    "category": "Druckerzubehör",
+    "subcategories": ["Druckerpatrone", "301-CL"]
+  },
+  {
+    "store": "spar",
+    "id": "1065848",
+    "name": "HP Druckerpatrone 301-CL XL",
+    "category": "Druckerzubehör",
+    "subcategories": ["Druckerpatrone", "301-CL XL"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001384716",
+    "name": "HP Druckerpatrone 302-BK",
+    "category": "Druckerzubehör",
+    "subcategories": ["Druckerpatrone", "302-BK"]
+  },
+  {
+    "store": "spar",
+    "id": "2020000882398",
+    "name": "HP Druckerpatrone 302-BK XL",
+    "category": "Druckerzubehör",
+    "subcategories": ["Druckerpatrone", "302-BK XL"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001384709",
+    "name": "HP Druckerpatrone 302-CL",
+    "category": "Druckerzubehör",
+    "subcategories": ["Druckerpatrone", "302-CL"]
+  },
+  {
+    "store": "spar",
+    "id": "2020000882336",
+    "name": "HP Druckerpatrone 302-CL XL",
+    "category": "Druckerzubehör",
+    "subcategories": ["Druckerpatrone", "302-CL XL"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002248079",
+    "name": "HP Druckerpatrone 303-BK",
+    "category": "Druckerzubehör",
+    "subcategories": ["Druckerpatrone", "303-BK"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002248123",
+    "name": "HP Druckerpatrone 303-CL",
+    "category": "Druckerzubehör",
+    "subcategories": ["Druckerpatrone", "303-CL"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001353613",
+    "name": "HP Druckerpatrone 304-BK",
+    "category": "Druckerzubehör",
+    "subcategories": ["Druckerpatrone", "304-BK"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001353637",
+    "name": "HP Druckerpatrone 304-BK XL",
+    "category": "Druckerzubehör",
+    "subcategories": ["Druckerpatrone", "304-BK XL"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001353606",
+    "name": "HP Druckerpatrone 304-CL",
+    "category": "Druckerzubehör",
+    "subcategories": ["Druckerpatrone", "304-CL"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001353620",
+    "name": "HP Druckerpatrone 304-CL XL",
+    "category": "Druckerzubehör",
+    "subcategories": ["Druckerpatrone", "304-CL XL"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003621000",
+    "name": "HP Druckerpatrone 305 BK",
+    "category": "Druckerzubehör",
+    "subcategories": ["Druckerpatrone", "305 BK"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003620768",
+    "name": "HP Druckerpatrone 305 BK XL",
+    "category": "Druckerzubehör",
+    "subcategories": ["Druckerpatrone", "305 BK XL"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003620324",
+    "name": "HP Druckerpatrone 305 CL",
+    "category": "Druckerzubehör",
+    "subcategories": ["Druckerpatrone", "305 CL"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003621222",
+    "name": "HP Druckerpatrone 305 CL XL",
+    "category": "Druckerzubehör",
+    "subcategories": ["Druckerpatrone", "305 CL XL"]
+  },
+  {
+    "store": "spar",
+    "id": "6461287",
+    "name": "HP Druckerpatrone 350-BK",
+    "category": "Druckerzubehör",
+    "subcategories": ["Druckerpatrone", "350-BK"]
+  },
+  {
+    "store": "spar",
+    "id": "6654610",
+    "name": "HP Druckerpatrone 351-CL",
+    "category": "Druckerzubehör",
+    "subcategories": ["Druckerpatrone", "351-CL"]
+  },
+  {
+    "store": "spar",
+    "id": "6832933",
+    "name": "HP Druckerpatrone 364-BK",
+    "category": "Druckerzubehör",
+    "subcategories": ["Druckerpatrone", "364-BK"]
+  },
+  {
+    "store": "spar",
+    "id": "7749544",
+    "name": "HP Druckerpatrone 364-BK XL",
+    "category": "Druckerzubehör",
+    "subcategories": ["Druckerpatrone", "364-BK XL"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003313356",
+    "name": "HP Druckerpatrone 62-BK",
+    "category": "Druckerzubehör",
+    "subcategories": ["Druckerpatrone", "62-BK"]
+  },
+  {
+    "store": "spar",
+    "id": "2020000552116",
+    "name": "HP Druckerpatrone 62-BK XL",
+    "category": "Druckerzubehör",
+    "subcategories": ["Druckerpatrone", "62-BK XL"]
+  },
+  {
+    "store": "spar",
+    "id": "2020000552109",
+    "name": "HP Druckerpatrone 62-CL XL",
+    "category": "Druckerzubehör",
+    "subcategories": ["Druckerpatrone", "62-CL XL"]
+  },
+  {
+    "store": "spar",
+    "id": "3970584",
+    "name": "HP Druckerpatrone 932-BK XL",
+    "category": "Druckerzubehör",
+    "subcategories": ["Druckerpatrone", "932-BK XL"]
+  },
+  {
+    "store": "spar",
+    "id": "3970874",
+    "name": "HP Druckerpatrone 950-BK XL",
+    "category": "Druckerzubehör",
+    "subcategories": ["Druckerpatrone", "950-BK XL"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002331054",
+    "name": "HP Druckerpatrone Ink Nr. 903 BK XL",
+    "category": "Druckerzubehör",
+    "subcategories": ["Druckerpatrone", "Ink Nr. 903 BK XL"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002331061",
+    "name": "HP Druckerpatrone Ink Nr. 903 CY XL",
+    "category": "Druckerzubehör",
+    "subcategories": ["Druckerpatrone", "Ink Nr. 903 CY XL"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002331085",
+    "name": "HP Druckerpatrone Ink Nr. 903 MA XL",
+    "category": "Druckerzubehör",
+    "subcategories": ["Druckerpatrone", "Ink Nr. 903 MA XL"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002331108",
+    "name": "HP Druckerpatrone Ink Nr. 903 YE XL",
+    "category": "Druckerzubehör",
+    "subcategories": ["Druckerpatrone", "Ink Nr. 903 YE XL"]
+  },
+  {
+    "store": "spar",
+    "id": "7596001",
+    "name": "HP Druckerpatrone Multi 300-BK + 300-CL",
+    "category": "Druckerzubehör",
+    "subcategories": ["Druckerpatrone", "Multi", "300-BK", "300-CL"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001005949",
+    "name": "HP Druckerpatrone Multi 301-BK + 301-CL",
+    "category": "Druckerzubehör",
+    "subcategories": ["Druckerpatrone", "Multi", "301-BK", "301-CL"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002248130",
+    "name": "HP Druckerpatrone Multi 302-BK + 302-CL",
+    "category": "Druckerzubehör",
+    "subcategories": ["Druckerpatrone", "Multi", "302-BK", "302-CL"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003313615",
+    "name": "HP Druckerpatrone Multi 303-BK + 301-CL",
+    "category": "Druckerzubehör",
+    "subcategories": ["Druckerpatrone", "Multi", "303-BK", "301-CL"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003313639",
+    "name": "HP Druckerpatrone Multi 304-BK + 304-CL",
+    "category": "Druckerzubehör",
+    "subcategories": ["Druckerpatrone", "Multi", "304-BK", "304-CL"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001005956",
+    "name": "HP Druckerpatrone Multi 364-C/M/Y/BK",
+    "category": "Druckerzubehör",
+    "subcategories": ["Druckerpatrone", "Multi", "364-C/M/Y/BK"]
+  },
+  {
+    "store": "spar",
+    "id": "7008672",
+    "name": "HP Fotopapier 10 x 15, 100 Blatt",
+    "category": "Büromaterial",
+    "subcategories": ["Fotopapier", "10 x 15", "100 Blatt"]
+  },
+  {
+    "store": "spar",
+    "id": "5310531",
+    "name": "HP Fotopapier A4 100 Blatt",
+    "category": "Büromaterial",
+    "subcategories": ["Fotopapier", "A4", "100 Blatt"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003747779",
+    "name": "HP Tintenpatrone 305 SW/C/G/M Multi",
+    "category": "Druckerzubehör",
+    "subcategories": ["Tintenpatrone", "305", "SW/C/G/M", "Multi"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003747649",
+    "name": "HP Tintenpatrone 903 sw/c/m/y - Multi",
+    "category": "Druckerzubehör",
+    "subcategories": ["Tintenpatrone", "903", "sw/c/m/y", "Multi"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003747540",
+    "name": "HP Tintenpatronen Multipack 932 sw/933 fabrig",
+    "category": "Druckerzubehör",
+    "subcategories": ["Tintenpatronen", "Multipack", "932 sw/933 fabrig"]
+  },
+  {
+    "store": "spar",
+    "id": "7414305",
+    "name": "Haarpinselset 6-teilig Pinselset 6tlg.Haar GVE 12",
+    "category": "Bastelbedarf",
+    "subcategories": ["Haarpinselset", "6-teilig", "Pinselset", "6tlg.Haar"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002280291",
+    "name": "Haftnotizen Mini Würfel Herz Haftnotiz Mini Wuerfel Herz GVE 10",
+    "category": "Büromaterial",
+    "subcategories": ["Haftnotizen", "Mini", "Würfel", "Herz"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001626885",
+    "name": "Haftnotizen Würfel Pfeil Haftnotizen Wuerfel Pfeil GVE 10",
+    "category": "Büromaterial",
+    "subcategories": ["Haftnotizen", "Würfel", "Pfeil"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003694127",
+    "name": "Haftnotizen gelb 125 x 75 mm 100 Blatt Haftnotizen 125x75mm 100Bl. GVE 12",
+    "category": "Büromaterial",
+    "subcategories": ["Haftnotizen", "gelb", "125 x 75 mm", "100 Blatt"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002811372",
+    "name": "Haftnotizen gelb 50 x 40 mm 3 Stk. Haftnotizen 3ergelb 50x40mm GVE 4",
+    "category": "Büromaterial",
+    "subcategories": ["Haftnotizen", "gelb", "50 x 40 mm", "3 Stk."]
+  },
+  {
+    "store": "spar",
+    "id": "2020003525520",
+    "name": "Hagi Care Popo Schaum 30ml",
+    "category": "Körperpflege",
+    "subcategories": ["Hagi Care", "Popo Schaum", "30ml"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003525544",
+    "name": "Hagi Care Popo Schaum Nachfüller 30ml",
+    "category": "Körperpflege",
+    "subcategories": ["Hagi Care", "Popo Schaum", "Nachfüller", "30ml"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004069061",
+    "name": "HERRMANNS Hundenahrung Bio Huhn mit Reis 800g",
+    "category": "Tierbedarf",
+    "subcategories": ["Hundenahrung", "Bio", "Huhn mit Reis", "800g"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004069115",
+    "name": "HERRMANNS Hundenahrung Bio Pute mit Kartoffel 800g",
+    "category": "Tierbedarf",
+    "subcategories": ["Hundenahrung", "Bio", "Pute mit Kartoffel", "800g"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003537660",
+    "name": "Hajszan Zweigelt Nussberg",
+    "category": "Getränke",
+    "subcategories": ["Hajszan", "Zweigelt", "Nussberg"]
+  },
+  {
+    "store": "spar",
+    "id": "767927",
+    "name": "Harry Katen Katen",
+    "category": "Backwaren",
+    "subcategories": ["Harry", "Katen", "Katen"]
+  },
+  {
+    "store": "spar",
+    "id": "3183335",
+    "name": "Harry Korn an Korn Korn an Korn",
+    "category": "Backwaren",
+    "subcategories": ["Harry", "Korn an Korn"]
+  },
+  {
+    "store": "spar",
+    "id": "767965",
+    "name": "Harry Sonnenkern",
+    "category": "Backwaren",
+    "subcategories": ["Harry", "Sonnenkern"]
+  },
+  {
+    "store": "spar",
+    "id": "298292",
+    "name": "Harry Steinofenbrot",
+    "category": "Backwaren",
+    "subcategories": ["Harry", "Steinofenbrot"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003735851",
+    "name": "Harry Vital + Fit geschnitten",
+    "category": "Backwaren",
+    "subcategories": ["Harry", "Vital + Fit", "geschnitten"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002680961",
+    "name": "Hanauer BIO-Linzertorte",
+    "category": "Backwaren",
+    "subcategories": ["Hanauer", "BIO-Linzertorte"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003627941",
+    "name": "Hakuma Focus Mango",
+    "category": "Getränke",
+    "subcategories": ["Hakuma", "Focus", "Mango"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004307866",
+    "name": "Hakuma Passion Peach",
+    "category": "Getränke",
+    "subcategories": ["Hakuma", "Passion", "Peach"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003348440",
+    "name": "Haku 0,7 L",
+    "category": "Getränke",
+    "subcategories": ["Haku", "0,7 L"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003820700",
+    "name": "Hatozaki 0,7 L",
+    "category": "Getränke",
+    "subcategories": ["Hatozaki", "0,7 L"]
+  },
+  {
+    "store": "spar",
+    "id": "932479",
+    "name": "Hauser Tradition Enzianschnaps",
+    "category": "Spirituosen",
+    "subcategories": ["Hauser Tradition", "Enzianschnaps"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003484315",
+    "name": "Hauser Tradition Haselnuss",
+    "category": "Spirituosen",
+    "subcategories": ["Hauser Tradition", "Haselnuss"]
+  },
+  {
+    "store": "spar",
+    "id": "70805",
+    "name": "Hauser Tradition Himbeergeist",
+    "category": "Spirituosen",
+    "subcategories": ["Hauser Tradition", "Himbeergeist"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003484308",
+    "name": "Hauser Tradition Marillen-Schnaps mit Honig",
+    "category": "Spirituosen",
+    "subcategories": ["Hauser Tradition", "Marillen-Schnaps", "Honig"]
+  },
+  {
+    "store": "spar",
+    "id": "7677717",
+    "name": "Hauser Tradition Marillenschnaps",
+    "category": "Spirituosen",
+    "subcategories": ["Hauser Tradition", "Marillenschnaps"]
+  },
+  {
+    "store": "spar",
+    "id": "70829",
+    "name": "Hauser Tradition Obstschnaps",
+    "category": "Spirituosen",
+    "subcategories": ["Hauser Tradition", "Obstschnaps"]
+  },
+  {
+    "store": "spar",
+    "id": "809191",
+    "name": "Hauser Tradition Vogelbeerschnaps",
+    "category": "Spirituosen",
+    "subcategories": ["Hauser Tradition", "Vogelbeerschnaps"]
+  },
+  {
+    "store": "spar",
+    "id": "1590425",
+    "name": "Hauser Tradition Willi mit Honig",
+    "category": "Spirituosen",
+    "subcategories": ["Hauser Tradition", "Willi", "Honig"]
+  },
+  {
+    "store": "spar",
+    "id": "7678981",
+    "name": "Hauser Tradition Williamsbirnenschnaps",
+    "category": "Spirituosen",
+    "subcategories": ["Hauser Tradition", "Williamsbirnenschnaps"]
+  },
+  {
+    "store": "spar",
+    "id": "7683855",
+    "name": "Havana Club Anejo 3 YO",
+    "category": "Spirituosen",
+    "subcategories": ["Havana Club", "Anejo 3 YO"]
+  },
+  {
+    "store": "spar",
+    "id": "7689727",
+    "name": "Havana Club Anejo 7 YO",
+    "category": "Spirituosen",
+    "subcategories": ["Havana Club", "Anejo 7 YO"]
+  },
+  {
+    "store": "spar",
+    "id": "7680274",
+    "name": "Havana Club Añejo Especial",
+    "category": "Spirituosen",
+    "subcategories": ["Havana Club", "Añejo Especial"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003068669",
+    "name": "Haut Saint-Jacques Puisseguin Saint-Emilion 2019",
+    "category": "Lebensmittel",
+    "subcategories": ["Haut Saint-Jacques", "Puisseguin Saint-Emilion", "2019"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002685683",
+    "name": "Handl AMA Pausensticks Classic",
+    "category": "Lebensmittel",
+    "subcategories": ["Handl AMA", "Pausensticks", "Classic"]
+  },
+  {
+    "store": "spar",
+    "id": "7892356",
+    "name": "Handl Bauchspeck",
+    "category": "Lebensmittel",
+    "subcategories": ["Handl", "Bauchspeck"]
+  },
+  {
+    "store": "spar",
+    "id": "7386794",
+    "name": "Handl Bauchspeck",
+    "category": "Lebensmittel",
+    "subcategories": ["Handl", "Bauchspeck"]
+  },
+  {
+    "store": "spar",
+    "id": "5362776",
+    "name": "Handl Feine Speckwürfel 2 x 75g",
+    "category": "Lebensmittel",
+    "subcategories": ["Handl", "Feine Speckwürfel", "2 x 75g"]
+  },
+  {
+    "store": "spar",
+    "id": "5663293",
+    "name": "Handl Feiner Grillspeck",
+    "category": "Lebensmittel",
+    "subcategories": ["Handl", "Feiner Grillspeck"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001060375",
+    "name": "Handl Feinster Bacon",
+    "category": "Lebensmittel",
+    "subcategories": ["Handl", "Feinster Bacon"]
+  },
+  {
+    "store": "spar",
+    "id": "7386831",
+    "name": "Handl Karreespeck",
+    "category": "Lebensmittel",
+    "subcategories": ["Handl", "Karreespeck"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003189272",
+    "name": "Handl Kletter Maxi",
+    "category": "Lebensmittel",
+    "subcategories": ["Handl", "Kletter Maxi"]
+  },
+  {
+    "store": "spar",
+    "id": "7794834",
+    "name": "Handl Landjäger 2 Paar",
+    "category": "Lebensmittel",
+    "subcategories": ["Handl", "Landjäger", "2 Paar"]
+  },
+  {
+    "store": "spar",
+    "id": "8050144",
+    "name": "Handl Leichtes Karree",
+    "category": "Lebensmittel",
+    "subcategories": ["Handl", "Leichtes Karree"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001494651",
+    "name": "Handl Milde Tyrolini Vorteilspackung 4x40g",
+    "category": "Lebensmittel",
+    "subcategories": ["Handl", "Milde Tyrolini", "Vorteilspackung", "4x40g"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003189302",
+    "name": "Handl Pausensticks Chili 90g",
+    "category": "Lebensmittel",
+    "subcategories": ["Handl", "Pausensticks", "Chili", "90g"]
+  },
+  {
+    "store": "spar",
+    "id": "7386510",
+    "name": "Handl Schinkenspeck",
+    "category": "Lebensmittel",
+    "subcategories": ["Handl", "Schinkenspeck"]
+  }
+]

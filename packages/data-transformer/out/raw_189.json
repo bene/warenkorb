@@ -1,0 +1,716 @@
+[
+  {
+    "store": "spar",
+    "id": "2020002324506",
+    "name": "Pirulo Fun Box 8 Stück 442ml Packung",
+    "category": "Eis",
+    "subcategories": ["Pirulo", "Eis"]
+  },
+  {
+    "store": "spar",
+    "id": "7852954",
+    "name": "Pirulo Kaktus",
+    "category": "Eis",
+    "subcategories": ["Pirulo", "Eis"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003281631",
+    "name": "Pirulo Kaktus Parade 9 Stück 405ml Packung",
+    "category": "Eis",
+    "subcategories": ["Pirulo", "Eis"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003281648",
+    "name": "Pirulo Kaktus Pink 9 Stück 405ml",
+    "category": "Eis",
+    "subcategories": ["Pirulo", "Eis"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003713668",
+    "name": "Pirulo Pirulo Erdbeere 5 Stück 365ml",
+    "category": "Eis",
+    "subcategories": ["Pirulo", "Eis"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002794606",
+    "name": "Pirulo Pirulo Mini Tropical 6 Stück",
+    "category": "Eis",
+    "subcategories": ["Pirulo", "Eis"]
+  },
+  {
+    "store": "spar",
+    "id": "8212658",
+    "name": "Pirulo Pirulo Watermelon 5 Stück",
+    "category": "Eis",
+    "subcategories": ["Pirulo", "Eis"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004129765",
+    "name": "Pure & Fun Baby Wasser 1L",
+    "category": "Getränke",
+    "subcategories": ["Wasser", "Getränke"]
+  },
+  {
+    "store": "spar",
+    "id": "1569360",
+    "name": "Pearls of Samarkand Bio Fairtrade Sauerkirschen",
+    "category": "Snacks",
+    "subcategories": ["Sauerkirschen", "Snacks"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003199271",
+    "name": "Pischinger Knusper Nuss Oblaten",
+    "category": "Süßigkeiten",
+    "subcategories": ["Knusper Nuss", "Oblaten", "Süßigkeiten"]
+  },
+  {
+    "store": "spar",
+    "id": "5219100",
+    "name": "Pelzmann Sesamöl kaltgepresst",
+    "category": "Lebensmittel",
+    "subcategories": ["Sesamöl", "Lebensmittel"]
+  },
+  {
+    "store": "spar",
+    "id": "6280192",
+    "name": "Piranske Soline Meersalz",
+    "category": "Gewürze",
+    "subcategories": ["Meersalz", "Gewürze"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003180866",
+    "name": "Piranske Soline Traditionelles Meersalz",
+    "category": "Gewürze",
+    "subcategories": ["Meersalz", "Gewürze"]
+  },
+  {
+    "store": "spar",
+    "id": "2377087",
+    "name": "Pearls of Samarkand Bio Schwarzer Sesam",
+    "category": "Gewürze",
+    "subcategories": ["Schwarzer Sesam", "Gewürze"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003169564",
+    "name": "Pep Up Life Keimsaaten Mix Die Ausgewogenen 50G",
+    "category": "Lebensmittel",
+    "subcategories": ["Keimsaaten", "Lebensmittel"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003169601",
+    "name": "Pep Up Life Keimsaaten Mix Die Extrastarken 50G",
+    "category": "Lebensmittel",
+    "subcategories": ["Keimsaaten", "Lebensmittel"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003169618",
+    "name": "Pep Up Life Keimsaaten Mix Die Würzig-Frechen 50G",
+    "category": "Lebensmittel",
+    "subcategories": ["Keimsaaten", "Lebensmittel"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002406790",
+    "name": "Pep Up Life Sprossenbeutel Bio Alfalfa Die Quirlige",
+    "category": "Lebensmittel",
+    "subcategories": ["Sprossenbeutel", "Bio", "Alfalfa", "Lebensmittel"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002406820",
+    "name": "Pep Up Life Sprossenbeutel Bio Mix 1 Die Lebendige",
+    "category": "Lebensmittel",
+    "subcategories": ["Sprossenbeutel", "Bio", "Mix 1", "Lebensmittel"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002406813",
+    "name": "Pep Up Life Sprossenbeutel Bio Mix 2 Der Harmonische",
+    "category": "Lebensmittel",
+    "subcategories": ["Sprossenbeutel", "Bio", "Mix 2", "Lebensmittel"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002406806",
+    "name": "Pep Up Life Sprossenbeutel Bio Mungobohnen Der Sanfte\"",
+    "category": "Lebensmittel",
+    "subcategories": ["Sprossenbeutel", "Bio", "Mungobohnen", "Lebensmittel"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002406752",
+    "name": "Pep Up Life Sprossenbeutel Bio Radieschen Die Kräftige",
+    "category": "Lebensmittel",
+    "subcategories": ["Sprossenbeutel", "Bio", "Radieschen", "Lebensmittel"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003175749",
+    "name": "Pfandlkraut zu Bratl & Knödel 350 G",
+    "category": "Lebensmittel",
+    "subcategories": ["Pfandlkraut", "Bratl", "Knödel", "Lebensmittel"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003169588",
+    "name": "Pep Up Life Keimsaaten Mix Die Vielseitigen 50G",
+    "category": "Lebensmittel",
+    "subcategories": ["Keimsaaten", "Lebensmittel"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003419263",
+    "name": "Pep Up Life Bio-Knusper-Sprossen Salat Topping Paprika",
+    "category": "Lebensmittel",
+    "subcategories": [
+      "Bio-Knusper-Sprossen",
+      "Salat Topping",
+      "Paprika",
+      "Lebensmittel"
+    ]
+  },
+  {
+    "store": "spar",
+    "id": "2020003419089",
+    "name": "Pep Up Life Bio-Knusper-Sprossen Salat Topping Schnittlauch",
+    "category": "Lebensmittel",
+    "subcategories": [
+      "Bio-Knusper-Sprossen",
+      "Salat Topping",
+      "Schnittlauch",
+      "Lebensmittel"
+    ]
+  },
+  {
+    "store": "spar",
+    "id": "2020003762963",
+    "name": "Peeroton Riegel Crunchy Peanut",
+    "category": "Snacks",
+    "subcategories": ["Crunchy Peanut", "Snacks"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003635816",
+    "name": "Peeroton Riegel Haferflocken Berries",
+    "category": "Snacks",
+    "subcategories": ["Haferflocken", "Berries", "Snacks"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003635854",
+    "name": "Peeroton Riegel Haferflocken Schokolade",
+    "category": "Snacks",
+    "subcategories": ["Haferflocken", "Schokolade", "Snacks"]
+  },
+  {
+    "store": "spar",
+    "id": "7087479",
+    "name": "Pelzmann Apfelessig",
+    "category": "Essig",
+    "subcategories": ["Apfelessig", "Essig"]
+  },
+  {
+    "store": "spar",
+    "id": "7378782",
+    "name": "Pfanni Kartoffelpüree",
+    "category": "Lebensmittel",
+    "subcategories": ["Kartoffelpüree", "Lebensmittel"]
+  },
+  {
+    "store": "spar",
+    "id": "362702",
+    "name": "Pickfein Einlegeaufguss",
+    "category": "Essig",
+    "subcategories": ["Einlegeaufguss", "Essig"]
+  },
+  {
+    "store": "spar",
+    "id": "149112",
+    "name": "Pickfein Essig",
+    "category": "Essig",
+    "subcategories": ["Essig"]
+  },
+  {
+    "store": "spar",
+    "id": "3797891",
+    "name": "Pavesi Cracker Olive",
+    "category": "Snacks",
+    "subcategories": ["Cracker", "Olive", "Snacks"]
+  },
+  {
+    "store": "spar",
+    "id": "2060774",
+    "name": "Pearls of Samarkand Bio Fairtrade Tibet Mix",
+    "category": "Snacks",
+    "subcategories": ["Tibet Mix", "Snacks"]
+  },
+  {
+    "store": "spar",
+    "id": "7386299",
+    "name": "Penaten Baby Bad & Shampoo 400ml",
+    "category": "Baby",
+    "subcategories": ["Bad & Shampoo", "Baby"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001412723",
+    "name": "Penaten Baby Bad & Shampoo ultra sensitiv 400ml",
+    "category": "Baby",
+    "subcategories": ["Bad & Shampoo", "Baby"]
+  },
+  {
+    "store": "spar",
+    "id": "7386428",
+    "name": "Penaten Baby Gute-Nacht Bad Naturalcalm Aroma 400ml",
+    "category": "Baby",
+    "subcategories": ["Gute-Nacht Bad", "Naturalcalm Aroma", "Baby"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002230890",
+    "name": "Penaten Baby Intensiv Cremebad 400ml",
+    "category": "Baby",
+    "subcategories": ["Intensiv Cremebad", "Baby"]
+  },
+  {
+    "store": "spar",
+    "id": "7386558",
+    "name": "Penaten Baby Intensiv Pflegeöl mit Aloe-Vera 200ml",
+    "category": "Baby",
+    "subcategories": ["Intensiv Pflegeöl", "Aloe-Vera", "Baby"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001388738",
+    "name": "Penaten Baby Kamillebad 750ml",
+    "category": "Baby",
+    "subcategories": ["Kamillebad", "Baby"]
+  },
+  {
+    "store": "spar",
+    "id": "7387043",
+    "name": "Penaten Baby Pflegecreme Gesicht & Körper 100ml",
+    "category": "Baby",
+    "subcategories": ["Pflegecreme", "Gesicht & Körper", "Baby"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001412747",
+    "name": "Penaten Baby Pflegecreme intensiv Gesicht & Körper 100ml",
+    "category": "Baby",
+    "subcategories": ["Pflegecreme intensiv", "Gesicht & Körper", "Baby"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001412716",
+    "name": "Penaten Baby Pflegecreme ultra sensitiv Gesicht & Körper 100ml",
+    "category": "Baby",
+    "subcategories": ["Pflegecreme ultra sensitiv", "Gesicht & Körper", "Baby"]
+  },
+  {
+    "store": "spar",
+    "id": "7385049",
+    "name": "Penaten Baby Pflegelotion 400ml",
+    "category": "Baby",
+    "subcategories": ["Pflegelotion", "Baby"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001412730",
+    "name": "Penaten Baby Pflegelotion ultra sensitiv 400ml",
+    "category": "Baby",
+    "subcategories": ["Pflegelotion ultra sensitiv", "Baby"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001412341",
+    "name": "Penaten Baby Pflegeöl ultra sensitiv 200 ml",
+    "category": "Baby",
+    "subcategories": ["Pflegeöl ultra sensitiv", "Baby"]
+  },
+  {
+    "store": "spar",
+    "id": "7386961",
+    "name": "Penaten Baby Puder 100g",
+    "category": "Baby",
+    "subcategories": ["Puder", "Baby"]
+  },
+  {
+    "store": "spar",
+    "id": "7386626",
+    "name": "Penaten Baby SOS Creme mit Dex-Panthenol 75ml",
+    "category": "Baby",
+    "subcategories": ["SOS Creme", "Dex-Panthenol", "Baby"]
+  },
+  {
+    "store": "spar",
+    "id": "7388293",
+    "name": "Penaten Baby Seife 100g",
+    "category": "Baby",
+    "subcategories": ["Seife", "Baby"]
+  },
+  {
+    "store": "spar",
+    "id": "8034922",
+    "name": "Penaten Baby Shampoo extra mild 400ml",
+    "category": "Baby",
+    "subcategories": ["Shampoo", "Baby"]
+  },
+  {
+    "store": "spar",
+    "id": "7385926",
+    "name": "Penaten Baby Wind & Wetter Creme mit Calendula 75ml",
+    "category": "Baby",
+    "subcategories": ["Wind & Wetter Creme", "Calendula", "Baby"]
+  },
+  {
+    "store": "spar",
+    "id": "2020000912231",
+    "name": "Penaten Baby Wundschutzcreme mit Zinkoxid 200ml",
+    "category": "Baby",
+    "subcategories": ["Wundschutzcreme", "Zinkoxid", "Baby"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004498373",
+    "name": "Penaten Bad & Shampoo natursanft 395ml",
+    "category": "Baby",
+    "subcategories": ["Bad & Shampoo", "natursanft", "Baby"]
+  },
+  {
+    "store": "spar",
+    "id": "7386725",
+    "name": "Penaten Creme 150ml",
+    "category": "Baby",
+    "subcategories": ["Creme", "Baby"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004498403",
+    "name": "Penaten Massage- & Pflegeöl natursanft 200ml",
+    "category": "Baby",
+    "subcategories": ["Massage- & Pflegeöl", "natursanft", "Baby"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004498359",
+    "name": "Penaten Wundschutzcreme natursanft 75ml",
+    "category": "Baby",
+    "subcategories": ["Wundschutzcreme", "natursanft", "Baby"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002693770",
+    "name": "Perlweiss 2in1 Mundspülung Raucher Zahnweiß 500ml",
+    "category": "Zahnpflege",
+    "subcategories": ["Mundspülung", "Raucher Zahnweiß", "Zahnpflege"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003238444",
+    "name": "Perlweiss Zahnaufhellung Dental Bleaching",
+    "category": "Zahnpflege",
+    "subcategories": ["Zahnaufhellung", "Dental Bleaching", "Zahnpflege"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002487324",
+    "name": "Perlweiss Zahncreme Expert Weiss 50ml",
+    "category": "Zahnpflege",
+    "subcategories": ["Zahncreme", "Expert Weiss", "Zahnpflege"]
+  },
+  {
+    "store": "spar",
+    "id": "311359",
+    "name": "Perlweiss Zahncreme Raucher Zahnweiss 50ml",
+    "category": "Zahnpflege",
+    "subcategories": ["Zahncreme", "Raucher Zahnweiss", "Zahnpflege"]
+  },
+  {
+    "store": "spar",
+    "id": "264709",
+    "name": "Perlweiss Zahncreme Schönheitszahnweiß 50ml",
+    "category": "Zahnpflege",
+    "subcategories": ["Zahncreme", "Schönheitszahnweiß", "Zahnpflege"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003871665",
+    "name": "Perlweiss Zahncreme White & Charcoal 75ml",
+    "category": "Zahnpflege",
+    "subcategories": ["Zahncreme", "White & Charcoal", "Zahnpflege"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002612108",
+    "name": "Philips Elektrische Zahnbürste ProtectiveClean",
+    "category": "Elektronik",
+    "subcategories": ["Elektrische Zahnbürste", "ProtectiveClean", "Elektronik"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002003135",
+    "name": "Philips Sensitive Aufsteckbürste 4 Stück",
+    "category": "Elektronik",
+    "subcategories": ["Sensitive Aufsteckbürste", "Elektronik"]
+  },
+  {
+    "store": "spar",
+    "id": "2020000766070",
+    "name": "Philips Sonicare Aufsteckbürsten Diamond Clean 4 Stk",
+    "category": "Elektronik",
+    "subcategories": ["Sonicare Aufsteckbürsten", "Diamond Clean", "Elektronik"]
+  },
+  {
+    "store": "spar",
+    "id": "2020000635550",
+    "name": "Philips Sonicare Aufsteckbürsten Inter Care 4 Stk",
+    "category": "Elektronik",
+    "subcategories": ["Sonicare Aufsteckbürsten", "Inter Care", "Elektronik"]
+  },
+  {
+    "store": "spar",
+    "id": "2020000763369",
+    "name": "Philips Sonicare Aufsteckbürsten Pro Result 4 Stk",
+    "category": "Elektronik",
+    "subcategories": ["Sonicare Aufsteckbürsten", "Pro Result", "Elektronik"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001224944",
+    "name": "Philips Ersatzklinge OneBlade",
+    "category": "Rasierer",
+    "subcategories": ["Ersatzklinge", "OneBlade", "Rasierer"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003729508",
+    "name": "Philips Ersatzklinge OneBlade 2er",
+    "category": "Rasierer",
+    "subcategories": ["Ersatzklinge", "OneBlade", "Rasierer"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002498771",
+    "name": "Philips Rasierer Series 3000",
+    "category": "Rasierer",
+    "subcategories": ["Rasierer", "Series 3000"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002957018",
+    "name": "Philips Satinelle Essential Epilierer BRE225/00",
+    "category": "Körperpflege",
+    "subcategories": ["Satinelle Essential", "Epilierer", "Körperpflege"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003610110",
+    "name": "Pedi Maus Hornhautraspel",
+    "category": "Körperpflege",
+    "subcategories": ["Hornhautraspel", "Körperpflege"]
+  },
+  {
+    "store": "spar",
+    "id": "7915000",
+    "name": "Pattex Alleskleber Extreme Repair 8 g",
+    "category": "Klebstoff",
+    "subcategories": ["Alleskleber", "Extreme Repair", "Klebstoff"]
+  },
+  {
+    "store": "spar",
+    "id": "3525524",
+    "name": "Pattex Kleber",
+    "category": "Klebstoff",
+    "subcategories": ["Kleber", "Klebstoff"]
+  },
+  {
+    "store": "spar",
+    "id": "6083403",
+    "name": "Pattex Kraftkleber Classic 50 g",
+    "category": "Klebstoff",
+    "subcategories": ["Kraftkleber", "Classic", "Klebstoff"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002108717",
+    "name": "Peach Aktenvernichter Streifenschnitt PS400-00",
+    "category": "Bürobedarf",
+    "subcategories": ["Aktenvernichter", "Streifenschnitt", "Bürobedarf"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003747397",
+    "name": "Peach Laminiergerät Premium Laminator PL750 A4",
+    "category": "Bürobedarf",
+    "subcategories": ["Laminiergerät", "Premium Laminator", "Bürobedarf"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003260759",
+    "name": "Pelikan Buntstifte Combino 12 Farben",
+    "category": "Schreibwaren",
+    "subcategories": ["Buntstifte", "Combino", "Schreibwaren"]
+  },
+  {
+    "store": "spar",
+    "id": "338974",
+    "name": "Pelikan Deckfarbkasten 12 Farben",
+    "category": "Schreibwaren",
+    "subcategories": ["Deckfarbkasten", "Schreibwaren"]
+  },
+  {
+    "store": "spar",
+    "id": "2020000952220",
+    "name": "Pelikan Deckweiß 20ml",
+    "category": "Schreibwaren",
+    "subcategories": ["Deckweiß", "Schreibwaren"]
+  },
+  {
+    "store": "spar",
+    "id": "2958743",
+    "name": "Pelikan Fasermaler Colorella Duo 10 Farben",
+    "category": "Schreibwaren",
+    "subcategories": ["Fasermaler", "Colorella Duo", "Schreibwaren"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003754425",
+    "name": "Pelikan Füllfeder Pelikano Dragon M, Rechtshänder",
+    "category": "Schreibwaren",
+    "subcategories": ["Füllfeder", "Pelikano Dragon", "Schreibwaren"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003754371",
+    "name": "Pelikan Füllfeder Pelikano Magic Ocean M, Rechtshänder",
+    "category": "Schreibwaren",
+    "subcategories": ["Füllfeder", "Pelikano Magic Ocean", "Schreibwaren"]
+  },
+  {
+    "store": "spar",
+    "id": "7836985",
+    "name": "Pelikan Großraum-Tintenpatronen 4001 Königsblau 10 Stück",
+    "category": "Schreibwaren",
+    "subcategories": [
+      "Großraum-Tintenpatronen",
+      "4001 Königsblau",
+      "Schreibwaren"
+    ]
+  },
+  {
+    "store": "spar",
+    "id": "7981050",
+    "name": "Pelikan Kinder-Malschürze blau",
+    "category": "Kinder",
+    "subcategories": ["Kinder-Malschürze", "Kinder"]
+  },
+  {
+    "store": "spar",
+    "id": "7981043",
+    "name": "Pelikan Kinder-Malschürze rot",
+    "category": "Kinder",
+    "subcategories": ["Kinder-Malschürze", "Kinder"]
+  },
+  {
+    "store": "spar",
+    "id": "7837906",
+    "name": "Pelikan Radierer AL 20 1 Stück",
+    "category": "Schreibwaren",
+    "subcategories": ["Radierer", "AL 20", "Schreibwaren"]
+  },
+  {
+    "store": "spar",
+    "id": "6797263",
+    "name": "Pelikan Radierer BR 40 + WS30 2 Stück",
+    "category": "Schreibwaren",
+    "subcategories": ["Radierer", "BR 40", "WS30", "Schreibwaren"]
+  },
+  {
+    "store": "spar",
+    "id": "7837159",
+    "name": "Pelikan Radierer BR 40 2 Stück",
+    "category": "Schreibwaren",
+    "subcategories": ["Radierer", "BR 40", "Schreibwaren"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002408756",
+    "name": "Pelikan Schere Griffix Rechtshänder",
+    "category": "Schreibwaren",
+    "subcategories": ["Schere", "Griffix", "Rechtshänder", "Schreibwaren"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002376413",
+    "name": "Pelikan Schere Griffix Rechtshänder",
+    "category": "Schreibwaren",
+    "subcategories": ["Schere", "Griffix", "Rechtshänder", "Schreibwaren"]
+  },
+  {
+    "store": "spar",
+    "id": "7839269",
+    "name": "Pelikan Textmarker 490 4 Stück",
+    "category": "Schreibwaren",
+    "subcategories": ["Textmarker", "490", "Schreibwaren"]
+  },
+  {
+    "store": "spar",
+    "id": "2241357",
+    "name": "Pelikan Tintenlöscher Super Pirat breit 2 Stück",
+    "category": "Schreibwaren",
+    "subcategories": ["Tintenlöscher", "Super Pirat", "breit", "Schreibwaren"]
+  },
+  {
+    "store": "spar",
+    "id": "7843181",
+    "name": "Pelikan Tintenlöscher Super Pirat fein 2 Stück",
+    "category": "Schreibwaren",
+    "subcategories": ["Tintenlöscher", "Super Pirat", "fein", "Schreibwaren"]
+  },
+  {
+    "store": "spar",
+    "id": "7817519",
+    "name": "Pelikan Tintenlöscher Super Sheriff Multi 2 Stück",
+    "category": "Schreibwaren",
+    "subcategories": ["Tintenlöscher", "Super Sheriff", "Multi", "Schreibwaren"]
+  },
+  {
+    "store": "spar",
+    "id": "7829970",
+    "name": "Pelikan Tintenpatronen 4001 Königsblau 12 Stück",
+    "category": "Schreibwaren",
+    "subcategories": ["Tintenpatronen", "4001 Königsblau", "Schreibwaren"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004077783",
+    "name": "Pilot Frixion Minen apricot 0,7mm, 3 Stück",
+    "category": "Schreibwaren",
+    "subcategories": ["Frixion Minen", "apricot", "Schreibwaren"]
+  },
+  {
+    "store": "spar",
+    "id": "7980435",
+    "name": "Pilot Frixion Minen blau 0,7mm, 3 Stück",
+    "category": "Schreibwaren",
+    "subcategories": ["Frixion Minen", "blau", "Schreibwaren"]
+  },
+  {
+    "store": "spar",
+    "id": "7843914",
+    "name": "Pilot Frixion Minen blau 0,7mm, 3 Stück",
+    "category": "Schreibwaren",
+    "subcategories": ["Frixion Minen", "blau", "Schreibwaren"]
+  }
+]

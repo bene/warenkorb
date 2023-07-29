@@ -1,0 +1,704 @@
+{
+  "products": [
+    {
+      "store": "spar",
+      "id": "2020004694706",
+      "name": "Palmolive Limited Edition Duschgel Aloe You 250ml",
+      "category": "Duschgel",
+      "subcategories": ["Limited Edition", "Aloe Vera"]
+    },
+    {
+      "store": "spar",
+      "id": "2020004694799",
+      "name": "Palmolive Limited Edition Duschgel Lucky Bamboo 250ml",
+      "category": "Duschgel",
+      "subcategories": ["Limited Edition", "Bambus"]
+    },
+    {
+      "store": "spar",
+      "id": "6938727",
+      "name": "Palmolive Men Duschgel & Shampoo Refreshing 250 ml",
+      "category": "Duschgel",
+      "subcategories": ["Herren", "Shampoo", "Erfrischend"]
+    },
+    {
+      "store": "spar",
+      "id": "2020003481635",
+      "name": "Palmolive Men Duschgel Refreshing 500ml",
+      "category": "Duschgel",
+      "subcategories": ["Herren", "Erfrischend"]
+    },
+    {
+      "store": "spar",
+      "id": "1085921",
+      "name": "Palmolive Men Duschgel Sport 250ml",
+      "category": "Duschgel",
+      "subcategories": ["Herren", "Sport"]
+    },
+    {
+      "store": "spar",
+      "id": "2020003481666",
+      "name": "Palmolive Men Duschgel Sport 500ml",
+      "category": "Duschgel",
+      "subcategories": ["Herren", "Sport"]
+    },
+    {
+      "store": "spar",
+      "id": "2020004647092",
+      "name": "Palmolive Men Intense 4in1-Duschgel Spice Up 250ml",
+      "category": "Duschgel",
+      "subcategories": ["Herren", "4in1", "Würzig"]
+    },
+    {
+      "store": "spar",
+      "id": "2383774",
+      "name": "Palmolive Naturals Cremebad Kokosnuss 650ml",
+      "category": "Cremebad",
+      "subcategories": ["Kokosnuss"]
+    },
+    {
+      "store": "spar",
+      "id": "4439202",
+      "name": "Palmolive Naturals Cremebad Macadamia & Kakao 650ml",
+      "category": "Cremebad",
+      "subcategories": ["Macadamia", "Kakao"]
+    },
+    {
+      "store": "spar",
+      "id": "2383736",
+      "name": "Palmolive Naturals Cremebad Milch & Honig 650ml",
+      "category": "Cremebad",
+      "subcategories": ["Milch", "Honig"]
+    },
+    {
+      "store": "spar",
+      "id": "2383613",
+      "name": "Palmolive Naturals Cremebad Olive & Milch 650ml",
+      "category": "Cremebad",
+      "subcategories": ["Olive", "Milch"]
+    },
+    {
+      "store": "spar",
+      "id": "3813911",
+      "name": "Palmolive Naturals Cremebad Sensitive 650ml",
+      "category": "Cremebad",
+      "subcategories": ["Sensitive"]
+    },
+    {
+      "store": "spar",
+      "id": "3236512",
+      "name": "Palmolive Naturals Cremedusche Kokosnuss 250ml",
+      "category": "Cremedusche",
+      "subcategories": ["Kokosnuss"]
+    },
+    {
+      "store": "spar",
+      "id": "3300855",
+      "name": "Palmolive Naturals Cremedusche Milch & Honig 250ml",
+      "category": "Cremedusche",
+      "subcategories": ["Milch", "Honig"]
+    },
+    {
+      "store": "spar",
+      "id": "1588101",
+      "name": "Palmolive Naturals Cremedusche Olive & Milch 2 x 250ml",
+      "category": "Cremedusche",
+      "subcategories": ["Olive", "Milch"]
+    },
+    {
+      "store": "spar",
+      "id": "5431243",
+      "name": "Palmolive Naturals Cremedusche Olive & Milch 250ml",
+      "category": "Cremedusche",
+      "subcategories": ["Olive", "Milch"]
+    },
+    {
+      "store": "spar",
+      "id": "8033208",
+      "name": "Palmolive Naturals Cremedusche Orchidee 250ml",
+      "category": "Cremedusche",
+      "subcategories": ["Orchidee"]
+    },
+    {
+      "store": "spar",
+      "id": "5700691",
+      "name": "Palmolive Naturals Cremedusche Sensitive 250ml",
+      "category": "Cremedusche",
+      "subcategories": ["Sensitive"]
+    },
+    {
+      "store": "spar",
+      "id": "7625244",
+      "name": "Palmolive Naturals Flüssigseife Milch & Honig 300ml",
+      "category": "Flüssigseife",
+      "subcategories": ["Milch", "Honig"]
+    },
+    {
+      "store": "spar",
+      "id": "1380408",
+      "name": "Palmolive Naturals Flüssigseife Nachfüller Milch & Honig 500ml",
+      "category": "Flüssigseife",
+      "subcategories": ["Nachfüller", "Milch", "Honig"]
+    },
+    {
+      "store": "spar",
+      "id": "2020004631411",
+      "name": "Palmolive Naturals Seife Delicate Care 4 x 90g",
+      "category": "Seife",
+      "subcategories": ["Delicate Care"]
+    },
+    {
+      "store": "spar",
+      "id": "4098669",
+      "name": "Palmolive Naturals Seife Indulging Delight 4 Stück",
+      "category": "Seife",
+      "subcategories": ["Indulging Delight"]
+    },
+    {
+      "store": "spar",
+      "id": "4090618",
+      "name": "Palmolive Naturals Seife Moisture Care 4 Stück",
+      "category": "Seife",
+      "subcategories": ["Moisture Care"]
+    },
+    {
+      "store": "spar",
+      "id": "2020004754967",
+      "name": "Palmolive Smoothies Duschcreme Erfrischender Pfirsich-Duft 250ml",
+      "category": "Duschcreme",
+      "subcategories": ["Erfrischender Pfirsich-Duft"]
+    },
+    {
+      "store": "spar",
+      "id": "2020002368517",
+      "name": "Palmolive Wellness Duschgel Revive 250ml",
+      "category": "Duschgel",
+      "subcategories": ["Wellness", "Revive"]
+    },
+    {
+      "store": "spar",
+      "id": "1380439",
+      "name": "Palmolive hygiene-plus Flüssigseife Nachfüller Family 500ml",
+      "category": "Flüssigseife",
+      "subcategories": ["hygiene-plus", "Nachfüller", "Familie"]
+    },
+    {
+      "store": "spar",
+      "id": "1446159",
+      "name": "Palmolive hygiene-plus Flüssigseife Sensitive 300 ml",
+      "category": "Flüssigseife",
+      "subcategories": ["hygiene-plus", "Sensitive"]
+    },
+    {
+      "store": "spar",
+      "id": "2020003442759",
+      "name": "Paediprotect Gebirgssonnencreme LSF 50 75ml",
+      "category": "Sonnencreme",
+      "subcategories": ["Gebirge", "LSF 50"]
+    },
+    {
+      "store": "spar",
+      "id": "2020003442698",
+      "name": "Paediprotect Meeressonnencreme LSF 50+ 75ml",
+      "category": "Sonnencreme",
+      "subcategories": ["Meer", "LSF 50+"]
+    },
+    {
+      "store": "spar",
+      "id": "2020002811495",
+      "name": "Notizbuch A5 kariert 80 Blatt Notizbuch A5 k.80 Bl. Chinakl.  GVE 6",
+      "category": "Notizbuch",
+      "subcategories": ["A5", "kariert", "80 Blatt"]
+    },
+    {
+      "store": "spar",
+      "id": "2020001627073",
+      "name": "Notizbuch A5 liniert 96 Blatt Notizbuch Hard-cover A5 lin.    GVE 10",
+      "category": "Notizbuch",
+      "subcategories": ["A5", "liniert", "96 Blatt"]
+    },
+    {
+      "store": "spar",
+      "id": "2020003759239",
+      "name": "Online Collegeblock A4 kariert 80 Blatt",
+      "category": "Collegeblock",
+      "subcategories": ["A4", "kariert", "80 Blatt"]
+    },
+    {
+      "store": "spar",
+      "id": "2020003759208",
+      "name": "Online Collegeblock A4 kariert 80 Blatt",
+      "category": "Collegeblock",
+      "subcategories": ["A4", "kariert", "80 Blatt"]
+    },
+    {
+      "store": "spar",
+      "id": "2020002841980",
+      "name": "Online Collegeblock A4 kariert 80 Blatt",
+      "category": "Collegeblock",
+      "subcategories": ["A4", "kariert", "80 Blatt"]
+    },
+    {
+      "store": "spar",
+      "id": "2020002841966",
+      "name": "Online Collegeblock A4 kariert 80 Blatt",
+      "category": "Collegeblock",
+      "subcategories": ["A4", "kariert", "80 Blatt"]
+    },
+    {
+      "store": "spar",
+      "id": "7841781",
+      "name": "Online Kombi-Tintenpatronen königsblau 5 Stück",
+      "category": "Tintenpatronen",
+      "subcategories": ["Kombi-Tintenpatronen", "königsblau"]
+    },
+    {
+      "store": "spar",
+      "id": "2020003758898",
+      "name": "Online Schüttelpennal 2nd Life blau",
+      "category": "Schüttelpennal",
+      "subcategories": ["2nd Life", "blau"]
+    },
+    {
+      "store": "spar",
+      "id": "2020003758928",
+      "name": "Online Schüttelpennal 2nd Life grau",
+      "category": "Schüttelpennal",
+      "subcategories": ["2nd Life", "grau"]
+    },
+    {
+      "store": "spar",
+      "id": "2020002342760",
+      "name": "Ordner A4 7,5 cm, Kraft Ordner 7,5 cm  Kraft            GVE 6",
+      "category": "Ordner",
+      "subcategories": ["A4", "7,5 cm", "Kraft"]
+    },
+    {
+      "store": "spar",
+      "id": "2020004050304",
+      "name": "Ordner A4 8cm, regenbogen Motivordner    Harlekin 8cm     GVE 10",
+      "category": "Ordner",
+      "subcategories": ["A4", "8cm", "Regenbogen", "Motivordner", "Harlekin"]
+    },
+    {
+      "store": "spar",
+      "id": "2020001637850",
+      "name": "Pagemarker Recycling 4 Farben Pagemarker     Recycling 4x40   GVE 12",
+      "category": "Pagemarker",
+      "subcategories": ["Recycling", "4 Farben"]
+    },
+    {
+      "store": "spar",
+      "id": "2020002331801",
+      "name": "Paperproducts Aquar. Hearts go 33x33cm 20 Stück",
+      "category": "Servietten",
+      "subcategories": ["Aquar. Hearts go", "33x33cm", "20 Stück"]
+    },
+    {
+      "store": "spar",
+      "id": "2020002013172",
+      "name": "Paperproducts Dinge 33x33cm 20 Stück",
+      "category": "Servietten",
+      "subcategories": ["Dinge", "33x33cm", "20 Stück"]
+    },
+    {
+      "store": "spar",
+      "id": "2020002118006",
+      "name": "Paperproducts Lieblingsmensch 33x33cm 20 Stück",
+      "category": "Servietten",
+      "subcategories": ["Lieblingsmensch", "33x33cm", "20 Stück"]
+    },
+    {
+      "store": "spar",
+      "id": "2020001716654",
+      "name": "Paperproducts Pink Unicorn 33x33cm 20 Stück",
+      "category": "Servietten",
+      "subcategories": ["Pink Unicorn", "33x33cm", "20 Stück"]
+    },
+    {
+      "store": "spar",
+      "id": "2020001353071",
+      "name": "Paperproducts Servietten \"Küchentanz\" 3-lagig 20 Stück",
+      "category": "Servietten",
+      "subcategories": ["Küchentanz", "3-lagig", "20 Stück"]
+    },
+    {
+      "store": "spar",
+      "id": "2020003209079",
+      "name": "Nuts Bienenwachsrolle Honigwaben",
+      "category": "Bienenwachsrolle",
+      "subcategories": ["Honigwaben"]
+    },
+    {
+      "store": "spar",
+      "id": "2020003209222",
+      "name": "Nuts Bienenwachsrolle Zero Waste",
+      "category": "Bienenwachsrolle",
+      "subcategories": ["Zero Waste"]
+    },
+    {
+      "store": "spar",
+      "id": "2020003209260",
+      "name": "Nuts Bienenwachstuch Sandwichbag 2-teilig",
+      "category": "Bienenwachstuch",
+      "subcategories": ["Sandwichbag", "2-teilig"]
+    },
+    {
+      "store": "spar",
+      "id": "2020003000850",
+      "name": "Nuts Bienenwachstücher 3-tlg. Gemüsedekor",
+      "category": "Bienenwachstücher",
+      "subcategories": ["3-tlg.", "Gemüsedekor"]
+    },
+    {
+      "store": "spar",
+      "id": "2020003000836",
+      "name": "Nuts Bienenwachstücher Honigwaben 3-teilig",
+      "category": "Bienenwachstücher",
+      "subcategories": ["Honigwaben", "3-teilig"]
+    },
+    {
+      "store": "spar",
+      "id": "2020003000867",
+      "name": "Nuts Bienenwachstücher Universal Set 5-teilig",
+      "category": "Bienenwachstücher",
+      "subcategories": ["Universal Set", "5-teilig"]
+    },
+    {
+      "store": "spar",
+      "id": "2020003346873",
+      "name": "Nuts Pflanzenwachsrolle Vegan",
+      "category": "Pflanzenwachsrolle",
+      "subcategories": ["Vegan"]
+    },
+    {
+      "store": "spar",
+      "id": "2020004100108",
+      "name": "PAX Öl-Lampe Nachfüller weiß rot",
+      "category": "Öl-Lampe",
+      "subcategories": ["Nachfüller", "weiß", "rot"]
+    },
+    {
+      "store": "spar",
+      "id": "2020004100122",
+      "name": "PAX Öl-Lampe Nachfüller weiß weiß",
+      "category": "Öl-Lampe",
+      "subcategories": ["Nachfüller", "weiß"]
+    },
+    {
+      "store": "spar",
+      "id": "2020004099426",
+      "name": "PAX Öl-Lampe rot rot",
+      "category": "Öl-Lampe",
+      "subcategories": ["rot"]
+    },
+    {
+      "store": "spar",
+      "id": "2020004100016",
+      "name": "PAX Öl-Lampe weiß weiß",
+      "category": "Öl-Lampe",
+      "subcategories": ["weiß"]
+    },
+    {
+      "store": "spar",
+      "id": "3080115",
+      "name": "Palmolive Geschirrspülmittel 4-in-1 / Antibakteriell 500ml",
+      "category": "Geschirrspülmittel",
+      "subcategories": ["4-in-1", "Antibakteriell"]
+    },
+    {
+      "store": "spar",
+      "id": "7440731",
+      "name": "Palmolive Geschirrspülmittel Limonenfrisch 750ml",
+      "category": "Geschirrspülmittel",
+      "subcategories": ["Limonenfrisch"]
+    },
+    {
+      "store": "spar",
+      "id": "2020001395033",
+      "name": "Palmolive Geschirrspülmittel Original 1,5l",
+      "category": "Geschirrspülmittel",
+      "subcategories": ["Original"]
+    },
+    {
+      "store": "spar",
+      "id": "7440649",
+      "name": "Palmolive Geschirrspülmittel Original 750ml",
+      "category": "Geschirrspülmittel",
+      "subcategories": ["Original"]
+    },
+    {
+      "store": "spar",
+      "id": "7306044",
+      "name": "OMO F4 Waschpulver Dauerweiß 5WG",
+      "category": "Waschpulver",
+      "subcategories": ["F4", "Dauerweiß"]
+    },
+    {
+      "store": "spar",
+      "id": "2020002244842",
+      "name": "OMO Flüssigwaschmittel Active 100WG",
+      "category": "Flüssigwaschmittel",
+      "subcategories": ["Active"]
+    },
+    {
+      "store": "spar",
+      "id": "2020002987695",
+      "name": "OMO Flüssigwaschmittel Active 35WG",
+      "category": "Flüssigwaschmittel",
+      "subcategories": ["Active"]
+    },
+    {
+      "store": "spar",
+      "id": "2020002244804",
+      "name": "OMO Flüssigwaschmittel Color & Care 100WG",
+      "category": "Flüssigwaschmittel",
+      "subcategories": ["Color & Care"]
+    },
+    {
+      "store": "spar",
+      "id": "2020002987817",
+      "name": "OMO Flüssigwaschmittel Color & Care 35WG",
+      "category": "Flüssigwaschmittel",
+      "subcategories": ["Color & Care"]
+    },
+    {
+      "store": "spar",
+      "id": "2020003038044",
+      "name": "OMO Ultimate Powercaps Active Clean 24WG",
+      "category": "Waschmittel",
+      "subcategories": ["Ultimate Powercaps", "Active Clean"]
+    },
+    {
+      "store": "spar",
+      "id": "2020003037979",
+      "name": "OMO Ultimate Powercaps Color & Care 24WG",
+      "category": "Waschmittel",
+      "subcategories": ["Ultimate Powercaps", "Color & Care"]
+    },
+    {
+      "store": "spar",
+      "id": "2020001036219",
+      "name": "OMO Waschpulver Active 100WG",
+      "category": "Waschpulver",
+      "subcategories": ["Active"]
+    },
+    {
+      "store": "spar",
+      "id": "2020001016723",
+      "name": "OMO Waschpulver Active 35WG",
+      "category": "Waschpulver",
+      "subcategories": ["Active"]
+    },
+    {
+      "store": "spar",
+      "id": "2020001036189",
+      "name": "OMO Waschpulver Color 100WG",
+      "category": "Waschpulver",
+      "subcategories": ["Color"]
+    },
+    {
+      "store": "spar",
+      "id": "2020001016747",
+      "name": "OMO Waschpulver Sensitive 35WG",
+      "category": "Waschpulver",
+      "subcategories": ["Sensitive"]
+    },
+    {
+      "store": "spar",
+      "id": "2020003659256",
+      "name": "Nuts Brotsack GR: S",
+      "category": "Brotsack",
+      "subcategories": ["GR: S"]
+    },
+    {
+      "store": "spar",
+      "id": "2020003659232",
+      "name": "Nuts Brotsack mit Kordel GR: M",
+      "category": "Brotsack",
+      "subcategories": ["GR: M"]
+    },
+    {
+      "store": "spar",
+      "id": "2020003330629",
+      "name": "Pagamalu Bambusdeckel Groß",
+      "category": "Bambusdeckel",
+      "subcategories": ["Groß"]
+    },
+    {
+      "store": "spar",
+      "id": "2020003330605",
+      "name": "Pagamalu Bambusdeckel Klein",
+      "category": "Bambusdeckel",
+      "subcategories": ["Klein"]
+    },
+    {
+      "store": "spar",
+      "id": "2020003330834",
+      "name": "Pagamalu Glasbehälter 0,38l",
+      "category": "Glasbehälter",
+      "subcategories": ["0,38l"]
+    },
+    {
+      "store": "spar",
+      "id": "2020003330841",
+      "name": "Pagamalu Glasbehälter 0,75L",
+      "category": "Glasbehälter",
+      "subcategories": ["0,75L"]
+    },
+    {
+      "store": "spar",
+      "id": "2020003330858",
+      "name": "Pagamalu Glasbehälter 1,1L",
+      "category": "Glasbehälter",
+      "subcategories": ["1,1L"]
+    },
+    {
+      "store": "spar",
+      "id": "2020003330865",
+      "name": "Pagamalu Glasbehälter 2L",
+      "category": "Glasbehälter",
+      "subcategories": ["2L"]
+    },
+    {
+      "store": "spar",
+      "id": "2020003330759",
+      "name": "Pagamalu Kunststoff Behälter 0,45L",
+      "category": "Kunststoff Behälter",
+      "subcategories": ["0,45L"]
+    },
+    {
+      "store": "spar",
+      "id": "2020003330797",
+      "name": "Pagamalu Kunststoffbehälter 0,85L",
+      "category": "Kunststoffbehälter",
+      "subcategories": ["0,85L"]
+    },
+    {
+      "store": "spar",
+      "id": "2020003330803",
+      "name": "Pagamalu Kunststoffbehälter 1,2L",
+      "category": "Kunststoffbehälter",
+      "subcategories": ["1,2L"]
+    },
+    {
+      "store": "spar",
+      "id": "2020003330827",
+      "name": "Pagamalu Kunststoffbehälter 2,2L",
+      "category": "Kunststoffbehälter",
+      "subcategories": ["2,2L"]
+    },
+    {
+      "store": "spar",
+      "id": "2020003330575",
+      "name": "Pagamalu Kunststoffdeckel Groß",
+      "category": "Kunststoffdeckel",
+      "subcategories": ["Groß"]
+    },
+    {
+      "store": "spar",
+      "id": "2020003330551",
+      "name": "Pagamalu Kunststoffdeckel Klein",
+      "category": "Kunststoffdeckel",
+      "subcategories": ["Klein"]
+    },
+    {
+      "store": "spar",
+      "id": "2020003330728",
+      "name": "Pagamalu Silikondeckel Gross",
+      "category": "Silikondeckel",
+      "subcategories": ["Gross"]
+    },
+    {
+      "store": "spar",
+      "id": "2020003330650",
+      "name": "Pagamalu Silikondeckel Klein",
+      "category": "Silikondeckel",
+      "subcategories": ["Klein"]
+    },
+    {
+      "store": "spar",
+      "id": "2724058",
+      "name": "Original China-Gold Kräuteröl 50 ml",
+      "category": "Kräuteröl",
+      "subcategories": ["China-Gold", "50 ml"]
+    },
+    {
+      "store": "spar",
+      "id": "6987862",
+      "name": "Partybreze Exklusiv Breze Exklusiv 1 kg             GVE 1",
+      "category": "Breze",
+      "subcategories": ["Exklusiv", "1 kg"]
+    },
+    {
+      "store": "spar",
+      "id": "2377773",
+      "name": "Partybreze Käse Breze Kaese    1 kg             GVE 1",
+      "category": "Breze",
+      "subcategories": ["Käse", "1 kg"]
+    },
+    {
+      "store": "spar",
+      "id": "2020003199349",
+      "name": "Partybreze Pute Breze Pute 1kg                  GVE 1",
+      "category": "Breze",
+      "subcategories": ["Pute", "1kg"]
+    },
+    {
+      "store": "spar",
+      "id": "6987763",
+      "name": "Partybreze Rustikal Breze Rustikal  1 kg            GVE 1",
+      "category": "Breze",
+      "subcategories": ["Rustikal", "1 kg"]
+    },
+    {
+      "store": "spar",
+      "id": "4654896",
+      "name": "Partybreze Standard Breze Pikant   1 kg             GVE 1",
+      "category": "Breze",
+      "subcategories": ["Standard", "Pikant", "1 kg"]
+    },
+    {
+      "store": "spar",
+      "id": "2020002236137",
+      "name": "Partybreze Vegetarisch Breze 1kg      vegetarisch      GVE 1",
+      "category": "Breze",
+      "subcategories": ["Vegetarisch", "1kg"]
+    },
+    {
+      "store": "spar",
+      "id": "2020002236168",
+      "name": "Partybrötchen-Box Standard 25 Brötchen Partybroetchen-box Standard     GVE 1",
+      "category": "Partybrötchen-Box",
+      "subcategories": ["Standard", "25 Brötchen"]
+    },
+    {
+      "store": "spar",
+      "id": "2020002236182",
+      "name": "Partybrötchenbox Exklusiv 25 Brötchen Partybroetchen-box Exklusiv     GVE 1",
+      "category": "Partybrötchen-Box",
+      "subcategories": ["Exklusiv", "25 Brötchen"]
+    },
+    {
+      "store": "spar",
+      "id": "2020002236175",
+      "name": "Partybrötchenbox Veggie 25 Brötchen Partybroetchen-box Veggie       GVE 1",
+      "category": "Partybrötchen-Box",
+      "subcategories": ["Veggie", "25 Brötchen"]
+    },
+    {
+      "store": "spar",
+      "id": "6643485",
+      "name": "Passionsfrucht 1 STK",
+      "category": "Passionsfrucht",
+      "subcategories": ["1 STK"]
+    },
+    {
+      "store": "spar",
+      "id": "6887230",
+      "name": "Pfirsiche per Tasse 500 G",
+      "category": "Pfirsiche",
+      "subcategories": ["per Tasse", "500 G"]
+    }
+  ]
+}

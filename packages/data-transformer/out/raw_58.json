@@ -1,0 +1,702 @@
+[
+  {
+    "store": "billa",
+    "id": "00-439492",
+    "name": "Heuschen & Schrouff Reisessig",
+    "category": "Essig",
+    "subcategories": ["Reisessig"]
+  },
+  {
+    "store": "billa",
+    "id": "00-428014",
+    "name": "Heuschen & Schrouff Reispapier 22cm",
+    "category": "Reispapier",
+    "subcategories": []
+  },
+  {
+    "store": "billa",
+    "id": "00-279758",
+    "name": "Indomie Instant Nudelsuppe Gemüse",
+    "category": "Nudelsuppe",
+    "subcategories": ["Gemüse"]
+  },
+  {
+    "store": "billa",
+    "id": "00-740352",
+    "name": "Int. Collection Sesamöl geröstet",
+    "category": "Sesamöl",
+    "subcategories": ["geröstet"]
+  },
+  {
+    "store": "billa",
+    "id": "00-584787",
+    "name": "Karma Food Creamy Curry Sauce",
+    "category": "Curry-Sauce",
+    "subcategories": []
+  },
+  {
+    "store": "billa",
+    "id": "00-584783",
+    "name": "Karma Food Curry Paste",
+    "category": "Curry-Paste",
+    "subcategories": []
+  },
+  {
+    "store": "billa",
+    "id": "00-584785",
+    "name": "Karma Food Korma Paste",
+    "category": "Curry-Paste",
+    "subcategories": []
+  },
+  {
+    "store": "billa",
+    "id": "00-584786",
+    "name": "Karma Food Madras Paste",
+    "category": "Curry-Paste",
+    "subcategories": []
+  },
+  {
+    "store": "billa",
+    "id": "00-584795",
+    "name": "Karma Food Mango Curry Sauce",
+    "category": "Curry-Sauce",
+    "subcategories": []
+  },
+  {
+    "store": "billa",
+    "id": "00-285257",
+    "name": "Kikkoman Poke Sauce",
+    "category": "Sauce",
+    "subcategories": []
+  },
+  {
+    "store": "billa",
+    "id": "00-946233",
+    "name": "Kikkoman Ponzu Sojasauce",
+    "category": "Sojasauce",
+    "subcategories": ["Ponzu"]
+  },
+  {
+    "store": "billa",
+    "id": "00-407820",
+    "name": "Kikkoman Soja Sauce",
+    "category": "Sojasauce",
+    "subcategories": []
+  },
+  {
+    "store": "billa",
+    "id": "00-421071",
+    "name": "Kikkoman Soja Sauce Tischflasche",
+    "category": "Sojasauce",
+    "subcategories": []
+  },
+  {
+    "store": "billa",
+    "id": "00-418307",
+    "name": "Kikkoman Soja Sauce süß",
+    "category": "Sojasauce",
+    "subcategories": ["süß"]
+  },
+  {
+    "store": "billa",
+    "id": "00-754224",
+    "name": "Kikkoman Sojasauce",
+    "category": "Sojasauce",
+    "subcategories": []
+  },
+  {
+    "store": "billa",
+    "id": "00-822991",
+    "name": "Kikkoman Sojasauce Natürlich Gebraut",
+    "category": "Sojasauce",
+    "subcategories": ["natürlich gebraut"]
+  },
+  {
+    "store": "billa",
+    "id": "00-672230",
+    "name": "Kikkoman Sojasauce salzreduziert",
+    "category": "Sojasauce",
+    "subcategories": ["salzreduziert"]
+  },
+  {
+    "store": "billa",
+    "id": "00-761361",
+    "name": "Kikkoman Sojasauce salzreduziert",
+    "category": "Sojasauce",
+    "subcategories": ["salzreduziert"]
+  },
+  {
+    "store": "billa",
+    "id": "00-907468",
+    "name": "Kikkoman Sushi und Sashimi Soja Sauce",
+    "category": "Sojasauce",
+    "subcategories": ["Sushi", "Sashimi"]
+  },
+  {
+    "store": "billa",
+    "id": "00-672231",
+    "name": "Kikkoman Tamari Soja Sauce Glutenfrei",
+    "category": "Sojasauce",
+    "subcategories": ["Tamari", "glutenfrei"]
+  },
+  {
+    "store": "billa",
+    "id": "00-307242",
+    "name": "Kikkoman Teriyaki BBQ-Sauce mit Honig",
+    "category": "BBQ-Sauce",
+    "subcategories": ["Teriyaki", "Honig"]
+  },
+  {
+    "store": "billa",
+    "id": "00-421359",
+    "name": "Kikkoman Teriyaki Marinade & Sauce",
+    "category": "Marinade",
+    "subcategories": ["Teriyaki"]
+  },
+  {
+    "store": "billa",
+    "id": "00-551289",
+    "name": "Kikkoman Teriyaki Sauce Sesam",
+    "category": "Sauce",
+    "subcategories": ["Teriyaki", "Sesam"]
+  },
+  {
+    "store": "billa",
+    "id": "00-505902",
+    "name": "Kikkoman Teriyaki Sauce mit Knoblauch",
+    "category": "Sauce",
+    "subcategories": ["Teriyaki", "Knoblauch"]
+  },
+  {
+    "store": "billa",
+    "id": "00-480249",
+    "name": "Kikkoman Tofu Miso Suppe",
+    "category": "Suppe",
+    "subcategories": ["Tofu", "Miso"]
+  },
+  {
+    "store": "billa",
+    "id": "00-439496",
+    "name": "Kikkoman Wok Sauce",
+    "category": "Sauce",
+    "subcategories": ["Wok"]
+  },
+  {
+    "store": "billa",
+    "id": "00-706465",
+    "name": "Knorr Asia Gebratene Nudeln Gemüse",
+    "category": "Gebratene Nudeln",
+    "subcategories": ["Gemüse"]
+  },
+  {
+    "store": "billa",
+    "id": "00-706469",
+    "name": "Knorr Asia Gebratene Nudeln Huhn",
+    "category": "Gebratene Nudeln",
+    "subcategories": ["Huhn"]
+  },
+  {
+    "store": "billa",
+    "id": "00-511400",
+    "name": "Knorr Asia Noodles Becher Chili",
+    "category": "Noodles",
+    "subcategories": ["Chili"]
+  },
+  {
+    "store": "billa",
+    "id": "00-383699",
+    "name": "Knorr Asia Noodles Becher Ente",
+    "category": "Noodles",
+    "subcategories": ["Ente"]
+  },
+  {
+    "store": "billa",
+    "id": "00-383697",
+    "name": "Knorr Asia Noodles Becher Rind",
+    "category": "Noodles",
+    "subcategories": ["Rind"]
+  },
+  {
+    "store": "billa",
+    "id": "00-713192",
+    "name": "Knorr Asia Noodles Becher Vegetable Taste",
+    "category": "Noodles",
+    "subcategories": ["Gemüse"]
+  },
+  {
+    "store": "billa",
+    "id": "00-384001",
+    "name": "Knorr Asia Noodles Curry",
+    "category": "Noodles",
+    "subcategories": ["Curry"]
+  },
+  {
+    "store": "billa",
+    "id": "00-383963",
+    "name": "Knorr Asia Noodles Huhn",
+    "category": "Noodles",
+    "subcategories": ["Huhn"]
+  },
+  {
+    "store": "billa",
+    "id": "00-384027",
+    "name": "Knorr Asia Noodles Rind",
+    "category": "Noodles",
+    "subcategories": ["Rind"]
+  },
+  {
+    "store": "billa",
+    "id": "00-718517",
+    "name": "Knorr Basis Gebratene Nudeln",
+    "category": "Basis",
+    "subcategories": ["Gebratene Nudeln"]
+  },
+  {
+    "store": "billa",
+    "id": "00-337570",
+    "name": "Knorr Japanese Miso",
+    "category": "Miso",
+    "subcategories": []
+  },
+  {
+    "store": "billa",
+    "id": "00-337571",
+    "name": "Knorr Thai Red Curry",
+    "category": "Curry",
+    "subcategories": ["Thai"]
+  },
+  {
+    "store": "billa",
+    "id": "00-883073",
+    "name": "Koska Sesampaste Tahin",
+    "category": "Sesampaste",
+    "subcategories": ["Tahin"]
+  },
+  {
+    "store": "billa",
+    "id": "00-937690",
+    "name": "Lien Ying Chilisauce scharf",
+    "category": "Chilisauce",
+    "subcategories": ["scharf"]
+  },
+  {
+    "store": "billa",
+    "id": "00-744370",
+    "name": "Lien Ying Chilisauce süß-scharf",
+    "category": "Chilisauce",
+    "subcategories": ["süß-scharf"]
+  },
+  {
+    "store": "billa",
+    "id": "00-937624",
+    "name": "Lien Ying Creola de Coco Kokosmilch",
+    "category": "Kokosmilch",
+    "subcategories": ["Coco"]
+  },
+  {
+    "store": "billa",
+    "id": "00-937548",
+    "name": "Lien Ying Jasmin-Reis",
+    "category": "Reis",
+    "subcategories": ["Jasmin"]
+  },
+  {
+    "store": "billa",
+    "id": "00-300845",
+    "name": "Lien Ying Kokosmilch fettreduziert",
+    "category": "Kokosmilch",
+    "subcategories": ["fettreduziert"]
+  },
+  {
+    "store": "billa",
+    "id": "00-744337",
+    "name": "Lien Ying Reispapier",
+    "category": "Reispapier",
+    "subcategories": []
+  },
+  {
+    "store": "billa",
+    "id": "00-692039",
+    "name": "Lien Ying Sushi Reis",
+    "category": "Reis",
+    "subcategories": ["Sushi"]
+  },
+  {
+    "store": "billa",
+    "id": "00-394394",
+    "name": "Little Lunch Bio Gemüse Curry",
+    "category": "Curry",
+    "subcategories": ["Gemüse"]
+  },
+  {
+    "store": "billa",
+    "id": "00-830083",
+    "name": "MAGGI Magic Asia Big Noodle Soup Beef Taste",
+    "category": "Nudelsuppe",
+    "subcategories": ["Beef"]
+  },
+  {
+    "store": "billa",
+    "id": "00-842484",
+    "name": "MAGGI Magic Asia Big Noodle Soup Chicken Taste",
+    "category": "Nudelsuppe",
+    "subcategories": ["Huhn"]
+  },
+  {
+    "store": "billa",
+    "id": "00-829635",
+    "name": "MAGGI Magic Asia Big Noodle Soup Curry",
+    "category": "Nudelsuppe",
+    "subcategories": ["Curry"]
+  },
+  {
+    "store": "billa",
+    "id": "00-825359",
+    "name": "MAGGI Magic Asia Big Noodle Soup Duck Taste",
+    "category": "Nudelsuppe",
+    "subcategories": ["Ente"]
+  },
+  {
+    "store": "billa",
+    "id": "00-586341",
+    "name": "MAGGI Magic Asia Gebratene Nudeln Huhn",
+    "category": "Gebratene Nudeln",
+    "subcategories": ["Huhn"]
+  },
+  {
+    "store": "billa",
+    "id": "00-586482",
+    "name": "MAGGI Magic Asia Gebratene Nudeln Teriyaki",
+    "category": "Gebratene Nudeln",
+    "subcategories": ["Teriyaki"]
+  },
+  {
+    "store": "billa",
+    "id": "00-478385",
+    "name": "MAGGI Magic Asia Noodle Cup Beef Taste",
+    "category": "Noodle Cup",
+    "subcategories": ["Beef"]
+  },
+  {
+    "store": "billa",
+    "id": "00-599253",
+    "name": "MAGGI Magic Asia Noodle Cup Chili",
+    "category": "Noodle Cup",
+    "subcategories": ["Chili"]
+  },
+  {
+    "store": "billa",
+    "id": "00-303278",
+    "name": "MAGGI Magic Asia Noodle Cup Curry",
+    "category": "Noodle Cup",
+    "subcategories": ["Curry"]
+  },
+  {
+    "store": "billa",
+    "id": "00-478384",
+    "name": "MAGGI Magic Asia Noodle Cup Shrimps Taste",
+    "category": "Noodle Cup",
+    "subcategories": ["Shrimps"]
+  },
+  {
+    "store": "billa",
+    "id": "00-381679",
+    "name": "MAGGI Magic Asia Saucy Noodles Sweet Chili Cup",
+    "category": "Saucy Noodles",
+    "subcategories": ["Sweet Chili"]
+  },
+  {
+    "store": "billa",
+    "id": "00-381674",
+    "name": "MAGGI Magic Asia Saucy Noodles Teriyaki Cup",
+    "category": "Saucy Noodles",
+    "subcategories": ["Teriyaki"]
+  },
+  {
+    "store": "billa",
+    "id": "00-571279",
+    "name": "Made For Veggies Teriyaki Sesam Sauce",
+    "category": "Sauce",
+    "subcategories": ["Teriyaki", "Sesam"]
+  },
+  {
+    "store": "billa",
+    "id": "00-428543",
+    "name": "Mehmet Efendi Türkischer Kaffee",
+    "category": "Kaffee",
+    "subcategories": ["Türkischer"]
+  },
+  {
+    "store": "billa",
+    "id": "00-426186",
+    "name": "Oyster Fischsauce",
+    "category": "Fischsauce",
+    "subcategories": []
+  },
+  {
+    "store": "billa",
+    "id": "00-777536",
+    "name": "Pearls Of Samarkand Bio Sesam Tahini",
+    "category": "Sesam",
+    "subcategories": ["Tahini"]
+  },
+  {
+    "store": "billa",
+    "id": "00-746344",
+    "name": "Roi Thai Kokosmilch",
+    "category": "Kokosmilch",
+    "subcategories": []
+  },
+  {
+    "store": "billa",
+    "id": "00-742190",
+    "name": "Roi Thai Kokosmilch",
+    "category": "Kokosmilch",
+    "subcategories": []
+  },
+  {
+    "store": "billa",
+    "id": "00-426258",
+    "name": "S&B Wasabi Paste für Sushi",
+    "category": "Wasabi",
+    "subcategories": ["Sushi"]
+  },
+  {
+    "store": "billa",
+    "id": "00-598177",
+    "name": "Santa Maria Chunky Salsa Medium",
+    "category": "Salsa",
+    "subcategories": ["Medium"]
+  },
+  {
+    "store": "billa",
+    "id": "00-721664",
+    "name": "Santa Maria Corn & Wheat Tortilla",
+    "category": "Tortilla",
+    "subcategories": []
+  },
+  {
+    "store": "billa",
+    "id": "00-487541",
+    "name": "Santa Maria Fajita Gewürzmischung",
+    "category": "Gewürzmischung",
+    "subcategories": ["Fajita"]
+  },
+  {
+    "store": "billa",
+    "id": "00-598161",
+    "name": "Santa Maria Garlic Salsa",
+    "category": "Salsa",
+    "subcategories": ["Knoblauch"]
+  },
+  {
+    "store": "billa",
+    "id": "00-817959",
+    "name": "Santa Maria Jalapeno Rot",
+    "category": "Jalapeno",
+    "subcategories": ["Rot"]
+  },
+  {
+    "store": "billa",
+    "id": "00-511717",
+    "name": "Santa Maria Mini Taco Tubs",
+    "category": "Taco",
+    "subcategories": []
+  },
+  {
+    "store": "billa",
+    "id": "00-799003",
+    "name": "Santa Maria Original Tortilla Large",
+    "category": "Tortilla",
+    "subcategories": []
+  },
+  {
+    "store": "billa",
+    "id": "00-410307",
+    "name": "Santa Maria Original Tortilla Medium",
+    "category": "Tortilla",
+    "subcategories": []
+  },
+  {
+    "store": "billa",
+    "id": "00-722590",
+    "name": "Santa Maria Original Tortilla Medium",
+    "category": "Tortilla",
+    "subcategories": []
+  },
+  {
+    "store": "billa",
+    "id": "00-833619",
+    "name": "Santa Maria Original Tortilla Mini",
+    "category": "Tortilla",
+    "subcategories": []
+  },
+  {
+    "store": "billa",
+    "id": "00-598136",
+    "name": "Santa Maria Taco Sauce Hot",
+    "category": "Taco-Sauce",
+    "subcategories": ["Hot"]
+  },
+  {
+    "store": "billa",
+    "id": "00-565261",
+    "name": "Santa Maria Taco Sauce Mild",
+    "category": "Taco-Sauce",
+    "subcategories": ["Mild"]
+  },
+  {
+    "store": "billa",
+    "id": "00-772358",
+    "name": "Santa Maria Taco Shells",
+    "category": "Taco-Shells",
+    "subcategories": []
+  },
+  {
+    "store": "billa",
+    "id": "00-655120",
+    "name": "Santa Maria Vollkorn Tortilla",
+    "category": "Tortilla",
+    "subcategories": ["Vollkorn"]
+  },
+  {
+    "store": "billa",
+    "id": "00-866791",
+    "name": "Sera Sonnenblumenkerne geröstet & gesalzen",
+    "category": "Sonnenblumenkerne",
+    "subcategories": ["geröstet", "gesalzen"]
+  },
+  {
+    "store": "billa",
+    "id": "00-764928",
+    "name": "Shan Shi Bambussprossen",
+    "category": "Bambussprossen",
+    "subcategories": []
+  },
+  {
+    "store": "billa",
+    "id": "00-291112",
+    "name": "Shan Shi Bohnenkeimlinge",
+    "category": "Bohnenkeimlinge",
+    "subcategories": []
+  },
+  {
+    "store": "billa",
+    "id": "00-291152",
+    "name": "Shan Shi Glasnudeln",
+    "category": "Glasnudeln",
+    "subcategories": []
+  },
+  {
+    "store": "billa",
+    "id": "00-291107",
+    "name": "Shan Shi Kokosmilch",
+    "category": "Kokosmilch",
+    "subcategories": []
+  },
+  {
+    "store": "billa",
+    "id": "00-908274",
+    "name": "Shan Shi Kokosmilch",
+    "category": "Kokosmilch",
+    "subcategories": []
+  },
+  {
+    "store": "billa",
+    "id": "00-963968",
+    "name": "Shan Shi Kokosmilch light",
+    "category": "Kokosmilch",
+    "subcategories": ["light"]
+  },
+  {
+    "store": "billa",
+    "id": "00-764930",
+    "name": "Shan Shi Kokosmilch light",
+    "category": "Kokosmilch",
+    "subcategories": ["light"]
+  },
+  {
+    "store": "billa",
+    "id": "00-291154",
+    "name": "Shan Shi Mie Eiernudeln",
+    "category": "Eiernudeln",
+    "subcategories": []
+  },
+  {
+    "store": "billa",
+    "id": "00-246189",
+    "name": "Shan Shi Ramen Nudeln",
+    "category": "Ramen",
+    "subcategories": []
+  },
+  {
+    "store": "billa",
+    "id": "00-967938",
+    "name": "Shan Shi Reisnudeln",
+    "category": "Reisnudeln",
+    "subcategories": []
+  },
+  {
+    "store": "billa",
+    "id": "00-723806",
+    "name": "Shan Shi Soba Nudeln",
+    "category": "Soba-Nudeln",
+    "subcategories": []
+  },
+  {
+    "store": "billa",
+    "id": "00-291110",
+    "name": "Shan Shi Soja Sauce",
+    "category": "Sojasauce",
+    "subcategories": []
+  },
+  {
+    "store": "billa",
+    "id": "00-953799",
+    "name": "Shan Shi Thai Red Curry Paste",
+    "category": "Curry-Paste",
+    "subcategories": ["Thai-Red"]
+  },
+  {
+    "store": "billa",
+    "id": "00-310094",
+    "name": "Shan Shi Thai Yellow Curry Paste",
+    "category": "Curry-Paste",
+    "subcategories": ["Thai-Yellow"]
+  },
+  {
+    "store": "billa",
+    "id": "00-723963",
+    "name": "Shan Shi Udon Nudeln",
+    "category": "Udon-Nudeln",
+    "subcategories": []
+  },
+  {
+    "store": "billa",
+    "id": "00-908278",
+    "name": "Shan Shi Wok Nudeln",
+    "category": "Wok-Nudeln",
+    "subcategories": []
+  },
+  {
+    "store": "billa",
+    "id": "00-964664",
+    "name": "Shan Shi Woksauce",
+    "category": "Woksauce",
+    "subcategories": []
+  },
+  {
+    "store": "billa",
+    "id": "00-426270",
+    "name": "Shinode Japanischer Reis für Sushi",
+    "category": "Reis",
+    "subcategories": ["Sushi"]
+  },
+  {
+    "store": "billa",
+    "id": "00-428566",
+    "name": "Sti Snacks Maiskörner geröstet und gewürzt",
+    "category": "Snacks",
+    "subcategories": ["Maiskörner", "geröstet", "gewürzt"]
+  }
+]

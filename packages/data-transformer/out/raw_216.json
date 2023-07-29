@@ -1,0 +1,702 @@
+[
+  {
+    "store": "spar",
+    "id": "2020004020963",
+    "name": "SIMPEX Professional Topf 20 cm Wabenbeschichtung",
+    "category": "Kochgeschirr",
+    "subcategories": ["Topf", "Wabenbeschichtung"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004675859",
+    "name": "SPAR 2 Französische Baguettes 2 Stück",
+    "category": "Backwaren",
+    "subcategories": ["Baguette"]
+  },
+  {
+    "store": "spar",
+    "id": "7308642",
+    "name": "SPAR 2 Minuten Reis Basmati Langkornreis 2 Portionen",
+    "category": "Reis",
+    "subcategories": ["Basmati", "Langkornreis"]
+  },
+  {
+    "store": "spar",
+    "id": "7301155",
+    "name": "SPAR 2 Minuten Reis Langkorn",
+    "category": "Reis",
+    "subcategories": ["Langkornreis"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003782008",
+    "name": "SIMPEX Professional Topf mit Deckel 16cm",
+    "category": "Kochgeschirr",
+    "subcategories": ["Topf", "Deckel"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003782176",
+    "name": "SIMPEX Professional Topf mit Deckel 28cm",
+    "category": "Kochgeschirr",
+    "subcategories": ["Topf", "Deckel"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003782107",
+    "name": "SIMPEX Professional Topf mit Deckel mit Ausgussfunktion 20cm",
+    "category": "Kochgeschirr",
+    "subcategories": ["Topf", "Deckel", "Ausgussfunktion"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003782152",
+    "name": "SIMPEX Professional Topf mit Deckel und Ausgussfunktion 24cm",
+    "category": "Kochgeschirr",
+    "subcategories": ["Topf", "Deckel", "Ausgussfunktion"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002359232",
+    "name": "SIMPEX Professional Universalmesser 13 cm",
+    "category": "Küchenwerkzeug",
+    "subcategories": ["Universalmesser"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002359256",
+    "name": "SIMPEX Professional Universalmesser mit Wellenschliff",
+    "category": "Küchenwerkzeug",
+    "subcategories": ["Universalmesser", "Wellenschliff"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002262310",
+    "name": "SIMPEX Professional Wasserkocher Glas",
+    "category": "Küchenwerkzeug",
+    "subcategories": ["Wasserkocher", "Glas"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002359386",
+    "name": "SIMPEX Professional Wetzstahl",
+    "category": "Küchenwerkzeug",
+    "subcategories": ["Wetzstahl"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003052538",
+    "name": "SIMPEX Professional Wok Granitec / 28 cm",
+    "category": "Kochgeschirr",
+    "subcategories": ["Wok", "Granitec"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003121449",
+    "name": "SIMPEX Professional Wok mit Wabenbeschichtung excellence / 28 cm",
+    "category": "Kochgeschirr",
+    "subcategories": ["Wok", "Wabenbeschichtung"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001736614",
+    "name": "SIMPEX Professional Wokpfanne 28 cm",
+    "category": "Kochgeschirr",
+    "subcategories": ["Wokpfanne"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003087868",
+    "name": "SIMPEX Rührschüsselset Antislip 3-teilig",
+    "category": "Küchenzubehör",
+    "subcategories": ["Rührschüsselset", "Antislip"]
+  },
+  {
+    "store": "spar",
+    "id": "2020000474753",
+    "name": "SKROSS Reisestecker World to Europe",
+    "category": "Elektronik",
+    "subcategories": ["Reisestecker", "World to Europe"]
+  },
+  {
+    "store": "spar",
+    "id": "2020000407720",
+    "name": "SPAR Apfeltasche",
+    "category": "Backwaren",
+    "subcategories": ["Apfeltasche"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003434402",
+    "name": "SPAR 100% Apfel-Beerensaft",
+    "category": "Getränke",
+    "subcategories": ["Apfelsaft", "Beerensaft"]
+  },
+  {
+    "store": "spar",
+    "id": "375016",
+    "name": "SPAR 100% Apfelsaft",
+    "category": "Getränke",
+    "subcategories": ["Apfelsaft"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003345166",
+    "name": "SPAR 100% Apfelsaft",
+    "category": "Getränke",
+    "subcategories": ["Apfelsaft"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003407000",
+    "name": "SPAR 100% Apfelsaft naturtrüb",
+    "category": "Getränke",
+    "subcategories": ["Apfelsaft", "naturtrüb"]
+  },
+  {
+    "store": "spar",
+    "id": "837385",
+    "name": "SPAR Apfelsaft 100% 4x1l",
+    "category": "Getränke",
+    "subcategories": ["Apfelsaft"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002881771",
+    "name": "SPAR Apfelsaft 100% mild",
+    "category": "Getränke",
+    "subcategories": ["Apfelsaft", "mild"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004640666",
+    "name": "SPAR Apfelsaft naturtrüb",
+    "category": "Getränke",
+    "subcategories": ["Apfelsaft", "naturtrüb"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004610317",
+    "name": "SPAR BBQ Chicken Wings",
+    "category": "Fleisch",
+    "subcategories": ["Chicken Wings"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004609700",
+    "name": "SPAR BBQ Hendl Filetschnitzerl mariniert",
+    "category": "Fleisch",
+    "subcategories": ["Hendl", "Filetschnitzerl", "mariniert"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004610218",
+    "name": "SPAR BBQ Hendl Grillteller gewürzt",
+    "category": "Fleisch",
+    "subcategories": ["Hendl", "Grillteller", "gewürzt"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004610096",
+    "name": "SPAR BBQ Hendl Grillteller natur",
+    "category": "Fleisch",
+    "subcategories": ["Hendl", "Grillteller", "natur"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003987090",
+    "name": "SPAR BBQ Cheddar-Scheiben Schmelzkäsezubereitung",
+    "category": "Käse",
+    "subcategories": ["Cheddar", "Scheiben", "Schmelzkäsezubereitung"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001690909",
+    "name": "SPAR BBQ Grill- & Bratkäse Chili 4 Stück",
+    "category": "Käse",
+    "subcategories": ["Grillkäse", "Bratkäse", "Chili"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001691067",
+    "name": "SPAR BBQ Grill- & Bratkäse Kräuter 4 Stück",
+    "category": "Käse",
+    "subcategories": ["Grillkäse", "Bratkäse", "Kräuter"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001691081",
+    "name": "SPAR BBQ Grill- & Bratkäse Natur 4 Stück",
+    "category": "Käse",
+    "subcategories": ["Grillkäse", "Bratkäse", "Natur"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003025334",
+    "name": "SPAR Ayran",
+    "category": "Getränke",
+    "subcategories": ["Ayran"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002913632",
+    "name": "SPAR Ayran Joghurtdrink",
+    "category": "Getränke",
+    "subcategories": ["Ayran", "Joghurtdrink"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003396717",
+    "name": "SPAR BBQ Chili-Beef-Griller 4 Stück",
+    "category": "Fleisch",
+    "subcategories": ["Chili", "Beef-Griller"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002911898",
+    "name": "SPAR BBQ Grillmix 4 Stück",
+    "category": "Fleisch",
+    "subcategories": ["Grillmix"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003658662",
+    "name": "SPAR ASC Shrimps -Cocktail",
+    "category": "Fisch",
+    "subcategories": ["Shrimps", "Cocktail"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003443275",
+    "name": "SPAR BBQ BBQ Lachs mit Knoblauch-Pfeffer",
+    "category": "Fisch",
+    "subcategories": ["Lachs", "Knoblauch-Pfeffer"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001922512",
+    "name": "SPAR BBQ BBQ Lachs mit mediterranen Kräutern",
+    "category": "Fisch",
+    "subcategories": ["Lachs", "mediterrane Kräuter"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003225598",
+    "name": "SPAR Artischockenherzen mariniert",
+    "category": "Gemüse",
+    "subcategories": ["Artischockenherzen", "mariniert"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001699704",
+    "name": "SPAR BBQ Beef Burger Regular Size 2 Stück",
+    "category": "Fleisch",
+    "subcategories": ["Beef Burger", "Regular Size"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001700868",
+    "name": "SPAR BBQ Beef Burger XXL Size 2 Stück",
+    "category": "Fleisch",
+    "subcategories": ["Beef Burger", "XXL Size"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001698479",
+    "name": "SPAR BBQ Cevapcici",
+    "category": "Fleisch",
+    "subcategories": ["Cevapcici"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001842452",
+    "name": "SPAR BBQ Grill-Gemüse-Trilogie",
+    "category": "Gemüse",
+    "subcategories": ["Grill-Gemüse-Trilogie"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002517588",
+    "name": "SPAR BBQ Hamburger Laibchen 2 x 125g",
+    "category": "Fleisch",
+    "subcategories": ["Hamburger Laibchen"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002682033",
+    "name": "SPAR Alaska-Seelachs-Filet im Backteig, tiefgekühlt",
+    "category": "Fisch",
+    "subcategories": ["Alaska-Seelachs-Filet", "Backteig", "tiefgekühlt"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001232994",
+    "name": "SPAR BBQ Fisch-Box",
+    "category": "Fisch",
+    "subcategories": ["Fisch-Box"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002305321",
+    "name": "SPAR Aranzini",
+    "category": "Getränke",
+    "subcategories": ["Aranzini"]
+  },
+  {
+    "store": "spar",
+    "id": "7999314",
+    "name": "SPAR 100% Maiskeimöl mit Vitamin E",
+    "category": "Öl",
+    "subcategories": ["Maiskeimöl", "Vitamin E"]
+  },
+  {
+    "store": "spar",
+    "id": "959124",
+    "name": "SPAR Ananas-Scheiben",
+    "category": "Obst",
+    "subcategories": ["Ananas-Scheiben"]
+  },
+  {
+    "store": "spar",
+    "id": "3953822",
+    "name": "SPAR Ananas-Scheiben fairtrade",
+    "category": "Obst",
+    "subcategories": ["Ananas-Scheiben", "fairtrade"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004150288",
+    "name": "SPAR BBQ Burger- & Sandwich-Gurken in Scheiben",
+    "category": "Gemüse",
+    "subcategories": ["Burger-Gurken", "Sandwich-Gurken", "Scheiben"]
+  },
+  {
+    "store": "spar",
+    "id": "1242690",
+    "name": "SPAR Aromatische Würze",
+    "category": "Gewürze",
+    "subcategories": ["Würze"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002358303",
+    "name": "SPAR BBQ BBQ Marshmallows bunt",
+    "category": "Süßwaren",
+    "subcategories": ["Marshmallows", "bunt"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002358389",
+    "name": "SPAR BBQ BBQ Marshmallows weiss",
+    "category": "Süßwaren",
+    "subcategories": ["Marshmallows", "weiss"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003827433",
+    "name": "SPAR Alufolie 100m",
+    "category": "Küchenzubehör",
+    "subcategories": ["Alufolie"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003827419",
+    "name": "SPAR Alufolie 30M",
+    "category": "Küchenzubehör",
+    "subcategories": ["Alufolie"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003827426",
+    "name": "SPAR Alufolie 50 m",
+    "category": "Küchenzubehör",
+    "subcategories": ["Alufolie"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002893422",
+    "name": "SPAR BBQ Garnelenspieße Chili 4 Stücke",
+    "category": "Fisch",
+    "subcategories": ["Garnelenspieße", "Chili"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002893538",
+    "name": "SPAR BBQ Garnelenspieße Knoblauch 4 Stücke",
+    "category": "Fisch",
+    "subcategories": ["Garnelenspieße", "Knoblauch"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003860287",
+    "name": "SPAR BBQ Garnelenspieße Thai 4 Stücke",
+    "category": "Fisch",
+    "subcategories": ["Garnelenspieße", "Thai"]
+  },
+  {
+    "store": "spar",
+    "id": "6694173",
+    "name": "SPAR Bananen gelb per kg",
+    "category": "Obst",
+    "subcategories": ["Bananen", "gelb"]
+  },
+  {
+    "store": "spar",
+    "id": "5969593",
+    "name": "SPAR Bananenschalotten",
+    "category": "Gemüse",
+    "subcategories": ["Bananenschalotten"]
+  },
+  {
+    "store": "spar",
+    "id": "6178765",
+    "name": "SPAR Basilikum frisch",
+    "category": "Kräuter",
+    "subcategories": ["Basilikum"]
+  },
+  {
+    "store": "spar",
+    "id": "6643287",
+    "name": "SPAR Beilagenkartoffeln vorwiegend festkochend",
+    "category": "Gemüse",
+    "subcategories": ["Beilagenkartoffeln", "vorwiegend festkochend"]
+  },
+  {
+    "store": "spar",
+    "id": "1026238",
+    "name": "SPAR Beerenauslese 40 Teebeutel",
+    "category": "Getränke",
+    "subcategories": ["Beerenauslese"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002702250",
+    "name": "SPAR Backfertiger Pizzateig mit Tomatensauce",
+    "category": "Backwaren",
+    "subcategories": ["Pizzateig", "Tomatensauce"]
+  },
+  {
+    "store": "spar",
+    "id": "4000600",
+    "name": "SPAR Baguette mit Knoblauchbutter",
+    "category": "Backwaren",
+    "subcategories": ["Baguette", "Knoblauchbutter"]
+  },
+  {
+    "store": "spar",
+    "id": "4000594",
+    "name": "SPAR Baguette mit Kräuterbutter",
+    "category": "Backwaren",
+    "subcategories": ["Baguette", "Kräuterbutter"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004609632",
+    "name": "SPAR BBQ Hendl Innenfiletspieße gewürzt",
+    "category": "Fleisch",
+    "subcategories": ["Hendl", "Innenfiletspieße", "gewürzt"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004609946",
+    "name": "SPAR BBQ Hendl Innenfiletspieße natur",
+    "category": "Fleisch",
+    "subcategories": ["Hendl", "Innenfiletspieße", "natur"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004609755",
+    "name": "SPAR BBQ Hendl Keulenschnitzerl",
+    "category": "Fleisch",
+    "subcategories": ["Hendl", "Keulenschnitzerl"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004609762",
+    "name": "SPAR BBQ Puten Steak in Barbecue Marinade",
+    "category": "Fleisch",
+    "subcategories": ["Puten Steak", "Barbecue Marinade"]
+  },
+  {
+    "store": "spar",
+    "id": "2695044",
+    "name": "SPAR Bergbauern-Emmentaler aus Heumilch",
+    "category": "Käse",
+    "subcategories": ["Bergbauern-Emmentaler", "Heumilch"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002329730",
+    "name": "SPAR BBQ Käsegriller 4 Stück",
+    "category": "Fleisch",
+    "subcategories": ["Käsegriller"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002912437",
+    "name": "SPAR BBQ Käsewürstel mit Chili 6 Stück",
+    "category": "Fleisch",
+    "subcategories": ["Käsewürstel", "Chili"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003405167",
+    "name": "SPAR BBQ Nürnberger Rostbratwürste gebrüht 14 Stück",
+    "category": "Fleisch",
+    "subcategories": ["Nürnberger Rostbratwürste", "gebrüht"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002911911",
+    "name": "SPAR BBQ Pfeffergriller 4 Stück",
+    "category": "Fleisch",
+    "subcategories": ["Pfeffergriller"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002329853",
+    "name": "SPAR BBQ Riesen-Bratwurst per Packung",
+    "category": "Fleisch",
+    "subcategories": ["Riesen-Bratwurst"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002329877",
+    "name": "SPAR BBQ Riesen-Käsekrainer per Packung",
+    "category": "Fleisch",
+    "subcategories": ["Riesen-Käsekrainer"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002974312",
+    "name": "SPAR BBQ Würstel-Grillspieße",
+    "category": "Fleisch",
+    "subcategories": ["Würstel", "Grillspieße"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001546824",
+    "name": "SPAR BBQ Lachs mit Pfeffer-Mix 2 Stück",
+    "category": "Fisch",
+    "subcategories": ["Lachs", "Pfeffer-Mix"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001698370",
+    "name": "SPAR BBQ Sweet Potato Fries",
+    "category": "Gemüse",
+    "subcategories": ["Sweet Potato Fries"]
+  },
+  {
+    "store": "spar",
+    "id": "3612026",
+    "name": "SPAR Backrohr Frites",
+    "category": "Gemüse",
+    "subcategories": ["Frites"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004013811",
+    "name": "SPAR Beerenmix tiefgekühlt",
+    "category": "Gemüse",
+    "subcategories": ["Beerenmix", "tiefgekühlt"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002465353",
+    "name": "SPAR BBQ Quinoa-Kale-Burger",
+    "category": "Fleisch",
+    "subcategories": ["Quinoa-Kale-Burger"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002916763",
+    "name": "SPAR Back-Mozzarella-Sticks mit Tomaten-Dip, tiefgekühlt",
+    "category": "Gemüse",
+    "subcategories": ["Mozzarella-Sticks", "Tomaten-Dip", "tiefgekühlt"]
+  },
+  {
+    "store": "spar",
+    "id": "3782323",
+    "name": "SPAR Backhendl",
+    "category": "Fleisch",
+    "subcategories": ["Backhendl"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003485466",
+    "name": "SPAR Backfisch-Stäbchen 15 Stück 405g Packung",
+    "category": "Fisch",
+    "subcategories": ["Backfisch-Stäbchen"]
+  },
+  {
+    "store": "spar",
+    "id": "3468791",
+    "name": "SPAR Basilikum streufertig",
+    "category": "Kräuter",
+    "subcategories": ["Basilikum"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001698424",
+    "name": "SPAR BBQ Pita-Grillbrot Lepinja 4 Stück",
+    "category": "Brot",
+    "subcategories": ["Pita-Grillbrot", "Lepinja"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003538087",
+    "name": "SPAR Baguette Grande Pikante",
+    "category": "Backwaren",
+    "subcategories": ["Baguette", "Pikante"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003536977",
+    "name": "SPAR Baguette Grande Provence",
+    "category": "Backwaren",
+    "subcategories": ["Baguette", "Provence"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003538094",
+    "name": "SPAR Baguette Grande Thunfisch",
+    "category": "Backwaren",
+    "subcategories": ["Baguette", "Thunfisch"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004650856",
+    "name": "SPAR Baguette Grande Vegetale 185g",
+    "category": "Backwaren",
+    "subcategories": ["Baguette", "Vegetale"]
+  },
+  {
+    "store": "spar",
+    "id": "5736133",
+    "name": "SPAR Baguette Korsika 2 Stück 250g",
+    "category": "Backwaren",
+    "subcategories": ["Baguette", "Korsika"]
+  },
+  {
+    "store": "spar",
+    "id": "5736119",
+    "name": "SPAR Baguette Provence 2 Stück 250g",
+    "category": "Backwaren",
+    "subcategories": ["Baguette", "Provence"]
+  },
+  {
+    "store": "spar",
+    "id": "5755585",
+    "name": "SPAR Bauernpizza 315g Packung",
+    "category": "Backwaren",
+    "subcategories": ["Bauernpizza"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002903695",
+    "name": "SPAR Backaroma Rum 4 x 2ml",
+    "category": "Backzutaten",
+    "subcategories": ["Backaroma", "Rum"]
+  }
+]

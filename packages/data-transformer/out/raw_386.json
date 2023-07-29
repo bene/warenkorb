@@ -1,0 +1,702 @@
+[
+  {
+    "store": "spar",
+    "id": "2020001633982",
+    "name": "Claro Geschirrspültabs Classic 40 Tabs",
+    "category": "Spülmaschinentabs",
+    "subcategories": ["Geschirrspültabs", "Klassisch"]
+  },
+  {
+    "store": "spar",
+    "id": "2177465",
+    "name": "Claro Geschirrspültabs multi - Alles in 1 30 Stück",
+    "category": "Spülmaschinentabs",
+    "subcategories": ["Geschirrspültabs", "Multi"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002793890",
+    "name": "Claro Geschirrspültabs multi - Alles in 1 50 Tabs",
+    "category": "Spülmaschinentabs",
+    "subcategories": ["Geschirrspültabs", "Multi"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003483837",
+    "name": "Claro Klarspüler für perfekten Glanz 500ml",
+    "category": "Klarspüler",
+    "subcategories": ["Klarspüler", "Glanz"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003483851",
+    "name": "Claro Maschinenpfleger für hygienische Sauberkeit 160g",
+    "category": "Maschinenpfleger",
+    "subcategories": ["Maschinenpfleger", "Hygiene"]
+  },
+  {
+    "store": "spar",
+    "id": "4475422",
+    "name": "Clin Glasreiniger Anti-Glasbeschlag 500ml",
+    "category": "Glasreiniger",
+    "subcategories": ["Glasreiniger", "Anti-Glasbeschlag"]
+  },
+  {
+    "store": "spar",
+    "id": "4475392",
+    "name": "Clin Glasreiniger Glas & Flächen 500ml",
+    "category": "Glasreiniger",
+    "subcategories": ["Glasreiniger", "Flächenreiniger"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003117824",
+    "name": "Clin Glasreiniger Pro Nature 500ml",
+    "category": "Glasreiniger",
+    "subcategories": ["Glasreiniger", "Umwneltfreundlich"]
+  },
+  {
+    "store": "spar",
+    "id": "1834994",
+    "name": "Clin Reinigungsspray Multi-Flächen 500ml",
+    "category": "Reinigungsspray",
+    "subcategories": ["Reinigungsspray", "Flächenreiniger"]
+  },
+  {
+    "store": "spar",
+    "id": "4415084",
+    "name": "Clin Streifenfrei Glasreiniger Citrus-Frische 500ml",
+    "category": "Glasreiniger",
+    "subcategories": ["Glasreiniger", "Citrusduft"]
+  },
+  {
+    "store": "spar",
+    "id": "3015476",
+    "name": "Clin Streifenfrei Glasreiniger Citrus-Frische 750ml",
+    "category": "Glasreiniger",
+    "subcategories": ["Glasreiniger", "Citrusduft"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004026682",
+    "name": "DANKE Taschentücher-Box 80 Stück",
+    "category": "Taschentücher",
+    "subcategories": ["Taschentücher", "Box"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003514272",
+    "name": "Claro Waschmittel-Pulver Kunterbunt 35WG",
+    "category": "Waschmittel",
+    "subcategories": ["Waschmittel", "Pulver", "Buntwäsche"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003514289",
+    "name": "Claro Waschmittel-Pulver Schneeweißchen 35WG",
+    "category": "Waschmittel",
+    "subcategories": ["Waschmittel", "Pulver", "Weißwäsche"]
+  },
+  {
+    "store": "spar",
+    "id": "8124043",
+    "name": "Claro Öko Kalkstopp Tabs 45 Stück",
+    "category": "Kalkschutz",
+    "subcategories": ["Kalkstopp", "Tabs"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004661562",
+    "name": "Coral Colorwaschmittel Allin1 Caps Optimal Color 18WG",
+    "category": "Waschmittel",
+    "subcategories": ["Colorwaschmittel", "Caps"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004538741",
+    "name": "Coral Colorwaschmittel Black Velvet 25WG",
+    "category": "Waschmittel",
+    "subcategories": ["Colorwaschmittel", "Schwarz"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004538727",
+    "name": "Coral Colorwaschmittel Optimal Color 25WG",
+    "category": "Waschmittel",
+    "subcategories": ["Colorwaschmittel", "Farberhalt"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004593092",
+    "name": "Coral Colorwaschmittel-Pulver Optimal Color 22WG",
+    "category": "Waschmittel",
+    "subcategories": ["Colorwaschmittel", "Pulver"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004538765",
+    "name": "Coral Feinwaschmittel Wolle & Feines 25WG",
+    "category": "Waschmittel",
+    "subcategories": ["Feinwaschmittel", "Wolle", "Feinwäsche"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003418679",
+    "name": "Coral Flüssigwaschmittel Black Velvet 50WG",
+    "category": "Waschmittel",
+    "subcategories": ["Flüssigwaschmittel", "Schwarz"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003418655",
+    "name": "Coral Flüssigwaschmittel Optimal Color 50WG",
+    "category": "Waschmittel",
+    "subcategories": ["Flüssigwaschmittel", "Farberhalt"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003418631",
+    "name": "Coral Flüssigwaschmittel Optimal White 50WG",
+    "category": "Waschmittel",
+    "subcategories": ["Flüssigwaschmittel", "Weißwäsche"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003418600",
+    "name": "Coral Flüssigwaschmittel Silk & Wool 50WG",
+    "category": "Waschmittel",
+    "subcategories": ["Flüssigwaschmittel", "Seide", "Wolle"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004538758",
+    "name": "Coral Waschmittel für alles Weiße White+ 25WG",
+    "category": "Waschmittel",
+    "subcategories": ["Waschmittel", "Weißwäsche"]
+  },
+  {
+    "store": "spar",
+    "id": "5615704",
+    "name": "Leifheit Bügelbezug",
+    "category": "Bügelzubehör",
+    "subcategories": ["Bügelbezug"]
+  },
+  {
+    "store": "spar",
+    "id": "2020000553694",
+    "name": "Leifheit Bügeltisch-Polsterung 140 x 45 cm",
+    "category": "Bügelzubehör",
+    "subcategories": ["Bügeltisch-Polsterung"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001549825",
+    "name": "Leifheit Bügeltischüberzug",
+    "category": "Bügelzubehör",
+    "subcategories": ["Bügeltischüberzug"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001720545",
+    "name": "Leifheit Bügeltuch 72415",
+    "category": "Bügelzubehör",
+    "subcategories": ["Bügeltuch"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004027511",
+    "name": "Leifheit Kleinteilehalter 2er Set",
+    "category": "Bügelzubehör",
+    "subcategories": ["Kleinteilehalter"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003012716",
+    "name": "Leifheit Textilbürste Dressetta",
+    "category": "Reinigungsbürste",
+    "subcategories": ["Textilbürste"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004573681",
+    "name": "Lenor All in 1 Color-Waschmittel PODs Amethyst Blütentraum 22WG",
+    "category": "Waschmittel",
+    "subcategories": ["Colorwaschmittel", "Caps"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004573667",
+    "name": "Lenor All in 1 Universal-Waschmittel PODs Aprilfrisch 22WG",
+    "category": "Waschmittel",
+    "subcategories": ["Universalwaschmittel", "Caps"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004624406",
+    "name": "Lenor Light Wäscheparfüm Frische Baumwollblüte 160g",
+    "category": "Wäscheparfüm",
+    "subcategories": ["Wäscheparfüm", "Baumwolle"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004624505",
+    "name": "Lenor Light Wäscheparfüm Lavendel & Seidenbaumblüte 160g",
+    "category": "Wäscheparfüm",
+    "subcategories": ["Wäscheparfüm", "Lavendel"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004623119",
+    "name": "Lenor Unstoppables Dreams 160g",
+    "category": "Wäscheparfüm",
+    "subcategories": ["Wäscheparfüm", "Träume"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004622969",
+    "name": "Lenor Unstoppables Fresh 160g",
+    "category": "Wäscheparfüm",
+    "subcategories": ["Wäscheparfüm", "Frische"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003791598",
+    "name": "Lenor Weichspüler Amethyst Blütentraum 38WG",
+    "category": "Weichspüler",
+    "subcategories": ["Weichspüler", "Blütentraum"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002960193",
+    "name": "Lenor Weichspüler Amethyst Blütentraum 58WG",
+    "category": "Weichspüler",
+    "subcategories": ["Weichspüler", "Blütentraum"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003791772",
+    "name": "Lenor Weichspüler Aprilfrisch 46WG",
+    "category": "Weichspüler",
+    "subcategories": ["Weichspüler", "Aprilfrisch"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002691479",
+    "name": "Lenor Weichspüler Aprilfrisch 66WG",
+    "category": "Weichspüler",
+    "subcategories": ["Weichspüler", "Aprilfrisch"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004526984",
+    "name": "Lenor Weichspüler Freshness Guard 38WG",
+    "category": "Weichspüler",
+    "subcategories": ["Weichspüler", "Frischhalte"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004102713",
+    "name": "Lenor Weichspüler Frische Baumwollblüte 38WG",
+    "category": "Weichspüler",
+    "subcategories": ["Weichspüler", "Baumwolle"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003420443",
+    "name": "Lenor Weichspüler Frischeschutz 66WG",
+    "category": "Weichspüler",
+    "subcategories": ["Weichspüler", "Frischeschutz"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003420481",
+    "name": "Lenor Weichspüler Frühlingsgarten 66WG",
+    "category": "Weichspüler",
+    "subcategories": ["Weichspüler", "Frühlingsduft"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003791611",
+    "name": "Lenor Weichspüler Goldene Orchidee 38WG",
+    "category": "Weichspüler",
+    "subcategories": ["Weichspüler", "Orchidee"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002960186",
+    "name": "Lenor Weichspüler Goldene Orchidee 58WG",
+    "category": "Weichspüler",
+    "subcategories": ["Weichspüler", "Orchidee"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003791840",
+    "name": "Lenor Weichspüler Meeresbrise 38WG",
+    "category": "Weichspüler",
+    "subcategories": ["Weichspüler", "Meeresbrise"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003791895",
+    "name": "Lenor Weichspüler Sensitiv 46WG",
+    "category": "Weichspüler",
+    "subcategories": ["Weichspüler", "Sensitiv"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002691417",
+    "name": "Lenor Weichspüler Sensitiv 66WG",
+    "category": "Weichspüler",
+    "subcategories": ["Weichspüler", "Sensitiv"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003791864",
+    "name": "Lenor Weichspüler Sommerblumen 38WG",
+    "category": "Weichspüler",
+    "subcategories": ["Weichspüler", "Sommerblumen"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004624338",
+    "name": "Lenor Wäscheparfüm Aprilfrisch 160g",
+    "category": "Wäscheparfüm",
+    "subcategories": ["Wäscheparfüm", "Aprilfrisch"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004624383",
+    "name": "Lenor Wäscheparfüm Goldene Orchidee 160g",
+    "category": "Wäscheparfüm",
+    "subcategories": ["Wäscheparfüm", "Orchidee"]
+  },
+  {
+    "store": "spar",
+    "id": "2020000903772",
+    "name": "Letex Flüssigimprägnierer 1WG",
+    "category": "Imprägnierer",
+    "subcategories": ["Flüssigimprägnierer"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003644085",
+    "name": "Letex Waschmittel Daune, Cashmere, Seide 1WG",
+    "category": "Waschmittel",
+    "subcategories": ["Waschmittel", "Daune", "Cashmere", "Seide"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003590641",
+    "name": "Cuitisan Frischhaltedose 1100ml",
+    "category": "Frischhaltedosen",
+    "subcategories": ["Frischhaltedose"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003590665",
+    "name": "Cuitisan Frischhaltedose 1800ml",
+    "category": "Frischhaltedosen",
+    "subcategories": ["Frischhaltedose"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003590566",
+    "name": "Cuitisan Frischhaltedose 980ml",
+    "category": "Frischhaltedosen",
+    "subcategories": ["Frischhaltedose"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003757747",
+    "name": "Lunchbox Edelstahl 1100ml",
+    "category": "Brotdose",
+    "subcategories": ["Lunchbox", "Edelstahl"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003757716",
+    "name": "Lunchbox Edelstahl 700ml",
+    "category": "Brotdose",
+    "subcategories": ["Lunchbox", "Edelstahl"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003462375",
+    "name": "Mepal Bento Lunchbox ltake a break large",
+    "category": "Brotdose",
+    "subcategories": ["Bento Lunchbox", "Take a break", "Groß"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003462283",
+    "name": "Mepal Bento Lunchbox take a break large",
+    "category": "Brotdose",
+    "subcategories": ["Bento Lunchbox", "Take a break", "Groß"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003462344",
+    "name": "Mepal Bento Lunchbox take a break large",
+    "category": "Brotdose",
+    "subcategories": ["Bento Lunchbox", "Take a break", "Groß"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003462412",
+    "name": "Mepal Bento Lunchbox take a break midi",
+    "category": "Brotdose",
+    "subcategories": ["Bento Lunchbox", "Take a break", "Midi"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003988400",
+    "name": "Mepal Besteckset 3 tlg Ellipse",
+    "category": "Besteckset",
+    "subcategories": ["Besteck", "Set"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003062056",
+    "name": "Mepal Brotdose Campus 13,2x18x6,1cm",
+    "category": "Brotdose",
+    "subcategories": ["Brotdose", "Campus"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003062193",
+    "name": "Mepal Brotdose Campus Lama 13,2x18x6,1cm",
+    "category": "Brotdose",
+    "subcategories": ["Brotdose", "Campus", "Lama"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003818042",
+    "name": "Mepal Brotdose Campus Leopard",
+    "category": "Brotdose",
+    "subcategories": ["Brotdose", "Campus"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003062094",
+    "name": "Mepal Brotdose Campus Paw Patrol",
+    "category": "Brotdose",
+    "subcategories": ["Brotdose", "Campus"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003336959",
+    "name": "Mepal Brotdose Campus animal friends",
+    "category": "Brotdose",
+    "subcategories": ["Brotdose", "Campus", "Tierfreunde"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003336935",
+    "name": "Mepal Brotdose Campus frozen",
+    "category": "Brotdose",
+    "subcategories": ["Brotdose", "Campus"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003336966",
+    "name": "Mepal Brotdose Campus lol surprise",
+    "category": "Brotdose",
+    "subcategories": ["Brotdose", "Campus", "Lol Surprise"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003062070",
+    "name": "Mepal Brotdose Campus pink",
+    "category": "Brotdose",
+    "subcategories": ["Brotdose", "Campus"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003336881",
+    "name": "Mepal Brotdose Campus türkis",
+    "category": "Brotdose",
+    "subcategories": ["Brotdose", "Campus"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003416798",
+    "name": "Mepal Fruitpot Ellipse 500ml nordic green",
+    "category": "Frischehaltung",
+    "subcategories": ["Fruitpot", "Frischehaltung", "500ml", "grün"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003416781",
+    "name": "Mepal Fruitpot Ellipse 500ml nordic pink",
+    "category": "Frischehaltung",
+    "subcategories": ["Fruitpot", "Frischehaltung", "500ml", "pink"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003465437",
+    "name": "Mepal Jubilläums-Set Cirqula 4-teilig 350+750+1250+2250ml",
+    "category": "Vorratsdose",
+    "subcategories": ["Jubiläums-Set", "Cirqula", "Vorratsdose", "4-teilig"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003465529",
+    "name": "Mepal Jubiläums-Set Cirqula 4-teilig 500+1000+2000+3000ml",
+    "category": "Vorratsdose",
+    "subcategories": ["Jubiläums-Set", "Cirqula", "Vorratsdose", "4-teilig"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003630293",
+    "name": "Mepal Jubiläumsset Vorratsdose Modula 9-teilig",
+    "category": "Vorratsdose",
+    "subcategories": ["Jubiläumsset", "Vorratsdose", "Modula", "9-teilig"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003652677",
+    "name": "Mepal Kuehlschrankdose 2000Ml Käse",
+    "category": "Kühlschrankdose",
+    "subcategories": ["Kühlschrankdose", "2 Liter", "Käse"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003323683",
+    "name": "Mepal Kühlscheankdose Modula aufschnitt 550/3",
+    "category": "Kühlschrankdose",
+    "subcategories": ["Kühlschrankdose", "Aufschnitt", "550ml", "3-fach"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003323652",
+    "name": "Mepal Kühlschrankdose Modula aufschnitt 550/1",
+    "category": "Kühlschrankdose",
+    "subcategories": ["Kühlschrankdose", "Aufschnitt", "550ml", "1-fach"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002700614",
+    "name": "Mepal Kühlschrankdose Omnia Aufschnitt",
+    "category": "Kühlschrankdose",
+    "subcategories": ["Kühlschrankdose", "Aufschnitt", "Omnia"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002700768",
+    "name": "Mepal Kühlschrankdose Omnia Frühstück duo",
+    "category": "Kühlschrankdose",
+    "subcategories": ["Kühlschrankdose", "Frühstück", "Omnia", "Duo"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002694869",
+    "name": "Mepal Lunchbox Ellipse Duo Nordic Green",
+    "category": "Brotdose",
+    "subcategories": ["Lunchbox", "Ellipse", "Duo", "grün"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002694807",
+    "name": "Mepal Lunchbox Ellipse Duo Nordic Pink",
+    "category": "Brotdose",
+    "subcategories": ["Lunchbox", "Ellipse", "Duo", "pink"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002694920",
+    "name": "Mepal Lunchbox Midi Nordic Green",
+    "category": "Brotdose",
+    "subcategories": ["Lunchbox", "Midi", "grün"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002694890",
+    "name": "Mepal Lunchbox Midi Nordic Pink",
+    "category": "Brotdose",
+    "subcategories": ["Lunchbox", "Midi", "pink"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002782696",
+    "name": "Mepal Lunchbox Midi weiß",
+    "category": "Brotdose",
+    "subcategories": ["Lunchbox", "Midi", "weiß"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002782801",
+    "name": "Mepal Lunchbox duo Weiß",
+    "category": "Brotdose",
+    "subcategories": ["Lunchbox", "Duo", "weiß"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003868573",
+    "name": "Mepal Lunchpot + faltbarer Löffel Nordic denim 2-teilig",
+    "category": "Poridge-Set",
+    "subcategories": ["Lunchpot", "faltbarer Löffel", "denim"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003868672",
+    "name": "Mepal Lunchpot + faltbarer Löffel Nordic pink",
+    "category": "Poridge-Set",
+    "subcategories": ["Lunchpot", "faltbarer Löffel", "pink"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003868719",
+    "name": "Mepal Lunchpot + faltbarer löffel nordic green",
+    "category": "Poridge-Set",
+    "subcategories": ["Lunchpot", "faltbarer Löffel", "grün"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002694791",
+    "name": "Mepal Lunchpot Ellipse",
+    "category": "Porrdige-Set",
+    "subcategories": ["Lunchpot", "Ellipse"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002694692",
+    "name": "Mepal Lunchpot Ellipse",
+    "category": "Porrdige-Set",
+    "subcategories": ["Lunchpot", "Ellipse"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003759024",
+    "name": "Mepal Lunchpot nordic denim",
+    "category": "Porrdige-Set",
+    "subcategories": ["Lunchpot", "denim"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003042676",
+    "name": "Mepal Modula Vorratsdosenset 5-teilig",
+    "category": "Vorratsdose",
+    "subcategories": ["Modula", "Vorratsdosenset", "5-teilig"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003652127",
+    "name": "Mepal Mueltischuessel Nordic Blush",
+    "category": "Müslischüssel",
+    "subcategories": ["Müslischüssel", "Nordic Blush"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003652615",
+    "name": "Mepal Mulitschuessel 2000ml Nordic Black",
+    "category": "Müslischüssel",
+    "subcategories": ["Müslischüssel", "Nordic Black"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003689413",
+    "name": "Mepal Mulitschüssel 1000ml nordic green",
+    "category": "Müslischüssel",
+    "subcategories": ["Müslischüssel", "nordic green"]
+  }
+]

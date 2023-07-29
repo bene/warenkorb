@@ -1,0 +1,702 @@
+[
+  {
+    "store": "billa",
+    "id": "00-22997",
+    "name": "Bounty Minis",
+    "category": "Schokolade",
+    "subcategories": ["Kokosnuss", "Süßigkeiten"]
+  },
+  {
+    "store": "billa",
+    "id": "00-345405",
+    "name": "Bratee Kaugummi Baba Melon",
+    "category": "Kaugummi",
+    "subcategories": ["Melone", "Süßwaren"]
+  },
+  {
+    "store": "billa",
+    "id": "00-345399",
+    "name": "Bratee Kaugummi Bra Berry",
+    "category": "Kaugummi",
+    "subcategories": ["Beeren", "Süßwaren"]
+  },
+  {
+    "store": "billa",
+    "id": "00-345408",
+    "name": "Bratee Kaugummi Iced Mint",
+    "category": "Kaugummi",
+    "subcategories": ["Minze", "Süßwaren"]
+  },
+  {
+    "store": "billa",
+    "id": "00-345400",
+    "name": "Bratee Kaugummi Juicy Mint",
+    "category": "Kaugummi",
+    "subcategories": ["Minze", "Süßwaren"]
+  },
+  {
+    "store": "billa",
+    "id": "00-819315",
+    "name": "Bubblizz Fruchtgummi",
+    "category": "Fruchtgummi",
+    "subcategories": ["Süßwaren"]
+  },
+  {
+    "store": "billa",
+    "id": "00-487587",
+    "name": "Cadbury Wunderbar Erdnuss-Karamell Riegel 5er",
+    "category": "Riegel",
+    "subcategories": ["Erdnuss", "Karamell", "Schokolade"]
+  },
+  {
+    "store": "billa",
+    "id": "00-813562",
+    "name": "Campino Früchte",
+    "category": "Bonbons",
+    "subcategories": ["Frucht", "Erfrischung"]
+  },
+  {
+    "store": "billa",
+    "id": "00-65437",
+    "name": "Casali Rum Kokos",
+    "category": "Schokolade",
+    "subcategories": ["Rum", "Kokosnuss", "Süßigkeiten"]
+  },
+  {
+    "store": "billa",
+    "id": "00-401071",
+    "name": "Casali Rum Kokos",
+    "category": "Schokolade",
+    "subcategories": ["Rum", "Kokosnuss", "Süßigkeiten"]
+  },
+  {
+    "store": "billa",
+    "id": "00-342333",
+    "name": "Casali Rum Kokos Black & White",
+    "category": "Schokolade",
+    "subcategories": ["Rum", "Kokosnuss", "Süßigkeiten"]
+  },
+  {
+    "store": "billa",
+    "id": "00-310734",
+    "name": "Casali Schoko-Bananen Giraffe",
+    "category": "Schokolade",
+    "subcategories": ["Bananen", "Süßigkeiten"]
+  },
+  {
+    "store": "billa",
+    "id": "00-679418",
+    "name": "Casali Schokobanane XL Wildberry",
+    "category": "Schokolade",
+    "subcategories": ["Bananen", "Beeren", "Süßigkeiten"]
+  },
+  {
+    "store": "billa",
+    "id": "00-17185",
+    "name": "Casali Schokobananen",
+    "category": "Schokolade",
+    "subcategories": ["Bananen", "Süßigkeiten"]
+  },
+  {
+    "store": "billa",
+    "id": "00-596413",
+    "name": "Casali Schokobananen Double Choc",
+    "category": "Schokolade",
+    "subcategories": ["Bananen", "Schokolade", "Süßigkeiten"]
+  },
+  {
+    "store": "billa",
+    "id": "00-286398",
+    "name": "Casali Waves",
+    "category": "Schokolade",
+    "subcategories": ["Süßigkeiten"]
+  },
+  {
+    "store": "billa",
+    "id": "00-422687",
+    "name": "Celebrations Pralinen",
+    "category": "Pralinen",
+    "subcategories": ["Süßwaren"]
+  },
+  {
+    "store": "billa",
+    "id": "00-613520",
+    "name": "Center Shock Saurer Kaugummi",
+    "category": "Kaugummi",
+    "subcategories": ["Sauer", "Süßwaren"]
+  },
+  {
+    "store": "billa",
+    "id": "00-769715",
+    "name": "Clever Alpenvollmilch Schokolade",
+    "category": "Schokolade",
+    "subcategories": ["Alpenmilch", "Süßigkeiten"]
+  },
+  {
+    "store": "billa",
+    "id": "00-309406",
+    "name": "Clever Butterkekse",
+    "category": "Kekse",
+    "subcategories": ["Butter", "Süßwaren"]
+  },
+  {
+    "store": "billa",
+    "id": "00-562612",
+    "name": "Clever Caramel Minis",
+    "category": "Karamell",
+    "subcategories": ["Süßwaren"]
+  },
+  {
+    "store": "billa",
+    "id": "00-502950",
+    "name": "Clever Chocolate Chip Cookies",
+    "category": "Kekse",
+    "subcategories": ["Schokolade", "Süßwaren"]
+  },
+  {
+    "store": "billa",
+    "id": "00-415124",
+    "name": "Clever Doppelkekse",
+    "category": "Kekse",
+    "subcategories": ["Süßwaren"]
+  },
+  {
+    "store": "billa",
+    "id": "00-587778",
+    "name": "Clever Ganze Nuss Schokolade",
+    "category": "Schokolade",
+    "subcategories": ["Nüsse", "Süßigkeiten"]
+  },
+  {
+    "store": "billa",
+    "id": "00-496593",
+    "name": "Clever Gebäckmischung",
+    "category": "Gebäck",
+    "subcategories": ["Mischung", "Süßwaren"]
+  },
+  {
+    "store": "billa",
+    "id": "00-500352",
+    "name": "Clever Kakao Schnitten",
+    "category": "Schnitten",
+    "subcategories": ["Kakao", "Süßwaren"]
+  },
+  {
+    "store": "billa",
+    "id": "00-720535",
+    "name": "Clever Kakaokekse mit zarter Cremefüllung",
+    "category": "Kekse",
+    "subcategories": ["Kakao", "Creme", "Süßwaren"]
+  },
+  {
+    "store": "billa",
+    "id": "00-717695",
+    "name": "Clever Kaugummi White",
+    "category": "Kaugummi",
+    "subcategories": ["Süßwaren"]
+  },
+  {
+    "store": "billa",
+    "id": "00-562593",
+    "name": "Clever Knuspix Minis",
+    "category": "Knusper",
+    "subcategories": ["Süßwaren"]
+  },
+  {
+    "store": "billa",
+    "id": "00-285260",
+    "name": "Clever Kokoskuppeln",
+    "category": "Kokos",
+    "subcategories": ["Süßwaren"]
+  },
+  {
+    "store": "billa",
+    "id": "00-477957",
+    "name": "Clever Mignon Schnitten",
+    "category": "Schnitten",
+    "subcategories": ["Schokolade", "Süßwaren"]
+  },
+  {
+    "store": "billa",
+    "id": "00-338417",
+    "name": "Clever Mignon-Schnitten Trio",
+    "category": "Schnitten",
+    "subcategories": ["Schokolade", "Süßwaren"]
+  },
+  {
+    "store": "billa",
+    "id": "00-766912",
+    "name": "Clever Mürbteigkekse mit Milchschokolade",
+    "category": "Kekse",
+    "subcategories": ["Schokolade", "Süßwaren"]
+  },
+  {
+    "store": "billa",
+    "id": "00-562603",
+    "name": "Clever Peanuts Minis",
+    "category": "Erdnuss",
+    "subcategories": ["Süßwaren"]
+  },
+  {
+    "store": "billa",
+    "id": "00-391210",
+    "name": "Clever Sahne Toffees",
+    "category": "Sahne",
+    "subcategories": ["Toffee", "Süßwaren"]
+  },
+  {
+    "store": "billa",
+    "id": "00-481565",
+    "name": "Clever Schoko Bonbons",
+    "category": "Bonbons",
+    "subcategories": ["Schokolade", "Süßwaren"]
+  },
+  {
+    "store": "billa",
+    "id": "00-426153",
+    "name": "Clever Schoko-Butterkekse Vollmilch",
+    "category": "Kekse",
+    "subcategories": ["Schokolade", "Butter", "Süßwaren"]
+  },
+  {
+    "store": "billa",
+    "id": "00-965122",
+    "name": "Clever Schoko-Milch Taler",
+    "category": "Schokolade",
+    "subcategories": ["Milch", "Süßwaren"]
+  },
+  {
+    "store": "billa",
+    "id": "00-644014",
+    "name": "Clever Schokobananen",
+    "category": "Schokolade",
+    "subcategories": ["Bananen", "Süßigkeiten"]
+  },
+  {
+    "store": "billa",
+    "id": "00-648894",
+    "name": "Clever Soft Orange Cake",
+    "category": "Kuchen",
+    "subcategories": ["Orange", "Süßwaren"]
+  },
+  {
+    "store": "billa",
+    "id": "00-769716",
+    "name": "Clever Vollmilch Nuss Schokolade",
+    "category": "Schokolade",
+    "subcategories": ["Nüsse", "Süßwaren"]
+  },
+  {
+    "store": "billa",
+    "id": "00-426155",
+    "name": "Clever Waffeln Vollmilch",
+    "category": "Waffeln",
+    "subcategories": ["Vollmilch", "Süßwaren"]
+  },
+  {
+    "store": "billa",
+    "id": "00-359375",
+    "name": "Clever Waffelröllchen Vollmilch",
+    "category": "Waffeln",
+    "subcategories": ["Vollmilch", "Süßwaren"]
+  },
+  {
+    "store": "billa",
+    "id": "00-417828",
+    "name": "Coppenrath Café Kränze Classic",
+    "category": "Kekse",
+    "subcategories": ["Café", "Klassisch", "Süßwaren"]
+  },
+  {
+    "store": "billa",
+    "id": "00-772430",
+    "name": "Coppenrath Grazer Ringe Classic",
+    "category": "Kekse",
+    "subcategories": ["Grazer", "Klassisch", "Süßwaren"]
+  },
+  {
+    "store": "billa",
+    "id": "00-755083",
+    "name": "Coppenrath Wiener Sandringe Zuckerfrei",
+    "category": "Kekse",
+    "subcategories": ["Wiener", "Zuckerfrei", "Süßwaren"]
+  },
+  {
+    "store": "billa",
+    "id": "00-612329",
+    "name": "DeBeukelaer Cereola Hafercookies",
+    "category": "Kekse",
+    "subcategories": ["Hafer", "Süßwaren"]
+  },
+  {
+    "store": "billa",
+    "id": "00-440995",
+    "name": "DeBeukelaer Cereola Milchschokolade",
+    "category": "Schokolade",
+    "subcategories": ["Hafer", "Milchschokolade", "Süßwaren"]
+  },
+  {
+    "store": "billa",
+    "id": "00-767547",
+    "name": "DeBeukelaer ChocOlé Milchschokolade",
+    "category": "Schokolade",
+    "subcategories": ["Milchschokolade", "Süßwaren"]
+  },
+  {
+    "store": "billa",
+    "id": "00-284531",
+    "name": "DeBeukelaer Nuss Duo",
+    "category": "Schokolade",
+    "subcategories": ["Nüsse", "Süßwaren"]
+  },
+  {
+    "store": "billa",
+    "id": "00-2981",
+    "name": "DeBeukelaer Prinzenrolle",
+    "category": "Kekse",
+    "subcategories": ["Schokolade", "Süßwaren"]
+  },
+  {
+    "store": "billa",
+    "id": "00-790608",
+    "name": "DeBeukelaer Prinzenrolle",
+    "category": "Kekse",
+    "subcategories": ["Schokolade", "Süßwaren"]
+  },
+  {
+    "store": "billa",
+    "id": "00-287926",
+    "name": "DeBeukelaer Prinzenrolle Cremys",
+    "category": "Kekse",
+    "subcategories": ["Schokolade", "Creme", "Süßwaren"]
+  },
+  {
+    "store": "billa",
+    "id": "00-612449",
+    "name": "DeBeukelaer Prinzenrolle Minis",
+    "category": "Kekse",
+    "subcategories": ["Schokolade", "Süßwaren"]
+  },
+  {
+    "store": "billa",
+    "id": "00-696968",
+    "name": "DeBeukelaer Prinzenrolle Vollkorn",
+    "category": "Kekse",
+    "subcategories": ["Vollkorn", "Süßwaren"]
+  },
+  {
+    "store": "billa",
+    "id": "00-703759",
+    "name": "DeBeukelaer Soft Cake Kirsche",
+    "category": "Kuchen",
+    "subcategories": ["Kirsche", "Süßwaren"]
+  },
+  {
+    "store": "billa",
+    "id": "00-557846",
+    "name": "Dextro Energy Cassis",
+    "category": "Traubenzucker",
+    "subcategories": ["Cassis", "Energie"]
+  },
+  {
+    "store": "billa",
+    "id": "00-800894",
+    "name": "Dextro Energy Johannisbeere Minis",
+    "category": "Traubenzucker",
+    "subcategories": ["Johannisbeere", "Energie"]
+  },
+  {
+    "store": "billa",
+    "id": "00-502139",
+    "name": "Dextro Energy Neutral",
+    "category": "Traubenzucker",
+    "subcategories": ["Neutral", "Energie"]
+  },
+  {
+    "store": "billa",
+    "id": "00-502140",
+    "name": "Dextro Energy Zitrone",
+    "category": "Traubenzucker",
+    "subcategories": ["Zitrone", "Energie"]
+  },
+  {
+    "store": "billa",
+    "id": "00-29219",
+    "name": "Dickmann's Schoko Strolche 24er",
+    "category": "Schokolade",
+    "subcategories": ["Schaum", "Schokolade", "Süßwaren"]
+  },
+  {
+    "store": "billa",
+    "id": "00-461607",
+    "name": "Dixi Max Traubenzucker plus Magnesium",
+    "category": "Traubenzucker",
+    "subcategories": ["Magnesium", "Energie"]
+  },
+  {
+    "store": "billa",
+    "id": "00-407828",
+    "name": "Dixi Traubenzucker",
+    "category": "Traubenzucker",
+    "subcategories": ["Energie"]
+  },
+  {
+    "store": "billa",
+    "id": "00-504404",
+    "name": "Egger Sportgummi",
+    "category": "Fruchtgummi",
+    "subcategories": ["Sport", "Eier"]
+  },
+  {
+    "store": "billa",
+    "id": "00-906353",
+    "name": "Englhofer Eiszapfen",
+    "category": "Schokolade",
+    "subcategories": ["Eis", "Süßwaren"]
+  },
+  {
+    "store": "billa",
+    "id": "00-4890",
+    "name": "Englhofer Firn",
+    "category": "Schokolade",
+    "subcategories": ["Eis", "Süßwaren"]
+  },
+  {
+    "store": "billa",
+    "id": "00-434599",
+    "name": "Englhofer Wiener Zuckerl",
+    "category": "Bonbons",
+    "subcategories": ["Wiener", "Süßwaren"]
+  },
+  {
+    "store": "billa",
+    "id": "00-835013",
+    "name": "Eurocreme Milch-Haselnuss Schokolade",
+    "category": "Schokolade",
+    "subcategories": ["Milch", "Haselnuss", "Süßwaren"]
+  },
+  {
+    "store": "billa",
+    "id": "00-401566",
+    "name": "Ferrero Duplo",
+    "category": "Riegel",
+    "subcategories": ["Süßwaren"]
+  },
+  {
+    "store": "billa",
+    "id": "00-708862",
+    "name": "Ferrero Duplo",
+    "category": "Riegel",
+    "subcategories": ["Süßwaren"]
+  },
+  {
+    "store": "billa",
+    "id": "00-3510",
+    "name": "Ferrero Duplo Riegel",
+    "category": "Riegel",
+    "subcategories": ["Süßwaren"]
+  },
+  {
+    "store": "billa",
+    "id": "00-769115",
+    "name": "Ferrero Duplo White",
+    "category": "Riegel",
+    "subcategories": ["Süßwaren"]
+  },
+  {
+    "store": "billa",
+    "id": "00-407312",
+    "name": "Ferrero Giotto",
+    "category": "Prinzenrolle",
+    "subcategories": ["Süßwaren"]
+  },
+  {
+    "store": "billa",
+    "id": "00-407313",
+    "name": "Ferrero Giotto",
+    "category": "Prinzenrolle",
+    "subcategories": ["Süßwaren"]
+  },
+  {
+    "store": "billa",
+    "id": "00-489719",
+    "name": "Ferrero Hanuta Riegel",
+    "category": "Riegel",
+    "subcategories": ["Haselnuss", "Süßwaren"]
+  },
+  {
+    "store": "billa",
+    "id": "00-962558",
+    "name": "Ferrero Nutella & Go",
+    "category": "Brotaufstrich",
+    "subcategories": ["Haselnuss", "Süßwaren"]
+  },
+  {
+    "store": "billa",
+    "id": "00-798501",
+    "name": "Ferrero Nutella B-Ready",
+    "category": "Riegel",
+    "subcategories": ["Schokolade", "Haselnuss"]
+  },
+  {
+    "store": "billa",
+    "id": "00-504424",
+    "name": "Ferrero Raffaello",
+    "category": "Pralinen",
+    "subcategories": ["Kokos", "Süßwaren"]
+  },
+  {
+    "store": "billa",
+    "id": "00-17643",
+    "name": "Ferrero Raffaello",
+    "category": "Pralinen",
+    "subcategories": ["Kokos", "Süßwaren"]
+  },
+  {
+    "store": "billa",
+    "id": "00-421904",
+    "name": "Ferrero Yogurette",
+    "category": "Joghurt",
+    "subcategories": ["Erdbeere", "Süßwaren"]
+  },
+  {
+    "store": "billa",
+    "id": "00-432718",
+    "name": "Fisherman's Friend Cherry",
+    "category": "Bonbons",
+    "subcategories": ["Kirsche", "Erfrischung"]
+  },
+  {
+    "store": "billa",
+    "id": "00-577807",
+    "name": "Fisherman's Friend Chocolate Mint",
+    "category": "Bonbons",
+    "subcategories": ["Schokolade", "Minze", "Erfrischung"]
+  },
+  {
+    "store": "billa",
+    "id": "00-401722",
+    "name": "Fisherman's Friend Mint",
+    "category": "Bonbons",
+    "subcategories": ["Minze", "Erfrischung"]
+  },
+  {
+    "store": "billa",
+    "id": "00-584864",
+    "name": "Five Gum Wassermelone Bottle",
+    "category": "Kaugummi",
+    "subcategories": ["Wassermelone", "Süßwaren"]
+  },
+  {
+    "store": "billa",
+    "id": "00-614538",
+    "name": "Fizzers Lolly Beutel",
+    "category": "Lutscher",
+    "subcategories": ["Süßwaren"]
+  },
+  {
+    "store": "billa",
+    "id": "00-404519",
+    "name": "Fizzers Rollen Doppelpack",
+    "category": "Fruchtgummi",
+    "subcategories": ["Süßwaren"]
+  },
+  {
+    "store": "billa",
+    "id": "00-621428",
+    "name": "Forno Bonomi Tiramisu Biskotten",
+    "category": "Kekse",
+    "subcategories": ["Tiramisu", "Süßwaren"]
+  },
+  {
+    "store": "billa",
+    "id": "00-411914",
+    "name": "Frigeo Traubenzucker Lolly",
+    "category": "Traubenzucker",
+    "subcategories": ["Lutscher", "Energie"]
+  },
+  {
+    "store": "billa",
+    "id": "00-407870",
+    "name": "Fritt Kaubonbon Streifen",
+    "category": "Kaubonbons",
+    "subcategories": ["Süßwaren"]
+  },
+  {
+    "store": "billa",
+    "id": "00-266865",
+    "name": "Frondi Maxi Nougat",
+    "category": "Nougat",
+    "subcategories": ["Süßwaren"]
+  },
+  {
+    "store": "billa",
+    "id": "00-6387",
+    "name": "Guylian Meeresfrüchte Nuss-Nougat",
+    "category": "Schokolade",
+    "subcategories": ["Meeresfrüchte", "Nuss", "Nougat", "Süßwaren"]
+  },
+  {
+    "store": "billa",
+    "id": "00-246101",
+    "name": "Haas Waffelböden",
+    "category": "Waffeln",
+    "subcategories": ["Süßwaren"]
+  },
+  {
+    "store": "billa",
+    "id": "00-700658",
+    "name": "Hachez Cocoa d'Arriba 77% Classic",
+    "category": "Schokolade",
+    "subcategories": ["Kakao", "Dunkel", "Süßwaren"]
+  },
+  {
+    "store": "billa",
+    "id": "00-735546",
+    "name": "Hachez Premier Cru 88% Classic",
+    "category": "Schokolade",
+    "subcategories": ["Kakao", "Dunkel", "Süßwaren"]
+  },
+  {
+    "store": "billa",
+    "id": "00-11808",
+    "name": "Haribo Goldbären",
+    "category": "Fruchtgummi",
+    "subcategories": ["Süßwaren"]
+  },
+  {
+    "store": "billa",
+    "id": "00-433965",
+    "name": "Haribo Happy Cherries",
+    "category": "Fruchtgummi",
+    "subcategories": ["Kirschen", "Süßwaren"]
+  },
+  {
+    "store": "billa",
+    "id": "00-778538",
+    "name": "Haribo Miami Sauer",
+    "category": "Fruchtgummi",
+    "subcategories": ["Sauer", "Süßwaren"]
+  },
+  {
+    "store": "billa",
+    "id": "00-14073",
+    "name": "Haribo Pfirsiche",
+    "category": "Fruchtgummi",
+    "subcategories": ["Pfirsiche", "Süßwaren"]
+  },
+  {
+    "store": "billa",
+    "id": "00-9258",
+    "name": "Haribo Quaxi",
+    "category": "Fruchtgummi",
+    "subcategories": ["Tierformen", "Süßwaren"]
+  },
+  {
+    "store": "billa",
+    "id": "00-420470",
+    "name": "Haribo Tropi Frutti",
+    "category": "Fruchtgummi",
+    "subcategories": ["Tropisch", "Süßwaren"]
+  }
+]
