@@ -1,5 +1,5 @@
 {
-  "name": "@warenkorn/mono",
+  "name": "@warenkorb/mono",
   "version": "0.0.0",
   "scripts": {
     "dev": "pnpm --parallel --filter './apps/**' run dev",
