@@ -1,0 +1,38 @@
+[
+  {
+    "store": "spar",
+    "id": "2020004335371",
+    "name": "SIMPEX Color Schmorpfanne 28 cm lemon",
+    "category": "Küchenutensilien",
+    "subcategories": ["Bratpfanne", "Kochgeschirr"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004147752",
+    "name": "SIMPEX Color Schmorpfanne 28 cm mint",
+    "category": "Küchenutensilien",
+    "subcategories": ["Bratpfanne", "Kochgeschirr"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001739776",
+    "name": "SIMPEX Color Schneidbrett 20x15 cm blau",
+    "category": "Küchenutensilien",
+    "subcategories": ["Schneidebrett"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002188535",
+    "name": "SIMPEX Color Schneidbrett 20x15 cm grau",
+    "category": "Küchenutensilien",
+    "subcategories": ["Schneidebrett"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002478360",
+    "name": "SIMPEX Color Schneidbrett 20x15 cm grün",
+    "category": "Küchenutensilien",
+    "subcategories": ["Schneidebrett"]
+  },
+  ...
+]

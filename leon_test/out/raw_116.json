@@ -1,0 +1,702 @@
+[
+    {
+        "store": "billa",
+        "id": "00-853104",
+        "name": "Pedigree Schale Senior mit Kalb und Geflügel",
+        "category": "Hundefutter",
+        "subcategories": ["Senior", "Schalenfutter", "Kalb", "Geflügel"]
+    },
+    {
+        "store": "billa",
+        "id": "00-391295",
+        "name": "Pedigree Schmackos Multi",
+        "category": "Hundesnacks",
+        "subcategories": ["Schmackos", "Hundesnacks"]
+    },
+    {
+        "store": "billa",
+        "id": "00-958492",
+        "name": "Purina Dentalife Small",
+        "category": "Hundezahnpflege",
+        "subcategories": ["Dentalife", "Hundezahnpflege"]
+    },
+    {
+        "store": "billa",
+        "id": "00-862861",
+        "name": "Rupp Brocken mit Geflügel & Reis",
+        "category": "Hundefutter",
+        "subcategories": ["Brocken", "Geflügel", "Reis"]
+    },
+    {
+        "store": "billa",
+        "id": "00-794525",
+        "name": "Rupp Getrocknete Lungen Pops",
+        "category": "Hundesnacks",
+        "subcategories": ["Getrocknete", "Lungen Pops"]
+    },
+    {
+        "store": "billa",
+        "id": "00-794524",
+        "name": "Rupp Getrocknete Pansen Sticks",
+        "category": "Hundesnacks",
+        "subcategories": ["Getrocknete", "Pansen Sticks"]
+    },
+    {
+        "store": "billa",
+        "id": "00-10410",
+        "name": "Rupp Hundebrocken mit Rind & Lamm",
+        "category": "Hundefutter",
+        "subcategories": ["Hundebrocken", "Rind", "Lamm"]
+    },
+    {
+        "store": "billa",
+        "id": "00-106149",
+        "name": "Rupp Hundeflocken",
+        "category": "Hundefutter",
+        "subcategories": ["Hundeflocken"]
+    },
+    {
+        "store": "billa",
+        "id": "00-814565",
+        "name": "Rupp Hundeflocken Vollkorn mit Gemüse",
+        "category": "Hundefutter",
+        "subcategories": ["Hundeflocken", "Vollkorn", "Gemüse"]
+    },
+    {
+        "store": "billa",
+        "id": "00-966989",
+        "name": "Rupp Mini Steaks Rind",
+        "category": "Hundefutter",
+        "subcategories": ["Mini Steaks", "Rind"]
+    },
+    {
+        "store": "billa",
+        "id": "00-702638",
+        "name": "Rupp Ochsenziemer",
+        "category": "Hundesnacks",
+        "subcategories": ["Ochsenziemer"]
+    },
+    {
+        "store": "billa",
+        "id": "00-794526",
+        "name": "Rupp Ohrenschmaus",
+        "category": "Hundesnacks",
+        "subcategories": ["Ohrenschmaus"]
+    },
+    {
+        "store": "billa",
+        "id": "00-790287",
+        "name": "Rupp Spezial Aufbaunahrung für Hunde",
+        "category": "Hundefutter",
+        "subcategories": ["Spezial", "Aufbaunahrung"]
+    },
+    {
+        "store": "billa",
+        "id": "00-103379",
+        "name": "Rupp Vollkorn Hundeflocken mit Hirse & Gemüse",
+        "category": "Hundefutter",
+        "subcategories": ["Vollkorn", "Hundeflocken", "Hirse", "Gemüse"]
+    },
+    {
+        "store": "billa",
+        "id": "00-790289",
+        "name": "Rupp Vollkostbrocken mit Reis & Geflügel",
+        "category": "Hundefutter",
+        "subcategories": ["Vollkostbrocken", "Reis", "Geflügel"]
+    },
+    {
+        "store": "billa",
+        "id": "00-916947",
+        "name": "Vitakraft Beef-Stick Pute",
+        "category": "Hundesnacks",
+        "subcategories": ["Beef-Stick", "Pute"]
+    },
+    {
+        "store": "billa",
+        "id": "00-681604",
+        "name": "Vitakraft Beef-Stick Rind",
+        "category": "Hundesnacks",
+        "subcategories": ["Beef-Stick", "Rind"]
+    },
+    {
+        "store": "billa",
+        "id": "00-763484",
+        "name": "Vitakraft For You Hundesnack Kaurollen Huhn",
+        "category": "Hundesnacks",
+        "subcategories": ["Hundesnack", "Kaurollen", "Huhn"]
+    },
+    {
+        "store": "billa",
+        "id": "00-763488",
+        "name": "Vitakraft For You Snack Kaurollen",
+        "category": "Hundesnacks",
+        "subcategories": ["Snack", "Kaurollen"]
+    },
+    {
+        "store": "billa",
+        "id": "00-938593",
+        "name": "Vitakraft Hühnchenfilet",
+        "category": "Hundesnacks",
+        "subcategories": ["Hühnchenfilet"]
+    },
+    {
+        "store": "billa",
+        "id": "00-763526",
+        "name": "Vitakraft Lamb Duo Lammfleisch & Fisch",
+        "category": "Hundefutter",
+        "subcategories": ["Lamb Duo", "Lammfleisch", "Fisch"]
+    },
+    {
+        "store": "billa",
+        "id": "00-896845",
+        "name": "Vitakraft Treaties Bits Hühnchen",
+        "category": "Hundesnacks",
+        "subcategories": ["Treaties Bits", "Hühnchen"]
+    },
+    {
+        "store": "billa",
+        "id": "00-896846",
+        "name": "Vitakraft Treaties Bits Leberwurst",
+        "category": "Hundesnacks",
+        "subcategories": ["Treaties Bits", "Leberwurst"]
+    },
+    {
+        "store": "billa",
+        "id": "00-362199",
+        "name": "Vitakraft Vita Nature mit Huhn",
+        "category": "Hundefutter",
+        "subcategories": ["Vita Nature", "Huhn"]
+    },
+    {
+        "store": "billa",
+        "id": "00-583798",
+        "name": "Vitakraft pure Lamb Bona",
+        "category": "Hundefutter",
+        "subcategories": ["Lamb Bona"]
+    },
+    {
+        "store": "billa",
+        "id": "00-579203",
+        "name": "WOW Adult Lachs",
+        "category": "Hundefutter",
+        "subcategories": ["Lachs"]
+    },
+    {
+        "store": "billa",
+        "id": "00-700018",
+        "name": "WOW Adult Lamm",
+        "category": "Hundefutter",
+        "subcategories": ["Lamm"]
+    },
+    {
+        "store": "billa",
+        "id": "00-513425",
+        "name": "WOW Adult Lamm",
+        "category": "Hundefutter",
+        "subcategories": ["Lamm"]
+    },
+    {
+        "store": "billa",
+        "id": "00-274234",
+        "name": "WOW Adult Pute",
+        "category": "Hundefutter",
+        "subcategories": ["Pute"]
+    },
+    {
+        "store": "billa",
+        "id": "00-342792",
+        "name": "WOW Adult Pute",
+        "category": "Hundefutter",
+        "subcategories": ["Pute"]
+    },
+    {
+        "store": "billa",
+        "id": "00-274235",
+        "name": "WOW Adult Rind",
+        "category": "Hundefutter",
+        "subcategories": ["Rind"]
+    },
+    {
+        "store": "billa",
+        "id": "00-342785",
+        "name": "WOW Adult Rind",
+        "category": "Hundefutter",
+        "subcategories": ["Rind"]
+    },
+    {
+        "store": "billa",
+        "id": "00-274236",
+        "name": "WOW Adult Wild",
+        "category": "Hundefutter",
+        "subcategories": ["Wild"]
+    },
+    {
+        "store": "billa",
+        "id": "00-700016",
+        "name": "WOW Adult Wild",
+        "category": "Hundefutter",
+        "subcategories": ["Wild"]
+    },
+    {
+        "store": "billa",
+        "id": "00-391479",
+        "name": "WOW Trocken Minis Adult Huhn",
+        "category": "Hundefutter",
+        "subcategories": ["Trocken Minis", "Huhn"]
+    },
+    {
+        "store": "billa",
+        "id": "00-391473",
+        "name": "WOW Trocken Minis Adult Rind",
+        "category": "Hundefutter",
+        "subcategories": ["Trocken Minis", "Rind"]
+    },
+    {
+        "store": "billa",
+        "id": "00-701724",
+        "name": "WOW Trocken Minis Junior Geflügel",
+        "category": "Hundefutter",
+        "subcategories": ["Trocken Minis", "Junior", "Geflügel"]
+    },
+    {
+        "store": "billa",
+        "id": "00-701753",
+        "name": "WOW Trocken Minis Senior Ente",
+        "category": "Hundefutter",
+        "subcategories": ["Trocken Minis", "Senior", "Ente"]
+    },
+    {
+        "store": "billa",
+        "id": "00-469611",
+        "name": "ZooRoyal Active-Menü mit Ente & Kartoffel",
+        "category": "Hundefutter",
+        "subcategories": ["Active-Menü", "Ente", "Kartoffel"]
+    },
+    {
+        "store": "billa",
+        "id": "00-763473",
+        "name": "ZooRoyal Dose mit Hühnerherzen",
+        "category": "Hundefutter",
+        "subcategories": ["Dose", "Hühnerherzen"]
+    },
+    {
+        "store": "billa",
+        "id": "00-763464",
+        "name": "ZooRoyal Dose mit Rinderherzen",
+        "category": "Hundefutter",
+        "subcategories": ["Dose", "Rinderherzen"]
+    },
+    {
+        "store": "billa",
+        "id": "00-344408",
+        "name": "ZooRoyal Fleischstick Geflügel",
+        "category": "Hundesnacks",
+        "subcategories": ["Fleischstick", "Geflügel"]
+    },
+    {
+        "store": "billa",
+        "id": "00-344247",
+        "name": "ZooRoyal Fleischstick Rind",
+        "category": "Hundesnacks",
+        "subcategories": ["Fleischstick", "Rind"]
+    },
+    {
+        "store": "billa",
+        "id": "00-342738",
+        "name": "ZooRoyal Genießer Leberwurst",
+        "category": "Hundesnacks",
+        "subcategories": ["Genießer", "Leberwurst"]
+    },
+    {
+        "store": "billa",
+        "id": "00-665085",
+        "name": "ZooRoyal Grillhappen mit Huhn & Gemüse",
+        "category": "Hundesnacks",
+        "subcategories": ["Grillhappen", "Huhn", "Gemüse"]
+    },
+    {
+        "store": "billa",
+        "id": "00-665075",
+        "name": "ZooRoyal Grillhappen mit Rind",
+        "category": "Hundesnacks",
+        "subcategories": ["Grillhappen", "Rind"]
+    },
+    {
+        "store": "billa",
+        "id": "00-850623",
+        "name": "ZooRoyal Mini-Knochen",
+        "category": "Hundesnacks",
+        "subcategories": ["Mini-Knochen"]
+    },
+    {
+        "store": "billa",
+        "id": "00-664362",
+        "name": "ZooRoyal Mini-Mix",
+        "category": "Hundesnacks",
+        "subcategories": ["Mini-Mix"]
+    },
+    {
+        "store": "billa",
+        "id": "00-966888",
+        "name": "ZooRoyal Monoprotein Huhn",
+        "category": "Hundefutter",
+        "subcategories": ["Monoprotein", "Huhn"]
+    },
+    {
+        "store": "billa",
+        "id": "00-966880",
+        "name": "ZooRoyal Monoprotein Rind",
+        "category": "Hundefutter",
+        "subcategories": ["Monoprotein", "Rind"]
+    },
+    {
+        "store": "billa",
+        "id": "00-266793",
+        "name": "ZooRoyal Moon Ranger Angus-Rind",
+        "category": "Hundefutter",
+        "subcategories": ["Moon Ranger", "Angus-Rind"]
+    },
+    {
+        "store": "billa",
+        "id": "00-266811",
+        "name": "ZooRoyal Moon Ranger Ente",
+        "category": "Hundefutter",
+        "subcategories": ["Moon Ranger", "Ente"]
+    },
+    {
+        "store": "billa",
+        "id": "00-266803",
+        "name": "ZooRoyal Moon Ranger Lamm",
+        "category": "Hundefutter",
+        "subcategories": ["Moon Ranger", "Lamm"]
+    },
+    {
+        "store": "billa",
+        "id": "00-266799",
+        "name": "ZooRoyal Moon Ranger Wild",
+        "category": "Hundefutter",
+        "subcategories": ["Moon Ranger", "Wild"]
+    },
+    {
+        "store": "billa",
+        "id": "00-344403",
+        "name": "ZooRoyal Pastete Huhn mit Pute und Naturreis",
+        "category": "Hundefutter",
+        "subcategories": ["Pastete", "Huhn", "Pute", "Naturreis"]
+    },
+    {
+        "store": "billa",
+        "id": "00-344407",
+        "name": "ZooRoyal Pastete Kalb mit Karotten und Apfelwürfel",
+        "category": "Hundefutter",
+        "subcategories": ["Pastete", "Kalb", "Karotten", "Apfelwürfel"]
+    },
+    {
+        "store": "billa",
+        "id": "00-344264",
+        "name": "ZooRoyal Pastete Rind mit Pansen und Spinat",
+        "category": "Hundefutter",
+        "subcategories": ["Pastete", "Rind", "Pansen", "Spinat"]
+    },
+    {
+        "store": "billa",
+        "id": "00-665002",
+        "name": "ZooRoyal Pastete mit Kalb, Kartoffeln & Karotten",
+        "category": "Hundefutter",
+        "subcategories": ["Pastete", "Kalb", "Kartoffeln", "Karotten"]
+    },
+    {
+        "store": "billa",
+        "id": "00-322293",
+        "name": "ZooRoyal Pastete reich an Huhn, mit Leber",
+        "category": "Hundefutter",
+        "subcategories": ["Pastete", "Huhn", "Leber"]
+    },
+    {
+        "store": "billa",
+        "id": "00-264752",
+        "name": "ZooRoyal Saftige Pastete mit Huhn & frischem Herz",
+        "category": "Hundefutter",
+        "subcategories": ["Saftige Pastete", "Huhn", "frisches Herz"]
+    },
+    {
+        "store": "billa",
+        "id": "00-264599",
+        "name": "ZooRoyal Saftige Pastete mit Rind & frischer Leber",
+        "category": "Hundefutter",
+        "subcategories": ["Saftige Pastete", "Rind", "frische Leber"]
+    },
+    {
+        "store": "billa",
+        "id": "00-313199",
+        "name": "ZooRoyal Saftige Ringe mit Rind & Karotten",
+        "category": "Hundefutter",
+        "subcategories": ["Saftige Ringe", "Rind", "Karotten"]
+    },
+    {
+        "store": "billa",
+        "id": "00-774201",
+        "name": "ZooRoyal Saftige Würstchen",
+        "category": "Hundefutter",
+        "subcategories": ["Saftige Würstchen"]
+    },
+    {
+        "store": "billa",
+        "id": "00-850630",
+        "name": "ZooRoyal Soft Mix mit Rind, Huhn & Lamm",
+        "category": "Hundefutter",
+        "subcategories": ["Soft Mix", "Rind", "Huhn", "Lamm"]
+    },
+    {
+        "store": "billa",
+        "id": "00-363247",
+        "name": "ZooRoyal Vital Plus - reich an Geflügel",
+        "category": "Hundefutter",
+        "subcategories": ["Vital Plus", "Geflügel"]
+    },
+    {
+        "store": "billa",
+        "id": "00-864527",
+        "name": "Bentosan Katzenstreu naturweiß",
+        "category": "Katzenstreu",
+        "subcategories": ["naturweiß"]
+    },
+    {
+        "store": "billa",
+        "id": "00-860945",
+        "name": "Cat SmellStop Katzenklo Geruchsstopper",
+        "category": "Katzenzubehör",
+        "subcategories": ["Katzenklo", "Geruchsstopper"]
+    },
+    {
+        "store": "billa",
+        "id": "00-897951",
+        "name": "Cat's Best Die Öko-Katzenstreu",
+        "category": "Katzenstreu",
+        "subcategories": ["Öko-Katzenstreu"]
+    },
+    {
+        "store": "billa",
+        "id": "00-700230",
+        "name": "Cat's Love Adult Bio Huhn",
+        "category": "Katzenfutter",
+        "subcategories": ["Adult Bio", "Huhn"]
+    },
+    {
+        "store": "billa",
+        "id": "00-960442",
+        "name": "Cat's Love Huhn Pur",
+        "category": "Katzenfutter",
+        "subcategories": ["Huhn"]
+    },
+    {
+        "store": "billa",
+        "id": "00-960447",
+        "name": "Cat's Love Junior Kalb",
+        "category": "Katzenfutter",
+        "subcategories": ["Junior", "Kalb"]
+    },
+    {
+        "store": "billa",
+        "id": "00-274319",
+        "name": "Cat's Love Kalb & Truthahn Pur",
+        "category": "Katzenfutter",
+        "subcategories": ["Kalb", "Truthahn"]
+    },
+    {
+        "store": "billa",
+        "id": "00-959534",
+        "name": "Cat's Love Lachs & Huhn Pur",
+        "category": "Katzenfutter",
+        "subcategories": ["Lachs", "Huhn"]
+    },
+    {
+        "store": "billa",
+        "id": "00-960444",
+        "name": "Cat's Love Rind Pur",
+        "category": "Katzenfutter",
+        "subcategories": ["Rind"]
+    },
+    {
+        "store": "billa",
+        "id": "00-700917",
+        "name": "Cat's Love Senior Ente",
+        "category": "Katzenfutter",
+        "subcategories": ["Senior", "Ente"]
+    },
+    {
+        "store": "billa",
+        "id": "00-700026",
+        "name": "Cat's Love Trocken Adult Geflügel",
+        "category": "Katzentrockenfutter",
+        "subcategories": ["Adult", "Trocken", "Geflügel"]
+    },
+    {
+        "store": "billa",
+        "id": "00-700024",
+        "name": "Cat's Love Trocken Junior Geflügel",
+        "category": "Katzentrockenfutter",
+        "subcategories": ["Junior", "Trocken", "Geflügel"]
+    },
+    {
+        "store": "billa",
+        "id": "00-700023",
+        "name": "Cat's Love Trocken Senior Ente",
+        "category": "Katzentrockenfutter",
+        "subcategories": ["Senior", "Trocken", "Ente"]
+    },
+    {
+        "store": "billa",
+        "id": "00-869349",
+        "name": "Catclin Silikat Katzenstreu",
+        "category": "Katzenstreu",
+        "subcategories": ["Silikat"]
+    },
+    {
+        "store": "billa",
+        "id": "00-1698",
+        "name": "Catsan Hygiene Plus",
+        "category": "Katzenstreu",
+        "subcategories": ["Hygiene Plus"]
+    },
+    {
+        "store": "billa",
+        "id": "00-868678",
+        "name": "Catsan Katzenstreu",
+        "category": "Katzenstreu",
+        "subcategories": ["Katzenstreu"]
+    },
+    {
+        "store": "billa",
+        "id": "00-901013",
+        "name": "Catsan Smart Pack",
+        "category": "Katzenstreu",
+        "subcategories": ["Smart Pack"]
+    },
+    {
+        "store": "billa",
+        "id": "00-260843",
+        "name": "Clever Fisch-Genießermenü in feiner Sauce",
+        "category": "Katzenfutter",
+        "subcategories": ["Fisch-Genießermenü", "Sauce"]
+    },
+    {
+        "store": "billa",
+        "id": "00-621447",
+        "name": "Clever Genießermenü in feinem Gelee",
+        "category": "Katzenfutter",
+        "subcategories": ["Genießermenü", "Gelee"]
+    },
+    {
+        "store": "billa",
+        "id": "00-621157",
+        "name": "Clever Genießermenü in feiner Sauce",
+        "category": "Katzenfutter",
+        "subcategories": ["Genießermenü", "Sauce"]
+    },
+    {
+        "store": "billa",
+        "id": "00-370136",
+        "name": "Clever Huhn & Ente",
+        "category": "Katzenfutter",
+        "subcategories": ["Huhn", "Ente"]
+    },
+    {
+        "store": "billa",
+        "id": "00-466695",
+        "name": "Clever Katze Fisch",
+        "category": "Katzenfutter",
+        "subcategories": ["Fisch"]
+    },
+    {
+        "store": "billa",
+        "id": "00-276803",
+        "name": "Clever Katze Gans & Huhn",
+        "category": "Katzenfutter",
+        "subcategories": ["Gans", "Huhn"]
+    },
+    {
+        "store": "billa",
+        "id": "00-862202",
+        "name": "Clever Katze Geflügel",
+        "category": "Katzenfutter",
+        "subcategories": ["Geflügel"]
+    },
+    {
+        "store": "billa",
+        "id": "00-276828",
+        "name": "Clever Katze Geflügel & Wild",
+        "category": "Katzenfutter",
+        "subcategories": ["Geflügel", "Wild"]
+    },
+    {
+        "store": "billa",
+        "id": "00-862197",
+        "name": "Clever Katze Kalb",
+        "category": "Katzenfutter",
+        "subcategories": ["Kalb"]
+    },
+    {
+        "store": "billa",
+        "id": "00-862198",
+        "name": "Clever Katze Lachs",
+        "category": "Katzenfutter",
+        "subcategories": ["Lachs"]
+    },
+    {
+        "store": "billa",
+        "id": "00-862199",
+        "name": "Clever Katze Rind",
+        "category": "Katzenfutter",
+        "subcategories": ["Rind"]
+    },
+    {
+        "store": "billa",
+        "id": "00-276851",
+        "name": "Clever Katze Rind & Leber",
+        "category": "Katzenfutter",
+        "subcategories": ["Rind", "Leber"]
+    },
+    {
+        "store": "billa",
+        "id": "00-382035",
+        "name": "Clever Katzensticks 22er",
+        "category": "Katzenfutter",
+        "subcategories": ["Katzensticks"]
+    },
+    {
+        "store": "billa",
+        "id": "00-862278",
+        "name": "Clever Katzenstreu",
+        "category": "Katzenstreu",
+        "subcategories": ["Katzenstreu"]
+    },
+    {
+        "store": "billa",
+        "id": "00-794200",
+        "name": "Clever Klumpstreu Klumpenbildend",
+        "category": "Katzenstreu",
+        "subcategories": ["Klumpstreu", "klumpenbildend"]
+    },
+    {
+        "store": "billa",
+        "id": "00-464539",
+        "name": "Clever Knabberkissen",
+        "category": "Hundesnacks",
+        "subcategories": ["Knabberkissen"]
+    },
+    {
+        "store": "billa",
+        "id": "00-397696",
+        "name": "Clever Knabberkissen Lachs",
+        "category": "Hundesnacks",
+        "subcategories": ["Knabberkissen", "Lachs"]
+    },
+    {
+        "store": "billa",
+        "id": "00-370118",
+        "name": "Clever Rind & Wild",
+        "category": "Hundefutter",
+        "subcategories": ["Rind", "Wild"]
+    }
+]

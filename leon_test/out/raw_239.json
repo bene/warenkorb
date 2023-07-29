@@ -1,0 +1,700 @@
+[{
+  "store": "spar",
+  "id": "2020004217950",
+  "name": "Stark Smoki MIX Hot Challenge",
+  "category": "Snacks",
+  "subcategories": ["Chips", "Spicy"]
+},
+{
+  "store": "spar",
+  "id": "2020000758327",
+  "name": "Sun Snack Cheesy Discs Classic",
+  "category": "Snacks",
+  "subcategories": ["Chips", "Cheese"]
+},
+{
+  "store": "spar",
+  "id": "2020000538929",
+  "name": "Stark Bananica 5 x 25g",
+  "category": "Snacks",
+  "subcategories": ["Fruit", "Banana"]
+},
+{
+  "store": "spar",
+  "id": "2020000552925",
+  "name": "Stark Coko Smoki",
+  "category": "Snacks",
+  "subcategories": ["Chips", "Chocolate"]
+},
+{
+  "store": "spar",
+  "id": "2020004328762",
+  "name": "Storck Werther's Original Karamell Creme",
+  "category": "Süßwaren",
+  "subcategories": ["Bonbons", "Karamell"]
+},
+{
+  "store": "spar",
+  "id": "2020004328717",
+  "name": "Storck Werther's Oroginal",
+  "category": "Süßwaren",
+  "subcategories": ["Bonbons", "Karamell"]
+},
+{
+  "store": "spar",
+  "id": "2020002014315",
+  "name": "Storck Werther's Sahnebonbons zuckerfrei",
+  "category": "Süßwaren",
+  "subcategories": ["Bonbons", "Zuckerfrei"]
+},
+{
+  "store": "spar",
+  "id": "2020003514067",
+  "name": "Storck Werther's Schoko Toffee",
+  "category": "Süßwaren",
+  "subcategories": ["Bonbons", "Schokolade"]
+},
+{
+  "store": "spar",
+  "id": "2020003514081",
+  "name": "Storck Werther's Soft Caramel",
+  "category": "Süßwaren",
+  "subcategories": ["Bonbons", "Weich"]
+},
+{
+  "store": "spar",
+  "id": "2020003514074",
+  "name": "Storck Werther's Soft Eclair",
+  "category": "Süßwaren",
+  "subcategories": ["Bonbons", "Weich"]
+},
+{
+  "store": "spar",
+  "id": "7633508",
+  "name": "Storck nimm2 Bonbons",
+  "category": "Süßwaren",
+  "subcategories": ["Bonbons", "Frucht"]
+},
+{
+  "store": "spar",
+  "id": "2020004044228",
+  "name": "Storck nimm2 Bonbons rote Früchte",
+  "category": "Süßwaren",
+  "subcategories": ["Bonbons", "Frucht"]
+},
+{
+  "store": "spar",
+  "id": "2800462",
+  "name": "Storck nimm2 Lachgummi",
+  "category": "Süßwaren",
+  "subcategories": ["Fruchtgummi", "Frucht"]
+},
+{
+  "store": "spar",
+  "id": "8212900",
+  "name": "Storck nimm2 Lachgummi Apfellinge",
+  "category": "Süßwaren",
+  "subcategories": ["Fruchtgummi", "Apfel"]
+},
+{
+  "store": "spar",
+  "id": "7032783",
+  "name": "Storck nimm2 Lachgummi Frucht & Joghurt",
+  "category": "Süßwaren",
+  "subcategories": ["Fruchtgummi", "Joghurt"]
+},
+{
+  "store": "spar",
+  "id": "2020004122964",
+  "name": "Storck nimm2 Lachgummi Gartenzwerge",
+  "category": "Süßwaren",
+  "subcategories": ["Fruchtgummi", "Zwerge"]
+},
+{
+  "store": "spar",
+  "id": "2020002292867",
+  "name": "Storck nimm2 Lachgummi Happies",
+  "category": "Süßwaren",
+  "subcategories": ["Fruchtgummi", "Happy"]
+},
+{
+  "store": "spar",
+  "id": "2020001855360",
+  "name": "Storck nimm2 Lachgummi Heroes",
+  "category": "Süßwaren",
+  "subcategories": ["Fruchtgummi", "Helden"]
+},
+{
+  "store": "spar",
+  "id": "6409227",
+  "name": "Storck nimm2 Lachgummi Joghurt",
+  "category": "Süßwaren",
+  "subcategories": ["Fruchtgummi", "Joghurt"]
+},
+{
+  "store": "spar",
+  "id": "3979495",
+  "name": "Storck nimm2 Lachgummi Milchbubis",
+  "category": "Süßwaren",
+  "subcategories": ["Fruchtgummi", "Milch"]
+},
+{
+  "store": "spar",
+  "id": "2020001217137",
+  "name": "Storck nimm2 Lachgummi Milchgeister",
+  "category": "Süßwaren",
+  "subcategories": ["Fruchtgummi", "Milch"]
+},
+{
+  "store": "spar",
+  "id": "2020001979738",
+  "name": "Storck nimm2 Lachgummi Minis 210g",
+  "category": "Süßwaren",
+  "subcategories": ["Fruchtgummi", "Mini"]
+},
+{
+  "store": "spar",
+  "id": "2020003694271",
+  "name": "Storck nimm2 Lachgummi Märchenprinzen",
+  "category": "Süßwaren",
+  "subcategories": ["Fruchtgummi", "Märchen"]
+},
+{
+  "store": "spar",
+  "id": "2020004122872",
+  "name": "Storck nimm2 Lachgummi Mümmelbande",
+  "category": "Süßwaren",
+  "subcategories": ["Fruchtgummi", "Mümmel"]
+},
+{
+  "store": "spar",
+  "id": "5760718",
+  "name": "Storck nimm2 Lachgummi Sauer",
+  "category": "Süßwaren",
+  "subcategories": ["Fruchtgummi", "Sauer"]
+},
+{
+  "store": "spar",
+  "id": "2020000854388",
+  "name": "Storck nimm2 Lachgummi Shakies",
+  "category": "Süßwaren",
+  "subcategories": ["Fruchtgummi", "Shake"]
+},
+{
+  "store": "spar",
+  "id": "1417364",
+  "name": "Storck nimm2 Lachgummi Softies",
+  "category": "Süßwaren",
+  "subcategories": ["Fruchtgummi", "Weich"]
+},
+{
+  "store": "spar",
+  "id": "1417388",
+  "name": "Storck nimm2 Lachgummi Softies Joghurt",
+  "category": "Süßwaren",
+  "subcategories": ["Fruchtgummi", "Weich"]
+},
+{
+  "store": "spar",
+  "id": "2020003694240",
+  "name": "Storck nimm2 Lachgummi YoDinos",
+  "category": "Süßwaren",
+  "subcategories": ["Fruchtgummi", "Dinos"]
+},
+{
+  "store": "spar",
+  "id": "1954883",
+  "name": "Storck nimm2 Soft",
+  "category": "Süßwaren",
+  "subcategories": ["Bonbons", "Weich"]
+},
+{
+  "store": "spar",
+  "id": "2020003974328",
+  "name": "Stroh Orangen Punsch",
+  "category": "Getränke",
+  "subcategories": ["Punsch", "Orange"]
+},
+{
+  "store": "spar",
+  "id": "5164714",
+  "name": "Stroh Punsch",
+  "category": "Getränke",
+  "subcategories": ["Punsch"]
+},
+{
+  "store": "spar",
+  "id": "2020003974311",
+  "name": "Stroh Rum Punsch",
+  "category": "Getränke",
+  "subcategories": ["Punsch", "Rum"]
+},
+{
+  "store": "spar",
+  "id": "2020004331564",
+  "name": "Sugar Mami Cherry Lollipop",
+  "category": "Süßwaren",
+  "subcategories": ["Lutscher", "Kirsch"]
+},
+{
+  "store": "spar",
+  "id": "2020004331618",
+  "name": "Sugar Mami Granatapfel Erdbeere",
+  "category": "Süßwaren",
+  "subcategories": ["Lutscher", "Granatapfel", "Erdbeere"]
+},
+{
+  "store": "spar",
+  "id": "2020004331601",
+  "name": "Sugar Mami Kaktusfeige",
+  "category": "Süßwaren",
+  "subcategories": ["Lutscher", "Kaktusfeige"]
+},
+{
+  "store": "spar",
+  "id": "243261",
+  "name": "Suchard Express Backkakao",
+  "category": "Lebensmittel",
+  "subcategories": ["Kakao"]
+},
+{
+  "store": "spar",
+  "id": "880084",
+  "name": "Suchard Express Backkakao",
+  "category": "Lebensmittel",
+  "subcategories": ["Kakao"]
+},
+{
+  "store": "spar",
+  "id": "5312207",
+  "name": "Suchard Express Trinkkakao",
+  "category": "Lebensmittel",
+  "subcategories": ["Kakao"]
+},
+{
+  "store": "spar",
+  "id": "5312238",
+  "name": "Suchard Express Trinkkakao",
+  "category": "Lebensmittel",
+  "subcategories": ["Kakao"]
+},
+{
+  "store": "spar",
+  "id": "2020004529428",
+  "name": "Suchard Express Trinkkakao Sticks 10 Sticks",
+  "category": "Lebensmittel",
+  "subcategories": ["Kakao", "Sticks"]
+},
+{
+  "store": "spar",
+  "id": "2020001177561",
+  "name": "Strongbow Apple Cider Red Berries",
+  "category": "Getränke",
+  "subcategories": ["Cider", "Apfel", "Beeren"]
+},
+{
+  "store": "spar",
+  "id": "2020000408819",
+  "name": "Strongbow Cider Gold Apple",
+  "category": "Getränke",
+  "subcategories": ["Cider", "Apfel"]
+},
+{
+  "store": "spar",
+  "id": "2020000408857",
+  "name": "Strongbow Cider Red Berries",
+  "category": "Getränke",
+  "subcategories": ["Cider", "Beeren"]
+},
+{
+  "store": "spar",
+  "id": "2020002900922",
+  "name": "Strongbow Cider Rosé",
+  "category": "Getränke",
+  "subcategories": ["Cider", "Rosé"]
+},
+{
+  "store": "spar",
+  "id": "8078322",
+  "name": "Sulzberger Holunderrebell 1 KG",
+  "category": "Lebensmittel",
+  "subcategories": ["Holunder"]
+},
+{
+  "store": "spar",
+  "id": "3715192",
+  "name": "Stührk MSC Deutscher Caviar aus Seehasenrogen",
+  "category": "Lebensmittel",
+  "subcategories": ["Kaviar"]
+},
+{
+  "store": "spar",
+  "id": "2020002667689",
+  "name": "Stührk MSC Herings Caviar aus Heringsrogen",
+  "category": "Lebensmittel",
+  "subcategories": ["Kaviar", "Hering"]
+},
+{
+  "store": "spar",
+  "id": "2020001396016",
+  "name": "Stührk Vegetarischer Caviar-Ersatz",
+  "category": "Lebensmittel",
+  "subcategories": ["Kaviar", "Vegan"]
+},
+{
+  "store": "spar",
+  "id": "1212310",
+  "name": "Suchard Finessa Finessa Mandel-Honig",
+  "category": "Süßwaren",
+  "subcategories": ["Schokolade", "Mandel", "Honig"]
+},
+{
+  "store": "spar",
+  "id": "6639792",
+  "name": "Suchard Finessa Finessa Marzipan",
+  "category": "Süßwaren",
+  "subcategories": ["Schokolade", "Marzipan"]
+},
+{
+  "store": "spar",
+  "id": "2020004216236",
+  "name": "Suchard Sensations Nuss",
+  "category": "Süßwaren",
+  "subcategories": ["Schokolade", "Nuss"]
+},
+{
+  "store": "spar",
+  "id": "3217429",
+  "name": "Suchard Sensations Schokotafel Pekan Noir 70% Kakao",
+  "category": "Süßwaren",
+  "subcategories": ["Schokolade", "Pekan", "Noir"]
+},
+{
+  "store": "spar",
+  "id": "6621032",
+  "name": "Suchard Sensations Schokotafel Velma Noir 50% Kakao 100g",
+  "category": "Süßwaren",
+  "subcategories": ["Schokolade", "Noir"]
+},
+{
+  "store": "spar",
+  "id": "5572250",
+  "name": "Suchard Sensations Sensation 86% Kakao",
+  "category": "Süßwaren",
+  "subcategories": ["Schokolade"]
+},
+{
+  "store": "spar",
+  "id": "4897354",
+  "name": "Suchard Sensations Sensation Dunkel 70 %",
+  "category": "Süßwaren",
+  "subcategories": ["Schokolade"]
+},
+{
+  "store": "spar",
+  "id": "4897392",
+  "name": "Suchard Sensations Sensation Orange Noir 70%",
+  "category": "Süßwaren",
+  "subcategories": ["Schokolade", "Orange", "Noir"]
+},
+{
+  "store": "spar",
+  "id": "6630874",
+  "name": "Suchard junior Weiße Schokolade Junior",
+  "category": "Süßwaren",
+  "subcategories": ["Schokolade", "Weiß"]
+},
+{
+  "store": "spar",
+  "id": "2020002951863",
+  "name": "Suchard junior Weiße Schokolade Junior 3 x 75g",
+  "category": "Süßwaren",
+  "subcategories": ["Schokolade", "Weiß"]
+},
+{
+  "store": "spar",
+  "id": "2020004519788",
+  "name": "Super Dickmann’s Super Dickmanns 9er 250g GVE 12",
+  "category": "Süßwaren",
+  "subcategories": ["Schaumküsse"]
+},
+{
+  "store": "spar",
+  "id": "2020003673542",
+  "name": "Splendid Desinfektions-Spray Oberflächen 250ml",
+  "category": "Haushalt",
+  "subcategories": ["Desinfektion", "Spray"]
+},
+{
+  "store": "spar",
+  "id": "2020001475292",
+  "name": "Splendid Hygiene-Reiniger 1,5L",
+  "category": "Haushalt",
+  "subcategories": ["Reiniger"]
+},
+{
+  "store": "spar",
+  "id": "2020002494032",
+  "name": "Splendid Hygienespüler 16WG",
+  "category": "Haushalt",
+  "subcategories": ["Wäschepflege"]
+},
+{
+  "store": "spar",
+  "id": "2020003986734",
+  "name": "Sun Kiss Lip Balm LSF 30 hoch 4,8g",
+  "category": "Kosmetik",
+  "subcategories": ["Lippenpflege"]
+},
+{
+  "store": "spar",
+  "id": "2020003981937",
+  "name": "Sun Kiss After Sun Lotion 200 ml",
+  "category": "Kosmetik",
+  "subcategories": ["Sonnenpflege"]
+},
+{
+  "store": "spar",
+  "id": "2020003981814",
+  "name": "Sun Kiss Kids Sonnenmilch LSF 50 200 ml",
+  "category": "Kosmetik",
+  "subcategories": ["Sonnenpflege", "Kinder"]
+},
+{
+  "store": "spar",
+  "id": "2020003981906",
+  "name": "Sun Kiss Kids Sonnenspray LSF 30 150 ml",
+  "category": "Kosmetik",
+  "subcategories": ["Sonnenpflege", "Kinder"]
+},
+{
+  "store": "spar",
+  "id": "2020003981913",
+  "name": "Sun Kiss Kids Sonnenspray LSF 50+ 150 ml",
+  "category": "Kosmetik",
+  "subcategories": ["Sonnenpflege", "Kinder"]
+},
+{
+  "store": "spar",
+  "id": "2020004658128",
+  "name": "Sun Kiss Sonnenfluid Gesicht & Dekolleté / LSF 30 50 ml",
+  "category": "Kosmetik",
+  "subcategories": ["Sonnenpflege", "Gesicht"]
+},
+{
+  "store": "spar",
+  "id": "2020003981524",
+  "name": "Sun Kiss Sonnenmilch LSF 20 200 ml",
+  "category": "Kosmetik",
+  "subcategories": ["Sonnenpflege"]
+},
+{
+  "store": "spar",
+  "id": "2020003981692",
+  "name": "Sun Kiss Sonnenmilch LSF 30 200 ml",
+  "category": "Kosmetik",
+  "subcategories": ["Sonnenpflege"]
+},
+{
+  "store": "spar",
+  "id": "2020003981784",
+  "name": "Sun Kiss Sonnenmilch LSF 50 sensitiv 200 ml",
+  "category": "Kosmetik",
+  "subcategories": ["Sonnenpflege", "Sensitiv"]
+},
+{
+  "store": "spar",
+  "id": "2020003981838",
+  "name": "Sun Kiss Sonnenspray LSF 30 150 ml",
+  "category": "Kosmetik",
+  "subcategories": ["Sonnenpflege"]
+},
+{
+  "store": "spar",
+  "id": "2020003981920",
+  "name": "Sun Kiss Sonnenspray LSF 50+ sensitiv 150 ml",
+  "category": "Kosmetik",
+  "subcategories": ["Sonnenpflege", "Sensitiv"]
+},
+{
+  "store": "spar",
+  "id": "2020003981869",
+  "name": "Sun Kiss Transparentes Sonnenspray LSF 30 150 ml",
+  "category": "Kosmetik",
+  "subcategories": ["Sonnenpflege"]
+},
+{
+  "store": "spar",
+  "id": "3904718",
+  "name": "Superior Design Products Anti Rutsch Einlage 45x150cm",
+  "category": "Haushalt",
+  "subcategories": ["Einlage", "Rutsch"]
+},
+{
+  "store": "spar",
+  "id": "3904381",
+  "name": "Superior Design Products Anti Rutscheinlage 30x150cm",
+  "category": "Haushalt",
+  "subcategories": ["Rutscheinlage"]
+},
+{
+  "store": "spar",
+  "id": "2020003994777",
+  "name": "Sweet o mio Macarons",
+  "category": "Süßwaren",
+  "subcategories": ["Gebäck"]
+},
+{
+  "store": "spar",
+  "id": "2020004739384",
+  "name": "Sweet o mio Tiramisu",
+  "category": "Süßwaren",
+  "subcategories": ["Gebäck", "Tiramisu"]
+},
+{
+  "store": "spar",
+  "id": "6651275",
+  "name": "Staudinger HOLZOFEN Leberkäse Classic",
+  "category": "Lebensmittel",
+  "subcategories": ["Leberkäse"]
+},
+{
+  "store": "spar",
+  "id": "6651893",
+  "name": "Staudinger Holzofen Leberkäse Chili",
+  "category": "Lebensmittel",
+  "subcategories": ["Leberkäse", "Chili"]
+},
+{
+  "store": "spar",
+  "id": "2020003616662",
+  "name": "Staudinger Leberkäse",
+  "category": "Lebensmittel",
+  "subcategories": ["Leberkäse"]
+},
+{
+  "store": "spar",
+  "id": "2020002865719",
+  "name": "Sweetiva Gelierhilfe 4:1 mit Erythrit",
+  "category": "Lebensmittel",
+  "subcategories": ["Geliermittel"]
+},
+{
+  "store": "spar",
+  "id": "2020002958114",
+  "name": "Steirerkraft Steirisches Kürbiskernöl g.g.A.",
+  "category": "Lebensmittel",
+  "subcategories": ["Öl", "Kürbiskern"]
+},
+{
+  "store": "spar",
+  "id": "7085673",
+  "name": "Steirerkraft Steirisches Kürbiskernöl g.g.A.",
+  "category": "Lebensmittel",
+  "subcategories": ["Öl", "Kürbiskern"]
+},
+{
+  "store": "spar",
+  "id": "5345755",
+  "name": "Steirerkraft Steirisches Kürbiskernöl g.g.A.",
+  "category": "Lebensmittel",
+  "subcategories": ["Öl", "Kürbiskern"]
+},
+{
+  "store": "spar",
+  "id": "2020002707361",
+  "name": "Staud's Fruchtaufstrich Heidelbeere",
+  "category": "Lebensmittel",
+  "subcategories": ["Brotaufstrich", "Heidelbeere"]
+},
+{
+  "store": "spar",
+  "id": "2020000895084",
+  "name": "Staud's Fruchtaufstrich Heidelbeere",
+  "category": "Lebensmittel",
+  "subcategories": ["Brotaufstrich", "Heidelbeere"]
+},
+{
+  "store": "spar",
+  "id": "4084037",
+  "name": "Staud's Fruchtaufstrich Kornelkirsche (Dirndl)",
+  "category": "Lebensmittel",
+  "subcategories": ["Brotaufstrich", "Kornelkirsche", "Dirndl"]
+},
+{
+  "store": "spar",
+  "id": "2020000895213",
+  "name": "Staud's Fruchtaufstrich Mango-Maracuja",
+  "category": "Lebensmittel",
+  "subcategories": ["Brotaufstrich", "Mango", "Maracuja"]
+},
+{
+  "store": "spar",
+  "id": "4084075",
+  "name": "Staud's Fruchtaufstrich Pina Colada mit Jamaica Rum",
+  "category": "Lebensmittel",
+  "subcategories": ["Brotaufstrich", "Pina Colada", "Rum"]
+},
+{
+  "store": "spar",
+  "id": "2020000895114",
+  "name": "Staud's Fruchtaufstrich Preiselbeere",
+  "category": "Lebensmittel",
+  "subcategories": ["Brotaufstrich", "Preiselbeere"]
+},
+{
+  "store": "spar",
+  "id": "2020000894995",
+  "name": "Staud's Himbeere",
+  "category": "Lebensmittel",
+  "subcategories": ["Brotaufstrich", "Himbeere"]
+},
+{
+  "store": "spar",
+  "id": "2020003610226",
+  "name": "Staud's Himbeere fein passiert, zuckerreduziert",
+  "category": "Lebensmittel",
+  "subcategories": ["Fruchtpüree", "Himbeere", "Zuckerreduziert"]
+},
+{
+  "store": "spar",
+  "id": "2020003956027",
+  "name": "Staud's Himbeere limitiert",
+  "category": "Lebensmittel",
+  "subcategories": ["Brotaufstrich", "Himbeere"]
+},
+{
+  "store": "spar",
+  "id": "2027302",
+  "name": "Staud's Konfitüre Extra Feige",
+  "category": "Lebensmittel",
+  "subcategories": ["Konfitüre", "Feige"]
+},
+{
+  "store": "spar",
+  "id": "5440191",
+  "name": "Staud's Konfitüre Extra Ingwer",
+  "category": "Lebensmittel",
+  "subcategories": ["Konfitüre", "Ingwer"]
+},
+{
+  "store": "spar",
+  "id": "2631875",
+  "name": "Staud's Konfitüre Extra Marille",
+  "category": "Lebensmittel",
+  "subcategories": ["Konfitüre", "Marille"]
+},
+{
+  "store": "spar",
+  "id": "2631967",
+  "name": "Staud's Konfitüre Extra Zwetschke mit Jamaica Rum",
+  "category": "Lebensmittel",
+  "subcategories": ["Konfitüre", "Zwetschke", "Rum"]
+},
+{
+  "store": "spar",
+  "id": "1049954",
+  "name": "Staud's Konfitüre Leichte Weichsel",
+  "category": "Lebensmittel",
+  "subcategories": ["Konfitüre", "Weichsel"]
+}]

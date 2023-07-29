@@ -1,0 +1,702 @@
+[
+  {
+    "store": "spar",
+    "id": "2020003216220",
+    "name": "Pak Choi 1 STK",
+    "category": "Gemüse",
+    "subcategories": ["Blattgemüse", "Asiatisches Gemüse"]
+  },
+  {
+    "store": "spar",
+    "id": "7174704",
+    "name": "Pak Choi 2 Stk Pkg 2 STK",
+    "category": "Gemüse",
+    "subcategories": ["Blattgemüse", "Asiatisches Gemüse"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003737145",
+    "name": "S-BUDGET Salatmix herzhaft 90g",
+    "category": "Gemüse",
+    "subcategories": ["Salat"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004271747",
+    "name": "S-BUDGET Suppengruen 600g",
+    "category": "Gemüse",
+    "subcategories": ["Suppengemüse"]
+  },
+  {
+    "store": "spar",
+    "id": "6735630",
+    "name": "S-BUDGET Tomaten",
+    "category": "Gemüse",
+    "subcategories": ["Tomaten"]
+  },
+  {
+    "store": "spar",
+    "id": "6665258",
+    "name": "S-BUDGET Weißkraut per kg",
+    "category": "Gemüse",
+    "subcategories": ["Kohl"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001465170",
+    "name": "S-BUDGET Zwiebel",
+    "category": "Gemüse",
+    "subcategories": ["Zwiebeln"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003692437",
+    "name": "SPAR Mini-Kohlgemüse Mix Kohlrabi +Broccoli od.+Romanes per 2 Stück Tasse",
+    "category": "Gemüse",
+    "subcategories": ["Kohl", "Broccoli", "Romanesco"]
+  },
+  {
+    "store": "spar",
+    "id": "7119569",
+    "name": "SPAR Minikartoffeln",
+    "category": "Gemüse",
+    "subcategories": ["Kartoffeln"]
+  },
+  {
+    "store": "spar",
+    "id": "8104007",
+    "name": "SPAR Natur*pur Bio-Artischocke",
+    "category": "Gemüse",
+    "subcategories": ["Artischocke"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004467034",
+    "name": "SPAR Natur*pur Bio-Baby-Blattspinat",
+    "category": "Gemüse",
+    "subcategories": ["Spinat"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002852269",
+    "name": "SPAR Natur*pur Bio-Basilikum im Topf",
+    "category": "Kräuter",
+    "subcategories": ["Basilikum"]
+  },
+  {
+    "store": "spar",
+    "id": "2948553",
+    "name": "SPAR Natur*pur Bio-Beilagenkartoffeln vorwiegend festkochend",
+    "category": "Gemüse",
+    "subcategories": ["Kartoffeln"]
+  },
+  {
+    "store": "spar",
+    "id": "6223595",
+    "name": "SPAR Natur*pur Bio-Braunschweigerkraut per kg",
+    "category": "Gemüse",
+    "subcategories": ["Kohl"]
+  },
+  {
+    "store": "spar",
+    "id": "6671464",
+    "name": "SPAR Natur*pur Bio-Broccoli",
+    "category": "Gemüse",
+    "subcategories": ["Broccoli"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002892678",
+    "name": "SPAR Natur*pur Bio-Cherrytomaten",
+    "category": "Gemüse",
+    "subcategories": ["Tomaten"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004297105",
+    "name": "SPAR Natur*pur Bio-Deluxe-Salat",
+    "category": "Gemüse",
+    "subcategories": ["Salat"]
+  },
+  {
+    "store": "spar",
+    "id": "6664091",
+    "name": "SPAR Natur*pur Bio-Eisbergsalat",
+    "category": "Gemüse",
+    "subcategories": ["Salat"]
+  },
+  {
+    "store": "spar",
+    "id": "1243703",
+    "name": "SPAR Natur*pur Bio-Fisolen Bobby",
+    "category": "Gemüse",
+    "subcategories": ["Bohnen"]
+  },
+  {
+    "store": "spar",
+    "id": "1679694",
+    "name": "SPAR Natur*pur Bio-Fleischtomate per kg",
+    "category": "Gemüse",
+    "subcategories": ["Tomaten"]
+  },
+  {
+    "store": "spar",
+    "id": "6725822",
+    "name": "SPAR Natur*pur Bio-Melanzani",
+    "category": "Gemüse",
+    "subcategories": ["Aubergine"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002851507",
+    "name": "SPAR Natur*pur Bio-Minze im Topf",
+    "category": "Kräuter",
+    "subcategories": ["Minze"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003454608",
+    "name": "SPAR Natur*pur Bio-Mischsalat",
+    "category": "Gemüse",
+    "subcategories": ["Salat"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001257218",
+    "name": "SPAR Natur*pur Bio-Ovaltomaten",
+    "category": "Gemüse",
+    "subcategories": ["Tomaten"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002853334",
+    "name": "SPAR Natur*pur Bio-Paprika Ramiro grün",
+    "category": "Gemüse",
+    "subcategories": ["Paprika"]
+  },
+  {
+    "store": "spar",
+    "id": "7770586",
+    "name": "SPAR Natur*pur Bio-Pastinaken",
+    "category": "Gemüse",
+    "subcategories": ["Wurzelgemüse"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002852191",
+    "name": "SPAR Natur*pur Bio-Petersilie kraus im Topf",
+    "category": "Kräuter",
+    "subcategories": ["Petersilie"]
+  },
+  {
+    "store": "spar",
+    "id": "7885082",
+    "name": "SPAR Natur*pur Bio-Peterwurzen",
+    "category": "Gemüse",
+    "subcategories": ["Wurzelgemüse"]
+  },
+  {
+    "store": "spar",
+    "id": "6280888",
+    "name": "SPAR Natur*pur Bio-Püreekartoffeln mehlig kochend",
+    "category": "Gemüse",
+    "subcategories": ["Kartoffeln"]
+  },
+  {
+    "store": "spar",
+    "id": "2663845",
+    "name": "SPAR Natur*pur Bio-Rhabarber",
+    "category": "Gemüse",
+    "subcategories": ["Rhabarber"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001524532",
+    "name": "SPAR Natur*pur Bio-Rispentomaten",
+    "category": "Gemüse",
+    "subcategories": ["Tomaten"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002851347",
+    "name": "SPAR Natur*pur Bio-Rosmarin im Topf",
+    "category": "Kräuter",
+    "subcategories": ["Rosmarin"]
+  },
+  {
+    "store": "spar",
+    "id": "5879083",
+    "name": "SPAR Natur*pur Bio-Rote Rüben gekocht & geschält",
+    "category": "Gemüse",
+    "subcategories": ["Rote Beete"]
+  },
+  {
+    "store": "spar",
+    "id": "7538827",
+    "name": "SPAR Natur*pur Bio-Rote Rüben lose per kg",
+    "category": "Gemüse",
+    "subcategories": ["Rote Beete"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002876104",
+    "name": "SPAR Natur*pur Bio-Rucola",
+    "category": "Gemüse",
+    "subcategories": ["Salat"]
+  },
+  {
+    "store": "spar",
+    "id": "7071812",
+    "name": "SPAR Natur*pur Bio-Salat Gentilina",
+    "category": "Gemüse",
+    "subcategories": ["Salat"]
+  },
+  {
+    "store": "spar",
+    "id": "6274863",
+    "name": "SPAR Natur*pur Bio-Salatkartoffeln festkochend",
+    "category": "Gemüse",
+    "subcategories": ["Kartoffeln"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001007288",
+    "name": "SPAR Natur*pur Bio-Salatmix",
+    "category": "Gemüse",
+    "subcategories": ["Salat"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002851972",
+    "name": "SPAR Natur*pur Bio-Schnittlauch im Topf",
+    "category": "Kräuter",
+    "subcategories": ["Schnittlauch"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002376956",
+    "name": "SPAR Natur*pur Bio-Snack-Karotten",
+    "category": "Gemüse",
+    "subcategories": ["Karotten"]
+  },
+  {
+    "store": "spar",
+    "id": "6639167",
+    "name": "SPAR Natur*pur Bio-Spargel grün 500g Bund",
+    "category": "Gemüse",
+    "subcategories": ["Spargel"]
+  },
+  {
+    "store": "spar",
+    "id": "6661250",
+    "name": "SPAR Natur*pur Bio-Spargel weiß",
+    "category": "Gemüse",
+    "subcategories": ["Spargel"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001740963",
+    "name": "SPAR Natur*pur Bio-Spitzpaprika rot",
+    "category": "Gemüse",
+    "subcategories": ["Paprika"]
+  },
+  {
+    "store": "spar",
+    "id": "6322458",
+    "name": "SPAR Natur*pur Bio-Stangensellerie",
+    "category": "Gemüse",
+    "subcategories": ["Sellerie"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001378982",
+    "name": "SPAR Natur*pur Bio-Suppengrün",
+    "category": "Gemüse",
+    "subcategories": ["Suppengemüse"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002692254",
+    "name": "SPAR Natur*pur Bio-Süßkartoffel",
+    "category": "Gemüse",
+    "subcategories": ["Süßkartoffel"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002851422",
+    "name": "SPAR Natur*pur Bio-Thymian im Topf",
+    "category": "Kräuter",
+    "subcategories": ["Thymian"]
+  },
+  {
+    "store": "spar",
+    "id": "7631924",
+    "name": "SPAR Natur*pur Bio-Tomate an der Rispe",
+    "category": "Gemüse",
+    "subcategories": ["Tomaten"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001541683",
+    "name": "SPAR Natur*pur Bio-Tomaten SanMarzano",
+    "category": "Gemüse",
+    "subcategories": ["Tomaten"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004217363",
+    "name": "SPAR Natur*pur Bio-Tomaten SanMarzano",
+    "category": "Gemüse",
+    "subcategories": ["Tomaten"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002903138",
+    "name": "SPAR Natur*pur Bio-Vogerlsalat gewaschen, essfertig",
+    "category": "Gemüse",
+    "subcategories": ["Salat"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002851552",
+    "name": "SPAR Natur*pur Bio-Zitronenmelisse im Topf",
+    "category": "Kräuter",
+    "subcategories": ["Melisse"]
+  },
+  {
+    "store": "spar",
+    "id": "6731915",
+    "name": "SPAR Natur*pur Bio-Zucchini",
+    "category": "Gemüse",
+    "subcategories": ["Zucchini"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002482176",
+    "name": "SPAR Natur*pur Bio-Zucchini Moretti per kg",
+    "category": "Gemüse",
+    "subcategories": ["Zucchini"]
+  },
+  {
+    "store": "spar",
+    "id": "7991196",
+    "name": "SPAR Natur*pur Bio-Zucchini-Mix",
+    "category": "Gemüse",
+    "subcategories": ["Zucchini"]
+  },
+  {
+    "store": "spar",
+    "id": "8206978",
+    "name": "SPAR Natur*pur Bio-Zuckermais vorgegart",
+    "category": "Gemüse",
+    "subcategories": ["Mais"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002658663",
+    "name": "SPAR Natur*pur Bio-Zwiebel Mix im Netzschlauch",
+    "category": "Gemüse",
+    "subcategories": ["Zwiebeln"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002660413",
+    "name": "SPAR Natur*pur Bio-Zwiebel im Netzschlauch",
+    "category": "Gemüse",
+    "subcategories": ["Zwiebeln"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002658878",
+    "name": "SPAR Natur*pur Bio-Zwiebel rot",
+    "category": "Gemüse",
+    "subcategories": ["Zwiebeln"]
+  },
+  {
+    "store": "spar",
+    "id": "6283339",
+    "name": "SPAR Natur*pur Bio-Zwiebeln gelb",
+    "category": "Gemüse",
+    "subcategories": ["Zwiebeln"]
+  },
+  {
+    "store": "spar",
+    "id": "6283414",
+    "name": "SPAR Natur*pur Bio-Zwiebeln rot",
+    "category": "Gemüse",
+    "subcategories": ["Zwiebeln"]
+  },
+  {
+    "store": "spar",
+    "id": "7128455",
+    "name": "SPAR Natur*pur Champignons Crema",
+    "category": "Gemüse",
+    "subcategories": ["Pilze"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004384560",
+    "name": "SPAR Natur*pur Karotten mit Grün Bund",
+    "category": "Gemüse",
+    "subcategories": ["Karotten"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004193650",
+    "name": "SPAR Natur*pur Kartoffel Heurige 1kg",
+    "category": "Gemüse",
+    "subcategories": ["Kartoffeln"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004272805",
+    "name": "SPAR Natur*pur Knoblauch frisch per Stk.",
+    "category": "Gemüse",
+    "subcategories": ["Knoblauch"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004224231",
+    "name": "SPAR Natur*pur Spitzpaprika rot",
+    "category": "Gemüse",
+    "subcategories": ["Paprika"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004496768",
+    "name": "SPAR Natur*pur Tomaten Ochsenherz per kg",
+    "category": "Gemüse",
+    "subcategories": ["Tomaten"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004140197",
+    "name": "SPAR Ofenkartoffel 1,5kg Sack",
+    "category": "Gemüse",
+    "subcategories": ["Kartoffeln"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004191069",
+    "name": "SPAR PREMIUM Cherrytomate Mix",
+    "category": "Gemüse",
+    "subcategories": ["Tomaten"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002014636",
+    "name": "SPAR PREMIUM Cherrytomaten an der Rispe",
+    "category": "Gemüse",
+    "subcategories": ["Tomaten"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003782527",
+    "name": "SPAR PREMIUM Chicoree Mini 5 Stk.",
+    "category": "Gemüse",
+    "subcategories": ["Chicorée"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001146666",
+    "name": "SPAR PREMIUM Spargel Solo 550g",
+    "category": "Gemüse",
+    "subcategories": ["Spargel"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001174683",
+    "name": "SPAR PREMIUM Spargel grün 550g",
+    "category": "Gemüse",
+    "subcategories": ["Spargel"]
+  },
+  {
+    "store": "spar",
+    "id": "6723286",
+    "name": "SPAR Paprika Mix",
+    "category": "Gemüse",
+    "subcategories": ["Paprika"]
+  },
+  {
+    "store": "spar",
+    "id": "6646486",
+    "name": "SPAR Paprika gelb",
+    "category": "Gemüse",
+    "subcategories": ["Paprika"]
+  },
+  {
+    "store": "spar",
+    "id": "6683023",
+    "name": "SPAR Paprika grün",
+    "category": "Gemüse",
+    "subcategories": ["Paprika"]
+  },
+  {
+    "store": "spar",
+    "id": "6646349",
+    "name": "SPAR Paprika rot",
+    "category": "Gemüse",
+    "subcategories": ["Paprika"]
+  },
+  {
+    "store": "spar",
+    "id": "6725372",
+    "name": "SPAR Petergrün",
+    "category": "Kräuter",
+    "subcategories": ["Petergrün"]
+  },
+  {
+    "store": "spar",
+    "id": "6725723",
+    "name": "SPAR Peterkraus",
+    "category": "Kräuter",
+    "subcategories": ["Peterkraus"]
+  },
+  {
+    "store": "spar",
+    "id": "1407440",
+    "name": "SPAR Peterwurzen",
+    "category": "Gemüse",
+    "subcategories": ["Wurzelgemüse"]
+  },
+  {
+    "store": "spar",
+    "id": "6677800",
+    "name": "SPAR Püreekartoffeln mehlig",
+    "category": "Gemüse",
+    "subcategories": ["Kartoffeln"]
+  },
+  {
+    "store": "spar",
+    "id": "2032511",
+    "name": "SPAR Radieschen Bund",
+    "category": "Gemüse",
+    "subcategories": ["Radieschen"]
+  },
+  {
+    "store": "spar",
+    "id": "6640293",
+    "name": "SPAR Rettich weiß",
+    "category": "Gemüse",
+    "subcategories": ["Rettich"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002783181",
+    "name": "SPAR Rispentomaten Midi",
+    "category": "Gemüse",
+    "subcategories": ["Tomaten"]
+  },
+  {
+    "store": "spar",
+    "id": "6178819",
+    "name": "SPAR Rosmarin frisch",
+    "category": "Kräuter",
+    "subcategories": ["Rosmarin"]
+  },
+  {
+    "store": "spar",
+    "id": "6665241",
+    "name": "SPAR Rotkraut per kg",
+    "category": "Gemüse",
+    "subcategories": ["Kohl"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002693411",
+    "name": "SPAR Rucola-Salat",
+    "category": "Gemüse",
+    "subcategories": ["Salat"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002692971",
+    "name": "SPAR Salat Mix Frühlingsbote",
+    "category": "Gemüse",
+    "subcategories": ["Salat"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002693138",
+    "name": "SPAR Salat Mix Herbsttau",
+    "category": "Gemüse",
+    "subcategories": ["Salat"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002693084",
+    "name": "SPAR Salat Mix Sommergruß",
+    "category": "Gemüse",
+    "subcategories": ["Salat"]
+  },
+  {
+    "store": "spar",
+    "id": "6691585",
+    "name": "SPAR Salatherzen 2 Stück",
+    "category": "Gemüse",
+    "subcategories": ["Salat"]
+  },
+  {
+    "store": "spar",
+    "id": "6643355",
+    "name": "SPAR Salatkartoffeln festkochend",
+    "category": "Gemüse",
+    "subcategories": ["Kartoffeln"]
+  },
+  {
+    "store": "spar",
+    "id": "6725396",
+    "name": "SPAR Schnittlauch",
+    "category": "Kräuter",
+    "subcategories": ["Schnittlauch"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002364472",
+    "name": "SPAR Snack Gurke",
+    "category": "Gemüse",
+    "subcategories": ["Gurke"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002364502",
+    "name": "SPAR Snack Paprika",
+    "category": "Gemüse",
+    "subcategories": ["Paprika"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002364540",
+    "name": "SPAR Snack Tomaten",
+    "category": "Gemüse",
+    "subcategories": ["Tomaten"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002693831",
+    "name": "SPAR Snack-Salat Mix",
+    "category": "Gemüse",
+    "subcategories": ["Salat"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003308055",
+    "name": "SPAR Spitzpaprika Mix",
+    "category": "Gemüse",
+    "subcategories": ["Paprika"]
+  },
+  {
+    "store": "spar",
+    "id": "8014450",
+    "name": "SPAR Spitzpaprika Ramiro/Rot",
+    "category": "Gemüse",
+    "subcategories": ["Paprika"]
+  },
+  {
+    "store": "spar",
+    "id": "6725945",
+    "name": "SPAR Stangensellerie",
+    "category": "Gemüse",
+    "subcategories": ["Sellerie"]
+  }
+]

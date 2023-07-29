@@ -1,0 +1,704 @@
+Here is the JSON list with the added category field and list of subcategories:
+
+[
+  {
+    "store": "billa",
+    "id": "00-778422",
+    "name": "Clever Urquelle Mineralwasser Mild",
+    "category": "Getränke",
+    "subcategories": ["Mineralwasser", "Mild"]
+  },
+  {
+    "store": "billa",
+    "id": "00-708327",
+    "name": "Clever Wasser Birne-Melisse prickelnd",
+    "category": "Getränke",
+    "subcategories": ["Wasser", "Birne-Melisse", "prickelnd"]
+  },
+  {
+    "store": "billa",
+    "id": "00-708401",
+    "name": "Clever Wasser Marille-Holler prickelnd",
+    "category": "Getränke",
+    "subcategories": ["Wasser", "Marille-Holler", "prickelnd"]
+  },
+  {
+    "store": "billa",
+    "id": "00-545873",
+    "name": "Clever Wasser Plus Birne-Melisse",
+    "category": "Getränke",
+    "subcategories": ["Wasser Plus", "Birne-Melisse"]
+  },
+  {
+    "store": "billa",
+    "id": "00-545900",
+    "name": "Clever Wasser Plus Erdbeer-Zitronengras",
+    "category": "Getränke",
+    "subcategories": ["Wasser Plus", "Erdbeer-Zitronengras"]
+  },
+  {
+    "store": "billa",
+    "id": "00-578188",
+    "name": "Clever Zitronenlimonade",
+    "category": "Getränke",
+    "subcategories": ["Zitronenlimonade"]
+  },
+  {
+    "store": "billa",
+    "id": "00-581990",
+    "name": "Coca Cola",
+    "category": "Getränke",
+    "subcategories": ["Cola"]
+  },
+  {
+    "store": "billa",
+    "id": "00-241191",
+    "name": "Coca Cola",
+    "category": "Getränke",
+    "subcategories": ["Cola"]
+  },
+  {
+    "store": "billa",
+    "id": "00-74150",
+    "name": "Coca Cola",
+    "category": "Getränke",
+    "subcategories": ["Cola"]
+  },
+  {
+    "store": "billa",
+    "id": "00-90145",
+    "name": "Coca Cola",
+    "category": "Getränke",
+    "subcategories": ["Cola"]
+  },
+  {
+    "store": "billa",
+    "id": "00-414515",
+    "name": "Coca Cola 6er",
+    "category": "Getränke",
+    "subcategories": ["Cola"]
+  },
+  {
+    "store": "billa",
+    "id": "00-857993",
+    "name": "Coca Cola Glaskonturflaschen 6er",
+    "category": "Getränke",
+    "subcategories": ["Cola"]
+  },
+  {
+    "store": "billa",
+    "id": "00-90124",
+    "name": "Coca Cola Light",
+    "category": "Getränke",
+    "subcategories": ["Cola Light"]
+  },
+  {
+    "store": "billa",
+    "id": "00-583390",
+    "name": "Coca Cola Light",
+    "category": "Getränke",
+    "subcategories": ["Cola Light"]
+  },
+  {
+    "store": "billa",
+    "id": "00-90146",
+    "name": "Coca Cola Light",
+    "category": "Getränke",
+    "subcategories": ["Cola Light"]
+  },
+  {
+    "store": "billa",
+    "id": "00-241192",
+    "name": "Coca Cola Light",
+    "category": "Getränke",
+    "subcategories": ["Cola Light"]
+  },
+  {
+    "store": "billa",
+    "id": "00-241194",
+    "name": "Coca Cola Zero",
+    "category": "Getränke",
+    "subcategories": ["Cola Zero"]
+  },
+  {
+    "store": "billa",
+    "id": "00-902382",
+    "name": "Coca Cola Zero",
+    "category": "Getränke",
+    "subcategories": ["Cola Zero"]
+  },
+  {
+    "store": "billa",
+    "id": "00-902384",
+    "name": "Coca Cola Zero",
+    "category": "Getränke",
+    "subcategories": ["Cola Zero"]
+  },
+  {
+    "store": "billa",
+    "id": "00-583397",
+    "name": "Coca Cola Zero",
+    "category": "Getränke",
+    "subcategories": ["Cola Zero"]
+  },
+  {
+    "store": "billa",
+    "id": "00-311772",
+    "name": "Coca Cola Zero 6er",
+    "category": "Getränke",
+    "subcategories": ["Cola Zero"]
+  },
+  {
+    "store": "billa",
+    "id": "00-581987",
+    "name": "Coca Cola Zero Lemon",
+    "category": "Getränke",
+    "subcategories": ["Cola Zero Lemon"]
+  },
+  {
+    "store": "billa",
+    "id": "00-386726",
+    "name": "Coca Cola Zero Lemon",
+    "category": "Getränke",
+    "subcategories": ["Cola Zero Lemon"]
+  },
+  {
+    "store": "billa",
+    "id": "00-722450",
+    "name": "Coca Cola Zero Zero",
+    "category": "Getränke",
+    "subcategories": ["Cola Zero Zero"]
+  },
+  {
+    "store": "billa",
+    "id": "00-721142",
+    "name": "Coca Cola Zero Zero",
+    "category": "Getränke",
+    "subcategories": ["Cola Zero Zero"]
+  },
+  {
+    "store": "billa",
+    "id": "00-870991",
+    "name": "Cockta Original",
+    "category": "Getränke",
+    "subcategories": ["Cocktail"]
+  },
+  {
+    "store": "billa",
+    "id": "00-903113",
+    "name": "Cofain 699 Coffein-Drink",
+    "category": "Getränke",
+    "subcategories": ["Coffein-Drink"]
+  },
+  {
+    "store": "billa",
+    "id": "00-405262",
+    "name": "Darbo Himbeer Sirup",
+    "category": "Lebensmittel",
+    "subcategories": ["Sirup", "Himbeer"]
+  },
+  {
+    "store": "billa",
+    "id": "00-577104",
+    "name": "Darbo Sirup Holunderblüte - weniger Zucker",
+    "category": "Lebensmittel",
+    "subcategories": ["Sirup", "Holunderblüte"]
+  },
+  {
+    "store": "billa",
+    "id": "00-405263",
+    "name": "Darbo Sirup Holunderblüten",
+    "category": "Lebensmittel",
+    "subcategories": ["Sirup", "Holunderblüten"]
+  },
+  {
+    "store": "billa",
+    "id": "00-401460",
+    "name": "Darbo Sirup Johannisbeer",
+    "category": "Lebensmittel",
+    "subcategories": ["Sirup", "Johannisbeer"]
+  },
+  {
+    "store": "billa",
+    "id": "00-720039",
+    "name": "Darbo Sirup Orange - Passionsfrucht",
+    "category": "Lebensmittel",
+    "subcategories": ["Sirup", "Orange", "Passionsfrucht"]
+  },
+  {
+    "store": "billa",
+    "id": "00-426607",
+    "name": "Darbo Sirup Pfirsich-Maracuja",
+    "category": "Lebensmittel",
+    "subcategories": ["Sirup", "Pfirsich-Maracuja"]
+  },
+  {
+    "store": "billa",
+    "id": "00-904914",
+    "name": "Darbo Sirup Schwarzer Holunder",
+    "category": "Lebensmittel",
+    "subcategories": ["Sirup", "Schwarzer Holunder"]
+  },
+  {
+    "store": "billa",
+    "id": "00-301103",
+    "name": "Darbo Sirup Sizilianische Zitrone",
+    "category": "Lebensmittel",
+    "subcategories": ["Sirup", "Sizilianische Zitrone"]
+  },
+  {
+    "store": "billa",
+    "id": "00-577125",
+    "name": "Darbo Sirup Sizilianische Zitrone - weniger Zucker",
+    "category": "Lebensmittel",
+    "subcategories": ["Sirup", "Sizilianische Zitrone"]
+  },
+  {
+    "store": "billa",
+    "id": "00-433582",
+    "name": "Darbo Sirup Zitronenmelisse",
+    "category": "Lebensmittel",
+    "subcategories": ["Sirup", "Zitronenmelisse"]
+  },
+  {
+    "store": "billa",
+    "id": "00-426611",
+    "name": "Darbo Wildpreiselbeer Sirup",
+    "category": "Lebensmittel",
+    "subcategories": ["Sirup", "Wildpreiselbeer"]
+  },
+  {
+    "store": "billa",
+    "id": "00-516084",
+    "name": "Dirtea Eistee Busty Blueberry",
+    "category": "Getränke",
+    "subcategories": ["Eistee", "Blueberry"]
+  },
+  {
+    "store": "billa",
+    "id": "00-516174",
+    "name": "Dirtea Eistee Mango",
+    "category": "Getränke",
+    "subcategories": ["Eistee", "Mango"]
+  },
+  {
+    "store": "billa",
+    "id": "00-516083",
+    "name": "Dirtea Eistee Wet Peach",
+    "category": "Getränke",
+    "subcategories": ["Eistee", "Peach"]
+  },
+  {
+    "store": "billa",
+    "id": "00-714659",
+    "name": "Dirtea Energy Juicy Mango",
+    "category": "Getränke",
+    "subcategories": ["Energy Drink", "Juicy Mango"]
+  },
+  {
+    "store": "billa",
+    "id": "00-714658",
+    "name": "Dirtea Energy Wet Peach",
+    "category": "Getränke",
+    "subcategories": ["Energy Drink", "Wet Peach"]
+  },
+  {
+    "store": "billa",
+    "id": "00-384687",
+    "name": "Dr. Martins Coco Bio Coconut Water",
+    "category": "Getränke",
+    "subcategories": ["Kokoswasser"]
+  },
+  {
+    "store": "billa",
+    "id": "00-910647",
+    "name": "Dreh & Trink Cola",
+    "category": "Getränke",
+    "subcategories": ["Cola"]
+  },
+  {
+    "store": "billa",
+    "id": "00-881211",
+    "name": "Dreh & Trink Himbeere",
+    "category": "Getränke",
+    "subcategories": ["Himbeere"]
+  },
+  {
+    "store": "billa",
+    "id": "00-74117",
+    "name": "Dreh & Trink Kirsche",
+    "category": "Getränke",
+    "subcategories": ["Kirsche"]
+  },
+  {
+    "store": "billa",
+    "id": "00-574151",
+    "name": "Dreh & Trink Multifrucht",
+    "category": "Getränke",
+    "subcategories": ["Multifrucht"]
+  },
+  {
+    "store": "billa",
+    "id": "00-763682",
+    "name": "Dreh & Trink Waldbeere",
+    "category": "Getränke",
+    "subcategories": ["Waldbeere"]
+  },
+  {
+    "store": "billa",
+    "id": "00-405228",
+    "name": "Echt Holler Holunder Limonade",
+    "category": "Getränke",
+    "subcategories": ["Holunder Limonade"]
+  },
+  {
+    "store": "billa",
+    "id": "00-471806",
+    "name": "Emmi Caffè Drink Almond Macchiato",
+    "category": "Getränke",
+    "subcategories": ["Caffè Drink", "Almond Macchiato"]
+  },
+  {
+    "store": "billa",
+    "id": "00-441228",
+    "name": "Emmi Caffè Latte Balance",
+    "category": "Getränke",
+    "subcategories": ["Caffè Latte", "Balance"]
+  },
+  {
+    "store": "billa",
+    "id": "00-432919",
+    "name": "Emmi Caffè Latte Cappuccino",
+    "category": "Getränke",
+    "subcategories": ["Caffè Latte", "Cappuccino"]
+  },
+  {
+    "store": "billa",
+    "id": "00-574248",
+    "name": "Emmi Caffè Latte Double Zero",
+    "category": "Getränke",
+    "subcategories": ["Caffè Latte"]
+  },
+  {
+    "store": "billa",
+    "id": "00-436600",
+    "name": "Emmi Caffè Latte Macchiato",
+    "category": "Getränke",
+    "subcategories": ["Caffè Latte", "Macchiato"]
+  },
+  {
+    "store": "billa",
+    "id": "00-720723",
+    "name": "Emmi Caffè Latte Popcorn",
+    "category": "Getränke",
+    "subcategories": ["Caffè Latte", "Popcorn"]
+  },
+  {
+    "store": "billa",
+    "id": "00-389406",
+    "name": "Emmi Caffè Latte Protein",
+    "category": "Getränke",
+    "subcategories": ["Caffè Latte", "Protein"]
+  },
+  {
+    "store": "billa",
+    "id": "00-722700",
+    "name": "Emmi Caffè Latte Vanilla",
+    "category": "Getränke",
+    "subcategories": ["Caffè Latte", "Vanilla"]
+  },
+  {
+    "store": "billa",
+    "id": "00-707192",
+    "name": "Evian",
+    "category": "Getränke",
+    "subcategories": ["Mineralwasser"]
+  },
+  {
+    "store": "billa",
+    "id": "00-870604",
+    "name": "Evian",
+    "category": "Getränke",
+    "subcategories": ["Mineralwasser"]
+  },
+  {
+    "store": "billa",
+    "id": "00-405774",
+    "name": "Evian",
+    "category": "Getränke",
+    "subcategories": ["Mineralwasser"]
+  },
+  {
+    "store": "billa",
+    "id": "00-90147",
+    "name": "Fanta",
+    "category": "Getränke",
+    "subcategories": ["Limonade"]
+  },
+  {
+    "store": "billa",
+    "id": "00-241211",
+    "name": "Fanta",
+    "category": "Getränke",
+    "subcategories": ["Limonade"]
+  },
+  {
+    "store": "billa",
+    "id": "00-74152",
+    "name": "Fanta",
+    "category": "Getränke",
+    "subcategories": ["Limonade"]
+  },
+  {
+    "store": "billa",
+    "id": "00-583398",
+    "name": "Fanta",
+    "category": "Getränke",
+    "subcategories": ["Limonade"]
+  },
+  {
+    "store": "billa",
+    "id": "00-931602",
+    "name": "Fanta Lemon Zero",
+    "category": "Getränke",
+    "subcategories": ["Lemon Zero"]
+  },
+  {
+    "store": "billa",
+    "id": "00-574929",
+    "name": "Fanta Mango",
+    "category": "Getränke",
+    "subcategories": ["Mango"]
+  },
+  {
+    "store": "billa",
+    "id": "00-797071",
+    "name": "Fanta Orange 6er",
+    "category": "Getränke",
+    "subcategories": ["Orange"]
+  },
+  {
+    "store": "billa",
+    "id": "00-551288",
+    "name": "Fanta Zero",
+    "category": "Getränke",
+    "subcategories": ["Limonade"]
+  },
+  {
+    "store": "billa",
+    "id": "00-551268",
+    "name": "Fanta Zero",
+    "category": "Getränke",
+    "subcategories": ["Limonade"]
+  },
+  {
+    "store": "billa",
+    "id": "00-721562",
+    "name": "Fanta Zero Exotic",
+    "category": "Getränke",
+    "subcategories": ["Limonade"]
+  },
+  {
+    "store": "billa",
+    "id": "00-780904",
+    "name": "Fentimans Cherry Cola",
+    "category": "Getränke",
+    "subcategories": ["Cherry Cola"]
+  },
+  {
+    "store": "billa",
+    "id": "00-780905",
+    "name": "Fentimans Curiosity Cola",
+    "category": "Getränke",
+    "subcategories": ["Curiosity Cola"]
+  },
+  {
+    "store": "billa",
+    "id": "00-281993",
+    "name": "Fentimans Gently Sparkling Elderflower",
+    "category": "Getränke",
+    "subcategories": ["Elderflower"]
+  },
+  {
+    "store": "billa",
+    "id": "00-489736",
+    "name": "Fentimans Ginger Beer",
+    "category": "Getränke",
+    "subcategories": ["Ginger Beer"]
+  },
+  {
+    "store": "billa",
+    "id": "00-305775",
+    "name": "Fentimans Indian Tonic",
+    "category": "Getränke",
+    "subcategories": ["Tonic"]
+  },
+  {
+    "store": "billa",
+    "id": "00-877970",
+    "name": "Fentimans Premium Indian Tonic Water",
+    "category": "Getränke",
+    "subcategories": ["Tonic Water"]
+  },
+  {
+    "store": "billa",
+    "id": "00-770960",
+    "name": "Fentimans Rose Lemonade",
+    "category": "Getränke",
+    "subcategories": ["Rose Lemonade"]
+  },
+  {
+    "store": "billa",
+    "id": "00-265277",
+    "name": "Fever-Tree Ginger Beer",
+    "category": "Getränke",
+    "subcategories": ["Ginger Beer"]
+  },
+  {
+    "store": "billa",
+    "id": "00-734639",
+    "name": "Fever-Tree Ginger Beer",
+    "category": "Getränke",
+    "subcategories": ["Ginger Beer"]
+  },
+  {
+    "store": "billa",
+    "id": "00-299194",
+    "name": "Fever-Tree Indian Tonic Water",
+    "category": "Getränke",
+    "subcategories": ["Tonic Water"]
+  },
+  {
+    "store": "billa",
+    "id": "00-738725",
+    "name": "Fever-Tree Indian Tonic Water",
+    "category": "Getränke",
+    "subcategories": ["Tonic Water"]
+  },
+  {
+    "store": "billa",
+    "id": "00-312558",
+    "name": "Fever-Tree Mediterranean Tonic Water",
+    "category": "Getränke",
+    "subcategories": ["Tonic Water"]
+  },
+  {
+    "store": "billa",
+    "id": "00-891851",
+    "name": "Fever-Tree Mediterranean Tonic Water",
+    "category": "Getränke",
+    "subcategories": ["Tonic Water"]
+  },
+  {
+    "store": "billa",
+    "id": "00-493810",
+    "name": "Fever-Tree Raspberry & Rhubarb Tonic Water",
+    "category": "Getränke",
+    "subcategories": ["Tonic Water"]
+  },
+  {
+    "store": "billa",
+    "id": "00-704035",
+    "name": "Fever-Tree Raspberry & Rhubarb Tonic Water",
+    "category": "Getränke",
+    "subcategories": ["Tonic Water"]
+  },
+  {
+    "store": "billa",
+    "id": "00-617501",
+    "name": "Fiji Water Still",
+    "category": "Getränke",
+    "subcategories": ["Still Water"]
+  },
+  {
+    "store": "billa",
+    "id": "00-617500",
+    "name": "Fiji Water Still",
+    "category": "Getränke",
+    "subcategories": ["Still Water"]
+  },
+  {
+    "store": "billa",
+    "id": "00-517127",
+    "name": "Firefly Kiwi, Lime & Mint",
+    "category": "Getränke",
+    "subcategories": ["Kiwi", "Lime", "Mint"]
+  },
+  {
+    "store": "billa",
+    "id": "00-634594",
+    "name": "Firefly Lemon, Lime & Ginger",
+    "category": "Getränke",
+    "subcategories": ["Lemon", "Lime", "Ginger"]
+  },
+  {
+    "store": "billa",
+    "id": "00-634595",
+    "name": "Firefly Peach & Green Tea",
+    "category": "Getränke",
+    "subcategories": ["Peach", "Green Tea"]
+  },
+  {
+    "store": "billa",
+    "id": "00-634605",
+    "name": "Firefly Pomegranate & Elderflower",
+    "category": "Getränke",
+    "subcategories": ["Pomegranate", "Elderflower"]
+  },
+  {
+    "store": "billa",
+    "id": "00-587968",
+    "name": "Flocke BIO Eistee Apfel & Zitrone",
+    "category": "Getränke",
+    "subcategories": ["Eistee", "Apfel", "Zitrone"]
+  },
+  {
+    "store": "billa",
+    "id": "00-722632",
+    "name": "Flocke Bio Eistee Apfel-Pfirsich",
+    "category": "Getränke",
+    "subcategories": ["Eistee", "Apfel-Pfirsich"]
+  },
+  {
+    "store": "billa",
+    "id": "00-721845",
+    "name": "Frankenmarkter Limette-Wacholder",
+    "category": "Getränke",
+    "subcategories": ["Limette-Wacholder"]
+  },
+  {
+    "store": "billa",
+    "id": "00-721847",
+    "name": "Frankenmarkter Mineral Prickelnd",
+    "category": "Getränke",
+    "subcategories": ["Mineralwasser", "Prickelnd"]
+  },
+  {
+    "store": "billa",
+    "id": "00-478831",
+    "name": "Frankenmarkter Pfirsich",
+    "category": "Getränke",
+    "subcategories": ["Pfirsich"]
+  },
+  {
+    "store": "billa",
+    "id": "00-721840",
+    "name": "Frankenmarkter Waldfrucht",
+    "category": "Getränke",
+    "subcategories": ["Waldfrucht"]
+  },
+  {
+    "store": "billa",
+    "id": "00-719135",
+    "name": "Frankenmarkter Zitrone",
+    "category": "Getränke",
+    "subcategories": ["Zitrone"]
+  },
+  {
+    "store": "billa",
+    "id": "00-411488",
+    "name": "Frucade",
+    "category": "Getränke",
+    "subcategories": ["Limonade"]
+  }
+]

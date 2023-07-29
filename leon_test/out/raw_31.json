@@ -1,0 +1,1000 @@
+[
+  {
+    "store": "billa",
+    "id": "00-482550",
+    "name": "BILLA Freilandeier M",
+    "category": "Eier",
+    "subcategories": [
+      "Freiland",
+      "Bodenhaltung"
+    ]
+  },
+  {
+    "store": "billa",
+    "id": "00-312736",
+    "name": "Clever Eier aus Bodenhaltung M",
+    "category": "Eier",
+    "subcategories": [
+      "Bodenhaltung"
+    ]
+  },
+  {
+    "store": "billa",
+    "id": "00-312703",
+    "name": "Clever Eier aus Bodenhaltung M",
+    "category": "Eier",
+    "subcategories": [
+      "Bodenhaltung"
+    ]
+  },
+  {
+    "store": "billa",
+    "id": "00-341336",
+    "name": "Da komm ich her! Eier aus Bodenhaltung L",
+    "category": "Eier",
+    "subcategories": [
+      "Bodenhaltung"
+    ]
+  },
+  {
+    "store": "billa",
+    "id": "00-477967",
+    "name": "Da komm ich her! Eier aus Bodenhaltung L",
+    "category": "Eier",
+    "subcategories": [
+      "Bodenhaltung"
+    ]
+  },
+  {
+    "store": "billa",
+    "id": "00-341383",
+    "name": "Da komm ich her! Freilandeier L",
+    "category": "Eier",
+    "subcategories": [
+      "Freiland"
+    ]
+  },
+  {
+    "store": "billa",
+    "id": "00-820829",
+    "name": "Ja! Natürlich Bio Eier M",
+    "category": "Eier",
+    "subcategories": [
+      "Bio"
+    ]
+  },
+  {
+    "store": "billa",
+    "id": "00-819785",
+    "name": "Ja! Natürlich Bio Eier M",
+    "category": "Eier",
+    "subcategories": [
+      "Bio"
+    ]
+  },
+  {
+    "store": "billa",
+    "id": "00-88818",
+    "name": "Ja! Natürlich Bio-Eier L",
+    "category": "Eier",
+    "subcategories": [
+      "Bio"
+    ]
+  },
+  {
+    "store": "billa",
+    "id": "00-968705",
+    "name": "Schlögl Eier aus Bodenhaltung",
+    "category": "Eier",
+    "subcategories": [
+      "Bodenhaltung"
+    ]
+  },
+  {
+    "store": "billa",
+    "id": "00-316365",
+    "name": "Simply Good Gekochte Eier",
+    "category": "Eier",
+    "subcategories": [
+      "Gekocht"
+    ]
+  },
+  {
+    "store": "billa",
+    "id": "00-393328",
+    "name": "Simply Good Gekochte Eier",
+    "category": "Eier",
+    "subcategories": [
+      "Gekocht"
+    ]
+  },
+  {
+    "store": "billa",
+    "id": "00-956654",
+    "name": "Tonis Freilandeier L",
+    "category": "Eier",
+    "subcategories": [
+      "Freiland"
+    ]
+  },
+  {
+    "store": "billa",
+    "id": "00-956650",
+    "name": "Tonis Freilandeier M",
+    "category": "Eier",
+    "subcategories": [
+      "Freiland"
+    ]
+  },
+  {
+    "store": "billa",
+    "id": "00-956644",
+    "name": "Tonis Freilandeier M",
+    "category": "Eier",
+    "subcategories": [
+      "Freiland"
+    ]
+  },
+  {
+    "store": "billa",
+    "id": "00-956646",
+    "name": "Tonis Freilandeier XL",
+    "category": "Eier",
+    "subcategories": [
+      "Freiland"
+    ]
+  },
+  {
+    "store": "hofer",
+    "id": 548184,
+    "name": "FAIR HOF Tierwohl-Eier 10Stk.",
+    "category": "Eier",
+    "subcategories": [
+      "Tierwohl"
+    ]
+  },
+  {
+    "store": "hofer",
+    "id": 548179,
+    "name": "ZURÜCK ZUM URSPRUNG Bio Ostereier 6 Stück",
+    "category": "Eier",
+    "subcategories": [
+      "Bio"
+    ]
+  },
+  {
+    "store": "billa",
+    "id": "00-514738",
+    "name": "BILLA Genusswelt Boeuf Bourguignon",
+    "category": "Fleisch",
+    "subcategories": [
+      "Boeuf Bourguignon"
+    ]
+  },
+  {
+    "store": "billa",
+    "id": "00-422779",
+    "name": "BILLA Genusswelt Boeuf Stroganoff",
+    "category": "Fleisch",
+    "subcategories": [
+      "Boeuf Stroganoff"
+    ]
+  },
+  {
+    "store": "billa",
+    "id": "00-385610",
+    "name": "BILLA Genusswelt Kalbs-Rollbraten handgeknüpft",
+    "category": "Fleisch",
+    "subcategories": [
+      "Kalb",
+      "Rollbraten"
+    ]
+  },
+  {
+    "store": "billa",
+    "id": "00-721216",
+    "name": "BILLA Genusswelt Kalbsleber",
+    "category": "Fleisch",
+    "subcategories": [
+      "Kalb",
+      "Leber"
+    ]
+  },
+  {
+    "store": "billa",
+    "id": "00-721222",
+    "name": "BILLA Genusswelt Kalbsmedaillons",
+    "category": "Fleisch",
+    "subcategories": [
+      "Kalb",
+      "Medaillons"
+    ]
+  },
+  {
+    "store": "billa",
+    "id": "00-721223",
+    "name": "BILLA Genusswelt Kalbsragout",
+    "category": "Fleisch",
+    "subcategories": [
+      "Kalb",
+      "Ragout"
+    ]
+  },
+  {
+    "store": "billa",
+    "id": "00-721224",
+    "name": "BILLA Genusswelt Kalbsschnitzel geschnitten",
+    "category": "Fleisch",
+    "subcategories": [
+      "Kalb",
+      "Schnitzel"
+    ]
+  },
+  {
+    "store": "billa",
+    "id": "00-317050",
+    "name": "Clever Faschiertes gemischt",
+    "category": "Fleisch",
+    "subcategories": [
+      "Faschiertes",
+      "Gemischt"
+    ]
+  },
+  {
+    "store": "billa",
+    "id": "00-394052",
+    "name": "Clever Grill Steaks mariniert",
+    "category": "Fleisch",
+    "subcategories": [
+      "Grill",
+      "Steaks",
+      "Mariniert"
+    ]
+  },
+  {
+    "store": "billa",
+    "id": "00-342167",
+    "name": "Clever Hühnerfilet",
+    "category": "Fleisch",
+    "subcategories": [
+      "Huhn",
+      "Filet"
+    ]
+  },
+  {
+    "store": "billa",
+    "id": "00-583076",
+    "name": "Clever Hühnerschnitzel",
+    "category": "Fleisch",
+    "subcategories": [
+      "Huhn",
+      "Schnitzel"
+    ]
+  },
+  {
+    "store": "billa",
+    "id": "00-342145",
+    "name": "Clever Poularde",
+    "category": "Fleisch",
+    "subcategories": [
+      "Poularde"
+    ]
+  },
+  {
+    "store": "billa",
+    "id": "00-720106",
+    "name": "Clever Schlögelsteak mariniert",
+    "category": "Fleisch",
+    "subcategories": [
+      "Schlögelsteak",
+      "Mariniert"
+    ]
+  },
+  {
+    "store": "billa",
+    "id": "00-721625",
+    "name": "Clever Schopfkotelett",
+    "category": "Fleisch",
+    "subcategories": [
+      "Schopfkotelett"
+    ]
+  },
+  {
+    "store": "billa",
+    "id": "00-721522",
+    "name": "Clever Schweinekotelett",
+    "category": "Fleisch",
+    "subcategories": [
+      "Schweinekotelett"
+    ]
+  },
+  {
+    "store": "billa",
+    "id": "00-724508",
+    "name": "Clever Spare Ribs mariniert",
+    "category": "Fleisch",
+    "subcategories": [
+      "Spare Ribs",
+      "Mariniert"
+    ]
+  },
+  {
+    "store": "billa",
+    "id": "00-513517",
+    "name": "Clever Unterkeulen vom Huhn",
+    "category": "Fleisch",
+    "subcategories": [
+      "Huhn",
+      "Unterkeulen"
+    ]
+  },
+  {
+    "store": "billa",
+    "id": "00-386887",
+    "name": "Die Grillerei Spare Ribs mariniert Klassik",
+    "category": "Fleisch",
+    "subcategories": [
+      "Spare Ribs",
+      "Mariniert",
+      "Klassik"
+    ]
+  },
+  {
+    "store": "billa",
+    "id": "00-392364",
+    "name": "Die Grillerei Spareribs Sous-Vide BBQ",
+    "category": "Fleisch",
+    "subcategories": [
+      "Spareribs",
+      "Sous-Vide",
+      "BBQ"
+    ]
+  },
+  {
+    "store": "billa",
+    "id": "00-687202",
+    "name": "Hofstädter  Hühner Keulen",
+    "category": "Fleisch",
+    "subcategories": [
+      "Huhn",
+      "Keulen"
+    ]
+  },
+  {
+    "store": "billa",
+    "id": "00-366800",
+    "name": "Hofstädter  Putenschnitzel",
+    "category": "Fleisch",
+    "subcategories": [
+      "Pute",
+      "Schnitzel"
+    ]
+  },
+  {
+    "store": "billa",
+    "id": "00-721523",
+    "name": "Hofstädter Almo Rinderburger",
+    "category": "Fleisch",
+    "subcategories": [
+      "Rind",
+      "Burger"
+    ]
+  },
+  {
+    "store": "billa",
+    "id": "00-929999",
+    "name": "Hofstädter Bauchfleisch geschnitten",
+    "category": "Fleisch",
+    "subcategories": [
+      "Bauchfleisch",
+      "Geschnitten"
+    ]
+  },
+  {
+    "store": "billa",
+    "id": "00-930000",
+    "name": "Hofstädter Bauchfleisch im Ganzen",
+    "category": "Fleisch",
+    "subcategories": [
+      "Bauchfleisch",
+      "Ganzes"
+    ]
+  },
+  {
+    "store": "billa",
+    "id": "00-700545",
+    "name": "Hofstädter Bauchfleischstreifen",
+    "category": "Fleisch",
+    "subcategories": [
+      "Bauchfleisch",
+      "Streifen"
+    ]
+  },
+  {
+    "store": "billa",
+    "id": "00-700824",
+    "name": "Hofstädter Bauchstreifen mariniert Die Grillerei",
+    "category": "Fleisch",
+    "subcategories": [
+      "Bauchstreifen",
+      "Mariniert",
+      "Grillerei"
+    ]
+  },
+  {
+    "store": "billa",
+    "id": "00-930159",
+    "name": "Hofstädter Bauchstreifen mariniert Die Grillerei",
+    "category": "Fleisch",
+    "subcategories": [
+      "Bauchstreifen",
+      "Mariniert",
+      "Grillerei"
+    ]
+  },
+  {
+    "store": "billa",
+    "id": "00-390072",
+    "name": "Hofstädter Beef Burger Die Grillerei",
+    "category": "Fleisch",
+    "subcategories": [
+      "Rind",
+      "Burger",
+      "Grillerei"
+    ]
+  },
+  {
+    "store": "billa",
+    "id": "00-257321",
+    "name": "Hofstädter Cevapcici Gewürzt Die Grillerei",
+    "category": "Fleisch",
+    "subcategories": [
+      "Cevapcici",
+      "Gewürzt",
+      "Grillerei"
+    ]
+  },
+  {
+    "store": "billa",
+    "id": "00-939457",
+    "name": "Hofstädter Club Steak Die Grillerei",
+    "category": "Fleisch",
+    "subcategories": [
+      "Club Steak",
+      "Grillerei"
+    ]
+  },
+  {
+    "store": "billa",
+    "id": "00-720465",
+    "name": "Hofstädter Fair zum Tier Faschiertes gemischt",
+    "category": "Fleisch",
+    "subcategories": [
+      "Fair zum Tier",
+      "Faschiertes",
+      "Gemischt"
+    ]
+  },
+  {
+    "store": "billa",
+    "id": "00-687293",
+    "name": "Hofstädter Fair zum Tier Hendl Grillteller Die Grillerei",
+    "category": "Fleisch",
+    "subcategories": [
+      "Fair zum Tier",
+      "Hendl",
+      "Grillteller",
+      "Grillerei"
+    ]
+  },
+  {
+    "store": "billa",
+    "id": "00-721750",
+    "name": "Hofstädter Fair zum Tier Hendl Hendl Flügerl Die Grillerei",
+    "category": "Fleisch",
+    "subcategories": [
+      "Fair zum Tier",
+      "Hendl",
+      "Flügel",
+      "Flügerl",
+      "Grillerei"
+    ]
+  },
+  {
+    "store": "billa",
+    "id": "00-721742",
+    "name": "Hofstädter Fair zum Tier Hendl Oberkeulenfilet Die Grillerei",
+    "category": "Fleisch",
+    "subcategories": [
+      "Fair zum Tier",
+      "Hendl",
+      "Oberkeulenfilet",
+      "Grillerei"
+    ]
+  },
+  {
+    "store": "billa",
+    "id": "00-275272",
+    "name": "Hofstädter Faschiertes gemischt",
+    "category": "Fleisch",
+    "subcategories": [
+      "Faschiertes",
+      "Gemischt"
+    ]
+  },
+  {
+    "store": "billa",
+    "id": "00-930169",
+    "name": "Hofstädter Faschiertes gemischt",
+    "category": "Fleisch",
+    "subcategories": [
+      "Faschiertes",
+      "Gemischt"
+    ]
+  },
+  {
+    "store": "billa",
+    "id": "00-294002",
+    "name": "Hofstädter Grillmix vom Schwein",
+    "category": "Fleisch",
+    "subcategories": [
+      "Grillmix",
+      "Schwein"
+    ]
+  },
+  {
+    "store": "billa",
+    "id": "00-497738",
+    "name": "Hofstädter Hendl mariniert Die Grillerei",
+    "category": "Fleisch",
+    "subcategories": [
+      "Hendl",
+      "Mariniert",
+      "Grillerei"
+    ]
+  },
+  {
+    "store": "billa",
+    "id": "00-687111",
+    "name": "Hofstädter Huhn bratfertig",
+    "category": "Fleisch",
+    "subcategories": [
+      "Huhn",
+      "Bratfertig"
+    ]
+  },
+  {
+    "store": "billa",
+    "id": "00-939572",
+    "name": "Hofstädter Hüftsteak",
+    "category": "Fleisch",
+    "subcategories": [
+      "Hüftsteak"
+    ]
+  },
+  {
+    "store": "billa",
+    "id": "00-490716",
+    "name": "Hofstädter Hühner - Oberkeulenfilet",
+    "category": "Fleisch",
+    "subcategories": [
+      "Huhn",
+      "Oberkeulenfilet"
+    ]
+  },
+  {
+    "store": "billa",
+    "id": "00-458428",
+    "name": "Hofstädter Hühner Faschiertes",
+    "category": "Fleisch",
+    "subcategories": [
+      "Huhn",
+      "Faschiertes"
+    ]
+  },
+  {
+    "store": "billa",
+    "id": "00-687194",
+    "name": "Hofstädter Hühner Flügerl",
+    "category": "Fleisch",
+    "subcategories": [
+      "Huhn",
+      "Flügel"
+    ]
+  },
+  {
+    "store": "billa",
+    "id": "00-454836",
+    "name": "Hofstädter Hühner Innenfilet",
+    "category": "Fleisch",
+    "subcategories": [
+      "Huhn",
+      "Innenfilet"
+    ]
+  },
+  {
+    "store": "billa",
+    "id": "00-721747",
+    "name": "Hofstädter Hühner Innenfiletspiesse mariniert Die Grillerei",
+    "category": "Fleisch",
+    "subcategories": [
+      "Huhn",
+      "Innenfiletspieße",
+      "Mariniert",
+      "Grillerei"
+    ]
+  },
+  {
+    "store": "billa",
+    "id": "00-849195",
+    "name": "Hofstädter Hühner Mini Filetsteaks",
+    "category": "Fleisch",
+    "subcategories": [
+      "Huhn",
+      "Mini Filetsteaks"
+    ]
+  },
+  {
+    "store": "billa",
+    "id": "00-776413",
+    "name": "Hofstädter Hühner Oberkeulenfilet",
+    "category": "Fleisch",
+    "subcategories": [
+      "Huhn",
+      "Oberkeulenfilet"
+    ]
+  },
+  {
+    "store": "billa",
+    "id": "00-454831",
+    "name": "Hofstädter Hühner Suppenklein",
+    "category": "Fleisch",
+    "subcategories": [
+      "Huhn",
+      "Suppenklein"
+    ]
+  },
+  {
+    "store": "billa",
+    "id": "00-687236",
+    "name": "Hofstädter Hühner Unterkeulen",
+    "category": "Fleisch",
+    "subcategories": [
+      "Huhn",
+      "Unterkeulen"
+    ]
+  },
+  {
+    "store": "billa",
+    "id": "00-721741",
+    "name": "Hofstädter Hühner Unterkeulen mariniert Die Grillerei",
+    "category": "Fleisch",
+    "subcategories": [
+      "Huhn",
+      "Unterkeulen",
+      "Mariniert",
+      "Grillerei"
+    ]
+  },
+  {
+    "store": "billa",
+    "id": "00-687145",
+    "name": "Hofstädter Hühner-Oberkeulen",
+    "category": "Fleisch",
+    "subcategories": [
+      "Huhn",
+      "Oberkeulen"
+    ]
+  },
+  {
+    "store": "billa",
+    "id": "00-454834",
+    "name": "Hofstädter Hühner-Schnitzel",
+    "category": "Fleisch",
+    "subcategories": [
+      "Huhn",
+      "Schnitzel"
+    ]
+  },
+  {
+    "store": "billa",
+    "id": "00-397314",
+    "name": "Hofstädter Hühnerbrust",
+    "category": "Fleisch",
+    "subcategories": [
+      "Huhn",
+      "Brust"
+    ]
+  },
+  {
+    "store": "billa",
+    "id": "00-267084",
+    "name": "Hofstädter Hühnerfilet",
+    "category": "Fleisch",
+    "subcategories": [
+      "Huhn",
+      "Filet"
+    ]
+  },
+  {
+    "store": "billa",
+    "id": "00-406552",
+    "name": "Hofstädter Hühnerfilet 2 Stk.",
+    "category": "Fleisch",
+    "subcategories": [
+      "Huhn",
+      "Filet"
+    ]
+  },
+  {
+    "store": "billa",
+    "id": "00-796220",
+    "name": "Hofstädter Hühnerkrägen",
+    "category": "Fleisch",
+    "subcategories": [
+      "Huhn",
+      "Krägen"
+    ]
+  },
+  {
+    "store": "billa",
+    "id": "00-687137",
+    "name": "Hofstädter Hühnerrücken",
+    "category": "Fleisch",
+    "subcategories": [
+      "Huhn",
+      "Rücken"
+    ]
+  },
+  {
+    "store": "billa",
+    "id": "00-263751",
+    "name": "Hofstädter Innenfilet Pute",
+    "category": "Fleisch",
+    "subcategories": [
+      "Pute",
+      "Innenfilet"
+    ]
+  },
+  {
+    "store": "billa",
+    "id": "00-964167",
+    "name": "Hofstädter Karreesteak Die Grillerei",
+    "category": "Fleisch",
+    "subcategories": [
+      "Karreesteak",
+      "Grillerei"
+    ]
+  },
+  {
+    "store": "billa",
+    "id": "00-930004",
+    "name": "Hofstädter Karreesteak mariniert",
+    "category": "Fleisch",
+    "subcategories": [
+      "Karreesteak",
+      "Mariniert"
+    ]
+  },
+  {
+    "store": "billa",
+    "id": "00-700826",
+    "name": "Hofstädter Karreesteak mariniert Die Grillerei",
+    "category": "Fleisch",
+    "subcategories": [
+      "Karreesteak",
+      "Mariniert",
+      "Grillerei"
+    ]
+  },
+  {
+    "store": "billa",
+    "id": "00-371347",
+    "name": "Hofstädter Mageres Faschiertes",
+    "category": "Fleisch",
+    "subcategories": [
+      "Faschiertes",
+      "Mager"
+    ]
+  },
+  {
+    "store": "billa",
+    "id": "00-939573",
+    "name": "Hofstädter Minutensteak vom Rind",
+    "category": "Fleisch",
+    "subcategories": [
+      "Minutensteak",
+      "Rind"
+    ]
+  },
+  {
+    "store": "billa",
+    "id": "00-499655",
+    "name": "Hofstädter Oberkeule Pute",
+    "category": "Fleisch",
+    "subcategories": [
+      "Pute",
+      "Oberkeule"
+    ]
+  },
+  {
+    "store": "billa",
+    "id": "00-261373",
+    "name": "Hofstädter Prinzessfilet Pute",
+    "category": "Fleisch",
+    "subcategories": [
+      "Pute",
+      "Prinzessfilet"
+    ]
+  },
+  {
+    "store": "billa",
+    "id": "00-304245",
+    "name": "Hofstädter Pulled Beef Die Grillerei",
+    "category": "Fleisch",
+    "subcategories": [
+      "Pulled Beef",
+      "Grillerei"
+    ]
+  },
+  {
+    "store": "billa",
+    "id": "00-302850",
+    "name": "Hofstädter Pulled Pork Die Grillerei",
+    "category": "Fleisch",
+    "subcategories": [
+      "Pulled Pork",
+      "Grillerei"
+    ]
+  },
+  {
+    "store": "billa",
+    "id": "00-387453",
+    "name": "Hofstädter Puten Innenfilet",
+    "category": "Fleisch",
+    "subcategories": [
+      "Pute",
+      "Innenfilet"
+    ]
+  },
+  {
+    "store": "billa",
+    "id": "00-255650",
+    "name": "Hofstädter Putenbrust",
+    "category": "Fleisch",
+    "subcategories": [
+      "Putenbrust"
+    ]
+  },
+  {
+    "store": "billa",
+    "id": "00-255257",
+    "name": "Hofstädter Putenfaschiertes",
+    "category": "Fleisch",
+    "subcategories": [
+      "Putenfaschiertes"
+    ]
+  },
+  {
+    "store": "billa",
+    "id": "00-939559",
+    "name": "Hofstädter Rib Eye Steak",
+    "category": "Fleisch",
+    "subcategories": [
+      "Rib Eye Steak"
+    ]
+  },
+  {
+    "store": "billa",
+    "id": "00-939455",
+    "name": "Hofstädter Rib Steak",
+    "category": "Fleisch",
+    "subcategories": [
+      "Rib Steak"
+    ]
+  },
+  {
+    "store": "billa",
+    "id": "00-372473",
+    "name": "Hofstädter Rinderfaschiertes",
+    "category": "Fleisch",
+    "subcategories": [
+      "Rinderfaschiertes"
+    ]
+  },
+  {
+    "store": "billa",
+    "id": "00-721516",
+    "name": "Hofstädter Rindminutensteak",
+    "category": "Fleisch",
+    "subcategories": [
+      "Rind",
+      "Minutensteak"
+    ]
+  },
+  {
+    "store": "billa",
+    "id": "00-444514",
+    "name": "Hofstädter Rindsgulasch würfelig",
+    "category": "Fleisch",
+    "subcategories": [
+      "Rindsgulasch",
+      "Gulasch",
+      "Würfelig"
+    ]
+  },
+  {
+    "store": "billa",
+    "id": "00-297640",
+    "name": "Hofstädter Rindslungenbraten Steak Die Grillerei",
+    "category": "Fleisch",
+    "subcategories": [
+      "Rind",
+      "Lungenbraten",
+      "Steak",
+      "Grillerei"
+    ]
+  },
+  {
+    "store": "billa",
+    "id": "00-939560",
+    "name": "Hofstädter Rindsschnitzel 2-3 Stk.",
+    "category": "Fleisch",
+    "subcategories": [
+      "Rind",
+      "Schnitzel"
+    ]
+  },
+  {
+    "store": "billa",
+    "id": "00-939462",
+    "name": "Hofstädter Rumpsteak (Beiried) geschnitten",
+    "category": "Fleisch",
+    "subcategories": [
+      "Rumpsteak",
+      "Beiried",
+      "Geschnitten"
+    ]
+  },
+  {
+    "store": "billa",
+    "id": "00-260817",
+    "name": "Hofstädter Schopfbraten",
+    "category": "Fleisch",
+    "subcategories": [
+      "Schopfbraten"
+    ]
+  },
+  {
+    "store": "billa",
+    "id": "00-930001",
+    "name": "Hofstädter Schopfbraten Im Ganzen",
+    "category": "Fleisch",
+    "subcategories": [
+      "Schopfbraten",
+      "Ganzes"
+    ]
+  },
+  {
+    "store": "billa",
+    "id": "00-700821",
+    "name": "Hofstädter Schopfsteak mariniert Die Grillerei",
+    "category": "Fleisch",
+    "subcategories": [
+      "Schopfsteak",
+      "Mariniert",
+      "Grillerei"
+    ]
+  },
+  {
+    "store": "billa",
+    "id": "00-930005",
+    "name": "Hofstädter Schopfsteak mariniert Die Grillerei",
+    "category": "Fleisch",
+    "subcategories": [
+      "Schopfsteak",
+      "Mariniert",
+      "Grillerei"
+    ]
+  }
+]

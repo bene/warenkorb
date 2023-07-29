@@ -1,0 +1,115 @@
+[
+  {
+    "store": "hofer",
+    "id": 548225,
+    "name": "LE GUSTO Sugo Arrabiata 500g",
+    "category": "Saucen",
+    "subcategories": ["Arrabiata", "Tomatensauce"]
+  },
+  {
+    "store": "hofer",
+    "id": 548224,
+    "name": "LE GUSTO Sugo Basilikum 500g",
+    "category": "Saucen",
+    "subcategories": ["Basilikumsauce", "Tomatensauce"]
+  },
+  {
+    "store": "hofer",
+    "id": 548223,
+    "name": "LE GUSTO Sugo Bolognese 500g",
+    "category": "Saucen",
+    "subcategories": ["Bolognesesauce", "Tomatensauce"]
+  },
+  {
+    "store": "hofer",
+    "id": 546375,
+    "name": "LYTTOS Olivenöl Extra Nativ 750ml",
+    "category": "Öle",
+    "subcategories": ["Olivenöl"]
+  },
+  {
+    "store": "hofer",
+    "id": 548422,
+    "name": "LE GUSTO Feine Pfeffer Sauce 36g",
+    "category": "Saucen",
+    "subcategories": ["Pfeffersauce"]
+  },
+  {
+    "store": "hofer",
+    "id": 548421,
+    "name": "LE GUSTO Feiner Gulasch Saft 40g",
+    "category": "Saucen",
+    "subcategories": ["Gulaschsaft"]
+  },
+  {
+    "store": "hofer",
+    "id": 548423,
+    "name": "LE GUSTO Feiner Saft zum Schweinsbraten 34g",
+    "category": "Saucen",
+    "subcategories": ["Schweinsbratensaft"]
+  },
+  {
+    "store": "hofer",
+    "id": 546101,
+    "name": "LE GUSTO Hühnersuppe mit Nudeln 61g",
+    "category": "Suppen",
+    "subcategories": ["Hühnersuppe", "Nudelsuppe"]
+  },
+  {
+    "store": "hofer",
+    "id": 546214,
+    "name": "LE GUSTO Klare Bouillon 140g",
+    "category": "Suppen",
+    "subcategories": ["Bouillon"]
+  },
+  {
+    "store": "hofer",
+    "id": 544330,
+    "name": "LE GUSTO Klare Gemüse Bouillon 140g",
+    "category": "Suppen",
+    "subcategories": ["Gemüsebouillon"]
+  },
+  {
+    "store": "hofer",
+    "id": 544523,
+    "name": "LE GUSTO Klare Gemüsesuppe Würfel 126g",
+    "category": "Suppen",
+    "subcategories": ["Gemüsesuppe"]
+  },
+  {
+    "store": "hofer",
+    "id": 546215,
+    "name": "LE GUSTO Klare Rinder Brühe 140g",
+    "category": "Suppen",
+    "subcategories": ["Rinderbrühe"]
+  },
+  {
+    "store": "hofer",
+    "id": 546235,
+    "name": "LE GUSTO Klare Suppe Würfel 120g",
+    "category": "Suppen",
+    "subcategories": ["Klare Suppe"]
+  },
+  {
+    "store": "hofer",
+    "id": 546095,
+    "name": "LE GUSTO Knoblauchsuppe 77g",
+    "category": "Suppen",
+    "subcategories": ["Knoblauchsuppe"]
+  },
+  {
+    "store": "hofer",
+    "id": 543681,
+    "name": "LE GUSTO Edelsüss Paprika gemahlen 140g",
+    "category": "Gewürze",
+    "subcategories": ["Paprika"]
+  },
+  {
+    "store": "hofer",
+    "id": 546181,
+    "name": "LE GUSTO Grill Brathuhn Gewürzsalz 210g",
+    "category": "Gewürze",
+    "subcategories": ["Grillgewürz", "Brathuhngewürz"]
+  },
+  ...
+]

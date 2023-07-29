@@ -1,0 +1,702 @@
+[
+    {
+        "store": "spar",
+        "id": "7400445",
+        "name": "Winzer Krems Von der Hochkultur Grüner Veltliner 2021",
+        "category": "Wein",
+        "subcategories": ["Grüner Veltliner", "Österreichischer Wein"]
+    },
+    {
+        "store": "spar",
+        "id": "6940546",
+        "name": "Winzer Krems Von der Hochkultur Riesling 2021",
+        "category": "Wein",
+        "subcategories": ["Riesling", "Österreichischer Wein"]
+    },
+    {
+        "store": "spar",
+        "id": "3592618",
+        "name": "Winzer Krems Weinmanufaktur Blauer Zweigelt 2021",
+        "category": "Wein",
+        "subcategories": ["Blauer Zweigelt", "Österreichischer Wein"]
+    },
+    {
+        "store": "spar",
+        "id": "3592601",
+        "name": "Winzer Krems Weinmanufaktur Chardonnay 2022",
+        "category": "Wein",
+        "subcategories": ["Chardonnay", "Österreichischer Wein"]
+    },
+    {
+        "store": "spar",
+        "id": "5489237",
+        "name": "Winzer Krems Weinmanufaktur Gelber Muskateller 2021",
+        "category": "Wein",
+        "subcategories": ["Gelber Muskateller", "Österreichischer Wein"]
+    },
+    {
+        "store": "spar",
+        "id": "6977818",
+        "name": "Winzer Krems Weinmanufaktur Grüner Veltliner 2021",
+        "category": "Wein",
+        "subcategories": ["Grüner Veltliner", "Österreichischer Wein"]
+    },
+    {
+        "store": "spar",
+        "id": "5616978",
+        "name": "Wohlmuth Gelber Muskateller Südsteiermark DAC 2022",
+        "category": "Wein",
+        "subcategories": ["Gelber Muskateller", "Südsteiermark", "Österreichischer Wein"]
+    },
+    {
+        "store": "spar",
+        "id": "2020003696602",
+        "name": "Wohlmuth Morillon Südsteiermark DAC 2021",
+        "category": "Wein",
+        "subcategories": ["Morillon", "Südsteiermark", "Österreichischer Wein"]
+    },
+    {
+        "store": "spar",
+        "id": "7490248",
+        "name": "Wohlmuth Red Nek Blaufränkisch 2019",
+        "category": "Wein",
+        "subcategories": ["Blaufränkisch", "Österreichischer Wein"]
+    },
+    {
+        "store": "spar",
+        "id": "2020003696695",
+        "name": "Wohlmuth Sauvignon Blanc Südsteiermark DAC 2022",
+        "category": "Wein",
+        "subcategories": ["Sauvignon Blanc", "Südsteiermark", "Österreichischer Wein"]
+    },
+    {
+        "store": "spar",
+        "id": "7714986",
+        "name": "Woerle American Toast",
+        "category": "Käse",
+        "subcategories": ["Toastkäse", "Amerikanischer Käse"]
+    },
+    {
+        "store": "spar",
+        "id": "2020004275134",
+        "name": "Woerle Bauernkäse",
+        "category": "Käse",
+        "subcategories": ["Bauernkäse"]
+    },
+    {
+        "store": "spar",
+        "id": "2020002469245",
+        "name": "Woerle Burger Scheiben XXL",
+        "category": "Käse",
+        "subcategories": ["Burgerkäse"]
+    },
+    {
+        "store": "spar",
+        "id": "2391540",
+        "name": "Woerle Butterkäse cremig-mild",
+        "category": "Käse",
+        "subcategories": ["Butterkäse"]
+    },
+    {
+        "store": "spar",
+        "id": "5259625",
+        "name": "Woerle Emmentaler",
+        "category": "Käse",
+        "subcategories": ["Emmentaler"]
+    },
+    {
+        "store": "spar",
+        "id": "7716423",
+        "name": "Woerle Emmentaler Der Milde",
+        "category": "Käse",
+        "subcategories": ["Emmentaler"]
+    },
+    {
+        "store": "spar",
+        "id": "6317508",
+        "name": "Woerle Emmentaler Der Milde",
+        "category": "Käse",
+        "subcategories": ["Emmentaler"]
+    },
+    {
+        "store": "spar",
+        "id": "2381008",
+        "name": "Woerle Emmentaler Der Milde",
+        "category": "Käse",
+        "subcategories": ["Emmentaler"]
+    },
+    {
+        "store": "spar",
+        "id": "1592344",
+        "name": "Woerle Emmentaler aus Sommermilch",
+        "category": "Käse",
+        "subcategories": ["Emmentaler"]
+    },
+    {
+        "store": "spar",
+        "id": "1456905",
+        "name": "Woerle Gouda mild-fein",
+        "category": "Käse",
+        "subcategories": ["Gouda"]
+    },
+    {
+        "store": "spar",
+        "id": "2352381",
+        "name": "Woerle Gouda mild-fein",
+        "category": "Käse",
+        "subcategories": ["Gouda"]
+    },
+    {
+        "store": "spar",
+        "id": "2020004275066",
+        "name": "Woerle Herzstück Mondseer",
+        "category": "Käse",
+        "subcategories": ["Mondseer"]
+    },
+    {
+        "store": "spar",
+        "id": "2020004275028",
+        "name": "Woerle Herzstück Mondseer 420g Herzstück Mondseer",
+        "category": "Käse",
+        "subcategories": ["Mondseer"]
+    },
+    {
+        "store": "spar",
+        "id": "4086505",
+        "name": "Woerle Salzburger Eckerl Fein & Leicht",
+        "category": "Käse",
+        "subcategories": ["Salzburger Käse"]
+    },
+    {
+        "store": "spar",
+        "id": "2778471",
+        "name": "Woerle Salzburger Eckerl Paprika",
+        "category": "Käse",
+        "subcategories": ["Salzburger Käse"]
+    },
+    {
+        "store": "spar",
+        "id": "2778464",
+        "name": "Woerle Salzburger Eckerl Rahm",
+        "category": "Käse",
+        "subcategories": ["Salzburger Käse"]
+    },
+    {
+        "store": "spar",
+        "id": "5296521",
+        "name": "Woerle Salzburger Emmentaler Extra Dicke Scheiben",
+        "category": "Käse",
+        "subcategories": ["Emmentaler"]
+    },
+    {
+        "store": "spar",
+        "id": "5296538",
+        "name": "Woerle Salzburger Leicht Scheiben",
+        "category": "Käse",
+        "subcategories": ["Leichtkäse"]
+    },
+    {
+        "store": "spar",
+        "id": "5296514",
+        "name": "Woerle Salzburger Toast Scheiben",
+        "category": "Käse",
+        "subcategories": ["Toastkäse"]
+    },
+    {
+        "store": "spar",
+        "id": "6426996",
+        "name": "Woerle Tilsiter fein-pikant",
+        "category": "Käse",
+        "subcategories": ["Tilsiter"]
+    },
+    {
+        "store": "spar",
+        "id": "2020004319869",
+        "name": "Wojnar Tramezzini Aufstrich Schinken Ei",
+        "category": "Aufstrich",
+        "subcategories": ["Tramezzini", "Schinken-Ei-Aufstrich"]
+    },
+    {
+        "store": "spar",
+        "id": "2020002291167",
+        "name": "Wojnar Tramezzini Thunfisch",
+        "category": "Aufstrich",
+        "subcategories": ["Tramezzini", "Thunfischaufstrich"]
+    },
+    {
+        "store": "spar",
+        "id": "2020004610836",
+        "name": "Wojnar Wojnar Eisalat",
+        "category": "Aufstrich",
+        "subcategories": ["Wojnar Eisalat"]
+    },
+    {
+        "store": "spar",
+        "id": "5084555",
+        "name": "Wojnar's Brotaufstrich Bärlauch",
+        "category": "Aufstrich",
+        "subcategories": ["Bärlauchaufstrich"]
+    },
+    {
+        "store": "spar",
+        "id": "4881551",
+        "name": "Wojnar's Brotaufstrich Ei",
+        "category": "Aufstrich",
+        "subcategories": ["Eiaufstrich"]
+    },
+    {
+        "store": "spar",
+        "id": "5084531",
+        "name": "Wojnar's Brotaufstrich Schinken",
+        "category": "Aufstrich",
+        "subcategories": ["Schinkenaufstrich"]
+    },
+    {
+        "store": "spar",
+        "id": "4881575",
+        "name": "Wojnar's Brotaufstrich Thunfisch",
+        "category": "Aufstrich",
+        "subcategories": ["Thunfischaufstrich"]
+    },
+    {
+        "store": "spar",
+        "id": "8200709",
+        "name": "Wojnar's Liptauer mild",
+        "category": "Aufstrich",
+        "subcategories": ["Liptauer"]
+    },
+    {
+        "store": "spar",
+        "id": "8200693",
+        "name": "Wojnar's Liptauer scharf",
+        "category": "Aufstrich",
+        "subcategories": ["Liptauer"]
+    },
+    {
+        "store": "spar",
+        "id": "2020002566609",
+        "name": "Yakult Drink 6x65ml",
+        "category": "Getränk",
+        "subcategories": ["Probiotischer Drink"]
+    },
+    {
+        "store": "spar",
+        "id": "2020002566678",
+        "name": "Yakult Drink Plus 6x65ml",
+        "category": "Getränk",
+        "subcategories": ["Probiotischer Drink"]
+    },
+    {
+        "store": "spar",
+        "id": "4881094",
+        "name": "Wojnar Shrimpssalat",
+        "category": "Salat",
+        "subcategories": ["Shrimpssalat"]
+    },
+    {
+        "store": "spar",
+        "id": "122641",
+        "name": "Wolf Eigold Bandnudeln",
+        "category": "Nudeln",
+        "subcategories": ["Bandnudeln"]
+    },
+    {
+        "store": "spar",
+        "id": "121347",
+        "name": "Wolf Eigold Bandnudeln breit",
+        "category": "Nudeln",
+        "subcategories": ["Bandnudeln"]
+    },
+    {
+        "store": "spar",
+        "id": "2830322",
+        "name": "Wolf Eigold Buchstaben",
+        "category": "Nudeln",
+        "subcategories": ["Buchstabennudeln"]
+    },
+    {
+        "store": "spar",
+        "id": "122627",
+        "name": "Wolf Eigold Fadennudeln",
+        "category": "Nudeln",
+        "subcategories": ["Fadennudeln"]
+    },
+    {
+        "store": "spar",
+        "id": "122689",
+        "name": "Wolf Eigold Fleckerl",
+        "category": "Nudeln",
+        "subcategories": ["Fleckerlnudeln"]
+    },
+    {
+        "store": "spar",
+        "id": "2852171",
+        "name": "Wolf Eigold Fleckerl 250G",
+        "category": "Nudeln",
+        "subcategories": ["Fleckerlnudeln"]
+    },
+    {
+        "store": "spar",
+        "id": "2830339",
+        "name": "Wolf Eigold Hausmacher Hausmacher",
+        "category": "Nudeln",
+        "subcategories": ["Hausmacher Nudeln"]
+    },
+    {
+        "store": "spar",
+        "id": "122672",
+        "name": "Wolf Eigold Hörnchen gerippt 500G",
+        "category": "Nudeln",
+        "subcategories": ["Gerippte Hörnchennudeln"]
+    },
+    {
+        "store": "spar",
+        "id": "951272",
+        "name": "Wolf Eigold Macronelli 500G",
+        "category": "Nudeln",
+        "subcategories": ["Macaroni"]
+    },
+    {
+        "store": "spar",
+        "id": "121330",
+        "name": "Wolf Eigold Makkaroni 500G",
+        "category": "Nudeln",
+        "subcategories": ["Makkaroni"]
+    },
+    {
+        "store": "spar",
+        "id": "121354",
+        "name": "Wolf Eigold Muscheln 500G",
+        "category": "Nudeln",
+        "subcategories": ["Muschelnudeln"]
+    },
+    {
+        "store": "spar",
+        "id": "2592848",
+        "name": "Wolf Eigold Nockerlgrieß",
+        "category": "Nudeln",
+        "subcategories": ["Nockerlgrieß"]
+    },
+    {
+        "store": "spar",
+        "id": "2852195",
+        "name": "Wolf Eigold Pico Hörnchen",
+        "category": "Nudeln",
+        "subcategories": ["Hörnchennudeln"]
+    },
+    {
+        "store": "spar",
+        "id": "2852164",
+        "name": "Wolf Eigold Reibteig",
+        "category": "Nudeln",
+        "subcategories": ["Reibteig"]
+    },
+    {
+        "store": "spar",
+        "id": "121255",
+        "name": "Wolf Eigold Ringerl",
+        "category": "Nudeln",
+        "subcategories": ["Ringerlnudeln"]
+    },
+    {
+        "store": "spar",
+        "id": "122702",
+        "name": "Wolf Eigold Spaghetti 500G",
+        "category": "Nudeln",
+        "subcategories": ["Spaghetti"]
+    },
+    {
+        "store": "spar",
+        "id": "122658",
+        "name": "Wolf Eigold Spiralen",
+        "category": "Nudeln",
+        "subcategories": ["Spiralnudeln"]
+    },
+    {
+        "store": "spar",
+        "id": "2830315",
+        "name": "Wolf Eigold Sternchen",
+        "category": "Nudeln",
+        "subcategories": ["Sternchennudeln"]
+    },
+    {
+        "store": "spar",
+        "id": "2852188",
+        "name": "Wolf Eigold Suppenmuscherl 250G",
+        "category": "Nudeln",
+        "subcategories": ["Suppenmuscheln"]
+    },
+    {
+        "store": "spar",
+        "id": "1542554",
+        "name": "Wurm Bärlauchpesto 170g",
+        "category": "Pesto",
+        "subcategories": ["Bärlauchpesto"]
+    },
+    {
+        "store": "spar",
+        "id": "2020003468674",
+        "name": "Wurm Knoblauchpesto 170g",
+        "category": "Pesto",
+        "subcategories": ["Knoblauchpesto"]
+    },
+    {
+        "store": "spar",
+        "id": "2020003468704",
+        "name": "Wurm Kürbiskernpesto 170g",
+        "category": "Pesto",
+        "subcategories": ["Kürbiskernpesto"]
+    },
+    {
+        "store": "spar",
+        "id": "2020004119612",
+        "name": "Wingman Bio-Proteinriegel Choco Coconut 45G",
+        "category": "Riegel",
+        "subcategories": ["Proteinriegel", "Choco Coconut"]
+    },
+    {
+        "store": "spar",
+        "id": "2020004119605",
+        "name": "Wingman Bio-Proteinriegel Choco Raspberry 45G",
+        "category": "Riegel",
+        "subcategories": ["Proteinriegel", "Choco Raspberry"]
+    },
+    {
+        "store": "spar",
+        "id": "2020004220592",
+        "name": "Wingman Bio-Proteinriegel Peanut Choco 45G",
+        "category": "Riegel",
+        "subcategories": ["Proteinriegel", "Peanut Choco"]
+    },
+    {
+        "store": "spar",
+        "id": "2020004119568",
+        "name": "Wingman Bio-Proteinriegel Salty Choco 45G",
+        "category": "Riegel",
+        "subcategories": ["Proteinriegel", "Salty Choco"]
+    },
+    {
+        "store": "spar",
+        "id": "2020002664749",
+        "name": "Wingman Koffein-Riegel Choco Crunch 40g",
+        "category": "Riegel",
+        "subcategories": ["Koffeinriegel", "Choco Crunch"]
+    },
+    {
+        "store": "spar",
+        "id": "6865320",
+        "name": "Wurstgarn 100 m 100 m Wurstgarn 100 m                 GVE 10",
+        "category": "Sonstiges",
+        "subcategories": ["Wurstgarn"]
+    },
+    {
+        "store": "spar",
+        "id": "2020004366429",
+        "name": "Yankee Candle 3-Docht-Kerze Cashmere Wool",
+        "category": "Kerze",
+        "subcategories": ["Duftkerze"]
+    },
+    {
+        "store": "spar",
+        "id": "2020004366474",
+        "name": "Yankee Candle 3-Docht-Kerze Smoked Vanilla",
+        "category": "Kerze",
+        "subcategories": ["Duftkerze"]
+    },
+    {
+        "store": "spar",
+        "id": "2020004366481",
+        "name": "Yankee Candle 3-Docht-Kerze Wildberry Jasmin",
+        "category": "Kerze",
+        "subcategories": ["Duftkerze"]
+    },
+    {
+        "store": "spar",
+        "id": "2020003281174",
+        "name": "Yankee Candle Classic Duftglas A Calm & Quiet Place Medium",
+        "category": "Kerze",
+        "subcategories": ["Duftkerze"]
+    },
+    {
+        "store": "spar",
+        "id": "2020003266973",
+        "name": "Yankee Candle Classic Duftglas Black Cherry Large",
+        "category": "Kerze",
+        "subcategories": ["Duftkerze"]
+    },
+    {
+        "store": "spar",
+        "id": "2020003267000",
+        "name": "Yankee Candle Classic Duftglas Black Cherry Medium",
+        "category": "Kerze",
+        "subcategories": ["Duftkerze"]
+    },
+    {
+        "store": "spar",
+        "id": "2020003267017",
+        "name": "Yankee Candle Classic Duftglas Black Cherry Small",
+        "category": "Kerze",
+        "subcategories": ["Duftkerze"]
+    },
+    {
+        "store": "spar",
+        "id": "2020002857929",
+        "name": "Yankee Candle Classic Duftglas Blush Bouquet Medium",
+        "category": "Kerze",
+        "subcategories": ["Duftkerze"]
+    },
+    {
+        "store": "spar",
+        "id": "2020003281211",
+        "name": "Yankee Candle Classic Duftglas Coconut Splash Large",
+        "category": "Kerze",
+        "subcategories": ["Duftkerze"]
+    },
+    {
+        "store": "spar",
+        "id": "2020003281228",
+        "name": "Yankee Candle Classic Duftglas Coconut Splash Medium",
+        "category": "Kerze",
+        "subcategories": ["Duftkerze"]
+    },
+    {
+        "store": "spar",
+        "id": "2020003281235",
+        "name": "Yankee Candle Classic Duftglas Coconut Splash Small",
+        "category": "Kerze",
+        "subcategories": ["Duftkerze"]
+    },
+    {
+        "store": "spar",
+        "id": "2020003267048",
+        "name": "Yankee Candle Classic Duftglas Fresh Cut Roses Large",
+        "category": "Kerze",
+        "subcategories": ["Duftkerze"]
+    },
+    {
+        "store": "spar",
+        "id": "2020003267178",
+        "name": "Yankee Candle Classic Duftglas Fresh Cut Roses Medium",
+        "category": "Kerze",
+        "subcategories": ["Duftkerze"]
+    },
+    {
+        "store": "spar",
+        "id": "2020003268885",
+        "name": "Yankee Candle Classic Duftglas Fresh Cut Roses Small",
+        "category": "Kerze",
+        "subcategories": ["Duftkerze"]
+    },
+    {
+        "store": "spar",
+        "id": "2020004103345",
+        "name": "adidas UEFA Champions League Eau de Toilette Champions 50ml",
+        "category": "Parfum",
+        "subcategories": ["Herrenduft"]
+    },
+    {
+        "store": "spar",
+        "id": "2020002234621",
+        "name": "b&t Haar-Graffiti Haarkreide Vibrant 12 Stück",
+        "category": "Haar",
+        "subcategories": ["Haarkreide"]
+    },
+    {
+        "store": "spar",
+        "id": "6305925",
+        "name": "atrix Intensive Schutzcreme Camomile 150 ml",
+        "category": "Hautpflege",
+        "subcategories": ["Schutzcreme"]
+    },
+    {
+        "store": "spar",
+        "id": "2020001588251",
+        "name": "bebe Augen Make-Up Entferner 125ml",
+        "category": "Make-Up",
+        "subcategories": ["Make-Up Entferner"]
+    },
+    {
+        "store": "spar",
+        "id": "2020004612083",
+        "name": "bebe Erfrischende Reinigungstücher 25 Stück",
+        "category": "Gesichtspflege",
+        "subcategories": ["Reinigungstücher"]
+    },
+    {
+        "store": "spar",
+        "id": "854634",
+        "name": "bebe Feuchtigkeitspflege Normale Haut 50ml",
+        "category": "Gesichtspflege",
+        "subcategories": ["Feuchtigkeitspflege"]
+    },
+    {
+        "store": "spar",
+        "id": "856102",
+        "name": "bebe Intensivpflege mit Avocadoöl 50ml",
+        "category": "Gesichtspflege",
+        "subcategories": ["Intensivpflege"]
+    },
+    {
+        "store": "spar",
+        "id": "2020004380937",
+        "name": "bebe Reinigungstücher Extra Sanft 25 Tücher",
+        "category": "Gesichtspflege",
+        "subcategories": ["Reinigungstücher"]
+    },
+    {
+        "store": "spar",
+        "id": "3425428",
+        "name": "bebe Young Care Sensitive Pflege empfindliche Haut 50ml",
+        "category": "Gesichtspflege",
+        "subcategories": ["Feuchtigkeitspflege"]
+    },
+    {
+        "store": "spar",
+        "id": "2020003042423",
+        "name": "bbrite Kinderzahnbürste mit Timer / Soft",
+        "category": "Zahnpflege",
+        "subcategories": ["Kinderzahnbürste"]
+    },
+    {
+        "store": "spar",
+        "id": "2020003410208",
+        "name": "andmetics Bikini Wax Strips",
+        "category": "Haarentfernung",
+        "subcategories": ["Wax Strips"]
+    },
+    {
+        "store": "spar",
+        "id": "2020003410369",
+        "name": "andmetics Body Wax Strips",
+        "category": "Haarentfernung",
+        "subcategories": ["Wax Strips"]
+    },
+    {
+        "store": "spar",
+        "id": "912945",
+        "name": "pitrell von Pitralon Rasurvorbereitung 100 ml",
+        "category": "Aftershave",
+        "subcategories": ["Rasurvorbereitung"]
+    },
+    {
+        "store": "spar",
+        "id": "2020003972249",
+        "name": "sebamed After Shave Balsam For Men 100ml",
+        "category": "Aftershave",
+        "subcategories": ["After Shave Balsam"]
+    },
+    {
+        "store": "spar",
+        "id": "2020004663726",
+        "name": "adidas 3-in-1 Duschgel Fresh Endurance 250ml",
+        "category": "Duschgel",
+        "subcategories": ["3-in-1 Duschgel"]
+    },
+    {
+        "store": "spar",
+        "id": "5877089",
+        "name": "adidas 3in1 Duschgel Active Start 250ml",
+        "category": "Duschgel",
+        "subcategories": ["3in1 Duschgel"]
+    }
+]

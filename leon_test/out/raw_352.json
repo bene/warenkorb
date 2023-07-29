@@ -1,0 +1,69 @@
+[
+  {
+    "store": "spar",
+    "id": "2020001255825",
+    "name": "Dextro Energy Kraftstoff Cassis Geschmack",
+    "category": "Energiegetränke",
+    "subcategories": [
+      "Sportgetränke",
+      "Kraftstoff",
+      "Cassis-Geschmack"
+    ]
+  },
+  {
+    "store": "spar",
+    "id": "6897741",
+    "name": "Dextro Energy Magnesium 3 Pack à 8 Dextrosetäfelchen",
+    "category": "Energiegetränke",
+    "subcategories": [
+      "Sportgetränke",
+      "Magnesium",
+      "Dextrosetäfelchen"
+    ]
+  },
+  {
+    "store": "spar",
+    "id": "2020004215567",
+    "name": "Dextro Energy Sport",
+    "category": "Energiegetränke",
+    "subcategories": [
+      "Sportgetränke"
+    ]
+  },
+  {
+    "store": "spar",
+    "id": "6170769",
+    "name": "Dextro Energy Zitrone + Vitamin C 3 Pack à 8 Dextrosetäfelchen",
+    "category": "Energiegetränke",
+    "subcategories": [
+      "Sportgetränke",
+      "Zitrone",
+      "Vitamin C",
+      "Dextrosetäfelchen"
+    ]
+  },
+  {
+    "store": "spar",
+    "id": "6988579",
+    "name": "Dixi Traubenzucker Duo Waldbeere/ Erdbeere 2 x 45g",
+    "category": "Süßigkeiten",
+    "subcategories": [
+      "Traubenzucker",
+      "Waldbeere",
+      "Erdbeere",
+      "Duo"
+    ]
+  },
+  {
+    "store": "spar",
+    "id": "2020001526109",
+    "name": "Dettol Desinfektion Reiniger Limette & Minze 750ml",
+    "category": "Reinigungsmittel",
+    "subcategories": [
+      "Desinfektionsreiniger",
+      "Limette",
+      "Minze"
+    ]
+  },
+  ...
+]

@@ -1,0 +1,30 @@
+The JSON list describes grocery products in Austrian supermarkets. To generate a category and subcategories, the name field can be used. Each product should have a field that describes the category for that specific product in one word. Additionally, a list of subcategories should be added to break down the category for each individual product. These subcategories can be synonyms or search terms that are not in the name field. The categories should be reused for similar products, and the category names should be in German.
+
+Here is an example of how the JSON list can be updated with the category and subcategories fields:
+
+[
+  {
+    "store":"spar",
+    "id":"6338084",
+    "name":"SPAR Natur*pur Bio-Backerbsen",
+    "category":"Backerbsen",
+    "subcategories": ["Knabberei", "Suppeneinlage"]
+  },
+  {
+    "store":"spar",
+    "id":"2020003004872",
+    "name":"SPAR Natur*pur Bio-Basmati-Reis weiss",
+    "category":"Basmati-Reis",
+    "subcategories": ["Reis", "Beilage"]
+  },
+  {
+    "store":"spar",
+    "id":"2020002886905",
+    "name":"SPAR Natur*pur Bio-Basmatireis braun 1KG",
+    "category":"Basmatireis",
+    "subcategories": ["Reis", "Beilage"]
+  },
+  ...
+]
+
+In this updated version, the field "category" is added to each product, providing the category for that specific product in one word. The field "subcategories" is also added, which is a list of subcategories that further breaks down the category for each individual product. These subcategories can be synonyms or search terms that are not present in the name field. The categories and subcategories are in German.

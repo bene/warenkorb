@@ -1,0 +1,702 @@
+[
+  {
+    "store": "billa",
+    "id": "00-2663",
+    "name": "Kotányi Pfeffer Schwarz Ganz",
+    "category": "Gewürze",
+    "subcategories": ["Pfeffer"]
+  },
+  {
+    "store": "billa",
+    "id": "00-4951",
+    "name": "Kotányi Pfeffer Schwarz Gemahlen",
+    "category": "Gewürze",
+    "subcategories": ["Pfeffer"]
+  },
+  {
+    "store": "billa",
+    "id": "00-2775",
+    "name": "Kotányi Pfeffer Schwarz Gemahlen",
+    "category": "Gewürze",
+    "subcategories": ["Pfeffer"]
+  },
+  {
+    "store": "billa",
+    "id": "00-180505",
+    "name": "Kotányi Pfeffer Schwarz Gemahlen",
+    "category": "Gewürze",
+    "subcategories": ["Pfeffer"]
+  },
+  {
+    "store": "billa",
+    "id": "00-180539",
+    "name": "Kotányi Pfeffer Weiß Gemahlen",
+    "category": "Gewürze",
+    "subcategories": ["Pfeffer"]
+  },
+  {
+    "store": "billa",
+    "id": "00-2799",
+    "name": "Kotányi Pizzagewürz",
+    "category": "Gewürze",
+    "subcategories": ["Pizzagewürz"]
+  },
+  {
+    "store": "billa",
+    "id": "00-180562",
+    "name": "Kotányi Pizzagewürz",
+    "category": "Gewürze",
+    "subcategories": ["Pizzagewürz"]
+  },
+  {
+    "store": "billa",
+    "id": "00-810785",
+    "name": "Kotányi Punsch Gewürzmischung",
+    "category": "Gewürze",
+    "subcategories": ["Gewürzmischung"]
+  },
+  {
+    "store": "billa",
+    "id": "00-179416",
+    "name": "Kotányi Rosmarin Gemahlen",
+    "category": "Gewürze",
+    "subcategories": ["Rosmarin"]
+  },
+  {
+    "store": "billa",
+    "id": "00-2603",
+    "name": "Kotányi Rosmarin Grob Geschnitten",
+    "category": "Gewürze",
+    "subcategories": ["Rosmarin"]
+  },
+  {
+    "store": "billa",
+    "id": "00-2788",
+    "name": "Kotányi Safran",
+    "category": "Gewürze",
+    "subcategories": ["Safran"]
+  },
+  {
+    "store": "billa",
+    "id": "00-2637",
+    "name": "Kotányi Schweinsbraten Gewürzzubereitung",
+    "category": "Gewürze",
+    "subcategories": ["Gewürzzubereitung"]
+  },
+  {
+    "store": "billa",
+    "id": "00-414660",
+    "name": "Kotányi Spare Ribs Gewürzzubereitung",
+    "category": "Gewürze",
+    "subcategories": ["Gewürzzubereitung"]
+  },
+  {
+    "store": "billa",
+    "id": "00-3111",
+    "name": "Kotányi Steak Gewürzsalz",
+    "category": "Gewürze",
+    "subcategories": ["Gewürzsalz"]
+  },
+  {
+    "store": "billa",
+    "id": "00-2614",
+    "name": "Kotányi Steinpilze Getrocknet",
+    "category": "Gewürze",
+    "subcategories": ["Steinpilze"]
+  },
+  {
+    "store": "billa",
+    "id": "00-810340",
+    "name": "Kotányi Sternanis Ganz",
+    "category": "Gewürze",
+    "subcategories": ["Sternanis"]
+  },
+  {
+    "store": "billa",
+    "id": "00-180661",
+    "name": "Kotányi Thymian Gerebelt",
+    "category": "Gewürze",
+    "subcategories": ["Thymian"]
+  },
+  {
+    "store": "billa",
+    "id": "00-2717",
+    "name": "Kotányi Thymian Gerebelt",
+    "category": "Gewürze",
+    "subcategories": ["Thymian"]
+  },
+  {
+    "store": "billa",
+    "id": "00-343622",
+    "name": "Kotányi Toskana Kräuter Mix",
+    "category": "Gewürze",
+    "subcategories": ["Kräutermischung"]
+  },
+  {
+    "store": "billa",
+    "id": "00-2720",
+    "name": "Kotányi Wacholderbeeren Ganz",
+    "category": "Gewürze",
+    "subcategories": ["Wacholderbeeren"]
+  },
+  {
+    "store": "billa",
+    "id": "00-5308",
+    "name": "Kotányi Wildgericht Gewürz",
+    "category": "Gewürze",
+    "subcategories": ["Wildgericht"]
+  },
+  {
+    "store": "billa",
+    "id": "00-2721",
+    "name": "Kotányi Zimt Ganz",
+    "category": "Gewürze",
+    "subcategories": ["Zimt"]
+  },
+  {
+    "store": "billa",
+    "id": "00-181214",
+    "name": "Kotányi Zimt Ganz",
+    "category": "Gewürze",
+    "subcategories": ["Zimt"]
+  },
+  {
+    "store": "billa",
+    "id": "00-181222",
+    "name": "Kotányi Zimt Gemahlen groß",
+    "category": "Gewürze",
+    "subcategories": ["Zimt"]
+  },
+  {
+    "store": "billa",
+    "id": "00-180703",
+    "name": "Kotányi Zimt Gemahlen klein",
+    "category": "Gewürze",
+    "subcategories": ["Zimt"]
+  },
+  {
+    "store": "billa",
+    "id": "00-354945",
+    "name": "Kotányi Zwiebel Granuliert",
+    "category": "Gewürze",
+    "subcategories": ["Zwiebel"]
+  },
+  {
+    "store": "billa",
+    "id": "00-181230",
+    "name": "Kotányi Zwiebelgranulat",
+    "category": "Gewürze",
+    "subcategories": ["Zwiebel"]
+  },
+  {
+    "store": "billa",
+    "id": "00-437681",
+    "name": "MAGGI Brühwürfel 10 Würfel",
+    "category": "Würzmittel",
+    "subcategories": ["Brühwürfel"]
+  },
+  {
+    "store": "billa",
+    "id": "00-185926",
+    "name": "MAGGI Saft zum Braten im Glas",
+    "category": "Würzmittel",
+    "subcategories": ["Bratensoße"]
+  },
+  {
+    "store": "billa",
+    "id": "00-321562",
+    "name": "Odina Feines Meersalz Unjodiert",
+    "category": "Würzmittel",
+    "subcategories": ["Meersalz"]
+  },
+  {
+    "store": "billa",
+    "id": "00-321000",
+    "name": "Odina Meersalz",
+    "category": "Würzmittel",
+    "subcategories": ["Meersalz"]
+  },
+  {
+    "store": "billa",
+    "id": "00-344060",
+    "name": "Odina Meersalz fein unjodiert",
+    "category": "Würzmittel",
+    "subcategories": ["Meersalz"]
+  },
+  {
+    "store": "billa",
+    "id": "00-414474",
+    "name": "Pickerd Mini Butterkekse",
+    "category": "Backwaren",
+    "subcategories": ["Kekse"]
+  },
+  {
+    "store": "billa",
+    "id": "00-278761",
+    "name": "Pink Yeti Himalaya-Salz Fein",
+    "category": "Würzmittel",
+    "subcategories": ["Himalaya-Salz"]
+  },
+  {
+    "store": "billa",
+    "id": "00-265045",
+    "name": "Pure Nature Himalaya-Kristallsalz Grob Unjodiert",
+    "category": "Würzmittel",
+    "subcategories": ["Himalaya-Salz"]
+  },
+  {
+    "store": "billa",
+    "id": "00-886922",
+    "name": "Safranfäden Salt & More",
+    "category": "Gewürze",
+    "subcategories": ["Safran"]
+  },
+  {
+    "store": "billa",
+    "id": "00-487516",
+    "name": "Santa Maria Burrito Gewürzmischung",
+    "category": "Gewürze",
+    "subcategories": ["Gewürzmischung"]
+  },
+  {
+    "store": "billa",
+    "id": "00-487493",
+    "name": "Santa Maria Taco Würzmischung mild",
+    "category": "Gewürze",
+    "subcategories": ["Gewürzmischung"]
+  },
+  {
+    "store": "billa",
+    "id": "00-354939",
+    "name": "Vegeta Natur",
+    "category": "Würzmittel",
+    "subcategories": ["Gemüsebrühe"]
+  },
+  {
+    "store": "billa",
+    "id": "00-426102",
+    "name": "Vegeta Würzmischung",
+    "category": "Würzmittel",
+    "subcategories": ["Gewürzmischung"]
+  },
+  {
+    "store": "billa",
+    "id": "00-103992",
+    "name": "Vegeta Würzmischung",
+    "category": "Würzmittel",
+    "subcategories": ["Gewürzmischung"]
+  },
+  {
+    "store": "billa",
+    "id": "00-405585",
+    "name": "Vegeta Würzmischung",
+    "category": "Würzmittel",
+    "subcategories": ["Gewürzmischung"]
+  },
+  {
+    "store": "billa",
+    "id": "00-360247",
+    "name": "Viveria Garam Masala",
+    "category": "Gewürze",
+    "subcategories": ["Gewürzmischung"]
+  },
+  {
+    "store": "billa",
+    "id": "00-360269",
+    "name": "Viveria Kardamom Ganz",
+    "category": "Gewürze",
+    "subcategories": ["Kardamom"]
+  },
+  {
+    "store": "billa",
+    "id": "00-360266",
+    "name": "Viveria Kurkuma gemahlen",
+    "category": "Gewürze",
+    "subcategories": ["Kurkuma"]
+  },
+  {
+    "store": "billa",
+    "id": "00-360263",
+    "name": "Viveria Kümmel Gemahlen",
+    "category": "Gewürze",
+    "subcategories": ["Kümmel"]
+  },
+  {
+    "store": "billa",
+    "id": "00-360265",
+    "name": "Viveria Muskatnuss",
+    "category": "Gewürze",
+    "subcategories": ["Muskatnuss"]
+  },
+  {
+    "store": "billa",
+    "id": "00-360262",
+    "name": "Viveria Oregano gerebelt",
+    "category": "Gewürze",
+    "subcategories": ["Oregano"]
+  },
+  {
+    "store": "billa",
+    "id": "00-360192",
+    "name": "Viveria Paprika Edelsüss",
+    "category": "Gewürze",
+    "subcategories": ["Paprika"]
+  },
+  {
+    "store": "billa",
+    "id": "00-360195",
+    "name": "Viveria Pfeffer bunt ganz",
+    "category": "Gewürze",
+    "subcategories": ["Pfeffer"]
+  },
+  {
+    "store": "billa",
+    "id": "00-360201",
+    "name": "Viveria Ras El Hanout",
+    "category": "Gewürze",
+    "subcategories": ["Gewürzmischung"]
+  },
+  {
+    "store": "billa",
+    "id": "00-360272",
+    "name": "Viveria Rosa Beeren",
+    "category": "Gewürze",
+    "subcategories": ["Rosa Beeren"]
+  },
+  {
+    "store": "billa",
+    "id": "00-360267",
+    "name": "Viveria Safran",
+    "category": "Gewürze",
+    "subcategories": ["Safran"]
+  },
+  {
+    "store": "billa",
+    "id": "00-360250",
+    "name": "Viveria Sternanis ganz",
+    "category": "Gewürze",
+    "subcategories": ["Sternanis"]
+  },
+  {
+    "store": "billa",
+    "id": "00-360252",
+    "name": "Viveria Wacholderbeeren ganz",
+    "category": "Gewürze",
+    "subcategories": ["Wacholderbeeren"]
+  },
+  {
+    "store": "billa",
+    "id": "00-360271",
+    "name": "Viveria Zimt gemahlen",
+    "category": "Gewürze",
+    "subcategories": ["Zimt"]
+  },
+  {
+    "store": "billa",
+    "id": "00-360270",
+    "name": "Viveria Zimtstangen",
+    "category": "Gewürze",
+    "subcategories": ["Zimt"]
+  },
+  {
+    "store": "billa",
+    "id": "00-317791",
+    "name": "Alnatura Cashewmus",
+    "category": "Brotaufstrich",
+    "subcategories": ["Nussmus"]
+  },
+  {
+    "store": "billa",
+    "id": "00-317572",
+    "name": "Alnatura Erdbeere Fruchtaufstrich",
+    "category": "Brotaufstrich",
+    "subcategories": ["Fruchtaufstrich"]
+  },
+  {
+    "store": "billa",
+    "id": "00-548912",
+    "name": "Alnatura Haselnuss-Nougat Creme",
+    "category": "Brotaufstrich",
+    "subcategories": ["Nusscreme"]
+  },
+  {
+    "store": "billa",
+    "id": "00-548892",
+    "name": "Alnatura Kokos-Mandel Creme",
+    "category": "Brotaufstrich",
+    "subcategories": ["Nusscreme"]
+  },
+  {
+    "store": "billa",
+    "id": "00-519175",
+    "name": "Alnatura Kokosmus",
+    "category": "Brotaufstrich",
+    "subcategories": ["Kokos"]
+  },
+  {
+    "store": "billa",
+    "id": "00-317571",
+    "name": "Alnatura Marille Fruchtaufstrich",
+    "category": "Brotaufstrich",
+    "subcategories": ["Fruchtaufstrich"]
+  },
+  {
+    "store": "billa",
+    "id": "00-317557",
+    "name": "Alnatura Vielblütenhonig",
+    "category": "Brotaufstrich",
+    "subcategories": ["Honig"]
+  },
+  {
+    "store": "billa",
+    "id": "00-317564",
+    "name": "Alnatura Zartbitter Creme",
+    "category": "Brotaufstrich",
+    "subcategories": ["Schokoladenaufstrich"]
+  },
+  {
+    "store": "billa",
+    "id": "00-463660",
+    "name": "BILLA Bio Blütenhonig",
+    "category": "Brotaufstrich",
+    "subcategories": ["Honig"]
+  },
+  {
+    "store": "billa",
+    "id": "00-442875",
+    "name": "BILLA Bio Waldhonig",
+    "category": "Brotaufstrich",
+    "subcategories": ["Honig"]
+  },
+  {
+    "store": "billa",
+    "id": "00-582969",
+    "name": "BILLA Erdbeer Fruchtaufstrich",
+    "category": "Brotaufstrich",
+    "subcategories": ["Fruchtaufstrich"]
+  },
+  {
+    "store": "billa",
+    "id": "00-435077",
+    "name": "BILLA Erdnusscreme Creamy",
+    "category": "Brotaufstrich",
+    "subcategories": ["Nusscreme"]
+  },
+  {
+    "store": "billa",
+    "id": "00-435076",
+    "name": "BILLA Erdnusscreme Crunchy",
+    "category": "Brotaufstrich",
+    "subcategories": ["Nusscreme"]
+  },
+  {
+    "store": "billa",
+    "id": "00-582958",
+    "name": "BILLA Marillen Fruchtaufstrich",
+    "category": "Brotaufstrich",
+    "subcategories": ["Fruchtaufstrich"]
+  },
+  {
+    "store": "billa",
+    "id": "00-582964",
+    "name": "BILLA Ribisl-Himbeer Fruchtaufstrich",
+    "category": "Brotaufstrich",
+    "subcategories": ["Fruchtaufstrich"]
+  },
+  {
+    "store": "billa",
+    "id": "00-714996",
+    "name": "BILLA Steirischer Cremehonig",
+    "category": "Brotaufstrich",
+    "subcategories": ["Honig"]
+  },
+  {
+    "store": "billa",
+    "id": "00-582963",
+    "name": "BILLA Wildpreiselbeer Fruchtaufstrich",
+    "category": "Brotaufstrich",
+    "subcategories": ["Fruchtaufstrich"]
+  },
+  {
+    "store": "billa",
+    "id": "00-12483",
+    "name": "Bergland Honig Echter Bienenhonig",
+    "category": "Brotaufstrich",
+    "subcategories": ["Honig"]
+  },
+  {
+    "store": "billa",
+    "id": "00-438563",
+    "name": "Bergland Honig Echter Blütenhonig",
+    "category": "Brotaufstrich",
+    "subcategories": ["Honig"]
+  },
+  {
+    "store": "billa",
+    "id": "00-587113",
+    "name": "Billa Bio Nuss Nougatcreme Palmölfrei",
+    "category": "Brotaufstrich",
+    "subcategories": ["Nusscreme"]
+  },
+  {
+    "store": "billa",
+    "id": "00-764934",
+    "name": "Bio Agavensirup",
+    "category": "Brotaufstrich",
+    "subcategories": ["Agavensirup"]
+  },
+  {
+    "store": "billa",
+    "id": "00-428265",
+    "name": "BioGourmet Vegane Schoko Creme",
+    "category": "Brotaufstrich",
+    "subcategories": ["Schokoladenaufstrich"]
+  },
+  {
+    "store": "billa",
+    "id": "00-380787",
+    "name": "Biozentrale Erdnussmus Crunchy",
+    "category": "Brotaufstrich",
+    "subcategories": ["Nussmus"]
+  },
+  {
+    "store": "billa",
+    "id": "00-338338",
+    "name": "Bonne Maman Brombeer-Konfitüre",
+    "category": "Brotaufstrich",
+    "subcategories": ["Konfitüre"]
+  },
+  {
+    "store": "billa",
+    "id": "00-282214",
+    "name": "Bonne Maman Caramelcreme",
+    "category": "Brotaufstrich",
+    "subcategories": ["Creme"]
+  },
+  {
+    "store": "billa",
+    "id": "00-338324",
+    "name": "Bonne Maman Erdbeer-Konfitüre",
+    "category": "Brotaufstrich",
+    "subcategories": ["Konfitüre"]
+  },
+  {
+    "store": "billa",
+    "id": "00-721418",
+    "name": "Bonne Maman Feigen-Konfitüre",
+    "category": "Brotaufstrich",
+    "subcategories": ["Konfitüre"]
+  },
+  {
+    "store": "billa",
+    "id": "00-249753",
+    "name": "Bonne Maman Haselnuss-Kakao Creme",
+    "category": "Brotaufstrich",
+    "subcategories": ["Nusscreme"]
+  },
+  {
+    "store": "billa",
+    "id": "00-338320",
+    "name": "Bonne Maman Marille-Konfitüre",
+    "category": "Brotaufstrich",
+    "subcategories": ["Konfitüre"]
+  },
+  {
+    "store": "billa",
+    "id": "00-282206",
+    "name": "Bonne Maman Maronencreme",
+    "category": "Brotaufstrich",
+    "subcategories": ["Creme"]
+  },
+  {
+    "store": "billa",
+    "id": "00-338329",
+    "name": "Bonne Maman Pfirsich-Konfitüre",
+    "category": "Brotaufstrich",
+    "subcategories": ["Konfitüre"]
+  },
+  {
+    "store": "billa",
+    "id": "00-372549",
+    "name": "Bonne Maman Pfirsichröster",
+    "category": "Brotaufstrich",
+    "subcategories": ["Röster"]
+  },
+  {
+    "store": "billa",
+    "id": "00-765133",
+    "name": "Brennerei Fuxsteiner Dirndl Marmelade",
+    "category": "Brotaufstrich",
+    "subcategories": ["Marmelade"]
+  },
+  {
+    "store": "billa",
+    "id": "00-253350",
+    "name": "Calvé Erdnussbutter Creamy",
+    "category": "Brotaufstrich",
+    "subcategories": ["Erdnussbutter"]
+  },
+  {
+    "store": "billa",
+    "id": "00-253354",
+    "name": "Calvé Erdnussbutter Crunchy",
+    "category": "Brotaufstrich",
+    "subcategories": ["Erdnussbutter"]
+  },
+  {
+    "store": "billa",
+    "id": "00-422184",
+    "name": "Chivers Englische Ingwerkonfitüre",
+    "category": "Brotaufstrich",
+    "subcategories": ["Konfitüre"]
+  },
+  {
+    "store": "billa",
+    "id": "00-422179",
+    "name": "Chivers English Orange Marmelade",
+    "category": "Brotaufstrich",
+    "subcategories": ["Marmelade"]
+  },
+  {
+    "store": "billa",
+    "id": "00-722452",
+    "name": "Chivers Lemon Curd Marmelade",
+    "category": "Brotaufstrich",
+    "subcategories": ["Marmelade"]
+  },
+  {
+    "store": "billa",
+    "id": "00-452346",
+    "name": "Clever Blütenhonig",
+    "category": "Brotaufstrich",
+    "subcategories": ["Honig"]
+  },
+  {
+    "store": "billa",
+    "id": "00-626097",
+    "name": "Clever Blütenhonig Dosierspender",
+    "category": "Brotaufstrich",
+    "subcategories": ["Honig"]
+  },
+  {
+    "store": "billa",
+    "id": "00-353255",
+    "name": "Clever Erdbeer Konfitüre Extra",
+    "category": "Brotaufstrich",
+    "subcategories": ["Konfitüre"]
+  },
+  {
+    "store": "billa",
+    "id": "00-353254",
+    "name": "Clever Erdbeer Konfitüre Extra Passiert",
+    "category": "Brotaufstrich",
+    "subcategories": ["Konfitüre"]
+  },
+  {
+    "store": "billa",
+    "id": "00-772003",
+    "name": "Clever Haselnusscreme",
+    "category": "Brotaufstrich",
+    "subcategories": ["Nusscreme"]
+  }
+]

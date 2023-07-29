@@ -1,0 +1,702 @@
+[
+  {
+    "store": "spar",
+    "id": "2020003815171",
+    "name": "Pyrex Rühr- und Salatschüssel 2 Liter",
+    "category": "Küchenutensilien",
+    "subcategories": ["Schüssel", "Rührschüssel", "Salatschüssel"]
+  },
+  {
+    "store": "spar",
+    "id": "4052753",
+    "name": "Pyrex Rührschüssel 1,0l",
+    "category": "Küchenutensilien",
+    "subcategories": ["Schüssel", "Rührschüssel"]
+  },
+  {
+    "store": "spar",
+    "id": "6084585",
+    "name": "Pyrex Rührschüssel 2,0l",
+    "category": "Küchenutensilien",
+    "subcategories": ["Schüssel", "Rührschüssel"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004579379",
+    "name": "Regesoft Spülmaschinensalz grobkörnig 2 kg",
+    "category": "Reinigungsmittel",
+    "subcategories": ["Spülmaschinensalz", "Salz", "Grobkörnig"]
+  },
+  {
+    "store": "spar",
+    "id": "298735",
+    "name": "Reibtuch 60x70 cm Reibtuch 60X70cm Oeber GVE 20",
+    "category": "Haushaltswaren",
+    "subcategories": ["Tuch", "Reibtuch"]
+  },
+  {
+    "store": "spar",
+    "id": "4655572",
+    "name": "Rei Waschemittel in der Tube 125 ml",
+    "category": "Reinigungsmittel",
+    "subcategories": ["Waschmittel", "Tube"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001841837",
+    "name": "Pyrex Cook & Go Frischhaltedose 0,8l rechteckig",
+    "category": "Küchenutensilien",
+    "subcategories": ["Frischhaltedose", "Dose", "Rechteckig"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001841905",
+    "name": "Pyrex Cook & Go Frischhaltedose quadratisch 1,7l",
+    "category": "Küchenutensilien",
+    "subcategories": ["Frischhaltedose", "Dose", "Quadratisch"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004387530",
+    "name": "Purina Adult Katzentrockennahrung Huhn&Vollkorn Getreide",
+    "category": "Tierfutter",
+    "subcategories": ["Katzentrockennahrung", "Huhn", "Vollkorn", "Getreide", "Adult"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003349133",
+    "name": "Purina Katzenfutter Junior 4x85g",
+    "category": "Tierfutter",
+    "subcategories": ["Katzenfutter", "Junior"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004641915",
+    "name": "Purina One Adult Huhn 8x85g",
+    "category": "Tierfutter",
+    "subcategories": ["Katzenfutter", "Adult", "Huhn"]
+  },
+  {
+    "store": "spar",
+    "id": "3789193",
+    "name": "Purina One Adult Katzenfutter Fisch & grüne Bohnen 4x85g",
+    "category": "Tierfutter",
+    "subcategories": ["Katzenfutter", "Adult", "Fisch", "Grüne Bohnen"]
+  },
+  {
+    "store": "spar",
+    "id": "3789162",
+    "name": "Purina One Adult Katzenfutter Huhn & grüne Bohnen in Soße 4x 85 g",
+    "category": "Tierfutter",
+    "subcategories": ["Katzenfutter", "Adult", "Huhn", "Grüne Bohnen", "Soße"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004387424",
+    "name": "Purina One Adult Katzentrockenfutter Lachs",
+    "category": "Tierfutter",
+    "subcategories": ["Katzentrockenfutter", "Adult", "Lachs"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004387363",
+    "name": "Purina One Junior Katzentrockenfutter Huhn",
+    "category": "Tierfutter",
+    "subcategories": ["Katzentrockenfutter", "Junior", "Huhn"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004387325",
+    "name": "Purina One Katzentrockenfutter Senior 7+",
+    "category": "Tierfutter",
+    "subcategories": ["Katzentrockenfutter", "Senior", "7+"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004387387",
+    "name": "Purina One Katzentrockenfutter Truthahn",
+    "category": "Tierfutter",
+    "subcategories": ["Katzentrockenfutter", "Truthahn"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004385581",
+    "name": "Purina One Katzentrockennahrung Huhn & Vollkorn-Getreide",
+    "category": "Tierfutter",
+    "subcategories": ["Katzentrockennahrung", "Huhn", "Vollkorn", "Getreide"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004385642",
+    "name": "Purina One Katzentrockennahrung Senior",
+    "category": "Tierfutter",
+    "subcategories": ["Katzentrockennahrung", "Senior"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004385666",
+    "name": "Purina One Katzentrockennahrung Sensiitive",
+    "category": "Tierfutter",
+    "subcategories": ["Katzentrockennahrung", "Sensiitive"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004385673",
+    "name": "Purina One Katzentrockennahrung Sterilcat",
+    "category": "Tierfutter",
+    "subcategories": ["Katzentrockennahrung", "Sterilcat"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002916145",
+    "name": "Purina One Kaztenfutter in Sauce mit Huhn 4x85g",
+    "category": "Tierfutter",
+    "subcategories": ["Katzenfutter", "In Sauce", "Huhn"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004641816",
+    "name": "Purina One Sensitive Huhn 8x85g",
+    "category": "Tierfutter",
+    "subcategories": ["Katzenfutter", "Sensitive", "Huhn"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001716715",
+    "name": "Purina One Sensitive Katzenfutter in Sauce mit Huhn 4x85g",
+    "category": "Tierfutter",
+    "subcategories": ["Katzenfutter", "In Sauce", "Sensitive", "Huhn"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004387264",
+    "name": "Purina One Sensitive Katzentrockennahrung Sensitive",
+    "category": "Tierfutter",
+    "subcategories": ["Katzentrockennahrung", "Sensitive"]
+  },
+  {
+    "store": "spar",
+    "id": "3789179",
+    "name": "Purina One Sterilcat Katzenfutter Lachs in Sauce 4x85g",
+    "category": "Tierfutter",
+    "subcategories": ["Katzenfutter", "Sterilcat", "In Sauce", "Lachs"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004387172",
+    "name": "Purina One Sterilcat Katzentrockenfutter Rind und Weizen",
+    "category": "Tierfutter",
+    "subcategories": ["Katzentrockenfutter", "Sterilcat", "Rind", "Weizen"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004642011",
+    "name": "Purina One Sterillcat Lachs 8x85g",
+    "category": "Tierfutter",
+    "subcategories": ["Katzenfutter", "Sterilcat", "Lachs"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003815157",
+    "name": "Pyrex Salat und Rührschüssel 1,0l/gr. Deckel",
+    "category": "Küchenutensilien",
+    "subcategories": ["Schüssel", "Rührschüssel", "Salatschüssel"]
+  },
+  {
+    "store": "spar",
+    "id": "2020000690832",
+    "name": "S-BUDGET Avocado",
+    "category": "Obst",
+    "subcategories": ["Avocado"]
+  },
+  {
+    "store": "spar",
+    "id": "6942526",
+    "name": "S-BUDGET Bananen per kg",
+    "category": "Obst",
+    "subcategories": ["Bananen"]
+  },
+  {
+    "store": "spar",
+    "id": "6713805",
+    "name": "S-BUDGET Birnen Conference 1 KG",
+    "category": "Obst",
+    "subcategories": ["Birnen", "Conference"]
+  },
+  {
+    "store": "spar",
+    "id": "7887017",
+    "name": "Radicchio rund 1 STK",
+    "category": "Gemüse",
+    "subcategories": ["Radicchio"]
+  },
+  {
+    "store": "spar",
+    "id": "6640361",
+    "name": "Rote Rüben lose per kg Rote Ruebe KG KG 1",
+    "category": "Gemüse",
+    "subcategories": ["Rote Rüben"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002276515",
+    "name": "S-BUDGET Champignons weiß",
+    "category": "Gemüse",
+    "subcategories": ["Champignons", "Weiß"]
+  },
+  {
+    "store": "spar",
+    "id": "6707439",
+    "name": "S-BUDGET Cherrytomate an der Rispe",
+    "category": "Gemüse",
+    "subcategories": ["Cherrytomate", "Rispe"]
+  },
+  {
+    "store": "spar",
+    "id": "1269246",
+    "name": "S-BUDGET Cranberries",
+    "category": "Obst",
+    "subcategories": ["Cranberries"]
+  },
+  {
+    "store": "spar",
+    "id": "7271083",
+    "name": "S-BUDGET Baguettes 2 x 150g",
+    "category": "Brot",
+    "subcategories": ["Baguettes"]
+  },
+  {
+    "store": "spar",
+    "id": "7271229",
+    "name": "S-BUDGET Brötchen 6 x 50g",
+    "category": "Brot",
+    "subcategories": ["Brötchen"]
+  },
+  {
+    "store": "spar",
+    "id": "2154022",
+    "name": "S-BUDGET Baguette",
+    "category": "Brot",
+    "subcategories": ["Baguette"]
+  },
+  {
+    "store": "spar",
+    "id": "2780764",
+    "name": "S-BUDGET Brezensemmel",
+    "category": "Brot",
+    "subcategories": ["Brezensemmel"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003052316",
+    "name": "S-BUDGET 10 Milchbrötchen mit Schoko-Stückchen",
+    "category": "Brot",
+    "subcategories": ["Milchbrötchen", "Schoko-Stückchen"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001843619",
+    "name": "S-BUDGET Butter Brioche in Scheiben geschnitten",
+    "category": "Brot",
+    "subcategories": ["Butter Brioche", "Scheiben"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003791215",
+    "name": "S-BUDGET Butter Croissants 15 Stück",
+    "category": "Brot",
+    "subcategories": ["Butter Croissants"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003283413",
+    "name": "S-BUDGET Butter-Nusskrone",
+    "category": "Brot",
+    "subcategories": ["Butter-Nusskrone"]
+  },
+  {
+    "store": "spar",
+    "id": "7615153",
+    "name": "S-BUDGET Buttercroissant 1 STK",
+    "category": "Brot",
+    "subcategories": ["Buttercroissant"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002741839",
+    "name": "Rotbäckchen Klassik",
+    "category": "Getränke",
+    "subcategories": ["Rotbäckchen", "Klassik"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002741822",
+    "name": "Rotbäckchen Mehrfruchtsaft Immunstark",
+    "category": "Getränke",
+    "subcategories": ["Rotbäckchen", "Mehrfruchtsaft", "Immunstark"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004602114",
+    "name": "S-BUDGET 100% Apfel 100% Apfelsaft",
+    "category": "Getränke",
+    "subcategories": ["Apfel", "Apfelsaft"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004602152",
+    "name": "S-BUDGET 100% Multivitamin",
+    "category": "Getränke",
+    "subcategories": ["Multivitamin"]
+  },
+  {
+    "store": "spar",
+    "id": "7832307",
+    "name": "S-BUDGET Cappuccino",
+    "category": "Getränke",
+    "subcategories": ["Cappuccino"]
+  },
+  {
+    "store": "spar",
+    "id": "2020000426714",
+    "name": "S-BUDGET Cola",
+    "category": "Getränke",
+    "subcategories": ["Cola"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003851018",
+    "name": "Röstraum Nero ganze Bohne",
+    "category": "Kaffee",
+    "subcategories": ["Röstraum", "Nero", "Bohne", "Ganze Bohne"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003851032",
+    "name": "Röstraum Rojo ganze Bohne",
+    "category": "Kaffee",
+    "subcategories": ["Röstraum", "Rojo", "Bohne", "Ganze Bohne"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003290169",
+    "name": "Röstwerk Bio-Honduras",
+    "category": "Kaffee",
+    "subcategories": ["Röstwerk", "Bio", "Honduras"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003290244",
+    "name": "Röstwerk Espresso Mischung",
+    "category": "Kaffee",
+    "subcategories": ["Röstwerk", "Espresso", "Mischung"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003290237",
+    "name": "Röstwerk Wiener Röstung",
+    "category": "Kaffee",
+    "subcategories": ["Röstwerk", "Wiener Röstung"]
+  },
+  {
+    "store": "spar",
+    "id": "6612238",
+    "name": "S-BUDGET Caffè Classico ganze Bohne",
+    "category": "Kaffee",
+    "subcategories": ["Caffè", "Classico", "Bohne", "Ganze Bohne"]
+  },
+  {
+    "store": "spar",
+    "id": "6612214",
+    "name": "S-BUDGET Caffè Classico gemahlen",
+    "category": "Kaffee",
+    "subcategories": ["Caffè", "Classico", "Gemahlen"]
+  },
+  {
+    "store": "spar",
+    "id": "7868054",
+    "name": "S-BUDGET Caffè Crema Ganze Bohne",
+    "category": "Kaffee",
+    "subcategories": ["Caffè Crema", "Bohne", "Ganze Bohne"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002620028",
+    "name": "S-BUDGET Caffè Crema ganze Bohne",
+    "category": "Kaffee",
+    "subcategories": ["Caffè Crema", "Bohne", "Ganze Bohne"]
+  },
+  {
+    "store": "spar",
+    "id": "7429682",
+    "name": "S-BUDGET Cappuccino Nach Belieben süßen",
+    "category": "Kaffee",
+    "subcategories": ["Cappuccino", "Süßen"]
+  },
+  {
+    "store": "spar",
+    "id": "7340840",
+    "name": "S-BUDGET Cappuccino classic",
+    "category": "Kaffee",
+    "subcategories": ["Cappuccino", "Classic"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002515164",
+    "name": "Roku Gin",
+    "category": "Spirituosen",
+    "subcategories": ["Gin"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002062859",
+    "name": "Ron Barcelo Imperial",
+    "category": "Spirituosen",
+    "subcategories": ["Ron", "Barcelo", "Imperial"]
+  },
+  {
+    "store": "spar",
+    "id": "7683107",
+    "name": "Ron Zacapa Centenario 23 YO",
+    "category": "Spirituosen",
+    "subcategories": ["Ron Zacapa", "Centenario", "23 YO"]
+  },
+  {
+    "store": "spar",
+    "id": "7682858",
+    "name": "Rossbacher 0,7 L",
+    "category": "Spirituosen",
+    "subcategories": ["Rossbacher"]
+  },
+  {
+    "store": "spar",
+    "id": "2020000552239",
+    "name": "Rocca Alata Amarone della Valpolicella 2020",
+    "category": "Wein",
+    "subcategories": ["Rocca Alata", "Amarone della Valpolicella", "2020"]
+  },
+  {
+    "store": "spar",
+    "id": "5968145",
+    "name": "Rocca Alata Valpolicella Ripasso DOC 2018",
+    "category": "Wein",
+    "subcategories": ["Rocca Alata", "Valpolicella Ripasso", "DOC", "2018"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003957017",
+    "name": "Rolland & Galarreta Rioja DOCa 2015",
+    "category": "Wein",
+    "subcategories": ["Rolland & Galarreta", "Rioja", "DOCa", "2015"]
+  },
+  {
+    "store": "spar",
+    "id": "3679722",
+    "name": "Rogaska Donat Mg Natürliches Mineralwasser",
+    "category": "Getränke",
+    "subcategories": ["Donat Mg", "Natürliches Mineralwasser"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003788093",
+    "name": "Römerquelle Emotion Brombeere Limette",
+    "category": "Getränke",
+    "subcategories": ["Römerquelle", "Emotion", "Brombeere", "Limette"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003787683",
+    "name": "Römerquelle Emotion Brombeere Limette",
+    "category": "Getränke",
+    "subcategories": ["Römerquelle", "Emotion", "Brombeere", "Limette"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004169655",
+    "name": "Römerquelle Emotion Heidelbeere Granatapfel",
+    "category": "Getränke",
+    "subcategories": ["Römerquelle", "Emotion", "Heidelbeere", "Granatapfel"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003787904",
+    "name": "Römerquelle Emotion Lemongrass",
+    "category": "Getränke",
+    "subcategories": ["Römerquelle", "Emotion", "Lemongrass"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003787690",
+    "name": "Römerquelle Emotion Marille Holunderblüte",
+    "category": "Getränke",
+    "subcategories": ["Römerquelle", "Emotion", "Marille", "Holunderblüte"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003788130",
+    "name": "Römerquelle Emotion Marille Holunderblüte",
+    "category": "Getränke",
+    "subcategories": ["Römerquelle", "Emotion", "Marille", "Holunderblüte"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004643612",
+    "name": "Römerquelle Emotion Pfirsich Wassermelone",
+    "category": "Getränke",
+    "subcategories": ["Römerquelle", "Emotion", "Pfirsich", "Wassermelone"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004643636",
+    "name": "Römerquelle Emotion Zitrone Blutorange",
+    "category": "Getränke",
+    "subcategories": ["Römerquelle", "Emotion", "Zitrone", "Blutorange"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004643605",
+    "name": "Römerquelle Emotion Zitrone Limette",
+    "category": "Getränke",
+    "subcategories": ["Römerquelle", "Emotion", "Zitrone", "Limette"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003397493",
+    "name": "Römerquelle Mineralwasser Sport still",
+    "category": "Getränke",
+    "subcategories": ["Römerquelle", "Mineralwasser", "Sport", "Still"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003517921",
+    "name": "Römerquelle Mineralwasser mild",
+    "category": "Getränke",
+    "subcategories": ["Römerquelle", "Mineralwasser", "Mild"]
+  },
+  {
+    "store": "spar",
+    "id": "4700579",
+    "name": "Römerquelle Mineralwasser mild",
+    "category": "Getränke",
+    "subcategories": ["Römerquelle", "Mineralwasser", "Mild"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002753702",
+    "name": "Römerquelle Mineralwasser mild 8 x 0,5l",
+    "category": "Getränke",
+    "subcategories": ["Römerquelle", "Mineralwasser", "Mild"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003517945",
+    "name": "Römerquelle Mineralwasser prickelnd",
+    "category": "Getränke",
+    "subcategories": ["Römerquelle", "Mineralwasser", "Prickelnd"]
+  },
+  {
+    "store": "spar",
+    "id": "4700548",
+    "name": "Römerquelle Mineralwasser prickelnd",
+    "category": "Getränke",
+    "subcategories": ["Römerquelle", "Mineralwasser", "Prickelnd"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002753825",
+    "name": "Römerquelle Mineralwasser prickelnd 8 x 0,5l",
+    "category": "Getränke",
+    "subcategories": ["Römerquelle", "Mineralwasser", "Prickelnd"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003517860",
+    "name": "Römerquelle Mineralwasser still",
+    "category": "Getränke",
+    "subcategories": ["Römerquelle", "Mineralwasser", "Still"]
+  },
+  {
+    "store": "spar",
+    "id": "4700586",
+    "name": "Römerquelle Mineralwasser still",
+    "category": "Getränke",
+    "subcategories": ["Römerquelle", "Mineralwasser", "Still"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002753818",
+    "name": "Römerquelle Mineralwasser still 8 x 0,5l",
+    "category": "Getränke",
+    "subcategories": ["Römerquelle", "Mineralwasser", "Still"]
+  },
+  {
+    "store": "spar",
+    "id": "2020000578161",
+    "name": "Roquefort Blauschimmelkäse",
+    "category": "Käse",
+    "subcategories": ["Roquefort", "Blauschimmelkäse"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001032754",
+    "name": "Rosenheimer Gourmet Manufaktur Farbpaste für Lebensmittel blau",
+    "category": "Backzutaten",
+    "subcategories": ["Farbpaste", "Lebensmittel", "Blau"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001032839",
+    "name": "Rosenheimer Gourmet Manufaktur Farbpaste für Lebensmittel grün",
+    "category": "Backzutaten",
+    "subcategories": ["Farbpaste", "Lebensmittel", "Grün"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001032938",
+    "name": "Rosenheimer Gourmet Manufaktur Farbpaste für Lebensmittel rosa",
+    "category": "Backzutaten",
+    "subcategories": ["Farbpaste", "Lebensmittel", "Rosa"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001032907",
+    "name": "Rosenheimer Gourmet Manufaktur Farbpaste für Lebensmittel rot",
+    "category": "Backzutaten",
+    "subcategories": ["Farbpaste", "Lebensmittel", "Rot"]
+  },
+  {
+    "store": "spar",
+    "id": "2020000628156",
+    "name": "Rosenheimer Gourmet Manufaktur Fondantcreme 2 x 115g",
+    "category": "Backzutaten",
+    "subcategories": ["Fondantcreme"]
+  },
+  {
+    "store": "spar",
+    "id": "3131190",
+    "name": "Roi Thai Kokosnussmilch",
+    "category": "Lebensmittel",
+    "subcategories": ["Kokosnussmilch"]
+  },
+  {
+    "store": "spar",
+    "id": "7481239",
+    "name": "Roi Thai Kokosnussmilch",
+    "category": "Lebensmittel",
+    "subcategories": ["Kokosnussmilch"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003874086",
+    "name": "Rotbäckchen Eisen Formel 450ML",
+    "category": "Getränke",
+    "subcategories": ["Rotbäckchen", "Eisen", "Formel"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003874048",
+    "name": "Rotbäckchen Vital Immun Formel",
+    "category": "Getränke",
+    "subcategories": ["Rotbäckchen", "Vital", "Immun", "Formel"]
+  }
+]

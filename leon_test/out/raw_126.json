@@ -1,0 +1,704 @@
+The JSON list describes grocery products in Austrian supermarkets. To generate a category and subcategories, we can use the "name" field. Here is an updated version of the JSON list with the added fields:
+
+[
+  {
+    "store": "hofer",
+    "id": 545410,
+    "name": "FAIR HOF Leichte Puten Attergauer 110g",
+    "category": "Fleisch",
+    "subcategories": ["Putenfleisch"]
+  },
+  {
+    "store": "hofer",
+    "id": 543942,
+    "name": "FAIR HOF Leichte Puten Wiener fettreduziert 110g",
+    "category": "Fleisch",
+    "subcategories": ["Putenfleisch"]
+  },
+  {
+    "store": "hofer",
+    "id": 545598,
+    "name": "FAIR HOF Pariser Kranz Klassik 300g",
+    "category": "Gebäck",
+    "subcategories": ["Kuchen"]
+  },
+  {
+    "store": "hofer",
+    "id": 545599,
+    "name": "FAIR HOF Pariser Kranz Pute 300g",
+    "category": "Gebäck",
+    "subcategories": ["Kuchen"]
+  },
+  {
+    "store": "hofer",
+    "id": 544247,
+    "name": "FAIR HOF Preiselbeer Streichwurst 140g",
+    "category": "Aufstrich",
+    "subcategories": ["Streichwurst", "Preiselbeere"]
+  },
+  {
+    "store": "hofer",
+    "id": 544677,
+    "name": "FAIR HOF Puten Bratwürstel 240g",
+    "category": "Fleisch",
+    "subcategories": ["Putenfleisch", "Bratwurst"]
+  },
+  {
+    "store": "hofer",
+    "id": 544676,
+    "name": "FAIR HOF Puten Debreziner 240g",
+    "category": "Fleisch",
+    "subcategories": ["Putenfleisch", "Debreziner"]
+  },
+  {
+    "store": "hofer",
+    "id": 545976,
+    "name": "FAIR HOF Puten Frankfurter 270g",
+    "category": "Fleisch",
+    "subcategories": ["Putenfleisch", "Frankfurter"]
+  },
+  {
+    "store": "hofer",
+    "id": 544678,
+    "name": "FAIR HOF Puten Käsekrainer 240g",
+    "category": "Fleisch",
+    "subcategories": ["Putenfleisch", "Käsekrainer"]
+  },
+  {
+    "store": "hofer",
+    "id": 548965,
+    "name": "FAIR HOF Rindfleischsülzchen fein geschnitten 140g",
+    "category": "Fleisch",
+    "subcategories": ["Rindfleisch", "Sülze"]
+  },
+  {
+    "store": "hofer",
+    "id": 544248,
+    "name": "FAIR HOF Sahne Streichwurst 140g",
+    "category": "Aufstrich",
+    "subcategories": ["Streichwurst", "Sahne"]
+  },
+  {
+    "store": "hofer",
+    "id": 549467,
+    "name": "FAIR HOF Schweineschmalz vom Strohschwein 500g",
+    "category": "Fett",
+    "subcategories": ["Schweineschmalz"]
+  },
+  {
+    "store": "hofer",
+    "id": 549368,
+    "name": "FAIR HOF Streich-Pastete mit Marillenspiegel 100g",
+    "category": "Aufstrich",
+    "subcategories": ["Pastete", "Marillenspiegel"]
+  },
+  {
+    "store": "hofer",
+    "id": 549367,
+    "name": "FAIR HOF Streich-Pastete mit Preiselbeerspiegel 100g",
+    "category": "Aufstrich",
+    "subcategories": ["Pastete", "Preiselbeerspiegel"]
+  },
+  {
+    "store": "hofer",
+    "id": 547954,
+    "name": "FINEST BAKERY Badner Kurkipferl 360g",
+    "category": "Gebäck",
+    "subcategories": ["Kekse"]
+  },
+  {
+    "store": "hofer",
+    "id": 549963,
+    "name": "FAIRHOF Hühnergeschnetzeltes 280g",
+    "category": "Fleisch",
+    "subcategories": ["Hühnerfleisch", "Geschnetzeltes"]
+  },
+  {
+    "store": "hofer",
+    "id": 549674,
+    "name": "FAIR HOF Toastschinken 140g",
+    "category": "Fleisch",
+    "subcategories": ["Schinken"]
+  },
+  {
+    "store": "hofer",
+    "id": 545660,
+    "name": "FAIR HOF Wiener 150g",
+    "category": "Fleisch",
+    "subcategories": ["Wurst"]
+  },
+  {
+    "store": "hofer",
+    "id": 549772,
+    "name": "FAIR HOF Wurstaufschnitt Extra/Hofwurst 200g",
+    "category": "Wurst",
+    "subcategories": ["Wurstaufschnitt", "Hofwurst"]
+  },
+  {
+    "store": "hofer",
+    "id": 549771,
+    "name": "FAIR HOF Wurstaufschnitt Extra/Pikant 200g",
+    "category": "Wurst",
+    "subcategories": ["Wurstaufschnitt", "Pikant"]
+  },
+  {
+    "store": "hofer",
+    "id": 547403,
+    "name": "FAIR HOF Wurstsülzchen fein geschnitten 240g",
+    "category": "Wurst",
+    "subcategories": ["Wurstsülzchen"]
+  },
+  {
+    "store": "hofer",
+    "id": 545632,
+    "name": "FAIR HOF Zwiebel Streichwurst 140g",
+    "category": "Aufstrich",
+    "subcategories": ["Streichwurst", "Zwiebel"]
+  },
+  {
+    "store": "hofer",
+    "id": 543943,
+    "name": "FAIR HOF leichte Puten Extra 150g",
+    "category": "Fleisch",
+    "subcategories": ["Putenfleisch"]
+  },
+  {
+    "store": "hofer",
+    "id": 545409,
+    "name": "FAIR HOF leichte Puten Pikante 150g",
+    "category": "Fleisch",
+    "subcategories": ["Putenfleisch"]
+  },
+  {
+    "store": "hofer",
+    "id": 549945,
+    "name": "FAIRHOF Beinschinken 125g",
+    "category": "Fleisch",
+    "subcategories": ["Schinken"]
+  },
+  {
+    "store": "hofer",
+    "id": 544927,
+    "name": "FAMILIE WEIN Schwarzwälder Schinken 200g",
+    "category": "Fleisch",
+    "subcategories": ["Schinken"]
+  },
+  {
+    "store": "hofer",
+    "id": 549678,
+    "name": "CORNETTO Classico 6x90ml",
+    "category": "Eis",
+    "subcategories": ["Eis am Stiel"]
+  },
+  {
+    "store": "hofer",
+    "id": 549679,
+    "name": "CORNETTO Erdbeere 6x90ml",
+    "category": "Eis",
+    "subcategories": ["Eis am Stiel"]
+  },
+  {
+    "store": "hofer",
+    "id": 544796,
+    "name": "CREMISSIMO Haselnuss Vanille Schokolade 520g",
+    "category": "Eis",
+    "subcategories": ["Eiscreme", "Haselnuss", "Schokolade"]
+  },
+  {
+    "store": "hofer",
+    "id": 544797,
+    "name": "CREMISSIMO Pistazie Vanille Nougat 500g",
+    "category": "Eis",
+    "subcategories": ["Eiscreme", "Pistazie", "Vanille", "Nougat"]
+  },
+  {
+    "store": "hofer",
+    "id": 549892,
+    "name": "CREMISSIMO Schokoladen Traum 900ml",
+    "category": "Eis",
+    "subcategories": ["Eiscreme", "Schokolade"]
+  },
+  {
+    "store": "hofer",
+    "id": 543807,
+    "name": "CREMISSIMO Schwarzwälder Kirsch 530g",
+    "category": "Eis",
+    "subcategories": ["Eiscreme", "Schwarzwälder Kirsch"]
+  },
+  {
+    "store": "hofer",
+    "id": 549893,
+    "name": "CREMISSIMO Solero 900ml",
+    "category": "Eis",
+    "subcategories": ["Eiscreme"]
+  },
+  {
+    "store": "hofer",
+    "id": 549891,
+    "name": "CREMISSIMO Stracciatella 900ml",
+    "category": "Eis",
+    "subcategories": ["Eiscreme", "Stracciatella"]
+  },
+  {
+    "store": "hofer",
+    "id": 546035,
+    "name": "CREMISSIMO Vanille 510g",
+    "category": "Eis",
+    "subcategories": ["Eiscreme", "Vanille"]
+  },
+  {
+    "store": "hofer",
+    "id": 545308,
+    "name": "CREMISSIMO Walnuss Glück 530g",
+    "category": "Eis",
+    "subcategories": ["Eiscreme", "Walnuss"]
+  },
+  {
+    "store": "hofer",
+    "id": 549777,
+    "name": "FERRERO Raffaello Eis 70ml",
+    "category": "Eis",
+    "subcategories": ["Eis am Stiel"]
+  },
+  {
+    "store": "hofer",
+    "id": 549778,
+    "name": "FERRERO Rocher Eis 203g",
+    "category": "Eis",
+    "subcategories": ["Eiscreme"]
+  },
+  {
+    "store": "hofer",
+    "id": 545268,
+    "name": "FINEST BAKERY Apfelstrudel 600g",
+    "category": "Gebäck",
+    "subcategories": ["Strudel"]
+  },
+  {
+    "store": "hofer",
+    "id": 545271,
+    "name": "CUCINA NOBILE Baguettes Diavolo 6x125g",
+    "category": "Brot",
+    "subcategories": ["Baguette"]
+  },
+  {
+    "store": "hofer",
+    "id": 543750,
+    "name": "CUCINA NOBILE Baguettes Prosciutto 6x125g",
+    "category": "Brot",
+    "subcategories": ["Baguette"]
+  },
+  {
+    "store": "hofer",
+    "id": 543749,
+    "name": "CUCINA NOBILE Baguettes Salame 6x125g",
+    "category": "Brot",
+    "subcategories": ["Baguette"]
+  },
+  {
+    "store": "hofer",
+    "id": 543751,
+    "name": "CUCINA NOBILE Baguettes Tomate-Pesto 6x125g",
+    "category": "Brot",
+    "subcategories": ["Baguette"]
+  },
+  {
+    "store": "hofer",
+    "id": 549745,
+    "name": "CUCINA NOBILE Cannelloni 4 Käse 400g",
+    "category": "Teigwaren",
+    "subcategories": ["Cannelloni", "Käse"]
+  },
+  {
+    "store": "hofer",
+    "id": 548250,
+    "name": "CUCINA NOBILE Lasagne Bolognese 400g",
+    "category": "Teigwaren",
+    "subcategories": ["Lasagne", "Bolognese"]
+  },
+  {
+    "store": "hofer",
+    "id": 548251,
+    "name": "CUCINA NOBILE Lasagne Mediterran 400g",
+    "category": "Teigwaren",
+    "subcategories": ["Lasagne", "Mediterran"]
+  },
+  {
+    "store": "hofer",
+    "id": 549888,
+    "name": "CUCINA NOBILE Pizza Family Margherita 535g",
+    "category": "Pizza",
+    "subcategories": ["Margherita"]
+  },
+  {
+    "store": "hofer",
+    "id": 549744,
+    "name": "CUCINA NOBILE Tortelloni 400g",
+    "category": "Teigwaren",
+    "subcategories": ["Tortelloni"]
+  },
+  {
+    "store": "hofer",
+    "id": 545281,
+    "name": "DR. OETKER 2x Ristorante Pizza Mozzarella 640g",
+    "category": "Pizza",
+    "subcategories": ["Mozzarella"]
+  },
+  {
+    "store": "hofer",
+    "id": 543777,
+    "name": "DR. OETKER 2x Ristorante Pizza Salame 640g",
+    "category": "Pizza",
+    "subcategories": ["Salame"]
+  },
+  {
+    "store": "hofer",
+    "id": 548867,
+    "name": "DR. OETKER Backpulver 3x16g",
+    "category": "Backzutat",
+    "subcategories": ["Backpulver"]
+  },
+  {
+    "store": "hofer",
+    "id": 544779,
+    "name": "CUCINA NOBILE Pesto Calabrese 190g",
+    "category": "Pesto",
+    "subcategories": ["Calabrese"]
+  },
+  {
+    "store": "hofer",
+    "id": 544778,
+    "name": "CUCINA NOBILE Pesto Genovese 190g",
+    "category": "Pesto",
+    "subcategories": ["Genovese"]
+  },
+  {
+    "store": "hofer",
+    "id": 544780,
+    "name": "CUCINA NOBILE Pesto Genovese Crema 190g",
+    "category": "Pesto",
+    "subcategories": ["Genovese", "Crema"]
+  },
+  {
+    "store": "hofer",
+    "id": 546025,
+    "name": "CUCINA NOBILE Pesto Rosso 190g",
+    "category": "Pesto",
+    "subcategories": ["Rosso"]
+  },
+  {
+    "store": "hofer",
+    "id": 544785,
+    "name": "CUCINA NOBILE SUGO Bolognese 475g",
+    "category": "Sauce",
+    "subcategories": ["Bolognese"]
+  },
+  {
+    "store": "hofer",
+    "id": 544787,
+    "name": "CUCINA NOBILE SUGO Frischkäse 475g",
+    "category": "Sauce",
+    "subcategories": ["Frischkäse"]
+  },
+  {
+    "store": "hofer",
+    "id": 546031,
+    "name": "CUCINA NOBILE SUGO Gemüse 475g",
+    "category": "Sauce",
+    "subcategories": ["Gemüse"]
+  },
+  {
+    "store": "hofer",
+    "id": 544786,
+    "name": "CUCINA NOBILE SUGO Pute 475g",
+    "category": "Sauce",
+    "subcategories": ["Pute"]
+  },
+  {
+    "store": "hofer",
+    "id": 549067,
+    "name": "CUCINA NOBILE Italienische Antipasti 280g",
+    "category": "Antipasti",
+    "subcategories": ["Italienisch"]
+  },
+  {
+    "store": "hofer",
+    "id": 549066,
+    "name": "CUCINA NOBILE Italienische Antipasti gegrillte Artischocken 280g",
+    "category": "Antipasti",
+    "subcategories": ["Italienisch", "Artischocken", "Gegrillt"]
+  },
+  {
+    "store": "hofer",
+    "id": 549065,
+    "name": "CUCINA NOBILE Italienische Antipasti gegrillte Tomaten 280g",
+    "category": "Antipasti",
+    "subcategories": ["Italienisch", "Tomaten", "Gegrillt"]
+  },
+  {
+    "store": "hofer",
+    "id": 546133,
+    "name": "CUCINA NOBILE Passierte Tomaten 500g",
+    "category": "Tomatenprodukte",
+    "subcategories": ["Passierte Tomaten"]
+  },
+  {
+    "store": "hofer",
+    "id": 546134,
+    "name": "CUCINA NOBILE Tomaten gehackt 400g",
+    "category": "Tomatenprodukte",
+    "subcategories": ["Gehackte Tomaten"]
+  },
+  {
+    "store": "hofer",
+    "id": 546360,
+    "name": "CUCINA NOBILE Tomatenmark 200g",
+    "category": "Tomatenprodukte",
+    "subcategories": ["Tomatenmark"]
+  },
+  {
+    "store": "hofer",
+    "id": 543717,
+    "name": "CUCINA NOBILE geschälte Tomaten 400g",
+    "category": "Tomatenprodukte",
+    "subcategories": ["Geschälte Tomaten"]
+  },
+  {
+    "store": "hofer",
+    "id": 545494,
+    "name": "DELAMARIS Picnic-Makrelen mit Bohnen in Tomatensauce 125g",
+    "category": "Fisch",
+    "subcategories": ["Makrele", "Bohnen"]
+  },
+  {
+    "store": "hofer",
+    "id": 545495,
+    "name": "DELAMARIS Pikant-Makrelen mit Gemüse in Tomatensauce 125g",
+    "category": "Fisch",
+    "subcategories": ["Makrele", "Gemüse"]
+  },
+  {
+    "store": "hofer",
+    "id": 545493,
+    "name": "DELAMARIS Provencale Makrelen mit Gemüse in Tomatensauce 125g",
+    "category": "Fisch",
+    "subcategories": ["Makrele", "Gemüse"]
+  },
+  {
+    "store": "hofer",
+    "id": 546052,
+    "name": "CUCINA NOBILE Dinkel Penne 500g",
+    "category": "Teigwaren",
+    "subcategories": ["Dinkel", "Penne"]
+  },
+  {
+    "store": "hofer",
+    "id": 544836,
+    "name": "CUCINA NOBILE Dinkel Spaghetti 500g",
+    "category": "Teigwaren",
+    "subcategories": ["Dinkel", "Spaghetti"]
+  },
+  {
+    "store": "hofer",
+    "id": 544837,
+    "name": "CUCINA NOBILE Dinkel Spirelli 500g",
+    "category": "Teigwaren",
+    "subcategories": ["Dinkel", "Spirelli"]
+  },
+  {
+    "store": "hofer",
+    "id": 546362,
+    "name": "CUCINA NOBILE Fadennudeln 1kg",
+    "category": "Teigwaren",
+    "subcategories": ["Fadennudeln"]
+  },
+  {
+    "store": "hofer",
+    "id": 546364,
+    "name": "CUCINA NOBILE Fleckerl 1kg",
+    "category": "Teigwaren",
+    "subcategories": ["Fleckerl"]
+  },
+  {
+    "store": "hofer",
+    "id": 546370,
+    "name": "CUCINA NOBILE Fusilli 1kg",
+    "category": "Teigwaren",
+    "subcategories": ["Fusilli"]
+  },
+  {
+    "store": "hofer",
+    "id": 546265,
+    "name": "CUCINA NOBILE Gnocchi 500g",
+    "category": "Teigwaren",
+    "subcategories": ["Gnocchi"]
+  },
+  {
+    "store": "hofer",
+    "id": 546365,
+    "name": "CUCINA NOBILE Hörnchen 1kg",
+    "category": "Teigwaren",
+    "subcategories": ["Hörnchen"]
+  },
+  {
+    "store": "hofer",
+    "id": 546369,
+    "name": "CUCINA NOBILE Penne rigate 1kg",
+    "category": "Teigwaren",
+    "subcategories": ["Penne rigate"]
+  },
+  {
+    "store": "hofer",
+    "id": 546368,
+    "name": "CUCINA NOBILE Spaghetti 1kg",
+    "category": "Teigwaren",
+    "subcategories": ["Spaghetti"]
+  },
+  {
+    "store": "hofer",
+    "id": 544799,
+    "name": "CUCINA NOBILE Tortelloni Fleisch 250g",
+    "category": "Teigwaren",
+    "subcategories": ["Tortelloni", "Fleisch"]
+  },
+  {
+    "store": "hofer",
+    "id": 544800,
+    "name": "CUCINA NOBILE Tortelloni Spinat und Ricotta 250g",
+    "category": "Teigwaren",
+    "subcategories": ["Tortelloni", "Spinat", "Ricotta"]
+  },
+  {
+    "store": "hofer",
+    "id": 545819,
+    "name": "CRANE Magnesiumsticks Cranberry 20x1,5g",
+    "category": "Nahrungsergänzung",
+    "subcategories": ["Magnesium", "Cranberry"]
+  },
+  {
+    "store": "hofer",
+    "id": 545820,
+    "name": "CRANE Magnesiumsticks Mango 20x1,5g",
+    "category": "Nahrungsergänzung",
+    "subcategories": ["Magnesium", "Mango"]
+  },
+  {
+    "store": "hofer",
+    "id": 548754,
+    "name": "CRANE Protein Bar Himbeere 45g",
+    "category": "Protein",
+    "subcategories": ["Proteinbar", "Himbeere"]
+  },
+  {
+    "store": "hofer",
+    "id": 548755,
+    "name": "CRANE Protein Bar Stracciatella 45g",
+    "category": "Protein",
+    "subcategories": ["Proteinbar", "Stracciatella"]
+  },
+  {
+    "store": "hofer",
+    "id": 548753,
+    "name": "CRANE Protein Bar Weiße Schoko 45g",
+    "category": "Protein",
+    "subcategories": ["Proteinbar", "Weiße Schokolade"]
+  },
+  {
+    "store": "hofer",
+    "id": 544656,
+    "name": "CRANE Protein Riegel Schoko 135g",
+    "category": "Protein",
+    "subcategories": ["Proteinriegel", "Schokolade"]
+  },
+  {
+    "store": "hofer",
+    "id": 544657,
+    "name": "CRANE Protein Riegel Vanille 135g",
+    "category": "Protein",
+    "subcategories": ["Proteinriegel", "Vanille"]
+  },
+  {
+    "store": "hofer",
+    "id": 544279,
+    "name": "FINEST BAKERY 10x Classic 250g",
+    "category": "Gebäck",
+    "subcategories": ["Kekse"]
+  },
+  {
+    "store": "hofer",
+    "id": 548656,
+    "name": "FINEST BAKERY Choc Rolls dark chocolate 125g",
+    "category": "Gebäck",
+    "subcategories": ["Schokoladenrolle"]
+  },
+  {
+    "store": "hofer",
+    "id": 548657,
+    "name": "FINEST BAKERY Choc Rolls milk chocolate 125g",
+    "category": "Gebäck",
+    "subcategories": ["Schokoladenrolle"]
+  },
+  {
+    "store": "hofer",
+    "id": 544323,
+    "name": "CUCINA NOBILE Grissotti Olivenöl und Meersalz 200g",
+    "category": "Gebäck",
+    "subcategories": ["Grissini", "Olivenöl", "Meersalz"]
+  },
+  {
+    "store": "hofer",
+    "id": 545708,
+    "name": "CUCINA NOBILE Grissotti Sesam- Mohn- Leinsamen 200g",
+    "category": "Gebäck",
+    "subcategories": ["Grissini", "Sesam", "Mohn", "Leinsamen"]
+  },
+  {
+    "store": "hofer",
+    "id": 545707,
+    "name": "CUCINA NOBILE Grissotti mit Sesam 200g",
+    "category": "Gebäck",
+    "subcategories": ["Grissini", "Sesam"]
+  },
+  {
+    "store": "hofer",
+    "id": 545040,
+    "name": "FERRERO Duplo 18x18,2g",
+    "category": "Süßwaren",
+    "subcategories": ["Riegel"]
+  },
+  {
+    "store": "hofer",
+    "id": 548642,
+    "name": "FERRERO Giotto Dänischer Butterkeks 154g",
+    "category": "Süßwaren",
+    "subcategories": ["Giotto", "Butterkeks"]
+  },
+  {
+    "store": "hofer",
+    "id": 544591,
+    "name": "FERRERO Giotto Haselnuss 154g",
+    "category": "Süßwaren",
+    "subcategories": ["Giotto", "Haselnuss"]
+  },
+  {
+    "store": "hofer",
+    "id": 548633,
+    "name": "FERRERO Kinder Country 352,5g",
+    "category": "Süßwaren",
+    "subcategories": ["Riegel"]
+  },
+  {
+    "store": "hofer",
+    "id": 545252,
+    "name": "FERRERO Nutella Biscuits 304g",
+    "category": "Süßwaren",
+    "subcategories": ["Keks", "Nutella"]
+  },
+  {
+    "store": "hofer",
+    "id": 545038,
+    "name": "FERRERO Raffaello 230g",
+    "category": "Süßwaren",
+    "subcategories": ["Kokoskugeln"]
+  }
+]

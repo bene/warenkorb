@@ -1,0 +1,601 @@
+[{
+    "store": "spar",
+    "id": "2020002929978",
+    "name": "Müller Shake Milk Chocolate",
+    "category": "Getränke",
+    "subcategories": ["Müller Shake", "Schokolade"]
+}, {
+    "store": "spar",
+    "id": "2020002930073",
+    "name": "Müller Shake Smooth Vanilla",
+    "category": "Getränke",
+    "subcategories": ["Müller Shake", "Vanille"]
+}, {
+    "store": "spar",
+    "id": "2020002929640",
+    "name": "Müller Shake Sunny Strawberry",
+    "category": "Getränke",
+    "subcategories": ["Müller Shake", "Erdbeere"]
+}, {
+    "store": "spar",
+    "id": "2020002982553",
+    "name": "Nestlé After Eight Mousse 4x57g",
+    "category": "Nachtisch",
+    "subcategories": ["After Eight Mousse"]
+}, {
+    "store": "spar",
+    "id": "2020002040758",
+    "name": "Nestlé Gold Knackige Mousse Schokolade 4x57g",
+    "category": "Nachtisch",
+    "subcategories": ["Gold Knackige Mousse", "Schokolade"]
+}, {
+    "store": "spar",
+    "id": "2020002040765",
+    "name": "Nestlé Gold Knackige Mousse Vanille 4x57g",
+    "category": "Nachtisch",
+    "subcategories": ["Gold Knackige Mousse", "Vanille"]
+}, {
+    "store": "spar",
+    "id": "5649297",
+    "name": "Nestlé Kondesmilch gezuckert",
+    "category": "Milchprodukte",
+    "subcategories": ["Kondensmilch", "gesüßt"]
+}, {
+    "store": "spar",
+    "id": "2807560",
+    "name": "Nestlé Nesquik Snack Kakao 4 x 26g",
+    "category": "Süßigkeiten",
+    "subcategories": ["Nesquik Snack", "Kakao"]
+}, {
+    "store": "spar",
+    "id": "4651628",
+    "name": "Nestlé mix-in Joghurt + Smarties Natur",
+    "category": "Milchprodukte",
+    "subcategories": ["Joghurt", "Smarties"]
+}, {
+    "store": "spar",
+    "id": "6097998",
+    "name": "Nestlé mix-in Joghurt + Smarties Vanille",
+    "category": "Milchprodukte",
+    "subcategories": ["Joghurt", "Smarties"]
+}, {
+    "store": "spar",
+    "id": "2020000953333",
+    "name": "Nestlé mix-in Smarties & Erdbeerjoghurt",
+    "category": "Milchprodukte",
+    "subcategories": ["Joghurt", "Smarties"]
+}, {
+    "store": "spar",
+    "id": "2020004368355",
+    "name": "Niemetz Schwedenbombe Schaumschnitte Schoko",
+    "category": "Süßigkeiten",
+    "subcategories": ["Schwedenbombe", "Schaumschnitte", "Schokolade"]
+}, {
+    "store": "spar",
+    "id": "5016471",
+    "name": "Moser Schwarze Pute",
+    "category": "Fleisch",
+    "subcategories": ["Schwarze Pute"]
+}, {
+    "store": "spar",
+    "id": "2020002776497",
+    "name": "Mühlstätter Alpenbeef",
+    "category": "Fleisch",
+    "subcategories": ["Alpenbeef"]
+}, {
+    "store": "spar",
+    "id": "3608296",
+    "name": "Neuburger 1 KG",
+    "category": "Fleisch",
+    "subcategories": ["Neuburger"]
+}, {
+    "store": "spar",
+    "id": "2020002862848",
+    "name": "Neuburger Neuburger geschnitten",
+    "category": "Fleisch",
+    "subcategories": ["Neuburger"]
+}, {
+    "store": "spar",
+    "id": "2020001995691",
+    "name": "Neuburger Neuburger geschnitten",
+    "category": "Fleisch",
+    "subcategories": ["Neuburger"]
+}, {
+    "store": "spar",
+    "id": "6381264",
+    "name": "Neuburger Neuburger geschnitten",
+    "category": "Fleisch",
+    "subcategories": ["Neuburger"]
+}, {
+    "store": "spar",
+    "id": "2020004425539",
+    "name": "Neuburger Streichwurst",
+    "category": "Fleisch",
+    "subcategories": ["Streichwurst"]
+}, {
+    "store": "spar",
+    "id": "2020003487439",
+    "name": "MozzaRisella Classic",
+    "category": "Käse",
+    "subcategories": ["MozzaRisella"]
+}, {
+    "store": "spar",
+    "id": "2020003975059",
+    "name": "Müller veganer Reis Pur",
+    "category": "Lebensmittel",
+    "subcategories": ["vegan", "Reis"]
+}, {
+    "store": "spar",
+    "id": "2020003975103",
+    "name": "Müller veganer Reis auf Kokosbasis Schoko",
+    "category": "Lebensmittel",
+    "subcategories": ["vegan", "Reis", "Kokos", "Schokolade"]
+}, {
+    "store": "spar",
+    "id": "2020003975097",
+    "name": "Müller veganer Reis auf Kokosbasis Vanille",
+    "category": "Lebensmittel",
+    "subcategories": ["vegan", "Reis", "Kokos", "Vanille"]
+}, {
+    "store": "spar",
+    "id": "2020003975110",
+    "name": "Müller veganer Reis auf Kokosbasis Zimt",
+    "category": "Lebensmittel",
+    "subcategories": ["vegan", "Reis", "Kokos", "Zimt"]
+}, {
+    "store": "spar",
+    "id": "2020003691058",
+    "name": "NOA Brotaufstrich Kichererbse Tomate Basilikum",
+    "category": "Brotaufstrich",
+    "subcategories": ["Kichererbse", "Tomate", "Basilikum"]
+}, {
+    "store": "spar",
+    "id": "2020002984687",
+    "name": "NOA Brotaufstrich Kichererbse-Avocado",
+    "category": "Brotaufstrich",
+    "subcategories": ["Kichererbse", "Avocado"]
+}, {
+    "store": "spar",
+    "id": "2020004430618",
+    "name": "NOA Brotaufstrich Linse & gegrillte Aubergine",
+    "category": "Brotaufstrich",
+    "subcategories": ["Linse", "Aubergine"]
+}, {
+    "store": "spar",
+    "id": "2020002042059",
+    "name": "NOA Brotaufstrich Linsen+Curry",
+    "category": "Brotaufstrich",
+    "subcategories": ["Linsen", "Curry"]
+}, {
+    "store": "spar",
+    "id": "2020004106803",
+    "name": "Misssi Eis Dessert Cheesecake 195g Becher",
+    "category": "Eis",
+    "subcategories": ["Cheesecake"]
+}, {
+    "store": "spar",
+    "id": "2020004578235",
+    "name": "Misssi Eis Dessert Marillen-Topfenknödel 195g Becher",
+    "category": "Eis",
+    "subcategories": ["Marillen-Topfenknödel"]
+}, {
+    "store": "spar",
+    "id": "2020004578228",
+    "name": "Misssi Eis Dessert Mozart Torte 195g Becher",
+    "category": "Eis",
+    "subcategories": ["Mozart Torte"]
+}, {
+    "store": "spar",
+    "id": "2020004106643",
+    "name": "Misssi Speiseeis Dessert Apfelstrudel 180g",
+    "category": "Eis",
+    "subcategories": ["Apfelstrudel"]
+}, {
+    "store": "spar",
+    "id": "5779192",
+    "name": "Moevenpick Bourbon Vanille 900ml",
+    "category": "Eis",
+    "subcategories": ["Bourbon Vanille"]
+}, {
+    "store": "spar",
+    "id": "5779147",
+    "name": "Mövenpick Maple Walnuts",
+    "category": "Eis",
+    "subcategories": ["Maple Walnuts"]
+}, {
+    "store": "spar",
+    "id": "5779062",
+    "name": "Mövenpick Schwarzwälder Kirsch 900ml",
+    "category": "Eis",
+    "subcategories": ["Schwarzwälder Kirsch"]
+}, {
+    "store": "spar",
+    "id": "2020003716577",
+    "name": "Nestlé Nuii Caramel White Chocolate & Texan Pecan 3 Stück 270ml Packung",
+    "category": "Eis",
+    "subcategories": ["Caramel White Chocolate", "Texan Pecan"]
+}, {
+    "store": "spar",
+    "id": "2020003716591",
+    "name": "Nestlé Nuii Coconut & Indian Mango",
+    "category": "Eis",
+    "subcategories": ["Coconut", "Indian Mango"]
+}, {
+    "store": "spar",
+    "id": "2020004532688",
+    "name": "Nestlé Nuii Mini Mix New York Cookies & Texan Pecan 6 Stück 330ml Packung",
+    "category": "Eis",
+    "subcategories": ["Mini Mix", "New York Cookies", "Texan Pecan"]
+}, {
+    "store": "spar",
+    "id": "2020002794743",
+    "name": "Nestlé Nuii Salted Caramael & Macadamia 3 Stück",
+    "category": "Eis",
+    "subcategories": ["Salted Caramel", "Macadamia"]
+}, {
+    "store": "spar",
+    "id": "2020003402074",
+    "name": "Nestlé Pirulo Frutti 5 Stück 350ml Packung",
+    "category": "Eis",
+    "subcategories": ["Pirulo Frutti"]
+}, {
+    "store": "spar",
+    "id": "4119036",
+    "name": "Natur Manufaktur Lachsforellenfilets",
+    "category": "Fisch",
+    "subcategories": ["Lachsforellenfilets"]
+}, {
+    "store": "spar",
+    "id": "4119821",
+    "name": "Natur Manufaktur Zanderfilets",
+    "category": "Fisch",
+    "subcategories": ["Zanderfilets"]
+}, {
+    "store": "spar",
+    "id": "2020004301260",
+    "name": "Neni Pitabrot prebaked 4 Stück 440g Packung",
+    "category": "Brot",
+    "subcategories": ["Pitabrot"]
+}, {
+    "store": "spar",
+    "id": "2020003400438",
+    "name": "Nestlé Beba Anfangsmilch 1",
+    "category": "Baby",
+    "subcategories": ["Anfangsmilch"]
+}, {
+    "store": "spar",
+    "id": "2020003400391",
+    "name": "Nestlé Beba Anfangsmilch Pre",
+    "category": "Baby",
+    "subcategories": ["Anfangsmilch"]
+}, {
+    "store": "spar",
+    "id": "2020004682215",
+    "name": "Nestlé Beba Anfangsmilch Pre trinkfertig",
+    "category": "Baby",
+    "subcategories": ["Anfangsmilch"]
+}, {
+    "store": "spar",
+    "id": "2020003831621",
+    "name": "Nestlé Beba Bio Folgemilch 2",
+    "category": "Baby",
+    "subcategories": ["Folgemilch"]
+}, {
+    "store": "spar",
+    "id": "2020003831591",
+    "name": "Nestlé Beba Bio-Anfangsmilch Pre",
+    "category": "Baby",
+    "subcategories": ["Anfangsmilch"]
+}, {
+    "store": "spar",
+    "id": "2020003400216",
+    "name": "Nestlé Beba Folgemilch 2",
+    "category": "Baby",
+    "subcategories": ["Folgemilch"]
+}, {
+    "store": "spar",
+    "id": "2020003400308",
+    "name": "Nestlé Beba Folgemilch 3",
+    "category": "Baby",
+    "subcategories": ["Folgemilch"]
+}, {
+    "store": "spar",
+    "id": "2020004167729",
+    "name": "Nestlé Beba Hydrolysierte Anfangsnahrung expert HA PRE",
+    "category": "Baby",
+    "subcategories": ["Hydrolysierte Anfangsnahrung"]
+}, {
+    "store": "spar",
+    "id": "2020004167798",
+    "name": "Nestlé Beba Hydrolysierte Anschlussnahrung expert HA 2",
+    "category": "Baby",
+    "subcategories": ["Hydrolysierte Anschlussnahrung"]
+}, {
+    "store": "spar",
+    "id": "2020003400346",
+    "name": "Nestlé Beba Kindermilch Junior 1+",
+    "category": "Baby",
+    "subcategories": ["Kindermilch"]
+}, {
+    "store": "spar",
+    "id": "2020003400377",
+    "name": "Nestlé Beba Kindermilch Junior 2+",
+    "category": "Baby",
+    "subcategories": ["Kindermilch"]
+}, {
+    "store": "spar",
+    "id": "2020003140440",
+    "name": "Nestlé Beba SinLac Spezialbrei glutenfreier Reisbrei",
+    "category": "Baby",
+    "subcategories": ["Spezialbrei", "glutenfrei", "Reisbrei"]
+}, {
+    "store": "spar",
+    "id": "2020000842026",
+    "name": "Nestlé Beba Spezialnahrung Anti-Reflux",
+    "category": "Baby",
+    "subcategories": ["Spezialnahrung", "Anti-Reflux"]
+}, {
+    "store": "spar",
+    "id": "2020003832550",
+    "name": "Nestlé Little Steps Folgemilch 2",
+    "category": "Baby",
+    "subcategories": ["Folgemilch"]
+}, {
+    "store": "spar",
+    "id": "2020003832567",
+    "name": "Nestlé Little Steps Folgemilch 3",
+    "category": "Baby",
+    "subcategories": ["Folgemilch"]
+}, {
+    "store": "spar",
+    "id": "2020003832512",
+    "name": "Nestlé Little Steps Kindermilch Junior 1+",
+    "category": "Baby",
+    "subcategories": ["Kindermilch"]
+}, {
+    "store": "spar",
+    "id": "2020003832239",
+    "name": "Nestlé Little Steps Säuglingsmilchnahrung Pre",
+    "category": "Baby",
+    "subcategories": ["Säuglingsmilchnahrung"]
+}, {
+    "store": "spar",
+    "id": "2020004124302",
+    "name": "Nestlé Milch-Getreidebrei Cerelac Honig & Weizen",
+    "category": "Baby",
+    "subcategories": ["Milch-Getreidebrei", "Cerelac", "Honig", "Weizen"]
+}, {
+    "store": "spar",
+    "id": "2020004124395",
+    "name": "Nestlé Milch-Getreidebrei Cerelac Weizen",
+    "category": "Baby",
+    "subcategories": ["Milch-Getreidebrei", "Cerelac", "Weizen"]
+}, {
+    "store": "spar",
+    "id": "3622681",
+    "name": "Mohnhof Gressl Waldviertler Graumohnöl",
+    "category": "Sonstiges",
+    "subcategories": ["Graumohnöl"]
+}, {
+    "store": "spar",
+    "id": "2020000690085",
+    "name": "NOAN Bio-Olivenöl extra Douro",
+    "category": "Sonstiges",
+    "subcategories": ["Olivenöl"]
+}, {
+    "store": "spar",
+    "id": "2020002950163",
+    "name": "NOAN Bio-Olivenöl extra Lemon",
+    "category": "Sonstiges",
+    "subcategories": ["Olivenöl"]
+}, {
+    "store": "spar",
+    "id": "2020002367503",
+    "name": "Neni Curry Mix 40g",
+    "category": "Gewürze",
+    "subcategories": ["Curry"]
+}, {
+    "store": "spar",
+    "id": "2020002367534",
+    "name": "Neni Grillmix 40g",
+    "category": "Gewürze",
+    "subcategories": ["Grillmix"]
+}, {
+    "store": "spar",
+    "id": "2020002367541",
+    "name": "Neni Mediterraner Mix 40g",
+    "category": "Gewürze",
+    "subcategories": ["Mediterraner Mix"]
+}, {
+    "store": "spar",
+    "id": "2020002367459",
+    "name": "Neni Oriental Mix 40g",
+    "category": "Gewürze",
+    "subcategories": ["Oriental Mix"]
+}, {
+    "store": "spar",
+    "id": "2020002367497",
+    "name": "Neni Zitronenpfeffer 40g",
+    "category": "Gewürze",
+    "subcategories": ["Zitronenpfeffer"]
+}, {
+    "store": "spar",
+    "id": "6313760",
+    "name": "Nestlé Cerealien Cheerios 375G",
+    "category": "Frühstück",
+    "subcategories": ["Cheerios"]
+}, {
+    "store": "spar",
+    "id": "7423260",
+    "name": "Nestlé Cerealien Cookie Crisp",
+    "category": "Frühstück",
+    "subcategories": ["Cookie Crisp"]
+}, {
+    "store": "spar",
+    "id": "2020002454968",
+    "name": "Nestlé Cerealien Mix Pack 190G",
+    "category": "Frühstück",
+    "subcategories": ["Cerealien"]
+}, {
+    "store": "spar",
+    "id": "2020003792229",
+    "name": "Nestlé Cini Minis Apple Crush 360G",
+    "category": "Frühstück",
+    "subcategories": ["Cini Minis", "Apfel"]
+}, {
+    "store": "spar",
+    "id": "7386930",
+    "name": "Nestlé Cini Minis Cerealien 375G",
+    "category": "Frühstück",
+    "subcategories": ["Cini Minis"]
+}, {
+    "store": "spar",
+    "id": "2020003792274",
+    "name": "Nestlé Cini Minis Cerealien Churros 360G",
+    "category": "Frühstück",
+    "subcategories": ["Cini Minis", "Churros"]
+}, {
+    "store": "spar",
+    "id": "4828341",
+    "name": "Nestlé Cini Minis Cerealien Maxipack",
+    "category": "Frühstück",
+    "subcategories": ["Cini Minis"]
+}, {
+    "store": "spar",
+    "id": "3919842",
+    "name": "Nestlé Clusters Cerealien Mandel 325G",
+    "category": "Frühstück",
+    "subcategories": ["Clusters", "Mandel"]
+}, {
+    "store": "spar",
+    "id": "2020004635563",
+    "name": "Nestlé KitKat Cerealien",
+    "category": "Frühstück",
+    "subcategories": ["KitKat"]
+}, {
+    "store": "spar",
+    "id": "7741890",
+    "name": "Nestlé Lion Cerealien Karamell & Schoko 400G",
+    "category": "Frühstück",
+    "subcategories": ["Lion", "Karamell", "Schokolade"]
+}, {
+    "store": "spar",
+    "id": "2020001039029",
+    "name": "Nestlé Lion Cerealien Maxipack 675G",
+    "category": "Frühstück",
+    "subcategories": ["Lion"]
+}, {
+    "store": "spar",
+    "id": "2020003395055",
+    "name": "Nestlé Lion Cerealien Wild Crush 360G",
+    "category": "Frühstück",
+    "subcategories": ["Lion"]
+}, {
+    "store": "spar",
+    "id": "7377389",
+    "name": "Nestlé Nesquik Cerealien Classik 330G",
+    "category": "Frühstück",
+    "subcategories": ["Nesquik", "Cerealien"]
+}, {
+    "store": "spar",
+    "id": "1073010",
+    "name": "Nestlé Nesquik Cerealien Duo 325G",
+    "category": "Frühstück",
+    "subcategories": ["Nesquik", "Cerealien"]
+}, {
+    "store": "spar",
+    "id": "2020001633043",
+    "name": "Nestlé Nesquik Cerealien Maxipack 625G",
+    "category": "Frühstück",
+    "subcategories": ["Nesquik", "Cerealien"]
+}, {
+    "store": "spar",
+    "id": "2020003051159",
+    "name": "Möstl Sauerkraut 500 G",
+    "category": "Gemüse",
+    "subcategories": ["Sauerkraut"]
+}, {
+    "store": "spar",
+    "id": "2020002335953",
+    "name": "NOAN Grüne Bio-Oliven in Salzlake",
+    "category": "Sonstiges",
+    "subcategories": ["Grüne Oliven", "Salzlake"]
+}, {
+    "store": "spar",
+    "id": "2020004313928",
+    "name": "Natuco Bio Gemüsebrühe 8 x 10g",
+    "category": "Gemüse",
+    "subcategories": ["Gemüsebrühe"]
+}, {
+    "store": "spar",
+    "id": "2020004313966",
+    "name": "Natuco Bio Hühnerbrühe 8 x 10g",
+    "category": "Fertiggerichte",
+    "subcategories": ["Hühnerbrühe"]
+}, {
+    "store": "spar",
+    "id": "2020004313997",
+    "name": "Natuco Bio Rinderbrühe 8 x 10g",
+    "category": "Fertiggerichte",
+    "subcategories": ["Rinderbrühe"]
+}, {
+    "store": "spar",
+    "id": "390965",
+    "name": "Dr. Oetker Flana Pudding Schokolade 2 x 30G",
+    "category": "Backen",
+    "subcategories": ["Pudding", "Schokolade"]
+}, {
+    "store": "spar",
+    "id": "390842",
+    "name": "Dr. Oetker Flana Pudding Vanille-Geschmack 2 x 24G",
+    "category": "Backen",
+    "subcategories": ["Pudding", "Vanille"]
+}, {
+    "store": "spar",
+    "id": "931700",
+    "name": "Assmann Roggenmehl Type 960",
+    "category": "Mehl",
+    "subcategories": ["Roggenmehl"]
+}, {
+    "store": "spar",
+    "id": "931403",
+    "name": "Assmann Weizenmehl Glatt Type 480",
+    "category": "Mehl",
+    "subcategories": ["Weizenmehl"]
+}, {
+    "store": "spar",
+    "id": "931564",
+    "name": "Assmann Weizenmehl Griffig Type 480",
+    "category": "Mehl",
+    "subcategories": ["Weizenmehl"]
+}, {
+    "store": "spar",
+    "id": "931663",
+    "name": "Assmann Weizenmehl Type 700",
+    "category": "Mehl",
+    "subcategories": ["Weizenmehl"]
+}, {
+    "store": "spar",
+    "id": "931939",
+    "name": "Assmann Wiener Grieß Type 480",
+    "category": "Mehl",
+    "subcategories": ["Wiener Grieß"]
+}, {
+    "store": "spar",
+    "id": "2020004426901",
+    "name": "Arroz Cebolla Sollana Paella Reis",
+    "category": "Reis",
+    "subcategories": ["Paella Reis"]
+}, {
+    "store": "spar",
+    "id": "2020001921621",
+    "name": "Miyako Japan Soba Noodle",
+    "category": "Nudeln",
+    "subcategories": ["Soba Noodle"]
+}, {
+    "store": "spar",
+    "id": "2020002515546",
+    "name": "Aiko Sweet Chili Sauce",
+    "category": "Soßen",
+    "subcategories": ["Sweet Chili Sauce"]
+}]

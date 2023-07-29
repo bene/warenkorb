@@ -1,0 +1,770 @@
+[
+  {
+    "store": "billa",
+    "id": "00-393515",
+    "name": "Lavera Basis Sensitiv Feuchtigkeitspflege",
+    "category": "Gesichtspflege",
+    "subcategories": ["Feuchtigkeitspflege", "Basis Sensitiv"]
+  },
+  {
+    "store": "billa",
+    "id": "00-513993",
+    "name": "Lavera Basis Sensitiv Handcreme",
+    "category": "Handpflege",
+    "subcategories": ["Handcreme", "Basis Sensitiv"]
+  },
+  {
+    "store": "billa",
+    "id": "00-516559",
+    "name": "Lavera Basis Sensitive Bodymilk Reichhaltig",
+    "category": "Körperpflege",
+    "subcategories": ["Bodymilk", "Basis Sensitive"]
+  },
+  {
+    "store": "billa",
+    "id": "00-516558",
+    "name": "Lavera Bodymilk Wildrose & Sheabutter",
+    "category": "Körperpflege",
+    "subtype": "Bodymilk",
+    "subcategories": ["Wildrose & Sheabutter"]
+  },
+  {
+    "store": "billa",
+    "id": "00-531276",
+    "name": "Lavera Lippenbalsam Basis Sensitiv",
+    "category": "Lippenpflege",
+    "subcategories": ["Lippenbalsam", "Basis Sensitiv"]
+  },
+  {
+    "store": "billa",
+    "id": "00-514002",
+    "name": "Lavera Repair Handcreme",
+    "category": "Handpflege",
+    "subcategories": ["Handcreme", "Repair"]
+  },
+  {
+    "store": "billa",
+    "id": "00-681963",
+    "name": "Neutrogena Bodylotion für Trockene Haut",
+    "category": "Körperpflege",
+    "subcategory": "Bodylotion",
+    "subcategories": ["Trockene Haut"]
+  },
+  {
+    "store": "billa",
+    "id": "00-502581",
+    "name": "Neutrogena Hand & Nagelcreme",
+    "category": "Handpflege",
+    "subcategory": "Handcreme",
+    "subcategories": ["Nagelcreme"]
+  },
+  {
+    "store": "billa",
+    "id": "00-410919",
+    "name": "Neutrogena Handcreme",
+    "category": "Handpflege",
+    "subcategories": ["Handcreme"]
+  },
+  {
+    "store": "billa",
+    "id": "00-144409",
+    "name": "Neutrogena Handcreme Sofort Einziehend",
+    "category": "Handpflege",
+    "subcategories": ["Handcreme"]
+  },
+  {
+    "store": "billa",
+    "id": "00-282438",
+    "name": "Neutrogena Visibly Renew Bodymilk",
+    "category": "Körperpflege",
+    "subcategory": "Bodymilk",
+    "subcategories": []
+  },
+  {
+    "store": "billa",
+    "id": "00-846735",
+    "name": "Nivea Anti-Falten Straffung Tagespflege 45+",
+    "category": "Gesichtspflege",
+    "subcategories": ["Anti-Falten Straffung"]
+  },
+  {
+    "store": "billa",
+    "id": "00-615784",
+    "name": "Nivea Body Lotion Express Hydration",
+    "category": "Körperpflege",
+    "subtype": "Body Lotion",
+    "subcategories": ["Express Hydration"]
+  },
+  {
+    "store": "billa",
+    "id": "00-615796",
+    "name": "Nivea Body Lotion Hautstaffend mit Q10",
+    "category": "Körperpflege",
+    "subtype": "Body Lotion",
+    "subcategories": ["Hautstaffend", "mit Q10"]
+  },
+  {
+    "store": "billa",
+    "id": "00-665719",
+    "name": "Nivea Body Lotion Repair & Care",
+    "category": "Körperpflege",
+    "subtype": "Body Lotion",
+    "subcategories": ["Repair & Care"]
+  },
+  {
+    "store": "billa",
+    "id": "00-615785",
+    "name": "Nivea Body Reichhaltige Bodymilk",
+    "category": "Körperpflege",
+    "subtype": "Bodymilk",
+    "subcategories": ["Reichhaltige"]
+  },
+  {
+    "store": "billa",
+    "id": "00-404034",
+    "name": "Nivea Creme",
+    "category": "Gesichtspflege",
+    "subcategories": []
+  },
+  {
+    "store": "billa",
+    "id": "00-14246",
+    "name": "Nivea Creme",
+    "category": "Gesichtspflege",
+    "subcategories": []
+  },
+  {
+    "store": "billa",
+    "id": "00-850496",
+    "name": "Nivea For Men Intensive Creme",
+    "category": "Gesichtspflege",
+    "subcategories": ["For Men", "Intensive"]
+  },
+  {
+    "store": "billa",
+    "id": "00-566481",
+    "name": "Nivea Handcreme Anti Age Q10",
+    "category": "Handpflege",
+    "subcategories": ["Anti Age", "Q10"]
+  },
+  {
+    "store": "billa",
+    "id": "00-566492",
+    "name": "Nivea Handcreme Intensive",
+    "category": "Handpflege",
+    "subcategories": ["Intensive"]
+  },
+  {
+    "store": "billa",
+    "id": "00-615474",
+    "name": "Nivea Men Active Energy Gesichtspflege Creme",
+    "category": "Gesichtspflege",
+    "subcategories": ["Men", "Active Energy"]
+  },
+  {
+    "store": "billa",
+    "id": "00-400633",
+    "name": "Nivea Softcreme",
+    "category": "Körperpflege",
+    "subcategories": []
+  },
+  {
+    "store": "billa",
+    "id": "00-852604",
+    "name": "Nivea Visage Augencreme Anti Falten mit Q10",
+    "category": "Gesichtspflege",
+    "subcategory": "Augencreme",
+    "subcategories": ["Anti Falten", "mit Q10"]
+  },
+  {
+    "store": "billa",
+    "id": "00-905198",
+    "name": "Nivea Visage Feuchtigkeitsspendende Tagescreme",
+    "category": "Gesichtspflege",
+    "subtype": "Tagescreme",
+    "subcategories": ["Feuchtigkeitsspendende"]
+  },
+  {
+    "store": "billa",
+    "id": "00-855350",
+    "name": "Nivea Visage Nachtpflege Anti Falten mit Q10",
+    "category": "Gesichtspflege",
+    "subtype": "Nachtpflege",
+    "subcategories": ["Anti Falten", "mit Q10"]
+  },
+  {
+    "store": "billa",
+    "id": "00-410080",
+    "name": "Oliva Handcreme mit Olivenöl",
+    "category": "Handpflege",
+    "subtype": "Handcreme",
+    "subcategories": ["mit Olivenöl"]
+  },
+  {
+    "store": "billa",
+    "id": "00-410082",
+    "name": "Oliva Intensiv Bodylotion",
+    "category": "Körperpflege",
+    "subtype": "Bodylotion",
+    "subcategories": ["Intensiv"]
+  },
+  {
+    "store": "billa",
+    "id": "00-410067",
+    "name": "Oliva Nachtcreme mit Olivenöl",
+    "category": "Gesichtspflege",
+    "subtype": "Nachtcreme",
+    "subcategories": ["mit Olivenöl"]
+  },
+  {
+    "store": "billa",
+    "id": "00-410064",
+    "name": "Oliva Tagescreme mit Olivenöl",
+    "category": "Gesichtspflege",
+    "subtype": "Tagescreme",
+    "subcategories": ["mit Olivenöl"]
+  },
+  {
+    "store": "billa",
+    "id": "00-703646",
+    "name": "Savoderm Body Lotion Ph5 Empfindliche H.",
+    "category": "Körperpflege",
+    "subtype": "Body Lotion",
+    "subcategories": ["Ph5 Empfindliche H."]
+  },
+  {
+    "store": "billa",
+    "id": "00-490282",
+    "name": "Savoderm Extra Sanftes Ph5 Syndet",
+    "category": "Gesichtspflege",
+    "subtype": "Syndet",
+    "subcategories": ["Extra Sanftes Ph5"]
+  },
+  {
+    "store": "billa",
+    "id": "00-681898",
+    "name": "Sebamed Body Lotion Trockene Haut",
+    "category": "Körperpflege",
+    "subtype": "Body Lotion",
+    "subcategories": ["Trockene Haut"]
+  },
+  {
+    "store": "billa",
+    "id": "00-617374",
+    "name": "Today Kosmetiktücher 3-Lagig",
+    "category": "Kosmetikzubehör",
+    "subcategories": ["Kosmetiktücher"]
+  },
+  {
+    "store": "billa",
+    "id": "00-603840",
+    "name": "Today Lippenpflege Classic Duopack",
+    "category": "Lippenpflege",
+    "subcategories": ["Lippenpflege", "Classic Duopack"]
+  },
+  {
+    "store": "billa",
+    "id": "00-599881",
+    "name": "Today Reinigungstücher 3in1",
+    "category": "Gesichtsreinigung",
+    "subcategories": ["Reinigungstücher", "3in1"]
+  },
+  {
+    "store": "billa",
+    "id": "00-599919",
+    "name": "Today Reinigungstücher Sensitiv",
+    "category": "Gesichtsreinigung",
+    "subcategories": ["Reinigungstücher", "Sensitiv"]
+  },
+  {
+    "store": "billa",
+    "id": "00-569237",
+    "name": "Today Vaseline 125ml",
+    "category": "Körperpflege",
+    "subcategories": ["Vaseline"]
+  },
+  {
+    "store": "billa",
+    "id": "00-933129",
+    "name": "Today Wattepads",
+    "category": "Kosmetikzubehör",
+    "subcategories": ["Wattepads"]
+  },
+  {
+    "store": "billa",
+    "id": "00-566619",
+    "name": "Today Wattepads Maxi",
+    "category": "Kosmetikzubehör",
+    "subcategories": ["Wattepads", "Maxi"]
+  },
+  {
+    "store": "billa",
+    "id": "00-529186",
+    "name": "Today Wattestäbchen",
+    "category": "Kosmetikzubehör",
+    "subcategories": ["Wattestäbchen"]
+  },
+  {
+    "store": "billa",
+    "id": "00-566608",
+    "name": "Today Wattestäbchen Nachfüllpack",
+    "category": "Kosmetikzubehör",
+    "subcategories": ["Wattestäbchen", "Nachfüllpack"]
+  },
+  {
+    "store": "billa",
+    "id": "00-854253",
+    "name": "Trind Nagelhärter",
+    "category": "Nagelpflege",
+    "subcategories": ["Nagelhärter"]
+  },
+  {
+    "store": "billa",
+    "id": "00-891838",
+    "name": "bi good Bio-Wattepads",
+    "category": "Kosmetikzubehör",
+    "subcategories": ["Bio-Wattepads"]
+  },
+  {
+    "store": "billa",
+    "id": "00-891913",
+    "name": "bi good Bio-Wattestäbchen",
+    "category": "Kosmetikzubehör",
+    "subcategories": ["Bio-Wattestäbchen"]
+  },
+  {
+    "store": "billa",
+    "id": "00-312864",
+    "name": "bi good Handcreme Intensive Hanf",
+    "category": "Handpflege",
+    "subcategories": ["Handcreme", "Intensive", "Hanf"]
+  },
+  {
+    "store": "billa",
+    "id": "00-713166",
+    "name": "bi good Intensiv Körperlotion Hanf",
+    "category": "Körperpflege",
+    "subtype": "Körperlotion",
+    "subcategories": ["Intensiv", "Hanf"]
+  },
+  {
+    "store": "billa",
+    "id": "00-401485",
+    "name": "Aronal Forte Zahncreme",
+    "category": "Zahnpflege",
+    "subtype": "Zahncreme",
+    "subcategories": ["Forte"]
+  },
+  {
+    "store": "billa",
+    "id": "00-397753",
+    "name": "Clever Zahnstocher",
+    "category": "Zahnpflege",
+    "subcategories": ["Zahnstocher"]
+  },
+  {
+    "store": "billa",
+    "id": "00-421152",
+    "name": "Colgate Max White Expert Zahncreme",
+    "category": "Zahnpflege",
+    "subtype": "Zahncreme",
+    "subcategories": ["Max White Expert"]
+  },
+  {
+    "store": "billa",
+    "id": "00-407263",
+    "name": "Colgate Plax Mundspülung Cool Mint",
+    "category": "Mundpflege",
+    "subtype": "Mundspülung",
+    "subcategories": ["Cool Mint"]
+  },
+  {
+    "store": "billa",
+    "id": "00-22827",
+    "name": "Colgate Plax Mundspülung Soft Mint",
+    "category": "Mundpflege",
+    "subtype": "Mundspülung",
+    "subcategories": ["Soft Mint"]
+  },
+  {
+    "store": "billa",
+    "id": "00-266853",
+    "name": "Colgate Total Zahncreme Original",
+    "category": "Zahnpflege",
+    "subtype": "Zahncreme",
+    "subcategories": ["Total", "Original"]
+  },
+  {
+    "store": "billa",
+    "id": "00-266854",
+    "name": "Colgate Total Zahncreme Plus Gesunde Frische",
+    "category": "Zahnpflege",
+    "subtype": "Zahncreme",
+    "subcategories": ["Total", "Plus Gesunde Frische"]
+  },
+  {
+    "store": "billa",
+    "id": "00-266862",
+    "name": "Colgate Total Zahncreme Plus Gesundes Weiß",
+    "category": "Zahnpflege",
+    "subtype": "Zahncreme",
+    "subcategories": ["Total", "Plus Gesundes Weiß"]
+  },
+  {
+    "store": "billa",
+    "id": "00-886576",
+    "name": "Colgate Zahnbürste 360° 2+1",
+    "category": "Zahnpflege",
+    "subtype": "Zahnbürste",
+    "subcategories": ["360°"]
+  },
+  {
+    "store": "billa",
+    "id": "00-356612",
+    "name": "Colgate Zahnbürste Bamboo Aktivkohle Weich",
+    "category": "Zahnpflege",
+    "subtype": "Zahnbürste",
+    "subcategories": ["Bamboo", "Aktivkohle", "Weich"]
+  },
+  {
+    "store": "billa",
+    "id": "00-889962",
+    "name": "Colgate Zahncreme Komplett Extra Frisch",
+    "category": "Zahnpflege",
+    "subtype": "Zahncreme",
+    "subcategories": ["Komplett", "Extra Frisch"]
+  },
+  {
+    "store": "billa",
+    "id": "00-292210",
+    "name": "Colgate Zahncreme Max White Optic",
+    "category": "Zahnpflege",
+    "subtype": "Zahncreme",
+    "subcategories": ["Max White Optic"]
+  },
+  {
+    "store": "billa",
+    "id": "00-419457",
+    "name": "Corega Haftcreme Frisch",
+    "category": "Zahnpflege",
+    "subtype": "Haftcreme",
+    "subcategories": ["Frisch"]
+  },
+  {
+    "store": "billa",
+    "id": "00-866867",
+    "name": "Dr. Best  Zahnbürste Atemfrisch Mittel",
+    "category": "Zahnpflege",
+    "subtype": "Zahnbürste",
+    "subcategories": ["Atemfrisch", "Mittel"]
+  },
+  {
+    "store": "billa",
+    "id": "00-622739",
+    "name": "Dr. Best Hoch-Tief Mittel",
+    "category": "Zahnpflege",
+    "subtype": "Zahnbürste",
+    "subcategories": ["Hoch-Tief"]
+  },
+  {
+    "store": "billa",
+    "id": "00-622737",
+    "name": "Dr. Best Hoch-Tief Weich",
+    "category": "Zahnpflege",
+    "subtype": "Zahnbürste",
+    "subcategories": ["Hoch-Tief"]
+  },
+  {
+    "store": "billa",
+    "id": "00-629451",
+    "name": "Dr. Best Interdent Aktiv Mittel",
+    "category": "Zahnpflege",
+    "subtype": "Interdent",
+    "subcategories": ["Aktiv"]
+  },
+  {
+    "store": "billa",
+    "id": "00-510743",
+    "name": "Dr. Best Interndentalbürsten GreenClean Gr. 0",
+    "category": "Zahnpflege",
+    "subtype": "Interdentalbürsten",
+    "subcategories": ["GreenClean", "Gr. 0"]
+  },
+  {
+    "store": "billa",
+    "id": "00-510748",
+    "name": "Dr. Best Interndentalbürsten GreenClean Gr. 2",
+    "category": "Zahnpflege",
+    "subtype": "Interdentalbürsten",
+    "subcategories": ["GreenClean", "Gr. 2"]
+  },
+  {
+    "store": "billa",
+    "id": "00-510752",
+    "name": "Dr. Best Interndentalbürsten GreenClean Gr. 3",
+    "category": "Zahnpflege",
+    "subtype": "Interdentalbürsten",
+    "subcategories": ["GreenClean", "Gr. 3"]
+  },
+  {
+    "store": "billa",
+    "id": "00-862927",
+    "name": "Dr. Best Original Mittel 2+1gratis",
+    "category": "Zahnpflege",
+    "subtype": "Zahnbürste",
+    "subcategories": ["Original"]
+  },
+  {
+    "store": "billa",
+    "id": "00-407209",
+    "name": "Dr. Best Schwingkopf Weich",
+    "category": "Zahnpflege",
+    "subtype": "Zahnbürste",
+    "subcategories": ["Schwingkopf"]
+  },
+  {
+    "store": "billa",
+    "id": "00-904764",
+    "name": "Dr. Best Zwischenzahn Mittel",
+    "category": "Zahnpflege",
+    "subtype": "Zwischenzahn",
+    "subcategories": []
+  },
+  {
+    "store": "billa",
+    "id": "00-712524",
+    "name": "Elmex Intensivreinigung",
+    "category": "Zahnpflege",
+    "subcategory": "Zahncreme",
+    "subcategories": ["Intensivreinigung"]
+  },
+  {
+    "store": "billa",
+    "id": "00-844057",
+    "name": "Elmex Junior Zahnspülung",
+    "category": "Mundpflege",
+    "subtype": "Zahnspülung",
+    "subcategories": ["Junior"]
+  },
+  {
+    "store": "billa",
+    "id": "00-860993",
+    "name": "Elmex Kariesschutz Mittel Kurzkopf Zahnbürste",
+    "category": "Zahnpflege",
+    "subcategories": ["Kariesschutz", "Mittel Kurzkopf"]
+  },
+  {
+    "store": "billa",
+    "id": "00-404897",
+    "name": "Elmex Kariesschutz Zahnspülung",
+    "category": "Mundpflege",
+    "subtype": "Zahnspülung",
+    "subcategories": ["Kariesschutz"]
+  },
+  {
+    "store": "billa",
+    "id": "00-887453",
+    "name": "Elmex Kinderzahnbürste",
+    "category": "Zahnpflege",
+    "subtype": "Zahnbürste",
+    "subcategories": ["Kinder"]
+  },
+  {
+    "store": "billa",
+    "id": "00-774462",
+    "name": "Elmex Lernzahnbürste",
+    "category": "Zahnpflege",
+    "subtype": "Zahnbürste",
+    "subcategories": ["Lernzahnbürste"]
+  },
+  {
+    "store": "billa",
+    "id": "00-499628",
+    "name": "Elmex Opti-Schmelz Zahncreme",
+    "category": "Zahnpflege",
+    "subtype": "Zahncreme",
+    "subcategories": ["Opti-Schmelz"]
+  },
+  {
+    "store": "billa",
+    "id": "00-737379",
+    "name": "Elmex Opti-schmelz Zahnspülung",
+    "category": "Mundpflege",
+    "subtype": "Zahnspülung",
+    "subcategories": ["Opti-schmelz"]
+  },
+  {
+    "store": "billa",
+    "id": "00-512657",
+    "name": "Elmex Repair & Prevent",
+    "category": "Zahnpflege",
+    "subcategories": ["Repair & Prevent"]
+  },
+  {
+    "store": "billa",
+    "id": "00-708769",
+    "name": "Elmex Sensitive Professional SW",
+    "category": "Zahnpflege",
+    "subtype": "Zahncreme",
+    "subcategories": ["Sensitive Professional"]
+  },
+  {
+    "store": "billa",
+    "id": "00-885231",
+    "name": "Elmex Sensitive Sanftes Weiß",
+    "category": "Zahnpflege",
+    "subtype": "Zahncreme",
+    "subcategories": ["Sensitive", "Sanftes Weiß"]
+  },
+  {
+    "store": "billa",
+    "id": "00-860151",
+    "name": "Elmex Sensitive Zahnspülung",
+    "category": "Mundpflege",
+    "subtype": "Zahnspülung",
+    "subcategories": ["Sensitive"]
+  },
+  {
+    "store": "billa",
+    "id": "00-887458",
+    "name": "Elmex Zahnbürste Junior",
+    "category": "Zahnpflege",
+    "subtype": "Zahnbürste",
+    "subcategories": ["Junior"]
+  },
+  {
+    "store": "billa",
+    "id": "00-902771",
+    "name": "Elmex Zahncreme Junior",
+    "category": "Zahnpflege",
+    "subtype": "Zahncreme",
+    "subcategories": ["Junior"]
+  },
+  {
+    "store": "billa",
+    "id": "00-401484",
+    "name": "Elmex Zahncreme Kariesschutz",
+    "category": "Zahnpflege",
+    "subtype": "Zahncreme",
+    "subcategories": ["Kariesschutz"]
+  },
+  {
+    "store": "billa",
+    "id": "00-467905",
+    "name": "Elmex Zahncreme Kinder",
+    "category": "Zahnpflege",
+    "subtype": "Zahncreme",
+    "subcategories": ["Kinder"]
+  },
+  {
+    "store": "billa",
+    "id": "00-401490",
+    "name": "Elmex Zahncreme Sensitive",
+    "category": "Zahnpflege",
+    "subtype": "Zahncreme",
+    "subcategories": ["Sensitive"]
+  },
+  {
+    "store": "billa",
+    "id": "00-668184",
+    "name": "Elmex Zahncreme Sensitive Professional",
+    "category": "Zahnpflege",
+    "subtype": "Zahncreme",
+    "subcategories": ["Sensitive Professional"]
+  },
+  {
+    "store": "billa",
+    "id": "00-11471",
+    "name": "Kukident Haftcreme Extra Stark",
+    "category": "Zahnpflege",
+    "subtype": "Haftcreme",
+    "subcategories": ["Extra Stark"]
+  },
+  {
+    "store": "billa",
+    "id": "00-900990",
+    "name": "Kukident Haftcreme Extra Stark",
+    "category": "Zahnpflege",
+    "subtype": "Haftcreme",
+    "subcategories": ["Extra Stark"]
+  },
+  {
+    "store": "billa",
+    "id": "00-857692",
+    "name": "Kukident Haftcreme Neutral",
+    "category": "Zahnpflege",
+    "subtype": "Haftcreme",
+    "subcategories": ["Neutral"]
+  },
+  {
+    "store": "billa",
+    "id": "00-614995",
+    "name": "Kukident Reinigungstabs Complete",
+    "category": "Zahnpflege",
+    "subcategories": ["Reinigungstabs", "Complete"]
+  },
+  {
+    "store": "billa",
+    "id": "00-615853",
+    "name": "Kukident Reinigungstabs Langanhaltendes Frischegefühl",
+    "category": "Zahnpflege",
+    "subcategory": "Reinigungstabs",
+    "subcategories": ["Langanhaltendes Frischegefühl"]
+  },
+  {
+    "store": "billa",
+    "id": "00-646478",
+    "name": "Kukident Super Haftcreme Bester Halt",
+    "category": "Zahnpflege",
+    "subtype": "Haftcreme",
+    "subcategories": ["Super", "Bester Halt"]
+  },
+  {
+    "store": "billa",
+    "id": "00-872147",
+    "name": "Kukident Superhaftcreme Krümelschutz",
+    "category": "Zahnpflege",
+    "subtype": "Haftcreme",
+    "subcategories": ["Superhaftcreme", "Krümelschutz"]
+  },
+  {
+    "store": "billa",
+    "id": "00-309534",
+    "name": "Listerine Advanced White Mundspülung",
+    "category": "Mundpflege",
+    "subtype": "Mundspülung",
+    "subcategories": ["Advanced White"]
+  },
+  {
+    "store": "billa",
+    "id": "00-398002",
+    "name": "Listerine Cool Mint Mundspülung",
+    "category": "Mundpflege",
+    "subtype": "Mundspülung",
+    "subcategories": ["Cool Mint"]
+  },
+  {
+    "store": "billa",
+    "id": "00-672124",
+    "name": "Listerine Total Care Sensitive Mundspülung",
+    "category": "Mundpflege",
+    "subtype": "Mundspülung",
+    "subcategories": ["Total Care Sensitive"]
+  },
+  {
+    "store": "billa",
+    "id": "00-672127",
+    "name": "Listerine Total Care Zahn-Schutz Mundspülung",
+    "category": "Mundpflege",
+    "subtype": "Mundspülung",
+    "subcategories": ["Total Care", "Zahn-Schutz"]
+  },
+  {
+    "store": "billa",
+    "id": "00-479755",
+    "name": "Listerine Total Care Zahnfleisch-Schutz Mundspülung",
+    "category": "Mundpflege",
+    "subtype": "Mundspülung",
+    "subcategories": ["Total Care", "Zahnfleisch-Schutz"]
+  }
+]

@@ -1,0 +1,702 @@
+[
+    {
+        "store": "spar",
+        "id": "2020004580467",
+        "name": "SPAR Feinstes Geflügel Maishendl Keulen-Schnitzerl",
+        "category": "Geflügel",
+        "subcategories": ["Hendl", "Maishendl", "Keulen-Schnitzerl"]
+    },
+    {
+        "store": "spar",
+        "id": "2020004581778",
+        "name": "SPAR Feinstes Geflügel Maishendl Oberkeulen",
+        "category": "Geflügel",
+        "subcategories": ["Hendl", "Maishendl", "Oberkeulen"]
+    },
+    {
+        "store": "spar",
+        "id": "2020004643575",
+        "name": "SPAR Feinstes Geflügel Maishendl Suppenjunges",
+        "category": "Geflügel",
+        "subcategories": ["Hendl", "Maishendl", "Suppenjunges"]
+    },
+    {
+        "store": "spar",
+        "id": "2020004580719",
+        "name": "SPAR Feinstes Geflügel Maishendl Unterkeulen",
+        "category": "Geflügel",
+        "subcategories": ["Hendl", "Maishendl", "Unterkeulen"]
+    },
+    {
+        "store": "spar",
+        "id": "4878476",
+        "name": "SPAR Feinstes Geflügel Poularde",
+        "category": "Geflügel",
+        "subcategories": ["Geflügel", "Poularde"]
+    },
+    {
+        "store": "spar",
+        "id": "4878483",
+        "name": "SPAR Feinstes Geflügel Poularde",
+        "category": "Geflügel",
+        "subcategories": ["Geflügel", "Poularde"]
+    },
+    {
+        "store": "spar",
+        "id": "2020004165145",
+        "name": "SPAR Feinstes Geflügel Puten Rollbraten",
+        "category": "Geflügel",
+        "subcategories": ["Geflügel", "Puten", "Rollbraten"]
+    },
+    {
+        "store": "spar",
+        "id": "2020002970413",
+        "name": "SPAR Feinstes Geflügel schaut drauf Hendl Ministeaks Für mehr Tierwohl",
+        "category": "Geflügel",
+        "subcategories": ["Hendl", "Ministeaks"]
+    },
+    {
+        "store": "spar",
+        "id": "2020002970468",
+        "name": "SPAR Feinstes Geflügel schaut drauf Hendl Unterkeule Für mehr Tierwohl",
+        "category": "Geflügel",
+        "subcategories": ["Hendl", "Unterkeule"]
+    },
+    {
+        "store": "spar",
+        "id": "2020002968854",
+        "name": "SPAR Feinstes Geflügel schaut drauf Hendlfilet Für mehr Tierwohl",
+        "category": "Geflügel",
+        "subcategories": ["Hendl", "Hendlfilet"]
+    },
+    {
+        "store": "spar",
+        "id": "2020004154835",
+        "name": "SPAR Feta aus Griechenland",
+        "category": "Feta",
+        "subcategories": ["Käse", "Feta", "Griechenland"]
+    },
+    {
+        "store": "spar",
+        "id": "8185624",
+        "name": "SPAR Feine Küche Jauseneier gekocht & gefärbt mit 1g Salz beigelegt",
+        "category": "Eier",
+        "subcategories": ["Jauseneier", "gekocht", "Salz"]
+    },
+    {
+        "store": "spar",
+        "id": "8198433",
+        "name": "SPAR Feines Butterschmalz",
+        "category": "Butterschmalz",
+        "subcategories": ["Fett", "Schmalz", "Butterschmalz"]
+    },
+    {
+        "store": "spar",
+        "id": "2020002513887",
+        "name": "SPAR Fischgenuss Goldbrasse",
+        "category": "Fisch",
+        "subcategories": ["Goldbrasse", "Fisch"]
+    },
+    {
+        "store": "spar",
+        "id": "2020004013743",
+        "name": "SPAR Erdbeeren tiefgekühlt",
+        "category": "Erdbeeren",
+        "subcategories": ["Obst", "Erdbeeren", "tiefgekühlt"]
+    },
+    {
+        "store": "spar",
+        "id": "5160969",
+        "name": "SPAR Farmergemüse",
+        "category": "Gemüse",
+        "subcategories": ["Gemüse", "Farmergemüse"]
+    },
+    {
+        "store": "spar",
+        "id": "3562215",
+        "name": "SPAR Fisolen geschnitten",
+        "category": "Gemüse",
+        "subcategories": ["Gemüse", "Fisolen"]
+    },
+    {
+        "store": "spar",
+        "id": "2020002694999",
+        "name": "SPAR Feine Küche Cordon Bleu gebacken 3 Stück",
+        "category": "Cordon Bleu",
+        "subcategories": ["Fleisch", "Cordon Bleu", "gebacken"]
+    },
+    {
+        "store": "spar",
+        "id": "1817928",
+        "name": "SPAR Feine Küche Grammelknödel 4 Stück",
+        "category": "Knödel",
+        "subcategories": ["Knödel", "Grammelknödel"]
+    },
+    {
+        "store": "spar",
+        "id": "4719588",
+        "name": "SPAR Feine Küche Grießnockerl ca. 10 Stück",
+        "category": "Knödel",
+        "subcategories": ["Knödel", "Grießnockerl"]
+    },
+    {
+        "store": "spar",
+        "id": "1817911",
+        "name": "SPAR Feine Küche Hascheeknödel 4 Stück",
+        "category": "Knödel",
+        "subcategories": ["Knödel", "Hascheeknödel"]
+    },
+    {
+        "store": "spar",
+        "id": "2020002846138",
+        "name": "SPAR Feine Küche Hühner Cordon Bleu paniert",
+        "category": "Cordon Bleu",
+        "subcategories": ["Fleisch", "Cordon Bleu", "paniert"]
+    },
+    {
+        "store": "spar",
+        "id": "2020002115302",
+        "name": "SPAR Feine Küche Hühnerschnitzel paniert",
+        "category": "Schnitzel",
+        "subcategories": ["Fleisch", "Schnitzel", "paniert"]
+    },
+    {
+        "store": "spar",
+        "id": "2020000585756",
+        "name": "SPAR Feine Küche Leberknödel 6 Stück 300g Packung",
+        "category": "Knödel",
+        "subcategories": ["Knödel", "Leberknödel"]
+    },
+    {
+        "store": "spar",
+        "id": "1818017",
+        "name": "SPAR Feine Küche Mini Tirolerknödel 6 Stück",
+        "category": "Knödel",
+        "subcategories": ["Knödel", "Mini Tirolerknödel"]
+    },
+    {
+        "store": "spar",
+        "id": "2020002484040",
+        "name": "SPAR Feine Küche Nougatknödel 6 Stück",
+        "category": "Knödel",
+        "subcategories": ["Knödel", "Nougatknödel"]
+    },
+    {
+        "store": "spar",
+        "id": "2020002116828",
+        "name": "SPAR Feine Küche Puten Cordon Bleu paniert",
+        "category": "Cordon Bleu",
+        "subcategories": ["Fleisch", "Cordon Bleu", "paniert"]
+    },
+    {
+        "store": "spar",
+        "id": "2020002115326",
+        "name": "SPAR Feine Küche Putenschnitzel paniert",
+        "category": "Schnitzel",
+        "subcategories": ["Fleisch", "Schnitzel", "paniert"]
+    },
+    {
+        "store": "spar",
+        "id": "1817959",
+        "name": "SPAR Feine Küche Selchfleischknödel 4 Stück",
+        "category": "Knödel",
+        "subcategories": ["Knödel", "Selchfleischknödel"]
+    },
+    {
+        "store": "spar",
+        "id": "1817881",
+        "name": "SPAR Feine Küche Semmelknödel 4 Stück",
+        "category": "Knödel",
+        "subcategories": ["Knödel", "Semmelknödel"]
+    },
+    {
+        "store": "spar",
+        "id": "1817973",
+        "name": "SPAR Feine Küche Spinatknödel mit Emmentaler aus Heumilch 4 Stück",
+        "category": "Knödel",
+        "subcategories": ["Knödel", "Spinatknödel"]
+    },
+    {
+        "store": "spar",
+        "id": "2020002087463",
+        "name": "SPAR Feine Küche Wiener Schnitzel vom Schwein vorgebacken",
+        "category": "Schnitzel",
+        "subcategories": ["Fleisch", "Schnitzel", "vorgebacken"]
+    },
+    {
+        "store": "spar",
+        "id": "1817980",
+        "name": "SPAR Feine Küche Wurstknödel 4 Stück",
+        "category": "Knödel",
+        "subcategories": ["Knödel", "Wurstknödel"]
+    },
+    {
+        "store": "spar",
+        "id": "2020001075355",
+        "name": "SPAR Fischstäbchen 10 Stück 300g Packung",
+        "category": "Fisch",
+        "subcategories": ["Fisch", "Fischstäbchen"]
+    },
+    {
+        "store": "spar",
+        "id": "7033919",
+        "name": "SPAR Fischstäbchen 15 Stück 450g Packung",
+        "category": "Fisch",
+        "subcategories": ["Fisch", "Fischstäbchen"]
+    },
+    {
+        "store": "spar",
+        "id": "2020002485399",
+        "name": "SPAR Feine Küche Erdbeer-Topfen-Knödel 6 Stück",
+        "category": "Knödel",
+        "subcategories": ["Knödel", "Erdbeer-Topfen-Knödel"]
+    },
+    {
+        "store": "spar",
+        "id": "7520976",
+        "name": "SPAR Feine Küche Germknödel 2 Stück",
+        "category": "Knödel",
+        "subcategories": ["Knödel", "Germknödel"]
+    },
+    {
+        "store": "spar",
+        "id": "2020003539701",
+        "name": "SPAR Feine Küche Himbeer-Topfen-Knödel 6 Stück",
+        "category": "Knödel",
+        "subcategories": ["Knödel", "Himbeer-Topfen-Knödel"]
+    },
+    {
+        "store": "spar",
+        "id": "2020001155675",
+        "name": "SPAR Feine Küche Marillenknödel 5 Stück",
+        "category": "Knödel",
+        "subcategories": ["Knödel", "Marillenknödel"]
+    },
+    {
+        "store": "spar",
+        "id": "2020001987153",
+        "name": "SPAR Feine Küche Mohnnudeln mit Mohn-Zuckermischung",
+        "category": "Mohnnudeln",
+        "subcategories": ["Süßspeise", "Mohnnudeln"]
+    },
+    {
+        "store": "spar",
+        "id": "2020001894840",
+        "name": "SPAR Feine Küche Topfenknödel mit Brösel-Zucker-Gemisch 5 Stück",
+        "category": "Knödel",
+        "subcategories": ["Knödel", "Topfenknödel"]
+    },
+    {
+        "store": "spar",
+        "id": "2020002881290",
+        "name": "SPAR Feine Küche Zwetschkenknödel mit Zuckerherz 4 Stück",
+        "category": "Knödel",
+        "subcategories": ["Knödel", "Zwetschkenknödel"]
+    },
+    {
+        "store": "spar",
+        "id": "2020004383341",
+        "name": "SPAR Farbpaste rot, gelb, grün, blau 4x10g",
+        "category": "Farbpaste",
+        "subcategories": ["Lebensmittelfarbe", "rot", "gelb", "grün", "blau"]
+    },
+    {
+        "store": "spar",
+        "id": "1472394",
+        "name": "SPAR Feine Marzipanrohmasse 200G",
+        "category": "Marzipan",
+        "subcategories": ["Backzutat", "Marzipan"]
+    },
+    {
+        "store": "spar",
+        "id": "2779676",
+        "name": "SPAR Erbsen mit Karotten",
+        "category": "Gemüse",
+        "subcategories": ["Gemüse", "Erbsen", "Karotten"]
+    },
+    {
+        "store": "spar",
+        "id": "176927",
+        "name": "SPAR Erbsen mit Karotten",
+        "category": "Gemüse",
+        "subcategories": ["Gemüse", "Erbsen", "Karotten"]
+    },
+    {
+        "store": "spar",
+        "id": "2020002889623",
+        "name": "SPAR Feine Buchstaben-Suppen Buchstaben für 4 Teller",
+        "category": "Suppe",
+        "subcategories": ["Buchstabensuppe", "Buchstaben"]
+    },
+    {
+        "store": "spar",
+        "id": "2020002889869",
+        "name": "SPAR Feine Feine Eiermuschel-Suppe Eiermuschel für 4 Teller",
+        "category": "Suppe",
+        "subcategories": ["Eiermuschelsuppe", "Eiermuschel"]
+    },
+    {
+        "store": "spar",
+        "id": "2020002890162",
+        "name": "SPAR Feine Feine Grießnockerl-Suppe Griesnockerl für 3 Teller",
+        "category": "Suppe",
+        "subcategories": ["Grießnockerlsuppe", "Grießnockerl"]
+    },
+    {
+        "store": "spar",
+        "id": "2020002890070",
+        "name": "SPAR Feine Feine Knoblauchcreme-Suppe Knoblauchcreme für 3 Teller",
+        "category": "Suppe",
+        "subcategories": ["Knoblauchcremesuppe", "Knoblauchcreme"]
+    },
+    {
+        "store": "spar",
+        "id": "2020002890278",
+        "name": "SPAR Feine Feine Kürbiscreme-Suppe Kürbiscreme für 3 Teller",
+        "category": "Suppe",
+        "subcategories": ["Kürbiscremesuppe", "Kürbiscreme"]
+    },
+    {
+        "store": "spar",
+        "id": "2020002890018",
+        "name": "SPAR Feine Feine Tomatencreme-Suppe Tomaten  für 3 Teller",
+        "category": "Suppe",
+        "subcategories": ["Tomatencremesuppe", "Tomatencreme"]
+    },
+    {
+        "store": "spar",
+        "id": "2020002887445",
+        "name": "SPAR Feine Fleischklößchen-Suppe Fleischklößchen für 4 Teller",
+        "category": "Suppe",
+        "subcategories": ["Fleischklößchensuppe", "Fleischklößchen"]
+    },
+    {
+        "store": "spar",
+        "id": "2020002889784",
+        "name": "SPAR Feine Frühlings-Suppe Frühlings 4 Teller",
+        "category": "Suppe",
+        "subcategories": ["Frühlingssuppe", "Frühling"]
+    },
+    {
+        "store": "spar",
+        "id": "2020002889906",
+        "name": "SPAR Feine Gemüsecreme-Suppe Gemüsecreme für 4 Teller",
+        "category": "Suppe",
+        "subcategories": ["Gemüsecremesuppe", "Gemüsecreme"]
+    },
+    {
+        "store": "spar",
+        "id": "2020002889500",
+        "name": "SPAR Feine Nudel-Suppe Nudel für 4 Teller",
+        "category": "Suppe",
+        "subcategories": ["Nudelsuppe", "Nudel"]
+    },
+    {
+        "store": "spar",
+        "id": "2020002887131",
+        "name": "SPAR Feine Waldpilzcreme-Suppe Waldpilzcreme für 3 Teller",
+        "category": "Suppe",
+        "subcategories": ["Waldpilzcremesuppe", "Waldpilzcreme"]
+    },
+    {
+        "store": "spar",
+        "id": "2020001181940",
+        "name": "SPAR Estragon Senf würzig - scharf",
+        "category": "Senf",
+        "subcategories": ["Gewürz", "Senf", "Estragon", "würzig", "scharf"]
+    },
+    {
+        "store": "spar",
+        "id": "2020001033751",
+        "name": "SPAR Erdnuss-Cashew-Chili-Mix",
+        "category": "Nüsse",
+        "subcategories": ["Nüsse", "Erdnuss", "Cashew", "Chili", "Mix"]
+    },
+    {
+        "store": "spar",
+        "id": "2020003524851",
+        "name": "SPAR Erdnüsse geröstet & gesalzen",
+        "category": "Nüsse",
+        "subcategories": ["Nüsse", "Erdnüsse", "geröstet", "gesalzen"]
+    },
+    {
+        "store": "spar",
+        "id": "8201034",
+        "name": "SPAR Erdnüsse geröstet & gesalzen",
+        "category": "Nüsse",
+        "subcategories": ["Nüsse", "Erdnüsse", "geröstet", "gesalzen"]
+    },
+    {
+        "store": "spar",
+        "id": "2020002481445",
+        "name": "SPAR Feine Butterwaffeln",
+        "category": "Waffeln",
+        "subcategories": ["Süßspeise", "Waffeln", "Butterwaffeln"]
+    },
+    {
+        "store": "spar",
+        "id": "2020003904530",
+        "name": "SPAR Eiswürfelbeutel 12x9",
+        "category": "Eiswürfel",
+        "subcategories": ["Kühlung", "Eiswürfel", "Eiswürfelbeutel"]
+    },
+    {
+        "store": "spar",
+        "id": "2020003904554",
+        "name": "SPAR Eiswürfelform 12x18",
+        "category": "Eiswürfel",
+        "subcategories": ["Kühlung", "Eiswürfel", "Eiswürfelform"]
+    },
+    {
+        "store": "spar",
+        "id": "2020002452988",
+        "name": "SPAR Fenchel per Tasse",
+        "category": "Gemüse",
+        "subcategories": ["Gemüse", "Fenchel"]
+    },
+    {
+        "store": "spar",
+        "id": "6643393",
+        "name": "SPAR Granatapfel",
+        "category": "Obst",
+        "subcategories": ["Obst", "Granatapfel"]
+    },
+    {
+        "store": "spar",
+        "id": "6681654",
+        "name": "SPAR Grapefruit",
+        "category": "Obst",
+        "subcategories": ["Obst", "Grapefruit"]
+    },
+    {
+        "store": "spar",
+        "id": "6713829",
+        "name": "SPAR Honigmelone saftig, süß",
+        "category": "Obst",
+        "subcategories": ["Obst", "Honigmelone"]
+    },
+    {
+        "store": "spar",
+        "id": "6666774",
+        "name": "SPAR Kirschen per Tasse",
+        "category": "Obst",
+        "subcategories": ["Obst", "Kirschen"]
+    },
+    {
+        "store": "spar",
+        "id": "6644505",
+        "name": "SPAR Kirschen per kg",
+        "category": "Obst",
+        "subcategories": ["Obst", "Kirschen"]
+    },
+    {
+        "store": "spar",
+        "id": "2020004210357",
+        "name": "SPAR Bio-Champignon crema",
+        "category": "Pilze",
+        "subcategories": ["Pilze", "Champignon", "Bio"]
+    },
+    {
+        "store": "spar",
+        "id": "2020002874186",
+        "name": "SPAR Blattspinat",
+        "category": "Gemüse",
+        "subcategories": ["Gemüse", "Blattspinat"]
+    },
+    {
+        "store": "spar",
+        "id": "6647247",
+        "name": "SPAR Broccoli",
+        "category": "Gemüse",
+        "subcategories": ["Gemüse", "Broccoli"]
+    },
+    {
+        "store": "spar",
+        "id": "2020003410741",
+        "name": "SPAR Burger Salat Eisbergsalat",
+        "category": "Gemüse",
+        "subcategories": ["Gemüse", "Salat", "Eisbergsalat"]
+    },
+    {
+        "store": "spar",
+        "id": "6671303",
+        "name": "SPAR Champignons weiß",
+        "category": "Pilze",
+        "subcategories": ["Pilze", "Champignons", "weiß"]
+    },
+    {
+        "store": "spar",
+        "id": "6666521",
+        "name": "SPAR Champignons weiß",
+        "category": "Pilze",
+        "subcategories": ["Pilze", "Champignons", "weiß"]
+    },
+    {
+        "store": "spar",
+        "id": "2628158",
+        "name": "SPAR Cherrytomaten",
+        "category": "Gemüse",
+        "subcategories": ["Gemüse", "Cherrytomaten"]
+    },
+    {
+        "store": "spar",
+        "id": "2816661",
+        "name": "SPAR Dille",
+        "category": "Gewürz",
+        "subcategories": ["Gewürz", "Dille"]
+    },
+    {
+        "store": "spar",
+        "id": "6671525",
+        "name": "SPAR Eierschwammerl per kg",
+        "category": "Pilze",
+        "subcategories": ["Pilze", "Eierschwammerl"]
+    },
+    {
+        "store": "spar",
+        "id": "6683139",
+        "name": "SPAR Eisbergsalat",
+        "category": "Gemüse",
+        "subcategories": ["Gemüse", "Salat", "Eisbergsalat"]
+    },
+    {
+        "store": "spar",
+        "id": "8198228",
+        "name": "SPAR Fisolen grün",
+        "category": "Gemüse",
+        "subcategories": ["Gemüse", "Fisolen", "grün"]
+    },
+    {
+        "store": "spar",
+        "id": "6707644",
+        "name": "SPAR Gurke",
+        "category": "Gemüse",
+        "subcategories": ["Gemüse", "Gurke"]
+    },
+    {
+        "store": "spar",
+        "id": "6697921",
+        "name": "SPAR Gurken Midi",
+        "category": "Gemüse",
+        "subcategories": ["Gemüse", "Gurken", "Midi"]
+    },
+    {
+        "store": "spar",
+        "id": "6978068",
+        "name": "SPAR Gurkensalat in Sauerrahm-Dressing",
+        "category": "Salat",
+        "subcategories": ["Salat", "Gurkensalat", "Sauerrahm-Dressing"]
+    },
+    {
+        "store": "spar",
+        "id": "2020002693893",
+        "name": "SPAR Junger Blattspinat",
+        "category": "Gemüse",
+        "subcategories": ["Gemüse", "Blattspinat"]
+    },
+    {
+        "store": "spar",
+        "id": "2020002693732",
+        "name": "SPAR Jungsalat Mix",
+        "category": "Salat",
+        "subcategories": ["Salat", "Jungsalat"]
+    },
+    {
+        "store": "spar",
+        "id": "6640040",
+        "name": "SPAR Jungzwiebel per Bund",
+        "category": "Gemüse",
+        "subcategories": ["Gemüse", "Jungzwiebel"]
+    },
+    {
+        "store": "spar",
+        "id": "6666484",
+        "name": "SPAR Karfiol",
+        "category": "Gemüse",
+        "subcategories": ["Gemüse", "Karfiol"]
+    },
+    {
+        "store": "spar",
+        "id": "6641108",
+        "name": "SPAR Karotten mit Grün Bund",
+        "category": "Gemüse",
+        "subcategories": ["Gemüse", "Karotten"]
+    },
+    {
+        "store": "spar",
+        "id": "7996955",
+        "name": "SPAR Kartoffel Heurige",
+        "category": "Kartoffeln",
+        "subcategories": ["Gemüse", "Kartoffeln", "Heurige"]
+    },
+    {
+        "store": "spar",
+        "id": "6978006",
+        "name": "SPAR Kartoffelsalat mit Essig und Öl",
+        "category": "Salat",
+        "subcategories": ["Salat", "Kartoffelsalat"]
+    },
+    {
+        "store": "spar",
+        "id": "6840181",
+        "name": "SPAR Knoblauch",
+        "category": "Gemüse",
+        "subcategories": ["Gemüse", "Knoblauch"]
+    },
+    {
+        "store": "spar",
+        "id": "6666682",
+        "name": "SPAR Kohl per kg",
+        "category": "Gemüse",
+        "subcategories": ["Gemüse", "Kohl"]
+    },
+    {
+        "store": "spar",
+        "id": "6648428",
+        "name": "SPAR Kopfsalat rot",
+        "category": "Gemüse",
+        "subcategories": ["Gemüse", "Salat", "Kopfsalat", "rot"]
+    },
+    {
+        "store": "spar",
+        "id": "6178802",
+        "name": "SPAR Koriander frisch",
+        "category": "Gewürz",
+        "subcategories": ["Gewürz", "Koriander"]
+    },
+    {
+        "store": "spar",
+        "id": "6978037",
+        "name": "SPAR Krautsalat mit Speck",
+        "category": "Salat",
+        "subcategories": ["Salat", "Krautsalat", "Speck"]
+    },
+    {
+        "store": "spar",
+        "id": "2020002748333",
+        "name": "SPAR Kren foliert Stk",
+        "category": "Gemüse",
+        "subcategories": ["Gemüse", "Kren"]
+    },
+    {
+        "store": "spar",
+        "id": "3813089",
+        "name": "SPAR Datteln entsteint und verzehrfertig",
+        "category": "Trockenfrüchte",
+        "subcategories": ["Trockenfrüchte", "Datteln"]
+    },
+    {
+        "store": "spar",
+        "id": "203159",
+        "name": "SPAR Graumohn",
+        "category": "Backzutat",
+        "subcategories": ["Backzutat", "Graumohn"]
+    },
+    {
+        "store": "spar",
+        "id": "3588642",
+        "name": "SPAR Haselnüsse gerieben & geröstet",
+        "category": "Nüsse",
+        "subcategories": ["Nüsse", "Haselnüsse", "gerieben", "geröstet"]
+    }
+]

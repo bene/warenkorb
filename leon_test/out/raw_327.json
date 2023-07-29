@@ -1,0 +1,702 @@
+[
+    {
+        "store": "spar",
+        "id": "160285",
+        "name": "Gillette Rasiergel Empfindliche Haut 200ml",
+        "category": "Rasiergel",
+        "subcategories": ["Rasierschaum"]
+    },
+    {
+        "store": "spar",
+        "id": "2020004250483",
+        "name": "Gillette Rasiergel Labs / Seetang 198ml",
+        "category": "Rasiergel",
+        "subcategories": ["Rasierschaum"]
+    },
+    {
+        "store": "spar",
+        "id": "2020004363800",
+        "name": "Gillette Rasiergel Originalduft 200ml",
+        "category": "Rasiergel",
+        "subcategories": ["Rasierschaum"]
+    },
+    {
+        "store": "spar",
+        "id": "7433207",
+        "name": "Gillette Rasierklingen ProGlide 4 Stück",
+        "category": "Rasierklingen",
+        "subcategories": []
+    },
+    {
+        "store": "spar",
+        "id": "2020003974403",
+        "name": "Gillette Rasierklingen ProGlide 8 + 2 Stück",
+        "category": "Rasierklingen",
+        "subcategories": []
+    },
+    {
+        "store": "spar",
+        "id": "6783396",
+        "name": "Gillette Rasierklingen ProGlide 8 Stück",
+        "category": "Rasierklingen",
+        "subcategories": []
+    },
+    {
+        "store": "spar",
+        "id": "4683278",
+        "name": "Gillette Rasierschaum Empfindliche Haut 200ml",
+        "category": "Rasierschaum",
+        "subcategories": ["Rasiergel"]
+    },
+    {
+        "store": "spar",
+        "id": "2020004250537",
+        "name": "Gillette Rasierschaum Labs / Seetang 240ml",
+        "category": "Rasierschaum",
+        "subcategories": ["Rasiergel"]
+    },
+    {
+        "store": "spar",
+        "id": "2020004363824",
+        "name": "Gillette Rasierschaum Limettenduft 200ml",
+        "category": "Rasierschaum",
+        "subcategories": ["Rasiergel"]
+    },
+    {
+        "store": "spar",
+        "id": "4683285",
+        "name": "Gillette Rasierschaum Normale Haut 300ml",
+        "category": "Rasierschaum",
+        "subcategories": ["Rasiergel"]
+    },
+    {
+        "store": "spar",
+        "id": "2020002993245",
+        "name": "Gillette Satin Care Rasiergel Empfindliche Haut 2 x 200ml",
+        "category": "Rasiergel",
+        "subcategories": ["Rasierschaum"]
+    },
+    {
+        "store": "spar",
+        "id": "4520221",
+        "name": "Gillette Satin Care Rasiergel Empfindliche Haut 200ml",
+        "category": "Rasiergel",
+        "subcategories": ["Rasierschaum"]
+    },
+    {
+        "store": "spar",
+        "id": "2020001455799",
+        "name": "Gillette Satin Care Rasiergel Empfindliche Haut 75ml",
+        "category": "Rasiergel",
+        "subcategories": ["Rasierschaum"]
+    },
+    {
+        "store": "spar",
+        "id": "2020003424403",
+        "name": "Gillette Sensor 3 Einwegrasierer Comfort 4+4 Stück",
+        "category": "Einwegrasierer",
+        "subcategories": []
+    },
+    {
+        "store": "spar",
+        "id": "2020004680655",
+        "name": "Gillette Sensor 3 Einwegrasierer Recycled 8 Stück",
+        "category": "Einwegrasierer",
+        "subcategories": []
+    },
+    {
+        "store": "spar",
+        "id": "3166437",
+        "name": "Gillette Sensor Excel Rasierklingen 10 Stück",
+        "category": "Rasierklingen",
+        "subcategories": []
+    },
+    {
+        "store": "spar",
+        "id": "3106563",
+        "name": "Gillette Sensor Rasierklingen 10 Stück",
+        "category": "Rasierklingen",
+        "subcategories": []
+    },
+    {
+        "store": "spar",
+        "id": "561020",
+        "name": "Gillette Series After Shave Splash Revitalizing 100ml",
+        "category": "After Shave",
+        "subcategories": []
+    },
+    {
+        "store": "spar",
+        "id": "2020002992958",
+        "name": "Gillette Series Rasiergel Sensitiv 2 x 200ml",
+        "category": "Rasiergel",
+        "subcategories": ["Rasierschaum"]
+    },
+    {
+        "store": "spar",
+        "id": "7436130",
+        "name": "Gillette Series Rasiergel Sensitiv 200ml",
+        "category": "Rasiergel",
+        "subcategories": ["Rasierschaum"]
+    },
+    {
+        "store": "spar",
+        "id": "2020001455768",
+        "name": "Gillette Series Rasiergel Sensitiv 75ml",
+        "category": "Rasiergel",
+        "subcategories": ["Rasierschaum"]
+    },
+    {
+        "store": "spar",
+        "id": "2020004719157",
+        "name": "Gillette Series Rasierschaum Sensitive 200ml",
+        "category": "Rasierschaum",
+        "subcategories": ["Rasiergel"]
+    },
+    {
+        "store": "spar",
+        "id": "2099934",
+        "name": "Gillette Simply Venus 2 Einwegrasierer 8 Stück",
+        "category": "Einwegrasierer",
+        "subcategories": []
+    },
+    {
+        "store": "spar",
+        "id": "2020003179044",
+        "name": "Gillette SkinGuard Rasierer Sensitive 1 Stück",
+        "category": "Rasierer",
+        "subcategories": []
+    },
+    {
+        "store": "spar",
+        "id": "2020003254895",
+        "name": "Gillette SkinGuard Rasierer Sensitive 1 Stück",
+        "category": "Rasierer",
+        "subcategories": []
+    },
+    {
+        "store": "spar",
+        "id": "2020003454677",
+        "name": "Gillette SkinGuard Rasierklingen Sensitive 4 Stück",
+        "category": "Rasierklingen",
+        "subcategories": []
+    },
+    {
+        "store": "spar",
+        "id": "2020002824907",
+        "name": "Gillette SkinGuard Rasierklingen Sensitive 8 Stück",
+        "category": "Rasierklingen",
+        "subcategories": []
+    },
+    {
+        "store": "spar",
+        "id": "2020002824921",
+        "name": "Gillette SkinGuard Rasierschaum Sensitive 250ml",
+        "category": "Rasierschaum",
+        "subcategories": ["Rasiergel"]
+    },
+    {
+        "store": "spar",
+        "id": "2020004190659",
+        "name": "Gillette Venus 2-in-1 Reinigungs- & Rasiergel Satin Care 190ml",
+        "category": "Rasiergel",
+        "subcategories": ["Rasierschaum"]
+    },
+    {
+        "store": "spar",
+        "id": "2020004130273",
+        "name": "Gillette Venus Einwegrasierer Dragonfruit 3 Stück",
+        "category": "Einwegrasierer",
+        "subcategories": []
+    },
+    {
+        "store": "spar",
+        "id": "1297850",
+        "name": "Gillette Venus Einwegrasierer Oceana 3 Stück",
+        "category": "Einwegrasierer",
+        "subcategories": []
+    },
+    {
+        "store": "spar",
+        "id": "2020002376239",
+        "name": "Gillette Venus Ersatzklingen Comfortglide Spa Breeze 4 Stück",
+        "category": "Rasierklingen",
+        "subcategories": []
+    },
+    {
+        "store": "spar",
+        "id": "2020004190635",
+        "name": "Gillette Venus Ersatzklingen für den Intimbereich 3 Stück",
+        "category": "Rasierklingen",
+        "subcategories": []
+    },
+    {
+        "store": "spar",
+        "id": "4051077",
+        "name": "Gillette Venus Nassrasierer 1 Stück + 2 Klingen",
+        "category": "Rasierer",
+        "subcategories": []
+    },
+    {
+        "store": "spar",
+        "id": "2020002376161",
+        "name": "Gillette Venus Rasierer ComfortGlide Spa Breeze 1 Rasierer + 2 Klingen",
+        "category": "Rasierer",
+        "subcategories": []
+    },
+    {
+        "store": "spar",
+        "id": "2020003329036",
+        "name": "Gillette Venus Rasierer Comfortglide Strawberry",
+        "category": "Rasierer",
+        "subcategories": []
+    },
+    {
+        "store": "spar",
+        "id": "2020003818165",
+        "name": "Gillette Venus Rasierer Deluxe Smooth Swirl 1 Stück + 1 Klinge",
+        "category": "Rasierer",
+        "subcategories": []
+    },
+    {
+        "store": "spar",
+        "id": "2020003282645",
+        "name": "Gillette Venus Rasierer Ext. Smooth Sensitive Rosegold 1 Stück + 2 Klingen",
+        "category": "Rasierer",
+        "subcategories": []
+    },
+    {
+        "store": "spar",
+        "id": "2020002857905",
+        "name": "Gillette Venus Rasierer Extra Smooth 1 Stück + 1 Klinge",
+        "category": "Rasierer",
+        "subcategories": []
+    },
+    {
+        "store": "spar",
+        "id": "2020000943785",
+        "name": "Gillette Venus Rasierer Swirl 1 Stück + 2 Klingen",
+        "category": "Rasierer",
+        "subcategories": []
+    },
+    {
+        "store": "spar",
+        "id": "2020004190628",
+        "name": "Gillette Venus Rasierer für den Intimbereich 1 Handstück + 1 Klinge",
+        "category": "Rasierer",
+        "subcategories": []
+    },
+    {
+        "store": "spar",
+        "id": "8211040",
+        "name": "Gillette Venus Rasierer snap with Embrace 1 Stück + 1 Klinge",
+        "category": "Rasierer",
+        "subcategories": []
+    },
+    {
+        "store": "spar",
+        "id": "2020003818202",
+        "name": "Gillette Venus Rasierklingen Comfortglide Strawberry 4 Stück",
+        "category": "Rasierklingen",
+        "subcategories": []
+    },
+    {
+        "store": "spar",
+        "id": "2020003818233",
+        "name": "Gillette Venus Rasierklingen Deluxe Smooth Swirl 4 Stück",
+        "category": "Rasierklingen",
+        "subcategories": []
+    },
+    {
+        "store": "spar",
+        "id": "8194992",
+        "name": "Gillette Venus Rasierklingen Extra Smooth 4 Stück",
+        "category": "Rasierklingen",
+        "subcategories": []
+    },
+    {
+        "store": "spar",
+        "id": "2020002903336",
+        "name": "Gillette Venus Rasierklingen Extra Smooth Sensitive 4 Stück",
+        "category": "Rasierklingen",
+        "subcategories": []
+    },
+    {
+        "store": "spar",
+        "id": "4051084",
+        "name": "Gillette Venus Rasierklingen Smooth 4 Stück",
+        "category": "Rasierklingen",
+        "subcategories": []
+    },
+    {
+        "store": "spar",
+        "id": "2020002857875",
+        "name": "Gillette Venus Rasierklingen Smooth Sensitive 4 Stück",
+        "category": "Rasierklingen",
+        "subcategories": []
+    },
+    {
+        "store": "spar",
+        "id": "7016516",
+        "name": "Nivea Men After Shave Balsam Active Energy 100ml",
+        "category": "After Shave",
+        "subcategories": []
+    },
+    {
+        "store": "spar",
+        "id": "170048",
+        "name": "Nivea Men After Shave Balsam Protect & Care 100ml",
+        "category": "After Shave",
+        "subcategories": []
+    },
+    {
+        "store": "spar",
+        "id": "2020002119836",
+        "name": "Nivea Men After Shave Balsam Sensitive / Recovery 100ml",
+        "category": "After Shave",
+        "subcategories": []
+    },
+    {
+        "store": "spar",
+        "id": "326780",
+        "name": "Nivea Men After Shave Balsam Sensitive 100 ml",
+        "category": "After Shave",
+        "subcategories": []
+    },
+    {
+        "store": "spar",
+        "id": "5871568",
+        "name": "Nivea Men After Shave Balsam Sensitive Cool 100 ml",
+        "category": "After Shave",
+        "subcategories": []
+    },
+    {
+        "store": "spar",
+        "id": "5218837",
+        "name": "Nivea Men Rasiercreme Protect & Care 100ml",
+        "category": "Rasiercreme",
+        "subcategories": []
+    },
+    {
+        "store": "spar",
+        "id": "4376828",
+        "name": "Nivea Men Rasiergel Protect & Care 200ml",
+        "category": "Rasiergel",
+        "subcategories": ["Rasierschaum"]
+    },
+    {
+        "store": "spar",
+        "id": "4793281",
+        "name": "Nivea Men Rasiergel Sensitive 200 ml",
+        "category": "Rasiergel",
+        "subcategories": ["Rasierschaum"]
+    },
+    {
+        "store": "spar",
+        "id": "2020004025043",
+        "name": "Nivea Men Rasiergel Sensitive Cool 200ml",
+        "category": "Rasiergel",
+        "subcategories": ["Rasierschaum"]
+    },
+    {
+        "store": "spar",
+        "id": "271417",
+        "name": "Nivea Men Rasierschaum Protect & Care 200ml",
+        "category": "Rasierschaum",
+        "subcategories": ["Rasiergel"]
+    },
+    {
+        "store": "spar",
+        "id": "325011",
+        "name": "Nivea Men Rasierschaum Sensitive 200 ml",
+        "category": "Rasierschaum",
+        "subcategories": ["Rasiergel"]
+    },
+    {
+        "store": "spar",
+        "id": "2020004025005",
+        "name": "Nivea Men Rasierschaum Sensitive Cool 200ml",
+        "category": "Rasierschaum",
+        "subcategories": ["Rasiergel"]
+    },
+    {
+        "store": "spar",
+        "id": "2020002119812",
+        "name": "Nivea Men Rasierschaum Sensitive Recovery 200ml",
+        "category": "Rasierschaum",
+        "subcategories": ["Rasiergel"]
+    },
+    {
+        "store": "spar",
+        "id": "2020002119713",
+        "name": "Nivea Men Recovery Rasiergel 200ml",
+        "category": "Rasiergel",
+        "subcategories": ["Rasierschaum"]
+    },
+    {
+        "store": "spar",
+        "id": "2025681",
+        "name": "Dove Hand Waschlotion Reichhaltige Pflege 250ml",
+        "category": "Handseife",
+        "subcategories": []
+    },
+    {
+        "store": "spar",
+        "id": "7733208",
+        "name": "Dove Men + Care Pflegedusche Clean Comfort 250ml",
+        "category": "Duschgel",
+        "subcategories": []
+    },
+    {
+        "store": "spar",
+        "id": "2020001987795",
+        "name": "Dove Men + Care Pflegedusche Clean Comfort 400 ml",
+        "category": "Duschgel",
+        "subcategories": []
+    },
+    {
+        "store": "spar",
+        "id": "7733307",
+        "name": "Dove Men + Care Pflegedusche Extra Fresh 250ml",
+        "category": "Duschgel",
+        "subcategories": []
+    },
+    {
+        "store": "spar",
+        "id": "2020004296511",
+        "name": "Dove Pflegedusche Anti-Stress 250ml",
+        "category": "Duschgel",
+        "subcategories": []
+    },
+    {
+        "store": "spar",
+        "id": "2020004543103",
+        "name": "Dove Pflegedusche Feuchtigkeits-Pflege & Öl 400ml",
+        "category": "Duschgel",
+        "subcategories": []
+    },
+    {
+        "store": "spar",
+        "id": "2020004296498",
+        "name": "Dove Pflegedusche Hydra Care 250ml",
+        "category": "Duschgel",
+        "subcategories": []
+    },
+    {
+        "store": "spar",
+        "id": "7733130",
+        "name": "Dove Pflegedusche Reichhaltige Pflege 250ml",
+        "category": "Duschgel",
+        "subcategories": []
+    },
+    {
+        "store": "spar",
+        "id": "2020000591337",
+        "name": "Dove Pflegedusche Reichhaltige Pflege 400ml",
+        "category": "Duschgel",
+        "subcategories": []
+    },
+    {
+        "store": "spar",
+        "id": "2206004",
+        "name": "Dove Pflegedusche Reichhaltige Pflege 55ml",
+        "category": "Duschgel",
+        "subcategories": []
+    },
+    {
+        "store": "spar",
+        "id": "4377825",
+        "name": "Dove Pflegedusche Seidig-Zart 250ml",
+        "category": "Duschgel",
+        "subcategories": []
+    },
+    {
+        "store": "spar",
+        "id": "7155741",
+        "name": "Dove Pflegendes Cremebad Original 750 ml",
+        "category": "Cremebad",
+        "subcategories": []
+    },
+    {
+        "store": "spar",
+        "id": "2020003884719",
+        "name": "Dove Waschstück Cream Oil 90g",
+        "category": "Seife",
+        "subcategories": []
+    },
+    {
+        "store": "spar",
+        "id": "773751",
+        "name": "Dove Waschstück Regular 2 x 90g",
+        "category": "Seife",
+        "subcategories": []
+    },
+    {
+        "store": "spar",
+        "id": "2020004177995",
+        "name": "Frosch Reine Pflege Cremeseife Granatapfel 300 ml",
+        "category": "Seife",
+        "subcategories": []
+    },
+    {
+        "store": "spar",
+        "id": "4589839",
+        "name": "Frosch Reine Pflege Cremeseife Granatapfel 500ml",
+        "category": "Seife",
+        "subcategories": []
+    },
+    {
+        "store": "spar",
+        "id": "4589877",
+        "name": "Frosch Reine Pflege Cremeseife Mandelmilch 500ml",
+        "category": "Seife",
+        "subcategories": []
+    },
+    {
+        "store": "spar",
+        "id": "2020001776863",
+        "name": "Frosch Reine Pflege Hygieneseife Nachfüller Lavendel 500ml",
+        "category": "Hygieneseife",
+        "subcategories": []
+    },
+    {
+        "store": "spar",
+        "id": "8131805",
+        "name": "Frosch Reine Pflege Seife Sensitiv 500ml",
+        "category": "Seife",
+        "subcategories": []
+    },
+    {
+        "store": "spar",
+        "id": "2020000641940",
+        "name": "Frosch Reine Pflege Sensitiv-Seife 300ml",
+        "category": "Seife",
+        "subcategories": []
+    },
+    {
+        "store": "spar",
+        "id": "2020004610683",
+        "name": "Isana 3in1-Duschgel Active Sport 300ml",
+        "category": "Duschgel",
+        "subcategories": []
+    },
+    {
+        "store": "spar",
+        "id": "2020004610645",
+        "name": "Isana 3in1-Duschgel Fresh 300ml",
+        "category": "Duschgel",
+        "subcategories": []
+    },
+    {
+        "store": "spar",
+        "id": "2020004610676",
+        "name": "Isana 3in1-Duschgel Sensitiv 300ml",
+        "category": "Duschgel",
+        "subcategories": []
+    },
+    {
+        "store": "spar",
+        "id": "2020004611529",
+        "name": "Isana Bade-Salz Traumzeit 80g",
+        "category": "Badezusatz",
+        "subcategories": []
+    },
+    {
+        "store": "spar",
+        "id": "2020004612458",
+        "name": "Isana Creme-Öl-Bad Entspannungszeit 500ml",
+        "category": "Badezusatz",
+        "subcategories": []
+    },
+    {
+        "store": "spar",
+        "id": "2020004610652",
+        "name": "Isana Cremedusche Orchidee & Vanille 300ml",
+        "category": "Cremedusche",
+        "subcategories": []
+    },
+    {
+        "store": "spar",
+        "id": "2020004610638",
+        "name": "Isana Cremedusche Pearl 300ml",
+        "category": "Cremedusche",
+        "subcategories": []
+    },
+    {
+        "store": "spar",
+        "id": "2020004610706",
+        "name": "Isana Cremedusche Pink Peach 300ml",
+        "category": "Cremedusche",
+        "subcategories": []
+    },
+    {
+        "store": "spar",
+        "id": "2020004610621",
+        "name": "Isana Duschgel Lemon & Lime 300ml",
+        "category": "Duschgel",
+        "subcategories": []
+    },
+    {
+        "store": "spar",
+        "id": "2020004611536",
+        "name": "Isana Isana Bade-Perlen love without limits 60g",
+        "category": "Badezusatz",
+        "subcategories": []
+    },
+    {
+        "store": "spar",
+        "id": "2020004612694",
+        "name": "Isana med Arztseife [Sensitiv] 300ml",
+        "category": "Seife",
+        "subcategories": []
+    },
+    {
+        "store": "spar",
+        "id": "2020003815621",
+        "name": "Jean&Len 3in1 Dusche Hopfen & Aloe Vera 250ml",
+        "category": "Duschgel",
+        "subcategories": []
+    },
+    {
+        "store": "spar",
+        "id": "2020003815522",
+        "name": "Jean&Len Exotisches Duschgel Mango & Avocado 250ml",
+        "category": "Duschgel",
+        "subcategories": []
+    },
+    {
+        "store": "spar",
+        "id": "2020004677631",
+        "name": "Jean&Len Handseife Pfingstrose/Litschi Duft 250ml",
+        "category": "Handseife",
+        "subcategories": []
+    },
+    {
+        "store": "spar",
+        "id": "2020003815911",
+        "name": "Jean&Len Handseife Rosemary/Ginger Duft 250ml",
+        "category": "Handseife",
+        "subcategories": []
+    },
+    {
+        "store": "spar",
+        "id": "2020003815294",
+        "name": "Jean&Len Reichhaltige Creme-Öl Dusche Bio-Hafermilch & Kokosöl 250ml",
+        "category": "Cremedusche",
+        "subcategories": []
+    },
+    {
+        "store": "spar",
+        "id": "2020004677662",
+        "name": "Jean&Len Verwöhnende Creme-Öl-Dusche Arganöl & Feige 250ml",
+        "category": "Cremedusche",
+        "subcategories": []
+    },
+    {
+        "store": "spar",
+        "id": "2020003135750",
+        "name": "Nesti Dante Dolce Vivere Seife Portofino 250g",
+        "category": "Seife",
+        "subcategories": []
+    }
+]

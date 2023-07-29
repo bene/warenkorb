@@ -1,0 +1,702 @@
+[
+  {
+    "store": "billa",
+    "id": "00-514832",
+    "name": "Kleine Käseplatte",
+    "category": "Käse",
+    "subcategories": ["Platte"]
+  },
+  {
+    "store": "billa",
+    "id": "00-38864",
+    "name": "Liptauer Brötchen",
+    "category": "Brot",
+    "subcategories": ["Brötchen"]
+  },
+  {
+    "store": "billa",
+    "id": "00-519204",
+    "name": "Obstplatte",
+    "category": "Obst",
+    "subcategories": ["Platte"]
+  },
+  {
+    "store": "billa",
+    "id": "00-38885",
+    "name": "Putenbrust Brötchen",
+    "category": "Fleisch",
+    "subcategories": ["Brötchen"]
+  },
+  {
+    "store": "billa",
+    "id": "00-38887",
+    "name": "Salami Brötchen",
+    "category": "Fleisch",
+    "subcategories": ["Brötchen"]
+  },
+  {
+    "store": "billa",
+    "id": "00-520397",
+    "name": "Sandwich - Brötchen Platte",
+    "category": "Brot",
+    "subcategories": ["Platte"]
+  },
+  {
+    "store": "billa",
+    "id": "00-38886",
+    "name": "Schinken Brötchen",
+    "category": "Fleisch",
+    "subcategories": ["Brötchen"]
+  },
+  {
+    "store": "billa",
+    "id": "00-514794",
+    "name": "Schinkenplatte",
+    "category": "Fleisch",
+    "subcategories": ["Platte"]
+  },
+  {
+    "store": "billa",
+    "id": "00-38884",
+    "name": "Schwarzwälder Schinken Brötchen",
+    "category": "Fleisch",
+    "subcategories": ["Brötchen"]
+  },
+  {
+    "store": "billa",
+    "id": "00-514806",
+    "name": "Wurst, Schinken, Käse aus Österreich",
+    "category": "Fleisch",
+    "subcategories": ["Wurst", "Schinken", "Käse"]
+  },
+  {
+    "store": "billa",
+    "id": "00-514816",
+    "name": "Wurst-Schinkenplatte",
+    "category": "Fleisch",
+    "subcategories": ["Platte"]
+  },
+  {
+    "store": "billa",
+    "id": "00-722560",
+    "name": "BILLA Pinsateig",
+    "category": "Backwaren",
+    "subcategories": ["Teig"]
+  },
+  {
+    "store": "billa",
+    "id": "00-722562",
+    "name": "BILLA Pinsateig 2er",
+    "category": "Backwaren",
+    "subcategories": ["Teig"]
+  },
+  {
+    "store": "billa",
+    "id": "00-437908",
+    "name": "Clever Blätterteig",
+    "category": "Backwaren",
+    "subcategories": ["Teig"]
+  },
+  {
+    "store": "billa",
+    "id": "00-881580",
+    "name": "Clever Pizza-Kombi Pizzateig & Tomatensauce",
+    "category": "Backwaren",
+    "subcategories": ["Teig", "Sauce"]
+  },
+  {
+    "store": "billa",
+    "id": "00-427141",
+    "name": "Clever Strudelteigblätter",
+    "category": "Backwaren",
+    "subcategories": ["Teig"]
+  },
+  {
+    "store": "billa",
+    "id": "00-492154",
+    "name": "Di Marco Orginale Pinsa Romana Classica",
+    "category": "Backwaren",
+    "subcategories": ["Teig"]
+  },
+  {
+    "store": "billa",
+    "id": "00-297282",
+    "name": "Die Grillerei Focaccia Grillteig",
+    "category": "Backwaren",
+    "subcategories": ["Teig"]
+  },
+  {
+    "store": "billa",
+    "id": "00-435820",
+    "name": "Ja! Natürlich Bio Dinkel-Blätterteig",
+    "category": "Backwaren",
+    "subcategories": ["Teig"]
+  },
+  {
+    "store": "billa",
+    "id": "00-568680",
+    "name": "Ja! Natürlich Pizzateig",
+    "category": "Backwaren",
+    "subcategories": ["Teig"]
+  },
+  {
+    "store": "billa",
+    "id": "00-598760",
+    "name": "Mäidä  Jufka Teigblätter",
+    "category": "Backwaren",
+    "subcategories": ["Teig"]
+  },
+  {
+    "store": "billa",
+    "id": "00-720097",
+    "name": "Tante Fanny Butter Croissant & Plunderteig",
+    "category": "Backwaren",
+    "subcategories": ["Teig"]
+  },
+  {
+    "store": "billa",
+    "id": "00-339923",
+    "name": "Tante Fanny Flammkuchenböden",
+    "category": "Backwaren",
+    "subcategories": ["Teig"]
+  },
+  {
+    "store": "billa",
+    "id": "00-426549",
+    "name": "Tante Fanny Frischer Blech-Pizzateig",
+    "category": "Backwaren",
+    "subcategories": ["Teig"]
+  },
+  {
+    "store": "billa",
+    "id": "00-426550",
+    "name": "Tante Fanny Frischer Blätterteig 2er",
+    "category": "Backwaren",
+    "subcategories": ["Teig"]
+  },
+  {
+    "store": "billa",
+    "id": "00-298540",
+    "name": "Tante Fanny Frischer Butter-Quiche- & Tarteteig",
+    "category": "Backwaren",
+    "subcategories": ["Teig"]
+  },
+  {
+    "store": "billa",
+    "id": "00-368736",
+    "name": "Tante Fanny Frischer Dinkel Flammkuchenteig",
+    "category": "Backwaren",
+    "subcategories": ["Teig"]
+  },
+  {
+    "store": "billa",
+    "id": "00-339929",
+    "name": "Tante Fanny Frischer Dinkel-Pizzateig",
+    "category": "Backwaren",
+    "subcategories": ["Teig"]
+  },
+  {
+    "store": "billa",
+    "id": "00-630957",
+    "name": "Tante Fanny Frischer Flammkuchenteig",
+    "category": "Backwaren",
+    "subcategories": ["Teig"]
+  },
+  {
+    "store": "billa",
+    "id": "00-679792",
+    "name": "Tante Fanny Frischer Mürbteig",
+    "category": "Backwaren",
+    "subcategories": ["Teig"]
+  },
+  {
+    "store": "billa",
+    "id": "00-881440",
+    "name": "Tante Fanny Frischer Quiche- & Tarteteig",
+    "category": "Backwaren",
+    "subcategories": ["Teig"]
+  },
+  {
+    "store": "billa",
+    "id": "00-530684",
+    "name": "Tante Fanny Frischer Vollkorn-Blätterteig",
+    "category": "Backwaren",
+    "subcategories": ["Teig"]
+  },
+  {
+    "store": "billa",
+    "id": "00-679790",
+    "name": "Tante Fanny Frischer XXL Blech-Pizzateig",
+    "category": "Backwaren",
+    "subcategories": ["Teig"]
+  },
+  {
+    "store": "billa",
+    "id": "00-425739",
+    "name": "Tante Fanny Gezogener Strudelteig",
+    "category": "Backwaren",
+    "subcategories": ["Teig"]
+  },
+  {
+    "store": "billa",
+    "id": "00-729011",
+    "name": "Tante Fanny Pizzateig mit Sauerteig und Pizza-Sauce",
+    "category": "Backwaren",
+    "subcategories": ["Teig", "Sauce"]
+  },
+  {
+    "store": "billa",
+    "id": "00-729009",
+    "name": "Tante Fanny Vollkorn Flammkuchenböden",
+    "category": "Backwaren",
+    "subcategories": ["Teig"]
+  },
+  {
+    "store": "billa",
+    "id": "00-467781",
+    "name": "Weizenfrei Blätterteig Glutenfrei",
+    "category": "Backwaren",
+    "subcategories": ["Teig"]
+  },
+  {
+    "store": "hofer",
+    "id": 549955,
+    "name": "ASIA GREEN GARDEN Asia-Taschen-Gyoza Gemüse 150g",
+    "category": "Asiatisch",
+    "subcategories": ["Taschen", "Gyoza", "Gemüse"]
+  },
+  {
+    "store": "hofer",
+    "id": 549956,
+    "name": "ASIA GREEN GARDEN Asia-Taschen-Gyoza Huhn 150g",
+    "category": "Asiatisch",
+    "subcategories": ["Taschen", "Gyoza", "Huhn"]
+  },
+  {
+    "store": "hofer",
+    "id": 547734,
+    "name": "BACKETTERIA  Pizzateig Rund 550g",
+    "category": "Backwaren",
+    "subcategories": ["Teig"]
+  },
+  {
+    "store": "hofer",
+    "id": 547732,
+    "name": "BACKETTERIA Flammkuchenteig 300g",
+    "category": "Backwaren",
+    "subcategories": ["Teig"]
+  },
+  {
+    "store": "hofer",
+    "id": 547733,
+    "name": "BACKETTERIA Mürbteig 300g",
+    "category": "Backwaren",
+    "subcategories": ["Teig"]
+  },
+  {
+    "store": "hofer",
+    "id": 549986,
+    "name": "BBQ Focacciateig Mix 385g",
+    "category": "Backwaren",
+    "subcategories": ["Teig", "Mix"]
+  },
+  {
+    "store": "billa",
+    "id": "00-343304",
+    "name": "Ablinger Münchner Weißwurst 8 Stück",
+    "category": "Fleisch",
+    "subcategories": ["Weißwurst"]
+  },
+  {
+    "store": "billa",
+    "id": "00-346203",
+    "name": "BILA Bio Coppa",
+    "category": "Fleisch",
+    "subcategories": ["Coppa"]
+  },
+  {
+    "store": "billa",
+    "id": "00-421066",
+    "name": "BILLA Bio Extrawurst geschnitten",
+    "category": "Fleisch",
+    "subcategories": ["Extrawurst"]
+  },
+  {
+    "store": "billa",
+    "id": "00-346208",
+    "name": "BILLA Bio Mortadella",
+    "category": "Fleisch",
+    "subcategories": ["Mortadella"]
+  },
+  {
+    "store": "billa",
+    "id": "00-701372",
+    "name": "BILLA Genusswelt  Kalbsleberpastete Natur",
+    "category": "Fleisch",
+    "subcategories": ["Kalbsleberpastete"]
+  },
+  {
+    "store": "billa",
+    "id": "00-507335",
+    "name": "BILLA Genusswelt Antipasto Misto",
+    "category": "Fleisch",
+    "subcategories": ["Antipasto"]
+  },
+  {
+    "store": "billa",
+    "id": "00-299017",
+    "name": "BILLA Genusswelt Bresaola",
+    "category": "Fleisch",
+    "subcategories": ["Bresaola"]
+  },
+  {
+    "store": "billa",
+    "id": "00-446574",
+    "name": "BILLA Genusswelt Carpaccio Di Manzo",
+    "category": "Fleisch",
+    "subcategories": ["Carpaccio"]
+  },
+  {
+    "store": "billa",
+    "id": "00-477995",
+    "name": "BILLA Genusswelt Coppa di Parma",
+    "category": "Fleisch",
+    "subcategories": ["Coppa"]
+  },
+  {
+    "store": "billa",
+    "id": "00-346068",
+    "name": "BILLA Genusswelt Involtini",
+    "category": "Fleisch",
+    "subcategories": ["Involtini"]
+  },
+  {
+    "store": "billa",
+    "id": "00-508941",
+    "name": "BILLA Genusswelt Kalbsleberpastete Preiselbeere",
+    "category": "Fleisch",
+    "subcategories": ["Kalbsleberpastete"]
+  },
+  {
+    "store": "billa",
+    "id": "00-701374",
+    "name": "BILLA Genusswelt Kalbsleberpastete Trüffel",
+    "category": "Fleisch",
+    "subcategories": ["Kalbsleberpastete"]
+  },
+  {
+    "store": "billa",
+    "id": "00-346054",
+    "name": "BILLA Genusswelt Lardo Geschnitten",
+    "category": "Fleisch",
+    "subcategories": ["Lardo"]
+  },
+  {
+    "store": "billa",
+    "id": "00-346158",
+    "name": "BILLA Genusswelt Leberpastete  Cranberry",
+    "category": "Fleisch",
+    "subcategories": ["Leberpastete"]
+  },
+  {
+    "store": "billa",
+    "id": "00-346066",
+    "name": "BILLA Genusswelt Porchetta Toscana",
+    "category": "Fleisch",
+    "subcategories": ["Porchetta"]
+  },
+  {
+    "store": "billa",
+    "id": "00-300088",
+    "name": "BILLA Genusswelt Prosciutto Di San Daniele",
+    "category": "Fleisch",
+    "subcategories": ["Prosciutto"]
+  },
+  {
+    "store": "billa",
+    "id": "00-346197",
+    "name": "BILLA Genusswelt Prosciutto Eccellenze",
+    "category": "Fleisch",
+    "subcategories": ["Prosciutto"]
+  },
+  {
+    "store": "billa",
+    "id": "00-389074",
+    "name": "BILLA Prosciutto Cotto",
+    "category": "Fleisch",
+    "subcategories": ["Prosciutto"]
+  },
+  {
+    "store": "billa",
+    "id": "00-599115",
+    "name": "BILLA Prosciutto Crudo",
+    "category": "Fleisch",
+    "subcategories": ["Prosciutto"]
+  },
+  {
+    "store": "billa",
+    "id": "00-599119",
+    "name": "BILLA Prosciutto Di Parma DOP",
+    "category": "Fleisch",
+    "subcategories": ["Prosciutto"]
+  },
+  {
+    "store": "billa",
+    "id": "00-372807",
+    "name": "BILLA Rinderrohschinken",
+    "category": "Fleisch",
+    "subcategories": ["Schinken"]
+  },
+  {
+    "store": "billa",
+    "id": "00-307531",
+    "name": "BILLA Salame Felino",
+    "category": "Fleisch",
+    "subcategories": ["Salame"]
+  },
+  {
+    "store": "billa",
+    "id": "00-245925",
+    "name": "BILLA Salami Milano",
+    "category": "Fleisch",
+    "subcategories": ["Salami"]
+  },
+  {
+    "store": "billa",
+    "id": "00-314490",
+    "name": "Backofenschinken",
+    "category": "Fleisch",
+    "subcategories": ["Schinken"]
+  },
+  {
+    "store": "billa",
+    "id": "00-314233",
+    "name": "Beinschinken",
+    "category": "Fleisch",
+    "subcategories": ["Schinken"]
+  },
+  {
+    "store": "billa",
+    "id": "00-618816",
+    "name": "Berger Backofenschinken geschnitten",
+    "category": "Fleisch",
+    "subcategories": ["Schinken"]
+  },
+  {
+    "store": "billa",
+    "id": "00-618815",
+    "name": "Berger Beinschinken Geschnitten",
+    "category": "Fleisch",
+    "subcategories": ["Schinken"]
+  },
+  {
+    "store": "billa",
+    "id": "00-372941",
+    "name": "Berger Beinschinken Selektion",
+    "category": "Fleisch",
+    "subcategories": ["Schinken"]
+  },
+  {
+    "store": "billa",
+    "id": "00-609474",
+    "name": "Berger Exquisite Schinkenvariation",
+    "category": "Fleisch",
+    "subcategories": ["Schinken"]
+  },
+  {
+    "store": "billa",
+    "id": "00-440039",
+    "name": "Berger Extrawurst",
+    "category": "Fleisch",
+    "subcategories": ["Extrawurst"]
+  },
+  {
+    "store": "billa",
+    "id": "00-305138",
+    "name": "Berger Farmerschinken",
+    "category": "Fleisch",
+    "subcategories": ["Schinken"]
+  },
+  {
+    "store": "billa",
+    "id": "00-779069",
+    "name": "Berger Farmerschinken Geschnitten",
+    "category": "Fleisch",
+    "subcategories": ["Schinken"]
+  },
+  {
+    "store": "billa",
+    "id": "00-530416",
+    "name": "Berger Hühnerschinken",
+    "category": "Fleisch",
+    "subcategories": ["Schinken"]
+  },
+  {
+    "store": "billa",
+    "id": "00-475854",
+    "name": "Berger Kartoffel Grill Würstel",
+    "category": "Fleisch",
+    "subcategories": ["Würstel"]
+  },
+  {
+    "store": "billa",
+    "id": "00-35040",
+    "name": "Berger Knacker",
+    "category": "Fleisch",
+    "subcategories": ["Wurst"]
+  },
+  {
+    "store": "billa",
+    "id": "00-642113",
+    "name": "Berger Krenschinken",
+    "category": "Fleisch",
+    "subcategories": ["Schinken"]
+  },
+  {
+    "store": "billa",
+    "id": "00-101104",
+    "name": "Berger Krenschinken geschnitten",
+    "category": "Fleisch",
+    "subcategories": ["Schinken"]
+  },
+  {
+    "store": "billa",
+    "id": "00-430973",
+    "name": "Berger Mini Pasteten Variation",
+    "category": "Fleisch",
+    "subcategories": ["Pastete"]
+  },
+  {
+    "store": "billa",
+    "id": "00-722627",
+    "name": "Berger Original Rostbratwürstel",
+    "category": "Fleisch",
+    "subcategories": ["Würstel"]
+  },
+  {
+    "store": "billa",
+    "id": "00-633659",
+    "name": "Berger Putenschinken",
+    "category": "Fleisch",
+    "subcategories": ["Schinken"]
+  },
+  {
+    "store": "billa",
+    "id": "00-725422",
+    "name": "Berger Putenschinken Variation",
+    "category": "Fleisch",
+    "subcategories": ["Schinken"]
+  },
+  {
+    "store": "billa",
+    "id": "00-616703",
+    "name": "Berger Römerschinken",
+    "category": "Fleisch",
+    "subcategories": ["Schinken"]
+  },
+  {
+    "store": "billa",
+    "id": "00-314512",
+    "name": "Berger Schweinsbraten",
+    "category": "Fleisch",
+    "subcategories": ["Schwein"]
+  },
+  {
+    "store": "billa",
+    "id": "00-656202",
+    "name": "Berger Schweinsbraten vom Karree",
+    "category": "Fleisch",
+    "subcategories": ["Schwein"]
+  },
+  {
+    "store": "billa",
+    "id": "00-437335",
+    "name": "Berger Spargelschinken Geschnitten",
+    "category": "Fleisch",
+    "subcategories": ["Schinken"]
+  },
+  {
+    "store": "billa",
+    "id": "00-437340",
+    "name": "Berger Wellness Schinken Geschnitten",
+    "category": "Fleisch",
+    "subcategories": ["Schinken"]
+  },
+  {
+    "store": "billa",
+    "id": "00-487521",
+    "name": "Billa Prosciutto Cotto Alle Erbe",
+    "category": "Fleisch",
+    "subcategories": ["Prosciutto"]
+  },
+  {
+    "store": "billa",
+    "id": "00-839520",
+    "name": "Bosnische Sudzuk aus Rindfleisch",
+    "category": "Fleisch",
+    "subcategories": ["Sudzuk"]
+  },
+  {
+    "store": "billa",
+    "id": "00-240230",
+    "name": "Brajlovic Rinderrauchfleisch",
+    "category": "Fleisch",
+    "subcategories": ["Rauchfleisch"]
+  },
+  {
+    "store": "billa",
+    "id": "00-624453",
+    "name": "Chorizo Cular Pikant",
+    "category": "Fleisch",
+    "subcategories": ["Chorizo"]
+  },
+  {
+    "store": "billa",
+    "id": "00-474936",
+    "name": "Clever  Berner Würstel",
+    "category": "Fleisch",
+    "subcategories": ["Würstel"]
+  },
+  {
+    "store": "billa",
+    "id": "00-940815",
+    "name": "Clever Bacon Frühstücksspeck",
+    "category": "Fleisch",
+    "subcategories": ["Speck"]
+  },
+  {
+    "store": "billa",
+    "id": "00-674035",
+    "name": "Clever Bergwurst",
+    "category": "Fleisch",
+    "subcategories": ["Wurst"]
+  },
+  {
+    "store": "billa",
+    "id": "00-474935",
+    "name": "Clever Bratwürstel dünn",
+    "category": "Fleisch",
+    "subcategories": ["Bratwurst"]
+  },
+  {
+    "store": "billa",
+    "id": "00-473701",
+    "name": "Clever Cabanossi",
+    "category": "Fleisch",
+    "subcategories": ["Wurst"]
+  },
+  {
+    "store": "billa",
+    "id": "00-422912",
+    "name": "Clever Debreziner",
+    "category": "Fleisch",
+    "subcategories": ["Wurst"]
+  },
+  {
+    "store": "billa",
+    "id": "00-544638",
+    "name": "Clever Extrawurst",
+    "category": "Fleisch",
+    "subcategories": ["Extrawurst"]
+  }
+]

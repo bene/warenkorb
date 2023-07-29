@@ -1,0 +1,1008 @@
+[
+  {
+    "store": "billa",
+    "id": "00-421105",
+    "name": "Staud's Pfefferoni scharf",
+    "category": "Würzmittel",
+    "subcategory": [
+      "Gewürze",
+      "Pfefferoni"
+    ]
+  },
+  {
+    "store": "billa",
+    "id": "00-417752",
+    "name": "Staud's Rote Rüben Salat",
+    "category": "Gemüse",
+    "subcategory": [
+      "Salat",
+      "Rote Rüben"
+    ]
+  },
+  {
+    "store": "billa",
+    "id": "00-417754",
+    "name": "Staud's Rote Rüben Salat",
+    "category": "Gemüse",
+    "subcategory": [
+      "Salat",
+      "Rote Rüben"
+    ]
+  },
+  {
+    "store": "billa",
+    "id": "00-417742",
+    "name": "Staud's Silberzwiebel",
+    "category": "Gemüse",
+    "subcategory": [
+      "Zwiebel",
+      "Gemüsepickles"
+    ]
+  },
+  {
+    "store": "billa",
+    "id": "00-500569",
+    "name": "Staud's Würzige Champignons",
+    "category": "Gemüse",
+    "subcategory": [
+      "Champignons",
+      "Eingelegtes Gemüse"
+    ]
+  },
+  {
+    "store": "billa",
+    "id": "00-400384",
+    "name": "Staud's Würziger Knoblauch",
+    "category": "Gemüse",
+    "subcategory": [
+      "Knoblauch",
+      "Eingelegtes Gemüse"
+    ]
+  },
+  {
+    "store": "billa",
+    "id": "00-417756",
+    "name": "Staud's Würziger Schwarzwurzel Salat",
+    "category": "Gemüse",
+    "subcategory": [
+      "Salat",
+      "Schwarzwurzel"
+    ]
+  },
+  {
+    "store": "billa",
+    "id": "00-728036",
+    "name": "Staud's Zwetschkenröster",
+    "category": "Früchte",
+    "subcategory": [
+      "Zwetschken",
+      "Fruchtmus"
+    ]
+  },
+  {
+    "store": "billa",
+    "id": "00-577851",
+    "name": "Steirerkraft Käferbohnen g.U.",
+    "category": "Hülsenfrüchte",
+    "subcategory": [
+      "Bohnen",
+      "Käferbohnen"
+    ]
+  },
+  {
+    "store": "billa",
+    "id": "00-381735",
+    "name": "Tartex Avocado Aufstrich",
+    "category": "Aufstriche",
+    "subcategory": [
+      "Avocado",
+      "Vegetarisch"
+    ]
+  },
+  {
+    "store": "billa",
+    "id": "00-448613",
+    "name": "Tartex Belugalinse & Balsamico Aufstrich",
+    "category": "Aufstriche",
+    "subcategory": [
+      "Belugalinse",
+      "Balsamico",
+      "Vegetarisch"
+    ]
+  },
+  {
+    "store": "billa",
+    "id": "00-381742",
+    "name": "Tartex Kirschtomate & Rucola Aufstrich",
+    "category": "Aufstriche",
+    "subcategory": [
+      "Kirschtomate",
+      "Rucola",
+      "Vegetarisch"
+    ]
+  },
+  {
+    "store": "billa",
+    "id": "00-448611",
+    "name": "Tartex Paprika Trio Aufstrich",
+    "category": "Aufstriche",
+    "subcategory": [
+      "Paprika",
+      "Vegetarisch"
+    ]
+  },
+  {
+    "store": "billa",
+    "id": "00-464464",
+    "name": "Tartex Rote Linse & Italienische Kräuter Aufstrich",
+    "category": "Aufstriche",
+    "subcategory": [
+      "Rote Linse",
+      "Italienische Kräuter",
+      "Vegetarisch"
+    ]
+  },
+  {
+    "store": "billa",
+    "id": "00-381739",
+    "name": "Tartex Rote Linsen, Paprika & Mango Aufstrich",
+    "category": "Aufstriche",
+    "subcategory": [
+      "Rote Linsen",
+      "Paprika",
+      "Mango",
+      "Vegetarisch"
+    ]
+  },
+  {
+    "store": "billa",
+    "id": "00-464471",
+    "name": "Tartex Scharfe Tomate Aufstrich",
+    "category": "Aufstriche",
+    "subcategory": [
+      "Tomate",
+      "Scharf",
+      "Vegetarisch"
+    ]
+  },
+  {
+    "store": "billa",
+    "id": "00-381748",
+    "name": "Tartex Spinat & Pinienkerne Aufstrich",
+    "category": "Aufstriche",
+    "subcategory": [
+      "Spinat",
+      "Pinienkerne",
+      "Vegetarisch"
+    ]
+  },
+  {
+    "store": "billa",
+    "id": "00-464482",
+    "name": "Tartex Toskana Aufstrich",
+    "category": "Aufstriche",
+    "subcategory": [
+      "Toskana",
+      "Vegetarisch"
+    ]
+  },
+  {
+    "store": "billa",
+    "id": "00-296831",
+    "name": "Vegavita Champignonpastete",
+    "category": "Pasteten",
+    "subcategory": [
+      "Champignon"
+    ]
+  },
+  {
+    "store": "billa",
+    "id": "00-296830",
+    "name": "Vegavita Kräuterpastete",
+    "category": "Pasteten",
+    "subcategory": [
+      "Kräuter"
+    ]
+  },
+  {
+    "store": "billa",
+    "id": "00-296834",
+    "name": "Vegavita Tomate- & Rucolapastete",
+    "category": "Pasteten",
+    "subcategory": [
+      "Tomate",
+      "Rucola"
+    ]
+  },
+  {
+    "store": "billa",
+    "id": "00-452353",
+    "name": "Vier Diamanten Makrelenfilets in Gemüse mit Tomatensauce",
+    "category": "Fisch",
+    "subcategory": [
+      "Makrele",
+      "Tomatensauce"
+    ]
+  },
+  {
+    "store": "billa",
+    "id": "00-452343",
+    "name": "Vier Diamanten Makrelenfilets in Olivenöl",
+    "category": "Fisch",
+    "subcategory": [
+      "Makrele",
+      "Olivenöl"
+    ]
+  },
+  {
+    "store": "billa",
+    "id": "00-386471",
+    "name": "Vier Diamanten Thunfisch In Olivenöl",
+    "category": "Fisch",
+    "subcategory": [
+      "Thunfisch",
+      "Olivenöl"
+    ]
+  },
+  {
+    "store": "billa",
+    "id": "00-415575",
+    "name": "Vier Diamanten Thunfisch Naturell",
+    "category": "Fisch",
+    "subcategory": [
+      "Thunfisch",
+      "Naturell"
+    ]
+  },
+  {
+    "store": "billa",
+    "id": "00-667856",
+    "name": "Vier Diamanten Thunfisch Naturell",
+    "category": "Fisch",
+    "subcategory": [
+      "Thunfisch",
+      "Naturell"
+    ]
+  },
+  {
+    "store": "billa",
+    "id": "00-642737",
+    "name": "Vier Diamanten Thunfisch Naturell",
+    "category": "Fisch",
+    "subcategory": [
+      "Thunfisch",
+      "Naturell"
+    ]
+  },
+  {
+    "store": "billa",
+    "id": "00-300027",
+    "name": "Vier Diamanten Thunfisch Naturell 2er",
+    "category": "Fisch",
+    "subcategory": [
+      "Thunfisch",
+      "Naturell"
+    ]
+  },
+  {
+    "store": "billa",
+    "id": "00-1295",
+    "name": "Vier Diamanten Thunfisch Pikant",
+    "category": "Fisch",
+    "subcategory": [
+      "Thunfisch",
+      "Pikant"
+    ]
+  },
+  {
+    "store": "billa",
+    "id": "00-300047",
+    "name": "Vier Diamanten Thunfisch Pikant 2er",
+    "category": "Fisch",
+    "subcategory": [
+      "Thunfisch",
+      "Pikant"
+    ]
+  },
+  {
+    "store": "billa",
+    "id": "00-576887",
+    "name": "Vier Diamanten Thunfisch Süß-Sauer",
+    "category": "Fisch",
+    "subcategory": [
+      "Thunfisch",
+      "Süß-Sauer"
+    ]
+  },
+  {
+    "store": "billa",
+    "id": "00-341658",
+    "name": "Vier Diamanten Thunfisch in Olivenöl",
+    "category": "Fisch",
+    "subcategory": [
+      "Thunfisch",
+      "Olivenöl"
+    ]
+  },
+  {
+    "store": "billa",
+    "id": "00-842602",
+    "name": "Vier Diamanten Thunfisch in Olivenöl",
+    "category": "Fisch",
+    "subcategory": [
+      "Thunfisch",
+      "Olivenöl"
+    ]
+  },
+  {
+    "store": "billa",
+    "id": "00-386379",
+    "name": "Vier Diamanten Thunfisch in Olivenöl Chili",
+    "category": "Fisch",
+    "subcategory": [
+      "Thunfisch",
+      "Olivenöl",
+      "Chili"
+    ]
+  },
+  {
+    "store": "billa",
+    "id": "00-903671",
+    "name": "Vier Diamanten Thunfisch in Rapsöl",
+    "category": "Fisch",
+    "subcategory": [
+      "Thunfisch",
+      "Rapsöl"
+    ]
+  },
+  {
+    "store": "billa",
+    "id": "00-1293",
+    "name": "Vier Diamanten Thunfisch in Öl",
+    "category": "Fisch",
+    "subcategory": [
+      "Thunfisch",
+      "Öl"
+    ]
+  },
+  {
+    "store": "billa",
+    "id": "00-1294",
+    "name": "Vier Diamanten Thunfisch in Öl",
+    "category": "Fisch",
+    "subcategory": [
+      "Thunfisch",
+      "Öl"
+    ]
+  },
+  {
+    "store": "billa",
+    "id": "00-300046",
+    "name": "Vier Diamanten Thunfisch in Öl 2er",
+    "category": "Fisch",
+    "subcategory": [
+      "Thunfisch",
+      "Öl"
+    ]
+  },
+  {
+    "store": "billa",
+    "id": "00-576880",
+    "name": "Vier Diamanten Thunfisch scharf",
+    "category": "Fisch",
+    "subcategory": [
+      "Thunfisch",
+      "Scharf"
+    ]
+  },
+  {
+    "store": "billa",
+    "id": "00-573123",
+    "name": "Vier Diamanten Thunfischsalat Couscous",
+    "category": "Fisch",
+    "subcategory": [
+      "Thunfischsalat",
+      "Couscous"
+    ]
+  },
+  {
+    "store": "billa",
+    "id": "00-573352",
+    "name": "Vier Diamanten Thunfischsalat Couscous 2er",
+    "category": "Fisch",
+    "subcategory": [
+      "Thunfischsalat",
+      "Couscous"
+    ]
+  },
+  {
+    "store": "billa",
+    "id": "00-573137",
+    "name": "Vier Diamanten Thunfischsalat Mexikanisch",
+    "category": "Fisch",
+    "subcategory": [
+      "Thunfischsalat",
+      "Mexikanisch"
+    ]
+  },
+  {
+    "store": "billa",
+    "id": "00-573248",
+    "name": "Vier Diamanten Thunfischsalat Mexikanisch 2er",
+    "category": "Fisch",
+    "subcategory": [
+      "Thunfischsalat",
+      "Mexikanisch"
+    ]
+  },
+  {
+    "store": "billa",
+    "id": "00-572930",
+    "name": "Vitaminka Ajvar Mild",
+    "category": "Gemüse",
+    "subcategory": [
+      "Ajvar",
+      "Mild"
+    ]
+  },
+  {
+    "store": "billa",
+    "id": "00-572917",
+    "name": "Vitaminka Ajvar Scharf",
+    "category": "Gemüse",
+    "subcategory": [
+      "Ajvar",
+      "Scharf"
+    ]
+  },
+  {
+    "store": "billa",
+    "id": "00-873570",
+    "name": "Weinviertler Leberaufstrich",
+    "category": "Aufstriche",
+    "subcategory": [
+      "Leberaufstrich"
+    ]
+  },
+  {
+    "store": "billa",
+    "id": "00-498661",
+    "name": "Wild Bill Baked Beans",
+    "category": "Hülsenfrüchte",
+    "subcategory": [
+      "Baked Beans"
+    ]
+  },
+  {
+    "store": "billa",
+    "id": "00-859963",
+    "name": "Zarotti Miesmuscheln Natural",
+    "category": "Fisch",
+    "subcategory": [
+      "Miesmuscheln"
+    ]
+  },
+  {
+    "store": "billa",
+    "id": "00-420796",
+    "name": "Zuccato Zwiebeln in Balsamicoessig",
+    "category": "Gemüse",
+    "subcategory": [
+      "Zwiebel",
+      "Eingelegtes Gemüse"
+    ]
+  },
+  {
+    "store": "billa",
+    "id": "00-339418",
+    "name": "d'aucy Dinkel",
+    "category": "Getreide",
+    "subcategory": [
+      "Dinkel",
+      "Getreidesorten"
+    ]
+  },
+  {
+    "store": "billa",
+    "id": "00-339436",
+    "name": "d'aucy Duo-Quinoa",
+    "category": "Getreide",
+    "subcategory": [
+      "Quinoa",
+      "Getreidemischungen"
+    ]
+  },
+  {
+    "store": "billa",
+    "id": "00-339106",
+    "name": "d'aucy Erbsen & Möhren",
+    "category": "Gemüse",
+    "subcategory": [
+      "Erbsen",
+      "Möhren",
+      "Gemüsemischungen"
+    ]
+  },
+  {
+    "store": "billa",
+    "id": "00-339273",
+    "name": "d'aucy Kichererbsen Duo Pack",
+    "category": "Hülsenfrüchte",
+    "subcategory": [
+      "Kichererbsen",
+      "Hülsenfrüchtemischungen"
+    ]
+  },
+  {
+    "store": "billa",
+    "id": "00-594652",
+    "name": "d'aucy Linsen",
+    "category": "Hülsenfrüchte",
+    "subcategory": [
+      "Linsen",
+      "Hülsenfrüchtesorten"
+    ]
+  },
+  {
+    "store": "billa",
+    "id": "00-339337",
+    "name": "d'aucy Mexikanischer Mix Duo Pack",
+    "category": "Gemüse",
+    "subcategory": [
+      "Gemüsemischungen",
+      "Mexikanisch"
+    ]
+  },
+  {
+    "store": "billa",
+    "id": "00-339402",
+    "name": "d'aucy Sojabohnen",
+    "category": "Hülsenfrüchte",
+    "subcategory": [
+      "Sojabohnen"
+    ]
+  },
+  {
+    "store": "billa",
+    "id": "00-338994",
+    "name": "d'aucy Sonnenmais",
+    "category": "Gemüse",
+    "subcategory": [
+      "Gemüsemais"
+    ]
+  },
+  {
+    "store": "billa",
+    "id": "00-339438",
+    "name": "d'aucy Sonnenmais Duo Pack",
+    "category": "Gemüse",
+    "subcategory": [
+      "Gemüsemais",
+      "Gemüsemischungen"
+    ]
+  },
+  {
+    "store": "billa",
+    "id": "00-339447",
+    "name": "d'aucy Ungarischer Mix Duo Pack",
+    "category": "Gemüse",
+    "subcategory": [
+      "Gemüsemischungen",
+      "Ungarisch"
+    ]
+  },
+  {
+    "store": "billa",
+    "id": "00-421337",
+    "name": "efko Apfelmus",
+    "category": "Früchte",
+    "subcategory": [
+      "Apfelmus",
+      "Fruchtmus"
+    ]
+  },
+  {
+    "store": "billa",
+    "id": "00-811412",
+    "name": "efko Apfelmus Pur",
+    "category": "Früchte",
+    "subcategory": [
+      "Apfelmus",
+      "Fruchtmus"
+    ]
+  },
+  {
+    "store": "billa",
+    "id": "00-356496",
+    "name": "efko Apfelmus Pur mit Apfelstücken",
+    "category": "Früchte",
+    "subcategory": [
+      "Apfelmus",
+      "Fruchtmus",
+      "Apfelstücke"
+    ]
+  },
+  {
+    "store": "billa",
+    "id": "00-473969",
+    "name": "efko Birnenmus Pur",
+    "category": "Früchte",
+    "subcategory": [
+      "Birnenmus",
+      "Fruchtmus"
+    ]
+  },
+  {
+    "store": "billa",
+    "id": "00-16677",
+    "name": "efko Bohnensalat",
+    "category": "Gemüse",
+    "subcategory": [
+      "Salat",
+      "Bohnen"
+    ]
+  },
+  {
+    "store": "billa",
+    "id": "00-672146",
+    "name": "efko Bratwürstel Sauerkraut",
+    "category": "Gemüse",
+    "subcategory": [
+      "Sauerkraut"
+    ]
+  },
+  {
+    "store": "billa",
+    "id": "00-609811",
+    "name": "efko Champignons",
+    "category": "Gemüse",
+    "subcategory": [
+      "Champignons"
+    ]
+  },
+  {
+    "store": "billa",
+    "id": "00-592948",
+    "name": "efko Champignons Knoblauch & Chili",
+    "category": "Gemüse",
+    "subcategory": [
+      "Champignons",
+      "Knoblauch",
+      "Chili"
+    ]
+  },
+  {
+    "store": "billa",
+    "id": "00-840116",
+    "name": "efko Chili Knoblauch",
+    "category": "Gewürze",
+    "subcategory": [
+      "Chili",
+      "Knoblauch"
+    ]
+  },
+  {
+    "store": "billa",
+    "id": "00-16426",
+    "name": "efko Delikatess Gurken",
+    "category": "Gemüse",
+    "subcategory": [
+      "Gurken",
+      "Gemüsepickles"
+    ]
+  },
+  {
+    "store": "billa",
+    "id": "00-763433",
+    "name": "efko Delikatess Gurken",
+    "category": "Gemüse",
+    "subcategory": [
+      "Gurken",
+      "Gemüsepickles"
+    ]
+  },
+  {
+    "store": "billa",
+    "id": "00-20190",
+    "name": "efko Delikatessgurken süß-sauer",
+    "category": "Gemüse",
+    "subcategory": [
+      "Gurken",
+      "Süß-Sauer"
+    ]
+  },
+  {
+    "store": "billa",
+    "id": "00-650838",
+    "name": "efko Eferdinger Bohnensalat",
+    "category": "Gemüse",
+    "subcategory": [
+      "Salat",
+      "Bohnen"
+    ]
+  },
+  {
+    "store": "billa",
+    "id": "00-449017",
+    "name": "efko Eferdinger Sauerkraut",
+    "category": "Gemüse",
+    "subcategory": [
+      "Sauerkraut"
+    ]
+  },
+  {
+    "store": "billa",
+    "id": "00-377431",
+    "name": "efko Essiggurken Pur",
+    "category": "Gemüse",
+    "subcategory": [
+      "Gurken",
+      "Gemüsepickles"
+    ]
+  },
+  {
+    "store": "billa",
+    "id": "00-376228",
+    "name": "efko Fisolensalat",
+    "category": "Gemüse",
+    "subcategory": [
+      "Salat",
+      "Fisolen"
+    ]
+  },
+  {
+    "store": "billa",
+    "id": "00-451841",
+    "name": "efko Fitness Salat",
+    "category": "Gemüse",
+    "subcategory": [
+      "Salat",
+      "Gemüsemischungen"
+    ]
+  },
+  {
+    "store": "billa",
+    "id": "00-912378",
+    "name": "efko Gurki",
+    "category": "Gemüse",
+    "subcategory": [
+      "Gurken",
+      "Gemüsepickles"
+    ]
+  },
+  {
+    "store": "billa",
+    "id": "00-811251",
+    "name": "efko Hollerröster",
+    "category": "Früchte",
+    "subcategory": [
+      "Hollerröster",
+      "Fruchtmus"
+    ]
+  },
+  {
+    "store": "billa",
+    "id": "00-649356",
+    "name": "efko Jalapeno-Scheiben",
+    "category": "Gemüse",
+    "subcategory": [
+      "Chili",
+      "Jalapeno"
+    ]
+  },
+  {
+    "store": "billa",
+    "id": "00-592288",
+    "name": "efko Jausen Zwiebeln mit Chili",
+    "category": "Gemüse",
+    "subcategory": [
+      "Zwiebel",
+      "Chili"
+    ]
+  },
+  {
+    "store": "billa",
+    "id": "00-454926",
+    "name": "efko Jausenzwiebeln",
+    "category": "Gemüse",
+    "subcategory": [
+      "Zwiebel"
+    ]
+  },
+  {
+    "store": "billa",
+    "id": "00-473962",
+    "name": "efko Karottensalat",
+    "category": "Gemüse",
+    "subcategory": [
+      "Salat",
+      "Karotten"
+    ]
+  },
+  {
+    "store": "billa",
+    "id": "00-722222",
+    "name": "efko Kartoffeljause mit Kernöl",
+    "category": "Gemüse",
+    "subcategory": [
+      "Kartoffel",
+      "Spezialitäten"
+    ]
+  },
+  {
+    "store": "billa",
+    "id": "00-722460",
+    "name": "efko Kartoffeljause mit Speck",
+    "category": "Gemüse",
+    "subcategory": [
+      "Kartoffel",
+      "Spezialitäten"
+    ]
+  },
+  {
+    "store": "billa",
+    "id": "00-722466",
+    "name": "efko Kartoffeljause mit Tomaten",
+    "category": "Gemüse",
+    "subcategory": [
+      "Kartoffel",
+      "Spezialitäten"
+    ]
+  },
+  {
+    "store": "billa",
+    "id": "00-426361",
+    "name": "efko Kartoffelsalat",
+    "category": "Gemüse",
+    "subcategory": [
+      "Salat",
+      "Kartoffeln"
+    ]
+  },
+  {
+    "store": "billa",
+    "id": "00-473955",
+    "name": "efko Kartoffelsalat mit Mayonnaise",
+    "category": "Gemüse",
+    "subcategory": [
+      "Salat",
+      "Kartoffeln",
+      "Mayonnaise"
+    ]
+  },
+  {
+    "store": "billa",
+    "id": "00-652618",
+    "name": "efko Kartoffelsalat mit Schlemmergurken",
+    "category": "Gemüse",
+    "subcategory": [
+      "Salat",
+      "Kartoffeln",
+      "Schlemmergurken"
+    ]
+  },
+  {
+    "store": "billa",
+    "id": "00-774705",
+    "name": "efko Kartoffelsalat mit Schnittlauch",
+    "category": "Gemüse",
+    "subcategory": [
+      "Salat",
+      "Kartoffeln",
+      "Schnittlauch"
+    ]
+  },
+  {
+    "store": "billa",
+    "id": "00-429554",
+    "name": "efko Kirsch-Pfefferoni",
+    "category": "Gemüse",
+    "subcategory": [
+      "Pfefferoni",
+      "Gemüsepickles"
+    ]
+  },
+  {
+    "store": "billa",
+    "id": "00-243913",
+    "name": "efko Kirschen Pur",
+    "category": "Früchte",
+    "subcategory": [
+      "Kirschen",
+      "Fruchtmus"
+    ]
+  },
+  {
+    "store": "billa",
+    "id": "00-24063",
+    "name": "efko Knoblauch",
+    "category": "Gemüse",
+    "subcategory": [
+      "Knoblauch"
+    ]
+  },
+  {
+    "store": "billa",
+    "id": "00-23561",
+    "name": "efko Krach-Pfefferoni",
+    "category": "Gemüse",
+    "subcategory": [
+      "Pfefferoni",
+      "Gemüsepickles"
+    ]
+  },
+  {
+    "store": "billa",
+    "id": "00-719238",
+    "name": "efko Krautsalat mit Kümmel",
+    "category": "Gemüse",
+    "subcategory": [
+      "Salat",
+      "Kraut",
+      "Kümmel"
+    ]
+  },
+  {
+    "store": "billa",
+    "id": "00-423625",
+    "name": "efko Krautsalat mit Speck",
+    "category": "Gemüse",
+    "subcategory": [
+      "Salat",
+      "Kraut",
+      "Speck"
+    ]
+  },
+  {
+    "store": "billa",
+    "id": "00-840117",
+    "name": "efko Kräuter Knoblauch",
+    "category": "Gewürze",
+    "subcategory": [
+      "Kräuter",
+      "Knoblauch"
+    ]
+  },
+  {
+    "store": "billa",
+    "id": "00-176172",
+    "name": "efko Maiskölbchen",
+    "category": "Gemüse",
+    "subcategory": [
+      "Gemüsemais"
+    ]
+  },
+  {
+    "store": "billa",
+    "id": "00-811299",
+    "name": "efko Marillenröster",
+    "category": "Früchte",
+    "subcategory": [
+      "Marillenröster",
+      "Fruchtmus"
+    ]
+  },
+  {
+    "store": "billa",
+    "id": "00-763458",
+    "name": "efko Mexikanischer Salat",
+    "category": "Gemüse",
+    "subcategory": [
+      "Salat",
+      "Gemüsemischungen",
+      "Mexikanisch"
+    ]
+  },
+  {
+    "store": "billa",
+    "id": "00-717561",
+    "name": "efko Naschglaserl Apfel Kokos Ananas",
+    "category": "Früchte",
+    "subcategory": [
+      "Fruchtmus",
+      "Apfel",
+      "Kokos",
+      "Ananas"
+    ]
+  }
+]

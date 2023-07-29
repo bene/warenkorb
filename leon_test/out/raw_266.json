@@ -1,0 +1,704 @@
+Here is the modified JSON list with added fields for category and subcategories:
+
+[
+  {
+    "store": "spar",
+    "id": "2020003159732",
+    "name": "Yankee Candle Home Inspirations Duftglas Cosy Up Medium",
+    "category": "Haushalt",
+    "subcategories": ["Duftkerze", "Innenraumduft"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003159756",
+    "name": "Yankee Candle Home Inspirations Duftglas Cosy Up Small",
+    "category": "Haushalt",
+    "subcategories": ["Duftkerze", "Innenraumduft"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003159787",
+    "name": "Yankee Candle Home Inspirations Duftglas Exotic Fruits Medium",
+    "category": "Haushalt",
+    "subcategories": ["Duftkerze", "Innenraumduft"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003159794",
+    "name": "Yankee Candle Home Inspirations Duftglas Exotic Fruits Small",
+    "category": "Haushalt",
+    "subcategories": ["Duftkerze", "Innenraumduft"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003159893",
+    "name": "Yankee Candle Home Inspirations Duftglas Sugared Blossom Medium",
+    "category": "Haushalt",
+    "subcategories": ["Duftkerze", "Innenraumduft"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003159916",
+    "name": "Yankee Candle Home Inspirations Duftglas Sugared Blossom Small",
+    "category": "Haushalt",
+    "subcategories": ["Duftkerze", "Innenraumduft"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003159947",
+    "name": "Yankee Candle Home Inspirations Duftglas Vanilla Frosting Medium",
+    "category": "Haushalt",
+    "subcategories": ["Duftkerze", "Innenraumduft"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003159954",
+    "name": "Yankee Candle Home Inspirations XMAS Vanilla Frosting Small",
+    "category": "Haushalt",
+    "subcategories": ["Duftkerze", "Innenraumduft"]
+  },
+  {
+    "store": "spar",
+    "id": "7719219",
+    "name": "Zahel Komposition BIO 2020",
+    "category": "Getränke",
+    "subcategories": ["Wein", "Bio"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002900168",
+    "name": "Zak Schüssel Tropical blau",
+    "category": "Haushalt",
+    "subcategories": ["Geschirr", "Schüssel"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002443344",
+    "name": "Zak Smiley Speiseteller Smiley blau",
+    "category": "Haushalt",
+    "subcategories": ["Geschirr", "Teller"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002443306",
+    "name": "Zak Smiley Speiseteller Smiley grün",
+    "category": "Haushalt",
+    "subcategories": ["Geschirr", "Teller"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002443320",
+    "name": "Zak Smiley Speiseteller Smiley lila",
+    "category": "Haushalt",
+    "subcategories": ["Geschirr", "Teller"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002802387",
+    "name": "Zak Smiley Trinkbecher Blau Smiley",
+    "category": "Haushalt",
+    "subcategories": ["Geschirr", "Trinkbecher"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002802325",
+    "name": "Zak Smiley Trinkbecher Fuchsia Smiley",
+    "category": "Haushalt",
+    "subcategories": ["Geschirr", "Trinkbecher"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002802288",
+    "name": "Zak Smiley Trinkbecher Grün Smiley",
+    "category": "Haushalt",
+    "subcategories": ["Geschirr", "Trinkbecher"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002801984",
+    "name": "Zak Trinkbecher Dot Dot Blau",
+    "category": "Haushalt",
+    "subcategories": ["Geschirr", "Trinkbecher"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002802080",
+    "name": "Zak Trinkbecher Dot Dot Grün",
+    "category": "Haushalt",
+    "subcategories": ["Geschirr", "Trinkbecher"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002512651",
+    "name": "Zak Wasserflasche beere 75cl",
+    "category": "Haushalt",
+    "subcategories": ["Geschirr", "Trinkflasche"]
+  },
+  {
+    "store": "spar",
+    "id": "8134073",
+    "name": "Zenker Ausstecher Set Lebkuchenfamilie",
+    "category": "Küche",
+    "subcategories": ["Ausstecher", "Backzubehör"]
+  },
+  {
+    "store": "spar",
+    "id": "2246710",
+    "name": "Zenker Backformenset 4-teilig",
+    "category": "Küche",
+    "subcategories": ["Backform", "Backzubehör"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003431975",
+    "name": "Zenker Brotbackform ausziehbar 40cm",
+    "category": "Küche",
+    "subcategories": ["Brotbackform", "Backzubehör"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003045325",
+    "name": "Zenker Brotbackform oval",
+    "category": "Küche",
+    "subcategories": ["Brotbackform", "Backzubehör"]
+  },
+  {
+    "store": "spar",
+    "id": "2871325",
+    "name": "Zipfer Drei",
+    "category": "Getränke",
+    "subcategories": ["Bier"]
+  },
+  {
+    "store": "spar",
+    "id": "7941511",
+    "name": "Zipfer Drei 6 x 0,5l",
+    "category": "Getränke",
+    "subcategories": ["Bier"]
+  },
+  {
+    "store": "spar",
+    "id": "7266195",
+    "name": "Zipfer Hell Alkoholfrei Hell alkoholfrei",
+    "category": "Getränke",
+    "subcategories": ["Bier", "Alkoholfrei"]
+  },
+  {
+    "store": "spar",
+    "id": "8183057",
+    "name": "Zipfer Hell alkoholfrei 6 x 0,5l",
+    "category": "Getränke",
+    "subcategories": ["Bier", "Alkoholfrei"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002840501",
+    "name": "Zipfer Hops alkoholfrei",
+    "category": "Getränke",
+    "subcategories": ["Bier", "Alkoholfrei"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002907471",
+    "name": "Zipfer Hops alkoholfrei 6x0,33l",
+    "category": "Getränke",
+    "subcategories": ["Bier", "Alkoholfrei"]
+  },
+  {
+    "store": "spar",
+    "id": "7943508",
+    "name": "Zipfer Josefi-/StefaniBock 3.000 ML MEHRWEG",
+    "category": "Getränke",
+    "subcategories": ["Bier", "Festbier"]
+  },
+  {
+    "store": "spar",
+    "id": "795449",
+    "name": "Zipfer Josefi-/StefaniBock 500 ML MEHRWEG",
+    "category": "Getränke",
+    "subcategories": ["Bier", "Festbier"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003266386",
+    "name": "Zipfer K.A Kellerbier 6x0,5lt",
+    "category": "Getränke",
+    "subcategories": ["Bier", "Kellerbier"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003382512",
+    "name": "Zipfer Kellerbier",
+    "category": "Getränke",
+    "subcategories": ["Bier", "Kellerbier"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003669507",
+    "name": "Ziegenkäse mit Honig 1 KG",
+    "category": "Lebensmittel",
+    "subcategories": ["Käse", "Honig"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004011329",
+    "name": "Zentis Belmanda Edel-Marzipan Riegel classic",
+    "category": "Lebensmittel",
+    "subcategories": ["Süßwaren", "Marzipan"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003045332",
+    "name": "Zenker Hefezopfform 32cm",
+    "category": "Küche",
+    "subcategories": ["Backform", "Backzubehör"]
+  },
+  {
+    "store": "spar",
+    "id": "1993004",
+    "name": "Zenker Rehrückenform 30cm",
+    "category": "Küche",
+    "subcategories": ["Backform", "Backzubehör"]
+  },
+  {
+    "store": "spar",
+    "id": "6606114",
+    "name": "Zenker Schoko-Schmelztopf",
+    "category": "Küche",
+    "subcategories": ["Kochgeschirr", "Schmelztopf"]
+  },
+  {
+    "store": "spar",
+    "id": "3864173",
+    "name": "Zenker Springform 42 x 30 x 9 cm mit Haube",
+    "category": "Küche",
+    "subcategories": ["Backform", "Backzubehör"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002866518",
+    "name": "Zenker Spritzbeutel mit 6 Edelstahl Tüllen",
+    "category": "Küche",
+    "subcategories": ["Backzubehör", "Spritzbeutel"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003045295",
+    "name": "Zenker Stollenbackform 31cm",
+    "category": "Küche",
+    "subcategories": ["Backform", "Backzubehör"]
+  },
+  {
+    "store": "spar",
+    "id": "6772963",
+    "name": "Zenker Teigrolle Holz 25x6cm",
+    "category": "Küche",
+    "subcategories": ["Backzubehör", "Teigrolle"]
+  },
+  {
+    "store": "spar",
+    "id": "6978600",
+    "name": "Zewa Comfort Toilettenpapier Das Reinweisse 10 Rollen",
+    "category": "Haushalt",
+    "subcategories": ["Toilettenpapier"]
+  },
+  {
+    "store": "spar",
+    "id": "8185464",
+    "name": "Zewa Comfort Toilettenpapier Das Reinweisse 20 Rollen",
+    "category": "Haushalt",
+    "subcategories": ["Toilettenpapier"]
+  },
+  {
+    "store": "spar",
+    "id": "8185587",
+    "name": "Zewa Comfort Toilettenpapier Das klassisch Gelbe 10 Rollen",
+    "category": "Haushalt",
+    "subcategories": ["Toilettenpapier"]
+  },
+  {
+    "store": "spar",
+    "id": "8185426",
+    "name": "Zewa Comfort Toilettenpapier Das klassisch Gelbe 20 Rollen",
+    "category": "Haushalt",
+    "subcategories": ["Toilettenpapier"]
+  },
+  {
+    "store": "spar",
+    "id": "6979812",
+    "name": "Zewa Comfort Toilettenpapier Kamille 10 Rollen",
+    "category": "Haushalt",
+    "subcategories": ["Toilettenpapier"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001223985",
+    "name": "Zewa Comfort plus Toilettenpapier Streichelzart 9 Rollen",
+    "category": "Haushalt",
+    "subcategories": ["Toilettenpapier"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003001161",
+    "name": "Zewa Toilettenpapier Ultra Soft 2 Rollen",
+    "category": "Haushalt",
+    "subcategories": ["Toilettenpapier"]
+  },
+  {
+    "store": "spar",
+    "id": "2020000681762",
+    "name": "Zewa Wisch & Weg Küchenrollen Dekor 8 Rollen",
+    "category": "Haushalt",
+    "subcategories": ["Küchenrolle"]
+  },
+  {
+    "store": "spar",
+    "id": "8184825",
+    "name": "Zewa Wisch & Weg Küchenrollen Klassik 4 Rollen",
+    "category": "Haushalt",
+    "subcategories": ["Küchenrolle"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001716838",
+    "name": "Woolf Hundesnack Chicken & Rawhide Twister",
+    "category": "Haustier",
+    "subcategories": ["Hundefutter", "Snack"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003627958",
+    "name": "Woolf Hundesnack Duck Rahwide Twister",
+    "category": "Haustier",
+    "subcategories": ["Hundefutter", "Snack"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003673399",
+    "name": "Woolf Hundesnack Lachs & Karotte",
+    "category": "Haustier",
+    "subcategories": ["Hundefutter", "Snack"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001257317",
+    "name": "Woolf Hundesnack Soft Duck",
+    "category": "Haustier",
+    "subcategories": ["Hundefutter", "Snack"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004368317",
+    "name": "Wow Hundefutter Junior Rind",
+    "category": "Haustier",
+    "subcategories": ["Hundefutter", "Junior", "Rind"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004276827",
+    "name": "Wow Hundefutter Lamm",
+    "category": "Haustier",
+    "subcategories": ["Hundefutter", "Lamm"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002584832",
+    "name": "Wow Hundefutter Pute",
+    "category": "Haustier",
+    "subcategories": ["Hundefutter", "Pute"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002584849",
+    "name": "Wow Hundefutter Wild",
+    "category": "Haustier",
+    "subcategories": ["Hundefutter", "Wild"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002584757",
+    "name": "Wow Hundenahrung Adult Lachs 400g",
+    "category": "Haustier",
+    "subcategories": ["Hundefutter", "Lachs"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002584788",
+    "name": "Wow Hundenahrung Adult Rind 400g",
+    "category": "Haustier",
+    "subcategories": ["Hundefutter", "Rind"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002584856",
+    "name": "Wow Hundenahrung Adult Rind 800g",
+    "category": "Haustier",
+    "subcategories": ["Hundefutter", "Rind"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004437730",
+    "name": "Wow Hundenahrung Huhn",
+    "category": "Haustier",
+    "subcategories": ["Hundefutter", "Huhn"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004437723",
+    "name": "Wow Hundenahrung Huhn",
+    "category": "Haustier",
+    "subcategories": ["Hundefutter", "Huhn"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004438454",
+    "name": "Wow Hundenahrung Pute",
+    "category": "Haustier",
+    "subcategories": ["Hundefutter", "Pute"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002584801",
+    "name": "Wow Hundenahrung Senior mit Ente 400g",
+    "category": "Haustier",
+    "subcategories": ["Hundefutter", "Senior", "Ente"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004113757",
+    "name": "Wow Hundesnacks Entenhälse",
+    "category": "Haustier",
+    "subcategories": ["Hundefutter", "Snack", "Ente"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003299339",
+    "name": "Wow Hundetrockenfutter Minis Adult Huhn",
+    "category": "Haustier",
+    "subcategories": ["Hundefutter", "Trockenfutter", "Huhn"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003299346",
+    "name": "Wow Hundetrockenfutter Minis Adult Lamm",
+    "category": "Haustier",
+    "subcategories": ["Hundefutter", "Trockenfutter", "Lamm"]
+  },
+  {
+    "store": "spar",
+    "id": "8208590",
+    "name": "Wunderbaum Autoduft Apfel",
+    "category": "Haushalt",
+    "subcategories": ["Autoduft"]
+  },
+  {
+    "store": "spar",
+    "id": "8208569",
+    "name": "Wunderbaum Autoduft Pina Colada",
+    "category": "Haushalt",
+    "subcategories": ["Autoduft"]
+  },
+  {
+    "store": "spar",
+    "id": "8208637",
+    "name": "Wunderbaum Autoduft Sport",
+    "category": "Haushalt",
+    "subcategories": ["Autoduft"]
+  },
+  {
+    "store": "spar",
+    "id": "8205216",
+    "name": "Wunderbaum Autoduft Vanille",
+    "category": "Haushalt",
+    "subcategories": ["Autoduft"]
+  },
+  {
+    "store": "spar",
+    "id": "8205070",
+    "name": "Wunderbaum Lufterfrischer New Car 3x5g",
+    "category": "Haushalt",
+    "subcategories": ["Lufterfrischer"]
+  },
+  {
+    "store": "spar",
+    "id": "8205155",
+    "name": "Wunderbaum Lufterfrischer Tropical Clip 1x12g",
+    "category": "Haushalt",
+    "subcategories": ["Lufterfrischer"]
+  },
+  {
+    "store": "spar",
+    "id": "8208675",
+    "name": "Wunderbaum Lufterfrischer Vanillaroma 1x5g",
+    "category": "Haushalt",
+    "subcategories": ["Lufterfrischer"]
+  },
+  {
+    "store": "spar",
+    "id": "8205032",
+    "name": "Wunderbaum Lufterfrischer Vanillaroma 3x5g",
+    "category": "Haushalt",
+    "subcategories": ["Lufterfrischer"]
+  },
+  {
+    "store": "spar",
+    "id": "7946875",
+    "name": "Wurmhöringer Märzen",
+    "category": "Getränke",
+    "subcategories": ["Bier"]
+  },
+  {
+    "store": "spar",
+    "id": "6500801",
+    "name": "Wurmhöringer Märzen 3.960 ML EINWEG",
+    "category": "Getränke",
+    "subcategories": ["Bier"]
+  },
+  {
+    "store": "spar",
+    "id": "7937620",
+    "name": "Wurmi Lemon 3.960 ML EINWEG",
+    "category": "Getränke",
+    "subcategories": ["Limonade"]
+  },
+  {
+    "store": "spar",
+    "id": "8031075",
+    "name": "Wälder Spezial 0,33lt.",
+    "category": "Getränke",
+    "subcategories": ["Bier"]
+  },
+  {
+    "store": "spar",
+    "id": "7693823",
+    "name": "Wyborowa Wodka",
+    "category": "Getränke",
+    "subcategories": ["Spirituosen", "Wodka"]
+  },
+  {
+    "store": "spar",
+    "id": "7678875",
+    "name": "Xuxu Strawberry Vodka",
+    "category": "Getränke",
+    "subcategories": ["Spirituosen", "Vodka"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002617783",
+    "name": "Windisch Niki Gelber Muskateller 2021",
+    "category": "Getränke",
+    "subcategories": ["Wein", "Muskateller"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002617882",
+    "name": "Windisch Niki Grüner Veltliner Weinviertel DAC 2017",
+    "category": "Getränke",
+    "subcategories": ["Wein", "Grüner Veltliner"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003442469",
+    "name": "Winkler Hermaden Rosé BIO 2022",
+    "category": "Getränke",
+    "subcategories": ["Wein", "Rosé", "Bio"]
+  },
+  {
+    "store": "spar",
+    "id": "7935084",
+    "name": "Winkler Hermaden Welschriesling Vulkanland Steiermark DAC BIO 2021",
+    "category": "Getränke",
+    "subcategories": ["Wein", "Welschriesling", "Steiermark", "Bio"]
+  },
+  {
+    "store": "spar",
+    "id": "7935244",
+    "name": "Winkler Hermaden Zweigelt BIO 2017",
+    "category": "Getränke",
+    "subcategories": ["Wein", "Zweigelt", "Bio"]
+  },
+  {
+    "store": "spar",
+    "id": "4405061",
+    "name": "Winzer Krems Aprima Gspritzter weiss",
+    "category": "Getränke",
+    "subcategories": ["Wein", "Gspritzter"]
+  },
+  {
+    "store": "spar",
+    "id": "209106",
+    "name": "Winzer Krems Kremser Schmidt Grüner Veltliner 2022",
+    "category": "Getränke",
+    "subcategories": ["Wein", "Grüner Veltliner"]
+  },
+  {
+    "store": "spar",
+    "id": "7297977",
+    "name": "Winzer Krems Ratsherr Blauer Zweigelt",
+    "category": "Getränke",
+    "subcategories": ["Wein", "Blauer Zweigelt"]
+  },
+  {
+    "store": "spar",
+    "id": "7297939",
+    "name": "Winzer Krems Ratsherr Grüner Veltliner",
+    "category": "Getränke",
+    "subcategories": ["Wein", "Grüner Veltliner"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004205582",
+    "name": "Winzer Krems Ratsherr Grüner Veltliner",
+    "category": "Getränke",
+    "subcategories": ["Wein", "Grüner Veltliner"]
+  },
+  {
+    "store": "spar",
+    "id": "644549",
+    "name": "Winzer Krems Sandgrube 13 Blauer Portugieser 2021",
+    "category": "Getränke",
+    "subcategories": ["Wein", "Blauer Portugieser"]
+  },
+  {
+    "store": "spar",
+    "id": "3133385",
+    "name": "Winzer Krems Sandgrube 13 Blauer Zweigelt 2021",
+    "category": "Getränke",
+    "subcategories": ["Wein", "Blauer Zweigelt"]
+  },
+  {
+    "store": "spar",
+    "id": "885485",
+    "name": "Winzer Krems Sandgrube 13 Blauer Zweigelt 2022",
+    "category": "Getränke",
+    "subcategories": ["Wein", "Blauer Zweigelt"]
+  },
+  {
+    "store": "spar",
+    "id": "3133378",
+    "name": "Winzer Krems Sandgrube 13 Grüner Veltliner 2022",
+    "category": "Getränke",
+    "subcategories": ["Wein", "Grüner Veltliner"]
+  },
+  {
+    "store": "spar",
+    "id": "644327",
+    "name": "Winzer Krems Sandgrube 13 Kremser Grüner Veltliner 2022",
+    "category": "Getränke",
+    "subcategories": ["Wein", "Grüner Veltliner"]
+  },
+  {
+    "store": "spar",
+    "id": "644525",
+    "name": "Winzer Krems Sandgrube 13 Rivaner 2021",
+    "category": "Getränke",
+    "subcategories": ["Wein", "Rivaner"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003941825",
+    "name": "Winzer Krems Von der Hochkultur Chardonnay 'von der Hochkultur' 2022",
+    "category": "Getränke",
+    "subcategories": ["Wein", "Chardonnay"]
+  }
+]

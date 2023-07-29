@@ -1,0 +1,702 @@
+[
+  {
+    "store": "billa",
+    "id": "00-72372",
+    "name": "Stroh Rum 60%",
+    "category": "Spirituosen",
+    "subcategories": ["Rum"]
+  },
+  {
+    "store": "billa",
+    "id": "00-580134",
+    "name": "Stroh Rum 80%",
+    "category": "Spirituosen",
+    "subcategories": ["Rum"]
+  },
+  {
+    "store": "billa",
+    "id": "00-587001",
+    "name": "Tails Cocktails Espresso Martini",
+    "category": "Spirituosen",
+    "subcategories": ["Cocktails"]
+  },
+  {
+    "store": "billa",
+    "id": "00-587018",
+    "name": "Tails Cocktails Gin Gimlet",
+    "category": "Spirituosen",
+    "subcategories": ["Cocktails"]
+  },
+  {
+    "store": "billa",
+    "id": "00-587008",
+    "name": "Tails Cocktails Passionfruit Martini",
+    "category": "Spirituosen",
+    "subcategories": ["Cocktails"]
+  },
+  {
+    "store": "billa",
+    "id": "00-724782",
+    "name": "Tails Cocktails Raspberry Cosmopolitan",
+    "category": "Spirituosen",
+    "subcategories": ["Cocktails"]
+  },
+  {
+    "store": "billa",
+    "id": "00-587004",
+    "name": "Tails Cocktails Rum Daiquiri",
+    "category": "Spirituosen",
+    "subcategories": ["Cocktails"]
+  },
+  {
+    "store": "billa",
+    "id": "00-587015",
+    "name": "Tails Cocktails Whisky Sour",
+    "category": "Spirituosen",
+    "subcategories": ["Cocktails"]
+  },
+  {
+    "store": "billa",
+    "id": "00-696211",
+    "name": "Talisker 10 Years Old Single Malt Whisky",
+    "category": "Spirituosen",
+    "subcategories": ["Whisky"]
+  },
+  {
+    "store": "billa",
+    "id": "00-288997",
+    "name": "Talisker Skye Single Malt Scotch",
+    "category": "Spirituosen",
+    "subcategories": ["Whisky"]
+  },
+  {
+    "store": "billa",
+    "id": "00-778677",
+    "name": "Talisker Storm Single Malt Scotch Whisky",
+    "category": "Spirituosen",
+    "subcategories": ["Whisky"]
+  },
+  {
+    "store": "billa",
+    "id": "00-811045",
+    "name": "Tanqueray Dry Gin",
+    "category": "Spirituosen",
+    "subcategories": ["Gin"]
+  },
+  {
+    "store": "billa",
+    "id": "00-299053",
+    "name": "Tanqueray Flor De Sevilla Distilled Gin",
+    "category": "Spirituosen",
+    "subcategories": ["Gin"]
+  },
+  {
+    "store": "billa",
+    "id": "00-948261",
+    "name": "The Kraken Black Spiced Rum",
+    "category": "Spirituosen",
+    "subcategories": ["Rum"]
+  },
+  {
+    "store": "billa",
+    "id": "00-789761",
+    "name": "Tsantali Ouzo",
+    "category": "Spirituosen",
+    "subcategories": ["Ouzo"]
+  },
+  {
+    "store": "billa",
+    "id": "00-202192",
+    "name": "Tullamore D.E.W. Irish Whiskey",
+    "category": "Spirituosen",
+    "subcategories": ["Whisky"]
+  },
+  {
+    "store": "billa",
+    "id": "00-637231",
+    "name": "Underberg Rheinberger Kräuter 12er",
+    "category": "Spirituosen",
+    "subcategories": ["Kräuterlikör", "Digestif"]
+  },
+  {
+    "store": "billa",
+    "id": "00-68472",
+    "name": "Underberg Rheinberger Kräuter 3er",
+    "category": "Spirituosen",
+    "subcategories": ["Kräuterlikör", "Digestif"]
+  },
+  {
+    "store": "billa",
+    "id": "00-15010",
+    "name": "Verpoorten Eierlikör",
+    "category": "Spirituosen",
+    "subcategories": ["Likör"]
+  },
+  {
+    "store": "billa",
+    "id": "00-472681",
+    "name": "White Claw Hard Seltzer Black Cherry",
+    "category": "Spirituosen",
+    "subcategories": ["Seltzer", "Alkohol"]
+  },
+  {
+    "store": "billa",
+    "id": "00-472678",
+    "name": "White Claw Hard Seltzer Natural Lime",
+    "category": "Spirituosen",
+    "subcategories": ["Seltzer", "Alkohol"]
+  },
+  {
+    "store": "billa",
+    "id": "00-472679",
+    "name": "White Claw Hard Seltzer Raspberry",
+    "category": "Spirituosen",
+    "subcategories": ["Seltzer", "Alkohol"]
+  },
+  {
+    "store": "billa",
+    "id": "00-433652",
+    "name": "Wiener Dirndl Fruchtlikör Bio",
+    "category": "Spirituosen",
+    "subcategories": ["Likör"]
+  },
+  {
+    "store": "billa",
+    "id": "00-901611",
+    "name": "Wodka Kaliskaya",
+    "category": "Spirituosen",
+    "subcategories": ["Wodka"]
+  },
+  {
+    "store": "billa",
+    "id": "00-72207",
+    "name": "Wyborowa Wodka",
+    "category": "Spirituosen",
+    "subcategories": ["Wodka"]
+  },
+  {
+    "store": "billa",
+    "id": "00-820448",
+    "name": "Xuxu Erdbeerdrink mit Vodka",
+    "category": "Spirituosen",
+    "subcategories": ["Vodka"]
+  },
+  {
+    "store": "billa",
+    "id": "00-428578",
+    "name": "Yeni Raki",
+    "category": "Spirituosen",
+    "subcategories": ["Raki"]
+  },
+  {
+    "store": "hofer",
+    "id": 543690,
+    "name": "CLARKES Kentucky Straight Bourbon 0,7l",
+    "category": "Spirituosen",
+    "subcategories": ["Bourbon"]
+  },
+  {
+    "store": "hofer",
+    "id": 548870,
+    "name": "Dry & Tonic 250ml",
+    "category": "Spirituosen",
+    "subcategories": ["Tonic Wasser"]
+  },
+  {
+    "store": "billa",
+    "id": "00-474927",
+    "name": "A&H Nittnaus Heideboden Rot",
+    "category": "Wein",
+    "subcategories": ["Rotwein"]
+  },
+  {
+    "store": "billa",
+    "id": "00-475719",
+    "name": "A&H Nittnaus John",
+    "category": "Wein",
+    "subcategories": ["Rotwein"]
+  },
+  {
+    "store": "billa",
+    "id": "00-454873",
+    "name": "A&H Nittnaus Rosé Kalk & Schiefer",
+    "category": "Wein",
+    "subcategories": ["Roséwein"]
+  },
+  {
+    "store": "billa",
+    "id": "00-468219",
+    "name": "A&H Nittnaus St. Laurent",
+    "category": "Wein",
+    "subcategories": ["Rotwein"]
+  },
+  {
+    "store": "billa",
+    "id": "00-669731",
+    "name": "Allacher Pfirsich-Spritzer rot",
+    "category": "Wein",
+    "subcategories": ["Pfirsich", "Spritzer"]
+  },
+  {
+    "store": "billa",
+    "id": "00-490270",
+    "name": "Alphart Chardonnay vom Berg",
+    "category": "Wein",
+    "subcategories": ["Chardonnay", "Weißwein"]
+  },
+  {
+    "store": "billa",
+    "id": "00-461882",
+    "name": "Alphart Riesling Selection",
+    "category": "Wein",
+    "subcategories": ["Riesling", "Weißwein"]
+  },
+  {
+    "store": "billa",
+    "id": "00-433001",
+    "name": "Alphart Rotgipfler Rodauner",
+    "category": "Wein",
+    "subcategories": ["Rotgipfler", "Weißwein"]
+  },
+  {
+    "store": "billa",
+    "id": "00-464160",
+    "name": "Alphart Rotgipfler vom Berg",
+    "category": "Wein",
+    "subcategories": ["Rotgipfler", "Weißwein"]
+  },
+  {
+    "store": "billa",
+    "id": "00-464408",
+    "name": "Alphart Zierfandler Rotgipfler",
+    "category": "Wein",
+    "subcategories": ["Zierfandler", "Weißwein"]
+  },
+  {
+    "store": "billa",
+    "id": "00-461748",
+    "name": "BILLA Bio Pinot Grigio IGT",
+    "category": "Wein",
+    "subcategories": ["Pinot Grigio", "Weißwein"]
+  },
+  {
+    "store": "billa",
+    "id": "00-461745",
+    "name": "BILLA Bio Rosato IGT",
+    "category": "Wein",
+    "subcategories": ["Roséwein"]
+  },
+  {
+    "store": "billa",
+    "id": "00-29266",
+    "name": "Baron Philippe de Rothschild Bordeaux",
+    "category": "Wein",
+    "subcategories": ["Bordeaux", "Rotwein"]
+  },
+  {
+    "store": "billa",
+    "id": "00-400617",
+    "name": "Baron du Val Cabernet Sauvignon",
+    "category": "Wein",
+    "subcategories": ["Cabernet Sauvignon", "Rotwein"]
+  },
+  {
+    "store": "billa",
+    "id": "00-403150",
+    "name": "Baron du Val Merlot",
+    "category": "Wein",
+    "subcategories": ["Merlot", "Rotwein"]
+  },
+  {
+    "store": "billa",
+    "id": "00-814958",
+    "name": "Barone Montalto Passivento Rosso Sicilia",
+    "category": "Wein",
+    "subcategories": ["Rotwein"]
+  },
+  {
+    "store": "billa",
+    "id": "00-580666",
+    "name": "Bayer-Erbhof Greenfield",
+    "category": "Wein",
+    "subcategories": ["Weißwein"]
+  },
+  {
+    "store": "billa",
+    "id": "00-580677",
+    "name": "Bayer-Erbhof Yellowbloom",
+    "category": "Wein",
+    "subcategories": ["Weißwein"]
+  },
+  {
+    "store": "billa",
+    "id": "00-299012",
+    "name": "Bertoldi Südtiroler Kalterer See",
+    "category": "Wein",
+    "subcategories": ["Rotwein"]
+  },
+  {
+    "store": "billa",
+    "id": "00-965525",
+    "name": "Bordeaux Rouge",
+    "category": "Wein",
+    "subcategories": ["Bordeaux", "Rotwein"]
+  },
+  {
+    "store": "billa",
+    "id": "00-434124",
+    "name": "Brancott Sauvignon Blanc",
+    "category": "Wein",
+    "subcategories": ["Sauvignon Blanc", "Weißwein"]
+  },
+  {
+    "store": "billa",
+    "id": "00-465858",
+    "name": "Brindlmayer Rosé vom Zweigelt",
+    "category": "Wein",
+    "subcategories": ["Roséwein"]
+  },
+  {
+    "store": "billa",
+    "id": "00-471611",
+    "name": "Brolli Gelber Muskateller Eckberg DAC",
+    "category": "Wein",
+    "subcategories": ["Gelber Muskateller", "Weißwein"]
+  },
+  {
+    "store": "billa",
+    "id": "00-461840",
+    "name": "Brolli Weissburgunder Südsteiermark DAC",
+    "category": "Wein",
+    "subcategories": ["Weissburgunder", "Weißwein"]
+  },
+  {
+    "store": "billa",
+    "id": "00-492386",
+    "name": "Brolli Welschriesling",
+    "category": "Wein",
+    "subcategories": ["Welschriesling", "Weißwein"]
+  },
+  {
+    "store": "billa",
+    "id": "00-703416",
+    "name": "Brombeerwein",
+    "category": "Wein",
+    "subcategories": ["Fruchtwein", "Beerenwein"]
+  },
+  {
+    "store": "billa",
+    "id": "00-415694",
+    "name": "Brunello di Montalcino",
+    "category": "Wein",
+    "subcategories": ["Rotwein"]
+  },
+  {
+    "store": "billa",
+    "id": "00-468168",
+    "name": "Bründlmayer Grüner Veltliner",
+    "category": "Wein",
+    "subcategories": ["Grüner Veltliner", "Weißwein"]
+  },
+  {
+    "store": "billa",
+    "id": "00-511808",
+    "name": "Bründlmayer Grüner Veltliner Reserve",
+    "category": "Wein",
+    "subcategories": ["Grüner Veltliner", "Weißwein"]
+  },
+  {
+    "store": "billa",
+    "id": "00-495086",
+    "name": "Bründlmayer Riesling",
+    "category": "Wein",
+    "subcategories": ["Riesling", "Weißwein"]
+  },
+  {
+    "store": "billa",
+    "id": "00-496474",
+    "name": "Bründlmayer Zweigelt",
+    "category": "Wein",
+    "subcategories": ["Zweigelt", "Rotwein"]
+  },
+  {
+    "store": "billa",
+    "id": "00-1317",
+    "name": "Cadis Soave",
+    "category": "Wein",
+    "subcategories": ["Soave", "Weißwein"]
+  },
+  {
+    "store": "billa",
+    "id": "00-902687",
+    "name": "Calvet Reserve Bordeaux Rouge",
+    "category": "Wein",
+    "subcategories": ["Bordeaux", "Rotwein"]
+  },
+  {
+    "store": "billa",
+    "id": "00-467954",
+    "name": "Cantina Di Monteforte Soave DOC",
+    "category": "Wein",
+    "subcategories": ["Soave", "Weißwein"]
+  },
+  {
+    "store": "billa",
+    "id": "00-473305",
+    "name": "Cantina di Castelnuovo Bardolino DOC",
+    "category": "Wein",
+    "subcategories": ["Bardolino", "Rotwein"]
+  },
+  {
+    "store": "billa",
+    "id": "00-941001",
+    "name": "Cantine Riunite Lambrusco Salamino",
+    "category": "Wein",
+    "subcategories": ["Lambrusco", "Rotwein"]
+  },
+  {
+    "store": "billa",
+    "id": "00-480834",
+    "name": "Cantine Vitevis Pinot Grigio DOC",
+    "category": "Wein",
+    "subcategories": ["Pinot Grigio", "Weißwein"]
+  },
+  {
+    "store": "billa",
+    "id": "00-423888",
+    "name": "Casillero Del Diablo Cabernet Sauvignon",
+    "category": "Wein",
+    "subcategories": ["Cabernet Sauvignon", "Rotwein"]
+  },
+  {
+    "store": "billa",
+    "id": "00-384576",
+    "name": "Casteggio Pinot Grigio Oltrepo Pavese",
+    "category": "Wein",
+    "subcategories": ["Pinot Grigio", "Weißwein"]
+  },
+  {
+    "store": "billa",
+    "id": "00-389707",
+    "name": "Castelliere Chardonnay Valdadige",
+    "category": "Wein",
+    "subcategories": ["Chardonnay", "Weißwein"]
+  },
+  {
+    "store": "billa",
+    "id": "00-256718",
+    "name": "Castelliere Merlot Trentino DOC",
+    "category": "Wein",
+    "subcategories": ["Merlot", "Rotwein"]
+  },
+  {
+    "store": "billa",
+    "id": "00-327220",
+    "name": "Castillo de Anna Gran Reserva",
+    "category": "Wein",
+    "subcategories": ["Gran Reserva", "Rotwein"]
+  },
+  {
+    "store": "billa",
+    "id": "00-415300",
+    "name": "Cecchi Chianti",
+    "category": "Wein",
+    "subcategories": ["Chianti", "Rotwein"]
+  },
+  {
+    "store": "billa",
+    "id": "00-415299",
+    "name": "Cecchi Chianti Classico",
+    "category": "Wein",
+    "subcategories": ["Chianti", "Rotwein"]
+  },
+  {
+    "store": "billa",
+    "id": "00-468977",
+    "name": "Christ Grüner Veltliner Bruch",
+    "category": "Wein",
+    "subcategories": ["Grüner Veltliner", "Weißwein"]
+  },
+  {
+    "store": "billa",
+    "id": "00-468988",
+    "name": "Christ Mephisto",
+    "category": "Wein",
+    "subcategories": ["Mephisto", "Rotwein"]
+  },
+  {
+    "store": "billa",
+    "id": "00-469409",
+    "name": "Christ Weissburgunder - Der Vollmondwein",
+    "category": "Wein",
+    "subcategories": ["Weissburgunder", "Weißwein"]
+  },
+  {
+    "store": "billa",
+    "id": "00-469105",
+    "name": "Christ Wiener Gemischter Satz DAC Bisamberg",
+    "category": "Wein",
+    "subcategories": ["Gemischter Satz", "Weißwein"]
+  },
+  {
+    "store": "billa",
+    "id": "00-474919",
+    "name": "Christoph Bauer Gr. Veltliner Weinviertel DAC",
+    "category": "Wein",
+    "subcategories": ["Grüner Veltliner", "Weißwein"]
+  },
+  {
+    "store": "billa",
+    "id": "00-482512",
+    "name": "Cobenzl Grüner Veltliner Classic",
+    "category": "Wein",
+    "subcategories": ["Grüner Veltliner", "Weißwein"]
+  },
+  {
+    "store": "billa",
+    "id": "00-300552",
+    "name": "Cobenzl Riesling Nussberg",
+    "category": "Wein",
+    "subcategories": ["Riesling", "Weißwein"]
+  },
+  {
+    "store": "billa",
+    "id": "00-466557",
+    "name": "Cobenzl Wiener Gemischter Satz DAC",
+    "category": "Wein",
+    "subcategories": ["Gemischter Satz", "Weißwein"]
+  },
+  {
+    "store": "billa",
+    "id": "00-255102",
+    "name": "Cobenzl Zweigelt Bisamberg",
+    "category": "Wein",
+    "subcategories": ["Zweigelt", "Rotwein"]
+  },
+  {
+    "store": "billa",
+    "id": "00-439024",
+    "name": "Coto Mayor Rioja Crianza",
+    "category": "Wein",
+    "subcategories": ["Rioja", "Rotwein"]
+  },
+  {
+    "store": "billa",
+    "id": "00-17787",
+    "name": "Coto Vintage Rioja Gran Reserva",
+    "category": "Wein",
+    "subcategories": ["Rioja", "Gran Reserva", "Rotwein"]
+  },
+  {
+    "store": "billa",
+    "id": "00-17788",
+    "name": "Coto Vintage Rioja Reserva 2014",
+    "category": "Wein",
+    "subcategories": ["Rioja", "Reserva", "Rotwein"]
+  },
+  {
+    "store": "billa",
+    "id": "00-464635",
+    "name": "Dockner Gelber Muskateller",
+    "category": "Wein",
+    "subcategories": ["Gelber Muskateller", "Weißwein"]
+  },
+  {
+    "store": "billa",
+    "id": "00-473948",
+    "name": "Dockner Grüner Veltliner",
+    "category": "Wein",
+    "subcategories": ["Grüner Veltliner", "Weißwein"]
+  },
+  {
+    "store": "billa",
+    "id": "00-513219",
+    "name": "Domaine Pöttelsdorf Blaufränkisch Bankett",
+    "category": "Wein",
+    "subcategories": ["Blaufränkisch", "Rotwein"]
+  },
+  {
+    "store": "billa",
+    "id": "00-451377",
+    "name": "Domaine Pöttelsdorf Schilfschneider Blaufränkisch",
+    "category": "Wein",
+    "subcategories": ["Blaufränkisch", "Rotwein"]
+  },
+  {
+    "store": "billa",
+    "id": "00-473995",
+    "name": "Domaine Pöttelsdorf Schilfschneider Blaufränkisch Rosé",
+    "category": "Wein",
+    "subcategories": ["Roséwein"]
+  },
+  {
+    "store": "billa",
+    "id": "00-462148",
+    "name": "Domaine Pöttelsdorf Zweigelt Bankett",
+    "category": "Wein",
+    "subcategories": ["Zweigelt", "Rotwein"]
+  },
+  {
+    "store": "billa",
+    "id": "00-288065",
+    "name": "Domenica Cabernet Sauvignon del Veneto",
+    "category": "Wein",
+    "subcategories": ["Cabernet Sauvignon", "Rotwein"]
+  },
+  {
+    "store": "billa",
+    "id": "00-477744",
+    "name": "Domäne Gobelsburg Grüner Veltliner",
+    "category": "Wein",
+    "subcategories": ["Grüner Veltliner", "Weißwein"]
+  },
+  {
+    "store": "billa",
+    "id": "00-474941",
+    "name": "Domäne Wachau Grüner Veltliner Classic Federspiel",
+    "category": "Wein",
+    "subcategories": ["Grüner Veltliner", "Weißwein"]
+  },
+  {
+    "store": "billa",
+    "id": "00-481321",
+    "name": "Domäne Wachau Grüner Veltliner Liebenberg Federspiel",
+    "category": "Wein",
+    "subcategories": ["Grüner Veltliner", "Weißwein"]
+  },
+  {
+    "store": "billa",
+    "id": "00-468152",
+    "name": "Domäne Wachau Riesling Federspiel",
+    "category": "Wein",
+    "subcategories": ["Riesling", "Weißwein"]
+  },
+  {
+    "store": "billa",
+    "id": "00-456387",
+    "name": "Domäne Wachau Steinfeder Grüner Veltliner",
+    "category": "Wein",
+    "subcategories": ["Grüner Veltliner", "Weißwein"]
+  },
+  {
+    "store": "billa",
+    "id": "00-423885",
+    "name": "Don Luciano Tempranillo La Mancha",
+    "category": "Wein",
+    "subcategories": ["Tempranillo", "Rotwein"]
+  },
+  {
+    "store": "billa",
+    "id": "00-490784",
+    "name": "Edlmoser Laessiger Gemischter Satz",
+    "category": "Wein",
+    "subcategories": ["Gemischter Satz", "Weißwein"]
+  },
+  {
+    "store": "billa",
+    "id": "00-481412",
+    "name": "Edlmoser Laessiger Grüner Veltliner",
+    "category": "Wein",
+    "subcategories": ["Grüner Veltliner", "Weißwein"]
+  }
+]

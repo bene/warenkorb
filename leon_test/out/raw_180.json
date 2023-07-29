@@ -1,0 +1,91 @@
+The updated JSON list with categories and subcategories for each product is as follows:
+
+[
+  {
+    "store": "spar",
+    "id": "2400181",
+    "name": "S-BUDGET Stapel Chips Paprika-Geschmack",
+    "category": "Chips",
+    "subcategories": ["Stapel Chips", "Paprika-Geschmack"]
+  },
+  {
+    "store": "spar",
+    "id": "2400297",
+    "name": "S-BUDGET Stapel Chips Sour Cream & Onion-Geschmack",
+    "category": "Chips",
+    "subcategories": ["Stapel Chips", "Sour Cream & Onion-Geschmack"]
+  },
+  {
+    "store": "spar",
+    "id": "7732218",
+    "name": "S-BUDGET Studentenfutter",
+    "category": "Studentenfutter",
+    "subcategories": []
+  },
+  {
+    "store": "spar",
+    "id": "2020002935047",
+    "name": "S-BUDGET Studentenfutter Exotic",
+    "category": "Studentenfutter",
+    "subcategories": ["Exotic"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004012197",
+    "name": "SPAR Linsenchips Meersalz",
+    "category": "Chips",
+    "subcategories": ["Linsenchips", "Meersalz"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004012210",
+    "name": "SPAR Linsenchips Sour Cream",
+    "category": "Chips",
+    "subcategories": ["Linsenchips", "Sour Cream"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003615917",
+    "name": "SPAR Long Chips Salz",
+    "category": "Chips",
+    "subcategories": ["Long Chips", "Salz"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003425073",
+    "name": "SPAR Long Chips Sour Cream & Onion",
+    "category": "Chips",
+    "subcategories": ["Long Chips", "Sour Cream & Onion"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003425110",
+    "name": "SPAR Long Chips Tomate",
+    "category": "Chips",
+    "subcategories": ["Long Chips", "Tomate"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001987320",
+    "name": "SPAR Macadamia geröstet & gesalzen",
+    "category": "Nüsse",
+    "subcategories": ["Macadamia", "geröstet & gesalzen"]
+  },
+  {
+    "store": "spar",
+    "id": "1397017",
+    "name": "SPAR Natur*pur Bio-Cashew Cranberry-Mix",
+    "category": "Nüsse",
+    "subcategories": ["Cashew", "Cranberry-Mix"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002309879",
+    "name": "SPAR Natur*pur Bio-Cashewkerne",
+    "category": "Nüsse",
+    "subcategories": ["Cashewkerne"]
+  },
+...
+]
+
+Note: Categories like "Chips" and "Nüsse" are used to group similar products together. The subcategories are provided as synonyms or search terms for a more specific description of the product.

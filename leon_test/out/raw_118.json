@@ -1,0 +1,704 @@
+Here is the modified JSON list with the added fields:
+
+[
+  {
+    "store": "billa",
+    "id": "00-767484",
+    "name": "Sheba Selection in Sauce Geflügel Variation 4-Pack",
+    "category": "Tiernahrung",
+    "subcategories": ["Katzenfutter"]
+  },
+  {
+    "store": "billa",
+    "id": "00-537099",
+    "name": "Sheba Selection in Sauce Herzhafte Komposition 4-Pack",
+    "category": "Tiernahrung",
+    "subcategories": ["Katzenfutter"]
+  },
+  {
+    "store": "billa",
+    "id": "00-287489",
+    "name": "Sheba Selection in Sauce mit Kalbshäppchen",
+    "category": "Tiernahrung",
+    "subcategories": ["Katzenfutter"]
+  },
+  {
+    "store": "billa",
+    "id": "00-287471",
+    "name": "Sheba Selection in Sauce mit Rinderhäppchen",
+    "category": "Tiernahrung",
+    "subcategories": ["Katzenfutter"]
+  },
+  {
+    "store": "billa",
+    "id": "00-900930",
+    "name": "Sirikit Öko-Katzenstreu",
+    "category": "Tiernahrung",
+    "subcategories": ["Katzenstreu"]
+  },
+  {
+    "store": "billa",
+    "id": "00-897948",
+    "name": "Vitakraft Cat Yums",
+    "category": "Tiernahrung",
+    "subcategories": ["Katzenfutter", "Katzensnacks"]
+  },
+  {
+    "store": "billa",
+    "id": "00-316912",
+    "name": "Vitakraft Cat Yums Lachs",
+    "category": "Tiernahrung",
+    "subcategories": ["Katzenfutter", "Katzensnacks"]
+  },
+  {
+    "store": "billa",
+    "id": "00-286696",
+    "name": "Vitakraft Cat-Stick Lachs",
+    "category": "Tiernahrung",
+    "subcategories": ["Katzensnacks"]
+  },
+  {
+    "store": "billa",
+    "id": "00-309048",
+    "name": "Vitakraft Cat-Stick Mini Ente & Kaninchen",
+    "category": "Tiernahrung",
+    "subcategories": ["Katzensnacks"]
+  },
+  {
+    "store": "billa",
+    "id": "00-309043",
+    "name": "Vitakraft Cat-Stick Mini Truthahn & Lamm",
+    "category": "Tiernahrung",
+    "subcategories": ["Katzensnacks"]
+  },
+  {
+    "store": "billa",
+    "id": "00-381842",
+    "name": "Vitakraft Liquid Snack mit Ente 6er",
+    "category": "Tiernahrung",
+    "subcategories": ["Katzensnacks"]
+  },
+  {
+    "store": "billa",
+    "id": "00-308982",
+    "name": "Vitakraft Liquid Snack mit Huhn 6er",
+    "category": "Tiernahrung",
+    "subcategories": ["Katzensnacks"]
+  },
+  {
+    "store": "billa",
+    "id": "00-308989",
+    "name": "Vitakraft Liquid Snack mit Lachs 6er",
+    "category": "Tiernahrung",
+    "subcategories": ["Katzensnacks"]
+  },
+  {
+    "store": "billa",
+    "id": "00-308990",
+    "name": "Vitakraft Liquid Snack mit Rind 6er",
+    "category": "Tiernahrung",
+    "subcategories": ["Katzensnacks"]
+  },
+  {
+    "store": "billa",
+    "id": "00-486884",
+    "name": "Vitakraft Poesie Huhn & Gartengemüse",
+    "category": "Tiernahrung",
+    "subcategories": ["Katzenfutter"]
+  },
+  {
+    "store": "billa",
+    "id": "00-487015",
+    "name": "Vitakraft Poesie Mousse Ente",
+    "category": "Tiernahrung",
+    "subcategories": ["Katzenfutter"]
+  },
+  {
+    "store": "billa",
+    "id": "00-486965",
+    "name": "Vitakraft Poesie Mousse Huhn",
+    "category": "Tiernahrung",
+    "subcategories": ["Katzenfutter"]
+  },
+  {
+    "store": "billa",
+    "id": "00-486867",
+    "name": "Vitakraft Poesie Pute in Käsesauce",
+    "category": "Tiernahrung",
+    "subcategories": ["Katzenfutter"]
+  },
+  {
+    "store": "billa",
+    "id": "00-486877",
+    "name": "Vitakraft Poesie Rind & Karotten",
+    "category": "Tiernahrung",
+    "subcategories": ["Katzenfutter"]
+  },
+  {
+    "store": "billa",
+    "id": "00-724796",
+    "name": "Whiskas Chef's Choice in Sauce",
+    "category": "Tiernahrung",
+    "subcategories": ["Katzenfutter"]
+  },
+  {
+    "store": "billa",
+    "id": "00-404747",
+    "name": "Whiskas Crunchy Trio mit Fleischgeschmack",
+    "category": "Tiernahrung",
+    "subcategories": ["Katzensnacks"]
+  },
+  {
+    "store": "billa",
+    "id": "00-779386",
+    "name": "Whiskas Frischebeutel Ragout Geflügel 1+",
+    "category": "Tiernahrung",
+    "subcategories": ["Katzenfutter"]
+  },
+  {
+    "store": "billa",
+    "id": "00-966668",
+    "name": "Whiskas Frischebeutel Ragout Geflügel Junior",
+    "category": "Tiernahrung",
+    "subcategories": ["Katzenfutter"]
+  },
+  {
+    "store": "billa",
+    "id": "00-930901",
+    "name": "Whiskas Frischebeutel Ragout Gemischte Auswahl 1+",
+    "category": "Tiernahrung",
+    "subcategories": ["Katzenfutter"]
+  },
+  {
+    "store": "billa",
+    "id": "00-779416",
+    "name": "Whiskas Frischebeutel Ragout Klassische Auswahl 1+",
+    "category": "Tiernahrung",
+    "subcategories": ["Katzenfutter"]
+  },
+  {
+    "store": "billa",
+    "id": "00-724576",
+    "name": "Whiskas Geflügel Auswahl in Gelee 11+",
+    "category": "Tiernahrung",
+    "subcategories": ["Katzenfutter"]
+  },
+  {
+    "store": "billa",
+    "id": "00-724569",
+    "name": "Whiskas Geflügel Auswahl in Sauce 1+",
+    "category": "Tiernahrung",
+    "subcategories": ["Katzenfutter"]
+  },
+  {
+    "store": "billa",
+    "id": "00-724568",
+    "name": "Whiskas Geflügel Auswahl in Sauce 7+",
+    "category": "Tiernahrung",
+    "subcategories": ["Katzenfutter"]
+  },
+  {
+    "store": "billa",
+    "id": "00-859780",
+    "name": "Whiskas Geflügel in Sauce 1+",
+    "category": "Tiernahrung",
+    "subcategories": ["Katzenfutter"]
+  },
+  {
+    "store": "billa",
+    "id": "00-724565",
+    "name": "Whiskas Klassische Auswahl in Sauce 1+",
+    "category": "Tiernahrung",
+    "subcategories": ["Katzenfutter"]
+  },
+  {
+    "store": "billa",
+    "id": "00-724575",
+    "name": "Whiskas Klassische Auswahl in Sauce 7+",
+    "category": "Tiernahrung",
+    "subcategories": ["Katzenfutter"]
+  },
+  {
+    "store": "billa",
+    "id": "00-308060",
+    "name": "Whiskas Klassische Auswahl in Sauce Junior",
+    "category": "Tiernahrung",
+    "subcategories": ["Katzenfutter"]
+  },
+  {
+    "store": "billa",
+    "id": "00-871443",
+    "name": "Whiskas Knuspertaschen Anti-Hairball",
+    "category": "Tiernahrung",
+    "subcategories": ["Katzensnacks"]
+  },
+  {
+    "store": "billa",
+    "id": "00-761532",
+    "name": "Whiskas Knuspertaschen mit Pute",
+    "category": "Tiernahrung",
+    "subcategories": ["Katzensnacks"]
+  },
+  {
+    "store": "billa",
+    "id": "00-381876",
+    "name": "Whiskas Rind & Leber in Sauce 1+",
+    "category": "Tiernahrung",
+    "subcategories": ["Katzenfutter"]
+  },
+  {
+    "store": "billa",
+    "id": "00-896691",
+    "name": "Whiskas Snacks Dentabites mit Huhn",
+    "category": "Tiernahrung",
+    "subcategories": ["Katzensnacks"]
+  },
+  {
+    "store": "billa",
+    "id": "00-870559",
+    "name": "Whiskas Snacks Knuspertaschen mit Huhn & Käse",
+    "category": "Tiernahrung",
+    "subcategories": ["Katzensnacks"]
+  },
+  {
+    "store": "billa",
+    "id": "00-614516",
+    "name": "Whiskas Snacks Knuspertaschen mit Lachs",
+    "category": "Tiernahrung",
+    "subcategories": ["Katzensnacks"]
+  },
+  {
+    "store": "billa",
+    "id": "00-614518",
+    "name": "Whiskas Snacks Knuspertaschen mit Rind",
+    "category": "Tiernahrung",
+    "subcategories": ["Katzensnacks"]
+  },
+  {
+    "store": "billa",
+    "id": "00-633201",
+    "name": "Whiskas Sticks Reich an Huhn",
+    "category": "Tiernahrung",
+    "subcategories": ["Katzensnacks"]
+  },
+  {
+    "store": "billa",
+    "id": "00-633197",
+    "name": "Whiskas Sticks Reich an Lachs",
+    "category": "Tiernahrung",
+    "subcategories": ["Katzensnacks"]
+  },
+  {
+    "store": "billa",
+    "id": "00-724974",
+    "name": "Whiskas Sticks Reich an Rind",
+    "category": "Tiernahrung",
+    "subcategories": ["Katzensnacks"]
+  },
+  {
+    "store": "billa",
+    "id": "00-896683",
+    "name": "Whiskas Thunfisch in Terrine 1+",
+    "category": "Tiernahrung",
+    "subcategories": ["Katzenfutter"]
+  },
+  {
+    "store": "billa",
+    "id": "00-417774",
+    "name": "Whiskas Trocken mit Huhn 1+",
+    "category": "Tiernahrung",
+    "subcategories": ["Katzenfutter"]
+  },
+  {
+    "store": "billa",
+    "id": "00-417767",
+    "name": "Whiskas Trocken mit Huhn 7+",
+    "category": "Tiernahrung",
+    "subcategories": ["Katzenfutter"]
+  },
+  {
+    "store": "billa",
+    "id": "00-417276",
+    "name": "Whiskas Trocken mit Rind 1+",
+    "category": "Tiernahrung",
+    "subcategories": ["Katzenfutter"]
+  },
+  {
+    "store": "billa",
+    "id": "00-779391",
+    "name": "Whiskas Vitamin E-Xtra",
+    "category": "Tiernahrung",
+    "subcategories": ["Katzensnacks"]
+  },
+  {
+    "store": "billa",
+    "id": "00-322509",
+    "name": "ZooRoyal Enten-Pastete auf Aspik",
+    "category": "Tiernahrung",
+    "subcategories": ["Katzenfutter"]
+  },
+  {
+    "store": "billa",
+    "id": "00-767143",
+    "name": "ZooRoyal Feine Paté mit Pute",
+    "category": "Tiernahrung",
+    "subcategories": ["Katzenfutter"]
+  },
+  {
+    "store": "billa",
+    "id": "00-352187",
+    "name": "ZooRoyal Genuss Pastete mit Hühnchen, Kalb & Julienne-Karotten",
+    "category": "Tiernahrung",
+    "subcategories": ["Katzenfutter"]
+  },
+  {
+    "store": "billa",
+    "id": "00-322191",
+    "name": "ZooRoyal Genuss Pastete mit Rind, Truthahn & Spinat",
+    "category": "Tiernahrung",
+    "subcategories": ["Katzenfutter"]
+  },
+  {
+    "store": "billa",
+    "id": "00-355610",
+    "name": "ZooRoyal Grillies mit Ente",
+    "category": "Tiernahrung",
+    "subcategories": ["Katzensnacks"]
+  },
+  {
+    "store": "billa",
+    "id": "00-664860",
+    "name": "ZooRoyal Grillies mit Lachs",
+    "category": "Tiernahrung",
+    "subcategories": ["Katzensnacks"]
+  },
+  {
+    "store": "billa",
+    "id": "00-664768",
+    "name": "ZooRoyal Grillies mit Rind",
+    "category": "Tiernahrung",
+    "subcategories": ["Katzensnacks"]
+  },
+  {
+    "store": "billa",
+    "id": "00-854117",
+    "name": "ZooRoyal Hygienestreu",
+    "category": "Tiernahrung",
+    "subcategories": ["Katzenstreu"]
+  },
+  {
+    "store": "billa",
+    "id": "00-322502",
+    "name": "ZooRoyal Junior Pastete Reich an Geflügel",
+    "category": "Tiernahrung",
+    "subcategories": ["Katzenfutter"]
+  },
+  {
+    "store": "billa",
+    "id": "00-774222",
+    "name": "ZooRoyal Katzenmilch 2er",
+    "category": "Tiernahrung",
+    "subcategories": ["Katzenfutter"]
+  },
+  {
+    "store": "billa",
+    "id": "00-344405",
+    "name": "ZooRoyal Klumpstreu weiß & parfümiert",
+    "category": "Tiernahrung",
+    "subcategories": ["Katzenstreu"]
+  },
+  {
+    "store": "billa",
+    "id": "00-767135",
+    "name": "ZooRoyal Knusperkissen Huhn & Käse",
+    "category": "Tiernahrung",
+    "subcategories": ["Katzensnacks"]
+  },
+  {
+    "store": "billa",
+    "id": "00-767131",
+    "name": "ZooRoyal Knusperkissen Lachs",
+    "category": "Tiernahrung",
+    "subcategories": ["Katzensnacks"]
+  },
+  {
+    "store": "billa",
+    "id": "00-771956",
+    "name": "ZooRoyal Lachs-Pastete mit Forellenstücken auf Joghurt-Gelee",
+    "category": "Tiernahrung",
+    "subcategories": ["Katzenfutter"]
+  },
+  {
+    "store": "billa",
+    "id": "00-366714",
+    "name": "ZooRoyal Minkas Ente & Huhn",
+    "category": "Tiernahrung",
+    "subcategories": ["Katzensnacks"]
+  },
+  {
+    "store": "billa",
+    "id": "00-366709",
+    "name": "ZooRoyal Minkas Kaninchen & Huhn",
+    "category": "Tiernahrung",
+    "subcategories": ["Katzensnacks"]
+  },
+  {
+    "store": "billa",
+    "id": "00-366710",
+    "name": "ZooRoyal Minkas Kitten Huhn & Lachs",
+    "category": "Tiernahrung",
+    "subcategories": ["Katzensnacks"]
+  },
+  {
+    "store": "billa",
+    "id": "00-366712",
+    "name": "ZooRoyal Minkas Pute",
+    "category": "Tiernahrung",
+    "subcategories": ["Katzensnacks"]
+  },
+  {
+    "store": "billa",
+    "id": "00-366707",
+    "name": "ZooRoyal Minkas Rind & Huhn",
+    "category": "Tiernahrung",
+    "subcategories": ["Katzensnacks"]
+  },
+  {
+    "store": "billa",
+    "id": "00-322501",
+    "name": "ZooRoyal Mono-Protein Pastete Huhn Pur",
+    "category": "Tiernahrung",
+    "subcategories": ["Katzenfutter"]
+  },
+  {
+    "store": "billa",
+    "id": "00-393439",
+    "name": "ZooRoyal Mousse mit Huhn",
+    "category": "Tiernahrung",
+    "subcategories": ["Katzenfutter"]
+  },
+  {
+    "store": "billa",
+    "id": "00-393438",
+    "name": "ZooRoyal Mousse mit Lachs",
+    "category": "Tiernahrung",
+    "subcategories": ["Katzenfutter"]
+  },
+  {
+    "store": "billa",
+    "id": "00-464824",
+    "name": "ZooRoyal Pastete Pute Pur Mono-Protein",
+    "category": "Tiernahrung",
+    "subcategories": ["Katzenfutter"]
+  },
+  {
+    "store": "billa",
+    "id": "00-664865",
+    "name": "ZooRoyal Schleckies Geflügel und Lachs",
+    "category": "Tiernahrung",
+    "subcategories": ["Katzensnacks"]
+  },
+  {
+    "store": "billa",
+    "id": "00-850642",
+    "name": "ZooRoyal Schleckies mit Leberwurst",
+    "category": "Tiernahrung",
+    "subcategories": ["Katzensnacks"]
+  },
+  {
+    "store": "billa",
+    "id": "00-322503",
+    "name": "ZooRoyal Senior Pastete Reich an Geflügel",
+    "category": "Tiernahrung",
+    "subcategories": ["Katzenfutter"]
+  },
+  {
+    "store": "billa",
+    "id": "00-344409",
+    "name": "ZooRoyal Softsticks mit Lamm & Reis",
+    "category": "Tiernahrung",
+    "subcategories": ["Katzensnacks"]
+  },
+  {
+    "store": "billa",
+    "id": "00-431692",
+    "name": "ZooRoyal Tigrooo Blue Magic Klumpstreu",
+    "category": "Tiernahrung",
+    "subcategories": ["Katzenstreu"]
+  },
+  {
+    "store": "billa",
+    "id": "00-344239",
+    "name": "ZooRoyal Ultra Klumpstreu",
+    "category": "Tiernahrung",
+    "subcategories": ["Katzenstreu"]
+  },
+  {
+    "store": "billa",
+    "id": "00-764594",
+    "name": "ZooRoyal Ultra Klumpstreu Naturweiß",
+    "category": "Tiernahrung",
+    "subcategories": ["Katzenstreu"]
+  },
+  {
+    "store": "billa",
+    "id": "00-344260",
+    "name": "ZooRoyal Ultra Klumpstreu mit Pinienduft",
+    "category": "Tiernahrung",
+    "subcategories": ["Katzenstreu"]
+  },
+  {
+    "store": "billa",
+    "id": "00-767136",
+    "name": "ZooRoyal Vital-Menü",
+    "category": "Tiernahrung",
+    "subcategories": ["Katzenfutter"]
+  },
+  {
+    "store": "billa",
+    "id": "00-772426",
+    "name": "ZooRoyal Wild-Pastete auf Aspik",
+    "category": "Tiernahrung",
+    "subcategories": ["Katzenfutter"]
+  },
+  {
+    "store": "billa",
+    "id": "00-742606",
+    "name": "Tierell Frucht- und Nuss-Riegel",
+    "category": "Tiernahrung",
+    "subcategories": ["Kleintierfutter"]
+  },
+  {
+    "store": "billa",
+    "id": "00-885446",
+    "name": "Tierell Hamster Alleinfutter",
+    "category": "Tiernahrung",
+    "subcategories": ["Kleintierfutter"]
+  },
+  {
+    "store": "billa",
+    "id": "00-787963",
+    "name": "Tierell Knabber-Frites",
+    "category": "Tiernahrung",
+    "subcategories": ["Kleintierfutter"]
+  },
+  {
+    "store": "billa",
+    "id": "00-322035",
+    "name": "Tierell Nager Universalfutter",
+    "category": "Tiernahrung",
+    "subcategories": ["Kleintierfutter"]
+  },
+  {
+    "store": "billa",
+    "id": "00-742627",
+    "name": "Tierell Press-Streu",
+    "category": "Tiernahrung",
+    "subcategories": ["Kleintiereinstreu"]
+  },
+  {
+    "store": "billa",
+    "id": "00-742633",
+    "name": "Tierell Wiesenheu",
+    "category": "Tiernahrung",
+    "subcategories": ["Kleintierfutter"]
+  },
+  {
+    "store": "billa",
+    "id": "00-242578",
+    "name": "Peddy Meisenringe auf Tasse",
+    "category": "Tiernahrung",
+    "subcategories": ["Vogelfutter"]
+  },
+  {
+    "store": "billa",
+    "id": "00-105584",
+    "name": "Peddy Nusskugel",
+    "category": "Tiernahrung",
+    "subcategories": ["Vogelfutter"]
+  },
+  {
+    "store": "billa",
+    "id": "00-851312",
+    "name": "Peddy Sonnenblumenkerne",
+    "category": "Tiernahrung",
+    "subcategories": ["Vogelfutter"]
+  },
+  {
+    "store": "billa",
+    "id": "00-851313",
+    "name": "Peddy Sonnenblumenkerne geschält",
+    "category": "Tiernahrung",
+    "subcategories": ["Vogelfutter"]
+  },
+  {
+    "store": "billa",
+    "id": "00-885127",
+    "name": "Tierell Sittich Alleinfutter",
+    "category": "Tiernahrung",
+    "subcategories": ["Vogelfutter"]
+  },
+  {
+    "store": "billa",
+    "id": "00-742888",
+    "name": "Tierell Vogelsand",
+    "category": "Tiernahrung",
+    "subcategories": ["Vogelbedarf"]
+  },
+  {
+    "store": "hofer",
+    "id": 549084,
+    "name": "3-Tage-Grablicht Du fehlst uns! 1 Stück",
+    "category": "Trauer",
+    "subcategories": []
+  },
+  {
+    "store": "hofer",
+    "id": 548140,
+    "name": "3-Tage-Grablicht Im Herzen bei uns 1 Stück",
+    "category": "Trauer",
+    "subcategories": []
+  },
+  {
+    "store": "hofer",
+    "id": 548142,
+    "name": "3-Tage-Grablicht In ewiger Erinnerung 1 Stück",
+    "category": "Trauer",
+    "subcategories": []
+  },
+  {
+    "store": "hofer",
+    "id": 549085,
+    "name": "3-Tage-Grablicht Unvergessen 1 Stück",
+    "category": "Trauer",
+    "subcategories": []
+  },
+  {
+    "store": "hofer",
+    "id": 549415,
+    "name": "ASIA GREEN GARDEN Frühlingsrolle Gemüse 400g",
+    "category": "Lebensmittel",
+    "subcategories": ["Asiatisch"]
+  },
+  {
+    "store": "hofer",
+    "id": 549417,
+    "name": "ASIA GREEN GARDEN Frühlingsrolle Gemüse Mini 400g",
+    "category": "Lebensmittel",
+    "subcategories": ["Asiatisch", "Snacks"]
+  },
+  {
+    "store": "hofer",
+    "id": 549416,
+    "name": "ASIA GREEN GARDEN Frühlingsrolle Hähnchen 400g",
+    "category": "Lebensmittel",
+    "subcategories": ["Asiatisch"]
+  },
+  {
+    "store": "hofer",
+    "id": 548370,
+    "name": "BACKBOX Hafer-Topfenkornweckerl 125g",
+    "category": "Lebensmittel",
+    "subcategories": ["Brot"]
+  }
+]

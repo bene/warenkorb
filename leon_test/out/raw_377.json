@@ -1,0 +1,601 @@
+[{
+    "store": "spar",
+    "id": "2020000691402",
+    "name": "Burgit Footcare Anti Nagelpilz Lösung 4ml",
+    "category": "Fußpflege",
+    "subcategories": ["Nagelpilz", "Lösung"]
+}, {
+    "store": "spar",
+    "id": "2020002018382",
+    "name": "Burgit Footcare Anti-Fußpilz Sprüh-Lösung 25ml",
+    "category": "Fußpflege",
+    "subcategories": ["Fußpilz", "Sprüh-Lösung"]
+}, {
+    "store": "spar",
+    "id": "2020004262301",
+    "name": "Burgit Footcare Anti-Warzen Pflaster 14 Stück",
+    "category": "Fußpflege",
+    "subcategories": ["Warzen", "Pflaster"]
+}, {
+    "store": "spar",
+    "id": "2234670",
+    "name": "Burgit Footcare Blasenpflaster Mix 5 Stück",
+    "category": "Fußpflege",
+    "subcategories": ["Blasenpflaster"]
+}, {
+    "store": "spar",
+    "id": "6383794",
+    "name": "Burgit Footcare Erfrischendes Fußbad mit Minze & Zitrone 250g",
+    "category": "Fußpflege",
+    "subcategories": ["Fußbad", "Minze", "Zitrone"]
+}, {
+    "store": "spar",
+    "id": "2020003009785",
+    "name": "Burgit Footcare Fuß-Deo 3fach Aktiv-Gel 75ml",
+    "category": "Fußpflege",
+    "subcategories": ["Fuß-Deo", "Gel"]
+}, {
+    "store": "spar",
+    "id": "2020001808540",
+    "name": "Burgit Footcare Fuß-Deo Antitranspirant Pfefferminze & Salbei 175 ml",
+    "category": "Fußpflege",
+    "subcategories": ["Fuß-Deo", "Antitranspirant", "Pfefferminze", "Salbei"]
+}, {
+    "store": "spar",
+    "id": "2020003189463",
+    "name": "Burgit Footcare Fußcreme Urea Akut Soforthilfe 75ml",
+    "category": "Fußpflege",
+    "subcategories": ["Fußcreme", "Urea", "Akut", "Soforthilfe"]
+}, {
+    "store": "spar",
+    "id": "8195111",
+    "name": "Burgit Footcare Fußpflegecreme All-in-One 100ml",
+    "category": "Fußpflege",
+    "subcategories": ["Fußpflegecreme"]
+}, {
+    "store": "spar",
+    "id": "2890746",
+    "name": "Burgit Footcare Hirschtalg Pflegecreme 100ml",
+    "category": "Fußpflege",
+    "subcategories": ["Hirschtalg", "Pflegecreme"]
+}, {
+    "store": "spar",
+    "id": "4396864",
+    "name": "Burgit Footcare Hornhautcreme 75ml",
+    "category": "Fußpflege",
+    "subcategories": ["Hornhautcreme"]
+}, {
+    "store": "spar",
+    "id": "2020004423122",
+    "name": "Burgit Footcare Hornhautfeile Plus",
+    "category": "Fußpflege",
+    "subcategories": ["Hornhautfeile"]
+}, {
+    "store": "spar",
+    "id": "269933",
+    "name": "Burgit Footcare Hornhautstein antibakteriell",
+    "category": "Fußpflege",
+    "subcategories": ["Hornhautstein"]
+}, {
+    "store": "spar",
+    "id": "7202155",
+    "name": "Burgit Footcare Hühneraugenpflaster 6 Stück",
+    "category": "Fußpflege",
+    "subcategories": ["Hühneraugenpflaster"]
+}, {
+    "store": "spar",
+    "id": "4390770",
+    "name": "Burgit Footcare Pflegebalsam 75ml",
+    "category": "Fußpflege",
+    "subcategories": ["Pflegebalsam"]
+}, {
+    "store": "spar",
+    "id": "2020000733621",
+    "name": "Burgit Footcare Schrunden Intensivcreme 60ml",
+    "category": "Fußpflege",
+    "subcategories": ["Schrunden", "Intensivcreme"]
+}, {
+    "store": "spar",
+    "id": "2020001819232",
+    "name": "Burgit Footcare Schuh-Deo Hygiene-Spray 175ml",
+    "category": "Fußpflege",
+    "subcategories": ["Schuh-Deo", "Hygiene-Spray"]
+}, {
+    "store": "spar",
+    "id": "2020002470890",
+    "name": "Burgit Fußmaske Socken nährend 1 Paar",
+    "category": "Fußpflege",
+    "subcategories": ["Fußmaske", "Socken", "nährend"]
+}, {
+    "store": "spar",
+    "id": "7414268",
+    "name": "Borstenpinselset 6-teilig Pinselset 6tlg. Borste GVE 12",
+    "category": "Pinsel",
+    "subcategories": ["Pinselset", "Borste"]
+}, {
+    "store": "spar",
+    "id": "2020003697135",
+    "name": "Brother Beschriftungsgerät P-Touch H110",
+    "category": "Schreibwaren",
+    "subcategories": ["Beschriftungsgerät"]
+}, {
+    "store": "spar",
+    "id": "2020003743849",
+    "name": "Brother Schriftband TZe-221 9 mm",
+    "category": "Schreibwaren",
+    "subcategories": ["Schriftband"]
+}, {
+    "store": "spar",
+    "id": "2020003743856",
+    "name": "Brother Schriftband TZe-231 12 mm",
+    "category": "Schreibwaren",
+    "subcategories": ["Schriftband"]
+}, {
+    "store": "spar",
+    "id": "2020004163097",
+    "name": "Brunnen Schülerkalender A5 Faces",
+    "category": "Schreibwaren",
+    "subcategories": ["Schülerkalender"]
+}, {
+    "store": "spar",
+    "id": "2020002288501",
+    "name": "Buntstifte COLOR'PEPS ANIMALS , 12 Farben Buntstifte 12erColorPepsAnimal GVE 12",
+    "category": "Schreibwaren",
+    "subcategories": ["Buntstifte"]
+}, {
+    "store": "spar",
+    "id": "2020003810756",
+    "name": "Birkmann Teigkarte aus Edelstahl",
+    "category": "Küchenutensilien",
+    "subcategories": ["Teigkarte", "Edelstahl"]
+}, {
+    "store": "spar",
+    "id": "2020003535628",
+    "name": "Birkmann Teigrädchen 15cm",
+    "category": "Küchenutensilien",
+    "subcategories": ["Teigrädchen"]
+}, {
+    "store": "spar",
+    "id": "2020003658815",
+    "name": "Birkmann Tortenheber",
+    "category": "Küchenutensilien",
+    "subcategories": ["Tortenheber"]
+}, {
+    "store": "spar",
+    "id": "2020003658877",
+    "name": "Birkmann Tortenheber Granita",
+    "category": "Küchenutensilien",
+    "subcategories": ["Tortenheber"]
+}, {
+    "store": "spar",
+    "id": "5700509",
+    "name": "Boska Käse-Dessertset Taste",
+    "category": "Küchenutensilien",
+    "subcategories": ["Käse-Dessertset"]
+}, {
+    "store": "spar",
+    "id": "5692569",
+    "name": "Boska Käseschaber Geneva",
+    "category": "Küchenutensilien",
+    "subcategories": ["Käseschaber"]
+}, {
+    "store": "spar",
+    "id": "2020003974786",
+    "name": "Brotbackstein SIMPEX Brotbackstein Cordierit GVE 4",
+    "category": "Backzubehör",
+    "subcategories": ["Brotbackstein"]
+}, {
+    "store": "spar",
+    "id": "2020003269790",
+    "name": "Blue Star Badreiniger 750ml",
+    "category": "Reinigungsmittel",
+    "subcategories": ["Badreiniger"]
+}, {
+    "store": "spar",
+    "id": "2020001031894",
+    "name": "Blue Star Blau-Aktiv WC-Spüler Blütenfrische 2 x 50g",
+    "category": "Reinigungsmittel",
+    "subcategories": ["WC-Spüler", "Blütenfrische"]
+}, {
+    "store": "spar",
+    "id": "2020002644758",
+    "name": "Blue Star Blau-Aktiv WC-Spüler Blütenfrische 3 x 50g",
+    "category": "Reinigungsmittel",
+    "subcategories": ["WC-Spüler", "Blütenfrische"]
+}, {
+    "store": "spar",
+    "id": "4011064",
+    "name": "Blue Star Blau-Aktiv WC-Spüler Chlor 2 x 50g",
+    "category": "Reinigungsmittel",
+    "subcategories": ["WC-Spüler", "Chlor"]
+}, {
+    "store": "spar",
+    "id": "2020000955818",
+    "name": "Blue Star Blau-Aktiv WC-Spüler Chlor 3 x 50g",
+    "category": "Reinigungsmittel",
+    "subcategories": ["WC-Spüler", "Chlor"]
+}, {
+    "store": "spar",
+    "id": "2020000955955",
+    "name": "Blue Star Blau-Aktiv WC-Spüler Lemon 3 x 50g",
+    "category": "Reinigungsmittel",
+    "subcategories": ["WC-Spüler", "Lemon"]
+}, {
+    "store": "spar",
+    "id": "4010845",
+    "name": "Blue Star Blau-Aktiv WC-Spüler Zitrus-Frische 2 x 50g",
+    "category": "Reinigungsmittel",
+    "subcategories": ["WC-Spüler", "Zitrus-Frische"]
+}, {
+    "store": "spar",
+    "id": "2020003913679",
+    "name": "Blue Star Brilliant Gel WC-Spüler Frühlingsfrische 2 x 42 g",
+    "category": "Reinigungsmittel",
+    "subcategories": ["WC-Spüler"]
+}, {
+    "store": "spar",
+    "id": "2020003913709",
+    "name": "Blue Star Brilliant Gel WC-Spüler Polarmeer 2 x 42 g",
+    "category": "Reinigungsmittel",
+    "subcategories": ["WC-Spüler"]
+}, {
+    "store": "spar",
+    "id": "2020003913754",
+    "name": "Blue Star Duo-Aktiv WC-Spüler Lemon 2 x 50ml",
+    "category": "Reinigungsmittel",
+    "subcategories": ["WC-Spüler", "Lemon"]
+}, {
+    "store": "spar",
+    "id": "2020003913723",
+    "name": "Blue Star Duo-Aktiv WC-Spüler Morgenfrische 2 x 50ml",
+    "category": "Reinigungsmittel",
+    "subcategories": ["WC-Spüler", "Morgenfrische"]
+}, {
+    "store": "spar",
+    "id": "2020003755729",
+    "name": "Blue Star Kalk Entferner 700ml",
+    "category": "Reinigungsmittel",
+    "subcategories": ["Kalk", "Entferner"]
+}, {
+    "store": "spar",
+    "id": "2020002478339",
+    "name": "Blue Star Kraft Aktiv WC-Reiniger Gel Blütenfrische 700ml",
+    "category": "Reinigungsmittel",
+    "subcategories": ["WC-Reiniger", "Gel", "Blütenfrische"]
+}, {
+    "store": "spar",
+    "id": "2020002478308",
+    "name": "Blue Star Kraft Aktiv WC-Reiniger Gel Lemon 700ml",
+    "category": "Reinigungsmittel",
+    "subcategories": ["WC-Reiniger", "Gel", "Lemon"]
+}, {
+    "store": "spar",
+    "id": "2020002478261",
+    "name": "Blue Star Kraft Aktiv WC-Reiniger Gel Ocean Fresh 700ml",
+    "category": "Reinigungsmittel",
+    "subcategories": ["WC-Reiniger", "Gel", "Ocean Fresh"]
+}, {
+    "store": "spar",
+    "id": "2020003392382",
+    "name": "Blue Star Kraft Aktiv WC-Reiniger Gel Pro Nature 700ml",
+    "category": "Reinigungsmittel",
+    "subcategories": ["WC-Reiniger", "Gel", "Pro Nature"]
+}, {
+    "store": "spar",
+    "id": "2020000506706",
+    "name": "Blue Star Kraft Aktiv WC-Spüler Hawaii 2 x 50g",
+    "category": "Reinigungsmittel",
+    "subcategories": ["WC-Spüler", "Hawaii"]
+}, {
+    "store": "spar",
+    "id": "7454905",
+    "name": "Blue Star Kraft Aktiv WC-Spüler Lavendelfrische 2 x 50g",
+    "category": "Reinigungsmittel",
+    "subcategories": ["WC-Spüler", "Lavendelfrische"]
+}, {
+    "store": "spar",
+    "id": "2742564",
+    "name": "Blue Star Kraft-Aktiv WC-Spüler Blütenfrische 3 x 50g",
+    "category": "Reinigungsmittel",
+    "subcategories": ["WC-Spüler", "Blütenfrische"]
+}, {
+    "store": "spar",
+    "id": "1098136",
+    "name": "Blue Star Kraft-Aktiv WC-Spüler Lemon 2 x 50g",
+    "category": "Reinigungsmittel",
+    "subcategories": ["WC-Spüler", "Lemon"]
+}, {
+    "store": "spar",
+    "id": "2302096",
+    "name": "Blue Star Kraft-Aktiv WC-Spüler Lemon 3 x 50g",
+    "category": "Reinigungsmittel",
+    "subcategories": ["WC-Spüler", "Lemon"]
+}, {
+    "store": "spar",
+    "id": "1403435",
+    "name": "Blue Star Kraft-Aktiv WC-Spüler Morgenfrische 2 x 50g",
+    "category": "Reinigungsmittel",
+    "subcategories": ["WC-Spüler", "Morgenfrische"]
+}, {
+    "store": "spar",
+    "id": "2020003269813",
+    "name": "Blue Star Reiniger Power 750ml",
+    "category": "Reinigungsmittel",
+    "subcategories": ["Reiniger"]
+}, {
+    "store": "spar",
+    "id": "5749065",
+    "name": "Blue Star Spülkasten-Würfel 4 x 50g",
+    "category": "Reinigungsmittel",
+    "subcategories": ["Spülkasten-Würfel"]
+}, {
+    "store": "spar",
+    "id": "2020001922123",
+    "name": "Blue Star Türkis-Aktiv WC-Spüler Ocean 2 x 50g",
+    "category": "Reinigungsmittel",
+    "subcategories": ["WC-Spüler", "Ocean"]
+}, {
+    "store": "spar",
+    "id": "2020004434838",
+    "name": "Blue Star WC Brilliant Gel Bergsee 2 x 42g",
+    "category": "Reinigungsmittel",
+    "subcategories": ["WC Brilliant", "Gel", "Bergsee"]
+}, {
+    "store": "spar",
+    "id": "2020003755736",
+    "name": "Blue Star WC Reiniger Extra Power Gel Glanz Verstärker 700ml",
+    "category": "Reinigungsmittel",
+    "subcategories": ["WC Reiniger", "Extra Power", "Gel", "Glanz Verstärker"]
+}, {
+    "store": "spar",
+    "id": "1955613",
+    "name": "Blue Star WC-Kraft-Tabs 10x Effekt 10 Stück",
+    "category": "Reinigungsmittel",
+    "subcategories": ["WC-Kraft-Tabs"]
+}, {
+    "store": "spar",
+    "id": "2020004650450",
+    "name": "Blue Star WC-Spüler Spa Momente / Harmonie 2 x 50g",
+    "category": "Reinigungsmittel",
+    "subcategories": ["WC-Spüler", "Spa Momente", "Harmonie"]
+}, {
+    "store": "spar",
+    "id": "2020004650368",
+    "name": "Blue Star WC-Spüler Spa Momente / Vitalität 2 x 50g",
+    "category": "Reinigungsmittel",
+    "subcategories": ["WC-Spüler", "Spa Momente", "Vitalität"]
+}, {
+    "store": "spar",
+    "id": "2020003565823",
+    "name": "Blue Star de luxe WC-Spüler Magische Mondblume 2 x 50g",
+    "category": "Reinigungsmittel",
+    "subcategories": ["WC-Spüler", "de luxe", "Magische Mondblume"]
+}, {
+    "store": "spar",
+    "id": "2020003226168",
+    "name": "Blue Star de luxe WC-Spüler Magnolie 3 x 50g",
+    "category": "Reinigungsmittel",
+    "subcategories": ["WC-Spüler", "de luxe", "Magnolie"]
+}, {
+    "store": "spar",
+    "id": "2020003136184",
+    "name": "Blue Star de luxe WC-Spüler Sanfter Jasmin 2 x 50g",
+    "category": "Reinigungsmittel",
+    "subcategories": ["WC-Spüler", "de luxe", "Sanfter Jasmin"]
+}, {
+    "store": "spar",
+    "id": "2020003136061",
+    "name": "Blue Star de luxe WC-Spüler Zarte Magnolie 2 x 50g",
+    "category": "Reinigungsmittel",
+    "subcategories": ["WC-Spüler", "de luxe", "Zarte Magnolie"]
+}, {
+    "store": "spar",
+    "id": "2923611",
+    "name": "Boister Bauernobstler",
+    "category": "Getränke",
+    "subcategories": ["Bauernobstler"]
+}, {
+    "store": "spar",
+    "id": "3043653",
+    "name": "Bonbel Butterkäse natur",
+    "category": "Käse",
+    "subcategories": ["Butterkäse"]
+}, {
+    "store": "spar",
+    "id": "4744214",
+    "name": "Bonbel Cremig-Würzig",
+    "category": "Käse",
+    "subcategories": ["Cremig-Würzig"]
+}, {
+    "store": "spar",
+    "id": "2020003051609",
+    "name": "Bona Olivenöl extra vergine 0,5l",
+    "category": "Lebensmittel",
+    "subcategories": ["Olivenöl"]
+}, {
+    "store": "spar",
+    "id": "7085437",
+    "name": "Bona Pflanzenöl",
+    "category": "Lebensmittel",
+    "subcategories": ["Pflanzenöl"]
+}, {
+    "store": "spar",
+    "id": "7091032",
+    "name": "Bona Pflanzenöl",
+    "category": "Lebensmittel",
+    "subcategories": ["Pflanzenöl"]
+}, {
+    "store": "spar",
+    "id": "7090097",
+    "name": "Bona Pflanzenöl",
+    "category": "Lebensmittel",
+    "subcategories": ["Pflanzenöl"]
+}, {
+    "store": "spar",
+    "id": "7886218",
+    "name": "Bonne Maman Gelee Quitten",
+    "category": "Lebensmittel",
+    "subcategories": ["Gelee", "Quitten"]
+}, {
+    "store": "spar",
+    "id": "2020000851219",
+    "name": "Bonne Maman Konfitüre Erdbeer",
+    "category": "Lebensmittel",
+    "subcategories": ["Konfitüre", "Erdbeer"]
+}, {
+    "store": "spar",
+    "id": "7704161",
+    "name": "Bonne Maman Konfitüre Feigen",
+    "category": "Lebensmittel",
+    "subcategories": ["Konfitüre", "Feigen"]
+}, {
+    "store": "spar",
+    "id": "7704468",
+    "name": "Bonne Maman Konfitüre Marille",
+    "category": "Lebensmittel",
+    "subcategories": ["Konfitüre", "Marille"]
+}, {
+    "store": "spar",
+    "id": "7704475",
+    "name": "Bonne Maman Konfitüre Pfirsich",
+    "category": "Lebensmittel",
+    "subcategories": ["Konfitüre", "Pfirsich"]
+}, {
+    "store": "spar",
+    "id": "2020002994648",
+    "name": "Bonne Maman Lemon Curd",
+    "category": "Lebensmittel",
+    "subcategories": ["Lemon Curd"]
+}, {
+    "store": "spar",
+    "id": "7771712",
+    "name": "Bonne Maman Maronen-Crème",
+    "category": "Lebensmittel",
+    "subcategories": ["Maronen-Crème"]
+}, {
+    "store": "spar",
+    "id": "2020004745620",
+    "name": "Boom Box Granola Müsli Double Choco",
+    "category": "Lebensmittel",
+    "subcategories": ["Granola Müsli", "Double Choco"]
+}, {
+    "store": "spar",
+    "id": "2020004745644",
+    "name": "Boom Box Granola Müsli Kokos & Mandel",
+    "category": "Lebensmittel",
+    "subcategories": ["Granola Müsli", "Kokos", "Mandel"]
+}, {
+    "store": "spar",
+    "id": "2020004745668",
+    "name": "Boom Box Granola Müsli Nüsse",
+    "category": "Lebensmittel",
+    "subcategories": ["Granola Müsli", "Nüsse"]
+}, {
+    "store": "spar",
+    "id": "2020004745651",
+    "name": "Boom Box Granola Müsli Schokolade & Mandeln",
+    "category": "Lebensmittel",
+    "subcategories": ["Granola Müsli", "Schokolade", "Mandeln"]
+}, {
+    "store": "spar",
+    "id": "2020004745682",
+    "name": "Boom Box Oatmeal Haselnuss & Schokolade",
+    "category": "Lebensmittel",
+    "subcategories": ["Oatmeal", "Haselnuss", "Schokolade"]
+}, {
+    "store": "spar",
+    "id": "2020004745750",
+    "name": "Boom Box Oatmeal Himbeer-Vanillegeschmack",
+    "category": "Lebensmittel",
+    "subcategories": ["Oatmeal", "Himbeer", "Vanillegeschmack"]
+}, {
+    "store": "spar",
+    "id": "2020004745712",
+    "name": "Boom Box Oatmeal Kokosnuss & Schokolade",
+    "category": "Lebensmittel",
+    "subcategories": ["Oatmeal", "Kokosnuss", "Schokolade"]
+}, {
+    "store": "spar",
+    "id": "2020004745743",
+    "name": "Boom Box Oatmeal Schokolade, Banane & Haselnuss",
+    "category": "Lebensmittel",
+    "subcategories": ["Oatmeal", "Schokolade", "Banane", "Haselnuss"]
+}, {
+    "store": "spar",
+    "id": "8037107",
+    "name": "Bonasia Mungobohnenkeime in Lake",
+    "category": "Lebensmittel",
+    "subcategories": ["Mungobohnenkeime"]
+}, {
+    "store": "spar",
+    "id": "2020002481681",
+    "name": "Bonduelle Bio Kichererbsen",
+    "category": "Lebensmittel",
+    "subcategories": ["Kichererbsen"]
+}, {
+    "store": "spar",
+    "id": "2020002481650",
+    "name": "Bonduelle Bio Kidney Bohnen",
+    "category": "Lebensmittel",
+    "subcategories": ["Kidney Bohnen"]
+}, {
+    "store": "spar",
+    "id": "8210906",
+    "name": "Bonduelle Bio-Goldmais",
+    "category": "Lebensmittel",
+    "subcategories": ["Goldmais"]
+}, {
+    "store": "spar",
+    "id": "2020002737498",
+    "name": "Bonduelle Bio-Goldmais 0% Pestizide",
+    "category": "Lebensmittel",
+    "subcategories": ["Goldmais", "Pestizide"]
+}, {
+    "store": "spar",
+    "id": "2020002085285",
+    "name": "Bonduelle Bunt dazu Goldmais 2 x 75g",
+    "category": "Lebensmittel",
+    "subcategories": ["Goldmais"]
+}, {
+    "store": "spar",
+    "id": "7232275",
+    "name": "Bonduelle Champignons Ganze Köpfe I. Wahl",
+    "category": "Lebensmittel",
+    "subcategories": ["Champignons", "Ganze Köpfe"]
+}, {
+    "store": "spar",
+    "id": "7232282",
+    "name": "Bonduelle Champignons Scheiben I. Wahl",
+    "category": "Lebensmittel",
+    "subcategories": ["Champignons", "Scheiben"]
+}, {
+    "store": "spar",
+    "id": "7996351",
+    "name": "Bonduelle Champignons Scheiben II. Wahl",
+    "category": "Lebensmittel",
+    "subcategories": ["Champignons", "Scheiben"]
+}, {
+    "store": "spar",
+    "id": "549585",
+    "name": "Bonduelle Erbsen mit Möhrchen zart & fein",
+    "category": "Lebensmittel",
+    "subcategories": ["Erbsen", "Möhrchen"]
+}, {
+    "store": "spar",
+    "id": "155953",
+    "name": "Bonduelle Garten Erbsen",
+    "category": "Lebensmittel",
+    "subcategories": ["Erbsen"]
+}, {
+    "store": "spar",
+    "id": "156073",
+    "name": "Bonduelle Garten Erbsen mit Möhrchen",
+    "category": "Lebensmittel",
+    "subcategories": ["Erbsen", "Möhrchen"]
+}, {
+    "store": "spar",
+    "id": "549639",
+    "name": "Bonduelle Goldmais",
+    "category": "Lebensmittel",
+    "subcategories": ["Goldmais"]
+}]

@@ -1,0 +1,699 @@
+Here is the modified JSON list with the added fields:
+
+[
+  {
+    "store": "billa",
+    "id": "00-422074",
+    "name": "Clever Knoblauchbaguette",
+    "category": "Brot",
+    "subcategories": ["Knoblauch", "Baguette"]
+  },
+  {
+    "store": "billa",
+    "id": "00-427222",
+    "name": "Clever Kräuterbaguette",
+    "category": "Brot",
+    "subcategories": ["Kräuter", "Baguette"]
+  },
+  {
+    "store": "billa",
+    "id": "00-425504",
+    "name": "Clever Weizentoast",
+    "category": "Brot",
+    "subcategories": ["Weizen", "Toast"]
+  },
+  {
+    "store": "billa",
+    "id": "00-716533",
+    "name": "Die Grillerei Burger Buns Brioche 4er",
+    "category": "Brot",
+    "subcategories": ["Burger Buns", "Brioche"]
+  },
+  {
+    "store": "billa",
+    "id": "00-716530",
+    "name": "Die Grillerei Burger Buns Sauerteig 4er",
+    "category": "Brot",
+    "subcategories": ["Burger Buns", "Sauerteig"]
+  },
+  {
+    "store": "billa",
+    "id": "00-295283",
+    "name": "Die Grillerei Burger Buns Sesam 6er",
+    "category": "Brot",
+    "subcategories": ["Burger Buns", "Sesam"]
+  },
+  {
+    "store": "billa",
+    "id": "00-308741",
+    "name": "Die Grillerei Grill Pita Brot",
+    "category": "Brot",
+    "subcategories": ["Grill Pita", "Brot"]
+  },
+  {
+    "store": "billa",
+    "id": "00-721802",
+    "name": "Die Grillerei Knoblauchbrot",
+    "category": "Brot",
+    "subcategories": ["Knoblauchbrot"]
+  },
+  {
+    "store": "billa",
+    "id": "00-325087",
+    "name": "Hammermühle Haferbrot mit Vollkornhafer Glutenfrei",
+    "category": "Brot",
+    "subcategories": ["Haferbrot", "Vollkornhafer"]
+  },
+  {
+    "store": "billa",
+    "id": "00-436202",
+    "name": "Ja! Natürlich Mehrkorntoast mit Dinkel",
+    "category": "Brot",
+    "subcategories": ["Mehrkorn", "Dinkel", "Toast"]
+  },
+  {
+    "store": "billa",
+    "id": "00-419639",
+    "name": "Jaus Hot Dog 4er",
+    "category": "Brot",
+    "subcategories": ["Hot Dog"]
+  },
+  {
+    "store": "billa",
+    "id": "00-913791",
+    "name": "Meggle Baguette Knoblauchbutter",
+    "category": "Brot",
+    "subcategories": ["Baguette", "Knoblauchbutter"]
+  },
+  {
+    "store": "billa",
+    "id": "00-638825",
+    "name": "Meggle Knoblauchbrot",
+    "category": "Brot",
+    "subcategories": ["Knoblauchbrot"]
+  },
+  {
+    "store": "billa",
+    "id": "00-887212",
+    "name": "Meggle Laugenbaguette Kräuterbutter",
+    "category": "Brot",
+    "subcategories": ["Laugenbaguette", "Kräuterbutter"]
+  },
+  {
+    "store": "billa",
+    "id": "00-686581",
+    "name": "Meggle Rustikal Baguette",
+    "category": "Brot",
+    "subcategories": ["Rustikal", "Baguette"]
+  },
+  {
+    "store": "billa",
+    "id": "00-753032",
+    "name": "Meisterbrezen Laugenbrezen",
+    "category": "Brot",
+    "subcategories": ["Laugenbrezen"]
+  },
+  {
+    "store": "billa",
+    "id": "00-285890",
+    "name": "Mestemacher Eiweiß-Toastbrötchen",
+    "category": "Brot",
+    "subcategories": ["Eiweiß", "Toastbrötchen"]
+  },
+  {
+    "store": "billa",
+    "id": "00-311207",
+    "name": "Resch&Frisch Buttercroissant 3er",
+    "category": "Brot",
+    "subcategories": ["Buttercroissant"]
+  },
+  {
+    "store": "billa",
+    "id": "00-393800",
+    "name": "Resch&Frisch Ciabatta 4er",
+    "category": "Brot",
+    "subcategories": ["Ciabatta"]
+  },
+  {
+    "store": "billa",
+    "id": "00-273648",
+    "name": "Resch&Frisch Dinkel Vollkorn Weckerl 4er",
+    "category": "Brot",
+    "subcategories": ["Dinkel", "Vollkorn", "Weckerl"]
+  },
+  {
+    "store": "billa",
+    "id": "00-281910",
+    "name": "Resch&Frisch Jausenspitz 4er Glutenfrei",
+    "category": "Brot",
+    "subcategories": ["Jausenspitz", "Glutenfrei"]
+  },
+  {
+    "store": "billa",
+    "id": "00-890771",
+    "name": "Resch&Frisch Jour Salzstangerl 6er",
+    "category": "Brot",
+    "subcategories": ["Salzstangerl"]
+  },
+  {
+    "store": "billa",
+    "id": "00-890768",
+    "name": "Resch&Frisch Jour Semmel 6er",
+    "category": "Brot",
+    "subcategories": ["Semmel"]
+  },
+  {
+    "store": "billa",
+    "id": "00-389582",
+    "name": "Resch&Frisch Jour-Laugenkastanie 9er",
+    "category": "Brot",
+    "subcategories": ["Laugenkastanie"]
+  },
+  {
+    "store": "billa",
+    "id": "00-281905",
+    "name": "Resch&Frisch Kaisersemmel 4er Glutenfrei",
+    "category": "Brot",
+    "subcategories": ["Kaisersemmel", "Glutenfrei"]
+  },
+  {
+    "store": "billa",
+    "id": "00-890740",
+    "name": "Resch&Frisch Kaisersemmeln 6er",
+    "category": "Brot",
+    "subcategories": ["Kaisersemmeln"]
+  },
+  {
+    "store": "billa",
+    "id": "00-813294",
+    "name": "Resch&Frisch Knoblauchstangerl 4er",
+    "category": "Brot",
+    "subcategories": ["Knoblauchstangerl"]
+  },
+  {
+    "store": "billa",
+    "id": "00-890756",
+    "name": "Resch&Frisch Kornstangerl-Sesam 5er",
+    "category": "Brot",
+    "subcategories": ["Kornstangerl", "Sesam"]
+  },
+  {
+    "store": "billa",
+    "id": "00-390758",
+    "name": "Resch&Frisch Käseweckerl 3er",
+    "category": "Brot",
+    "subcategories": ["Käseweckerl"]
+  },
+  {
+    "store": "billa",
+    "id": "00-445614",
+    "name": "Resch&Frisch Laugenstangerl 5er",
+    "category": "Brot",
+    "subcategories": ["Laugenstangerl"]
+  },
+  {
+    "store": "billa",
+    "id": "00-890742",
+    "name": "Resch&Frisch Mohnflesserl 3er",
+    "category": "Brot",
+    "subcategories": ["Mohnflesserl"]
+  },
+  {
+    "store": "billa",
+    "id": "00-428556",
+    "name": "Resch&Frisch Sportweckerl 4er",
+    "category": "Brot",
+    "subcategories": ["Sportweckerl"]
+  },
+  {
+    "store": "billa",
+    "id": "00-464079",
+    "name": "Schnitzer Baguette Grainy Doppelp. Glutenfrei",
+    "category": "Brot",
+    "subcategories": ["Baguette", "Grainy", "Glutenfrei"]
+  },
+  {
+    "store": "billa",
+    "id": "00-728607",
+    "name": "Schnitzer Bio Brot Grainy Glutenfrei",
+    "category": "Brot",
+    "subcategories": ["Bio Brot", "Grainy", "Glutenfrei"]
+  },
+  {
+    "store": "billa",
+    "id": "00-700872",
+    "name": "Schnitzer Bio Ciabatta Tomate Glutenfrei",
+    "category": "Brot",
+    "subcategories": ["Bio Ciabatta", "Tomate", "Glutenfrei"]
+  },
+  {
+    "store": "billa",
+    "id": "00-728609",
+    "name": "Schnitzer Bio Focaccia Glutenfrei",
+    "category": "Brot",
+    "subcategories": ["Bio Focaccia", "Glutenfrei"]
+  },
+  {
+    "store": "billa",
+    "id": "00-587858",
+    "name": "Schnitzer Bio Panini Classic Glutenfrei",
+    "category": "Brot",
+    "subcategories": ["Bio Panini", "Classic", "Glutenfrei"]
+  },
+  {
+    "store": "billa",
+    "id": "00-728622",
+    "name": "Schnitzer Bio Panono Hafer Glutenfrei",
+    "category": "Brot",
+    "subcategories": ["Bio Panono", "Hafer", "Glutenfrei"]
+  },
+  {
+    "store": "billa",
+    "id": "00-728632",
+    "name": "Schnitzer Bio Schnitte Quinoa Glutenfrei",
+    "category": "Brot",
+    "subcategories": ["Bio Schnitte", "Quinoa", "Glutenfrei"]
+  },
+  {
+    "store": "billa",
+    "id": "00-464078",
+    "name": "Schnitzer Brunch Mix Glutenfrei",
+    "category": "Brot",
+    "subcategories": ["Brunch Mix", "Glutenfrei"]
+  },
+  {
+    "store": "billa",
+    "id": "00-464081",
+    "name": "Schnitzer Burger Buns Glutenfrei",
+    "category": "Brot",
+    "subcategories": ["Burger Buns", "Glutenfrei"]
+  },
+  {
+    "store": "billa",
+    "id": "00-464099",
+    "name": "Schnitzer Rustico Amaranth Glutenfrei",
+    "category": "Brot",
+    "subcategories": ["Rustico", "Amaranth", "Glutenfrei"]
+  },
+  {
+    "store": "billa",
+    "id": "00-723485",
+    "name": "Schnitzer Sauerteigbrot Chia & Quinoa Glutenfrei",
+    "category": "Brot",
+    "subcategories": ["Sauerteigbrot", "Chia", "Quinoa", "Glutenfrei"]
+  },
+  {
+    "store": "billa",
+    "id": "00-734521",
+    "name": "Schär Kaisersemmeln Glutenfrei",
+    "category": "Brot",
+    "subcategories": ["Kaisersemmeln", "Glutenfrei"]
+  },
+  {
+    "store": "billa",
+    "id": "00-894069",
+    "name": "Schär Mehrkornbrötchen Glutenfrei",
+    "category": "Brot",
+    "subcategories": ["Mehrkornbrötchen", "Glutenfrei"]
+  },
+  {
+    "store": "billa",
+    "id": "00-771381",
+    "name": "Schär Meisterbäckers Classic Glutenfrei",
+    "category": "Brot",
+    "subcategories": ["Meisterbäckers", "Classic", "Glutenfrei"]
+  },
+  {
+    "store": "billa",
+    "id": "00-887604",
+    "name": "Schär Meisterbäckers Mehrkorn Glutenfrei",
+    "category": "Brot",
+    "subcategories": ["Meisterbäckers", "Mehrkorn", "Glutenfrei"]
+  },
+  {
+    "store": "billa",
+    "id": "00-846684",
+    "name": "Schär Meisterbäckers Vital Glutenfrei",
+    "category": "Brot",
+    "subcategories": ["Meisterbäckers", "Vital", "Glutenfrei"]
+  },
+  {
+    "store": "billa",
+    "id": "00-432802",
+    "name": "Sinnack Gemischte bestreute Brötchen",
+    "category": "Brot",
+    "subcategories": ["Gemischte Brötchen", "Bestreute Brötchen"]
+  },
+  {
+    "store": "billa",
+    "id": "00-714113",
+    "name": "Sinnack Kaiserbrötchen",
+    "category": "Brot",
+    "subcategories": ["Kaiserbrötchen"]
+  },
+  {
+    "store": "billa",
+    "id": "00-354593",
+    "name": "Sinnack Kaiserbrötchen Mohn-Sesam-Mix",
+    "category": "Brot",
+    "subcategories": ["Kaiserbrötchen", "Mohn-Sesam-Mix"]
+  },
+  {
+    "store": "billa",
+    "id": "00-410950",
+    "name": "Sinnack Mehrkornbrötchen",
+    "category": "Brot",
+    "subcategories": ["Mehrkornbrötchen"]
+  },
+  {
+    "store": "billa",
+    "id": "00-593901",
+    "name": "Sinnack Steinofen Dinkelbrötchen",
+    "category": "Brot",
+    "subcategories": ["Steinofen", "Dinkelbrötchen"]
+  },
+  {
+    "store": "billa",
+    "id": "00-427178",
+    "name": "Sinnack Unsere Besten",
+    "category": "Brot",
+    "subcategories": ["Unsere Besten"]
+  },
+  {
+    "store": "billa",
+    "id": "00-660710",
+    "name": "Sinnack Unsere Besten mit Roggenmehl",
+    "category": "Brot",
+    "subcategories": ["Unsere Besten", "Roggenmehl"]
+  },
+  {
+    "store": "billa",
+    "id": "00-413269",
+    "name": "Super Sandwich",
+    "category": "Brot",
+    "subcategories": ["Sandwich"]
+  },
+  {
+    "store": "billa",
+    "id": "00-717096",
+    "name": "Weizenfrei Baguette",
+    "category": "Brot",
+    "subcategories": ["Weizenfrei", "Baguette"]
+  },
+  {
+    "store": "billa",
+    "id": "00-511856",
+    "name": "Weizenfrei Jour Gebäck Glutenfrei",
+    "category": "Brot",
+    "subcategories": ["Weizenfrei", "Jour Gebäck", "Glutenfrei"]
+  },
+  {
+    "store": "billa",
+    "id": "00-316336",
+    "name": "Weizenfrei Kaisersemmel Glutenfrei",
+    "category": "Brot",
+    "subcategories": ["Weizenfrei", "Kaisersemmel", "Glutenfrei"]
+  },
+  {
+    "store": "billa",
+    "id": "00-316339",
+    "name": "Weizenfrei Laugenstangen Glutenfrei",
+    "category": "Brot",
+    "subcategories": ["Weizenfrei", "Laugenstangen", "Glutenfrei"]
+  },
+  {
+    "store": "billa",
+    "id": "00-316323",
+    "name": "Weizenfrei Mehrkornbrot Glutenfrei",
+    "category": "Brot",
+    "subcategories": ["Weizenfrei", "Mehrkornbrot", "Glutenfrei"]
+  },
+  {
+    "store": "billa",
+    "id": "00-717097",
+    "name": "Weizenfrei Mini-Baguettes",
+    "category": "Brot",
+    "subcategories": ["Weizenfrei", "Mini-Baguettes"]
+  },
+  {
+    "store": "billa",
+    "id": "00-511866",
+    "name": "Weizenfrei Spitzkornweckerl Glutenfrei",
+    "category": "Brot",
+    "subcategories": ["Weizenfrei", "Spitzkornweckerl", "Glutenfrei"]
+  },
+  {
+    "store": "billa",
+    "id": "00-354154",
+    "name": "Ölz Bio Vollkorn Toast",
+    "category": "Brot",
+    "subcategories": ["Bio", "Vollkorn", "Toast"]
+  },
+  {
+    "store": "billa",
+    "id": "00-930528",
+    "name": "Ölz Brioche Burger Brötle",
+    "category": "Brot",
+    "subcategories": ["Brioche", "Burger Brötle"]
+  },
+  {
+    "store": "billa",
+    "id": "00-21399",
+    "name": "Ölz Buttertoast",
+    "category": "Brot",
+    "subcategories": ["Buttertoast"]
+  },
+  {
+    "store": "billa",
+    "id": "00-421631",
+    "name": "Ölz Buttertoast",
+    "category": "Brot",
+    "subcategories": ["Buttertoast"]
+  },
+  {
+    "store": "billa",
+    "id": "00-370463",
+    "name": "Ölz Dinkel Soft Sandwich",
+    "category": "Brot",
+    "subcategories": ["Dinkel", "Soft Sandwich"]
+  },
+  {
+    "store": "billa",
+    "id": "00-872566",
+    "name": "Ölz Dinkel Toast",
+    "category": "Brot",
+    "subcategories": ["Dinkel", "Toast"]
+  },
+  {
+    "store": "billa",
+    "id": "00-293926",
+    "name": "Ölz Eiweiß Burger Brötle",
+    "category": "Brot",
+    "subcategories": ["Eiweiß", "Burger Brötle"]
+  },
+  {
+    "store": "billa",
+    "id": "00-425109",
+    "name": "Ölz Farmer Soft Sandwich",
+    "category": "Brot",
+    "subcategories": ["Farmer", "Soft Sandwich"]
+  },
+  {
+    "store": "billa",
+    "id": "00-399723",
+    "name": "Ölz Fladenbrot",
+    "category": "Brot",
+    "subcategories": ["Fladenbrot"]
+  },
+  {
+    "store": "billa",
+    "id": "00-932402",
+    "name": "Ölz Italian Sandwich",
+    "category": "Brot",
+    "subcategories": ["Italian Sandwich"]
+  },
+  {
+    "store": "billa",
+    "id": "00-763184",
+    "name": "Ölz Kornspitztoast",
+    "category": "Brot",
+    "subcategories": ["Kornspitztoast"]
+  },
+  {
+    "store": "billa",
+    "id": "00-597930",
+    "name": "Ölz Maxi Burger Brötle",
+    "category": "Brot",
+    "subcategories": ["Maxi", "Burger Brötle"]
+  },
+  {
+    "store": "billa",
+    "id": "00-421630",
+    "name": "Ölz Mehrkorntoast",
+    "category": "Brot",
+    "subcategories": ["Mehrkorntoast"]
+  },
+  {
+    "store": "billa",
+    "id": "00-14336",
+    "name": "Ölz Mehrkorntoast",
+    "category": "Brot",
+    "subcategories": ["Mehrkorntoast"]
+  },
+  {
+    "store": "billa",
+    "id": "00-471890",
+    "name": "Ölz Protein Soft Sandwich",
+    "category": "Brot",
+    "subcategories": ["Protein", "Soft Sandwich"]
+  },
+  {
+    "store": "billa",
+    "id": "00-888982",
+    "name": "Ölz Riesen Toast",
+    "category": "Brot",
+    "subcategories": ["Riesen Toast"]
+  },
+  {
+    "store": "billa",
+    "id": "00-167163",
+    "name": "Ölz Sandwich Toast",
+    "category": "Brot",
+    "subcategories": ["Sandwich Toast"]
+  },
+  {
+    "store": "billa",
+    "id": "00-5739",
+    "name": "Ölz Sandwich Toast",
+    "category": "Brot",
+    "subcategories": ["Sandwich Toast"]
+  },
+  {
+    "store": "billa",
+    "id": "00-403275",
+    "name": "Ölz Super Soft Sandwich",
+    "category": "Brot",
+    "subcategories": ["Super Soft Sandwich"]
+  },
+  {
+    "store": "billa",
+    "id": "00-420184",
+    "name": "Ölz Super Soft Sandwich",
+    "category": "Brot",
+    "subcategories": ["Super Soft Sandwich"]
+  },
+  {
+    "store": "billa",
+    "id": "00-754936",
+    "name": "Ölz Vollkorn Soft Sandwich",
+    "category": "Brot",
+    "subcategories": ["Vollkorn", "Soft Sandwich"]
+  },
+  {
+    "store": "billa",
+    "id": "00-440879",
+    "name": "Aborigines Weckerl - Mehl aus Österreich",
+    "category": "Brot",
+    "subcategories": ["Aborigines Weckerl", "Mehl", "Österreich"]
+  },
+  {
+    "store": "billa",
+    "id": "00-317480",
+    "name": "Alnatura Roggen Vollkorn Brot",
+    "category": "Brot",
+    "subcategories": ["Roggen Vollkorn", "Brot"]
+  },
+  {
+    "store": "billa",
+    "id": "00-317816",
+    "name": "Alnavit Bio Buchweizenbrot",
+    "category": "Brot",
+    "subcategories": ["Bio", "Buchweizenbrot"]
+  },
+  {
+    "store": "billa",
+    "id": "00-398563",
+    "name": "Alnavit Bio Knusperbrot Buchweizen Glutenfrei",
+    "category": "Brot",
+    "subcategories": ["Bio Knusperbrot", "Buchweizen", "Glutenfrei"]
+  },
+  {
+    "store": "billa",
+    "id": "00-431640",
+    "name": "Alnavit Chia-Quinoa Brötchen Glutenfrei",
+    "category": "Brot",
+    "subcategories": ["Chia-Quinoa Brötchen", "Glutenfrei"]
+  },
+  {
+    "store": "billa",
+    "id": "00-704282",
+    "name": "Anker G'staubter Wecken geschnitten",
+    "category": "Brot",
+    "subcategories": ["G'staubter Wecken"]
+  },
+  {
+    "store": "billa",
+    "id": "00-704276",
+    "name": "Anker Kornfitwecken geschnitten",
+    "category": "Brot",
+    "subcategories": ["Kornfitwecken"]
+  },
+  {
+    "store": "billa",
+    "id": "00-704278",
+    "name": "Anker Puszta Wecken geschnitten",
+    "category": "Brot",
+    "subcategories": ["Puszta Wecken"]
+  },
+  {
+    "store": "billa",
+    "id": "00-704275",
+    "name": "Anker Weißbrot geschnitten",
+    "category": "Brot",
+    "subcategories": ["Weißbrot"]
+  },
+  {
+    "store": "billa",
+    "id": "00-967981",
+    "name": "BILLA Brotkörbchen",
+    "category": "Brot",
+    "subcategories": ["Brotkörbchen"]
+  },
+  {
+    "store": "billa",
+    "id": "00-696450",
+    "name": "BILLA Knusperlaugenstangerl",
+    "category": "Brot",
+    "subcategories": ["Knusperlaugenstangerl"]
+  },
+  {
+    "store": "billa",
+    "id": "00-674914",
+    "name": "BILLA Knusperstangerl",
+    "category": "Brot",
+    "subcategories": ["Knusperstangerl"]
+  },
+  {
+    "store": "billa",
+    "id": "00-40991",
+    "name": "BILLA Laugenstange mit Käse",
+    "category": "Brot",
+    "subcategories": ["Laugenstange", "Käse"]
+  },
+  {
+    "store": "billa",
+    "id": "00-528769",
+    "name": "BILLA Mediterranes Stangerl",
+    "category": "Brot",
+    "subcategories": ["Mediterranes Stangerl"]
+  },
+  {
+    "store": "billa",
+    "id": "00-751554",
+    "name": "BILLA Paprika-Käse-Stangerl",
+    "category": "Brot",
+    "subcategories": ["Paprika-Käse-Stangerl"]
+  }
+]
+
+The "category" field represents the category of the specific product, and the "subcategories" field provides a list of subcategories that further categorize the product.

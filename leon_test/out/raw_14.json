@@ -1,0 +1,700 @@
+[{
+    "store": "billa",
+    "id": "00-888596",
+    "name": "Rauch Juice Bar Blutorangensaft Direkt Gepresst",
+    "category": "Fruchtsäfte",
+    "subcategories": ["Blutorange", "Direkt Gepresst"]
+},
+{
+    "store": "billa",
+    "id": "00-956896",
+    "name": "Rauch Juice Bar Früchtetee Heidelbeer-Himbeer",
+    "category": "Fruchtsäfte",
+    "subcategories": ["Früchtetee", "Heidelbeer", "Himbeer"]
+},
+{
+    "store": "billa",
+    "id": "00-303954",
+    "name": "Rauch Juice Bar Orange-Karotte-Mangosaft",
+    "category": "Fruchtsäfte",
+    "subcategories": ["Orange", "Karotte", "Mango"]
+},
+{
+    "store": "billa",
+    "id": "00-888595",
+    "name": "Rauch Juice Bar Orangensaft Direkt Gepresst",
+    "category": "Fruchtsäfte",
+    "subcategories": ["Orange", "Direkt Gepresst"]
+},
+{
+    "store": "billa",
+    "id": "00-386411",
+    "name": "Rauch Juice Bar Pink Dragon",
+    "category": "Fruchtsäfte",
+    "subcategories": ["Pink Dragon"]
+},
+{
+    "store": "billa",
+    "id": "00-956898",
+    "name": "Rauch Juice Bar Schwarztee Zitrone-Ingwer",
+    "category": "Fruchtsäfte",
+    "subcategories": ["Schwarztee", "Zitrone", "Ingwer"]
+},
+{
+    "store": "billa",
+    "id": "00-297432",
+    "name": "Rauch Limettensaft",
+    "category": "Fruchtsäfte",
+    "subcategories": ["Limette"]
+},
+{
+    "store": "billa",
+    "id": "00-411165",
+    "name": "Rauch Sport Isotonic Citrus",
+    "category": "Fruchtsäfte",
+    "subcategories": ["Isotonic", "Citrus"]
+},
+{
+    "store": "billa",
+    "id": "00-722486",
+    "name": "Rauch Yippy Apple",
+    "category": "Säfte",
+    "subcategories": ["Apple"]
+},
+{
+    "store": "billa",
+    "id": "00-681747",
+    "name": "Rauch Yippy Cherry",
+    "category": "Säfte",
+    "subcategories": ["Cherry"]
+},
+{
+    "store": "billa",
+    "id": "00-681749",
+    "name": "Rauch Yippy Multi",
+    "category": "Säfte",
+    "subcategories": ["Multi"]
+},
+{
+    "store": "billa",
+    "id": "00-384180",
+    "name": "Rauch Yippy Party Cherry",
+    "category": "Säfte",
+    "subcategories": ["Party", "Cherry"]
+},
+{
+    "store": "billa",
+    "id": "00-385637",
+    "name": "Rauch Yippy Party Grape",
+    "category": "Säfte",
+    "subcategories": ["Party", "Grape"]
+},
+{
+    "store": "billa",
+    "id": "00-779874",
+    "name": "Rauch Yippy Red Berries",
+    "category": "Säfte",
+    "subcategories": ["Red Berries"]
+},
+{
+    "store": "billa",
+    "id": "00-10359",
+    "name": "Rauch Zitronensaft",
+    "category": "Fruchtsäfte",
+    "subcategories": ["Zitrone"]
+},
+{
+    "store": "billa",
+    "id": "00-411301",
+    "name": "Rauch Zitronensaft",
+    "category": "Fruchtsäfte",
+    "subcategories": ["Zitrone"]
+},
+{
+    "store": "billa",
+    "id": "00-719462",
+    "name": "Red Bull Apricot Edition 4-Pack",
+    "category": "Erfrischungsgetränke",
+    "subcategories": ["Apricot"]
+},
+{
+    "store": "billa",
+    "id": "00-12494",
+    "name": "Red Bull Energy Drink",
+    "category": "Energy Drinks",
+    "subcategories": ["Energy Drink"]
+},
+{
+    "store": "billa",
+    "id": "00-622489",
+    "name": "Red Bull Energy Drink",
+    "category": "Energy Drinks",
+    "subcategories": ["Energy Drink"]
+},
+{
+    "store": "billa",
+    "id": "00-902218",
+    "name": "Red Bull Energy Drink",
+    "category": "Energy Drinks",
+    "subcategories": ["Energy Drink"]
+},
+{
+    "store": "billa",
+    "id": "00-419067",
+    "name": "Red Bull Energy Drink 4-Pack",
+    "category": "Energy Drinks",
+    "subcategories": ["Energy Drink"]
+},
+{
+    "store": "billa",
+    "id": "00-619936",
+    "name": "Red Bull Energy Drink 8-Pack",
+    "category": "Energy Drinks",
+    "subcategories": ["Energy Drink"]
+},
+{
+    "store": "billa",
+    "id": "00-619941",
+    "name": "Red Bull Energy Drink 8-pack, Sugarfree",
+    "category": "Energy Drinks",
+    "subcategories": ["Energy Drink", "Sugarfree"]
+},
+{
+    "store": "billa",
+    "id": "00-572423",
+    "name": "Red Bull Energy Drink Apricot Edition Marille - Erdbeere",
+    "category": "Energy Drinks",
+    "subcategories": ["Apricot", "Erdbeere"]
+},
+{
+    "store": "billa",
+    "id": "00-702398",
+    "name": "Red Bull Energy Drink Blue Edition Heidelbeere",
+    "category": "Energy Drinks",
+    "subcategories": ["Blue Edition", "Heidelbeere"]
+},
+{
+    "store": "billa",
+    "id": "00-469794",
+    "name": "Red Bull Energy Drink Green Edition Kaktusfrucht",
+    "category": "Energy Drinks",
+    "subcategories": ["Green Edition", "Kaktusfrucht"]
+},
+{
+    "store": "billa",
+    "id": "00-383638",
+    "name": "Red Bull Energy Drink Red Edtition Wassermelone",
+    "category": "Energy Drinks",
+    "subcategories": ["Red Edition", "Wassermelone"]
+},
+{
+    "store": "billa",
+    "id": "00-935715",
+    "name": "Red Bull Energy Drink White Edition Kokos-Blaubeere",
+    "category": "Energy Drinks",
+    "subcategories": ["White Edition", "Kokos", "Blaubeere"]
+},
+{
+    "store": "billa",
+    "id": "00-884192",
+    "name": "Red Bull Energy Drink Yellow Edition Tropical",
+    "category": "Energy Drinks",
+    "subcategories": ["Yellow Edition", "Tropical"]
+},
+{
+    "store": "billa",
+    "id": "00-864635",
+    "name": "Red Bull Energy Drink, Sugarfree",
+    "category": "Energy Drinks",
+    "subcategories": ["Sugarfree"]
+},
+{
+    "store": "billa",
+    "id": "00-902219",
+    "name": "Red Bull Energy Drink, Sugarfree",
+    "category": "Energy Drinks",
+    "subcategories": ["Sugarfree"]
+},
+{
+    "store": "billa",
+    "id": "00-763606",
+    "name": "Red Bull Energy Drink, Zero",
+    "category": "Energy Drinks",
+    "subcategories": ["Zero"]
+},
+{
+    "store": "billa",
+    "id": "00-718233",
+    "name": "Red Bull Green Edition 4-Pack",
+    "category": "Erfrischungsgetränke",
+    "subcategories": ["Green Edition"]
+},
+{
+    "store": "billa",
+    "id": "00-717752",
+    "name": "Red Bull Summer Edition - Juneberry",
+    "category": "Erfrischungsgetränke",
+    "subcategories": ["Summer Edition", "Juneberry"]
+},
+{
+    "store": "billa",
+    "id": "00-718273",
+    "name": "Red Bull Summeredition Juneberry 4-Pack",
+    "category": "Erfrischungsgetränke",
+    "subcategories": ["Summer Edition", "Juneberry"]
+},
+{
+    "store": "billa",
+    "id": "00-249075",
+    "name": "Red Bull Winter Edition Feige-Apfel",
+    "category": "Erfrischungsgetränke",
+    "subcategories": ["Winter Edition", "Feige", "Apfel"]
+},
+{
+    "store": "billa",
+    "id": "00-418889",
+    "name": "Rogaska Donatquelle",
+    "category": "Mineralwasser",
+    "subcategories": ["Donatquelle"]
+},
+{
+    "store": "billa",
+    "id": "00-289400",
+    "name": "Römerquelle Biolimo Orange-Mango-Passionsfrucht",
+    "category": "Fruchtsaftgetränke",
+    "subcategories": ["Biolimo", "Orange", "Mango", "Passionsfrucht"]
+},
+{
+    "store": "billa",
+    "id": "00-289398",
+    "name": "Römerquelle Biolimo Zitrone-Limette-Minze",
+    "category": "Fruchtsaftgetränke",
+    "subcategories": ["Biolimo", "Zitrone", "Limette", "Minze"]
+},
+{
+    "store": "billa",
+    "id": "00-470424",
+    "name": "Römerquelle Emotion Ananas Zitrone",
+    "category": "Fruchtsaftgetränke",
+    "subcategories": ["Emotion", "Ananas", "Zitrone"]
+},
+{
+    "store": "billa",
+    "id": "00-470431",
+    "name": "Römerquelle Emotion Apfel Ribisel",
+    "category": "Fruchtsaftgetränke",
+    "subcategories": ["Emotion", "Apfel", "Ribisel"]
+},
+{
+    "store": "billa",
+    "id": "00-469222",
+    "name": "Römerquelle Emotion Birne Melisse",
+    "category": "Fruchtsaftgetränke",
+    "subcategories": ["Emotion", "Birne", "Melisse"]
+},
+{
+    "store": "billa",
+    "id": "00-470422",
+    "name": "Römerquelle Emotion Birne Melisse",
+    "category": "Fruchtsaftgetränke",
+    "subcategories": ["Emotion", "Birne", "Melisse"]
+},
+{
+    "store": "billa",
+    "id": "00-470423",
+    "name": "Römerquelle Emotion Brombeere Limette",
+    "category": "Fruchtsaftgetränke",
+    "subcategories": ["Emotion", "Brombeere", "Limette"]
+},
+{
+    "store": "billa",
+    "id": "00-469219",
+    "name": "Römerquelle Emotion Brombeere Limette",
+    "category": "Fruchtsaftgetränke",
+    "subcategories": ["Emotion", "Brombeere", "Limette"]
+},
+{
+    "store": "billa",
+    "id": "00-574511",
+    "name": "Römerquelle Emotion Heidelbeere Granatapfel",
+    "category": "Fruchtsaftgetränke",
+    "subcategories": ["Emotion", "Heidelbeere", "Granatapfel"]
+},
+{
+    "store": "billa",
+    "id": "00-470419",
+    "name": "Römerquelle Emotion Lemongrass",
+    "category": "Fruchtsaftgetränke",
+    "subcategories": ["Emotion", "Lemongrass"]
+},
+{
+    "store": "billa",
+    "id": "00-469220",
+    "name": "Römerquelle Emotion Marille Holunderblüte",
+    "category": "Fruchtsaftgetränke",
+    "subcategories": ["Emotion", "Marille", "Holunderblüte"]
+},
+{
+    "store": "billa",
+    "id": "00-470418",
+    "name": "Römerquelle Emotion Marille-Holunder",
+    "category": "Fruchtsaftgetränke",
+    "subcategories": ["Emotion", "Marille", "Holunder"]
+},
+{
+    "store": "billa",
+    "id": "00-721421",
+    "name": "Römerquelle Emotion Pfirsich-Wassermelone",
+    "category": "Fruchtsaftgetränke",
+    "subcategories": ["Emotion", "Pfirsich", "Wassermelone"]
+},
+{
+    "store": "billa",
+    "id": "00-721419",
+    "name": "Römerquelle Emotion Zitrone - Blutorange",
+    "category": "Fruchtsaftgetränke",
+    "subcategories": ["Emotion", "Zitrone", "Blutorange"]
+},
+{
+    "store": "billa",
+    "id": "00-721486",
+    "name": "Römerquelle Flavour Zitrone-Limette",
+    "category": "Mineralwasser",
+    "subcategories": ["Flavour", "Zitrone", "Limette"]
+},
+{
+    "store": "billa",
+    "id": "00-470420",
+    "name": "Römerquelle Fresh Zitrone",
+    "category": "Mineralwasser",
+    "subcategories": ["Fresh", "Zitrone"]
+},
+{
+    "store": "billa",
+    "id": "00-779272",
+    "name": "Römerquelle Mild",
+    "category": "Mineralwasser",
+    "subcategories": ["Mild"]
+},
+{
+    "store": "billa",
+    "id": "00-779270",
+    "name": "Römerquelle Prickelnd",
+    "category": "Mineralwasser",
+    "subcategories": ["Prickelnd"]
+},
+{
+    "store": "billa",
+    "id": "00-256386",
+    "name": "Römerquelle Prickelnd",
+    "category": "Mineralwasser",
+    "subcategories": ["Prickelnd"]
+},
+{
+    "store": "billa",
+    "id": "00-256392",
+    "name": "Römerquelle Still",
+    "category": "Mineralwasser",
+    "subcategories": ["Still"]
+},
+{
+    "store": "billa",
+    "id": "00-772398",
+    "name": "San Pellegrino Aranciata",
+    "category": "Limettenlimonaden",
+    "subcategories": ["Aranciata"]
+},
+{
+    "store": "billa",
+    "id": "00-772402",
+    "name": "San Pellegrino Limonata",
+    "category": "Limettenlimonaden",
+    "subcategories": ["Limonata"]
+},
+{
+    "store": "billa",
+    "id": "00-791768",
+    "name": "San Pellegrino Sanbitter 6er",
+    "category": "Bitterlimonaden",
+    "subcategories": ["Sanbitter"]
+},
+{
+    "store": "billa",
+    "id": "00-287915",
+    "name": "SanLucar Ananas-Banane-Erdbeere Smoothie",
+    "category": "Smoothies",
+    "subcategories": ["Ananas", "Banane", "Erdbeere"]
+},
+{
+    "store": "billa",
+    "id": "00-381466",
+    "name": "SanLucar Ananas-Kokos-Banane Smoothie",
+    "category": "Smoothies",
+    "subcategories": ["Ananas", "Kokos", "Banane"]
+},
+{
+    "store": "billa",
+    "id": "00-381470",
+    "name": "SanLucar Beerenmix Smoothie",
+    "category": "Smoothies",
+    "subcategories": ["Beerenmix"]
+},
+{
+    "store": "billa",
+    "id": "00-381394",
+    "name": "SanLucar Clementinensaft",
+    "category": "Fruchtsäfte",
+    "subcategories": ["Clementinensaft"]
+},
+{
+    "store": "billa",
+    "id": "00-381403",
+    "name": "SanLucar Clementinensaft",
+    "category": "Fruchtsäfte",
+    "subcategories": ["Clementinensaft"]
+},
+{
+    "store": "billa",
+    "id": "00-381467",
+    "name": "SanLucar Mango-Maracuja Smoothie",
+    "category": "Smoothies",
+    "subcategories": ["Mango", "Maracuja"]
+},
+{
+    "store": "billa",
+    "id": "00-381407",
+    "name": "SanLucar Opal Apfelsaft",
+    "category": "Fruchtsäfte",
+    "subcategories": ["Apfelsaft"]
+},
+{
+    "store": "billa",
+    "id": "00-381398",
+    "name": "SanLucar Orangensaft",
+    "category": "Fruchtsäfte",
+    "subcategories": ["Orangensaft"]
+},
+{
+    "store": "billa",
+    "id": "00-381406",
+    "name": "SanLucar Orangensaft",
+    "category": "Fruchtsäfte",
+    "subcategories": ["Orangensaft"]
+},
+{
+    "store": "billa",
+    "id": "00-716414",
+    "name": "Schartner Bombe Ananas",
+    "category": "Limonaden",
+    "subcategories": ["Ananas"]
+},
+{
+    "store": "billa",
+    "id": "00-702868",
+    "name": "Schartner Bombe Fruit Bowl",
+    "category": "Limonaden",
+    "subcategories": ["Fruit Bowl"]
+},
+{
+    "store": "billa",
+    "id": "00-716434",
+    "name": "Schartner Bombe Orange",
+    "category": "Limonaden",
+    "subcategories": ["Orange"]
+},
+{
+    "store": "billa",
+    "id": "00-90179",
+    "name": "Schartner Bombe Orange",
+    "category": "Limonaden",
+    "subcategories": ["Orange"]
+},
+{
+    "store": "billa",
+    "id": "00-498266",
+    "name": "Schartner Bombe Pink Grapefruit - zuckerfrei",
+    "category": "Limonaden",
+    "subcategories": ["Pink Grapefruit", "Zuckerfrei"]
+},
+{
+    "store": "billa",
+    "id": "00-933515",
+    "name": "Schartner Bombe Zitrone",
+    "category": "Limonaden",
+    "subcategories": ["Zitrone"]
+},
+{
+    "store": "billa",
+    "id": "00-716405",
+    "name": "Schartner Bombe Zitrone",
+    "category": "Limonaden",
+    "subcategories": ["Zitrone"]
+},
+{
+    "store": "billa",
+    "id": "00-905059",
+    "name": "Schweppes American Ginger Ale",
+    "category": "Tonic Water",
+    "subcategories": ["Ginger Ale"]
+},
+{
+    "store": "billa",
+    "id": "00-867777",
+    "name": "Schweppes Bitter Lemon",
+    "category": "Bitterlimonaden",
+    "subcategories": ["Bitter Lemon"]
+},
+{
+    "store": "billa",
+    "id": "00-871836",
+    "name": "Schweppes Bitter Lemon",
+    "category": "Bitterlimonaden",
+    "subcategories": ["Bitter Lemon"]
+},
+{
+    "store": "billa",
+    "id": "00-482150",
+    "name": "Schweppes Bitter Lemon Zero",
+    "category": "Bitterlimonaden",
+    "subcategories": ["Bitter Lemon", "Zero"]
+},
+{
+    "store": "billa",
+    "id": "00-300205",
+    "name": "Schweppes Dry Tonic Water",
+    "category": "Tonic Water",
+    "subcategories": ["Dry"]
+},
+{
+    "store": "billa",
+    "id": "00-842259",
+    "name": "Schweppes Dry Tonic Water",
+    "category": "Tonic Water",
+    "subcategories": ["Dry"]
+},
+{
+    "store": "billa",
+    "id": "00-420894",
+    "name": "Schweppes Indian Tonic",
+    "category": "Tonic Water",
+    "subcategories": ["Indian Tonic"]
+},
+{
+    "store": "billa",
+    "id": "00-867776",
+    "name": "Schweppes Indian Tonic Water",
+    "category": "Tonic Water",
+    "subcategories": ["Indian Tonic"]
+},
+{
+    "store": "billa",
+    "id": "00-871837",
+    "name": "Schweppes Indian Tonic Water",
+    "category": "Tonic Water",
+    "subcategories": ["Indian Tonic"]
+},
+{
+    "store": "billa",
+    "id": "00-482119",
+    "name": "Schweppes Tonic Water Zero",
+    "category": "Tonic Water",
+    "subcategories": ["Tonic Water", "Zero"]
+},
+{
+    "store": "billa",
+    "id": "00-603408",
+    "name": "Schweppes Wild Berry",
+    "category": "Limonaden",
+    "subcategories": ["Wild Berry"]
+},
+{
+    "store": "billa",
+    "id": "00-878684",
+    "name": "Schweppes Wild Berry",
+    "category": "Limonaden",
+    "subcategories": ["Wild Berry"]
+},
+{
+    "store": "billa",
+    "id": "00-579318",
+    "name": "Schweppes Zero Wild Berry",
+    "category": "Limonaden",
+    "subcategories": ["Zero", "Wild Berry"]
+},
+{
+    "store": "billa",
+    "id": "00-765609",
+    "name": "Schäfer Biosäfte Karotten-Apfelsaft",
+    "category": "Säfte",
+    "subcategories": ["Karotten", "Apfelsaft"]
+},
+{
+    "store": "billa",
+    "id": "00-765619",
+    "name": "Schäfer Biosäfte Marillen-Apfelsaft",
+    "category": "Säfte",
+    "subcategories": ["Marillen", "Apfelsaft"]
+},
+{
+    "store": "billa",
+    "id": "00-721406",
+    "name": "Schärdinger Eiskaffee",
+    "category": "Eiskaffee",
+    "subcategories": ["Eiskaffee"]
+},
+{
+    "store": "billa",
+    "id": "00-414240",
+    "name": "Seven Up Lemon",
+    "category": "Limonaden",
+    "subcategories": ["Lemon"]
+},
+{
+    "store": "billa",
+    "id": "00-581763",
+    "name": "Seven Up Zitronen Limonade",
+    "category": "Limonaden",
+    "subcategories": ["Zitronen Limonade"]
+},
+{
+    "store": "billa",
+    "id": "00-641217",
+    "name": "Sicheldorfer Josefsquelle",
+    "category": "Mineralwasser",
+    "subcategories": ["Josefsquelle"]
+},
+{
+    "store": "billa",
+    "id": "00-927962",
+    "name": "Spezi Orange",
+    "category": "Limettenlimonaden",
+    "subcategories": ["Orange"]
+},
+{
+    "store": "billa",
+    "id": "00-928001",
+    "name": "Spezi Orange",
+    "category": "Limettenlimonaden",
+    "subcategories": ["Orange"]
+},
+{
+    "store": "billa",
+    "id": "00-575353",
+    "name": "Sprite",
+    "category": "Limonaden",
+    "subcategories": []
+},
+{
+    "store": "billa",
+    "id": "00-574706",
+    "name": "Sprite",
+    "category": "Limonaden",
+    "subcategories": []
+},
+{
+    "store": "billa",
+    "id": "00-574924",
+    "name": "Sprite Zero",
+    "category": "Limonaden",
+    "subcategories": ["Zero"]
+}]

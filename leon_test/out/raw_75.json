@@ -1,0 +1,77 @@
+The JSON list of grocery products in Austrian supermarkets with added category and subcategory fields is as follows:
+
+[
+  {
+    "store": "billa",
+    "id": "00-779304",
+    "name": "Machland Maiskölbchen",
+    "category": "Gemüse",
+    "subcategories": ["Maiskölbchen"]
+  },
+  {
+    "store": "billa",
+    "id": "00-81313",
+    "name": "Machland Pußtasalat",
+    "category": "Salat",
+    "subcategories": ["Pußtasalat"]
+  },
+  {
+    "store": "billa",
+    "id": "00-293164",
+    "name": "Machland Riesenbohnen Salat",
+    "category": "Salat",
+    "subcategories": ["Riesenbohnen Salat"]
+  },
+  {
+    "store": "billa",
+    "id": "00-41258",
+    "name": "Machland Rote Rüben",
+    "category": "Gemüse",
+    "subcategories": ["Rote Rüben"]
+  },
+  {
+    "store": "billa",
+    "id": "00-4527",
+    "name": "Machland Salzgurken",
+    "category": "Gemüse",
+    "subcategories": ["Salzgurken"]
+  },
+  {
+    "store": "billa",
+    "id": "00-871016",
+    "name": "Machland Silberzwiebel",
+    "category": "Gemüse",
+    "subcategories": ["Silberzwiebel"]
+  },
+  {
+    "store": "billa",
+    "id": "00-918745",
+    "name": "Machland Squeezer Allstar Fruit&Go Bio",
+    "category": "Obst",
+    "subcategories": ["Squeezer Allstar Fruit&Go Bio"]
+  },
+  {
+    "store": "billa",
+    "id": "00-918746",
+    "name": "Machland Squeezer Peachtime Fruit&Go Bio",
+    "category": "Obst",
+    "subcategories": ["Squeezer Peachtime Fruit&Go Bio"]
+  },
+  {
+    "store": "billa",
+    "id": "00-344174",
+    "name": "Machland Squeezer Summer Breeze Fruit&Go Bio",
+    "category": "Obst",
+    "subcategories": ["Squeezer Summer Breeze Fruit&Go Bio"]
+  },
+  {
+    "store": "billa",
+    "id": "00-883562",
+    "name": "Mario's Gefüllte Weinblätter",
+    "category": "Vorspeise",
+    "subcategories": ["Gefüllte Weinblätter"]
+  },
+  ...
+]
+
+Note: The categories and subcategories have been added based on the given product names.

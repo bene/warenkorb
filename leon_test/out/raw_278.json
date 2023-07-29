@@ -1,0 +1,701 @@
+{
+  "store": "spar",
+  "id": "3210666",
+  "name": "Kraut Braunschweiger per kg Kraut Braunschweiger oe. KG MW GVE 10",
+  "category": "Gemüse",
+  "subcategories": ["Kraut", "Braunschweiger"]
+},
+{
+  "store": "spar",
+  "id": "2020002407100",
+  "name": "Midi Rispentomaten Bad Blumau per kg Tomate Rispe MIDI lose BB MW GVE 3",
+  "category": "Gemüse",
+  "subcategories": ["Rispentomaten", "Tomate"]
+},
+{
+  "store": "spar",
+  "id": "2020001160556",
+  "name": "Datteln Sorte \"Deri\" 1 KG",
+  "category": "Obst",
+  "subcategories": ["Datteln"]
+},
+{
+  "store": "spar",
+  "id": "2020001893911",
+  "name": "EZA Ananas getrocknet getrocknet 70g",
+  "category": "Obst",
+  "subcategories": ["Ananas"]
+},
+{
+  "store": "spar",
+  "id": "2020001894123",
+  "name": "EZA Mangos getrocknet 100g",
+  "category": "Obst",
+  "subcategories": ["Mangos"]
+},
+{
+  "store": "spar",
+  "id": "2020003829116",
+  "name": "Kotányi Chips Apfel-Vanille",
+  "category": "Snacks",
+  "subcategories": ["Chips", "Apfel", "Vanille"]
+},
+{
+  "store": "spar",
+  "id": "2020003829130",
+  "name": "Kotányi Chips Apfel-Zimt",
+  "category": "Snacks",
+  "subcategories": ["Chips", "Apfel", "Zimt"]
+},
+{
+  "store": "spar",
+  "id": "2020000625742",
+  "name": "Mestemacher Eiweiß Toastbrötchen 4 Stück / 8 Scheiben",
+  "category": "Brot",
+  "subcategories": ["Toastbrötchen", "Eiweiß"]
+},
+{
+  "store": "spar",
+  "id": "2020004129406",
+  "name": "American Sandwich 500 G",
+  "category": "Brot",
+  "subcategories": ["Sandwich"]
+},
+{
+  "store": "spar",
+  "id": "3595435",
+  "name": "Anker Alpenwecken geschnitten",
+  "category": "Brot",
+  "subcategories": ["Alpenwecken"]
+},
+{
+  "store": "spar",
+  "id": "5853212",
+  "name": "Anker G'staubter Wecken geschnitten",
+  "category": "Brot",
+  "subcategories": ["Wecken"]
+},
+{
+  "store": "spar",
+  "id": "3764442",
+  "name": "Anker Kornfitwecken geschnitten",
+  "category": "Brot",
+  "subcategories": ["Kornfitwecken"]
+},
+{
+  "store": "spar",
+  "id": "4401773",
+  "name": "Anker Pusztawecken geschnitten",
+  "category": "Brot",
+  "subcategories": ["Pusztawecken"]
+},
+{
+  "store": "spar",
+  "id": "1440379",
+  "name": "DESPAR Pane per Tramezzini",
+  "category": "Brot",
+  "subcategories": ["Tramezzini"]
+},
+{
+  "store": "spar",
+  "id": "6724740",
+  "name": "Der Mann Grandioso",
+  "category": "Brot",
+  "subcategories": ["Grandioso"]
+},
+{
+  "store": "spar",
+  "id": "111492",
+  "name": "Der Mann Karottenbrot",
+  "category": "Brot",
+  "subcategories": ["Karottenbrot"]
+},
+{
+  "store": "spar",
+  "id": "2020003840098",
+  "name": "Donau Bäckerei Vollkorn Pitabrot",
+  "category": "Brot",
+  "subcategories": ["Pitabrot", "Vollkorn"]
+},
+{
+  "store": "spar",
+  "id": "2020003787713",
+  "name": "Donau Bäckerei Weizen Pitabrot",
+  "category": "Brot",
+  "subcategories": ["Pitabrot", "Weizen"]
+},
+{
+  "store": "spar",
+  "id": "2020002492212",
+  "name": "INTERSPAR Backstube Almbrot",
+  "category": "Brot",
+  "subcategories": ["Almbrot"]
+},
+{
+  "store": "spar",
+  "id": "7911767",
+  "name": "INTERSPAR Backstube Baguette",
+  "category": "Brot",
+  "subcategories": ["Baguette"]
+},
+{
+  "store": "spar",
+  "id": "2511849",
+  "name": "INTERSPAR Backstube Bayrisches",
+  "category": "Brot",
+  "subcategories": ["Bayrisches"]
+},
+{
+  "store": "spar",
+  "id": "2020004549457",
+  "name": "INTERSPAR Backstube Dinkelknopf mit Karotten",
+  "category": "Brot",
+  "subcategories": ["Dinkelknopf", "Karotten"]
+},
+{
+  "store": "spar",
+  "id": "2020000728634",
+  "name": "INTERSPAR Backstube Doppelkruste vom Stein",
+  "category": "Brot",
+  "subcategories": ["Doppelkruste"]
+},
+{
+  "store": "spar",
+  "id": "2020004667731",
+  "name": "INTERSPAR Backstube Focaccia Tomate - Olive",
+  "category": "Brot",
+  "subcategories": ["Focaccia", "Tomate", "Olive"]
+},
+{
+  "store": "spar",
+  "id": "2020001298976",
+  "name": "INTERSPAR Backstube Hausbrot",
+  "category": "Brot",
+  "subcategories": ["Hausbrot"]
+},
+{
+  "store": "spar",
+  "id": "7912054",
+  "name": "INTERSPAR Backstube Jumbo Baguette",
+  "category": "Brot",
+  "subcategories": ["Baguette"]
+},
+{
+  "store": "spar",
+  "id": "6977146",
+  "name": "INTERSPAR Backstube Kraftlackl",
+  "category": "Brot",
+  "subcategories": ["Kraftlackl"]
+},
+{
+  "store": "spar",
+  "id": "8077417",
+  "name": "INTERSPAR Backstube Langer Roggen",
+  "category": "Brot",
+  "subcategories": ["Langer Roggen"]
+},
+{
+  "store": "spar",
+  "id": "8077561",
+  "name": "INTERSPAR Backstube Langer Roggen Sonnenblumen",
+  "category": "Brot",
+  "subcategories": ["Langer Roggen", "Sonnenblumen"]
+},
+{
+  "store": "spar",
+  "id": "2020001327591",
+  "name": "INTERSPAR Backstube Langer Roggen dunkel",
+  "category": "Brot",
+  "subcategories": ["Langer Roggen"]
+},
+{
+  "store": "spar",
+  "id": "7904233",
+  "name": "INTERSPAR Backstube Laugenstangerl",
+  "category": "Brot",
+  "subcategories": ["Laugenstangerl"]
+},
+{
+  "store": "spar",
+  "id": "2020001741731",
+  "name": "INTERSPAR Backstube Oliven-Ciabatta",
+  "category": "Brot",
+  "subcategories": ["Oliven-Ciabatta"]
+},
+{
+  "store": "spar",
+  "id": "2020004622846",
+  "name": "INTERSPAR Backstube Pane Mediterraneo",
+  "category": "Brot",
+  "subcategories": ["Pane", "Mediterraneo"]
+},
+{
+  "store": "spar",
+  "id": "2020003471384",
+  "name": "INTERSPAR Backstube Pane Rustico",
+  "category": "Brot",
+  "subcategories": ["Pane", "Rustico"]
+},
+{
+  "store": "spar",
+  "id": "7918421",
+  "name": "INTERSPAR Backstube Pane Toscana",
+  "category": "Brot",
+  "subcategories": ["Pane", "Toscana"]
+},
+{
+  "store": "spar",
+  "id": "2020000693079",
+  "name": "INTERSPAR Backstube Panino",
+  "category": "Brot",
+  "subcategories": ["Panino"]
+},
+{
+  "store": "spar",
+  "id": "2020000776345",
+  "name": "INTERSPAR Backstube Pizzasemmel Schinken",
+  "category": "Brot",
+  "subcategories": ["Pizzasemmel", "Schinken"]
+},
+{
+  "store": "spar",
+  "id": "7914300",
+  "name": "INTERSPAR Backstube Steinofenbaguette",
+  "category": "Brot",
+  "subcategories": ["Baguette"]
+},
+{
+  "store": "spar",
+  "id": "2020004383204",
+  "name": "INTERSPAR Backstube Stoana Loab",
+  "category": "Brot",
+  "subcategories": ["Stoana Loab"]
+},
+{
+  "store": "spar",
+  "id": "2020001299140",
+  "name": "INTERSPAR Backstube Tirolerbrot",
+  "category": "Brot",
+  "subcategories": ["Tirolerbrot"]
+},
+{
+  "store": "spar",
+  "id": "7918063",
+  "name": "INTERSPAR Backstube Tirolerbrot",
+  "category": "Brot",
+  "subcategories": ["Tirolerbrot"]
+},
+{
+  "store": "spar",
+  "id": "2020001741977",
+  "name": "INTERSPAR Backstube Tomaten-Ciabatta",
+  "category": "Brot",
+  "subcategories": ["Tomaten-Ciabatta"]
+},
+{
+  "store": "spar",
+  "id": "7915260",
+  "name": "INTERSPAR Backstube Vinschgerl",
+  "category": "Brot",
+  "subcategories": ["Vinschgerl"]
+},
+{
+  "store": "spar",
+  "id": "2020003330483",
+  "name": "INTERSPAR Backstube Vollkorn Dinkel-Kasten",
+  "category": "Brot",
+  "subcategories": ["Vollkorn", "Dinkel"]
+},
+{
+  "store": "spar",
+  "id": "7900341",
+  "name": "INTERSPAR Backstube Wachauer",
+  "category": "Brot",
+  "subcategories": ["Wachauer"]
+},
+{
+  "store": "spar",
+  "id": "7918247",
+  "name": "INTERSPAR Backstube Walnussbrot",
+  "category": "Brot",
+  "subcategories": ["Walnussbrot"]
+},
+{
+  "store": "spar",
+  "id": "4732464",
+  "name": "Mestemacher Eiweißbrot 5 Scheiben",
+  "category": "Brot",
+  "subcategories": ["Eiweißbrot"]
+},
+{
+  "store": "spar",
+  "id": "2020001400423",
+  "name": "Mestemacher Eiweißbrot mit Karotten 5 Scheiben",
+  "category": "Brot",
+  "subcategories": ["Eiweißbrot", "Karotten"]
+},
+{
+  "store": "spar",
+  "id": "2020002846213",
+  "name": "Mestemacher Eiweißbrot mit Mandeln 5 Scheiben",
+  "category": "Brot",
+  "subcategories": ["Eiweißbrot", "Mandeln"]
+},
+{
+  "store": "spar",
+  "id": "2020001995608",
+  "name": "Mestemacher Eiweißbrot mit Walnüssen 5 Scheiben",
+  "category": "Brot",
+  "subcategories": ["Eiweißbrot", "Walnüssen"]
+},
+{
+  "store": "spar",
+  "id": "5060542",
+  "name": "Mestemacher Gourmet Pumpernickel Rollen 28 Scheiben/Rollen",
+  "category": "Brot",
+  "subcategories": ["Pumpernickel"]
+},
+{
+  "store": "spar",
+  "id": "2020002358402",
+  "name": "Mestemacher Naan Brot Knoblauch & Koriander 4 Stück",
+  "category": "Brot",
+  "subcategories": ["Naan Brot", "Knoblauch", "Koriander"]
+},
+{
+  "store": "spar",
+  "id": "4102137",
+  "name": "Mestemacher Westfälischer Pumpernickel",
+  "category": "Brot",
+  "subcategories": ["Pumpernickel"]
+},
+{
+  "store": "spar",
+  "id": "2020003508806",
+  "name": "7days Mini Croissants mit Kakaocremefüllung",
+  "category": "Snacks",
+  "subcategories": ["Croissants", "Kakaocremefüllung"]
+},
+{
+  "store": "spar",
+  "id": "2020003637292",
+  "name": "Aladdin Baklava",
+  "category": "Snacks",
+  "subcategories": ["Baklava"]
+},
+{
+  "store": "spar",
+  "id": "2020003780615",
+  "name": "Anker Mohnguglhupf",
+  "category": "Bäckerei",
+  "subcategories": ["Mohnguglhupf"]
+},
+{
+  "store": "spar",
+  "id": "2020003933684",
+  "name": "Brandt Saaten Crisp Kürbiskerne und Leinsamen",
+  "category": "Snacks",
+  "subcategories": ["Saaten Crisp", "Kürbiskerne", "Leinsamen"]
+},
+{
+  "store": "spar",
+  "id": "2020003933653",
+  "name": "Brandt Saaten Crisp Sonnenblumenkerne & Chia 170g",
+  "category": "Snacks",
+  "subcategories": ["Saaten Crisp", "Sonnenblumenkerne", "Chia"]
+},
+{
+  "store": "spar",
+  "id": "2020001597611",
+  "name": "Brandt Vollkornzwieback",
+  "category": "Snacks",
+  "subcategories": ["Vollkornzwieback"]
+},
+{
+  "store": "spar",
+  "id": "2020003849572",
+  "name": "Bridor Kakao-Haselnuss Croissant",
+  "category": "Bäckerei",
+  "subcategories": ["Croissant", "Kakao-Haselnuss"]
+},
+{
+  "store": "spar",
+  "id": "2020004527516",
+  "name": "Burek mit Kartoffeln 1 STK",
+  "category": "Bäckerei",
+  "subcategories": ["Burek", "Kartoffeln"]
+},
+{
+  "store": "spar",
+  "id": "2020003350931",
+  "name": "Burek mit Käse 1 STK",
+  "category": "Bäckerei",
+  "subcategories": ["Burek", "Käse"]
+},
+{
+  "store": "spar",
+  "id": "2020002892340",
+  "name": "Burek mit Rindfleisch 1 STK",
+  "category": "Bäckerei",
+  "subcategories": ["Burek", "Rindfleisch"]
+},
+{
+  "store": "spar",
+  "id": "2020001855124",
+  "name": "Burek mit Spinat und Käse 1 STK",
+  "category": "Bäckerei",
+  "subcategories": ["Burek", "Spinat", "Käse"]
+},
+{
+  "store": "spar",
+  "id": "2020004625892",
+  "name": "Burger Roggenvollkorn-Knäckebrot Roggen",
+  "category": "Brot",
+  "subcategories": ["Roggenvollkorn-Knäckebrot", "Roggen"]
+},
+{
+  "store": "spar",
+  "id": "2020004625861",
+  "name": "Burger Vollkorn-Knäckebrot Dinkel",
+  "category": "Brot",
+  "subcategories": ["Vollkorn-Knäckebrot", "Dinkel"]
+},
+{
+  "store": "spar",
+  "id": "2020002938918",
+  "name": "DESPAR Mandorlini",
+  "category": "Snacks",
+  "subcategories": ["Mandorlini"]
+},
+{
+  "store": "spar",
+  "id": "2020003067662",
+  "name": "DESPAR Panettone Classico",
+  "category": "Bäckerei",
+  "subcategories": ["Panettone", "Classico"]
+},
+{
+  "store": "spar",
+  "id": "2020002620776",
+  "name": "DESPAR Panettone mit Schokostückchen",
+  "category": "Bäckerei",
+  "subcategories": ["Panettone", "Schokostückchen"]
+},
+{
+  "store": "spar",
+  "id": "2020002938765",
+  "name": "DESPAR Strudelini",
+  "category": "Snacks",
+  "subcategories": ["Strudelini"]
+},
+{
+  "store": "spar",
+  "id": "7749810",
+  "name": "Donut Nuss Nougat 1 STK",
+  "category": "Bäckerei",
+  "subcategories": ["Donut", "Nuss Nougat"]
+},
+{
+  "store": "spar",
+  "id": "2020001061471",
+  "name": "Donut Vanille 1 STK",
+  "category": "Bäckerei",
+  "subcategories": ["Donut", "Vanille"]
+},
+{
+  "store": "spar",
+  "id": "2992945",
+  "name": "Faschingsgebäck 6 Stück 216 G",
+  "category": "Bäckerei",
+  "subcategories": ["Faschingsgebäck"]
+},
+{
+  "store": "spar",
+  "id": "2020003219085",
+  "name": "Feinbäckerei Ogoralek Butter-Rahm Schaumrolle 4er",
+  "category": "Bäckerei",
+  "subcategories": ["Butter-Rahm Schaumrolle"]
+},
+{
+  "store": "spar",
+  "id": "2020003605185",
+  "name": "Feldbacher Zwieback Klassik 2 x 12 Scheiben",
+  "category": "Snacks",
+  "subcategories": ["Zwieback"]
+},
+{
+  "store": "spar",
+  "id": "2020002778521",
+  "name": "Greiner Ottensheimer Bierstangerl 10 Stück",
+  "category": "Bäckerei",
+  "subcategories": ["Bierstangerl"]
+},
+{
+  "store": "spar",
+  "id": "5724963",
+  "name": "Greiner Ottensheimer Brezerl 10 Stück",
+  "category": "Bäckerei",
+  "subcategories": ["Brezerl"]
+},
+{
+  "store": "spar",
+  "id": "2020001673797",
+  "name": "INTERSPAR Backstube 380 G",
+  "category": "Bäckerei",
+  "subcategories": ["Backstube"]
+},
+{
+  "store": "spar",
+  "id": "2503875",
+  "name": "INTERSPAR Backstube Biskuit-Pyramide",
+  "category": "Bäckerei",
+  "subcategories": ["Biskuit-Pyramide"]
+},
+{
+  "store": "spar",
+  "id": "2503936",
+  "name": "INTERSPAR Backstube Biskuitroulade Marille",
+  "category": "Bäckerei",
+  "subcategories": ["Biskuitroulade", "Marille"]
+},
+{
+  "store": "spar",
+  "id": "2020002526948",
+  "name": "INTERSPAR Backstube Butter Apfelstrudel",
+  "category": "Bäckerei",
+  "subcategories": ["Butter Apfelstrudel"]
+},
+{
+  "store": "spar",
+  "id": "8013835",
+  "name": "INTERSPAR Backstube Butter-Riesentopfentascherl",
+  "category": "Bäckerei",
+  "subcategories": ["Butter-Riesentopfentascherl"]
+},
+{
+  "store": "spar",
+  "id": "2500515",
+  "name": "INTERSPAR Backstube Cremeschnitte 2er",
+  "category": "Bäckerei",
+  "subcategories": ["Cremeschnitte"]
+},
+{
+  "store": "spar",
+  "id": "2020004285249",
+  "name": "INTERSPAR Backstube Donauwelle",
+  "category": "Bäckerei",
+  "subcategories": ["Donauwelle"]
+},
+{
+  "store": "spar",
+  "id": "2020004334374",
+  "name": "INTERSPAR Backstube Eisenbahner",
+  "category": "Bäckerei",
+  "subcategories": ["Eisenbahner"]
+},
+{
+  "store": "spar",
+  "id": "2020004184405",
+  "name": "INTERSPAR Backstube Erdbeer-Rhabarber Kuchen",
+  "category": "Bäckerei",
+  "subcategories": ["Erdbeer-Rhabarber Kuchen"]
+},
+{
+  "store": "spar",
+  "id": "2020004595737",
+  "name": "INTERSPAR Backstube Erdbeertraum 2er",
+  "category": "Bäckerei",
+  "subcategories": ["Erdbeertraum"]
+},
+{
+  "store": "spar",
+  "id": "2020003201370",
+  "name": "INTERSPAR Backstube Esterhazyschnitte",
+  "category": "Bäckerei",
+  "subcategories": ["Esterhazyschnitte"]
+},
+{
+  "store": "spar",
+  "id": "2020004628343",
+  "name": "INTERSPAR Backstube Fruchttörtchen",
+  "category": "Bäckerei",
+  "subcategories": ["Fruchttörtchen"]
+},
+{
+  "store": "spar",
+  "id": "2020004725721",
+  "name": "INTERSPAR Backstube Heidelbeertopfenschnitte 2 Stück",
+  "category": "Bäckerei",
+  "subcategories": ["Heidelbeertopfenschnitte"]
+},
+{
+  "store": "spar",
+  "id": "2500379",
+  "name": "INTERSPAR Backstube Kardinal Classic 2er",
+  "category": "Bäckerei",
+  "subcategories": ["Kardinal Classic"]
+},
+{
+  "store": "spar",
+  "id": "2499284",
+  "name": "INTERSPAR Backstube Kekse in der Silberdose",
+  "category": "Bäckerei",
+  "subcategories": ["Kekse"]
+},
+{
+  "store": "spar",
+  "id": "2020002328665",
+  "name": "INTERSPAR Backstube Kärntner Reindling",
+  "category": "Bäckerei",
+  "subcategories": ["Kärntner Reindling"]
+},
+{
+  "store": "spar",
+  "id": "2500058",
+  "name": "INTERSPAR Backstube Linzer Kipferl",
+  "category": "Bäckerei",
+  "subcategories": ["Linzer Kipferl"]
+},
+{
+  "store": "spar",
+  "id": "2020004259127",
+  "name": "INTERSPAR Backstube Mangoobersschnitte",
+  "category": "Bäckerei",
+  "subcategories": ["Mangoobersschnitte"]
+},
+{
+  "store": "spar",
+  "id": "2020004720337",
+  "name": "INTERSPAR Backstube Marillen-Streuselkuchen",
+  "category": "Bäckerei",
+  "subcategories": ["Marillen-Streuselkuchen"]
+},
+{
+  "store": "spar",
+  "id": "2503912",
+  "name": "INTERSPAR Backstube Marmorgugelhupf",
+  "category": "Bäckerei",
+  "subcategories": ["Marmorgugelhupf"]
+},
+{
+  "store": "spar",
+  "id": "2500003",
+  "name": "INTERSPAR Backstube Mini Gugelhupf 4er",
+  "category": "Bäckerei",
+  "subcategories": ["Mini Gugelhupf"]
+},
+{
+  "store": "spar",
+  "id": "2020004412911",
+  "name": "INTERSPAR Backstube Mini-Gugelhupf Variationen 4er",
+  "category": "Bäckerei",
+  "subcategories": ["Mini-Gugelhupf"]
+},
+{
+  "store": "spar",
+  "id": "8013965",
+  "name": "INTERSPAR Backstube Mohnkranz",
+  "category": "Bäckerei",
+  "subcategories": ["Mohnkranz"]
+}
+]

@@ -1,0 +1,702 @@
+[
+   {
+      "store":"hofer",
+      "id":549022,
+      "name":"FAIR HOF Kaiserschnitzel per kg",
+      "category":"Fleisch",
+      "subcategories":["Schnitzel"]
+   },
+   {
+      "store":"hofer",
+      "id":549021,
+      "name":"FAIR HOF Kareeschnitzel per kg",
+      "category":"Fleisch",
+      "subcategories":["Schnitzel"]
+   },
+   {
+      "store":"hofer",
+      "id":543909,
+      "name":"FAIR HOF Karree- Steaks mild gewürzt 350g",
+      "category":"Fleisch",
+      "subcategories":["Steaks"]
+   },
+   {
+      "store":"hofer",
+      "id":545516,
+      "name":"FAIR HOF Maishendl Unterkeulen 400g",
+      "category":"Fleisch",
+      "subcategories":["Hendl", "Unterkeulen"]
+   },
+   {
+      "store":"hofer",
+      "id":545249,
+      "name":"FAIR HOF Maishendlfilet per kg",
+      "category":"Fleisch",
+      "subcategories":["Hendl", "Filet"]
+   },
+   {
+      "store":"hofer",
+      "id":546061,
+      "name":"FAIR HOF Puten Schnitzerl 275g",
+      "category":"Fleisch",
+      "subcategories":["Puten", "Schnitzel"]
+   },
+   {
+      "store":"hofer",
+      "id":544851,
+      "name":"FAIR HOF Puten Steaks 275g",
+      "category":"Fleisch",
+      "subcategories":["Puten", "Steaks"]
+   },
+   {
+      "store":"hofer",
+      "id":545183,
+      "name":"FAIR HOF Putenbrustfilet per kg",
+      "category":"Fleisch",
+      "subcategories":["Puten", "Filet"]
+   },
+   {
+      "store":"hofer",
+      "id":543908,
+      "name":"FAIR HOF Schopf- Steaks mild gewürzt 350g",
+      "category":"Fleisch",
+      "subcategories":["Steaks"]
+   },
+   {
+      "store":"hofer",
+      "id":549964,
+      "name":"FAIRHOF Hühner-Ministeaks 280g",
+      "category":"Fleisch",
+      "subcategories":["Hühner", "Ministeaks"]
+   },
+   {
+      "store":"hofer",
+      "id":546299,
+      "name":"ZURÜCK ZUM URSPRUNG Bio Landhendl Filets per kg",
+      "category":"Fleisch",
+      "subcategories":["Bio", "Hendl", "Filet"]
+   },
+   {
+      "store":"hofer",
+      "id":546768,
+      "name":"ZURÜCK ZUM URSPRUNG Bio Landhendl Unterkeule 320g",
+      "category":"Fleisch",
+      "subcategories":["Bio", "Hendl", "Unterkeule"]
+   },
+   {
+      "store":"hofer",
+      "id":546966,
+      "name":"ZURÜCK ZUM URSPRUNG Bio Weiderind Rostbraten per kg",
+      "category":"Fleisch",
+      "subcategories":["Bio", "Rind", "Rostbraten"]
+   },
+   {
+      "store":"hofer",
+      "id":546965,
+      "name":"ZURÜCK ZUM URSPRUNG Bio Weiderind Schnitzel per kg",
+      "category":"Fleisch",
+      "subcategories":["Bio", "Rind", "Schnitzel"]
+   },
+   {
+      "store":"hofer",
+      "id":546967,
+      "name":"ZURÜCK ZUM URSPRUNG Bio Weiderind Wokstreifen per kg",
+      "category":"Fleisch",
+      "subcategories":["Bio", "Rind", "Wokstreifen"]
+   },
+   {
+      "store":"hofer",
+      "id":546315,
+      "name":"ZURÜCK ZUM URSPRUNG Bio-Rumpsteak per kg",
+      "category":"Fleisch",
+      "subcategories":["Bio", "Steaks", "Rumpsteak"]
+   },
+   {
+      "store":"hofer",
+      "id":549080,
+      "name":"ZURÜCK ZUM URSPRUNG Faschiertes Gemischt 400g",
+      "category":"Fleisch",
+      "subcategories":["Faschiertes"]
+   },
+   {
+      "store":"hofer",
+      "id":546475,
+      "name":"ZURÜCK ZUM URSPRUNG Faschiertes vom Bergrind 500g",
+      "category":"Fleisch",
+      "subcategories":["Faschiertes", "Bergrind"]
+   },
+   {
+      "store":"hofer",
+      "id":546314,
+      "name":"ZURÜCK ZUM URSPRUNG Grillbauch per kg",
+      "category":"Fleisch",
+      "subcategories":["Grillen", "Bauch"]
+   },
+   {
+      "store":"hofer",
+      "id":546312,
+      "name":"ZURÜCK ZUM URSPRUNG Grillkotelett per kg",
+      "category":"Fleisch",
+      "subcategories":["Grillen", "Kotelett"]
+   },
+   {
+      "store":"hofer",
+      "id":546310,
+      "name":"ZURÜCK ZUM URSPRUNG Grillschopf per kg",
+      "category":"Fleisch",
+      "subcategories":["Grillen", "Schopf"]
+   },
+   {
+      "store":"billa",
+      "id":"00-439684",
+      "name":"3 Sorten Aufstrich",
+      "category":"Aufstrich",
+      "subcategories":["Dips"]
+   },
+   {
+      "store":"billa",
+      "id":"00-39389",
+      "name":"3 Sorten Sommermix Kräuterknoblauch Ei Diavolo",
+      "category":"Aufstrich",
+      "subcategories":["Dips"]
+   },
+   {
+      "store":"billa",
+      "id":"00-288555",
+      "name":"Alma Alpkäse",
+      "category":"Käse",
+      "subcategories":["Alpkäse"]
+   },
+   {
+      "store":"billa",
+      "id":"00-424542",
+      "name":"Alma Bergkäse gerieben",
+      "category":"Käse",
+      "subcategories":["Bergkäse"]
+   },
+   {
+      "store":"billa",
+      "id":"00-598393",
+      "name":"Alma Dorfkäse",
+      "category":"Käse",
+      "subcategories":["Dorfkäse"]
+   },
+   {
+      "store":"billa",
+      "id":"00-936685",
+      "name":"Alma Frischkäse Kräuter",
+      "category":"Käse",
+      "subcategories":["Frischkäse"]
+   },
+   {
+      "store":"billa",
+      "id":"00-936684",
+      "name":"Alma Frischkäse Natur",
+      "category":"Käse",
+      "subcategories":["Frischkäse"]
+   },
+   {
+      "store":"billa",
+      "id":"00-415599",
+      "name":"Alma Knöpflekäse gerieben",
+      "category":"Käse",
+      "subcategories":["Knöpflekäse"]
+   },
+   {
+      "store":"billa",
+      "id":"00-83937",
+      "name":"Alma Pikant",
+      "category":"Käse",
+      "subcategories":["Pikantkäse"]
+   },
+   {
+      "store":"billa",
+      "id":"00-83903",
+      "name":"Alma Rahmkäse",
+      "category":"Käse",
+      "subcategories":["Rahmkäse"]
+   },
+   {
+      "store":"billa",
+      "id":"00-323081",
+      "name":"Alma Schinken",
+      "category":"Fleisch",
+      "subcategories":["Schinken"]
+   },
+   {
+      "store":"billa",
+      "id":"00-389080",
+      "name":"Alma Schnittlauch",
+      "category":"Kräuter",
+      "subcategories":["Schnittlauch"]
+   },
+   {
+      "store":"billa",
+      "id":"00-2984",
+      "name":"Alma Sortiment",
+      "category":"Käse",
+      "subcategories":["Sortiment"]
+   },
+   {
+      "store":"billa",
+      "id":"00-320584",
+      "name":"Alma Vorarlberger Bergkäse",
+      "category":"Käse",
+      "subcategories":["Bergkäse"]
+   },
+   {
+      "store":"billa",
+      "id":"00-360196",
+      "name":"Alma Vorarlberger Brennnesselkäse",
+      "category":"Käse",
+      "subcategories":["Brennnesselkäse"]
+   },
+   {
+      "store":"billa",
+      "id":"00-360203",
+      "name":"Alma Vorarlberger Ringelblumenkäse",
+      "category":"Käse",
+      "subcategories":["Ringelblumenkäse"]
+   },
+   {
+      "store":"billa",
+      "id":"00-957417",
+      "name":"Alma Vorarlberger Sennkäse",
+      "category":"Käse",
+      "subcategories":["Sennkäse"]
+   },
+   {
+      "store":"billa",
+      "id":"00-784574",
+      "name":"Almette Alpenfrischkäse Kräuter",
+      "category":"Käse",
+      "subcategories":["Frischkäse", "Kräuter"]
+   },
+   {
+      "store":"billa",
+      "id":"00-422262",
+      "name":"Almette Alpenfrischkäse Natur",
+      "category":"Käse",
+      "subcategories":["Frischkäse"]
+   },
+   {
+      "store":"billa",
+      "id":"00-963672",
+      "name":"Almsenner Almfeuer",
+      "category":"Käse",
+      "subcategories":["Almfeuer"]
+   },
+   {
+      "store":"billa",
+      "id":"00-911108",
+      "name":"Almsenner Pinzgauer Bierkäse",
+      "category":"Käse",
+      "subcategories":["Pinzgauer Bierkäse"]
+   },
+   {
+      "store":"billa",
+      "id":"00-963642",
+      "name":"Almsenner Pinzgauer Kräuterkäse",
+      "category":"Käse",
+      "subcategories":["Pinzgauer Kräuterkäse"]
+   },
+   {
+      "store":"billa",
+      "id":"00-815753",
+      "name":"Alpenhain Obazda",
+      "category":"Käse",
+      "subcategories":["Obazda"]
+   },
+   {
+      "store":"billa",
+      "id":"00-425133",
+      "name":"Antipasti Selection Bunter Mix - Die Käsemacher",
+      "category":"Antipasti",
+      "subcategories":["Bunter Mix"]
+   },
+   {
+      "store":"billa",
+      "id":"00-425167",
+      "name":"Antipasti Selection Mediterraner Mix - Die Käsemacher",
+      "category":"Antipasti",
+      "subcategories":["Mediterraner Mix"]
+   },
+   {
+      "store":"billa",
+      "id":"00-660494",
+      "name":"Antipasti Teller - Die Käsemacher",
+      "category":"Antipasti",
+      "subcategories":["Teller"]
+   },
+   {
+      "store":"billa",
+      "id":"00-655028",
+      "name":"Antipastimix gefüllt mit Frischkäse - Die Käsemacher",
+      "category":"Antipasti",
+      "subcategories":["Antipastimix"]
+   },
+   {
+      "store":"billa",
+      "id":"00-402151",
+      "name":"Apostels Zaziki",
+      "category":"Aufstrich",
+      "subcategories":["Zaziki"]
+   },
+   {
+      "store":"billa",
+      "id":"00-381068",
+      "name":"Appenzeller Fondue",
+      "category":"Käse",
+      "subcategories":["Fondue"]
+   },
+   {
+      "store":"billa",
+      "id":"00-647872",
+      "name":"Arina Ziegenkäse",
+      "category":"Käse",
+      "subcategories":["Ziegenkäse"]
+   },
+   {
+      "store":"billa",
+      "id":"00-717320",
+      "name":"BILLA Bio Aufstrich Mexico Art",
+      "category":"Aufstrich",
+      "subcategories":["Bio", "Dips"]
+   },
+   {
+      "store":"billa",
+      "id":"00-717335",
+      "name":"BILLA Bio Aufstrich Tomate Basilikum",
+      "category":"Aufstrich",
+      "subcategories":["Bio", "Dips"]
+   },
+   {
+      "store":"billa",
+      "id":"00-434350",
+      "name":"BILLA Bio Briespitze",
+      "category":"Fleisch",
+      "subcategories":["Bio", "Briespitze"]
+   },
+   {
+      "store":"billa",
+      "id":"00-435940",
+      "name":"BILLA Bio Edelschimmelkäse",
+      "category":"Käse",
+      "subcategories":["Bio", "Edelschimmelkäse"]
+   },
+   {
+      "store":"billa",
+      "id":"00-432321",
+      "name":"BILLA Bio Parmigiano Reggiano",
+      "category":"Käse",
+      "subcategories":["Bio", "Parmigiano Reggiano"]
+   },
+   {
+      "store":"billa",
+      "id":"00-425765",
+      "name":"BILLA Bio Parmigiano Reggiano gerieben",
+      "category":"Käse",
+      "subcategories":["Bio", "Parmigiano Reggiano", "gerieben"]
+   },
+   {
+      "store":"billa",
+      "id":"00-578752",
+      "name":"BILLA Französischer Camembert",
+      "category":"Käse",
+      "subcategories":["Camembert"]
+   },
+   {
+      "store":"billa",
+      "id":"00-424096",
+      "name":"BILLA Genusswelt Bergkäse",
+      "category":"Käse",
+      "subcategories":["Bergkäse"]
+   },
+   {
+      "store":"billa",
+      "id":"00-591819",
+      "name":"BILLA Genusswelt Heumilch Käse Chili-Paprika",
+      "category":"Käse",
+      "subcategories":["Heumilch Käse", "Chili-Paprika"]
+   },
+   {
+      "store":"billa",
+      "id":"00-430341",
+      "name":"BILLA Genusswelt Tete de Moine Rosetten",
+      "category":"Käse",
+      "subcategories":["Tete de Moine", "Rosetten"]
+   },
+   {
+      "store":"billa",
+      "id":"00-516514",
+      "name":"BILLA Gouda Holland Jung",
+      "category":"Käse",
+      "subcategories":["Gouda", "Jung"]
+   },
+   {
+      "store":"billa",
+      "id":"00-693846",
+      "name":"BILLA Gouda Scheiben",
+      "category":"Käse",
+      "subcategories":["Gouda", "Scheiben"]
+   },
+   {
+      "store":"billa",
+      "id":"00-899623",
+      "name":"BILLA Heumilch Gouda",
+      "category":"Käse",
+      "subcategories":["Heumilch", "Gouda"]
+   },
+   {
+      "store":"billa",
+      "id":"00-884295",
+      "name":"BILLA Heumlich Alpenprinz",
+      "category":"Käse",
+      "subcategories":["Heumlich", "Alpenprinz"]
+   },
+   {
+      "store":"billa",
+      "id":"00-479407",
+      "name":"BILLA Irischer Cheddar",
+      "category":"Käse",
+      "subcategories":["Irischer Cheddar"]
+   },
+   {
+      "store":"billa",
+      "id":"00-953957",
+      "name":"BILLA Mozzarella",
+      "category":"Käse",
+      "subcategories":["Mozzarella"]
+   },
+   {
+      "store":"billa",
+      "id":"00-568226",
+      "name":"BILLA Mozzarella Grande",
+      "category":"Käse",
+      "subcategories":["Mozzarella"]
+   },
+   {
+      "store":"billa",
+      "id":"00-747037",
+      "name":"BILLA Parmigiano Reggiano DOP",
+      "category":"Käse",
+      "subcategories":["Parmigiano Reggiano"]
+   },
+   {
+      "store":"billa",
+      "id":"00-250008",
+      "name":"BILLA Ziegenkäse Scheiben",
+      "category":"Käse",
+      "subcategories":["Ziegenkäse", "Scheiben"]
+   },
+   {
+      "store":"billa",
+      "id":"00-493411",
+      "name":"Bali Brunch Good Mood Tomato Hummus",
+      "category":"Aufstrich",
+      "subcategories":["Hummus"]
+   },
+   {
+      "store":"billa",
+      "id":"00-921204",
+      "name":"Belle Laitiere Französische Brietorte",
+      "category":"Käse",
+      "subcategories":["Brietorte"]
+   },
+   {
+      "store":"billa",
+      "id":"00-504841",
+      "name":"Bergader Basils Rauchkäse Chili-Paprika",
+      "category":"Käse",
+      "subcategories":["Rauchkäse", "Chili-Paprika"]
+   },
+   {
+      "store":"billa",
+      "id":"00-621840",
+      "name":"Bergader Bavaria Blu Der Milde",
+      "category":"Käse",
+      "subcategories":["Bavaria Blu"]
+   },
+   {
+      "store":"billa",
+      "id":"00-629305",
+      "name":"Bergader Bavaria Blu Der Würzige",
+      "category":"Käse",
+      "subcategories":["Bavaria Blu"]
+   },
+   {
+      "store":"billa",
+      "id":"00-836440",
+      "name":"Bio.k. Chili-Bohnen Aufstrich",
+      "category":"Aufstrich",
+      "subcategories":["Bio.k.", "Dips"]
+   },
+   {
+      "store":"billa",
+      "id":"00-500828",
+      "name":"Bio.k. Gemüse Pastete",
+      "category":"Aufstrich",
+      "subcategories":["Bio.k.", "Pastete"]
+   },
+   {
+      "store":"billa",
+      "id":"00-421616",
+      "name":"Bio.k. Grünkern Aufstrich",
+      "category":"Aufstrich",
+      "subcategories":["Bio.k.", "Dips"]
+   },
+   {
+      "store":"billa",
+      "id":"00-424369",
+      "name":"Bio.k. Tomate-Basilikum Aufstrich",
+      "category":"Aufstrich",
+      "subcategories":["Bio.k.", "Dips"]
+   },
+   {
+      "store":"billa",
+      "id":"00-659944",
+      "name":"Birkenstock Bauernquargel Natur",
+      "category":"Käse",
+      "subcategories":["Bauernquargel", "Natur"]
+   },
+   {
+      "store":"billa",
+      "id":"00-659941",
+      "name":"Birkenstock Bauernquargel Paprika",
+      "category":"Käse",
+      "subcategories":["Bauernquargel", "Paprika"]
+   },
+   {
+      "store":"billa",
+      "id":"00-417093",
+      "name":"Bojar Kren-Karotte 65%",
+      "category":"Gemüse",
+      "subcategories":["Kren-Karotte"]
+   },
+   {
+      "store":"billa",
+      "id":"00-16064",
+      "name":"Bojar Kräuter",
+      "category":"Kräuter",
+      "subcategories":["Kräuter"]
+   },
+   {
+      "store":"billa",
+      "id":"00-888573",
+      "name":"Bonbel Cremig-Würzig",
+      "category":"Käse",
+      "subcategories":["Bonbel"]
+   },
+   {
+      "store":"billa",
+      "id":"00-423898",
+      "name":"Bresso Antipasti mit Kräutern der Provence",
+      "category":"Antipasti",
+      "subcategories":["Antipasti"]
+   },
+   {
+      "store":"billa",
+      "id":"00-888570",
+      "name":"Bresso Feine Kräuter",
+      "category":"Käse",
+      "subcategories":["Frischkäse", "Kräuter"]
+   },
+   {
+      "store":"billa",
+      "id":"00-702175",
+      "name":"Bresso Kirschtomate-Chili",
+      "category":"Käse",
+      "subcategories":["Frischkäse", "Kirschtomate", "Chili"]
+   },
+   {
+      "store":"billa",
+      "id":"00-718902",
+      "name":"Bresso Kirschtomaten & Chili 100% pflanzlich",
+      "category":"Käse",
+      "subcategories":["Frischkäse", "Kirschtomaten", "Chili"]
+   },
+   {
+      "store":"billa",
+      "id":"00-10722",
+      "name":"Bresso Knoblauch",
+      "category":"Käse",
+      "subcategories":["Frischkäse", "Knoblauch"]
+   },
+   {
+      "store":"billa",
+      "id":"00-718239",
+      "name":"Bresso Knoblauch & Kräuter 100% pflanzlich",
+      "category":"Käse",
+      "subcategories":["Frischkäse", "Knoblauch", "Kräuter"]
+   },
+   {
+      "store":"billa",
+      "id":"00-7947",
+      "name":"Bresso Kren / Meerrettich",
+      "category":"Käse",
+      "subcategories":["Frischkäse", "Kren", "Meerrettich"]
+   },
+   {
+      "store":"billa",
+      "id":"00-13239",
+      "name":"Bresso Kräuter der Provence",
+      "category":"Käse",
+      "subcategories":["Frischkäse", "Kräuter der Provence"]
+   },
+   {
+      "store":"billa",
+      "id":"00-700255",
+      "name":"Bresso Kräuter der Provence 100% pflanzlich",
+      "category":"Käse",
+      "subcategories":["Frischkäse", "Kräuter der Provence"]
+   },
+   {
+      "store":"billa",
+      "id":"00-632967",
+      "name":"Bresso Lachs & Kren",
+      "category":"Käse",
+      "subcategories":["Frischkäse", "Lachs", "Kren"]
+   },
+   {
+      "store":"billa",
+      "id":"00-706537",
+      "name":"Brunch Feine Kräuter",
+      "category":"Käse",
+      "subcategories":["Brunch", "Kräuter"]
+   },
+   {
+      "store":"billa",
+      "id":"00-528704",
+      "name":"Brunch Knoblauch-Kräuter",
+      "category":"Käse",
+      "subcategories":["Brunch", "Knoblauch", "Kräuter"]
+   },
+   {
+      "store":"billa",
+      "id":"00-706563",
+      "name":"Brunch Natur Original",
+      "category":"Käse",
+      "subcategories":["Brunch"]
+   },
+   {
+      "store":"billa",
+      "id":"00-706577",
+      "name":"Brunch Paprika & Peperoni",
+      "category":"Käse",
+      "subcategories":["Brunch", "Paprika", "Peperoni"]
+   },
+   {
+      "store":"billa",
+      "id":"00-706530",
+      "name":"Brunch Rote Rübe",
+      "category":"Gemüse",
+      "subcategories":["Brunch", "Rote Rübe"]
+   },
+   {
+      "store":"billa",
+      "id":"00-706532",
+      "name":"Brunch Süßkartoffel & Karotte",
+      "category":"Gemüse",
+      "subcategories":["Brunch", "Süßkartoffel", "Karotte"]
+   }
+]

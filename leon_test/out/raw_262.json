@@ -1,0 +1,702 @@
+[
+   {
+      "store":"spar",
+      "id":"2020003957260",
+      "name":"Vöslauer Balance Juicy Plus Sonnenfrüchte",
+      "category":"Getränke",
+      "subcategories":["Mineralwasser", "Saft", "Früchte"]
+   },
+   {
+      "store":"spar",
+      "id":"2040998",
+      "name":"Vöslauer Balance Juicy Zitrone",
+      "category":"Getränke",
+      "subcategories":["Mineralwasser", "Saft", "Zitrone"]
+   },
+   {
+      "store":"spar",
+      "id":"2020003586644",
+      "name":"Vöslauer Balance Juicy rote Früchte + Echinacea 0,75l",
+      "category":"Getränke",
+      "subcategories":["Mineralwasser", "Saft", "Früchte", "Echinacea"]
+   },
+   {
+      "store":"spar",
+      "id":"2020003733147",
+      "name":"Vöslauer Mineralwasser Himbeere Himbeere",
+      "category":"Getränke",
+      "subcategories":["Mineralwasser", "Himbeere"]
+   },
+   {
+      "store":"spar",
+      "id":"7125638",
+      "name":"Vöslauer Mineralwasser Junior still",
+      "category":"Getränke",
+      "subcategories":["Mineralwasser", "Junior"]
+   },
+   {
+      "store":"spar",
+      "id":"2020004519955",
+      "name":"Vöslauer Mineralwasser Pfirsich-Lime Plus Zink",
+      "category":"Getränke",
+      "subcategories":["Mineralwasser", "Pfirsich", "Lime", "Zink"]
+   },
+   {
+      "store":"spar",
+      "id":"2020004519849",
+      "name":"Vöslauer Mineralwasser Zitrone",
+      "category":"Getränke",
+      "subcategories":["Mineralwasser", "Zitrone"]
+   },
+   {
+      "store":"spar",
+      "id":"7093272",
+      "name":"Vöslauer Mineralwasser mild",
+      "category":"Getränke",
+      "subcategories":["Mineralwasser", "mild"]
+   },
+   {
+      "store":"spar",
+      "id":"4663140",
+      "name":"Vöslauer Mineralwasser mild",
+      "category":"Getränke",
+      "subcategories":["Mineralwasser", "mild"]
+   },
+   {
+      "store":"spar",
+      "id":"2882857",
+      "name":"Vöslauer Mineralwasser mild",
+      "category":"Getränke",
+      "subcategories":["Mineralwasser", "mild"]
+   },
+   {
+      "store":"spar",
+      "id":"7089411",
+      "name":"Vöslauer Mineralwasser mild",
+      "category":"Getränke",
+      "subcategories":["Mineralwasser", "mild"]
+   },
+   {
+      "store":"spar",
+      "id":"5060214",
+      "name":"Vöslauer Mineralwasser ohne",
+      "category":"Getränke",
+      "subcategories":["Mineralwasser", "ohne"]
+   },
+   {
+      "store":"spar",
+      "id":"3116241",
+      "name":"Vöslauer Mineralwasser ohne",
+      "category":"Getränke",
+      "subcategories":["Mineralwasser", "ohne"]
+   },
+   {
+      "store":"spar",
+      "id":"7094620",
+      "name":"Vöslauer Mineralwasser ohne",
+      "category":"Getränke",
+      "subcategories":["Mineralwasser", "ohne"]
+   },
+   {
+      "store":"spar",
+      "id":"2020000778882",
+      "name":"Vöslauer Mineralwasser ohne",
+      "category":"Getränke",
+      "subcategories":["Mineralwasser", "ohne"]
+   },
+   {
+      "store":"spar",
+      "id":"7090721",
+      "name":"Vöslauer Mineralwasser prickelnd",
+      "category":"Getränke",
+      "subcategories":["Mineralwasser", "prickelnd"]
+   },
+   {
+      "store":"spar",
+      "id":"7088810",
+      "name":"Vöslauer Mineralwasser prickelnd",
+      "category":"Getränke",
+      "subcategories":["Mineralwasser", "prickelnd"]
+   },
+   {
+      "store":"spar",
+      "id":"4662815",
+      "name":"Vöslauer Mineralwasser prickelnd",
+      "category":"Getränke",
+      "subcategories":["Mineralwasser", "prickelnd"]
+   },
+   {
+      "store":"spar",
+      "id":"2859057",
+      "name":"Vöslauer Mineralwasser prickelnd",
+      "category":"Getränke",
+      "subcategories":["Mineralwasser", "prickelnd"]
+   },
+   {
+      "store":"spar",
+      "id":"2020003053931",
+      "name":"Vöslauer Mineralwasser prickelnd Glasflasche",
+      "category":"Getränke",
+      "subcategories":["Mineralwasser", "prickelnd", "Glasflasche"]
+   },
+   {
+      "store":"spar",
+      "id":"2020004149152",
+      "name":"Vöslauer Mineralwasser schwarze Johannisbeere",
+      "category":"Getränke",
+      "subcategories":["Mineralwasser", "schwarze Johannisbeere"]
+   },
+   {
+      "store":"spar",
+      "id":"2020002358013",
+      "name":"Vöslauer Mineralwasser superprickelnd",
+      "category":"Getränke",
+      "subcategories":["Mineralwasser", "superprickelnd"]
+   },
+   {
+      "store":"spar",
+      "id":"2020003791161",
+      "name":"Vöslauer Mineralwasser superprickelnd",
+      "category":"Getränke",
+      "subcategories":["Mineralwasser", "superprickelnd"]
+   },
+   {
+      "store":"spar",
+      "id":"2020000635574",
+      "name":"Vöslauer Natürliches Mineralwasser ohne - Baby 6 x 0,75L",
+      "category":"Getränke",
+      "subcategories":["Mineralwasser", "ohne", "Baby"]
+   },
+   {
+      "store":"spar",
+      "id":"7094750",
+      "name":"Vöslauer Sport Mineralwasser still",
+      "category":"Getränke",
+      "subcategories":["Mineralwasser", "Sport", "still"]
+   },
+   {
+      "store":"spar",
+      "id":"2020004519818",
+      "name":"Vöslauer Sport+ Magnesium",
+      "category":"Getränke",
+      "subcategories":["Mineralwasser", "Sport", "Magnesium"]
+   },
+   {
+      "store":"spar",
+      "id":"2020002492854",
+      "name":"Vöslauer Zitrone",
+      "category":"Getränke",
+      "subcategories":["Mineralwasser", "Zitrone"]
+   },
+   {
+      "store":"spar",
+      "id":"2020003053962",
+      "name":"Vöslauer Zitrone Glasflasche",
+      "category":"Getränke",
+      "subcategories":["Mineralwasser", "Zitrone", "Glasflasche"]
+   },
+   {
+      "store":"spar",
+      "id":"7920554",
+      "name":"Waldquelle Birne & Holunder sanft",
+      "category":"Getränke",
+      "subcategories":["Mineralwasser", "Birne", "Holunder"]
+   },
+   {
+      "store":"spar",
+      "id":"2020002912215",
+      "name":"Waldquelle Erdbeere & Himbeere still",
+      "category":"Getränke",
+      "subcategories":["Mineralwasser", "Erdbeere", "Himbeere", "still"]
+   },
+   {
+      "store":"spar",
+      "id":"2020004568786",
+      "name":"Waldquelle Happy Pfirsich & Holunderblüte",
+      "category":"Getränke",
+      "subcategories":["Mineralwasser", "Pfirsich", "Holunderblüte"]
+   },
+   {
+      "store":"spar",
+      "id":"3968642",
+      "name":"Waldquelle Himbeere sanft",
+      "category":"Getränke",
+      "subcategories":["Mineralwasser", "Himbeere"]
+   },
+   {
+      "store":"spar",
+      "id":"2020004568731",
+      "name":"Waldquelle Immun Apfel & Himbeere",
+      "category":"Getränke",
+      "subcategories":["Mineralwasser", "Apfel", "Himbeere"]
+   },
+   {
+      "store":"spar",
+      "id":"3405819",
+      "name":"Waldquelle Mineralwasser sanft",
+      "category":"Getränke",
+      "subcategories":["Mineralwasser", "sanft"]
+   },
+   {
+      "store":"spar",
+      "id":"2987583",
+      "name":"Waldquelle Mineralwasser sanft Glasflasche",
+      "category":"Getränke",
+      "subcategories":["Mineralwasser", "sanft", "Glasflasche"]
+   },
+   {
+      "store":"spar",
+      "id":"2020000589006",
+      "name":"Waldquelle Mineralwasser spritzig",
+      "category":"Getränke",
+      "subcategories":["Mineralwasser", "spritzig"]
+   },
+   {
+      "store":"spar",
+      "id":"3405802",
+      "name":"Waldquelle Mineralwasser spritzig",
+      "category":"Getränke",
+      "subcategories":["Mineralwasser", "spritzig"]
+   },
+   {
+      "store":"spar",
+      "id":"2987569",
+      "name":"Waldquelle Mineralwasser spritzig Glasflasche",
+      "category":"Getränke",
+      "subcategories":["Mineralwasser", "spritzig", "Glasflasche"]
+   },
+   {
+      "store":"spar",
+      "id":"7156052",
+      "name":"Waldquelle Mineralwasser still",
+      "category":"Getränke",
+      "subcategories":["Mineralwasser", "still"]
+   },
+   {
+      "store":"spar",
+      "id":"2020000589044",
+      "name":"Waldquelle Mineralwasser still",
+      "category":"Getränke",
+      "subcategories":["Mineralwasser", "still"]
+   },
+   {
+      "store":"spar",
+      "id":"7920646",
+      "name":"Waldquelle Waldbeeren sanft",
+      "category":"Getränke",
+      "subcategories":["Mineralwasser", "Waldbeeren", "sanft"]
+   },
+   {
+      "store":"spar",
+      "id":"2020003345999",
+      "name":"ich bin wasser mit Bio Apfel",
+      "category":"Getränke",
+      "subcategories":["Mineralwasser", "Bio", "Apfel"]
+   },
+   {
+      "store":"spar",
+      "id":"2020004158642",
+      "name":"ich bin wasser mit Bio Quitte Zitrone",
+      "category":"Getränke",
+      "subcategories":["Mineralwasser", "Bio", "Quitte", "Zitrone"]
+   },
+   {
+      "store":"spar",
+      "id":"2020004430434",
+      "name":"Vorarlberg Milch Ländle Ländle Spätzlekäse Spätzlekäse würzig gerieben",
+      "category":"Milchprodukte",
+      "subcategories":["Käse", "Spätzle", "würzig", "gerieben"]
+   },
+   {
+      "store":"spar",
+      "id":"3418055",
+      "name":"Waldviertler Selchkäse",
+      "category":"Milchprodukte",
+      "subcategories":["Käse", "Selchkäse"]
+   },
+   {
+      "store":"spar",
+      "id":"7702952",
+      "name":"Walserstolz Unser Würziger",
+      "category":"Milchprodukte",
+      "subcategories":["Käse", "Würzig"]
+   },
+   {
+      "store":"spar",
+      "id":"2020004339676",
+      "name":"Wasabikäse 1 KG",
+      "category":"Milchprodukte",
+      "subcategories":["Käse", "Wasabi"]
+   },
+   {
+      "store":"spar",
+      "id":"2020001427109",
+      "name":"Wallner Wiesen- und Kräuterei mobile Freilandhaltung 6 Stück",
+      "category":"Eier",
+      "subcategories":["Freilandhaltung", "6 Stück"]
+   },
+   {
+      "store":"spar",
+      "id":"6441531",
+      "name":"Zott Monte Drink Schoko",
+      "category":"Getränke",
+      "subcategories":["Monte", "Getränk", "Schoko"]
+   },
+   {
+      "store":"spar",
+      "id":"6473006",
+      "name":"Zott Monte Maxi 4x100g",
+      "category":"Milchprodukte",
+      "subcategories":["Monte", "Maxi"]
+   },
+   {
+      "store":"spar",
+      "id":"2020002818791",
+      "name":"Zott Monte Mega XXL",
+      "category":"Milchprodukte",
+      "subcategories":["Monte", "XXL"]
+   },
+   {
+      "store":"spar",
+      "id":"6441869",
+      "name":"Zott Monte Schoko 6x55g",
+      "category":"Milchprodukte",
+      "subcategories":["Monte", "Schoko"]
+   },
+   {
+      "store":"spar",
+      "id":"5414932",
+      "name":"Zott Monte Snack Schoko 8x29g",
+      "category":"Snacks",
+      "subcategories":["Monte", "Snack", "Schoko"]
+   },
+   {
+      "store":"spar",
+      "id":"2020004549426",
+      "name":"Zott Monte Top Cup",
+      "category":"Milchprodukte",
+      "subcategories":["Monte", "Top Cup"]
+   },
+   {
+      "store":"spar",
+      "id":"2020001301478",
+      "name":"Zott Monte White 4x100g",
+      "category":"Milchprodukte",
+      "subcategories":["Monte", "White"]
+   },
+   {
+      "store":"spar",
+      "id":"2020001663897",
+      "name":"Zott Sahne Joghurt mild Erdbeer-Split",
+      "category":"Milchprodukte",
+      "subcategories":["Sahne Joghurt", "mild", "Erdbeer-Split"]
+   },
+   {
+      "store":"spar",
+      "id":"5550104",
+      "name":"Zott Sahne-Joghurt Amarena-Kirsch",
+      "category":"Milchprodukte",
+      "subcategories":["Sahne-Joghurt", "Amarena-Kirsch"]
+   },
+   {
+      "store":"spar",
+      "id":"2020003748431",
+      "name":"Zott Sahne-Joghurt Banane",
+      "category":"Milchprodukte",
+      "subcategories":["Sahne-Joghurt", "Banane"]
+   },
+   {
+      "store":"spar",
+      "id":"2020001663910",
+      "name":"Zott Sahne-Joghurt Bananen-Split",
+      "category":"Milchprodukte",
+      "subcategories":["Sahne-Joghurt", "Bananen-Split"]
+   },
+   {
+      "store":"spar",
+      "id":"4772217",
+      "name":"Zott Sahne-Joghurt Erdbeer",
+      "category":"Milchprodukte",
+      "subcategories":["Sahne-Joghurt", "Erdbeer"]
+   },
+   {
+      "store":"spar",
+      "id":"2020003748592",
+      "name":"Zott Sahne-Joghurt Erdbeer-Vanille",
+      "category":"Milchprodukte",
+      "subcategories":["Sahne-Joghurt", "Erdbeer-Vanille"]
+   },
+   {
+      "store":"spar",
+      "id":"2020003748301",
+      "name":"Zott Sahne-Joghurt Heidelbeere",
+      "category":"Milchprodukte",
+      "subcategories":["Sahne-Joghurt", "Heidelbeere"]
+   },
+   {
+      "store":"spar",
+      "id":"4772286",
+      "name":"Zott Sahne-Joghurt Himbeer",
+      "category":"Milchprodukte",
+      "subcategories":["Sahne-Joghurt", "Himbeer"]
+   },
+   {
+      "store":"spar",
+      "id":"2020001489633",
+      "name":"Zott Sahne-Joghurt Kirsch-Banane",
+      "category":"Milchprodukte",
+      "subcategories":["Sahne-Joghurt", "Kirsch-Banane"]
+   },
+   {
+      "store":"spar",
+      "id":"2020003747823",
+      "name":"Zott Sahne-Joghurt Kokos-weiße Schokolade",
+      "category":"Milchprodukte",
+      "subcategories":["Sahne-Joghurt", "Kokos", "weiße Schokolade"]
+   },
+   {
+      "store":"spar",
+      "id":"2020003747878",
+      "name":"Zott Sahne-Joghurt Mango-Panna Cotta",
+      "category":"Milchprodukte",
+      "subcategories":["Sahne-Joghurt", "Mango", "Panna Cotta"]
+   },
+   {
+      "store":"spar",
+      "id":"2020003303173",
+      "name":"Zott Sahne-Joghurt Mango-Vanille",
+      "category":"Milchprodukte",
+      "subcategories":["Sahne-Joghurt", "Mango-Vanille"]
+   },
+   {
+      "store":"spar",
+      "id":"2020000755418",
+      "name":"Zott Sahne-Joghurt Orangen",
+      "category":"Milchprodukte",
+      "subcategories":["Sahne-Joghurt", "Orangen"]
+   },
+   {
+      "store":"spar",
+      "id":"4772255",
+      "name":"Zott Sahne-Joghurt Pfirsich-Maracuja",
+      "category":"Milchprodukte",
+      "subcategories":["Sahne-Joghurt", "Pfirsich-Maracuja"]
+   },
+   {
+      "store":"spar",
+      "id":"2020000755357",
+      "name":"Zott Sahnejoghurt Zitrone",
+      "category":"Milchprodukte",
+      "subcategories":["Sahne-Joghurt", "Zitrone"]
+   },
+   {
+      "store":"spar",
+      "id":"2020004390875",
+      "name":"Zum Dorfkrug Grieß-Pudding Griess",
+      "category":"Milchprodukte",
+      "subcategories":["Grieß-Pudding", "Griess"]
+   },
+   {
+      "store":"spar",
+      "id":"2020004390882",
+      "name":"Zum Dorfkrug Milchreis",
+      "category":"Milchprodukte",
+      "subcategories":["Milchreis"]
+   },
+   {
+      "store":"spar",
+      "id":"2020004390776",
+      "name":"Zum Dorfkrug Pudding Karamell-Pudding",
+      "category":"Milchprodukte",
+      "subcategories":["Pudding", "Karamell-Pudding"]
+   },
+   {
+      "store":"spar",
+      "id":"2020004390752",
+      "name":"Zum Dorfkrug Schokoladen-Pudding",
+      "category":"Milchprodukte",
+      "subcategories":["Pudding", "Schokoladen-Pudding"]
+   },
+   {
+      "store":"spar",
+      "id":"2020004390769",
+      "name":"Zum Dorfkrug Vanille-Pudding Vanille",
+      "category":"Milchprodukte",
+      "subcategories":["Pudding", "Vanille-Pudding"]
+   },
+   {
+      "store":"spar",
+      "id":"8110213",
+      "name":"Vulcano Rohschinken",
+      "category":"Fleisch",
+      "subcategories":["Rohschinken"]
+   },
+   {
+      "store":"spar",
+      "id":"2020004667649",
+      "name":"Weber Bacon",
+      "category":"Fleisch",
+      "subcategories":["Bacon"]
+   },
+   {
+      "store":"spar",
+      "id":"2020000639527",
+      "name":"Wudy Geflügelwürstchen",
+      "category":"Fleisch",
+      "subcategories":["Geflügelwürstchen"]
+   },
+   {
+      "store":"spar",
+      "id":"2682693",
+      "name":"Zungenwurst handgelegt 1 KG",
+      "category":"Fleisch",
+      "subcategories":["Zungenwurst", "handgelegt"]
+   },
+   {
+      "store":"spar",
+      "id":"2020002048099",
+      "name":"Vongole pasteurisiert 400 G",
+      "category":"Fisch",
+      "subcategories":["Vongole", "pasteurisiert"]
+   },
+   {
+      "store":"spar",
+      "id":"2020001215492",
+      "name":"Warhanek Bio-Räucherlachs in Scheiben geschnitten",
+      "category":"Fisch",
+      "subcategories":["Bio-Räucherlachs", "geschnitten"]
+   },
+   {
+      "store":"spar",
+      "id":"6952723",
+      "name":"Warhanek Heringsfilets in feiner Joghurtsauce",
+      "category":"Fisch",
+      "subcategories":["Heringsfilets", "feiner Joghurtsauce"]
+   },
+   {
+      "store":"spar",
+      "id":"2020003138539",
+      "name":"Warhanek Heringskaviar rot",
+      "category":"Fisch",
+      "subcategories":["Heringskaviar", "rot"]
+   },
+   {
+      "store":"spar",
+      "id":"2020001400539",
+      "name":"Warhanek Heringskaviar schwarz",
+      "category":"Fisch",
+      "subcategories":["Heringskaviar", "schwarz"]
+   },
+   {
+      "store":"spar",
+      "id":"6952716",
+      "name":"Warhanek MSC Heringsfilets in Dill-Sahne-Sauce mit Gurken",
+      "category":"Fisch",
+      "subcategories":["Heringsfilets", "Dill-Sahne-Sauce", "Gurken"]
+   },
+   {
+      "store":"spar",
+      "id":"2020002657024",
+      "name":"Warhanek Matjesfilet nordische Art in Öl",
+      "category":"Fisch",
+      "subcategories":["Matjesfilet", "nordische Art", "Öl"]
+   },
+   {
+      "store":"spar",
+      "id":"6952709",
+      "name":"Warhanek Sahne Heringsfilets Äpfeln, Zwiebeln und Gurken",
+      "category":"Fisch",
+      "subcategories":["Sahne Heringsfilets", "Äpfeln", "Zwiebeln", "Gurken"]
+   },
+   {
+      "store":"spar",
+      "id":"2020003009730",
+      "name":"Warhanek Tarama rot",
+      "category":"Fisch",
+      "subcategories":["Tarama", "rot"]
+   },
+   {
+      "store":"spar",
+      "id":"2020003009648",
+      "name":"Warhanek Tarama weiss",
+      "category":"Fisch",
+      "subcategories":["Tarama", "weiss"]
+   },
+   {
+      "store":"spar",
+      "id":"7492525",
+      "name":"Youkon Alaska Indian Candy",
+      "category":"Snacks",
+      "subcategories":["Alaska", "Indian Candy"]
+   },
+   {
+      "store":"spar",
+      "id":"8165794",
+      "name":"Youkon Wild & Red Wildlachs",
+      "category":"Fisch",
+      "subcategories":["Wildlachs"]
+   },
+   {
+      "store":"spar",
+      "id":"2020003606649",
+      "name":"bedda Bockshornklee Scheiben",
+      "category":"Milchprodukte",
+      "subcategories":["Bockshornklee", "Scheiben"]
+   },
+   {
+      "store":"spar",
+      "id":"2020003607080",
+      "name":"bedda Hirte in Salzlake",
+      "category":"Milchprodukte",
+      "subcategories":["Hirte", "Salzlake"]
+   },
+   {
+      "store":"spar",
+      "id":"2020003607103",
+      "name":"bedda Kräuter-Hirte in Salzlake",
+      "category":"Milchprodukte",
+      "subcategories":["Kräuter-Hirte", "Salzlake"]
+   },
+   {
+      "store":"spar",
+      "id":"2020003607035",
+      "name":"bedda Reiberei gerieben",
+      "category":"Milchprodukte",
+      "subcategories":["Reiberei", "gerieben"]
+   },
+   {
+      "store":"spar",
+      "id":"2020003920486",
+      "name":"bedda Röllchen Pfeffer",
+      "category":"Milchprodukte",
+      "subcategories":["Röllchen", "Pfeffer"]
+   },
+   {
+      "store":"spar",
+      "id":"2020003920509",
+      "name":"bedda Röllchen Schnittlauch",
+      "category":"Milchprodukte",
+      "subcategories":["Röllchen", "Schnittlauch"]
+   },
+   {
+      "store":"spar",
+      "id":"2020003606670",
+      "name":"bedda Scheiben Classic",
+      "category":"Milchprodukte",
+      "subcategories":["Scheiben", "Classic"]
+   },
+   {
+      "store":"spar",
+      "id":"2020003606977",
+      "name":"bedda british style Scheiben",
+      "category":"Milchprodukte",
+      "subcategories":["Scheiben", "british style"]
+   },
+   {
+      "store":"spar",
+      "id":"2020003980770",
+      "name":"die Ohne vegane Nuggets",
+      "category":"Fleischersatz",
+      "subcategories":["Nuggets", "vegan"]
+   }
+]

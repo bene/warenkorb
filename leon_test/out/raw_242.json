@@ -1,0 +1,601 @@
+[{
+  "store": "spar",
+  "id": "2020002584436",
+  "name": "Superior Design Products Gärkörbchen Baguette 33x8x5,5cm",
+  "category": "Bäckerei",
+  "subcategories": ["Gärkörbchen", "Baguette"]
+}, {
+  "store": "spar",
+  "id": "2020001204977",
+  "name": "Superior Design Products Gärkörbchen oval 20 x 14 x 7 cm",
+  "category": "Bäckerei",
+  "subcategories": ["Gärkörbchen", "oval"]
+}, {
+  "store": "spar",
+  "id": "2020001205172",
+  "name": "Superior Design Products Gärkörbchen oval 28 x 13 x 7 cm",
+  "category": "Bäckerei",
+  "subcategories": ["Gärkörbchen", "oval"]
+}, {
+  "store": "spar",
+  "id": "2020001204250",
+  "name": "Superior Design Products Gärkörbchen rund 20 cm",
+  "category": "Bäckerei",
+  "subcategories": ["Gärkörbchen", "rund"]
+}, {
+  "store": "spar",
+  "id": "2020001204595",
+  "name": "Superior Design Products Gärkörbchen rund 25 cm",
+  "category": "Bäckerei",
+  "subcategories": ["Gärkörbchen", "rund"]
+}, {
+  "store": "spar",
+  "id": "2020003502910",
+  "name": "Superior Design Products Mini-Töpfchen Keramik orange-rot",
+  "category": "Küchenutensilien",
+  "subcategories": ["Mini-Töpfchen", "Keramik"]
+}, {
+  "store": "spar",
+  "id": "2020002559557",
+  "name": "Superior Design Products Salatdressingshaker aus Glas",
+  "category": "Küchenutensilien",
+  "subcategories": ["Salatdressingshaker", "Glas"]
+}, {
+  "store": "spar",
+  "id": "2020003538179",
+  "name": "Superior Design Products Silikon Ofenhandschuh grau",
+  "category": "Küchenutensilien",
+  "subcategories": ["Silikon Ofenhandschuh"]
+}, {
+  "store": "spar",
+  "id": "5830718",
+  "name": "Superior Design Products Tajine- und Bräter-Set orange",
+  "category": "Küchenutensilien",
+  "subcategories": ["Tajine", "Bräter-Set"]
+}, {
+  "store": "spar",
+  "id": "2020001957620",
+  "name": "Superior Design Products Teigschneider",
+  "category": "Küchenutensilien",
+  "subcategories": ["Teigschneider"]
+}, {
+  "store": "spar",
+  "id": "3120118",
+  "name": "Sirius Cricket Fireflex",
+  "category": "Feuerzeug",
+  "subcategories": ["Cricket Fireflex"]
+}, {
+  "store": "spar",
+  "id": "6541880",
+  "name": "Sirius Langhölzer Sirius",
+  "category": "Feuerzeug",
+  "subcategories": ["Langhölzer"]
+}, {
+  "store": "spar",
+  "id": "6225339",
+  "name": "Sirius Riesenzünder Laterna",
+  "category": "Feuerzeug",
+  "subcategories": ["Riesenzünder", "Laterna"]
+}, {
+  "store": "spar",
+  "id": "7579547",
+  "name": "Spirella Abfulusssieb chrom",
+  "category": "Bad",
+  "subcategories": ["Abflusssieb", "chrom"]
+}, {
+  "store": "spar",
+  "id": "3797686",
+  "name": "Splendid Alu-Stiel",
+  "category": "Reinigung",
+  "subcategories": ["Alu-Stiel"]
+}, {
+  "store": "spar",
+  "id": "7655104",
+  "name": "Splendid Anti-Staubtücher",
+  "category": "Reinigung",
+  "subcategories": ["Anti-Staubtücher"]
+}, {
+  "store": "spar",
+  "id": "2020001144136",
+  "name": "Splendid Bad-Reinigungstücher Limette-Minze 50 Stück",
+  "category": "Reinigung",
+  "subcategories": ["Bad-Reinigungstücher", "Limette-Minze"]
+}, {
+  "store": "spar",
+  "id": "2020002658137",
+  "name": "Splendid Badwunder blau",
+  "category": "Reinigung",
+  "subcategories": ["Badwunder"]
+}, {
+  "store": "spar",
+  "id": "2020003627675",
+  "name": "Splendid Boden-Wischer-Ersatzbezug aus Baumwolle",
+  "category": "Reinigung",
+  "subcategories": ["Boden-Wischer-Ersatzbezug", "Baumwolle"]
+}, {
+  "store": "spar",
+  "id": "3796191",
+  "name": "Splendid Boden-Wischer-Ersatzbezug aus Mikrofaser",
+  "category": "Reinigung",
+  "subcategories": ["Boden-Wischer-Ersatzbezug", "Mikrofaser"]
+}, {
+  "store": "spar",
+  "id": "2020003394454",
+  "name": "Splendid Bodenreinigungstücher",
+  "category": "Reinigung",
+  "subcategories": ["Bodenreinigungstücher"]
+}, {
+  "store": "spar",
+  "id": "2020003628382",
+  "name": "Splendid Bodenschrubber mit Tuchhalter",
+  "category": "Reinigung",
+  "subcategories": ["Bodenschrubber", "Tuchhalter"]
+}, {
+  "store": "spar",
+  "id": "2020002658106",
+  "name": "Splendid Bodenwunder rosa",
+  "category": "Reinigung",
+  "subcategories": ["Bodenwunder"]
+}, {
+  "store": "spar",
+  "id": "2020001404773",
+  "name": "Splendid Brillenputztücher 54 Stück",
+  "category": "Reinigung",
+  "subcategories": ["Brillenputztücher"]
+}, {
+  "store": "spar",
+  "id": "2020003838804",
+  "name": "Splendid Dusch-Abzieher",
+  "category": "Reinigung",
+  "subcategories": ["Dusch-Abzieher"]
+}, {
+  "store": "spar",
+  "id": "2020002052300",
+  "name": "Splendid Easy Clean Eimer mit Schmutzfangsieb 10L",
+  "category": "Reinigung",
+  "subcategories": ["Easy Clean Eimer", "Schmutzfangsieb"]
+}, {
+  "store": "spar",
+  "id": "2020003065507",
+  "name": "Splendid Eimer 10 Liter Sonnenblume gelb",
+  "category": "Reinigung",
+  "subcategories": ["Eimer", "Sonnenblume gelb"]
+}, {
+  "store": "spar",
+  "id": "2020003065422",
+  "name": "Splendid Eimer 10 Liter Tropical Blau",
+  "category": "Reinigung",
+  "subcategories": ["Eimer", "Tropical Blau"]
+}, {
+  "store": "spar",
+  "id": "2020003065491",
+  "name": "Splendid Eimer 10 Liter Tulpe weiß",
+  "category": "Reinigung",
+  "subcategories": ["Eimer", "Tulpe weiß"]
+}, {
+  "store": "spar",
+  "id": "3797617",
+  "name": "Splendid Eimer 12 L",
+  "category": "Reinigung",
+  "subcategories": ["Eimer"]
+}, {
+  "store": "spar",
+  "id": "2020003854118",
+  "name": "Splendid Einweghandschuhe aus Latex - Größe M/L",
+  "category": "Reinigung",
+  "subcategories": ["Einweghandschuhe", "Latex"]
+}, {
+  "store": "spar",
+  "id": "2020003854095",
+  "name": "Splendid Einweghandschuhe aus Latex - Größe: S/M",
+  "category": "Reinigung",
+  "subcategories": ["Einweghandschuhe", "Latex"]
+}, {
+  "store": "spar",
+  "id": "2020003766817",
+  "name": "Splendid Fenster-Wischer-Set 2in1",
+  "category": "Reinigung",
+  "subcategories": ["Fenster-Wischer-Set"]
+}, {
+  "store": "spar",
+  "id": "2020002364229",
+  "name": "Splendid Feuchte Allzwecktücher Wasserlilie 80 Stück",
+  "category": "Reinigung",
+  "subcategories": ["Feuchte Allzwecktücher", "Wasserlilie"]
+}, {
+  "store": "spar",
+  "id": "2020001143061",
+  "name": "Splendid Feuchte Allzwecktücher Zitrone 80 Stück",
+  "category": "Reinigung",
+  "subcategories": ["Feuchte Allzwecktücher", "Zitrone"]
+}, {
+  "store": "spar",
+  "id": "2020003394430",
+  "name": "Splendid Feuchte Reinigungstücher mit Zitronenduft",
+  "category": "Reinigung",
+  "subcategories": ["Feuchte Reinigungstücher", "Zitronenduft"]
+}, {
+  "store": "spar",
+  "id": "2020003703690",
+  "name": "Splendid Feuchttücher Bienenwachs",
+  "category": "Reinigung",
+  "subcategories": ["Feuchttücher", "Bienenwachs"]
+}, {
+  "store": "spar",
+  "id": "2020003628528",
+  "name": "Splendid Flaschenbürste blau",
+  "category": "Reinigung",
+  "subcategories": ["Flaschenbürste"]
+}, {
+  "store": "spar",
+  "id": "2020001891399",
+  "name": "Splendid Geschirr- und Küchenschwamm 2er-Set",
+  "category": "Reinigung",
+  "subcategories": ["Geschirr- und Küchenschwamm"]
+}, {
+  "store": "spar",
+  "id": "2020004745149",
+  "name": "Splendid Geschirrspül-Pods 30 Pods",
+  "category": "Geschirrspüler",
+  "subcategories": ["Geschirrspül-Pods"]
+}, {
+  "store": "spar",
+  "id": "2020004737991",
+  "name": "Splendid Geschirrspüler-Tabs Citrusfrische 100 Tabs",
+  "category": "Geschirrspüler",
+  "subcategories": ["Geschirrspüler-Tabs", "Citrusfrische"]
+}, {
+  "store": "spar",
+  "id": "2020004046574",
+  "name": "Splendid Geschirrspüler-Tabs Citrusfrische 60 Tabs",
+  "category": "Geschirrspüler",
+  "subcategories": ["Geschirrspüler-Tabs", "Citrusfrische"]
+}, {
+  "store": "spar",
+  "id": "2020001308453",
+  "name": "Splendid Geschirrspülmittel Balsam 500ml",
+  "category": "Geschirrspülmittel",
+  "subcategories": ["Geschirrspülmittel", "Balsam"]
+}, {
+  "store": "spar",
+  "id": "2020004422491",
+  "name": "Splendid Geschirrspülmittel Citrusfrische 1L",
+  "category": "Geschirrspülmittel",
+  "subcategories": ["Geschirrspülmittel", "Citrusfrische"]
+}, {
+  "store": "spar",
+  "id": "2020004503756",
+  "name": "Splendid Geschirrspülmittel Citrusfrische 2L",
+  "category": "Geschirrspülmittel",
+  "subcategories": ["Geschirrspülmittel", "Citrusfrische"]
+}, {
+  "store": "spar",
+  "id": "4141273",
+  "name": "Splendid Geschirrspülmittel Konzentrat Citrusfrische 500ml",
+  "category": "Geschirrspülmittel",
+  "subcategories": ["Geschirrspülmittel", "Konzentrat", "Citrusfrische"]
+}, {
+  "store": "spar",
+  "id": "2020002364441",
+  "name": "Splendid Geschirrspülmittel Konzentrat Limettenduft 500ml",
+  "category": "Geschirrspülmittel",
+  "subcategories": ["Geschirrspülmittel", "Konzentrat", "Limettenduft"]
+}, {
+  "store": "spar",
+  "id": "2020003899034",
+  "name": "Spiel Hedbanz Spiel Hedbanz GVE 4",
+  "category": "Spiele",
+  "subcategories": ["Hedbanz"]
+}, {
+  "store": "spar",
+  "id": "2020003590047",
+  "name": "Spirit Eau de Parfum SPIRIT of cashmere musk 30ml",
+  "category": "Parfüm",
+  "subcategories": ["Eau de Parfum", "Spirit of cashmere musk"]
+}, {
+  "store": "spar",
+  "id": "2020003590085",
+  "name": "Spirit Eau de Parfum SPIRIT of delicate blush 30ml",
+  "category": "Parfüm",
+  "subcategories": ["Eau de Parfum", "Spirit of delicate blush"]
+}, {
+  "store": "spar",
+  "id": "2020002658113",
+  "name": "Splendid Glanzwunder grün",
+  "category": "Reinigung",
+  "subcategories": ["Glanzwunder"]
+}, {
+  "store": "spar",
+  "id": "2020003627422",
+  "name": "Splendid Gummi-Besen",
+  "category": "Reinigung",
+  "subcategories": ["Gummi-Besen"]
+}, {
+  "store": "spar",
+  "id": "2020003628368",
+  "name": "Splendid Indoor-Besen",
+  "category": "Reinigung",
+  "subcategories": ["Indoor-Besen"]
+}, {
+  "store": "spar",
+  "id": "2020003628429",
+  "name": "Splendid Kehrgarnitur",
+  "category": "Reinigung",
+  "subcategories": ["Kehrgarnitur"]
+}, {
+  "store": "spar",
+  "id": "2020002406363",
+  "name": "Splendid Küchenwunder Spültücher 4 Stück",
+  "category": "Reinigung",
+  "subcategories": ["Küchenwunder", "Spültücher"]
+}, {
+  "store": "spar",
+  "id": "2020002738723",
+  "name": "Splendid Mikrofasertuch Geschirr u. Trockenwunder",
+  "category": "Reinigung",
+  "subcategories": ["Mikrofasertuch", "Geschirr u. Trockenwunder"]
+}, {
+  "store": "spar",
+  "id": "2020003627392",
+  "name": "Splendid Outdoor-Besen",
+  "category": "Reinigung",
+  "subcategories": ["Outdoor-Besen"]
+}, {
+  "store": "spar",
+  "id": "2020001162499",
+  "name": "Splendid Powerschwamm Extrastark 3 Stück",
+  "category": "Reinigung",
+  "subcategories": ["Powerschwamm", "Extrastark"]
+}, {
+  "store": "spar",
+  "id": "2241074",
+  "name": "Splendid Rohrfrei Gel 1 Liter",
+  "category": "Reinigung",
+  "subcategories": ["Rohrfrei Gel"]
+}, {
+  "store": "spar",
+  "id": "3796214",
+  "name": "Splendid Scheuerbürste mit Griff",
+  "category": "Reinigung",
+  "subcategories": ["Scheuerbürste", "Griff"]
+}, {
+  "store": "spar",
+  "id": "2020004745255",
+  "name": "Splendid Schmierseife flüssig 1L",
+  "category": "Reinigung",
+  "subcategories": ["Schmierseife", "flüssig"]
+}, {
+  "store": "spar",
+  "id": "2020001767953",
+  "name": "Splendid Schmutzradierer",
+  "category": "Reinigung",
+  "subcategories": ["Schmutzradierer"]
+}, {
+  "store": "spar",
+  "id": "2020003073472",
+  "name": "Splendid Schnell-Entkalker 1L",
+  "category": "Reinigung",
+  "subcategories": ["Schnell-Entkalker"]
+}, {
+  "store": "spar",
+  "id": "2020003627606",
+  "name": "Splendid Schwamm-Besen",
+  "category": "Reinigung",
+  "subcategories": ["Schwamm-Besen"]
+}, {
+  "store": "spar",
+  "id": "2020001162277",
+  "name": "Splendid Schwammtücher 8 Stück",
+  "category": "Reinigung",
+  "subcategories": ["Schwammtücher"]
+}, {
+  "store": "spar",
+  "id": "2020004346087",
+  "name": "Splendid Schwammtücher aus Mikrofaser 3er-Set",
+  "category": "Reinigung",
+  "subcategories": ["Schwammtücher", "Mikrofaser"]
+}, {
+  "store": "spar",
+  "id": "2020003627255",
+  "name": "Splendid Silikon-Flaschenbürste",
+  "category": "Reinigung",
+  "subcategories": ["Silikon-Flaschenbürste"]
+}, {
+  "store": "spar",
+  "id": "2020003628788",
+  "name": "Splendid Spülbürste mint",
+  "category": "Reinigung",
+  "subcategories": ["Spülbürste", "mint"]
+}, {
+  "store": "spar",
+  "id": "2020003628573",
+  "name": "Splendid Spülbürste rosa",
+  "category": "Reinigung",
+  "subcategories": ["Spülbürste", "rosa"]
+}, {
+  "store": "spar",
+  "id": "2020000893691",
+  "name": "Splendid Spülmaschinen Deo Citrus-Duft 3 x 6 ml",
+  "category": "Geschirrspüler",
+  "subcategories": ["Spülmaschinen Deo", "Citrus-Duft"]
+}, {
+  "store": "spar",
+  "id": "2020003657689",
+  "name": "Splendid Spülmaschinen Reinigungs-Tabs 3 Stück",
+  "category": "Geschirrspüler",
+  "subcategories": ["Spülmaschinen Reinigungs-Tabs"]
+}, {
+  "store": "spar",
+  "id": "2020002271466",
+  "name": "Splendid Spülmaschinenpfleger 250 ml",
+  "category": "Geschirrspüler",
+  "subcategories": ["Spülmaschinenpfleger"]
+}, {
+  "store": "spar",
+  "id": "2020001162390",
+  "name": "Splendid Spülschwamm Sensitiv 3 Stück",
+  "category": "Reinigung",
+  "subcategories": ["Spülschwamm", "Sensitiv"]
+}, {
+  "store": "spar",
+  "id": "2020002737955",
+  "name": "Splendid Staubfangtücher Ersatz Premium",
+  "category": "Reinigung",
+  "subcategories": ["Staubfangtücher", "Ersatz", "Premium"]
+}, {
+  "store": "spar",
+  "id": "7655432",
+  "name": "Splendid Staubfänger",
+  "category": "Reinigung",
+  "subcategories": ["Staubfänger"]
+}, {
+  "store": "spar",
+  "id": "7651519",
+  "name": "Splendid Staubfänger Boden Starter Set",
+  "category": "Reinigung",
+  "subcategories": ["Staubfänger", "Boden", "Starter Set"]
+}, {
+  "store": "spar",
+  "id": "7655470",
+  "name": "Splendid Staubfänger Ersatztücher",
+  "category": "Reinigung",
+  "subcategories": ["Staubfänger", "Ersatztücher"]
+}, {
+  "store": "spar",
+  "id": "2020002738044",
+  "name": "Splendid Staubfänger XXL - 360 2 Ersatztücher",
+  "category": "Reinigung",
+  "subcategories": ["Staubfänger", "Ersatztücher"]
+}, {
+  "store": "spar",
+  "id": "2020002658083",
+  "name": "Splendid Staubwunder grau",
+  "category": "Reinigung",
+  "subcategories": ["Staubwunder"]
+}, {
+  "store": "spar",
+  "id": "2020003628832",
+  "name": "Splendid WC-Bürste",
+  "category": "Reinigung",
+  "subcategories": ["WC-Bürste"]
+}, {
+  "store": "spar",
+  "id": "2020003465062",
+  "name": "Splendid WC-Duftsteine Lavendel-Power 2 Stück",
+  "category": "Reinigung",
+  "subcategories": ["WC-Duftsteine", "Lavendel-Power"]
+}, {
+  "store": "spar",
+  "id": "2020003465116",
+  "name": "Splendid WC-Duftsteine Lemon-Power 2 Stück",
+  "category": "Reinigung",
+  "subcategories": ["WC-Duftsteine", "Lemon-Power"]
+}, {
+  "store": "spar",
+  "id": "2020003628863",
+  "name": "Splendid WC-Garnitur mit Randreiniger hängend",
+  "category": "Reinigung",
+  "subcategories": ["WC-Garnitur", "Randreiniger", "hängend"]
+}, {
+  "store": "spar",
+  "id": "2020003628887",
+  "name": "Splendid WC-Garnitur mit Randreiniger stehend",
+  "category": "Reinigung",
+  "subcategories": ["WC-Garnitur", "Randreiniger", "stehend"]
+}, {
+  "store": "spar",
+  "id": "2020004555939",
+  "name": "Splendid WC-Reiniger-Tabs 16 Tabs",
+  "category": "Reinigung",
+  "subcategories": ["WC-Reiniger-Tabs"]
+}, {
+  "store": "spar",
+  "id": "2020003627323",
+  "name": "Splendid Wischmopp Ersatzkopf mit Kordeln",
+  "category": "Reinigung",
+  "subcategories": ["Wischmopp", "Ersatzkopf", "Kordeln"]
+}, {
+  "store": "spar",
+  "id": "2020003805059",
+  "name": "Splendid Wischmopp Ersatzkopf mit Streifen",
+  "category": "Reinigung",
+  "subcategories": ["Wischmopp", "Ersatzkopf", "Streifen"]
+}, {
+  "store": "spar",
+  "id": "3797648",
+  "name": "Splendid Wischmopp-Sieb für SPLENDID Eimer",
+  "category": "Reinigung",
+  "subcategories": ["Wischmopp-Sieb"]
+}, {
+  "store": "spar",
+  "id": "2957272",
+  "name": "Splendid nature Abwaschbürste hart/rund",
+  "category": "Reinigung",
+  "subcategories": ["Abwaschbürste", "hart/rund"]
+}, {
+  "store": "spar",
+  "id": "2957302",
+  "name": "Splendid nature Abwaschbürste weich/rund",
+  "category": "Reinigung",
+  "subcategories": ["Abwaschbürste", "weich/rund"]
+}, {
+  "store": "spar",
+  "id": "2020004010919",
+  "name": "Splendid nature Allzweckreiniger 1000 ml",
+  "category": "Reinigung",
+  "subcategories": ["Allzweckreiniger"]
+}, {
+  "store": "spar",
+  "id": "2953755",
+  "name": "Splendid nature Ausgussauger",
+  "category": "Reinigung",
+  "subcategories": ["Ausgussauger"]
+}, {
+  "store": "spar",
+  "id": "2652313",
+  "name": "Splendid nature Badreiniger 750ml",
+  "category": "Reinigung",
+  "subcategories": ["Badreiniger"]
+}, {
+  "store": "spar",
+  "id": "2953663",
+  "name": "Splendid nature Besen",
+  "category": "Reinigung",
+  "subcategories": ["Besen"]
+}, {
+  "store": "spar",
+  "id": "2954486",
+  "name": "Splendid nature Besen Kokos",
+  "category": "Reinigung",
+  "subcategories": ["Besen", "Kokos"]
+}, {
+  "store": "spar",
+  "id": "2953830",
+  "name": "Splendid nature Besen mit Kantenschoner",
+  "category": "Reinigung",
+  "subcategories": ["Besen", "Kantenschoner"]
+}, {
+  "store": "spar",
+  "id": "2957753",
+  "name": "Splendid nature Ersatzbürste hart/rund",
+  "category": "Reinigung",
+  "subcategories": ["Ersatzbürste", "hart/rund"]
+}, {
+  "store": "spar",
+  "id": "2957791",
+  "name": "Splendid nature Ersatzbürste weich/rund",
+  "category": "Reinigung",
+  "subcategories": ["Ersatzbürste", "weich/rund"]
+}, {
+  "store": "spar",
+  "id": "2020004033192",
+  "name": "Splendid nature Essigreiniger 1000 ml",
+  "category": "Reinigung",
+  "subcategories": ["Essigreiniger"]
+}, {
+  "store": "spar",
+  "id": "2953182",
+  "name": "Splendid nature Fegbürste",
+  "category": "Reinigung",
+  "subcategories": ["Fegbürste"]
+}]

@@ -1,0 +1,972 @@
+Here is the modified JSON list with the added category and subcategory fields:
+
+[
+   {
+      "store":"spar",
+      "id":"2020003847141",
+      "name":"Ehrmann High Protein Pudding Hazelnut",
+      "category":"Pudding",
+      "subcategories":[
+         "Protein Pudding",
+         "Hazelnut"
+      ]
+   },
+   {
+      "store":"spar",
+      "id":"2020003759550",
+      "name":"Ehrmann High Protein Pudding Vanilla & Topping",
+      "category":"Pudding",
+      "subcategories":[
+         "Protein Pudding",
+         "Vanilla",
+         "Topping"
+      ]
+   },
+   {
+      "store":"spar",
+      "id":"2020004118097",
+      "name":"Ehrmann High Protein Vanilla Mousse",
+      "category":"Mousse",
+      "subcategories":[
+         "Protein Mousse",
+         "Vanilla"
+      ]
+   },
+   {
+      "store":"spar",
+      "id":"2020002524913",
+      "name":"Ehrmann High Protein Vanilla Pudding",
+      "category":"Pudding",
+      "subcategories":[
+         "Protein Pudding",
+         "Vanilla"
+      ]
+   },
+   {
+      "store":"spar",
+      "id":"6906610",
+      "name":"Ehrmann Monsterbacke Früchte-Quark Erdbeere",
+      "category":"Quark",
+      "subcategories":[
+         "Früchte-Quark",
+         "Erdbeere"
+      ]
+   },
+   {
+      "store":"spar",
+      "id":"6906665",
+      "name":"Ehrmann Monsterbacke Monsterbacke Banane",
+      "category":"Quark",
+      "subcategories":[
+         "Monsterbacke",
+         "Banane"
+      ]
+   },
+   {
+      "store":"spar",
+      "id":"2020001736874",
+      "name":"Ehrmann VanilleTraum Erdbeere",
+      "category":"Pudding",
+      "subcategories":[
+         "VanilleTraum",
+         "Erdbeere"
+      ]
+   },
+   {
+      "store":"spar",
+      "id":"2020001736911",
+      "name":"Ehrmann VanilleTraum Kirsche",
+      "category":"Pudding",
+      "subcategories":[
+         "VanilleTraum",
+         "Kirsche"
+      ]
+   },
+   {
+      "store":"spar",
+      "id":"2020001737017",
+      "name":"Ehrmann VanilleTraum Pfirsich-Maracuja",
+      "category":"Pudding",
+      "subcategories":[
+         "VanilleTraum",
+         "Pfirsich",
+         "Maracuja"
+      ]
+   },
+   {
+      "store":"spar",
+      "id":"8087171",
+      "name":"GÜ Karamell-Schoko.-Cheesecakes 2 x 91,5g",
+      "category":"Käsekuchen",
+      "subcategories":[
+         "Karamell",
+         "Schoko",
+         "Cheesecakes"
+      ]
+   },
+   {
+      "store":"spar",
+      "id":"2320434",
+      "name":"GÜ New York Cheesecakes 2x80g",
+      "category":"Käsekuchen",
+      "subcategories":[
+         "New York Cheesecakes"
+      ]
+   },
+   {
+      "store":"spar",
+      "id":"2020003042164",
+      "name":"GÜ Salted-Caramel-Cheesecakes 2x92g",
+      "category":"Käsekuchen",
+      "subcategories":[
+         "Salted Caramel Cheesecakes"
+      ]
+   },
+   {
+      "store":"spar",
+      "id":"7950179",
+      "name":"GÜ Schoko Vanille Cheesecake 2x82g",
+      "category":"Käsekuchen",
+      "subcategories":[
+         "Schoko Vanille Cheesecake"
+      ]
+   },
+   {
+      "store":"spar",
+      "id":"7519222",
+      "name":"Hiegesberger Frischmilch 3,2% Fett 3,2% Fett",
+      "category":"Milch",
+      "subcategories":[
+         "Frischmilch",
+         "3,2% Fett"
+      ]
+   },
+   {
+      "store":"spar",
+      "id":"2020003407253",
+      "name":"Hiegesberger Fruchtjogurt Erdbeere",
+      "category":"Joghurt",
+      "subcategories":[
+         "Fruchtjogurt",
+         "Erdbeere"
+      ]
+   },
+   {
+      "store":"spar",
+      "id":"2020003407277",
+      "name":"Hiegesberger Fruchtjogurt Heidelbeere",
+      "category":"Joghurt",
+      "subcategories":[
+         "Fruchtjogurt",
+         "Heidelbeere"
+      ]
+   },
+   {
+      "store":"spar",
+      "id":"7519246",
+      "name":"Hiegesberger Joghurt 1% Fett",
+      "category":"Joghurt",
+      "subcategories":[
+         "Joghurt",
+         "1% Fett"
+      ]
+   },
+   {
+      "store":"spar",
+      "id":"7519277",
+      "name":"Hiegesberger Joghurt 3,2% Fett",
+      "category":"Joghurt",
+      "subcategories":[
+         "Joghurt",
+         "3,2% Fett"
+      ]
+   },
+   {
+      "store":"spar",
+      "id":"7519123",
+      "name":"Hiegesberger Milch 3,2% Fett 3,2% Fett",
+      "category":"Milch",
+      "subcategories":[
+         "Milch",
+         "3,2% Fett"
+      ]
+   },
+   {
+      "store":"spar",
+      "id":"7713507",
+      "name":"Hiegesberger Sauerrahm  15% Fett",
+      "category":"Sauerrahm",
+      "subcategories":[
+         "Sauerrahm",
+         "15% Fett"
+      ]
+   },
+   {
+      "store":"spar",
+      "id":"7713552",
+      "name":"Hiegesberger Schlagobers 36% Fett",
+      "category":"Schlagobers",
+      "subcategories":[
+         "Schlagobers",
+         "36% Fett"
+      ]
+   },
+   {
+      "store":"spar",
+      "id":"7519307",
+      "name":"Hiegesberger Speisetopfen 20% F.i.T. passiert",
+      "category":"Speisetopfen",
+      "subcategories":[
+         "Speisetopfen",
+         "20% F.i.T.",
+         "passiert"
+      ]
+   },
+   {
+      "store":"spar",
+      "id":"5528172",
+      "name":"Hoflieferanten Bauerntopfen der Feinbröselige",
+      "category":"Topfen",
+      "subcategories":[
+         "Bauerntopfen",
+         "Feinbröselige"
+      ]
+   },
+   {
+      "store":"spar",
+      "id":"5528349",
+      "name":"Hoflieferanten Bauerntopfen der Naturcremige",
+      "category":"Topfen",
+      "subcategories":[
+         "Bauerntopfen",
+         "Naturcremige"
+      ]
+   },
+   {
+      "store":"spar",
+      "id":"3883969",
+      "name":"Hoflieferanten Joghurt Wachauer Marille",
+      "category":"Joghurt",
+      "subcategories":[
+         "Joghurt",
+         "Wachauer Marille"
+      ]
+   },
+   {
+      "store":"spar",
+      "id":"6359263",
+      "name":"Hoflieferanten Jogurt Dirndl",
+      "category":"Joghurt",
+      "subcategories":[
+         "Jogurt",
+         "Dirndl"
+      ]
+   },
+   {
+      "store":"spar",
+      "id":"3883785",
+      "name":"Hoflieferanten Jogurt Erdbeere",
+      "category":"Joghurt",
+      "subcategories":[
+         "Jogurt",
+         "Erdbeere"
+      ]
+   },
+   {
+      "store":"spar",
+      "id":"2020004621894",
+      "name":"Kri Kri Griechischer Sahnejoghurt 10% Fett",
+      "category":"Sahnejoghurt",
+      "subcategories":[
+         "Griechischer Sahnejoghurt",
+         "10% Fett"
+      ]
+   },
+   {
+      "store":"spar",
+      "id":"2020004621801",
+      "name":"Kri Kri griechischer Naturjoghurt 2% Fett",
+      "category":"Naturjoghurt",
+      "subcategories":[
+         "Griechischer Naturjoghurt",
+         "2% Fett"
+      ]
+   },
+   {
+      "store":"spar",
+      "id":"3983355",
+      "name":"Kärntnermilch Sauermilch 3,5% Fett",
+      "category":"Milch",
+      "subcategories":[
+         "Sauermilch",
+         "3,5% Fett"
+      ]
+   },
+   {
+      "store":"spar",
+      "id":"6882594",
+      "name":"Kärntnermilch Vitaldrink natur",
+      "category":"Vitaldrink",
+      "subcategories":[
+         "Vitaldrink",
+         "natur"
+      ]
+   },
+   {
+      "store":"spar",
+      "id":"2020003882050",
+      "name":"Landliebe Grieß Pudding auf Mango",
+      "category":"Pudding",
+      "subcategories":[
+         "Grieß Pudding",
+         "Mango"
+      ]
+   },
+   {
+      "store":"spar",
+      "id":"3968147",
+      "name":"Landliebe Grießpudding Schokolade",
+      "category":"Pudding",
+      "subcategories":[
+         "Grießpudding",
+         "Schokolade"
+      ]
+   },
+   {
+      "store":"spar",
+      "id":"3968130",
+      "name":"Landliebe Grießpudding Vanille",
+      "category":"Pudding",
+      "subcategories":[
+         "Grießpudding",
+         "Vanille"
+      ]
+   },
+   {
+      "store":"spar",
+      "id":"3968123",
+      "name":"Landliebe Grießpudding Zimt",
+      "category":"Pudding",
+      "subcategories":[
+         "Grießpudding",
+         "Zimt"
+      ]
+   },
+   {
+      "store":"spar",
+      "id":"3968116",
+      "name":"Landliebe Grießpudding traditionell",
+      "category":"Pudding",
+      "subcategories":[
+         "Grießpudding",
+         "traditionell"
+      ]
+   },
+   {
+      "store":"spar",
+      "id":"2020003340581",
+      "name":"Landliebe Joghurt Himbeere",
+      "category":"Joghurt",
+      "subcategories":[
+         "Joghurt",
+         "Himbeere"
+      ]
+   },
+   {
+      "store":"spar",
+      "id":"2020003787157",
+      "name":"Landliebe Joghurt Mohn-Marzipan",
+      "category":"Joghurt",
+      "subcategories":[
+         "Joghurt",
+         "Mohn-Marzipan"
+      ]
+   },
+   {
+      "store":"spar",
+      "id":"2020003902567",
+      "name":"Landliebe Lecker Schmecker Joghurt Erdbeere 4x125g",
+      "category":"Joghurt",
+      "subcategories":[
+         "Lecker Schmecker Joghurt",
+         "Erdbeere"
+      ]
+   },
+   {
+      "store":"spar",
+      "id":"4234630",
+      "name":"Landliebe Sahnepudding Schokolade",
+      "category":"Pudding",
+      "subcategories":[
+         "Sahnepudding",
+         "Schokolade"
+      ]
+   },
+   {
+      "store":"spar",
+      "id":"2020000999478",
+      "name":"Landliebe Sahnepudding Schokolade 4 x 125g",
+      "category":"Pudding",
+      "subcategories":[
+         "Sahnepudding",
+         "Schokolade"
+      ]
+   },
+   {
+      "store":"spar",
+      "id":"4234623",
+      "name":"Landliebe Sahnepudding Vanille",
+      "category":"Pudding",
+      "subcategories":[
+         "Sahnepudding",
+         "Vanille"
+      ]
+   },
+   {
+      "store":"spar",
+      "id":"2020000999492",
+      "name":"Landliebe Sahnepudding Vanille 4 x 125g",
+      "category":"Pudding",
+      "subcategories":[
+         "Sahnepudding",
+         "Vanille"
+      ]
+   },
+   {
+      "store":"spar",
+      "id":"2020004151506",
+      "name":"Landliebe Topfencreme Bourbon-Vanille",
+      "category":"Topfencreme",
+      "subcategories":[
+         "Topfencreme",
+         "Bourbon-Vanille"
+      ]
+   },
+   {
+      "store":"spar",
+      "id":"2020004151490",
+      "name":"Landliebe Topfencreme Erdbeere",
+      "category":"Topfencreme",
+      "subcategories":[
+         "Topfencreme",
+         "Erdbeere"
+      ]
+   },
+   {
+      "store":"spar",
+      "id":"2020004151544",
+      "name":"Landliebe Topfencreme Maracuja",
+      "category":"Topfencreme",
+      "subcategories":[
+         "Topfencreme",
+         "Maracuja"
+      ]
+   },
+   {
+      "store":"spar",
+      "id":"2020004151520",
+      "name":"Landliebe Topfencreme Stracciatella",
+      "category":"Topfencreme",
+      "subcategories":[
+         "Topfencreme",
+         "Stracciatella"
+      ]
+   },
+   {
+      "store":"spar",
+      "id":"2020003637544",
+      "name":"Landliebe Vollmilchpudding Schokolade",
+      "category":"Pudding",
+      "subcategories":[
+         "Vollmilchpudding",
+         "Schokolade"
+      ]
+   },
+   {
+      "store":"spar",
+      "id":"2020003637674",
+      "name":"Landliebe Vollmilchpudding Vanille",
+      "category":"Pudding",
+      "subcategories":[
+         "Vollmilchpudding",
+         "Vanille"
+      ]
+   },
+   {
+      "store":"spar",
+      "id":"2020003429217",
+      "name":"Lattella Berry Lemon",
+      "category":"Fruchtsaft",
+      "subcategories":[
+         "Berry Lemon"
+      ]
+   },
+   {
+      "store":"spar",
+      "id":"2426662",
+      "name":"Lattella Frucht & Molke Kokos Ananas",
+      "category":"Fruchtsaft",
+      "subcategories":[
+         "Frucht & Molke",
+         "Kokos Ananas"
+      ]
+   },
+   {
+      "store":"spar",
+      "id":"2020003429125",
+      "name":"Lattella Mango Pfirsich",
+      "category":"Fruchtsaft",
+      "subcategories":[
+         "Mango Pfirsich"
+      ]
+   },
+   {
+      "store":"spar",
+      "id":"251600",
+      "name":"Lattella Naturmolke 0,1% Fett",
+      "category":"Molke",
+      "subcategories":[
+         "Naturmolke",
+         "0,1% Fett"
+      ]
+   },
+   {
+      "store":"spar",
+      "id":"2020003390333",
+      "name":"Lattella frucht & molke Drachenfrucht",
+      "category":"Fruchtsaft",
+      "subcategories":[
+         "Frucht & Molke",
+         "Drachenfrucht"
+      ]
+   },
+   {
+      "store":"spar",
+      "id":"2753331",
+      "name":"Lattella frucht & molke Erdbeer",
+      "category":"Fruchtsaft",
+      "subcategories":[
+         "Frucht & Molke",
+         "Erdbeer"
+      ]
+   },
+   {
+      "store":"spar",
+      "id":"614658",
+      "name":"Lattella frucht & molke Mango",
+      "category":"Fruchtsaft",
+      "subcategories":[
+         "Frucht & Molke",
+         "Mango"
+      ]
+   },
+   {
+      "store":"spar",
+      "id":"2972138",
+      "name":"Lattella frucht & molke Mango",
+      "category":"Fruchtsaft",
+      "subcategories":[
+         "Frucht & Molke",
+         "Mango"
+      ]
+   },
+   {
+      "store":"spar",
+      "id":"615983",
+      "name":"Lattella frucht & molke Maracuja",
+      "category":"Fruchtsaft",
+      "subcategories":[
+         "Frucht & Molke",
+         "Maracuja"
+      ]
+   },
+   {
+      "store":"spar",
+      "id":"2020001537570",
+      "name":"Lattella frucht & molke Maracuja",
+      "category":"Fruchtsaft",
+      "subcategories":[
+         "Frucht & Molke",
+         "Maracuja"
+      ]
+   },
+   {
+      "store":"spar",
+      "id":"2020004647238",
+      "name":"Lattella frucht & molke Wassermelone",
+      "category":"Fruchtsaft",
+      "subcategories":[
+         "Frucht & Molke",
+         "Wassermelone"
+      ]
+   },
+   {
+      "store":"spar",
+      "id":"2020003728013",
+      "name":"Meggle Aioli vegan",
+      "category":"Vegan",
+      "subcategories":[
+         "Aioli"
+      ]
+   },
+   {
+      "store":"spar",
+      "id":"2858951",
+      "name":"Meggle Knoblauch-Butter 125g",
+      "category":"Butter",
+      "subcategories":[
+         "Knoblauch-Butter"
+      ]
+   },
+   {
+      "store":"spar",
+      "id":"2020004179159",
+      "name":"Meggle Kräuter Tube vegan",
+      "category":"Vegan",
+      "subcategories":[
+         "Kräuter Tube",
+         "vegan"
+      ]
+   },
+   {
+      "store":"spar",
+      "id":"2858944",
+      "name":"Meggle Kräuter-Butter 125g",
+      "category":"Butter",
+      "subcategories":[
+         "Kräuter-Butter"
+      ]
+   },
+   {
+      "store":"spar",
+      "id":"2020004622181",
+      "name":"Meggle Kräuterbutter BBQ Trio 5x20g",
+      "category":"Butter",
+      "subcategories":[
+         "Kräuterbutter",
+         "BBQ",
+         "Trio"
+      ]
+   },
+   {
+      "store":"spar",
+      "id":"2020004210166",
+      "name":"Meggle Kräuterbutter Trio 5x20g",
+      "category":"Butter",
+      "subcategories":[
+         "Kräuterbutter",
+         "Trio"
+      ]
+   },
+   {
+      "store":"spar",
+      "id":"2020004365170",
+      "name":"Meggle Streichzart vegan",
+      "category":"Vegan",
+      "subcategories":[
+         "Streichzart",
+         "vegan"
+      ]
+   },
+   {
+      "store":"spar",
+      "id":"2020004723369",
+      "name":"Milino Coconutmilk Snack 5x24g",
+      "category":"Kokosnuss",
+      "subcategories":[
+         "Coconutmilk Snack"
+      ]
+   },
+   {
+      "store":"spar",
+      "id":"2020004583536",
+      "name":"Milino Movie Superstar Milk & Choco Snack 4x30g",
+      "category":"Schokolade",
+      "subcategories":[
+         "Movie Superstar",
+         "Milk & Choco Snack"
+      ]
+   },
+   {
+      "store":"spar",
+      "id":"3293843",
+      "name":"Ablinger Aufschnitt 5fach geschnitten",
+      "category":"Aufschnitt",
+      "subcategories":[
+         "5fach geschnitten"
+      ]
+   },
+   {
+      "store":"spar",
+      "id":"1630473",
+      "name":"Ablinger Blutwurst 3 Stück 330g",
+      "category":"Wurst",
+      "subcategories":[
+         "Blutwurst"
+      ]
+   },
+   {
+      "store":"spar",
+      "id":"2020000944355",
+      "name":"Ablinger Bosna 2 Paar",
+      "category":"Wurst",
+      "subcategories":[
+         "Bosna"
+      ]
+   },
+   {
+      "store":"spar",
+      "id":"1035285",
+      "name":"Ablinger Braunschweiger",
+      "category":"Wurst",
+      "subcategories":[
+         "Braunschweiger"
+      ]
+   },
+   {
+      "store":"spar",
+      "id":"6416461",
+      "name":"Ablinger Debreziner 2 Paar",
+      "category":"Wurst",
+      "subcategories":[
+         "Debreziner"
+      ]
+   },
+   {
+      "store":"spar",
+      "id":"6081638",
+      "name":"Ablinger Extra Kranz",
+      "category":"Wurst",
+      "subcategories":[
+         "Extra Kranz"
+      ]
+   },
+   {
+      "store":"spar",
+      "id":"6416478",
+      "name":"Ablinger Frankfurter 2 Paar",
+      "category":"Wurst",
+      "subcategories":[
+         "Frankfurter"
+      ]
+   },
+   {
+      "store":"spar",
+      "id":"2020002089672",
+      "name":"Ablinger Haussulze",
+      "category":"Wurst",
+      "subcategories":[
+         "Haussulze"
+      ]
+   },
+   {
+      "store":"spar",
+      "id":"3430866",
+      "name":"Ablinger Haussulze 1 Scheibe",
+      "category":"Wurst",
+      "subcategories":[
+         "Haussulze"
+      ]
+   },
+   {
+      "store":"spar",
+      "id":"1417289",
+      "name":"Ablinger Jausenspeck geschnitten",
+      "category":"Speck",
+      "subcategories":[
+         "Jausenspeck"
+      ]
+   },
+   {
+      "store":"spar",
+      "id":"6416522",
+      "name":"Ablinger Kalbsbratwürstl 2 Paar",
+      "category":"Wurst",
+      "subcategories":[
+         "Kalbsbratwürstl"
+      ]
+   },
+   {
+      "store":"spar",
+      "id":"1417265",
+      "name":"Ablinger Karreespeck geschnitten",
+      "category":"Speck",
+      "subcategories":[
+         "Karreespeck"
+      ]
+   },
+   {
+      "store":"spar",
+      "id":"6081645",
+      "name":"Ablinger Knacker 2 Stück",
+      "category":"Wurst",
+      "subcategories":[
+         "Knacker"
+      ]
+   },
+   {
+      "store":"spar",
+      "id":"7903458",
+      "name":"Ablinger Knacker geschnitten",
+      "category":"Wurst",
+      "subcategories":[
+         "Knacker"
+      ]
+   },
+   {
+      "store":"spar",
+      "id":"5759880",
+      "name":"Ablinger Käsekrainer 3 Stk",
+      "category":"Wurst",
+      "subcategories":[
+         "Käsekrainer"
+      ]
+   },
+   {
+      "store":"spar",
+      "id":"3720219",
+      "name":"Ablinger Leberknödel gebacken",
+      "category":"Knödel",
+      "subcategories":[
+         "Leberknödel"
+      ]
+   },
+   {
+      "store":"spar",
+      "id":"5271061",
+      "name":"Ablinger Münchner Weißwurst 4 Stk",
+      "category":"Wurst",
+      "subcategories":[
+         "Münchner Weißwurst"
+      ]
+   },
+   {
+      "store":"spar",
+      "id":"5989041",
+      "name":"Ablinger Original Salzburger Bratwürste",
+      "category":"Wurst",
+      "subcategories":[
+         "Original Salzburger",
+         "Bratwürste"
+      ]
+   },
+   {
+      "store":"spar",
+      "id":"2020003765179",
+      "name":"Ablinger Pastrami geschnitten",
+      "category":"Wurst",
+      "subcategories":[
+         "Pastrami"
+      ]
+   },
+   {
+      "store":"spar",
+      "id":"6976095",
+      "name":"Ablinger Presswurst",
+      "category":"Wurst",
+      "subcategories":[
+         "Presswurst"
+      ]
+   },
+   {
+      "store":"spar",
+      "id":"4536321",
+      "name":"Ablinger Wacholder-Schinken",
+      "category":"Schinken",
+      "subcategories":[
+         "Wacholder-Schinken"
+      ]
+   },
+   {
+      "store":"spar",
+      "id":"3279472",
+      "name":"Ablinger Waldviertler Kranz",
+      "category":"Wurst",
+      "subcategories":[
+         "Waldviertler Kranz"
+      ]
+   },
+   {
+      "store":"spar",
+      "id":"907736",
+      "name":"Ablinger Weißwurst mit Kräuter",
+      "category":"Wurst",
+      "subcategories":[
+         "Weißwurst",
+         "Kräuter"
+      ]
+   },
+   {
+      "store":"spar",
+      "id":"2020002102463",
+      "name":"Ager Hirschlandjäger",
+      "category":"Wurst",
+      "subcategories":[
+         "Hirschlandjäger"
+      ]
+   },
+   {
+      "store":"spar",
+      "id":"2020002102487",
+      "name":"Ager Rehwurzen",
+      "category":"Wurst",
+      "subcategories":[
+         "Rehwurzen"
+      ]
+   },
+   {
+      "store":"spar",
+      "id":"2020002102500",
+      "name":"Ager Wildschweinwurzen",
+      "category":"Wurst",
+      "subcategories":[
+         "Wildschweinwurzen"
+      ]
+   },
+   {
+      "store":"spar",
+      "id":"2020001681648",
+      "name":"Aia Wudy Geflügelwürstchen Käse",
+      "category":"Wurst",
+      "subcategories":[
+         "Geflügelwürstchen",
+         "Käse"
+      ]
+   },
+   {
+      "store":"spar",
+      "id":"2020004574626",
+      "name":"Alpenseer Rustikal 500 G",
+      "category":"Käse",
+      "subcategories":[
+         "Rustikal"
+      ]
+   },
+   {
+      "store":"spar",
+      "id":"5792498",
+      "name":"Brendolan Salami Milano",
+      "category":"Salami",
+      "subcategories":[
+         "Milano"
+      ]
+   },
+   {
+      "store":"spar",
+      "id":"5792504",
+      "name":"Brendolan Salami Ungherese",
+      "category":"Salami",
+      "subcategories":[
+         "Ungherese"
+      ]
+   },
+   {
+      "store":"spar",
+      "id":"2020004163325",
+      "name":"Casa Modena Professional Prosciutto crudo stagionato",
+      "category":"Schinken",
+      "subcategories":[
+         "Prosciutto crudo stagionato"
+      ]
+   }
+]

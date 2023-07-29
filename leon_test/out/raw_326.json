@@ -1,0 +1,702 @@
+[
+  {
+    "store": "spar",
+    "id": "2002828",
+    "name": "Nivea Reichhaltige Body Milk 625 ml",
+    "category": "Körperpflege",
+    "subcategories": ["Körperlotion"]
+  },
+  {
+    "store": "spar",
+    "id": "57554",
+    "name": "Nivea Reichhaltige Tagespflege 24h Feuchtigkeit 50ml",
+    "category": "Gesichtspflege",
+    "subcategories": ["Tagescreme"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004183958",
+    "name": "Nivea Reinigungsmilch pflegend 200ml",
+    "category": "Gesichtspflege",
+    "subcategories": ["Reinigungsmilch"]
+  },
+  {
+    "store": "spar",
+    "id": "3451755",
+    "name": "Nivea Reinigungstücher Normale Haut 25 Tücher",
+    "category": "Gesichtspflege",
+    "subcategories": ["Reinigungstücher"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003826030",
+    "name": "Nivea Rose Touch Gel-Creme 50ml",
+    "category": "Gesichtspflege",
+    "subcategories": ["Gel-Creme"]
+  },
+  {
+    "store": "spar",
+    "id": "853774",
+    "name": "Nivea Sanfte Reinigungsmilch 200ml",
+    "category": "Gesichtspflege",
+    "subcategories": ["Reinigungsmilch"]
+  },
+  {
+    "store": "spar",
+    "id": "7429224",
+    "name": "Nivea Soft Feuchtigkeitscreme 200ml",
+    "category": "Körperpflege",
+    "subcategories": ["Feuchtigkeitscreme"]
+  },
+  {
+    "store": "spar",
+    "id": "61414",
+    "name": "Nivea Soft Feuchtigkeitscreme 75 ml",
+    "category": "Körperpflege",
+    "subcategories": ["Feuchtigkeitscreme"]
+  },
+  {
+    "store": "spar",
+    "id": "2948461",
+    "name": "Nivea Tagescreme Sensitive 50ml",
+    "category": "Gesichtspflege",
+    "subcategories": ["Tagescreme"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002118082",
+    "name": "Nivea Tagespflege 45+ 50ml",
+    "category": "Gesichtspflege",
+    "subcategories": ["Tagescreme"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003174100",
+    "name": "Nivea Tagespflege Anti-Falten + Kontur / 65+ 50ml",
+    "category": "Gesichtspflege",
+    "subcategories": ["Tagescreme"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002115203",
+    "name": "Nivea Tagespflege Anti-Falten + Vitalität 55+ 50ml",
+    "category": "Gesichtspflege",
+    "subcategories": ["Tagescreme"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004184009",
+    "name": "Nivea Tagespflege Vital 50ml",
+    "category": "Gesichtspflege",
+    "subcategories": ["Tagescreme"]
+  },
+  {
+    "store": "spar",
+    "id": "5365463",
+    "name": "Nivea Verwöhnende Soft Milk 400ml",
+    "category": "Körperpflege",
+    "subcategories": ["Körperlotion"]
+  },
+  {
+    "store": "spar",
+    "id": "2002811",
+    "name": "Nivea Verwöhnende Soft Milk 625ml",
+    "category": "Körperpflege",
+    "subcategories": ["Körperlotion"]
+  },
+  {
+    "store": "spar",
+    "id": "7637186",
+    "name": "Nivea Visage Augen Make-Up Entfern. Double Effect 125ml",
+    "category": "Gesichtspflege",
+    "subcategories": ["Augen Make-Up Entferner"]
+  },
+  {
+    "store": "spar",
+    "id": "4217329",
+    "name": "Nivea Visage Clear-Up Strips Normale & Mischhaut 6 Stück",
+    "category": "Gesichtspflege",
+    "subcategories": ["Clear-Up Strips"]
+  },
+  {
+    "store": "spar",
+    "id": "5030316",
+    "name": "Nivea Visage Gesichtsmaske Honig-Creme 2 x 7,5ml",
+    "category": "Gesichtspflege",
+    "subcategories": ["Gesichtsmaske"]
+  },
+  {
+    "store": "spar",
+    "id": "853781",
+    "name": "Nivea Visage Gesichtswasser trocken&sensibel 200ml",
+    "category": "Gesichtspflege",
+    "subcategories": ["Gesichtswasser"]
+  },
+  {
+    "store": "spar",
+    "id": "971041",
+    "name": "Nivea Vital Anti Falten Nachtpflege 50ml",
+    "category": "Gesichtspflege",
+    "subcategories": ["Nachtpflege"]
+  },
+  {
+    "store": "spar",
+    "id": "971010",
+    "name": "Nivea Vital Anti Falten Tagespflege 50 ml",
+    "category": "Gesichtspflege",
+    "subcategories": ["Tagescreme"]
+  },
+  {
+    "store": "spar",
+    "id": "6422363",
+    "name": "Nivea Vital Soja Anti-Age Serum Reife Haut 40ml",
+    "category": "Gesichtspflege",
+    "subcategories": ["Serum"]
+  },
+  {
+    "store": "spar",
+    "id": "5459933",
+    "name": "Nivea Vital Soja Nachtpflege Anti-Age 50 ml",
+    "category": "Gesichtspflege",
+    "subcategories": ["Nachtpflege"]
+  },
+  {
+    "store": "spar",
+    "id": "4870111",
+    "name": "Nivea Vital Soja Tagespflege Anti-Age LSF15 50ml",
+    "category": "Gesichtspflege",
+    "subcategories": ["Tagescreme"]
+  },
+  {
+    "store": "spar",
+    "id": "8092250",
+    "name": "Nivea Vital Tagespflege Anti-Falten 50 ml",
+    "category": "Gesichtspflege",
+    "subcategories": ["Tagescreme"]
+  },
+  {
+    "store": "spar",
+    "id": "2890487",
+    "name": "Nivea Vital Verwöhnende Reinigungsmilch Reife Haut 200ml",
+    "category": "Gesichtspflege",
+    "subcategories": ["Reinigungsmilch"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003905759",
+    "name": "Nivea Wake-up Gel / Tagespflege Hydra Skin Effect 50ml",
+    "category": "Gesichtspflege",
+    "subcategories": ["Gel-Creme"]
+  },
+  {
+    "store": "spar",
+    "id": "869942",
+    "name": "Nivea Waschcreme pflegend 150ml",
+    "category": "Gesichtspflege",
+    "subcategories": ["Waschcreme"]
+  },
+  {
+    "store": "spar",
+    "id": "5783212",
+    "name": "Ajona Zahncremekonzentrat Stomaticum 25 ml",
+    "category": "Mund- und Zahnpflege",
+    "subcategories": ["Zahncremekonzentrat"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004278036",
+    "name": "Alkmene Antibakterielle Mundspülung Mein Teebaumöl 500ml",
+    "category": "Mund- und Zahnpflege",
+    "subcategories": ["Mundspülung"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004278074",
+    "name": "Alkmene Kariesschutz Zahncreme Mein Teebaumöl / Kräuter 100ml",
+    "category": "Mund- und Zahnpflege",
+    "subcategories": ["Zahncreme"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004278043",
+    "name": "Alkmene Kariesschutz Zahncreme Mein Teebaumöl 100ml",
+    "category": "Mund- und Zahnpflege",
+    "subcategories": ["Zahncreme"]
+  },
+  {
+    "store": "spar",
+    "id": "155496",
+    "name": "Aronal Zahnpasta Zahnfleischschutz 75ml",
+    "category": "Mund- und Zahnpflege",
+    "subcategories": ["Zahnpasta"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003946790",
+    "name": "Bioniq Repair Zahn-Milch 400ml",
+    "category": "Mund- und Zahnpflege",
+    "subcategories": ["Zahn-Milch"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003912597",
+    "name": "Bioniq Repair Zahncreme 75ml",
+    "category": "Mund- und Zahnpflege",
+    "subcategories": ["Zahncreme"]
+  },
+  {
+    "store": "spar",
+    "id": "6943943",
+    "name": "Dr. Best Classic Zahnbürste Hoch-Tief Mittel 1 Stück",
+    "category": "Mund- und Zahnpflege",
+    "subcategories": ["Zahnbürste"]
+  },
+  {
+    "store": "spar",
+    "id": "6943912",
+    "name": "Dr. Best Classic Zahnbürste Hoch-Tief weich 1 Stück",
+    "category": "Mund- und Zahnpflege",
+    "subcategories": ["Zahnbürste"]
+  },
+  {
+    "store": "spar",
+    "id": "7431050",
+    "name": "Dr. Best Classic Zahnbürste Mittel 2+1 Stück",
+    "category": "Mund- und Zahnpflege",
+    "subcategories": ["Zahnbürste"]
+  },
+  {
+    "store": "spar",
+    "id": "545945",
+    "name": "Dr. Best Classic Zahnbürste Original weich 1 Stück",
+    "category": "Mund- und Zahnpflege",
+    "subcategories": ["Zahnbürste"]
+  },
+  {
+    "store": "spar",
+    "id": "213288",
+    "name": "Dr. Best Classic Zahnbürste Schwingkopf mittel 1 Stück",
+    "category": "Mund- und Zahnpflege",
+    "subcategories": ["Zahnbürste"]
+  },
+  {
+    "store": "spar",
+    "id": "208215",
+    "name": "Dr. Best Classic Zahnbürste Schwingkopf weich 1 Stück",
+    "category": "Mund- und Zahnpflege",
+    "subcategories": ["Zahnbürste"]
+  },
+  {
+    "store": "spar",
+    "id": "3166192",
+    "name": "Dr. Best Erste Zähne Kinder-Zahnbürste weich 1 Stück",
+    "category": "Mund- und Zahnpflege",
+    "subcategories": ["Kinder-Zahnbürste"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004423078",
+    "name": "Dr. Best Expert Zahnbürste Green Sensitive / extra weich 1 Stück",
+    "category": "Mund- und Zahnpflege",
+    "subcategories": ["Zahnbürste"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004462626",
+    "name": "Dr. Best Interdentalbürsten Green Clean / ISO-Gr. 0 6 Stück",
+    "category": "Mund- und Zahnpflege",
+    "subcategories": ["Interdentalbürsten"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004462657",
+    "name": "Dr. Best Interdentalbürsten Green Clean / ISO-Gr. 2 6 Stück",
+    "category": "Mund- und Zahnpflege",
+    "subcategories": ["Interdentalbürsten"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004462688",
+    "name": "Dr. Best Interdentalbürsten Green Clean / ISO-Gr. 3 6 Stück",
+    "category": "Mund- und Zahnpflege",
+    "subcategories": ["Interdentalbürsten"]
+  },
+  {
+    "store": "spar",
+    "id": "3166178",
+    "name": "Dr. Best Junior Zahn Kinder-Zahnbürste weich 1 Stück",
+    "category": "Mund- und Zahnpflege",
+    "subcategories": ["Kinder-Zahnbürste"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002593612",
+    "name": "Dr. Best Kinder-Zahnbürste Paw Patrol™ 3 Stück",
+    "category": "Mund- und Zahnpflege",
+    "subcategories": ["Kinder-Zahnbürste"]
+  },
+  {
+    "store": "spar",
+    "id": "3183427",
+    "name": "Dr. Best Milchzahn Kinderzahnbürste weich 1 Stück",
+    "category": "Mund- und Zahnpflege",
+    "subcategories": ["Kinder-Zahnbürste"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003764899",
+    "name": "Dr. Best Nature Zahnbürtse Bambus Interdent / mittel",
+    "category": "Mund- und Zahnpflege",
+    "subcategories": ["Zahnbürste"]
+  },
+  {
+    "store": "spar",
+    "id": "6943967",
+    "name": "Dr. Best Premium Zahnbürste Interdent aktiv Hart 1 Stück",
+    "category": "Mund- und Zahnpflege",
+    "subcategories": ["Zahnbürste"]
+  },
+  {
+    "store": "spar",
+    "id": "6944056",
+    "name": "Dr. Best Premium Zahnbürste Interdent aktiv Mittel 1 Stück",
+    "category": "Mund- und Zahnpflege",
+    "subcategories": ["Zahnbürste"]
+  },
+  {
+    "store": "spar",
+    "id": "7579158",
+    "name": "Dr. Best Premium Zahnbürste Interdent aktiv Weich 1 Stück",
+    "category": "Mund- und Zahnpflege",
+    "subcategories": ["Zahnbürste"]
+  },
+  {
+    "store": "spar",
+    "id": "7154164",
+    "name": "Dr. Best Premium Zahnbürste X-Zwischenzahn Mittel 1 Stück",
+    "category": "Mund- und Zahnpflege",
+    "subcategories": ["Zahnbürste"]
+  },
+  {
+    "store": "spar",
+    "id": "6584603",
+    "name": "Dr. Best Premium Zahnbürste Zwischenzahn Mittel 1 Stück",
+    "category": "Mund- und Zahnpflege",
+    "subcategories": ["Zahnbürste"]
+  },
+  {
+    "store": "spar",
+    "id": "6584627",
+    "name": "Dr. Best Premium Zahnbürste Zwischenzahn Weich 1 Stück",
+    "category": "Mund- und Zahnpflege",
+    "subcategories": ["Zahnbürste"]
+  },
+  {
+    "store": "spar",
+    "id": "4975014",
+    "name": "Dr. Best Professional Zahnbürste Atemfrisch / Mittel",
+    "category": "Mund- und Zahnpflege",
+    "subcategories": ["Zahnbürste"]
+  },
+  {
+    "store": "spar",
+    "id": "4975052",
+    "name": "Dr. Best Professional Zahnbürste Atemfrisch / Weich",
+    "category": "Mund- und Zahnpflege",
+    "subcategories": ["Zahnbürste"]
+  },
+  {
+    "store": "spar",
+    "id": "2251035",
+    "name": "Dr. Best Professional Zahnbürste Polimed / Mittel",
+    "category": "Mund- und Zahnpflege",
+    "subcategories": ["Zahnbürste"]
+  },
+  {
+    "store": "spar",
+    "id": "2020000661573",
+    "name": "Dr. Best Professional Zahnbürste Polimed / Weich",
+    "category": "Mund- und Zahnpflege",
+    "subcategories": ["Zahnbürste"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001128266",
+    "name": "Dr. Best Vibration Zahnbürste Atemfrisch mittel 1 Stück",
+    "category": "Mund- und Zahnpflege",
+    "subcategories": ["Vibrationszahnbürste"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002736484",
+    "name": "Dr. Best Vibration Zahnbürste Juniorzahn / Weich 1 Stück",
+    "category": "Mund- und Zahnpflege",
+    "subcategories": ["Vibrationszahnbürste"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001187287",
+    "name": "Dr. Best Vibration Zahnbürste Polimed mittel 1 Stück",
+    "category": "Mund- und Zahnpflege",
+    "subcategories": ["Vibrationszahnbürste"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002974060",
+    "name": "Dr. Best Zahnbürste Cool Kids / weich",
+    "category": "Mund- und Zahnpflege",
+    "subcategories": ["Kinder-Zahnbürste"]
+  },
+  {
+    "store": "spar",
+    "id": "4510161",
+    "name": "Dr. Best Zahnbürste Hoch-Tief Hart 1 Stück",
+    "category": "Mund- und Zahnpflege",
+    "subcategories": ["Zahnbürste"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002408688",
+    "name": "Humble Brush Bambus Zahnbürste Adult Medium 1 Stück",
+    "category": "Mund- und Zahnpflege",
+    "subcategories": ["Zahnbürste"]
+  },
+  {
+    "store": "spar",
+    "id": "7578007",
+    "name": "Nenedent Kinderzahncreme 3x Schutz 50 ml",
+    "category": "Mund- und Zahnpflege",
+    "subcategories": ["Kinderzahncreme"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003281594",
+    "name": "Gillette Blue II Einwegrasierer Plus 5+2 Stück",
+    "category": "Körperpflege",
+    "subcategories": ["Einwegrasierer"]
+  },
+  {
+    "store": "spar",
+    "id": "5364336",
+    "name": "Gillette Blue II Einwegrasierer Plus Slalom 10 Stück",
+    "category": "Körperpflege",
+    "subcategories": ["Einwegrasierer"]
+  },
+  {
+    "store": "spar",
+    "id": "1426991",
+    "name": "Gillette Blue3 Einwegrasierer 4+2 Stück",
+    "category": "Körperpflege",
+    "subcategories": ["Einwegrasierer"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002040628",
+    "name": "Gillette Blue3 Rasierklingen 8+4 Stück",
+    "category": "Körperpflege",
+    "subcategories": ["Rasierklingen"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002278861",
+    "name": "Gillette Blue3 Simple Einwegrasierer 4+1 gratis",
+    "category": "Körperpflege",
+    "subcategories": ["Einwegrasierer"]
+  },
+  {
+    "store": "spar",
+    "id": "3357675",
+    "name": "Gillette Contour Plus Rasierklingen Comfort Blades 10 Stück",
+    "category": "Körperpflege",
+    "subcategories": ["Rasierklingen"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004250445",
+    "name": "Gillette Ersatzklingen Labs 4 Stück",
+    "category": "Körperpflege",
+    "subcategories": ["Rasierklingen"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004250469",
+    "name": "Gillette Ersatzklingen Labs 6 Stück",
+    "category": "Körperpflege",
+    "subcategories": ["Rasierklingen"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004719324",
+    "name": "Gillette Ersatzklingen Proshield Chill 4 Stück",
+    "category": "Körperpflege",
+    "subcategories": ["Rasierklingen"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004719270",
+    "name": "Gillette Ersatzklingen Proshield Chill 6 Stück",
+    "category": "Körperpflege",
+    "subcategories": ["Rasierklingen"]
+  },
+  {
+    "store": "spar",
+    "id": "1568080",
+    "name": "Gillette Fusion5 Gill.Fus.Progl.Styler Apparat EVE 1",
+    "category": "Körperpflege",
+    "subcategories": ["Rasierer"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001899128",
+    "name": "Gillette Fusion5 Rasierer 1 Stück + 1 Klinge",
+    "category": "Körperpflege",
+    "subcategories": ["Rasierer"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002487423",
+    "name": "Gillette Fusion5 Rasierer Power 1 Stück",
+    "category": "Körperpflege",
+    "subcategories": ["Rasierer"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003179181",
+    "name": "Gillette Fusion5 Rasierer ProGlide 1 Stück",
+    "category": "Körperpflege",
+    "subcategories": ["Rasierer"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002373610",
+    "name": "Gillette Fusion5 Rasiergel Ultra Sensitiv 200ml",
+    "category": "Körperpflege",
+    "subcategories": ["Rasiergel"]
+  },
+  {
+    "store": "spar",
+    "id": "7432217",
+    "name": "Gillette Fusion5 Rasierklingen 12 Stück",
+    "category": "Körperpflege",
+    "subcategories": ["Rasierklingen"]
+  },
+  {
+    "store": "spar",
+    "id": "2020000842781",
+    "name": "Gillette Fusion5 Rasierklingen 14 Stück",
+    "category": "Körperpflege",
+    "subcategories": ["Rasierklingen"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003818158",
+    "name": "Gillette Fusion5 Rasierklingen 4 Stück",
+    "category": "Körperpflege",
+    "subcategories": ["Rasierklingen"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003974380",
+    "name": "Gillette Fusion5 Rasierklingen 8 + 2 Stück",
+    "category": "Körperpflege",
+    "subcategories": ["Rasierklingen"]
+  },
+  {
+    "store": "spar",
+    "id": "7463570",
+    "name": "Gillette Fusion5 Rasierklingen 8 Stück",
+    "category": "Körperpflege",
+    "subcategories": ["Rasierklingen"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003818141",
+    "name": "Gillette Fusion5 Rasierklingen Power 4 Stück",
+    "category": "Körperpflege",
+    "subcategories": ["Rasierklingen"]
+  },
+  {
+    "store": "spar",
+    "id": "7690723",
+    "name": "Gillette Fusion5 Rasierklingen ProGlide Power 4 Stück",
+    "category": "Körperpflege",
+    "subcategories": ["Rasierklingen"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003391248",
+    "name": "Gillette Mach3 Ersatzklingen 18 Stück",
+    "category": "Körperpflege",
+    "subcategories": ["Rasierklingen"]
+  },
+  {
+    "store": "spar",
+    "id": "1534214",
+    "name": "Gillette Mach3 Rasierer Mach3 +1 Klinge",
+    "category": "Körperpflege",
+    "subcategories": ["Rasierer"]
+  },
+  {
+    "store": "spar",
+    "id": "5246229",
+    "name": "Gillette Mach3 Rasierklingen 12 Stück",
+    "category": "Körperpflege",
+    "subcategories": ["Rasierklingen"]
+  },
+  {
+    "store": "spar",
+    "id": "7429132",
+    "name": "Gillette Mach3 Rasierklingen 6 Stück",
+    "category": "Körperpflege",
+    "subcategories": ["Rasierklingen"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003974366",
+    "name": "Gillette Mach3 Rasierklingen 8 + 2 Stück",
+    "category": "Körperpflege",
+    "subcategories": ["Rasierklingen"]
+  },
+  {
+    "store": "spar",
+    "id": "3203088",
+    "name": "Gillette Mach3 Rasierklingen 8 Stück",
+    "category": "Körperpflege",
+    "subcategories": ["Rasierklingen"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004264718",
+    "name": "Gillette Pro Rasiergel Sensitive 200ml",
+    "category": "Körperpflege",
+    "subcategories": ["Rasiergel"]
+  },
+  {
+    "store": "spar",
+    "id": "6782214",
+    "name": "Gillette Rasierapparat ProGlide Power",
+    "category": "Körperpflege",
+    "subcategories": ["Rasierer"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004250421",
+    "name": "Gillette Rasierer Labs 1 Stück + 1 Klinge",
+    "category": "Körperpflege",
+    "subcategories": ["Rasierer"]
+  },
+  {
+    "store": "spar",
+    "id": "6781439",
+    "name": "Gillette Rasierer ProGlide 1 Stück + 1 Klinge",
+    "category": "Körperpflege",
+    "subcategories": ["Rasierer"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004719218",
+    "name": "Gillette Rasierer Proshield Chill Apparat + 1 Klinge",
+    "category": "Körperpflege",
+    "subcategories": ["Rasierer"]
+  }
+]

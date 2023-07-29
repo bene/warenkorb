@@ -1,0 +1,702 @@
+[
+    {
+        "store": "spar",
+        "id": "2020001987283",
+        "name": "Vileda Microfaser Allzwecktuch XXL 8er 1",
+        "category": "Putzmittel",
+        "subcategories": ["Reinigungstücher", "Allzwecktücher"]
+    },
+    {
+        "store": "spar",
+        "id": "2020004549334",
+        "name": "Vileda Microfaser recycled",
+        "category": "Putzmittel",
+        "subcategories": ["Reinigungstücher", "Allzwecktücher"]
+    },
+    {
+        "store": "spar",
+        "id": "5415595",
+        "name": "Vileda Mocio Soft Wischmop Ersatzkopf Mocio Soft 1 Stk",
+        "category": "Putzmittel",
+        "subcategories": ["Wischmops"]
+    },
+    {
+        "store": "spar",
+        "id": "1369557",
+        "name": "Vileda Mocio Velour-Mop 3D Ersatzkopf Super Mocio",
+        "category": "Putzmittel",
+        "subcategories": ["Wischmops"]
+    },
+    {
+        "store": "spar",
+        "id": "3880678",
+        "name": "Vileda Power Inox Scheuerpad Glitzi 2 Stk",
+        "category": "Putzmittel",
+        "subcategories": ["Scheuerpads"]
+    },
+    {
+        "store": "spar",
+        "id": "2020004114471",
+        "name": "Vileda Schwammtuch 5er",
+        "category": "Putzmittel",
+        "subcategories": ["Reinigungstücher"]
+    },
+    {
+        "store": "spar",
+        "id": "7690044",
+        "name": "Vileda Spülschwamm 2 Schwämme",
+        "category": "Putzmittel",
+        "subcategories": ["Spülschwämme"]
+    },
+    {
+        "store": "spar",
+        "id": "4858867",
+        "name": "Vileda Ultramat Eimer m. Auswringer Ultramat Fassungsvermögen 10 l",
+        "category": "Putzmittel",
+        "subcategories": ["Reinigungsgeräte", "Eimer"]
+    },
+    {
+        "store": "spar",
+        "id": "2020001590902",
+        "name": "Vileda Ultramat Starter Set",
+        "category": "Putzmittel",
+        "subcategories": ["Reinigungsgeräte"]
+    },
+    {
+        "store": "spar",
+        "id": "2020003394621",
+        "name": "Vileda Vileda 1-2 Spray Ersatzbezug",
+        "category": "Putzmittel",
+        "subcategories": ["Ersatzbezüge"]
+    },
+    {
+        "store": "spar",
+        "id": "4858812",
+        "name": "Vileda Wischbezug Ultramat",
+        "category": "Putzmittel",
+        "subcategories": ["Wischbezüge"]
+    },
+    {
+        "store": "spar",
+        "id": "2235004",
+        "name": "Vileda Wischbezug combi Wischmat Combi",
+        "category": "Putzmittel",
+        "subcategories": ["Wischbezüge"]
+    },
+    {
+        "store": "spar",
+        "id": "2234991",
+        "name": "Vileda Wischbezug extra Wischmat Extra",
+        "category": "Putzmittel",
+        "subcategories": ["Wischbezüge"]
+    },
+    {
+        "store": "spar",
+        "id": "2234977",
+        "name": "Vileda Wischmat mit Teleskopstiel Wischmat Extra",
+        "category": "Putzmittel",
+        "subcategories": ["Wischmatten"]
+    },
+    {
+        "store": "spar",
+        "id": "2020003874802",
+        "name": "Tuscany Kosmetiktücher-Box 80 Stück",
+        "category": "Haushaltsartikel",
+        "subcategories": ["Kosmetiktücher"]
+    },
+    {
+        "store": "spar",
+        "id": "2020003483042",
+        "name": "Undercover Brotzeitdose Avengers",
+        "category": "Küchenbedarf",
+        "subcategories": ["Brotzeitdosen"]
+    },
+    {
+        "store": "spar",
+        "id": "2020003483202",
+        "name": "Undercover Brotzeitdose Butterfly",
+        "category": "Küchenbedarf",
+        "subcategories": ["Brotzeitdosen"]
+    },
+    {
+        "store": "spar",
+        "id": "2020003805868",
+        "name": "Undercover Brotzeitdose Cars",
+        "category": "Küchenbedarf",
+        "subcategories": ["Brotzeitdosen"]
+    },
+    {
+        "store": "spar",
+        "id": "2020003483301",
+        "name": "Undercover Brotzeitdose Dragons",
+        "category": "Küchenbedarf",
+        "subcategories": ["Brotzeitdosen"]
+    },
+    {
+        "store": "spar",
+        "id": "2020003805998",
+        "name": "Undercover Brotzeitdose Jurassic World",
+        "category": "Küchenbedarf",
+        "subcategories": ["Brotzeitdosen"]
+    },
+    {
+        "store": "spar",
+        "id": "2020003483370",
+        "name": "Undercover Brotzeitdose Minions",
+        "category": "Küchenbedarf",
+        "subcategories": ["Brotzeitdosen"]
+    },
+    {
+        "store": "spar",
+        "id": "2020003805905",
+        "name": "Undercover Brotzeitdose Peppa Pig",
+        "category": "Küchenbedarf",
+        "subcategories": ["Brotzeitdosen"]
+    },
+    {
+        "store": "spar",
+        "id": "2020003805943",
+        "name": "Undercover Brotzeitdose Spider Man",
+        "category": "Küchenbedarf",
+        "subcategories": ["Brotzeitdosen"]
+    },
+    {
+        "store": "spar",
+        "id": "2020003483134",
+        "name": "Undercover Brotzeitdose Spider-Man",
+        "category": "Küchenbedarf",
+        "subcategories": ["Brotzeitdosen"]
+    },
+    {
+        "store": "spar",
+        "id": "2020003483172",
+        "name": "Undercover Brotzeitdose Spirit",
+        "category": "Küchenbedarf",
+        "subcategories": ["Brotzeitdosen"]
+    },
+    {
+        "store": "spar",
+        "id": "1376890",
+        "name": "Vandal Ameisen-Frühstück mit Honig",
+        "category": "Insektizide",
+        "subcategories": ["Ameisenköder"]
+    },
+    {
+        "store": "spar",
+        "id": "5322817",
+        "name": "Vandal Ameisen-Kombiköder 2 Stück",
+        "category": "Insektizide",
+        "subcategories": ["Ameisenköder"]
+    },
+    {
+        "store": "spar",
+        "id": "6774202",
+        "name": "Vandal Ameisen-Power-Spray 500ml",
+        "category": "Insektizide",
+        "subcategories": ["Ameisenspray"]
+    },
+    {
+        "store": "spar",
+        "id": "366014",
+        "name": "Vandal Ameisen-Spray 300ml",
+        "category": "Insektizide",
+        "subcategories": ["Ameisenspray"]
+    },
+    {
+        "store": "spar",
+        "id": "2020002481339",
+        "name": "Vandal Ameisenfalle",
+        "category": "Insektizide",
+        "subcategories": ["Ameisenfallen"]
+    },
+    {
+        "store": "spar",
+        "id": "6774356",
+        "name": "Vandal Blütenduft Mottenschutz 10 Duftblätter",
+        "category": "Insektizide",
+        "subcategories": ["Mottenschutzmittel"]
+    },
+    {
+        "store": "spar",
+        "id": "4979685",
+        "name": "Vandal Blütenfrisch Mottenkissen 3 Stück",
+        "category": "Insektizide",
+        "subcategories": ["Mottenschutzmittel"]
+    },
+    {
+        "store": "spar",
+        "id": "2020003328343",
+        "name": "Vandal Duftkugeln",
+        "category": "Insektizide",
+        "subcategories": ["Lufterfrischer"]
+    },
+    {
+        "store": "spar",
+        "id": "3548806",
+        "name": "Vandal Fliegenblumen Sommerwiese 10 Stück",
+        "category": "Insektizide",
+        "subcategories": ["Fliegenfänger"]
+    },
+    {
+        "store": "spar",
+        "id": "1376678",
+        "name": "Vandal Fliegenfänger 4 Stück",
+        "category": "Insektizide",
+        "subcategories": ["Fliegenfänger"]
+    },
+    {
+        "store": "spar",
+        "id": "72267",
+        "name": "Vandal Fliegenklatschen aus Kunststoff",
+        "category": "Insektizide",
+        "subcategories": ["Fliegenklatschen"]
+    },
+    {
+        "store": "spar",
+        "id": "7245503",
+        "name": "Vandal Frucht-Fliegenfalle",
+        "category": "Insektizide",
+        "subcategories": ["Fliegenfallen"]
+    },
+    {
+        "store": "spar",
+        "id": "2020001816644",
+        "name": "Vandal Gelsenspirale 10 Stück",
+        "category": "Insektizide",
+        "subcategories": ["Gelsenspiralen"]
+    },
+    {
+        "store": "spar",
+        "id": "387637",
+        "name": "Vandal Gelsenstecker 60 Stück",
+        "category": "Insektizide",
+        "subcategories": ["Gelsenstecker"]
+    },
+    {
+        "store": "spar",
+        "id": "365901",
+        "name": "Vandal Gelsenstopp Nachfüllung",
+        "category": "Insektizide",
+        "subcategories": ["Gelsenstecker"]
+    },
+    {
+        "store": "spar",
+        "id": "387149",
+        "name": "Vandal Insektenspray 400 ml 400 ml",
+        "category": "Insektizide",
+        "subcategories": ["Insektenspray"]
+    },
+    {
+        "store": "spar",
+        "id": "3024782",
+        "name": "Vandal Kleider-Mottenfalle",
+        "category": "Insektizide",
+        "subcategories": ["Mottenfallen"]
+    },
+    {
+        "store": "spar",
+        "id": "363853",
+        "name": "Vandal Kombi-Gelsenstecker",
+        "category": "Insektizide",
+        "subcategories": ["Gelsenstecker"]
+    },
+    {
+        "store": "spar",
+        "id": "5667451",
+        "name": "Vandal Langzeitspray 300 ml",
+        "category": "Insektizide",
+        "subcategories": ["Sprays"]
+    },
+    {
+        "store": "spar",
+        "id": "1376852",
+        "name": "Vandal Lavendelduft Mottenschutz 10 Stück",
+        "category": "Insektizide",
+        "subcategories": ["Mottenschutzmittel"]
+    },
+    {
+        "store": "spar",
+        "id": "629348",
+        "name": "Vandal Lebensmittel Mottenfalle 1 Stück",
+        "category": "Insektizide",
+        "subcategories": ["Mottenfallen"]
+    },
+    {
+        "store": "spar",
+        "id": "1376845",
+        "name": "Vandal Lebensmittel-Mottenfalle Doppelpackung",
+        "category": "Insektizide",
+        "subcategories": ["Mottenfallen"]
+    },
+    {
+        "store": "spar",
+        "id": "3969564",
+        "name": "Vandal Mottenhänger 2 Streifen",
+        "category": "Insektizide",
+        "subcategories": ["Mottenfallen"]
+    },
+    {
+        "store": "spar",
+        "id": "258654",
+        "name": "Vandal Nachfüll-Plättchen für Gelsenstecker 20 Stück",
+        "category": "Insektizide",
+        "subcategories": ["Gelsenstecker"]
+    },
+    {
+        "store": "spar",
+        "id": "1376739",
+        "name": "Vandal Natur Pyrethrum Spray 400ml",
+        "category": "Insektizide",
+        "subcategories": ["Insektenspray"]
+    },
+    {
+        "store": "spar",
+        "id": "2793740",
+        "name": "Vandal Natur-Kräuterkissen gegen Motten 10 Stück",
+        "category": "Insektizide",
+        "subcategories": ["Mottenschutzmittel"]
+    },
+    {
+        "store": "spar",
+        "id": "6396985",
+        "name": "Vandal Outdoor Gelsen Spray 400ml",
+        "category": "Insektizide",
+        "subcategories": ["Gelsensprays"]
+    },
+    {
+        "store": "spar",
+        "id": "6396916",
+        "name": "Vandal Power Fliegenfänger 3 Stück",
+        "category": "Insektizide",
+        "subcategories": ["Fliegenfänger"]
+    },
+    {
+        "store": "spar",
+        "id": "7752261",
+        "name": "Vandal Power Fliegenstift",
+        "category": "Insektizide",
+        "subcategories": ["Fliegenfallen"]
+    },
+    {
+        "store": "spar",
+        "id": "6194802",
+        "name": "Vandal Ungeziefer Köderbox 3 Stück",
+        "category": "Insektizide",
+        "subcategories": ["Ungezieferbekämpfung"]
+    },
+    {
+        "store": "spar",
+        "id": "6397067",
+        "name": "Vandal Wespen-Spray 400ml",
+        "category": "Insektizide",
+        "subcategories": ["Wespenspray"]
+    },
+    {
+        "store": "spar",
+        "id": "2020003520617",
+        "name": "Vandini Geschenkset Laterne Vitality",
+        "category": "Geschenkartikel",
+        "subcategories": ["Geschenksets"]
+    },
+    {
+        "store": "spar",
+        "id": "2020004310941",
+        "name": "Vandini Geschenkset Nutri",
+        "category": "Geschenkartikel",
+        "subcategories": ["Geschenksets"]
+    },
+    {
+        "store": "spar",
+        "id": "2020003109775",
+        "name": "Vandini Geschenkset mit Tasse Hydro",
+        "category": "Geschenkartikel",
+        "subcategories": ["Geschenksets"]
+    },
+    {
+        "store": "spar",
+        "id": "2020001808595",
+        "name": "Vita Coco Coconut Water 100% Kokoswasser",
+        "category": "Getränke",
+        "subcategories": ["Kokoswasser"]
+    },
+    {
+        "store": "spar",
+        "id": "2020004694683",
+        "name": "Vitamizu LOL Surprise! Cherry",
+        "category": "Getränke",
+        "subcategories": ["Fruchtsäfte"]
+    },
+    {
+        "store": "spar",
+        "id": "808620",
+        "name": "Villacher Märzen Märzen",
+        "category": "Getränke",
+        "subcategories": ["Biere"]
+    },
+    {
+        "store": "spar",
+        "id": "4013020",
+        "name": "Villa Ilona Blush",
+        "category": "Getränke",
+        "subcategories": ["Weine"]
+    },
+    {
+        "store": "spar",
+        "id": "2020001708390",
+        "name": "Villa Ilona Erfrischend Fruchtig pink",
+        "category": "Getränke",
+        "subcategories": ["Alkoholfreie Getränke", "Erfrischungsgetränke"]
+    },
+    {
+        "store": "spar",
+        "id": "2020001708437",
+        "name": "Villa Ilona Erfrischend Fruchtig weiß",
+        "category": "Getränke",
+        "subcategories": ["Alkoholfreie Getränke", "Erfrischungsgetränke"]
+    },
+    {
+        "store": "spar",
+        "id": "2020002974565",
+        "name": "Villa Ilona Grauburgunder 2021",
+        "category": "Getränke",
+        "subcategories": ["Weine", "Weißweine"]
+    },
+    {
+        "store": "spar",
+        "id": "2192451",
+        "name": "Villa Ilona Grüner Veltliner 2021",
+        "category": "Getränke",
+        "subcategories": ["Weine", "Weißweine"]
+    },
+    {
+        "store": "spar",
+        "id": "1402421",
+        "name": "Villa Ilona Muskat Ottonel lieblich 2022",
+        "category": "Getränke",
+        "subcategories": ["Weine", "Weißweine"]
+    },
+    {
+        "store": "spar",
+        "id": "2020000757825",
+        "name": "Villa Maria Pinot Noir Private Bin 2018",
+        "category": "Getränke",
+        "subcategories": ["Weine", "Rotweine"]
+    },
+    {
+        "store": "spar",
+        "id": "2020000735304",
+        "name": "Villa Maria Sauvignon Blanc Privat Bin 2022",
+        "category": "Getränke",
+        "subcategories": ["Weine", "Weißweine"]
+    },
+    {
+        "store": "spar",
+        "id": "2020004210739",
+        "name": "Vintonic Roséwein & Tonic",
+        "category": "Getränke",
+        "subcategories": ["Weine", "Roséweine"]
+    },
+    {
+        "store": "spar",
+        "id": "2020003577437",
+        "name": "Vintonic Wein & Tonic",
+        "category": "Getränke",
+        "subcategories": ["Weine"]
+    },
+    {
+        "store": "spar",
+        "id": "2020003905070",
+        "name": "Vintonic Wein & Tonic",
+        "category": "Getränke",
+        "subcategories": ["Weine"]
+    },
+    {
+        "store": "spar",
+        "id": "2020004124234",
+        "name": "Vitamin Well Antioxidant Pfirsich Geschmack",
+        "category": "Getränke",
+        "subcategories": ["Vitaminwasser"]
+    },
+    {
+        "store": "spar",
+        "id": "2020004502018",
+        "name": "Vitamin Well React",
+        "category": "Getränke",
+        "subcategories": ["Vitaminwasser"]
+    },
+    {
+        "store": "spar",
+        "id": "2020004124180",
+        "name": "Vitamin Well Reload Zitronen-/ Limetten-Geschmack",
+        "category": "Getränke",
+        "subcategories": ["Vitaminwasser"]
+    },
+    {
+        "store": "spar",
+        "id": "2020001370825",
+        "name": "Vitaminka Ajvar scharf",
+        "category": "Lebensmittel",
+        "subcategories": ["Brotaufstriche"]
+    },
+    {
+        "store": "spar",
+        "id": "2020003877179",
+        "name": "Violife Block Mature Cheddar",
+        "category": "Lebensmittel",
+        "subcategories": ["Veganer Käse"]
+    },
+    {
+        "store": "spar",
+        "id": "2020003788222",
+        "name": "Violife Cocospread",
+        "category": "Lebensmittel",
+        "subcategories": ["Brotaufstriche", "Vegane Aufstriche"]
+    },
+    {
+        "store": "spar",
+        "id": "2020004114365",
+        "name": "Violife Creamy Gartenkräuter",
+        "category": "Lebensmittel",
+        "subcategories": ["Veganer Käse"]
+    },
+    {
+        "store": "spar",
+        "id": "2020004666901",
+        "name": "Violife Creamy Gartenkräuter 150g",
+        "category": "Lebensmittel",
+        "subcategories": ["Veganer Käse"]
+    },
+    {
+        "store": "spar",
+        "id": "2020003612374",
+        "name": "Violife Creamy Original",
+        "category": "Lebensmittel",
+        "subcategories": ["Veganer Käse"]
+    },
+    {
+        "store": "spar",
+        "id": "2020004666932",
+        "name": "Violife Creamy Original 150g",
+        "category": "Lebensmittel",
+        "subcategories": ["Veganer Käse"]
+    },
+    {
+        "store": "spar",
+        "id": "2020003612237",
+        "name": "Violife Gerieben Mozzarella Geschmack",
+        "category": "Lebensmittel",
+        "subcategories": ["Veganer Käse"]
+    },
+    {
+        "store": "spar",
+        "id": "2020004695123",
+        "name": "Violife Grill Me Block 160g",
+        "category": "Lebensmittel",
+        "subcategories": ["Veganer Käse"]
+    },
+    {
+        "store": "spar",
+        "id": "2020004409508",
+        "name": "Violife Le Rond",
+        "category": "Lebensmittel",
+        "subcategories": ["Veganer Käse"]
+    },
+    {
+        "store": "spar",
+        "id": "2020003916090",
+        "name": "Violife Scheiben Emmentaler Geschmack",
+        "category": "Lebensmittel",
+        "subcategories": ["Veganer Käse"]
+    },
+    {
+        "store": "spar",
+        "id": "2020003893902",
+        "name": "Violife Scheiben Gereifter Cheddar",
+        "category": "Lebensmittel",
+        "subcategories": ["Veganer Käse"]
+    },
+    {
+        "store": "spar",
+        "id": "2020003612169",
+        "name": "Violife Scheiben Gouda Geschmack",
+        "category": "Lebensmittel",
+        "subcategories": ["Veganer Käse"]
+    },
+    {
+        "store": "spar",
+        "id": "2020004379443",
+        "name": "Violife Vegan Greek White",
+        "category": "Lebensmittel",
+        "subcategories": ["Veganer Käse"]
+    },
+    {
+        "store": "spar",
+        "id": "2020004409478",
+        "name": "Violife Veganer Pizza Mix gerieben",
+        "category": "Lebensmittel",
+        "subcategories": ["Veganer Käse"]
+    },
+    {
+        "store": "spar",
+        "id": "2020004430670",
+        "name": "Violife Würzige Scheiben",
+        "category": "Lebensmittel",
+        "subcategories": ["Veganer Käse"]
+    },
+    {
+        "store": "spar",
+        "id": "2020003321757",
+        "name": "Villa Erbse Bio-Cremehonig mit Mohn & Kirsche",
+        "category": "Lebensmittel",
+        "subcategories": ["Honig"]
+    },
+    {
+        "store": "spar",
+        "id": "2020002652302",
+        "name": "Villa Erbse Bio-Cremehonig Cuvée aus Wien und Umgebung",
+        "category": "Lebensmittel",
+        "subcategories": ["Honig"]
+    },
+    {
+        "store": "spar",
+        "id": "2020003321733",
+        "name": "Villa Erbse Bio-Cremehonig Kürbiskern & Vanille",
+        "category": "Lebensmittel",
+        "subcategories": ["Honig"]
+    },
+    {
+        "store": "spar",
+        "id": "2020003321696",
+        "name": "Villa Erbse Bio-Cremehonig Rose & Pfeffer",
+        "category": "Lebensmittel",
+        "subcategories": ["Honig"]
+    },
+    {
+        "store": "spar",
+        "id": "2020003321672",
+        "name": "Villa Erbse Bio-Cremehonig mit Himbeere & Thymian",
+        "category": "Lebensmittel",
+        "subcategories": ["Honig"]
+    },
+    {
+        "store": "spar",
+        "id": "2020001370948",
+        "name": "Vitaminka Ajvar mild",
+        "category": "Lebensmittel",
+        "subcategories": ["Brotaufstriche"]
+    },
+    {
+        "store": "spar",
+        "id": "5419937",
+        "name": "Vionell Intim Waschlotion pH Balance 250 ml",
+        "category": "Hygieneartikel",
+        "subcategories": ["Intimpflege"]
+    },
+    {
+        "store": "spar",
+        "id": "3812471",
+        "name": "Vileda Zimmerbesen classica 1 Stk",
+        "category": "Putzmittel",
+        "subcategories": ["Besen"]
+    }
+]

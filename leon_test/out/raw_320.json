@@ -1,0 +1,702 @@
+[
+    {
+        "store": "spar",
+        "id": "4258384",
+        "name": "Chio Dip Hot Salsa",
+        "category": "Snacks",
+        "subcategories": ["Chips", "Dip"]
+    },
+    {
+        "store": "spar",
+        "id": "2020004435132",
+        "name": "Chio Tortillas Mexican BBQ Style",
+        "category": "Snacks",
+        "subcategories": ["Chips", "Tortillas"]
+    },
+    {
+        "store": "spar",
+        "id": "4258377",
+        "name": "Chio Tortillas Hot Chili",
+        "category": "Snacks",
+        "subcategories": ["Chips", "Tortillas"]
+    },
+    {
+        "store": "spar",
+        "id": "4707097",
+        "name": "Chio Tortillas Nacho Cheese",
+        "category": "Snacks",
+        "subcategories": ["Chips", "Tortillas"]
+    },
+    {
+        "store": "spar",
+        "id": "4258353",
+        "name": "Chio Tortillas Salted",
+        "category": "Snacks",
+        "subcategories": ["Chips", "Tortillas"]
+    },
+    {
+        "store": "spar",
+        "id": "2020004106599",
+        "name": "Bonne Maman Tartlette Caramel",
+        "category": "Lebensmittel",
+        "subcategories": ["Gebäck"]
+    },
+    {
+        "store": "spar",
+        "id": "2020004106919",
+        "name": "Bonne Maman Tartlette Citron",
+        "category": "Lebensmittel",
+        "subcategories": ["Gebäck"]
+    },
+    {
+        "store": "spar",
+        "id": "2378558",
+        "name": "Bonollo Black",
+        "category": "Spirituosen",
+        "subcategories": ["Grappa"]
+    },
+    {
+        "store": "spar",
+        "id": "4457688",
+        "name": "Bonollo Grappa di Amarone",
+        "category": "Spirituosen",
+        "subcategories": ["Grappa"]
+    },
+    {
+        "store": "spar",
+        "id": "4457541",
+        "name": "Bonollo Grappa di Chianti",
+        "category": "Spirituosen",
+        "subcategories": ["Grappa"]
+    },
+    {
+        "store": "spar",
+        "id": "4457596",
+        "name": "Bonollo Grappa di Prosecco",
+        "category": "Spirituosen",
+        "subcategories": ["Grappa"]
+    },
+    {
+        "store": "spar",
+        "id": "2020004313041",
+        "name": "Bordeaux Family Vineyrds Collection in 3er Holzkiste",
+        "category": "Wein",
+        "subcategories": ["Rotwein", "Kollektion"]
+    },
+    {
+        "store": "spar",
+        "id": "2020002619473",
+        "name": "Bordeaux Grand Châteaux Collection \"Les Médailles\" Prestige",
+        "category": "Wein",
+        "subcategories": ["Rotwein", "Kollektion"]
+    },
+    {
+        "store": "spar",
+        "id": "2020002932220",
+        "name": "Bonta Divina Panna Cotta Himbeer 2x110g",
+        "category": "Lebensmittel",
+        "subcategories": ["Dessert"]
+    },
+    {
+        "store": "spar",
+        "id": "3274798",
+        "name": "Bonta Divina Profiteroles",
+        "category": "Lebensmittel",
+        "subcategories": ["Dessert"]
+    },
+    {
+        "store": "spar",
+        "id": "7511967",
+        "name": "Bonta Divina Profiteroles 2 x 90g",
+        "category": "Lebensmittel",
+        "subcategories": ["Dessert"]
+    },
+    {
+        "store": "spar",
+        "id": "7512018",
+        "name": "Bonta Divina Tartufo 2 x 90g",
+        "category": "Lebensmittel",
+        "subcategories": ["Dessert"]
+    },
+    {
+        "store": "spar",
+        "id": "3274781",
+        "name": "Bonta Divina Tiramisu",
+        "category": "Lebensmittel",
+        "subcategories": ["Dessert"]
+    },
+    {
+        "store": "spar",
+        "id": "7511998",
+        "name": "Bonta Divina Tiramisu 2 x 90g",
+        "category": "Lebensmittel",
+        "subcategories": ["Dessert"]
+    },
+    {
+        "store": "spar",
+        "id": "2020004496997",
+        "name": "Bio-Aufstrich Rote Rübe - Kren 180g 180 G",
+        "category": "Lebensmittel",
+        "subcategories": ["Aufstrich"]
+    },
+    {
+        "store": "spar",
+        "id": "2020004497048",
+        "name": "Bio-Aufstrich Tomate - Zitrone 180g 180 G",
+        "category": "Lebensmittel",
+        "subcategories": ["Aufstrich"]
+    },
+    {
+        "store": "spar",
+        "id": "6868277",
+        "name": "Bio-Bandnudeln bunt 300 G",
+        "category": "Lebensmittel",
+        "subcategories": ["Pasta"]
+    },
+    {
+        "store": "spar",
+        "id": "2020004250131",
+        "name": "Bio-Fruchtpüree Peppa Pig 100G 100 G",
+        "category": "Lebensmittel",
+        "subcategories": ["Fruchtpüree"]
+    },
+    {
+        "store": "spar",
+        "id": "2020003574191",
+        "name": "Bio-Zitronengras 50 G",
+        "category": "Gewürze",
+        "subcategories": ["Kräuter"]
+    },
+    {
+        "store": "spar",
+        "id": "2020004409430",
+        "name": "Bio-Zitronensaft Demeter 250 ML",
+        "category": "Lebensmittel",
+        "subcategories": ["Saft"]
+    },
+    {
+        "store": "spar",
+        "id": "2020004012661",
+        "name": "Biohacks Spirit Mango & Cactus",
+        "category": "Spirituosen",
+        "subcategories": ["Spirit"]
+    },
+    {
+        "store": "spar",
+        "id": "2020004360816",
+        "name": "Biohacks Spirit Peach & Passion",
+        "category": "Spirituosen",
+        "subcategories": ["Spirit"]
+    },
+    {
+        "store": "spar",
+        "id": "5312221",
+        "name": "Biosäfte Schäfer Apfel-Holunderblüten Erfrischungsgetränk",
+        "category": "Getränke",
+        "subcategories": ["Saft", "Erfrischungsgetränk"]
+    },
+    {
+        "store": "spar",
+        "id": "5312542",
+        "name": "Biosäfte Schäfer Bio-Sirup Holunderbeer",
+        "category": "Lebensmittel",
+        "subcategories": ["Sirup"]
+    },
+    {
+        "store": "spar",
+        "id": "5312672",
+        "name": "Biosäfte Schäfer Bio-Sirup Holunderblüten",
+        "category": "Lebensmittel",
+        "subcategories": ["Sirup"]
+    },
+    {
+        "store": "spar",
+        "id": "5311903",
+        "name": "Biosäfte Schäfer Roter Traubensaft",
+        "category": "Getränke",
+        "subcategories": ["Saft", "Traubensaft"]
+    },
+    {
+        "store": "spar",
+        "id": "5312313",
+        "name": "Biosäfte Schäfer Trauben-Holunderbeersaft",
+        "category": "Getränke",
+        "subcategories": ["Saft"]
+    },
+    {
+        "store": "spar",
+        "id": "5312160",
+        "name": "Biosäfte Schäfer Weißer Traubensaft",
+        "category": "Getränke",
+        "subcategories": ["Saft"]
+    },
+    {
+        "store": "spar",
+        "id": "3051375",
+        "name": "Biorebe Blaufränkisch BIO 2020",
+        "category": "Wein",
+        "subcategories": ["Rotwein"]
+    },
+    {
+        "store": "spar",
+        "id": "2020001582389",
+        "name": "Biorebe Chardonnay 2022",
+        "category": "Wein",
+        "subcategories": ["Weißwein"]
+    },
+    {
+        "store": "spar",
+        "id": "2020002478117",
+        "name": "Biorebe Grüner Veltliner",
+        "category": "Wein",
+        "subcategories": ["Weißwein"]
+    },
+    {
+        "store": "spar",
+        "id": "6324223",
+        "name": "Biorebe Grüner Veltliner 2021",
+        "category": "Wein",
+        "subcategories": ["Weißwein"]
+    },
+    {
+        "store": "spar",
+        "id": "4982074",
+        "name": "Biorebe Welschriesling 2022",
+        "category": "Wein",
+        "subcategories": ["Weißwein"]
+    },
+    {
+        "store": "spar",
+        "id": "4982050",
+        "name": "Biorebe Zweigelt 2020",
+        "category": "Wein",
+        "subcategories": ["Rotwein"]
+    },
+    {
+        "store": "spar",
+        "id": "6876388",
+        "name": "Biorebe Zweigelt Rosé 2021",
+        "category": "Wein",
+        "subcategories": ["Roséwein"]
+    },
+    {
+        "store": "spar",
+        "id": "3051634",
+        "name": "Biorebe Zweigelt lieblich BIO 2021",
+        "category": "Wein",
+        "subcategories": ["Rotwein"]
+    },
+    {
+        "store": "spar",
+        "id": "2020001742202",
+        "name": "Bio.k. Gemüse Pastete",
+        "category": "Lebensmittel",
+        "subcategories": ["Pastete", "Gemüse"]
+    },
+    {
+        "store": "spar",
+        "id": "2020002561079",
+        "name": "Bio.k. Grünkern Aufstrich Grünkern",
+        "category": "Lebensmittel",
+        "subcategories": ["Aufstrich"]
+    },
+    {
+        "store": "spar",
+        "id": "2020001742042",
+        "name": "Bio.k. Tomate Basilikum Aufstrich",
+        "category": "Lebensmittel",
+        "subcategories": ["Aufstrich"]
+    },
+    {
+        "store": "spar",
+        "id": "2020003960024",
+        "name": "Bio-Miso rot 200g 200 G",
+        "category": "Lebensmittel",
+        "subcategories": ["Miso"]
+    },
+    {
+        "store": "spar",
+        "id": "2020003959943",
+        "name": "Bio-Miso weiß 200g 200 G",
+        "category": "Lebensmittel",
+        "subcategories": ["Miso"]
+    },
+    {
+        "store": "spar",
+        "id": "2020003166822",
+        "name": "BioArt BBQ mild Gewürz 26g",
+        "category": "Gewürze",
+        "subcategories": ["Grillgewürz"]
+    },
+    {
+        "store": "spar",
+        "id": "2020003841422",
+        "name": "BioArt Bio-Ceylon Zimtstangen 20g",
+        "category": "Gewürze",
+        "subcategories": ["Zimt"]
+    },
+    {
+        "store": "spar",
+        "id": "2020003841620",
+        "name": "BioArt Bio-Muskatnuss gemahlen 40g",
+        "category": "Gewürze",
+        "subcategories": ["Muskatnuss"]
+    },
+    {
+        "store": "spar",
+        "id": "2020003841682",
+        "name": "BioArt Bio-Pfeffer scharz gemahlen Malabar 40g",
+        "category": "Gewürze",
+        "subcategories": ["Pfeffer"]
+    },
+    {
+        "store": "spar",
+        "id": "2020003841569",
+        "name": "BioArt Bio-Pfeffer schwarz ganz Malabar 40g",
+        "category": "Gewürze",
+        "subcategories": ["Pfeffer"]
+    },
+    {
+        "store": "spar",
+        "id": "2020003841590",
+        "name": "BioArt Bio-Pfeffer schwarz ganz Tellicherry 40g",
+        "category": "Gewürze",
+        "subcategories": ["Pfeffer"]
+    },
+    {
+        "store": "spar",
+        "id": "2020003841538",
+        "name": "BioArt Bio-Pfeffer weiß ganz Malabar 40g",
+        "category": "Gewürze",
+        "subcategories": ["Pfeffer"]
+    },
+    {
+        "store": "spar",
+        "id": "2020003841514",
+        "name": "BioArt Bio-Zitronengras geschnitten 20g",
+        "category": "Gewürze",
+        "subcategories": ["Kräuter"]
+    },
+    {
+        "store": "spar",
+        "id": "2020003166594",
+        "name": "BioArt Bosnagewürz 30g",
+        "category": "Gewürze",
+        "subcategories": ["Gewürzmischung"]
+    },
+    {
+        "store": "spar",
+        "id": "2020003166617",
+        "name": "BioArt Braterdäpfelgewürz 37g",
+        "category": "Gewürze",
+        "subcategories": ["Gewürzmischung"]
+    },
+    {
+        "store": "spar",
+        "id": "2020003166549",
+        "name": "BioArt Brathendlgewürz 40g",
+        "category": "Gewürze",
+        "subcategories": ["Gewürzmischung"]
+    },
+    {
+        "store": "spar",
+        "id": "2020003167256",
+        "name": "BioArt Brotgewürz 30g",
+        "category": "Gewürze",
+        "subcategories": ["Gewürzmischung"]
+    },
+    {
+        "store": "spar",
+        "id": "2020003167270",
+        "name": "BioArt Fischgewürz 35g",
+        "category": "Gewürze",
+        "subcategories": ["Gewürzmischung"]
+    },
+    {
+        "store": "spar",
+        "id": "2020003167188",
+        "name": "BioArt Fleischkrapferlgewürz 25g",
+        "category": "Gewürze",
+        "subcategories": ["Gewürzmischung"]
+    },
+    {
+        "store": "spar",
+        "id": "2020003167409",
+        "name": "BioArt Gemüsebrühe Würzmischung 65g",
+        "category": "Gewürze",
+        "subcategories": ["Gemüsebrühe"]
+    },
+    {
+        "store": "spar",
+        "id": "2020003167041",
+        "name": "BioArt Grill- & Pfannenmixgewürz 32g",
+        "category": "Gewürze",
+        "subcategories": ["Grillgewürz"]
+    },
+    {
+        "store": "spar",
+        "id": "2020003841583",
+        "name": "BioArt Ingwer gemahlen 30g",
+        "category": "Gewürze",
+        "subcategories": ["Ingwer"]
+    },
+    {
+        "store": "spar",
+        "id": "2020003841507",
+        "name": "BioArt Kurkuma gemahlen 30g",
+        "category": "Gewürze",
+        "subcategories": ["Kurkuma"]
+    },
+    {
+        "store": "spar",
+        "id": "2020003841644",
+        "name": "BioArt Malabar Bio-Pfeffer schwarz, zerstoßen 40g",
+        "category": "Gewürze",
+        "subcategories": ["Pfeffer"]
+    },
+    {
+        "store": "spar",
+        "id": "2020003841705",
+        "name": "BioArt Muskatblüte 20g",
+        "category": "Gewürze",
+        "subcategories": ["Muskatnuss"]
+    },
+    {
+        "store": "spar",
+        "id": "2020003841699",
+        "name": "BioArt Muskatnuss ganz 30g",
+        "category": "Gewürze",
+        "subcategories": ["Muskatnuss"]
+    },
+    {
+        "store": "spar",
+        "id": "2020003841613",
+        "name": "BioArt Nelken ganz 20g",
+        "category": "Gewürze",
+        "subcategories": ["Nelken"]
+    },
+    {
+        "store": "spar",
+        "id": "2020003841392",
+        "name": "BioArt Nelken gemahlen 40g",
+        "category": "Gewürze",
+        "subcategories": ["Nelken"]
+    },
+    {
+        "store": "spar",
+        "id": "2020003166914",
+        "name": "BioArt Nudel- & Pastagewürz 12g",
+        "category": "Gewürze",
+        "subcategories": ["Gewürzmischung"]
+    },
+    {
+        "store": "spar",
+        "id": "2020003166365",
+        "name": "BioArt Schweinsbratengewürz 35g",
+        "category": "Gewürze",
+        "subcategories": ["Gewürzmischung"]
+    },
+    {
+        "store": "spar",
+        "id": "2020003166952",
+        "name": "BioArt Steakgewürz 36g",
+        "category": "Gewürze",
+        "subcategories": ["Gewürzmischung"]
+    },
+    {
+        "store": "spar",
+        "id": "2020003841668",
+        "name": "BioArt Zimt gemahlen 30g",
+        "category": "Gewürze",
+        "subcategories": ["Zimt"]
+    },
+    {
+        "store": "spar",
+        "id": "2020003636455",
+        "name": "BioArt Mehl Dinkel Vollkorn 1kg",
+        "category": "Lebensmittel",
+        "subcategories": ["Mehl"]
+    },
+    {
+        "store": "spar",
+        "id": "2020003636264",
+        "name": "BioArt Mehl Roggen Vollkorn",
+        "category": "Lebensmittel",
+        "subcategories": ["Mehl"]
+    },
+    {
+        "store": "spar",
+        "id": "2020003636400",
+        "name": "BioArt Mehl Weizen Vollkorn",
+        "category": "Lebensmittel",
+        "subcategories": ["Mehl"]
+    },
+    {
+        "store": "spar",
+        "id": "2020003987809",
+        "name": "BioArt Curry Ketchup",
+        "category": "Lebensmittel",
+        "subcategories": ["Ketchup"]
+    },
+    {
+        "store": "spar",
+        "id": "2020003987823",
+        "name": "BioArt demeter Bio-Mayonnaise",
+        "category": "Lebensmittel",
+        "subcategories": ["Mayonnaise"]
+    },
+    {
+        "store": "spar",
+        "id": "2020003987786",
+        "name": "BioArt demeter Ketchup Curry",
+        "category": "Lebensmittel",
+        "subcategories": ["Ketchup"]
+    },
+    {
+        "store": "spar",
+        "id": "2020000920243",
+        "name": "Bon Asia Sambal Oelek",
+        "category": "Lebensmittel",
+        "subcategories": ["Saucen"]
+    },
+    {
+        "store": "spar",
+        "id": "2020003401855",
+        "name": "BioArt Bio Basis Müsli",
+        "category": "Lebensmittel",
+        "subcategories": ["Müsli"]
+    },
+    {
+        "store": "spar",
+        "id": "2020003794728",
+        "name": "BioArt Bio Basmatireis weiss",
+        "category": "Lebensmittel",
+        "subcategories": ["Reis"]
+    },
+    {
+        "store": "spar",
+        "id": "2020003401886",
+        "name": "BioArt Bio Hafer Porridge Beeren",
+        "category": "Lebensmittel",
+        "subcategories": ["Hafer", "Porridge"]
+    },
+    {
+        "store": "spar",
+        "id": "2020003401909",
+        "name": "BioArt Bio Hafer Porridge Schokolade",
+        "category": "Lebensmittel",
+        "subcategories": ["Hafer", "Porridge"]
+    },
+    {
+        "store": "spar",
+        "id": "2020003204562",
+        "name": "BioArt Bio-Rohrohrzucker 500G",
+        "category": "Lebensmittel",
+        "subcategories": ["Zucker"]
+    },
+    {
+        "store": "spar",
+        "id": "2020003354304",
+        "name": "BioArt demeter Bio-Datteln entsteint",
+        "category": "Lebensmittel",
+        "subcategories": ["Datteln"]
+    },
+    {
+        "store": "spar",
+        "id": "2020003794780",
+        "name": "BioArt demeter Bio-Langkornreis Bio Langkornreis",
+        "category": "Lebensmittel",
+        "subcategories": ["Reis"]
+    },
+    {
+        "store": "spar",
+        "id": "2020002014414",
+        "name": "Doppelherz A-Z Complete Depot 40 Tabletten",
+        "category": "Gesundheit",
+        "subcategories": ["Vitamine"]
+    },
+    {
+        "store": "spar",
+        "id": "2020002013660",
+        "name": "Doppelherz Abwehr aktiv Zink + Selen + Histidin direct 20 Portionen",
+        "category": "Gesundheit",
+        "subcategories": ["Vitamine"]
+    },
+    {
+        "store": "spar",
+        "id": "8159014",
+        "name": "Doppelherz Augen Extra Tag + Nacht 30 Kapseln",
+        "category": "Gesundheit",
+        "subcategories": ["Nahrungsergänzungsmittel"]
+    },
+    {
+        "store": "spar",
+        "id": "2020002014537",
+        "name": "Doppelherz Augen Vital Sehkraft 30 Kapseln",
+        "category": "Gesundheit",
+        "subcategories": ["Nahrungsergänzungsmittel"]
+    },
+    {
+        "store": "spar",
+        "id": "2020002301941",
+        "name": "Doppelherz Augen-Tropfen Hyaluron 0,2 % 10ML",
+        "category": "Gesundheit",
+        "subcategories": ["Augenpflege"]
+    },
+    {
+        "store": "spar",
+        "id": "2020002014551",
+        "name": "Doppelherz C + Zink + E 400 Depot 40 Tabletten",
+        "category": "Gesundheit",
+        "subcategories": ["Vitamine"]
+    },
+    {
+        "store": "spar",
+        "id": "2020003892066",
+        "name": "Doppelherz Calcium 900 + D3 + Folsäure + Biotin 30 Tabletten",
+        "category": "Gesundheit",
+        "subcategories": ["Vitamine"]
+    },
+    {
+        "store": "spar",
+        "id": "2020002014452",
+        "name": "Doppelherz Coenzym Q10 + B-Vitamine 30 Kapseln",
+        "category": "Gesundheit",
+        "subcategories": ["Nahrungsergänzungsmittel"]
+    },
+    {
+        "store": "spar",
+        "id": "2020002014193",
+        "name": "Doppelherz Cranberry 800 + Kürbis 30 Kapseln",
+        "category": "Gesundheit",
+        "subcategories": ["Nahrungsergänzungsmittel"]
+    },
+    {
+        "store": "spar",
+        "id": "2020003892011",
+        "name": "Doppelherz Curcuma 750 mit Curcumin + Vitamin D3 30 Kapseln",
+        "category": "Gesundheit",
+        "subcategories": ["Nahrungsergänzungsmittel"]
+    },
+    {
+        "store": "spar",
+        "id": "1545159",
+        "name": "Doppelherz Eisen Vital flüssig 500ML",
+        "category": "Gesundheit",
+        "subcategories": ["Nahrungsergänzungsmittel"]
+    },
+    {
+        "store": "spar",
+        "id": "2020002014377",
+        "name": "Doppelherz Eisen-Femin + Folsäure Direct 20 Portionen",
+        "category": "Gesundheit",
+        "subcategories": ["Nahrungsergänzungsmittel"]
+    },
+    {
+        "store": "spar",
+        "id": "2020004215352",
+        "name": "Doppelherz Fett-Binder 40 Kapseln",
+        "category": "Gesundheit",
+        "subcategories": ["Nahrungsergänzungsmittel"]
+    }
+]

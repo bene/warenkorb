@@ -1,0 +1,706 @@
+[
+  {
+    "store": "billa",
+    "id": "00-461791",
+    "name": "Zahel Sauvignon Blanc Kroissberg",
+    "category": "Wein",
+    "subcategories": ["Weißwein", "Sauvignon Blanc", "Trokken"]
+  },
+  {
+    "store": "billa",
+    "id": "00-496470",
+    "name": "Zahel St. Laurent Maurerberg Demeter",
+    "category": "Wein",
+    "subcategories": ["Rotwein", "St. Laurent", "Demeter"]
+  },
+  {
+    "store": "billa",
+    "id": "00-461789",
+    "name": "Zahel Wiener Gemischter Satz DAC",
+    "category": "Wein",
+    "subcategories": ["Weißwein", "Gemischter Satz", "DAC"]
+  },
+  {
+    "store": "billa",
+    "id": "00-446318",
+    "name": "Zantho Sankt Laurent",
+    "category": "Wein",
+    "subcategories": ["Rotwein", "Sankt Laurent"]
+  },
+  {
+    "store": "billa",
+    "id": "00-491127",
+    "name": "Zantho Welschriesling",
+    "category": "Wein",
+    "subcategories": ["Weißwein", "Welschriesling"]
+  },
+  {
+    "store": "billa",
+    "id": "00-446310",
+    "name": "Zantho Zweigelt",
+    "category": "Wein",
+    "subcategories": ["Rotwein", "Zweigelt"]
+  },
+  {
+    "store": "billa",
+    "id": "00-471482",
+    "name": "Zantho Zweigelt Reserve",
+    "category": "Wein",
+    "subcategories": ["Rotwein", "Zweigelt", "Reserve"]
+  },
+  {
+    "store": "billa",
+    "id": "00-654570",
+    "name": "Zdrepceva Krv",
+    "category": "Wein",
+    "subcategories": ["Rotwein", "Zdrepceva Krv"]
+  },
+  {
+    "store": "hofer",
+    "id": 545102,
+    "name": "EMOTION WINE The Sir Cuvee Burgenland 0,75l",
+    "category": "Wein",
+    "subcategories": ["Rotwein", "Cuvee", "Burgenland"]
+  },
+  {
+    "store": "billa",
+    "id": "00-720919",
+    "name": "Clever Urquelle Mineralwasser Prickelnd",
+    "category": "Getränke",
+    "subcategories": ["Mineralwasser", "Prickelnd"]
+  },
+  {
+    "store": "billa",
+    "id": "00-721856",
+    "name": "Frankenmarkter Mineral Still",
+    "category": "Getränke",
+    "subcategories": ["Mineralwasser", "Still"]
+  },
+  {
+    "store": "billa",
+    "id": "00-764679",
+    "name": "Hipp Baby Mineralwasser",
+    "category": "Getränke",
+    "subcategories": ["Mineralwasser", "Baby"]
+  },
+  {
+    "store": "billa",
+    "id": "00-419629",
+    "name": "Johannisbrunnen Prickelnd",
+    "category": "Getränke",
+    "subcategories": ["Mineralwasser", "Prickelnd"]
+  },
+  {
+    "store": "billa",
+    "id": "00-418887",
+    "name": "Lauretana Ohne",
+    "category": "Getränke",
+    "subcategories": ["Mineralwasser", "Ohne"]
+  },
+  {
+    "store": "billa",
+    "id": "00-256390",
+    "name": "Römerquelle Mild",
+    "category": "Getränke",
+    "subcategories": ["Mineralwasser", "Mild"]
+  },
+  {
+    "store": "billa",
+    "id": "00-435128",
+    "name": "Römerquelle Mild",
+    "category": "Getränke",
+    "subcategories": ["Mineralwasser", "Mild"]
+  },
+  {
+    "store": "billa",
+    "id": "00-865292",
+    "name": "Römerquelle Prickelnd",
+    "category": "Getränke",
+    "subcategories": ["Mineralwasser", "Prickelnd"]
+  },
+  {
+    "store": "billa",
+    "id": "00-868034",
+    "name": "Römerquelle Still",
+    "category": "Getränke",
+    "subcategories": ["Mineralwasser", "Still"]
+  },
+  {
+    "store": "billa",
+    "id": "00-779286",
+    "name": "Römerquelle Still",
+    "category": "Getränke",
+    "subcategories": ["Mineralwasser", "Still"]
+  },
+  {
+    "store": "billa",
+    "id": "00-617505",
+    "name": "Voss Sparkling",
+    "category": "Getränke",
+    "subcategories": ["Mineralwasser", "Sparkling"]
+  },
+  {
+    "store": "billa",
+    "id": "00-617504",
+    "name": "Voss Still",
+    "category": "Getränke",
+    "subcategories": ["Mineralwasser", "Still"]
+  },
+  {
+    "store": "billa",
+    "id": "00-315628",
+    "name": "Vöslauer Baby Wasser",
+    "category": "Getränke",
+    "subcategories": ["Mineralwasser", "Baby"]
+  },
+  {
+    "store": "billa",
+    "id": "00-903636",
+    "name": "Vöslauer Ohne",
+    "category": "Getränke",
+    "subcategories": ["Mineralwasser", "Ohne"]
+  },
+  {
+    "store": "billa",
+    "id": "00-469787",
+    "name": "Vöslauer Superprickelnd",
+    "category": "Getränke",
+    "subcategories": ["Mineralwasser", "Superprickelnd"]
+  },
+  {
+    "store": "billa",
+    "id": "00-399015",
+    "name": "BILLA Belugalinsen Salat",
+    "category": "Salat",
+    "subcategories": ["Belugalinsen"]
+  },
+  {
+    "store": "billa",
+    "id": "00-809928",
+    "name": "BILLA Beste Pause Ciabatta Thunfisch und Ei",
+    "category": "Sandwich",
+    "subcategories": ["Ciabatta", "Thunfisch", "Ei"]
+  },
+  {
+    "store": "billa",
+    "id": "00-797673",
+    "name": "BILLA Beste Pause Club Sandwich",
+    "category": "Sandwich",
+    "subcategories": ["Club Sandwich"]
+  },
+  {
+    "store": "billa",
+    "id": "00-773935",
+    "name": "BILLA Beste Pause Ei-Schnittlauch Sandwich",
+    "category": "Sandwich",
+    "subcategories": ["Ei-Schnittlauch"]
+  },
+  {
+    "store": "billa",
+    "id": "00-849761",
+    "name": "BILLA Beste Pause Extrawurst, Eiaufstrich, Schinken-Käse Sandwich Mix",
+    "category": "Sandwich",
+    "subcategories": [
+      "Extrawurst",
+      "Eiaufstrich",
+      "Schinken-Käse"
+    ]
+  },
+  {
+    "store": "billa",
+    "id": "00-933184",
+    "name": "BILLA Beste Pause Falafel & Hummus",
+    "category": "Sandwich",
+    "subcategories": ["Falafel", "Hummus"]
+  },
+  {
+    "store": "billa",
+    "id": "00-359374",
+    "name": "BILLA Beste Pause Kartoffelsalat",
+    "category": "Salat",
+    "subcategories": ["Kartoffelsalat"]
+  },
+  {
+    "store": "billa",
+    "id": "00-256528",
+    "name": "BILLA Beste Pause Mozzarella Sandwich",
+    "category": "Sandwich",
+    "subcategories": ["Mozzarella"]
+  },
+  {
+    "store": "billa",
+    "id": "00-809903",
+    "name": "BILLA Beste Pause Salami Baguette",
+    "category": "Sandwich",
+    "subcategories": ["Salami", "Baguette"]
+  },
+  {
+    "store": "billa",
+    "id": "00-774021",
+    "name": "BILLA Beste Pause Salami-Emmentaler Sandwich",
+    "category": "Sandwich",
+    "subcategories": ["Salami", "Emmentaler"]
+  },
+  {
+    "store": "billa",
+    "id": "00-797665",
+    "name": "BILLA Beste Pause Schinken Ei Sandwich",
+    "category": "Sandwich",
+    "subcategories": ["Schinken", "Ei"]
+  },
+  {
+    "store": "billa",
+    "id": "00-809895",
+    "name": "BILLA Beste Pause Schwarzwälder-Schinken Baguette",
+    "category": "Sandwich",
+    "subcategories": ["Schwarzwälder-Schinken", "Baguette"]
+  },
+  {
+    "store": "billa",
+    "id": "00-773934",
+    "name": "BILLA Beste Pause Thunfisch Sandwich",
+    "category": "Sandwich",
+    "subcategories": ["Thunfisch"]
+  },
+  {
+    "store": "billa",
+    "id": "00-707306",
+    "name": "BILLA Bio Frühlingsrollen",
+    "category": "Snacks",
+    "subcategories": ["Frühlingsrollen", "Bio"]
+  },
+  {
+    "store": "billa",
+    "id": "00-716956",
+    "name": "BILLA Bio Glückssterne",
+    "category": "Snacks",
+    "subcategories": ["Glückssterne", "Bio"]
+  },
+  {
+    "store": "billa",
+    "id": "00-707310",
+    "name": "BILLA Bio Knusperecken",
+    "category": "Snacks",
+    "subcategories": ["Knusperecken", "Bio"]
+  },
+  {
+    "store": "billa",
+    "id": "00-707312",
+    "name": "BILLA Bio Quinoa-Taler",
+    "category": "Snacks",
+    "subcategories": ["Quinoa-Taler", "Bio"]
+  },
+  {
+    "store": "billa",
+    "id": "00-575392",
+    "name": "BILLA Huhn Caesar Salat",
+    "category": "Salat",
+    "subcategories": ["Huhn", "Caesar"]
+  },
+  {
+    "store": "billa",
+    "id": "00-568065",
+    "name": "BILLA Huhn Tex-Mex Pita Roll",
+    "category": "Sandwich",
+    "subcategories": ["Huhn", "Tex-Mex", "Pita"]
+  },
+  {
+    "store": "billa",
+    "id": "00-575402",
+    "name": "BILLA Mediterraner Nudelsalat",
+    "category": "Salat",
+    "subcategories": ["Nudelsalat", "Mediterran"]
+  },
+  {
+    "store": "billa",
+    "id": "00-575396",
+    "name": "BILLA Nudel Thunfisch Salat",
+    "category": "Salat",
+    "subcategories": ["Nudelsalat", "Thunfisch"]
+  },
+  {
+    "store": "billa",
+    "id": "00-499513",
+    "name": "Bali Brunch Chia Snack Hummus & Cranberries",
+    "category": "Snack",
+    "subcategories": ["Chia Snack", "Hummus", "Cranberries"]
+  },
+  {
+    "store": "billa",
+    "id": "00-529559",
+    "name": "Bali Brunch Mango Tango Chia Pudding",
+    "category": "Dessert",
+    "subcategories": ["Mango Tango", "Chia Pudding"]
+  },
+  {
+    "store": "billa",
+    "id": "00-493409",
+    "name": "Bali Brunch Oriental Feel good Bowl",
+    "category": "Dessert",
+    "subcategories": ["Oriental", "Feel good Bowl"]
+  },
+  {
+    "store": "billa",
+    "id": "00-493410",
+    "name": "Bali Brunch Poke Bowl",
+    "category": "Dessert",
+    "subcategories": ["Poke Bowl"]
+  },
+  {
+    "store": "billa",
+    "id": "00-493404",
+    "name": "Bali Brunch Sunrise Wrap",
+    "category": "Dessert",
+    "subcategories": ["Sunrise Wrap"]
+  },
+  {
+    "store": "billa",
+    "id": "00-794819",
+    "name": "Berger Tirolerknödel",
+    "category": "Knödel",
+    "subcategories": ["Tirolerknödel"]
+  },
+  {
+    "store": "billa",
+    "id": "00-398438",
+    "name": "Beyond Meat Beyond Burger",
+    "category": "Fleischersatz",
+    "subcategories": ["Beyond Burger"]
+  },
+  {
+    "store": "billa",
+    "id": "00-481006",
+    "name": "Beyond Meat Beyond Sausage",
+    "category": "Fleischersatz",
+    "subcategories": ["Beyond Sausage"]
+  },
+  {
+    "store": "billa",
+    "id": "00-479967",
+    "name": "Beyond Meat Faschiertes",
+    "category": "Fleischersatz",
+    "subcategories": ["Faschiertes"]
+  },
+  {
+    "store": "billa",
+    "id": "00-567086",
+    "name": "Beyond Meat Meatballs",
+    "category": "Fleischersatz",
+    "subcategories": ["Meatballs"]
+  },
+  {
+    "store": "billa",
+    "id": "00-580964",
+    "name": "Chef Menü  Hühnerfiletstreifen Classic",
+    "category": "Fertiggericht",
+    "subcategories": ["Hühnerfiletstreifen", "Classic"]
+  },
+  {
+    "store": "billa",
+    "id": "00-579230",
+    "name": "Chef Menü Apfelstrudel Mit Vanillesauce",
+    "category": "Dessert",
+    "subcategories": ["Apfelstrudel", "Vanillesauce"]
+  },
+  {
+    "store": "billa",
+    "id": "00-702544",
+    "name": "Chef Menü Cheeseburger",
+    "category": "Burger",
+    "subcategories": ["Cheeseburger"]
+  },
+  {
+    "store": "billa",
+    "id": "00-702548",
+    "name": "Chef Menü Chickenburger",
+    "category": "Burger",
+    "subcategories": ["Chickenburger"]
+  },
+  {
+    "store": "billa",
+    "id": "00-384044",
+    "name": "Chef Menü Gefüllter Paprika",
+    "category": "Fertiggericht",
+    "subcategories": ["Gefüllter Paprika"]
+  },
+  {
+    "store": "billa",
+    "id": "00-580954",
+    "name": "Chef Menü Hühnerfiletstreifen Kräuter",
+    "category": "Fertiggericht",
+    "subcategories": ["Hühnerfiletstreifen", "Kräuter"]
+  },
+  {
+    "store": "billa",
+    "id": "00-244134",
+    "name": "Chef Menü Hühnerfleisch Süss-Sauer",
+    "category": "Fertiggericht",
+    "subcategories": ["Hühnerfleisch", "Süss-Sauer"]
+  },
+  {
+    "store": "billa",
+    "id": "00-913711",
+    "name": "Chef Menü Kalbsbutterschnitzerl",
+    "category": "Fertiggericht",
+    "subcategories": ["Kalbsbutterschnitzerl"]
+  },
+  {
+    "store": "billa",
+    "id": "00-464664",
+    "name": "Chef Menü Krautfleckerl",
+    "category": "Fertiggericht",
+    "subcategories": ["Krautfleckerl"]
+  },
+  {
+    "store": "billa",
+    "id": "00-436017",
+    "name": "Chef Menü Krautsuppe",
+    "category": "Suppe",
+    "subcategories": ["Krautsuppe"]
+  },
+  {
+    "store": "billa",
+    "id": "00-418461",
+    "name": "Chef Menü Kärntner Kasnudeln",
+    "category": "Fertiggericht",
+    "subcategories": ["Kärntner Kasnudeln"]
+  },
+  {
+    "store": "billa",
+    "id": "00-962995",
+    "name": "Chef Menü Maccheroni al Forno",
+    "category": "Fertiggericht",
+    "subcategories": ["Maccheroni al Forno"]
+  },
+  {
+    "store": "billa",
+    "id": "00-572842",
+    "name": "Chef Menü Palatschinken",
+    "category": "Fertiggericht",
+    "subcategories": ["Palatschinken"]
+  },
+  {
+    "store": "billa",
+    "id": "00-244131",
+    "name": "Chef Menü Paprikahendl mit Spätzle",
+    "category": "Fertiggericht",
+    "subcategories": ["Paprikahendl", "Spätzle"]
+  },
+  {
+    "store": "billa",
+    "id": "00-305285",
+    "name": "Chef Menü Reisfleisch mit Hühnerbrustfilet",
+    "category": "Fertiggericht",
+    "subcategories": ["Reisfleisch", "Hühnerbrustfilet"]
+  },
+  {
+    "store": "billa",
+    "id": "00-305284",
+    "name": "Chef Menü Rindsgulasch mit Hörnchen",
+    "category": "Fertiggericht",
+    "subcategories": ["Rindsgulasch", "Hörnchen"]
+  },
+  {
+    "store": "billa",
+    "id": "00-625224",
+    "name": "Chef Menü Schinkenfleckerl",
+    "category": "Fertiggericht",
+    "subcategories": ["Schinkenfleckerl"]
+  },
+  {
+    "store": "billa",
+    "id": "00-588878",
+    "name": "Chef Menü Schokogupf Mit Schokosauce",
+    "category": "Dessert",
+    "subcategories": ["Schokogupf", "Schokosauce"]
+  },
+  {
+    "store": "billa",
+    "id": "00-305265",
+    "name": "Chef Menü Schweinsbraten mit Serviettenknödeln",
+    "category": "Fertiggericht",
+    "subcategories": ["Schweinsbraten", "Serviettenknödel"]
+  },
+  {
+    "store": "billa",
+    "id": "00-890723",
+    "name": "Chef Menü XXL Grenadiermarsch",
+    "category": "Fertiggericht",
+    "subcategories": ["Grenadiermarsch"]
+  },
+  {
+    "store": "billa",
+    "id": "00-276542",
+    "name": "Chef Menü XXL Spaghetti Bolognese",
+    "category": "Fertiggericht",
+    "subcategories": ["Spaghetti Bolognese"]
+  },
+  {
+    "store": "billa",
+    "id": "00-276543",
+    "name": "Chef Menü XXL Spaghetti Carbonara",
+    "category": "Fertiggericht",
+    "subcategories": ["Spaghetti Carbonara"]
+  },
+  {
+    "store": "billa",
+    "id": "00-347096",
+    "name": "Clever Backcamembert",
+    "category": "Käse",
+    "subcategories": ["Backcamembert"]
+  },
+  {
+    "store": "billa",
+    "id": "00-425737",
+    "name": "Clever Backofen-Leberkäse",
+    "category": "Fleisch",
+    "subcategories": ["Backofen-Leberkäse"]
+  },
+  {
+    "store": "billa",
+    "id": "00-561624",
+    "name": "Clever Eierspätzle",
+    "category": "Nudeln",
+    "subcategories": ["Eierspätzle"]
+  },
+  {
+    "store": "billa",
+    "id": "00-324327",
+    "name": "Deli Dip Falafel",
+    "category": "Snacks",
+    "subcategories": ["Falafel"]
+  },
+  {
+    "store": "billa",
+    "id": "00-580685",
+    "name": "Die Grillerei Risoni Salat",
+    "category": "Salat",
+    "subcategories": ["Risoni Salat"]
+  },
+  {
+    "store": "billa",
+    "id": "00-471403",
+    "name": "Garden Gourmet Filet Asian Style",
+    "category": "Fleischersatz",
+    "subcategories": ["Filet", "Asian Style"]
+  },
+  {
+    "store": "billa",
+    "id": "00-891012",
+    "name": "Garden Gourmet Filet Stückchen vegan",
+    "category": "Fleischersatz",
+    "subcategories": ["Filet Stückchen", "vegan"]
+  },
+  {
+    "store": "billa",
+    "id": "00-516416",
+    "name": "Garden Gourmet Schnitzel vegan",
+    "category": "Fleischersatz",
+    "subcategories": ["Schnitzel", "vegan"]
+  },
+  {
+    "store": "billa",
+    "id": "00-388349",
+    "name": "Garden Gourmet Sensational Bratwurst vegan",
+    "category": "Fleischersatz",
+    "subcategories": ["Bratwurst", "vegan"]
+  },
+  {
+    "store": "billa",
+    "id": "00-313186",
+    "name": "Garden Gourmet Sensational Burger vegan",
+    "category": "Fleischersatz",
+    "subcategories": ["Burger", "vegan"]
+  },
+  {
+    "store": "billa",
+    "id": "00-359926",
+    "name": "Garden Gourmet Sensational Faschiertes vegan",
+    "category": "Fleischersatz",
+    "subcategories": ["Faschiertes", "vegan"]
+  },
+  {
+    "store": "billa",
+    "id": "00-714235",
+    "name": "Garden Gourmet Sensational Knusper-Filets",
+    "category": "Fleischersatz",
+    "subcategories": ["Knusper-Filets"]
+  },
+  {
+    "store": "billa",
+    "id": "00-471408",
+    "name": "Garden Gourmet Sensational Thun-Visch",
+    "category": "Fleischersatz",
+    "subcategories": ["Thun-Visch"]
+  },
+  {
+    "store": "billa",
+    "id": "00-323114",
+    "name": "Garden Gourmet Vegane Burger",
+    "category": "Fleischersatz",
+    "subcategories": ["Vegane Burger"]
+  },
+  {
+    "store": "billa",
+    "id": "00-593808",
+    "name": "Garden Gourmet vegane Nuggets",
+    "category": "Fleischersatz",
+    "subcategories": ["vegane Nuggets"]
+  },
+  {
+    "store": "billa",
+    "id": "00-579330",
+    "name": "Habibi & Hawara Bulgur Salat",
+    "category": "Salat",
+    "subcategories": ["Bulgur Salat"]
+  },
+  {
+    "store": "billa",
+    "id": "00-579327",
+    "name": "Habibi & Hawara Couscous Salat mit Hummus",
+    "category": "Salat",
+    "subcategories": ["Couscous Salat", "Hummus"]
+  },
+  {
+    "store": "billa",
+    "id": "00-723375",
+    "name": "Hammermühle Ravioli Spinat und Ricotta Glutenfrei",
+    "category": "Fertiggericht",
+    "subcategories": ["Ravioli", "Spinat", "Ricotta", "Glutenfrei"]
+  },
+  {
+    "store": "billa",
+    "id": "00-723321",
+    "name": "Hammermühle Tortelloni Tomate und Käse Glutenfrei",
+    "category": "Fertiggericht",
+    "subcategories": ["Tortelloni", "Tomate", "Käse", "Glutenfrei"]
+  },
+  {
+    "store": "billa",
+    "id": "00-716916",
+    "name": "Heura Backhendl",
+    "category": "Fleischersatz",
+    "subcategories": ["Backhendl"]
+  },
+  {
+    "store": "billa",
+    "id": "00-714141",
+    "name": "Heura Filetstückchen Mediterran",
+    "category": "Fleischersatz",
+    "subcategories": ["Filetstückchen", "Mediterran"]
+  },
+  {
+    "store": "billa",
+    "id": "00-714139",
+    "name": "Heura Filetstückchen Natur",
+    "category": "Fleischersatz",
+    "subcategories": ["Filetstückchen", "Natur"]
+  },
+  {
+    "store": "billa",
+    "id": "00-716292",
+    "name": "Heura Vegane Nuggets",
+    "category": "Fleischersatz",
+    "subcategories": ["Vegane Nuggets"]
+  }
+]

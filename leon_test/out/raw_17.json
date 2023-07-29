@@ -1,0 +1,702 @@
+[
+    {
+        "store": "billa",
+        "id": "00-285051",
+        "name": "Gösser Naturradler 0.0%",
+        "category": "Bier",
+        "subcategories": ["Radler", "Alkoholfrei"]
+    },
+    {
+        "store": "billa",
+        "id": "00-286239",
+        "name": "Gösser Naturradler Alkoholfrei",
+        "category": "Bier",
+        "subcategories": ["Radler", "Alkoholfrei"]
+    },
+    {
+        "store": "billa",
+        "id": "00-575355",
+        "name": "Gösser Naturradler Extrafrisch",
+        "category": "Bier",
+        "subcategories": ["Radler"]
+    },
+    {
+        "store": "billa",
+        "id": "00-478915",
+        "name": "Gösser Naturradler Himbeere-Rhabarber Alkoholfrei",
+        "category": "Bier",
+        "subcategories": ["Radler", "Alkoholfrei"]
+    },
+    {
+        "store": "billa",
+        "id": "00-602380",
+        "name": "Gösser Naturradler Zitrone",
+        "category": "Bier",
+        "subcategories": ["Radler"]
+    },
+    {
+        "store": "billa",
+        "id": "00-502102",
+        "name": "Gösser Naturradler Zitrone",
+        "category": "Bier",
+        "subcategories": ["Radler"]
+    },
+    {
+        "store": "billa",
+        "id": "00-404888",
+        "name": "Heineken",
+        "category": "Bier",
+        "subcategories": []
+    },
+    {
+        "store": "billa",
+        "id": "00-846342",
+        "name": "Heineken",
+        "category": "Bier",
+        "subcategories": []
+    },
+    {
+        "store": "billa",
+        "id": "00-504572",
+        "name": "Heineken",
+        "category": "Bier",
+        "subcategories": []
+    },
+    {
+        "store": "billa",
+        "id": "00-612614",
+        "name": "Heineken 0.0 Alkoholfrei",
+        "category": "Bier",
+        "subcategories": ["Alkoholfrei"]
+    },
+    {
+        "store": "billa",
+        "id": "00-638170",
+        "name": "Hirter 1270",
+        "category": "Bier",
+        "subcategories": []
+    },
+    {
+        "store": "billa",
+        "id": "00-939099",
+        "name": "Hirter Privat Pils",
+        "category": "Bier",
+        "subcategories": ["Pils"]
+    },
+    {
+        "store": "billa",
+        "id": "00-720201",
+        "name": "Hoegaarden Wit Blanche",
+        "category": "Bier",
+        "subcategories": ["Weizenbier"]
+    },
+    {
+        "store": "billa",
+        "id": "00-316436",
+        "name": "Hollows & Fentimans Ginger Beer",
+        "category": "Bier",
+        "subcategories": ["Ginger Beer"]
+    },
+    {
+        "store": "billa",
+        "id": "00-637136",
+        "name": "Jever Pilsener",
+        "category": "Bier",
+        "subcategories": ["Pils"]
+    },
+    {
+        "store": "billa",
+        "id": "00-404896",
+        "name": "Kaiser Fasstyp",
+        "category": "Bier",
+        "subcategories": []
+    },
+    {
+        "store": "billa",
+        "id": "00-639162",
+        "name": "Kona Big Wave",
+        "category": "Bier",
+        "subcategories": []
+    },
+    {
+        "store": "billa",
+        "id": "00-845143",
+        "name": "Kona Longboard",
+        "category": "Bier",
+        "subcategories": []
+    },
+    {
+        "store": "billa",
+        "id": "00-748801",
+        "name": "Kozel Premium",
+        "category": "Bier",
+        "subcategories": []
+    },
+    {
+        "store": "billa",
+        "id": "00-315147",
+        "name": "La Chouffe Golden Ale",
+        "category": "Bier",
+        "subcategories": ["Ale"]
+    },
+    {
+        "store": "billa",
+        "id": "00-578830",
+        "name": "Lagunitas IPA",
+        "category": "Bier",
+        "subcategories": ["IPA"]
+    },
+    {
+        "store": "billa",
+        "id": "00-400749",
+        "name": "Liefmans Kriek Brut",
+        "category": "Bier",
+        "subcategories": ["Bier mit Kirschgeschmack"]
+    },
+    {
+        "store": "billa",
+        "id": "00-404503",
+        "name": "Loncium Alkoholfreies Pale Ale",
+        "category": "Bier",
+        "subcategories": ["Alkoholfreies Bier", "Pale Ale"]
+    },
+    {
+        "store": "billa",
+        "id": "00-10272",
+        "name": "Löwenbräu Original",
+        "category": "Bier",
+        "subcategories": []
+    },
+    {
+        "store": "billa",
+        "id": "00-419106",
+        "name": "Löwenbräu Weisse",
+        "category": "Bier",
+        "subcategories": []
+    },
+    {
+        "store": "billa",
+        "id": "00-437941",
+        "name": "Murauer Märzen",
+        "category": "Bier",
+        "subcategories": ["Märzen"]
+    },
+    {
+        "store": "billa",
+        "id": "00-654733",
+        "name": "Murauer Preisel & Bier",
+        "category": "Bier",
+        "subcategories": ["Bier mit Preiselbeergeschmack"]
+    },
+    {
+        "store": "billa",
+        "id": "00-299250",
+        "name": "Muttermilch Bitta Von Tresen",
+        "category": "Bier",
+        "subcategories": []
+    },
+    {
+        "store": "billa",
+        "id": "00-878277",
+        "name": "O Hara's Irish Pale Ale",
+        "category": "Bier",
+        "subcategories": ["Irisches Bier", "Pale Ale"]
+    },
+    {
+        "store": "billa",
+        "id": "00-878279",
+        "name": "O Hara's Irish Red Ale",
+        "category": "Bier",
+        "subcategories": ["Irisches Bier", "Red Ale"]
+    },
+    {
+        "store": "billa",
+        "id": "00-315555",
+        "name": "O Hara's Irish Stout",
+        "category": "Bier",
+        "subcategories": ["Irisches Bier", "Stout"]
+    },
+    {
+        "store": "billa",
+        "id": "00-720107",
+        "name": "Ottakringer Bio Zwickl Hell",
+        "category": "Bier",
+        "subcategories": ["Zwicklbier"]
+    },
+    {
+        "store": "billa",
+        "id": "00-359513",
+        "name": "Ottakringer Brauwerk Session I.P.A.",
+        "category": "Bier",
+        "subcategories": ["IPA"]
+    },
+    {
+        "store": "billa",
+        "id": "00-727509",
+        "name": "Ottakringer Citrus Radler",
+        "category": "Bier",
+        "subcategories": ["Radler", "Bier mit Zitrusgeschmack"]
+    },
+    {
+        "store": "billa",
+        "id": "00-11990",
+        "name": "Ottakringer Helles",
+        "category": "Bier",
+        "subcategories": []
+    },
+    {
+        "store": "billa",
+        "id": "00-404570",
+        "name": "Ottakringer Helles",
+        "category": "Bier",
+        "subcategories": []
+    },
+    {
+        "store": "billa",
+        "id": "00-2135",
+        "name": "Ottakringer Helles",
+        "category": "Bier",
+        "subcategories": []
+    },
+    {
+        "store": "billa",
+        "id": "00-23869",
+        "name": "Ottakringer Null Komma Josef",
+        "category": "Bier",
+        "subcategories": ["Alkoholfreies Bier"]
+    },
+    {
+        "store": "billa",
+        "id": "00-627902",
+        "name": "Ottakringer Radler Citrus",
+        "category": "Bier",
+        "subcategories": ["Radler", "Bier mit Zitrusgeschmack"]
+    },
+    {
+        "store": "billa",
+        "id": "00-393228",
+        "name": "Ottakringer Radler Minze Zitrone Alkoholfrei",
+        "category": "Bier",
+        "subcategories": ["Radler", "Alkoholfreies Bier", "Bier mit Minze- und Zitronengeschmack"]
+    },
+    {
+        "store": "billa",
+        "id": "00-720096",
+        "name": "Ottakringer Wassermelonen Radler",
+        "category": "Bier",
+        "subcategories": ["Radler", "Bier mit Wassermelonengeschmack"]
+    },
+    {
+        "store": "billa",
+        "id": "00-284710",
+        "name": "Ottakringer Wiener Gmischtes",
+        "category": "Bier",
+        "subcategories": []
+    },
+    {
+        "store": "billa",
+        "id": "00-350921",
+        "name": "Ottakringer Wiener Original",
+        "category": "Bier",
+        "subcategories": []
+    },
+    {
+        "store": "billa",
+        "id": "00-873274",
+        "name": "Ottakringer Wiener Original",
+        "category": "Bier",
+        "subcategories": []
+    },
+    {
+        "store": "billa",
+        "id": "00-720220",
+        "name": "Peroni Nastro Azzurro",
+        "category": "Bier",
+        "subcategories": []
+    },
+    {
+        "store": "billa",
+        "id": "00-405320",
+        "name": "Pilsner Urquell",
+        "category": "Bier",
+        "subcategories": ["Pils"]
+    },
+    {
+        "store": "billa",
+        "id": "00-432372",
+        "name": "Puntigamer \"Das bierige Bier\"",
+        "category": "Bier",
+        "subcategories": []
+    },
+    {
+        "store": "billa",
+        "id": "00-407579",
+        "name": "Puntigamer \"Das bierige Bier\"",
+        "category": "Bier",
+        "subcategories": []
+    },
+    {
+        "store": "billa",
+        "id": "00-512784",
+        "name": "Rieder I.P.A.",
+        "category": "Bier",
+        "subcategories": ["IPA"]
+    },
+    {
+        "store": "billa",
+        "id": "00-272925",
+        "name": "Samuel Adams Boston Lager",
+        "category": "Bier",
+        "subcategories": []
+    },
+    {
+        "store": "billa",
+        "id": "00-543121",
+        "name": "Schleppe No. 1 Pale Ale",
+        "category": "Bier",
+        "subcategories": ["Pale Ale"]
+    },
+    {
+        "store": "billa",
+        "id": "00-2276",
+        "name": "Schlossgold",
+        "category": "Bier",
+        "subcategories": []
+    },
+    {
+        "store": "billa",
+        "id": "00-690608",
+        "name": "Schremser Bio Naturtrüb",
+        "category": "Bier",
+        "subcategories": ["Bio-Bier"]
+    },
+    {
+        "store": "billa",
+        "id": "00-661335",
+        "name": "Schremser Hanfbier",
+        "category": "Bier",
+        "subcategories": ["Hanfbier"]
+    },
+    {
+        "store": "billa",
+        "id": "00-371068",
+        "name": "Schremser Vienna",
+        "category": "Bier",
+        "subcategories": []
+    },
+    {
+        "store": "billa",
+        "id": "00-575357",
+        "name": "Schwechater Alkoholfrei",
+        "category": "Bier",
+        "subcategories": ["Alkoholfreies Bier"]
+    },
+    {
+        "store": "billa",
+        "id": "00-1782",
+        "name": "Schwechater Bier",
+        "category": "Bier",
+        "subcategories": []
+    },
+    {
+        "store": "billa",
+        "id": "00-962747",
+        "name": "Schwechater Wiener Lager",
+        "category": "Bier",
+        "subcategories": []
+    },
+    {
+        "store": "billa",
+        "id": "00-315143",
+        "name": "Sierra Nevada Pale Ale",
+        "category": "Bier",
+        "subcategories": ["Pale Ale"]
+    },
+    {
+        "store": "billa",
+        "id": "00-317183",
+        "name": "Sierra Nevada Torpedo Extra I.P.A.",
+        "category": "Bier",
+        "subcategories": ["IPA"]
+    },
+    {
+        "store": "billa",
+        "id": "00-336294",
+        "name": "Sol",
+        "category": "Bier",
+        "subcategories": []
+    },
+    {
+        "store": "billa",
+        "id": "00-411133",
+        "name": "Spaten Münchner Hell",
+        "category": "Bier",
+        "subcategories": []
+    },
+    {
+        "store": "billa",
+        "id": "00-575100",
+        "name": "Starobrno Premium Czech Pilsner",
+        "category": "Bier",
+        "subcategories": ["Pils"]
+    },
+    {
+        "store": "billa",
+        "id": "00-612119",
+        "name": "Stella Artois Belgien",
+        "category": "Bier",
+        "subcategories": []
+    },
+    {
+        "store": "billa",
+        "id": "00-521324",
+        "name": "Stiegl Columbus 1492 Pale Ale",
+        "category": "Bier",
+        "subcategories": ["Pale Ale"]
+    },
+    {
+        "store": "billa",
+        "id": "00-424638",
+        "name": "Stiegl Goldbräu",
+        "category": "Bier",
+        "subcategories": []
+    },
+    {
+        "store": "billa",
+        "id": "00-623778",
+        "name": "Stiegl Goldbräu 12er",
+        "category": "Bier",
+        "subcategories": []
+    },
+    {
+        "store": "billa",
+        "id": "00-408994",
+        "name": "Stiegl Hausbier Gipfelstürmer",
+        "category": "Bier",
+        "subcategories": []
+    },
+    {
+        "store": "billa",
+        "id": "00-478549",
+        "name": "Stiegl Hell",
+        "category": "Bier",
+        "subcategories": []
+    },
+    {
+        "store": "billa",
+        "id": "00-488206",
+        "name": "Stiegl Hell",
+        "category": "Bier",
+        "subcategories": []
+    },
+    {
+        "store": "billa",
+        "id": "00-918280",
+        "name": "Stiegl Paracelsus Glutenfrei",
+        "category": "Bier",
+        "subcategories": ["Glutenfreies Bier"]
+    },
+    {
+        "store": "billa",
+        "id": "00-686535",
+        "name": "Stiegl Radler Grapefruit",
+        "category": "Bier",
+        "subcategories": ["Radler", "Bier mit Grapefruitsaft"]
+    },
+    {
+        "store": "billa",
+        "id": "00-686528",
+        "name": "Stiegl Radler Grapefruit",
+        "category": "Bier",
+        "subcategories": ["Radler", "Bier mit Grapefruitsaft"]
+    },
+    {
+        "store": "billa",
+        "id": "00-596572",
+        "name": "Stiegl Zitronen Radler Naturtrüb",
+        "category": "Bier",
+        "subcategories": ["Radler", "Bier mit Zitronensaft"]
+    },
+    {
+        "store": "billa",
+        "id": "00-305311",
+        "name": "Theresianer Vienna Lager",
+        "category": "Bier",
+        "subcategories": ["Lagerbier"]
+    },
+    {
+        "store": "billa",
+        "id": "00-315631",
+        "name": "Theresianer Wit",
+        "category": "Bier",
+        "subcategories": ["Weißbier"]
+    },
+    {
+        "store": "billa",
+        "id": "00-315545",
+        "name": "Van Steenberge Gulden Draak Strong Ale",
+        "category": "Bier",
+        "subcategories": ["Starkbier"]
+    },
+    {
+        "store": "billa",
+        "id": "00-414086",
+        "name": "Villacher Märzen",
+        "category": "Bier",
+        "subcategories": ["Märzen"]
+    },
+    {
+        "store": "billa",
+        "id": "00-694128",
+        "name": "Villacher Radler Naturtrüb",
+        "category": "Bier",
+        "subcategories": ["Radler"]
+    },
+    {
+        "store": "billa",
+        "id": "00-504149",
+        "name": "Wieselburger Gold",
+        "category": "Bier",
+        "subcategories": []
+    },
+    {
+        "store": "billa",
+        "id": "00-669787",
+        "name": "Wieselburger Gold",
+        "category": "Bier",
+        "subcategories": []
+    },
+    {
+        "store": "billa",
+        "id": "00-386371",
+        "name": "Wieselburger Zwickl",
+        "category": "Bier",
+        "subcategories": ["Zwicklbier"]
+    },
+    {
+        "store": "billa",
+        "id": "00-421167",
+        "name": "Zipfer Drei",
+        "category": "Bier",
+        "subcategories": []
+    },
+    {
+        "store": "billa",
+        "id": "00-285059",
+        "name": "Zipfer Hops Maracuja",
+        "category": "Bier",
+        "subcategories": ["Bier mit Maracujageschmack"]
+    },
+    {
+        "store": "billa",
+        "id": "00-543609",
+        "name": "Zipfer Hops Zitrone",
+        "category": "Bier",
+        "subcategories": ["Bier mit Zitronengeschmack"]
+    },
+    {
+        "store": "billa",
+        "id": "00-682316",
+        "name": "Zipfer Limetten Radler",
+        "category": "Bier",
+        "subcategories": ["Radler", "Bier mit Limettengeschmack"]
+    },
+    {
+        "store": "billa",
+        "id": "00-685352",
+        "name": "Zipfer Limetten Radler",
+        "category": "Bier",
+        "subcategories": ["Radler", "Bier mit Limettengeschmack"]
+    },
+    {
+        "store": "billa",
+        "id": "00-9639",
+        "name": "Zipfer Märzen Bier",
+        "category": "Bier",
+        "subcategories": ["Märzen"]
+    },
+    {
+        "store": "billa",
+        "id": "00-723142",
+        "name": "Zipfer Urtyp",
+        "category": "Bier",
+        "subcategories": []
+    },
+    {
+        "store": "billa",
+        "id": "00-14309",
+        "name": "Zipfer Urtyp",
+        "category": "Bier",
+        "subcategories": []
+    },
+    {
+        "store": "billa",
+        "id": "00-436851",
+        "name": "Zwettler Export Lager 6er",
+        "category": "Bier",
+        "subcategories": ["Export Lager"]
+    },
+    {
+        "store": "billa",
+        "id": "00-436843",
+        "name": "Zwettler Export Lager Bier",
+        "category": "Bier",
+        "subcategories": ["Export Lager"]
+    },
+    {
+        "store": "billa",
+        "id": "00-874573",
+        "name": "Zwettler Radler Citrus Naturtrüb",
+        "category": "Bier",
+        "subcategories": ["Radler"]
+    },
+    {
+        "store": "billa",
+        "id": "00-655347",
+        "name": "Zwettler Saphir Premium Pils",
+        "category": "Bier",
+        "subcategories": ["Premium Pils"]
+    },
+    {
+        "store": "billa",
+        "id": "00-317762",
+        "name": "Alnatura Baby Früchte Tee",
+        "category": "Tee",
+        "subcategories": ["Baby Tee", "Früchtetee"]
+    },
+    {
+        "store": "billa",
+        "id": "00-470469",
+        "name": "BILLA Bio Backkakao",
+        "category": "Kakao",
+        "subcategories": ["Bio Kakao"]
+    },
+    {
+        "store": "billa",
+        "id": "00-463751",
+        "name": "BILLA Bio Caffe Crema",
+        "category": "Kaffee",
+        "subcategories": ["Bio Kaffee"]
+    },
+    {
+        "store": "billa",
+        "id": "00-463744",
+        "name": "BILLA Bio Chai-Kurkuma Tee",
+        "category": "Tee",
+        "subcategories": ["Bio Tee", "Chai-Kurkuma"]
+    },
+    {
+        "store": "billa",
+        "id": "00-463750",
+        "name": "BILLA Bio Espresso Gemahlen",
+        "category": "Kaffee",
+        "subcategories": ["Bio Kaffee", "Espresso"]
+    },
+    {
+        "store": "billa",
+        "id": "00-463735",
+        "name": "BILLA Bio Fenchel-Anis-Kümmel Tee",
+        "category": "Tee",
+        "subcategories": ["Bio Tee"]
+    }
+]

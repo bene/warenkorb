@@ -1,0 +1,702 @@
+[
+{
+"store": "spar",
+"id": "2020004390363",
+"name": "Freche Freunde Baby Bio-Gläschen Makkaroni mit Tomate & Karotte",
+"category": "Baby",
+"subcategories": ["Bio-Gläschen", "Makkaroni", "Tomate", "Karotte"]
+},
+{
+"store": "spar",
+"id": "2020004390387",
+"name": "Freche Freunde Baby Bio-Gläschen Nudeln Brokkoli Karotte Tomate",
+"category": "Baby",
+"subcategories": ["Bio-Gläschen", "Nudeln", "Brokkoli", "Karotte", "Tomate"]
+},
+{
+"store": "spar",
+"id": "2020004390431",
+"name": "Freche Freunde Baby Bio-Gläschen Pure Karotte",
+"category": "Baby",
+"subcategories": ["Bio-Gläschen", "Pure Karotte"]
+},
+{
+"store": "spar",
+"id": "2020004390394",
+"name": "Freche Freunde Baby Bio-Gläschen Reine Pastinake",
+"category": "Baby",
+"subcategories": ["Bio-Gläschen", "Reine Pastinake"]
+},
+{
+"store": "spar",
+"id": "2020004390738",
+"name": "Freche Freunde Bio Brezeln Kichererbse",
+"category": "Snacks",
+"subcategories": ["Bio Brezeln", "Kichererbse"]
+},
+{
+"store": "spar",
+"id": "2020004720276",
+"name": "Freche Freunde Bio Fruchtchips Erdbeere",
+"category": "Snacks",
+"subcategories": ["Bio Fruchtchips", "Erdbeere"]
+},
+{
+"store": "spar",
+"id": "2020004390509",
+"name": "Freche Freunde Bio Fruchtchips Roter Beerenmix",
+"category": "Snacks",
+"subcategories": ["Bio Fruchtchips", "Roter Beerenmix"]
+},
+{
+"store": "spar",
+"id": "2020004390721",
+"name": "Freche Freunde Bio Frühstücks-Bowl Banane, Erdbeere & Hafer",
+"category": "Frühstück",
+"subcategories": ["Bio Frühstücks-Bowl", "Banane", "Erdbeere", "Hafer"]
+},
+{
+"store": "spar",
+"id": "2020004390714",
+"name": "Freche Freunde Bio Frühstücks-Bowl Mango, Apfel, Aprikose & Hafer",
+"category": "Frühstück",
+"subcategories": ["Bio Frühstücks-Bowl", "Mango", "Apfel", "Aprikose", "Hafer"]
+},
+{
+"store": "spar",
+"id": "2020004390745",
+"name": "Freche Freunde Bio Karotte Laugensticks",
+"category": "Snacks",
+"subcategories": ["Bio Karotte Laugensticks"]
+},
+{
+"store": "spar",
+"id": "2020004390516",
+"name": "Freche Freunde Bio Smoothie-Chips Banane Apfel Erdbeere Joghurt",
+"category": "Snacks",
+"subcategories": ["Bio Smoothie-Chips", "Banane", "Apfel", "Erdbeere", "Joghurt"]
+},
+{
+"store": "spar",
+"id": "2020004390691",
+"name": "Freche Freunde Bio-Quetschie Apfel Blaubeere Johannisbeere Bromb.",
+"category": "Snacks",
+"subcategories": ["Bio-Quetschie", "Apfel", "Blaubeere", "Johannisbeere", "Brombeere"]
+},
+{
+"store": "spar",
+"id": "2020004390561",
+"name": "Freche Freunde Bio-Quetschie Apfel Pfirsich Erdbeere Rote Traube",
+"category": "Snacks",
+"subcategories": ["Bio-Quetschie", "Apfel", "Pfirsich", "Erdbeere", "Rote Traube"]
+},
+{
+"store": "spar",
+"id": "2020004390547",
+"name": "Freche Freunde Bio-Quetschie Apfel, Erdbeere & Feige",
+"category": "Snacks",
+"subcategories": ["Bio-Quetschie", "Apfel", "Erdbeere", "Feige"]
+},
+{
+"store": "spar",
+"id": "2020004390530",
+"name": "Freche Freunde Bio-Quetschie Apfel, Mango & Pfirsich",
+"category": "Snacks",
+"subcategories": ["Bio-Quetschie", "Apfel", "Mango", "Pfirsich"]
+},
+{
+"store": "spar",
+"id": "2020004390684",
+"name": "Freche Freunde Bio-Quetschie Banane Apfel Erdbeere Himbeere",
+"category": "Snacks",
+"subcategories": ["Bio-Quetschie", "Banane", "Apfel", "Erdbeere", "Himbeere"]
+},
+{
+"store": "spar",
+"id": "2020004390653",
+"name": "Freche Freunde Bio-Quetschie Multipack Frühstücks-Mix 4x100g",
+"category": "Snacks",
+"subcategories": ["Bio-Quetschie Multipack", "Frühstücks-Mix"]
+},
+{
+"store": "spar",
+"id": "2020004390592",
+"name": "Freche Freunde Bio-Quetschie Multipack Nachtisch-Mix 4x100g",
+"category": "Snacks",
+"subcategories": ["Bio-Quetschie Multipack", "Nachtisch-Mix"]
+},
+{
+"store": "spar",
+"id": "2020004390608",
+"name": "Freche Freunde Bio-Quetschie Multipack Pausen-Mix 4x100g",
+"category": "Snacks",
+"subcategories": ["Bio-Quetschie Multipack", "Pausen-Mix"]
+},
+{
+"store": "spar",
+"id": "4134824",
+"name": "Freedea Lemon Soda",
+"category": "Getränke",
+"subcategories": ["Lemon Soda"]
+},
+{
+"store": "spar",
+"id": "2446394",
+"name": "Freedea Mojito Soda alkoholfrei",
+"category": "Getränke",
+"subcategories": ["Mojito Soda alkoholfrei"]
+},
+{
+"store": "spar",
+"id": "8148391",
+"name": "Freedea Oran Soda",
+"category": "Getränke",
+"subcategories": ["Oran Soda"]
+},
+{
+"store": "spar",
+"id": "2621036",
+"name": "Freistädter Märzen 0.5L Fl.",
+"category": "Getränke",
+"subcategories": ["Märzen"]
+},
+{
+"store": "spar",
+"id": "2020002479596",
+"name": "Freistädter Märzen Spezialbier 12x0,33lt.",
+"category": "Getränke",
+"subcategories": ["Märzen", "Spezialbier"]
+},
+{
+"store": "spar",
+"id": "7920967",
+"name": "Freistädter Pils Pils 6x0,33lt.",
+"category": "Getränke",
+"subcategories": ["Pils"]
+},
+{
+"store": "spar",
+"id": "799089",
+"name": "Freistädter Ratsherrntrunk",
+"category": "Getränke",
+"subcategories": ["Ratsherrntrunk"]
+},
+{
+"store": "spar",
+"id": "8032706",
+"name": "Freistädter Ratsherrntrunk Spezialbier 6x0,5lt.",
+"category": "Getränke",
+"subcategories": ["Ratsherrntrunk", "Spezialbier"]
+},
+{
+"store": "spar",
+"id": "8025777",
+"name": "Freistädter Rotschopf 6x0,33l",
+"category": "Getränke",
+"subcategories": ["Rotschopf"]
+},
+{
+"store": "spar",
+"id": "6989002",
+"name": "Freixenet Cava Carta Nevada",
+"category": "Getränke",
+"subcategories": ["Cava", "Carta Nevada"]
+},
+{
+"store": "spar",
+"id": "2020002883553",
+"name": "Freixenet Cava Carta Rosado",
+"category": "Getränke",
+"subcategories": ["Cava", "Carta Rosado"]
+},
+{
+"store": "spar",
+"id": "2020004190376",
+"name": "Freixenet Cava ICE",
+"category": "Getränke",
+"subcategories": ["Cava", "ICE"]
+},
+{
+"store": "spar",
+"id": "2020004190413",
+"name": "Freixenet Cava ICE Rosé",
+"category": "Getränke",
+"subcategories": ["Cava", "ICE Rosé"]
+},
+{
+"store": "spar",
+"id": "2020003935176",
+"name": "Freixenet Italian Rosé",
+"category": "Getränke",
+"subcategories": ["Italian Rosé"]
+},
+{
+"store": "spar",
+"id": "2020003317262",
+"name": "Freixenet Italian Rosé",
+"category": "Getränke",
+"subcategories": ["Italian Rosé"]
+},
+{
+"store": "spar",
+"id": "2020003734861",
+"name": "Freixenet Italian Rosé",
+"category": "Getränke",
+"subcategories": ["Italian Rosé"]
+},
+{
+"store": "spar",
+"id": "2020003735066",
+"name": "Freixenet Prosecco DOC",
+"category": "Getränke",
+"subcategories": ["Prosecco DOC"]
+},
+{
+"store": "spar",
+"id": "2020002900724",
+"name": "Freixenet Prosecco DOC",
+"category": "Getränke",
+"subcategories": ["Prosecco DOC"]
+},
+{
+"store": "spar",
+"id": "2020001218943",
+"name": "Freihof 1885 Haselnuss",
+"category": "Spirituosen",
+"subcategories": ["Haselnuss"]
+},
+{
+"store": "spar",
+"id": "2020001328413",
+"name": "Freihof 1885 Himbeergeist",
+"category": "Spirituosen",
+"subcategories": ["Himbeergeist"]
+},
+{
+"store": "spar",
+"id": "2020001218936",
+"name": "Freihof 1885 Marille Marille",
+"category": "Spirituosen",
+"subcategories": ["Marille"]
+},
+{
+"store": "spar",
+"id": "2020001218967",
+"name": "Freihof 1885 Obstler",
+"category": "Spirituosen",
+"subcategories": ["Obstler"]
+},
+{
+"store": "spar",
+"id": "1591187",
+"name": "Freihof 1885 Williamsbirne mit Frucht",
+"category": "Spirituosen",
+"subcategories": ["Williamsbirne", "Frucht"]
+},
+{
+"store": "spar",
+"id": "2020001218905",
+"name": "Freihof 1885 Williamsbirnenschnaps Williamsbirne",
+"category": "Spirituosen",
+"subcategories": ["Williamsbirnenschnaps", "Williamsbirne"]
+},
+{
+"store": "spar",
+"id": "7689666",
+"name": "Freihof Jagertee",
+"category": "Spirituosen",
+"subcategories": ["Jagertee"]
+},
+{
+"store": "spar",
+"id": "2020001328444",
+"name": "Freihof Mirtillo",
+"category": "Spirituosen",
+"subcategories": ["Mirtillo"]
+},
+{
+"store": "spar",
+"id": "2020003938832",
+"name": "Freihof Mirtillo Spritz",
+"category": "Spirituosen",
+"subcategories": ["Mirtillo Spritz"]
+},
+{
+"store": "spar",
+"id": "6415174",
+"name": "Frisch & Fruchtig Weißwein del Veneto IGT 2022",
+"category": "Getränke",
+"subcategories": ["Weißwein", "del Veneto IGT 2022"]
+},
+{
+"store": "spar",
+"id": "2020004679659",
+"name": "Frisch & Prickelnd Mehrweg Weinmischgetränk",
+"category": "Getränke",
+"subcategories": ["Mehrweg Weinmischgetränk"]
+},
+{
+"store": "spar",
+"id": "2020002102913",
+"name": "Frischengruber Grüner Veltliner Federspiel Ried Steiger Wachau DAC 2022",
+"category": "Getränke",
+"subcategories": ["Grüner Veltliner", "Federspiel Ried Steiger Wachau DAC 2022"]
+},
+{
+"store": "spar",
+"id": "2020004757753",
+"name": "Frischengruber Grüner Veltliner Federspiel Rossatz Wachau DAC 2022",
+"category": "Getränke",
+"subcategories": ["Grüner Veltliner", "Federspiel Rossatz Wachau DAC 2022"]
+},
+{
+"store": "spar",
+"id": "5250424",
+"name": "Fromi Pico Affine",
+"category": "Käse",
+"subcategories": ["Pico Affine"]
+},
+{
+"store": "spar",
+"id": "6255206",
+"name": "Fromi Ziegenkäse",
+"category": "Käse",
+"subcategories": ["Ziegenkäse"]
+},
+{
+"store": "spar",
+"id": "5038725",
+"name": "Frivissa Reines Pflanzenfett",
+"category": "Nährmittel",
+"subcategories": ["Reines Pflanzenfett"]
+},
+{
+"store": "spar",
+"id": "1440362",
+"name": "Frierss Kärntner Sasaka",
+"category": "Wurst",
+"subcategories": ["Kärntner Sasaka"]
+},
+{
+"store": "spar",
+"id": "2020003632259",
+"name": "Frierss Schinken",
+"category": "Wurst",
+"subcategories": ["Schinken"]
+},
+{
+"store": "spar",
+"id": "8134400",
+"name": "Friedrichs MSC Matjesfilets nordische Art",
+"category": "Fisch",
+"subcategories": ["MSC Matjesfilets", "nordische Art"]
+},
+{
+"store": "spar",
+"id": "2020002885427",
+"name": "Frozen Power Ice Cream Bar Creamy Coco 3 Stück",
+"category": "Eis",
+"subcategories": ["Ice Cream Bar Creamy Coco"]
+},
+{
+"store": "spar",
+"id": "2020002885397",
+"name": "Frozen Power Ice Cream Bar Crispy Hazel 3 Stück",
+"category": "Eis",
+"subcategories": ["Ice Cream Bar Crispy Hazel"]
+},
+{
+"store": "spar",
+"id": "2020002885403",
+"name": "Frozen Power Ice Cream Bar Dreamy Choc 3 Stück",
+"category": "Eis",
+"subcategories": ["Ice Cream Bar Dreamy Choc"]
+},
+{
+"store": "spar",
+"id": "2020000673156",
+"name": "Iglo Steinofen Pizza Margherita",
+"category": "Tiefkühlkost",
+"subcategories": ["Steinofen Pizza", "Margherita"]
+},
+{
+"store": "spar",
+"id": "2020002695033",
+"name": "Iglo Mehlspeistraum Erdbeerknödel 8 Stück 530g Packung",
+"category": "Tiefkühlkost",
+"subcategories": ["Mehlspeistraum", "Erdbeerknödel"]
+},
+{
+"store": "spar",
+"id": "3238332",
+"name": "Iglo Mehlspeistraum Marillenknödel mit ganzer Marille ohne Kern 8 Stück 530g Packung",
+"category": "Tiefkühlkost",
+"subcategories": ["Mehlspeistraum", "Marillenknödel"]
+},
+{
+"store": "spar",
+"id": "6301224",
+"name": "Iglo Mehlspeistraum Milchrahmstrudel mit Vanille-Sauce",
+"category": "Tiefkühlkost",
+"subcategories": ["Mehlspeistraum", "Milchrahmstrudel", "Vanille-Sauce"]
+},
+{
+"store": "spar",
+"id": "3238356",
+"name": "Iglo Mehlspeistraum Mohnnudeln",
+"category": "Tiefkühlkost",
+"subcategories": ["Mehlspeistraum", "Mohnnudeln"]
+},
+{
+"store": "spar",
+"id": "2020002603120",
+"name": "Iglo Mehlspeistraum Nougatknödel aus Topfenteig mit zarter Nuss-Nougat Creme 8 Stück 400g Packung",
+"category": "Tiefkühlkost",
+"subcategories": ["Mehlspeistraum", "Nougatknödel", "Topfenteig", "Nuss-Nougat Creme"]
+},
+{
+"store": "spar",
+"id": "8115515",
+"name": "Iglo Mehlspeistraum Nussnudeln",
+"category": "Tiefkühlkost",
+"subcategories": ["Mehlspeistraum", "Nussnudeln"]
+},
+{
+"store": "spar",
+"id": "2020000674139",
+"name": "Iglo Mehlspeistraum Riesen-Germknödel 3 Stück 500g Packung",
+"category": "Tiefkühlkost",
+"subcategories": ["Mehlspeistraum", "Riesen-Germknödel"]
+},
+{
+"store": "spar",
+"id": "2020002695026",
+"name": "Iglo Mehlspeistraum Topfenknödel 8 Stück 440g",
+"category": "Tiefkühlkost",
+"subcategories": ["Mehlspeistraum", "Topfenknödel"]
+},
+{
+"store": "spar",
+"id": "2020004305138",
+"name": "Fruchtbar Bio-Frucht-Stückchen Rosine-Aprikose-Apfel 46G",
+"category": "Snacks",
+"subcategories": ["Bio-Frucht-Stückchen", "Rosine", "Aprikose", "Apfel"]
+},
+{
+"store": "spar",
+"id": "2020004305022",
+"name": "Fruchtbar Bio-Frühstücks-Herzen Hafervollkorn Erdbeere Traube 125G",
+"category": "Snacks",
+"subcategories": ["Bio-Frühstücks-Herzen", "Hafervollkorn", "Erdbeere", "Traube"]
+},
+{
+"store": "spar",
+"id": "2020004304940",
+"name": "Fruchtbar Bio-Herznudeln Karotte 300G",
+"category": "Nudeln",
+"subcategories": ["Bio-Herznudeln", "Karotte"]
+},
+{
+"store": "spar",
+"id": "2020004305060",
+"name": "Fruchtbar Bio-Knusper-Bällchen Wow Kakao 125G",
+"category": "Snacks",
+"subcategories": ["Bio-Knusper-Bällchen", "Wow", "Kakao"]
+},
+{
+"store": "spar",
+"id": "2020004305190",
+"name": "Fruchtbar Bio-Knusper-Sonnen Hafervollkorn Mango Traube 125G",
+"category": "Snacks",
+"subcategories": ["Bio-Knusper-Sonnen", "Hafervollkorn", "Mango", "Traube"]
+},
+{
+"store": "spar",
+"id": "2020004304834",
+"name": "Fruchtbar Bio-Laugen-Herzen Dinkel 90G",
+"category": "Snacks",
+"subcategories": ["Bio-Laugen-Herzen", "Dinkel"]
+},
+{
+"store": "spar",
+"id": "2020004305169",
+"name": "Fruchtbar Bio-Müsli Kekse Haferflocken Apfel Sonnenblume 100G",
+"category": "Snacks",
+"subcategories": ["Bio-Müsli Kekse", "Haferflocken", "Apfel", "Sonnenblume"]
+},
+{
+"store": "spar",
+"id": "2020004214478",
+"name": "Holle Bio-Anfangsmilch 1 400G",
+"category": "Baby",
+"subcategories": ["Bio-Anfangsmilch 1"]
+},
+{
+"store": "spar",
+"id": "2020003435874",
+"name": "Holle Bio-Anfangsmilch 1 Ziege 400G",
+"category": "Baby",
+"subcategories": ["Bio-Anfangsmilch 1 Ziege"]
+},
+{
+"store": "spar",
+"id": "2020004305848",
+"name": "Holle Bio-Crispy Sticks Dinkel 80G",
+"category": "Snacks",
+"subcategories": ["Bio-Crispy Sticks", "Dinkel"]
+},
+{
+"store": "spar",
+"id": "2020004214492",
+"name": "Holle Bio-Folgemilch 2 600G",
+"category": "Baby",
+"subcategories": ["Bio-Folgemilch 2"]
+},
+{
+"store": "spar",
+"id": "2020004305220",
+"name": "Holle Bio-Folgemilch 2 Ziege 400G",
+"category": "Baby",
+"subcategories": ["Bio-Folgemilch 2 Ziege"]
+},
+{
+"store": "spar",
+"id": "2020004305237",
+"name": "Holle Bio-Folgemilch 3 Ziege 400G",
+"category": "Baby",
+"subcategories": ["Bio-Folgemilch 3 Ziege"]
+},
+{
+"store": "spar",
+"id": "2020004305206",
+"name": "Holle Bio-Folgemilch 4 600G",
+"category": "Baby",
+"subcategories": ["Bio-Folgemilch 4"]
+},
+{
+"store": "spar",
+"id": "2020004305213",
+"name": "Holle Bio-Folgemilch 4 Ziege 400G",
+"category": "Baby",
+"subcategories": ["Bio-Folgemilch 4 Ziege"]
+},
+{
+"store": "spar",
+"id": "2020003487835",
+"name": "Holle Bio-Frucht-Gemüseriegel Apfel-Karotte 25G",
+"category": "Snacks",
+"subcategories": ["Bio-Frucht-Gemüseriegel", "Apfel-Karotte"]
+},
+{
+"store": "spar",
+"id": "2020003436376",
+"name": "Holle Bio-Fruchtschnitte Minis Banane-Orange 100G",
+"category": "Snacks",
+"subcategories": ["Bio-Fruchtschnitte", "Minis", "Banane-Orange"]
+},
+{
+"store": "spar",
+"id": "2020003436130",
+"name": "Holle Bio-Früchteriegel Apfel-Banane 25G",
+"category": "Snacks",
+"subcategories": ["Bio-Früchteriegel", "Apfel-Banane"]
+},
+{
+"store": "spar",
+"id": "2020003436208",
+"name": "Holle Bio-Früchteriegel Birne-Apfel 25G",
+"category": "Snacks",
+"subcategories": ["Bio-Früchteriegel", "Birne-Apfel"]
+},
+{
+"store": "spar",
+"id": "2020003435799",
+"name": "Holle Bio-Früchtezubereitung Apfel & Pflaume 190G",
+"category": "Snacks",
+"subcategories": ["Bio-Früchtezubereitung", "Apfel & Pflaume"]
+},
+{
+"store": "spar",
+"id": "2020003436215",
+"name": "Holle Bio-Hühnchenfleisch 125G",
+"category": "Fleisch",
+"subcategories": ["Hühnchenfleisch"]
+},
+{
+"store": "spar",
+"id": "2020003436598",
+"name": "Holle Bio-Kräuterteemischung Baby Tee 20 Teebeutel",
+"category": "Getränke",
+"subcategories": ["Kräuterteemischung", "Baby Tee"]
+},
+{
+"store": "spar",
+"id": "2020003436574",
+"name": "Holle Bio-Kräuterteemischung Still Tee 20 Teebeutel",
+"category": "Getränke",
+"subcategories": ["Kräuterteemischung", "Still Tee"]
+},
+{
+"store": "spar",
+"id": "2020003435911",
+"name": "Holle Bio-Milchbrei Banane 250G",
+"category": "Milchprodukte",
+"subcategories": ["Milchbrei", "Banane"]
+},
+{
+"store": "spar",
+"id": "2020003435935",
+"name": "Holle Bio-Vollkorngetreidebrei Hirse 250G",
+"category": "Getreideprodukte",
+"subcategories": ["Vollkorngetreidebrei", "Hirse"]
+},
+{
+"store": "spar",
+"id": "130042",
+"name": "Auer Carlsbader Waffelblätter 70G",
+"category": "Süßwaren",
+"subcategories": ["Carlsbader Waffelblätter"]
+},
+{
+"store": "spar",
+"id": "2020001300761",
+"name": "C'Nussyy Bio Cacao Nibs Activating Spirits",
+"category": "Süßwaren",
+"subcategories": ["Bio Cacao Nibs", "Activating Spirits"]
+},
+{
+"store": "spar",
+"id": "7937606",
+"name": "Dr. Oetker Back- & Speisefarben 4 Tuben",
+"category": "Backzutaten",
+"subcategories": ["Backfarben", "Speisefarben"]
+},
+{
+"store": "spar",
+"id": "3397336",
+"name": "Dr. Oetker Backaroma Bitter-Mandel 4 x 2ml",
+"category": "Backzutaten",
+"subcategories": ["Backaroma", "Bitter-Mandel"]
+},
+{
+"store": "spar",
+"id": "3397343",
+"name": "Dr. Oetker Backaroma Zitrone 4 x 2ml",
+"category": "Backzutaten",
+"subcategories": ["Backaroma", "Zitrone"]
+},
+{
+"store": "spar",
+"id": "2020003691270",
+"name": "Dr. Oetker Finesse Zitronenschale gerieben Zitrone 3 x 6g",
+"category": "Backzutaten",
+"subcategories": ["Finesse Zitronenschale", "gerieben Zitrone"]
+},
+{
+"store": "spar",
+"id": "2020000626381",
+"name": "Dr. Oetker Fondant Decke weiß 450G",
+"category": "Backzutaten",
+"subcategories": ["Fondant Decke", "weiß"]
+}
+]

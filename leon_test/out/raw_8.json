@@ -1,0 +1,702 @@
+[
+  {
+    "store": "billa",
+    "id": "00-770935",
+    "name": "Nuss-Nougatcroissant",
+    "category": "Backwaren",
+    "subcategories": ["Gebäck", "Croissant"]
+  },
+  {
+    "store": "billa",
+    "id": "00-374970",
+    "name": "Oreo Donut 2er",
+    "category": "Backwaren",
+    "subcategories": ["Donut", "Gebäck"]
+  },
+  {
+    "store": "billa",
+    "id": "00-341565",
+    "name": "Plunder Großpackung",
+    "category": "Backwaren",
+    "subcategories": ["Gebäck", "Plunder"]
+  },
+  {
+    "store": "billa",
+    "id": "00-891790",
+    "name": "Punschkrapfen 2er",
+    "category": "Backwaren",
+    "subcategories": ["Gebäck", "Krapfen"]
+  },
+  {
+    "store": "billa",
+    "id": "00-577923",
+    "name": "Sacherschnitte 2er",
+    "category": "Backwaren",
+    "subcategories": ["Gebäck", "Torte"]
+  },
+  {
+    "store": "billa",
+    "id": "00-728611",
+    "name": "Schnitzer Bio Pancakes Glutenfrei",
+    "category": "Backwaren",
+    "subcategories": ["Pancakes", "Glutenfrei"]
+  },
+  {
+    "store": "billa",
+    "id": "00-464075",
+    "name": "Schnitzer Muffin Blaubeere Glutenfrei",
+    "category": "Backwaren",
+    "subcategories": ["Muffin", "Glutenfrei"]
+  },
+  {
+    "store": "billa",
+    "id": "00-464048",
+    "name": "Schnitzer Muffin Schoko Glutenfrei",
+    "category": "Backwaren",
+    "subcategories": ["Muffin", "Glutenfrei"]
+  },
+  {
+    "store": "billa",
+    "id": "00-921748",
+    "name": "Schoko Donuts 6er",
+    "category": "Backwaren",
+    "subcategories": ["Donut", "Gebäck", "Schokolade"]
+  },
+  {
+    "store": "billa",
+    "id": "00-874615",
+    "name": "Schoko Muffin",
+    "category": "Backwaren",
+    "subcategories": ["Muffin", "Schokolade"]
+  },
+  {
+    "store": "billa",
+    "id": "00-272556",
+    "name": "Schoko-Pyramide Familien Packung",
+    "category": "Backwaren",
+    "subcategories": ["Gebäck", "Schokolade"]
+  },
+  {
+    "store": "billa",
+    "id": "00-853642",
+    "name": "Schwarzwälder Kirschschnitte 2er",
+    "category": "Backwaren",
+    "subcategories": ["Gebäck", "Torte"]
+  },
+  {
+    "store": "billa",
+    "id": "00-627860",
+    "name": "Schär Bon Matin Glutenfrei",
+    "category": "Backwaren",
+    "subcategories": ["Gebäck", "Glutenfrei"]
+  },
+  {
+    "store": "billa",
+    "id": "00-350885",
+    "name": "Schär Lemon Cake Glutenfrei",
+    "category": "Backwaren",
+    "subcategories": ["Kuchen", "Glutenfrei"]
+  },
+  {
+    "store": "billa",
+    "id": "00-709518",
+    "name": "Striezel",
+    "category": "Backwaren",
+    "subcategories": ["Gebäck"]
+  },
+  {
+    "store": "billa",
+    "id": "00-706949",
+    "name": "Süße Breze",
+    "category": "Backwaren",
+    "subcategories": ["Gebäck"]
+  },
+  {
+    "store": "billa",
+    "id": "00-420042",
+    "name": "Tabaluga Croissant Kakao",
+    "category": "Backwaren",
+    "subcategories": ["Gebäck", "Croissant", "Kakao"]
+  },
+  {
+    "store": "billa",
+    "id": "00-432072",
+    "name": "Thurner Babyzopf",
+    "category": "Backwaren",
+    "subcategories": ["Zopf", "Gebäck"]
+  },
+  {
+    "store": "billa",
+    "id": "00-658843",
+    "name": "Thurner Butterzopf",
+    "category": "Backwaren",
+    "subcategories": ["Zopf", "Gebäck"]
+  },
+  {
+    "store": "billa",
+    "id": "00-716811",
+    "name": "Thurner Mohnstrudel",
+    "category": "Backwaren",
+    "subcategories": ["Strudel", "Gebäck", "Mohn"]
+  },
+  {
+    "store": "billa",
+    "id": "00-716813",
+    "name": "Thurner Mohnstrudel mit Powidl",
+    "category": "Backwaren",
+    "subcategories": ["Strudel", "Gebäck", "Mohn"]
+  },
+  {
+    "store": "billa",
+    "id": "00-287958",
+    "name": "Thurner Mürbe Kipferl",
+    "category": "Backwaren",
+    "subcategories": ["Gebäck", "Kipferl"]
+  },
+  {
+    "store": "billa",
+    "id": "00-716812",
+    "name": "Thurner Nussstrudel",
+    "category": "Backwaren",
+    "subcategories": ["Strudel", "Gebäck", "Nuss"]
+  },
+  {
+    "store": "billa",
+    "id": "00-541312",
+    "name": "Topfen Golatsche",
+    "category": "Backwaren",
+    "subcategories": ["Gebäck", "Topfen"]
+  },
+  {
+    "store": "billa",
+    "id": "00-271211",
+    "name": "Topfenschnitte 2er",
+    "category": "Backwaren",
+    "subcategories": ["Gebäck", "Topfen"]
+  },
+  {
+    "store": "billa",
+    "id": "00-505627",
+    "name": "Ulreich Esterhazyschnitte",
+    "category": "Backwaren",
+    "subcategories": ["Gebäck", "Torte"]
+  },
+  {
+    "store": "billa",
+    "id": "00-744905",
+    "name": "Ulreich Kardinalschnitten 4er",
+    "category": "Backwaren",
+    "subcategories": ["Gebäck", "Torte"]
+  },
+  {
+    "store": "billa",
+    "id": "00-634761",
+    "name": "Ulreich Kokoskuppel",
+    "category": "Backwaren",
+    "subcategories": ["Gebäck", "Kokos"]
+  },
+  {
+    "store": "billa",
+    "id": "00-505659",
+    "name": "Ulreich Malakofftorte",
+    "category": "Backwaren",
+    "subcategories": ["Gebäck", "Torte"]
+  },
+  {
+    "store": "billa",
+    "id": "00-646649",
+    "name": "Ulreich Nusstorte",
+    "category": "Backwaren",
+    "subcategories": ["Gebäck", "Torte", "Nuss"]
+  },
+  {
+    "store": "billa",
+    "id": "00-647761",
+    "name": "Ulreich Petit Fours - Esterhazy-, Kaffee- & Sacherwürfel",
+    "category": "Backwaren",
+    "subcategories": ["Gebäck", "Petit Fours"]
+  },
+  {
+    "store": "billa",
+    "id": "00-646760",
+    "name": "Ulreich Petit Fours - Granatsplitter, Punsch- &Pistazienwürfel",
+    "category": "Backwaren",
+    "subcategories": ["Gebäck", "Petit Fours"]
+  },
+  {
+    "store": "billa",
+    "id": "00-647598",
+    "name": "Ulreich Petit Fours - Kardinal-, Mohn-Topfen- & Cremeschnitte",
+    "category": "Backwaren",
+    "subcategories": ["Gebäck", "Petit Fours"]
+  },
+  {
+    "store": "billa",
+    "id": "00-647165",
+    "name": "Ulreich Petit Fours - Punschkrapfen, Kastanien- & Schwarzwälder Kirschschnitte",
+    "category": "Backwaren",
+    "subcategories": ["Gebäck", "Petit Fours"]
+  },
+  {
+    "store": "billa",
+    "id": "00-647158",
+    "name": "Ulreich Sacher Art Torte",
+    "category": "Backwaren",
+    "subcategories": ["Gebäck", "Torte"]
+  },
+  {
+    "store": "billa",
+    "id": "00-645846",
+    "name": "Ulreich Sachertorte",
+    "category": "Backwaren",
+    "subcategories": ["Gebäck", "Torte"]
+  },
+  {
+    "store": "billa",
+    "id": "00-454556",
+    "name": "Ulreich Schnittenvariation 4er",
+    "category": "Backwaren",
+    "subcategories": ["Gebäck"]
+  },
+  {
+    "store": "billa",
+    "id": "00-645481",
+    "name": "Ulreich Schwarzwälder Kirsch Torte",
+    "category": "Backwaren",
+    "subcategories": ["Gebäck", "Torte"]
+  },
+  {
+    "store": "billa",
+    "id": "00-550983",
+    "name": "Waldland Dinkel-Mohnzelten",
+    "category": "Backwaren",
+    "subcategories": ["Gebäck", "Zelte", "Dinkel", "Mohn"]
+  },
+  {
+    "store": "billa",
+    "id": "00-921747",
+    "name": "Waldland Mohnstrudel",
+    "category": "Backwaren",
+    "subcategories": ["Strudel", "Gebäck", "Mohn"]
+  },
+  {
+    "store": "billa",
+    "id": "00-921745",
+    "name": "Waldland Mohnzelten",
+    "category": "Backwaren",
+    "subcategories": ["Gebäck", "Zelte", "Mohn"]
+  },
+  {
+    "store": "billa",
+    "id": "00-583206",
+    "name": "Weizenfrei Heidelbeer Muffin Glutenfrei 2er",
+    "category": "Backwaren",
+    "subcategories": ["Muffin", "Glutenfrei", "Heidelbeer"]
+  },
+  {
+    "store": "billa",
+    "id": "00-280556",
+    "name": "Ölz Apfelstrudel",
+    "category": "Backwaren",
+    "subcategories": ["Strudel", "Gebäck", "Apfel"]
+  },
+  {
+    "store": "billa",
+    "id": "00-421650",
+    "name": "Ölz Butter Madeleines",
+    "category": "Backwaren",
+    "subcategories": ["Gebäck", "Madeleines"]
+  },
+  {
+    "store": "billa",
+    "id": "00-319390",
+    "name": "Ölz Butterbrioche geschnitten",
+    "category": "Backwaren",
+    "subcategories": ["Brioche", "Gebäck"]
+  },
+  {
+    "store": "billa",
+    "id": "00-404653",
+    "name": "Ölz Butterzopf mit Honig",
+    "category": "Backwaren",
+    "subcategories": ["Zopf", "Gebäck", "Honig"]
+  },
+  {
+    "store": "billa",
+    "id": "00-914397",
+    "name": "Ölz Dinkelzopf",
+    "category": "Backwaren",
+    "subcategories": ["Zopf", "Gebäck", "Dinkel"]
+  },
+  {
+    "store": "billa",
+    "id": "00-438161",
+    "name": "Ölz Himbeer-Vanille Tasche",
+    "category": "Backwaren",
+    "subcategories": ["Gebäck", "Tasche", "Himbeer", "Vanille"]
+  },
+  {
+    "store": "billa",
+    "id": "00-51820",
+    "name": "Ölz Linzerschnitten",
+    "category": "Backwaren",
+    "subcategories": ["Gebäck", "Keks"]
+  },
+  {
+    "store": "billa",
+    "id": "00-370793",
+    "name": "Ölz Marmor Gugelhupf",
+    "category": "Backwaren",
+    "subcategories": ["Gebäck", "Gugelhupf", "Marmor"]
+  },
+  {
+    "store": "billa",
+    "id": "00-818551",
+    "name": "Ölz Marmorkuchen",
+    "category": "Backwaren",
+    "subcategories": ["Kuchen", "Marmor"]
+  },
+  {
+    "store": "billa",
+    "id": "00-518589",
+    "name": "Ölz Milch Brötle mit Schokolade",
+    "category": "Backwaren",
+    "subcategories": ["Gebäck", "Brötchen", "Schokolade"]
+  },
+  {
+    "store": "billa",
+    "id": "00-319938",
+    "name": "Ölz Milchbrötle mit Butter",
+    "category": "Backwaren",
+    "subcategories": ["Gebäck", "Brötchen", "Butter"]
+  },
+  {
+    "store": "billa",
+    "id": "00-412305",
+    "name": "Ölz Milchlaible",
+    "category": "Backwaren",
+    "subcategories": ["Gebäck", "Laible", "Milch"]
+  },
+  {
+    "store": "billa",
+    "id": "00-415164",
+    "name": "Ölz Mini Butter Croissant",
+    "category": "Backwaren",
+    "subcategories": ["Gebäck", "Croissant"]
+  },
+  {
+    "store": "billa",
+    "id": "00-401598",
+    "name": "Ölz Mini Haselnuss Bussi",
+    "category": "Backwaren",
+    "subcategories": ["Gebäck", "Keks", "Haselnuss"]
+  },
+  {
+    "store": "billa",
+    "id": "00-678932",
+    "name": "Ölz Mini Marmor Kuchen",
+    "category": "Backwaren",
+    "subcategories": ["Kuchen", "Marmor"]
+  },
+  {
+    "store": "billa",
+    "id": "00-270841",
+    "name": "Ölz Mini Nuss Stangen",
+    "category": "Backwaren",
+    "subcategories": ["Gebäck", "Stangen", "Nuss"]
+  },
+  {
+    "store": "billa",
+    "id": "00-270775",
+    "name": "Ölz Mini Schoko Schnecke",
+    "category": "Backwaren",
+    "subcategories": ["Gebäck", "Schokolade", "Schnecke"]
+  },
+  {
+    "store": "billa",
+    "id": "00-21112",
+    "name": "Ölz Mohnstollen",
+    "category": "Backwaren",
+    "subcategories": ["Gebäck", "Stollen", "Mohn"]
+  },
+  {
+    "store": "billa",
+    "id": "00-424744",
+    "name": "Ölz Mohnstrudel",
+    "category": "Backwaren",
+    "subcategories": ["Strudel", "Gebäck", "Mohn"]
+  },
+  {
+    "store": "billa",
+    "id": "00-167239",
+    "name": "Ölz Nuss-Stollen",
+    "category": "Backwaren",
+    "subcategories": ["Gebäck", "Stollen", "Nuss"]
+  },
+  {
+    "store": "billa",
+    "id": "00-3445",
+    "name": "Ölz Nuss-Stollen gerollt",
+    "category": "Backwaren",
+    "subcategories": ["Gebäck", "Stollen", "Nuss"]
+  },
+  {
+    "store": "billa",
+    "id": "00-419167",
+    "name": "Ölz Nusskipfel",
+    "category": "Backwaren",
+    "subcategories": ["Gebäck", "Kipfel", "Nuss"]
+  },
+  {
+    "store": "billa",
+    "id": "00-1790",
+    "name": "Ölz Nussschnecke",
+    "category": "Backwaren",
+    "subcategories": ["Gebäck", "Schnecke", "Nuss"]
+  },
+  {
+    "store": "billa",
+    "id": "00-424745",
+    "name": "Ölz Nussstrudel",
+    "category": "Backwaren",
+    "subcategories": ["Strudel", "Gebäck", "Nuss"]
+  },
+  {
+    "store": "billa",
+    "id": "00-482894",
+    "name": "Ölz Party Muffins",
+    "category": "Backwaren",
+    "subcategories": ["Muffin", "Gebäck"]
+  },
+  {
+    "store": "billa",
+    "id": "00-10590",
+    "name": "Ölz Powidltaschen",
+    "category": "Backwaren",
+    "subcategories": ["Gebäck", "Tasche", "Powidl"]
+  },
+  {
+    "store": "billa",
+    "id": "00-52057",
+    "name": "Ölz Rosinenbrötchen",
+    "category": "Backwaren",
+    "subcategories": ["Gebäck", "Brötchen", "Rosinen"]
+  },
+  {
+    "store": "billa",
+    "id": "00-409675",
+    "name": "Ölz Rosinenzopf",
+    "category": "Backwaren",
+    "subcategories": ["Zopf", "Gebäck", "Rosinen"]
+  },
+  {
+    "store": "billa",
+    "id": "00-319411",
+    "name": "Ölz Schulmaus mit Nougatfüllung",
+    "category": "Backwaren",
+    "subcategories": ["Gebäck", "Keks", "Nougat"]
+  },
+  {
+    "store": "billa",
+    "id": "00-14387",
+    "name": "Ölz Topfengolatschen",
+    "category": "Backwaren",
+    "subcategories": ["Gebäck", "Golatsche", "Topfen"]
+  },
+  {
+    "store": "billa",
+    "id": "00-292483",
+    "name": "Ölz Topfenstrudel",
+    "category": "Backwaren",
+    "subcategories": ["Strudel", "Gebäck", "Topfen"]
+  },
+  {
+    "store": "hofer",
+    "id": 544888,
+    "name": "GOURMET Butterbrioche Striezel 630g",
+    "category": "Backwaren",
+    "subcategories": ["Brioche", "Gebäck", "Striezel", "Butter"]
+  },
+  {
+    "store": "hofer",
+    "id": 544891,
+    "name": "GOURMET Marmor Gugelhupf 450g",
+    "category": "Backwaren",
+    "subcategories": ["Gugelhupf", "Gebäck", "Marmor"]
+  },
+  {
+    "store": "billa",
+    "id": "00-6547",
+    "name": "Anker Semmelbrösel",
+    "category": "Lebensmittel",
+    "subcategories": ["Paniermehl", "Brösel"]
+  },
+  {
+    "store": "billa",
+    "id": "00-841876",
+    "name": "BILLA Vollkorn Semmelbrösel",
+    "category": "Lebensmittel",
+    "subcategories": ["Paniermehl", "Brösel", "Vollkorn"]
+  },
+  {
+    "store": "billa",
+    "id": "00-610488",
+    "name": "Clever Semmelbrösel",
+    "category": "Lebensmittel",
+    "subcategories": ["Paniermehl", "Brösel"]
+  },
+  {
+    "store": "billa",
+    "id": "00-615168",
+    "name": "Clever Semmelwürfel",
+    "category": "Lebensmittel",
+    "subcategories": ["Croutons", "Würfel"]
+  },
+  {
+    "store": "billa",
+    "id": "00-717838",
+    "name": "Free Choice Semmelwürfel Glutenfrei",
+    "category": "Lebensmittel",
+    "subcategories": ["Glutenfrei", "Croutons", "Würfel"]
+  },
+  {
+    "store": "billa",
+    "id": "00-418190",
+    "name": "Free Semmelbrösel glutenfrei",
+    "category": "Lebensmittel",
+    "subcategories": ["Paniermehl", "Brösel", "Glutenfrei"]
+  },
+  {
+    "store": "billa",
+    "id": "00-676081",
+    "name": "Guthaus Semmelbrösel",
+    "category": "Lebensmittel",
+    "subcategories": ["Paniermehl", "Brösel"]
+  },
+  {
+    "store": "billa",
+    "id": "00-969013",
+    "name": "Ja! Natürlich Bio Dinkel Semmelbrösel",
+    "category": "Lebensmittel",
+    "subcategories": ["Paniermehl", "Brösel", "Dinkel"]
+  },
+  {
+    "store": "billa",
+    "id": "00-245327",
+    "name": "Ja! Natürlich Bio Dinkelwürfel",
+    "category": "Lebensmittel",
+    "subcategories": ["Croutons", "Würfel", "Dinkel"]
+  },
+  {
+    "store": "billa",
+    "id": "00-343033",
+    "name": "Ja! Natürlich Semmelbrösel",
+    "category": "Lebensmittel",
+    "subcategories": ["Paniermehl", "Brösel"]
+  },
+  {
+    "store": "billa",
+    "id": "00-343035",
+    "name": "Ja! Natürlich Semmelwürfel",
+    "category": "Lebensmittel",
+    "subcategories": ["Croutons", "Würfel"]
+  },
+  {
+    "store": "billa",
+    "id": "00-633142",
+    "name": "Kuchenpeter Semmelwürfel",
+    "category": "Lebensmittel",
+    "subcategories": ["Croutons", "Würfel"]
+  },
+  {
+    "store": "billa",
+    "id": "00-712994",
+    "name": "28 Black Acai Energy Drink",
+    "category": "Getränke",
+    "subcategories": ["Energy Drink", "Erfrischungsgetränk"]
+  },
+  {
+    "store": "billa",
+    "id": "00-900449",
+    "name": "Active O2 Apple Kiwi",
+    "category": "Getränke",
+    "subcategories": ["Wasser", "Erfrischungsgetränk", "Apfel", "Kiwi"]
+  },
+  {
+    "store": "billa",
+    "id": "00-900450",
+    "name": "Active O2 Cherry",
+    "category": "Getränke",
+    "subcategories": ["Wasser", "Erfrischungsgetränk", "Kirsche"]
+  },
+  {
+    "store": "billa",
+    "id": "00-905153",
+    "name": "Active O2 Orange Lemon",
+    "category": "Getränke",
+    "subcategories": ["Wasser", "Erfrischungsgetränk", "Orange", "Zitrone"]
+  },
+  {
+    "store": "billa",
+    "id": "00-410179",
+    "name": "Almdudler",
+    "category": "Getränke",
+    "subcategories": ["Erfrischungsgetränk"]
+  },
+  {
+    "store": "billa",
+    "id": "00-932351",
+    "name": "Almdudler",
+    "category": "Getränke",
+    "subcategories": ["Erfrischungsgetränk"]
+  },
+  {
+    "store": "billa",
+    "id": "00-859253",
+    "name": "Almdudler",
+    "category": "Getränke",
+    "subcategories": ["Erfrischungsgetränk"]
+  },
+  {
+    "store": "billa",
+    "id": "00-74168",
+    "name": "Almdudler",
+    "category": "Getränke",
+    "subcategories": ["Erfrischungsgetränk"]
+  },
+  {
+    "store": "billa",
+    "id": "00-929308",
+    "name": "Almdudler Alpenkräuter Sirup",
+    "category": "Getränke",
+    "subcategories": ["Sirup", "Alpenkräuter"]
+  },
+  {
+    "store": "billa",
+    "id": "00-932349",
+    "name": "Almdudler Holunder",
+    "category": "Getränke",
+    "subcategories": ["Erfrischungsgetränk", "Holunder"]
+  },
+  {
+    "store": "billa",
+    "id": "00-580049",
+    "name": "Almdudler Mate & Guarana",
+    "category": "Getränke",
+    "subcategories": ["Erfrischungsgetränk", "Mate", "Guarana"]
+  },
+  {
+    "store": "billa",
+    "id": "00-337131",
+    "name": "Almdudler Skiwasser Sirup",
+    "category": "Getränke",
+    "subcategories": ["Sirup", "Skiwasser"]
+  },
+  {
+    "store": "billa",
+    "id": "00-860534",
+    "name": "Almdudler Zuckerfrei",
+    "category": "Getränke",
+    "subcategories": ["Erfrischungsgetränk", "Zuckerfrei"]
+  }
+]

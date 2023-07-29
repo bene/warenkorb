@@ -1,0 +1,695 @@
+[
+    {
+        "store": "spar",
+        "id": "2020002712280",
+        "name": "Fever-Tree Tonic Water Mediterranean",
+        "category": "Getränke",
+        "subcategories": ["Tonic Water", "Mediterranean"]
+    },
+    {
+        "store": "spar",
+        "id": "2020003827006",
+        "name": "Fever-Tree Tonic Water Raspberry & Rhubarb",
+        "category": "Getränke",
+        "subcategories": ["Tonic Water", "Raspberry", "Rhubarb"]
+    },
+    {
+        "store": "spar",
+        "id": "2020003752933",
+        "name": "Fever-Tree Tonic Water Rasperry & Rhubarb",
+        "category": "Getränke",
+        "subcategories": ["Tonic Water", "Raspberry", "Rhubarb"]
+    },
+    {
+        "store": "spar",
+        "id": "2020003967160",
+        "name": "Frankenmarkter Limonade Exotic zuckerfrei",
+        "category": "Getränke",
+        "subcategories": ["Limonade", "Exotic", "zuckerfrei"]
+    },
+    {
+        "store": "spar",
+        "id": "988209",
+        "name": "Frankenmarkter Limonade Himbeere",
+        "category": "Getränke",
+        "subcategories": ["Limonade", "Himbeere"]
+    },
+    {
+        "store": "spar",
+        "id": "988186",
+        "name": "Frankenmarkter Limonade Orange",
+        "category": "Getränke",
+        "subcategories": ["Limonade", "Orange"]
+    },
+    {
+        "store": "spar",
+        "id": "988193",
+        "name": "Frankenmarkter Limonade Zitrone",
+        "category": "Getränke",
+        "subcategories": ["Limonade", "Zitrone"]
+    },
+    {
+        "store": "spar",
+        "id": "2020002107451",
+        "name": "Franz von Durst Tonic Water",
+        "category": "Getränke",
+        "subcategories": ["Tonic Water"]
+    },
+    {
+        "store": "spar",
+        "id": "7939792",
+        "name": "Fohrenburger Jubiläum Spezialbier 0,5lt.",
+        "category": "Getränke",
+        "subcategories": ["Spezialbier"]
+    },
+    {
+        "store": "spar",
+        "id": "7939037",
+        "name": "Fohrenburger Stiftle Vollbier 0,33lt.",
+        "category": "Getränke",
+        "subcategories": ["Vollbier"]
+    },
+    {
+        "store": "spar",
+        "id": "4544609",
+        "name": "Franziskaner Weissbier Dunkel",
+        "category": "Getränke",
+        "subcategories": ["Weissbier", "Dunkel"]
+    },
+    {
+        "store": "spar",
+        "id": "3640777",
+        "name": "Franziskaner Weissbier Naturtrüb",
+        "category": "Getränke",
+        "subcategories": ["Weissbier", "Naturtrüb"]
+    },
+    {
+        "store": "spar",
+        "id": "2020001919703",
+        "name": "Franziskaner alkoholfrei",
+        "category": "Getränke",
+        "subcategories": ["alkoholfrei"]
+    },
+    {
+        "store": "spar",
+        "id": "8026767",
+        "name": "Frastanzer Vollbier 0,33lt.",
+        "category": "Getränke",
+        "subcategories": ["Vollbier"]
+    },
+    {
+        "store": "spar",
+        "id": "2020003293597",
+        "name": "First Wermut dry",
+        "category": "Getränke",
+        "subcategories": ["Wermut", "dry"]
+    },
+    {
+        "store": "spar",
+        "id": "2020003938894",
+        "name": "Flaschenpost Gin",
+        "category": "Getränke",
+        "subcategories": ["Gin"]
+    },
+    {
+        "store": "spar",
+        "id": "7679315",
+        "name": "Four Roses 0,7 L",
+        "category": "Getränke",
+        "subcategories": ["Rum"]
+    },
+    {
+        "store": "spar",
+        "id": "3745069",
+        "name": "Frangelico 0,7 L",
+        "category": "Getränke",
+        "subcategories": ["Likör"]
+    },
+    {
+        "store": "spar",
+        "id": "2020002479572",
+        "name": "Franz von Durst Gin",
+        "category": "Getränke",
+        "subcategories": ["Gin"]
+    },
+    {
+        "store": "spar",
+        "id": "2020002742676",
+        "name": "Franz von Durst Gin + 6 Tonic",
+        "category": "Getränke",
+        "subcategories": ["Gin", "Tonic Water"]
+    },
+    {
+        "store": "spar",
+        "id": "2020003811210",
+        "name": "Franz von Durst Gin Limited Edition",
+        "category": "Getränke",
+        "subcategories": ["Gin"]
+    },
+    {
+        "store": "spar",
+        "id": "2020003420597",
+        "name": "Franz von Durst Wild Gin",
+        "category": "Getränke",
+        "subcategories": ["Gin"]
+    },
+    {
+        "store": "spar",
+        "id": "5132850",
+        "name": "Finca Sobreño Reserva Toro DO 2018",
+        "category": "Getränke",
+        "subcategories": ["Wein", "Reserva", "Toro DO"]
+    },
+    {
+        "store": "spar",
+        "id": "2020003955921",
+        "name": "Finca Valvarès Rioja Crianza DOCa 2018",
+        "category": "Getränke",
+        "subcategories": ["Wein", "Crianza", "DOCa"]
+    },
+    {
+        "store": "spar",
+        "id": "2020002177485",
+        "name": "Fischer Josef Grüner Veltliner Federspiel Wachau DAC 2022",
+        "category": "Getränke",
+        "subcategories": ["Wein", "Grüner Veltliner", "Federspiel", "Wachau DAC"]
+    },
+    {
+        "store": "spar",
+        "id": "2020002547721",
+        "name": "Fischer Josef Grüner Veltliner Smaragd Ried Kreuzberg Wachau DAC 2020",
+        "category": "Getränke",
+        "subcategories": ["Wein", "Grüner Veltliner", "Smaragd", "Ried Kreuzberg", "Wachau DAC"]
+    },
+    {
+        "store": "spar",
+        "id": "2020002407513",
+        "name": "Fish Hoek Chenin Blanc Fairtrade 2022",
+        "category": "Getränke",
+        "subcategories": ["Wein", "Chenin Blanc", "Fairtrade"]
+    },
+    {
+        "store": "spar",
+        "id": "2020002407551",
+        "name": "Fish Hoek Shiraz Fairtrade 2021",
+        "category": "Getränke",
+        "subcategories": ["Wein", "Shiraz", "Fairtrade"]
+    },
+    {
+        "store": "spar",
+        "id": "2020002685737",
+        "name": "Flagstone Dragon Tree Red Blend 2019",
+        "category": "Getränke",
+        "subcategories": ["Wein", "Red Blend"]
+    },
+    {
+        "store": "spar",
+        "id": "2020004753892",
+        "name": "Flagstone Pinotage Writer's Block 2018",
+        "category": "Getränke",
+        "subcategories": ["Wein", "Pinotage", "Writer's Block"]
+    },
+    {
+        "store": "spar",
+        "id": "4891017",
+        "name": "Fonseca Aged Tawny Port 10 Years Old",
+        "category": "Getränke",
+        "subcategories": ["Portwein", "Tawny", "10 Jahre"]
+    },
+    {
+        "store": "spar",
+        "id": "4890966",
+        "name": "Fonseca BIN 27 Fine Reserve Port",
+        "category": "Getränke",
+        "subcategories": ["Portwein", "Fine Reserve"]
+    },
+    {
+        "store": "spar",
+        "id": "2020001903771",
+        "name": "Fonseca BIN 27 Reserve Port",
+        "category": "Getränke",
+        "subcategories": ["Portwein", "Reserve"]
+    },
+    {
+        "store": "spar",
+        "id": "6399498",
+        "name": "Fonseca Late Bottled Vintage Port 2016",
+        "category": "Getränke",
+        "subcategories": ["Portwein", "Late Bottled Vintage"]
+    },
+    {
+        "store": "spar",
+        "id": "4890911",
+        "name": "Fonseca Ruby Port",
+        "category": "Getränke",
+        "subcategories": ["Portwein", "Ruby"]
+    },
+    {
+        "store": "spar",
+        "id": "2020003005336",
+        "name": "Fonseca Ruby Port",
+        "category": "Getränke",
+        "subcategories": ["Portwein", "Ruby"]
+    },
+    {
+        "store": "spar",
+        "id": "2020001106158",
+        "name": "Fonseca Terra Prima Organic Port Finest Reserve",
+        "category": "Getränke",
+        "subcategories": ["Portwein", "Organic", "Finest Reserve"]
+    },
+    {
+        "store": "spar",
+        "id": "4890935",
+        "name": "Fonseca White Port",
+        "category": "Getränke",
+        "subcategories": ["Portwein", "White"]
+    },
+    {
+        "store": "spar",
+        "id": "7706998",
+        "name": "Gaflenzer Schafmischkäse 2 Stück",
+        "category": "Lebensmittel",
+        "subcategories": ["Schafmischkäse"]
+    },
+    {
+        "store": "spar",
+        "id": "3045558",
+        "name": "Galbani Bel Paese",
+        "category": "Lebensmittel",
+        "subcategories": ["Käse", "Bel Paese"]
+    },
+    {
+        "store": "spar",
+        "id": "2020003882883",
+        "name": "GELADORO Erdbeercreme & weiße Schokolde",
+        "category": "Lebensmittel",
+        "subcategories": ["Erdbeercreme", "Weiße Schokolade"]
+    },
+    {
+        "store": "spar",
+        "id": "2020003882876",
+        "name": "GELADORO Nougat Stracciatella",
+        "category": "Lebensmittel",
+        "subcategories": ["Nougat", "Stracciatella"]
+    },
+    {
+        "store": "spar",
+        "id": "2020004305091",
+        "name": "Fruchtbar Bio-Riegel Himbeere-Banane-Dinkel 4 x 23G",
+        "category": "Lebensmittel",
+        "subcategories": ["Bio-Riegel", "Himbeere", "Banane", "Dinkel"]
+    },
+    {
+        "store": "spar",
+        "id": "2020003696848",
+        "name": "Fruchtbar Bunte Bio-Nudeln mit Tomate und Spinat 300G",
+        "category": "Lebensmittel",
+        "subcategories": ["Bio-Nudeln", "Tomate", "Spinat"]
+    },
+    {
+        "store": "spar",
+        "id": "2020003697067",
+        "name": "Fruchtbar Pouch Bolognese",
+        "category": "Lebensmittel",
+        "subcategories": ["Pouch", "Bolognese"]
+    },
+    {
+        "store": "spar",
+        "id": "2020003696657",
+        "name": "Fruchtbar Pouch Erdbeer Heidelbeer Apfel",
+        "category": "Lebensmittel",
+        "subcategories": ["Pouch", "Erdbeer", "Heidelbeer", "Apfel"]
+    },
+    {
+        "store": "spar",
+        "id": "2020003696688",
+        "name": "Fruchtbar Pouch Kirsche Banane Grieß",
+        "category": "Lebensmittel",
+        "subcategories": ["Pouch", "Kirsche", "Banane", "Grieß"]
+    },
+    {
+        "store": "spar",
+        "id": "2020003697098",
+        "name": "Fruchtbar Pouch Pfirsich Korn",
+        "category": "Lebensmittel",
+        "subcategories": ["Pouch", "Pfirsich", "Korn"]
+    },
+    {
+        "store": "spar",
+        "id": "6666309",
+        "name": "Frühkraut per kg 1 KG",
+        "category": "Lebensmittel",
+        "subcategories": ["Gemüse", "Frühkraut"]
+    },
+    {
+        "store": "spar",
+        "id": "2020004643650",
+        "name": "Fuhrgassl Huber Frizzante Rose",
+        "category": "Getränke",
+        "subcategories": ["Frizzante", "Rose"]
+    },
+    {
+        "store": "spar",
+        "id": "6938963",
+        "name": "Frühwirth Friedrich Gelber Muskateller Vulkanland Steiermark DAC 2022",
+        "category": "Getränke",
+        "subcategories": ["Wein", "Gelber Muskateller", "Vulkanland Steiermark DAC"]
+    },
+    {
+        "store": "spar",
+        "id": "5441129",
+        "name": "Frühwirth Friedrich Sauvignon Blanc Vulkanland Steiermark DAC 2022",
+        "category": "Getränke",
+        "subcategories": ["Wein", "Sauvignon Blanc", "Vulkanland Steiermark DAC"]
+    },
+    {
+        "store": "spar",
+        "id": "6938987",
+        "name": "Frühwirth Friedrich Traminer Hoch 3 Vulkanland Steiermark DAC 2022",
+        "category": "Getränke",
+        "subcategories": ["Wein", "Traminer", "Vulkanland Steiermark DAC"]
+    },
+    {
+        "store": "spar",
+        "id": "7989650",
+        "name": "Fuchs-Steinklammer Gemischter Satz DAC",
+        "category": "Getränke",
+        "subcategories": ["Wein", "Gemischter Satz", "DAC"]
+    },
+    {
+        "store": "spar",
+        "id": "2020000736394",
+        "name": "Fuhrgassl Huber Chardonnay Neustift 2021",
+        "category": "Getränke",
+        "subcategories": ["Wein", "Chardonnay"]
+    },
+    {
+        "store": "spar",
+        "id": "2020004071439",
+        "name": "Fuhrgassl Huber Grüner Veltliner Alte Reben Ried Schönherr 2021",
+        "category": "Getränke",
+        "subcategories": ["Wein", "Grüner Veltliner", "Alte Reben", "Ried Schönherr"]
+    },
+    {
+        "store": "spar",
+        "id": "2020000736523",
+        "name": "Fuhrgassl Huber Grüner Veltliner Klassik 2022",
+        "category": "Getränke",
+        "subcategories": ["Wein", "Grüner Veltliner"]
+    },
+    {
+        "store": "spar",
+        "id": "2020004071446",
+        "name": "Fuhrgassl Huber Riesling Muschelkalk 2021",
+        "category": "Getränke",
+        "subcategories": ["Wein", "Riesling", "Muschelkalk"]
+    },
+    {
+        "store": "spar",
+        "id": "2020001179824",
+        "name": "Fuhrgassl Huber Roter Muskateller Neustift 2022",
+        "category": "Getränke",
+        "subcategories": ["Wein", "Roter Muskateller"]
+    },
+    {
+        "store": "spar",
+        "id": "2020004593030",
+        "name": "Félix Solis Mucho Mas Tinto",
+        "category": "Getränke",
+        "subcategories": ["Wein", "Tinto"]
+    },
+    {
+        "store": "spar",
+        "id": "7636998",
+        "name": "Félix Solis Viña Albali Crianza 2018",
+        "category": "Getränke",
+        "subcategories": ["Wein", "Crianza"]
+    },
+    {
+        "store": "spar",
+        "id": "3179338",
+        "name": "Félix Solis Viña Albali Reserva 2017",
+        "category": "Getränke",
+        "subcategories": ["Wein", "Reserva"]
+    },
+    {
+        "store": "spar",
+        "id": "2020004635112",
+        "name": "Frankenmarkter Limonade Limette-Wacholderbeere",
+        "category": "Getränke",
+        "subcategories": ["Limonade", "Limette", "Wacholderbeere"]
+    },
+    {
+        "store": "spar",
+        "id": "2020004635143",
+        "name": "Frankenmarkter Limonade Waldfrucht",
+        "category": "Getränke",
+        "subcategories": ["Limonade", "Waldfrucht"]
+    },
+    {
+        "store": "spar",
+        "id": "1157390",
+        "name": "Frankenmarkter Mineralwasser Zitrone",
+        "category": "Getränke",
+        "subcategories": ["Mineralwasser", "Zitrone"]
+    },
+    {
+        "store": "spar",
+        "id": "2020004635211",
+        "name": "Frankenmarkter Mineralwasser prickelnd",
+        "category": "Getränke",
+        "subcategories": ["Mineralwasser", "prickelnd"]
+    },
+    {
+        "store": "spar",
+        "id": "2020003784118",
+        "name": "Frankenmarkter Pfirsich - zuckerfrei",
+        "category": "Getränke",
+        "subcategories": ["Pfirsich", "zuckerfrei"]
+    },
+    {
+        "store": "spar",
+        "id": "6954154",
+        "name": "Französische Entenkeule 1 KG",
+        "category": "Lebensmittel",
+        "subcategories": ["Fleisch", "Entenkeule"]
+    },
+    {
+        "store": "spar",
+        "id": "3045541",
+        "name": "Fol Epi Schnittkäse",
+        "category": "Lebensmittel",
+        "subcategories": ["Käse", "Schnittkäse"]
+    },
+    {
+        "store": "spar",
+        "id": "8167941",
+        "name": "Fol Epi Schnittkäse Caractére",
+        "category": "Lebensmittel",
+        "subcategories": ["Käse", "Schnittkäse", "Caractére"]
+    },
+    {
+        "store": "spar",
+        "id": "6686864",
+        "name": "Fol Epi Schnittkäse Classic",
+        "category": "Lebensmittel",
+        "subcategories": ["Käse", "Schnittkäse", "Classic"]
+    },
+    {
+        "store": "spar",
+        "id": "6687106",
+        "name": "Fol Epi Schnittkäse Pfeffer",
+        "category": "Lebensmittel",
+        "subcategories": ["Käse", "Schnittkäse", "Pfeffer"]
+    },
+    {
+        "store": "spar",
+        "id": "5343393",
+        "name": "Fransial Brie de Meaux A.O.P.",
+        "category": "Lebensmittel",
+        "subcategories": ["Käse", "Brie de Meaux A.O.P."]
+    },
+    {
+        "store": "spar",
+        "id": "3946503",
+        "name": "Frz. Brie Le Maubert 1 KG",
+        "category": "Lebensmittel",
+        "subcategories": ["Käse", "Brie Le Maubert"]
+    },
+    {
+        "store": "spar",
+        "id": "2020003814662",
+        "name": "Frz. Langres 180 G",
+        "category": "Lebensmittel",
+        "subcategories": ["Käse", "Langres"]
+    },
+    {
+        "store": "spar",
+        "id": "5868926",
+        "name": "Frz. Le Vieux Pané 1 KG",
+        "category": "Lebensmittel",
+        "subcategories": ["Käse", "Le Vieux Pané"]
+    },
+    {
+        "store": "spar",
+        "id": "1320077",
+        "name": "Furore Bregenzerwälder Ursalzkäse",
+        "category": "Lebensmittel",
+        "subcategories": ["Käse", "Ursalzkäse"]
+    },
+    {
+        "store": "spar",
+        "id": "5392285",
+        "name": "Furore Bregenzewälder Alpenkäse",
+        "category": "Lebensmittel",
+        "subcategories": ["Käse", "Alpenkäse"]
+    },
+    {
+        "store": "spar",
+        "id": "2020003696947",
+        "name": "Fruchtbar Riegel Aprikose Apfel Hafer",
+        "category": "Lebensmittel",
+        "subcategories": ["Riegel", "Aprikose", "Apfel", "Hafer"]
+    },
+    {
+        "store": "spar",
+        "id": "2020003696985",
+        "name": "Fruchtbar Riegel Erdbeer Apfel Hafer",
+        "category": "Lebensmittel",
+        "subcategories": ["Riegel", "Erdbeer", "Apfel", "Hafer"]
+    },
+    {
+        "store": "spar",
+        "id": "2020003696992",
+        "name": "Fruchtbar Riegel Heidelbeere Banane Hafer",
+        "category": "Lebensmittel",
+        "subcategories": ["Riegel", "Heidelbeere", "Banane", "Hafer"]
+    },
+    {
+        "store": "spar",
+        "id": "7989698",
+        "name": "Fuchs-Steinklammer Cuvee Titan",
+        "category": "Getränke",
+        "subcategories": ["Wein", "Cuvee", "Titan"]
+    },
+    {
+        "store": "spar",
+        "id": "2020004100351",
+        "name": "Fuhrgassl Huber Rosé Antoinette 2021",
+        "category": "Getränke",
+        "subcategories": ["Rosé", "Antoinette"]
+    },
+    {
+        "store": "spar",
+        "id": "3179345",
+        "name": "Félix Solis Viña Albali Gran Reserva Selecion Privada 2016",
+        "category": "Getränke",
+        "subcategories": ["Wein", "Gran Reserva", "Selecion Privada"]
+    },
+    {
+        "store": "spar",
+        "id": "2020000619413",
+        "name": "Fürstenhof Bio-Frischkäse Bärlauch",
+        "category": "Lebensmittel",
+        "subcategories": ["Bio-Frischkäse", "Bärlauch"]
+    },
+    {
+        "store": "spar",
+        "id": "2020000619345",
+        "name": "Fürstenhof Bio-Frischkäse in Öl-Almkräuter",
+        "category": "Lebensmittel",
+        "subcategories": ["Bio-Frischkäse", "Almkräuter"]
+    },
+    {
+        "store": "spar",
+        "id": "2020000619468",
+        "name": "Fürstenhof Bio-Frischkäse in Öl-Almkräuter",
+        "category": "Lebensmittel",
+        "subcategories": ["Bio-Frischkäse", "Almkräuter"]
+    },
+    {
+        "store": "spar",
+        "id": "2020000619444",
+        "name": "Fürstenhof Bio-Frischkäse in Öl-Knoblauch",
+        "category": "Lebensmittel",
+        "subcategories": ["Bio-Frischkäse", "Knoblauch"]
+    },
+    {
+        "store": "spar",
+        "id": "2020000619697",
+        "name": "Fürstenhof Bio-Frischkäse in Öl-Paprika/Chili",
+        "category": "Lebensmittel",
+        "subcategories": ["Bio-Frischkäse", "Paprika", "Chili"]
+    },
+    {
+        "store": "spar",
+        "id": "2020000619369",
+        "name": "Fürstenhof Bio-Frischkäsecreme Chili",
+        "category": "Lebensmittel",
+        "subcategories": ["Bio-Frischkäsecreme", "Chili"]
+    },
+    {
+        "store": "spar",
+        "id": "2020002402426",
+        "name": "GAZi Grill- und Pfannenkäse Chili",
+        "category": "Lebensmittel",
+        "subcategories": ["Grill- und Pfannenkäse", "Chili"]
+    },
+    {
+        "store": "spar",
+        "id": "2020002913625",
+        "name": "GAZi Grill- und Pfannenkäse Honey BBQ 2x 100g",
+        "category": "Lebensmittel",
+        "subcategories": ["Grill- und Pfannenkäse", "Honey BBQ"]
+    },
+    {
+        "store": "spar",
+        "id": "2020002402440",
+        "name": "GAZi Grill- und Pfannenkäse Natur 2x100g",
+        "category": "Lebensmittel",
+        "subcategories": ["Grill- und Pfannenkäse", "Natur"]
+    },
+    {
+        "store": "spar",
+        "id": "2020002402433",
+        "name": "GAZi Grill- und Pfannenkäse mit mediterranen Kräutern 2x100g",
+        "category": "Lebensmittel",
+        "subcategories": ["Grill- und Pfannenkäse", "mediterrane Kräuter"]
+    },
+    {
+        "store": "spar",
+        "id": "2020004538826",
+        "name": "GAZi Hirtenkäse",
+        "category": "Lebensmittel",
+        "subcategories": ["Hirtenkäse"]
+    },
+    {
+        "store": "spar",
+        "id": "2020002402457",
+        "name": "GAZi Hirtenkäse Classic",
+        "category": "Lebensmittel",
+        "subcategories": ["Hirtenkäse", "Classic"]
+    },
+    {
+        "store": "spar",
+        "id": "2020004595263",
+        "name": "GAZi Schafkäse",
+        "category": "Lebensmittel",
+        "subcategories": ["Schafkäse"]
+    },
+    {
+        "store": "spar",
+        "id": "2020002850050",
+        "name": "Ferrero Kinder Choco Fresh 5 x 20,5g",
+        "category": "Lebensmittel",
+        "subcategories": ["Kinder Choco Fresh"]
+    },
+    {
+        "store": "spar",
+        "id": "3728826",
+        "name": "Ferrero Kinder Maxi King 3 x 35g",
+        "category": "Lebensmittel",
+        "subcategories": ["Kinder Maxi King"]
+    }
+]

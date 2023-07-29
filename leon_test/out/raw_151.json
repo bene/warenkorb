@@ -1,0 +1,989 @@
+[
+  {
+    "store": "hofer",
+    "id": 549487,
+    "name": "ROI DE TREFLE Der französische Camembert Klassik 250g",
+    "category": "Käse",
+    "subcategories": [
+      "Camembert",
+      "französisch"
+    ]
+  },
+  {
+    "store": "hofer",
+    "id": 549485,
+    "name": "ROI DE TREFLE Der französische Camembert würzig 250g",
+    "category": "Käse",
+    "subcategories": [
+      "Camembert",
+      "französisch"
+    ]
+  },
+  {
+    "store": "hofer",
+    "id": 545581,
+    "name": "ROI DE TREFLE Französicher Weichkäse mit Joghurt-Kulturen 200g",
+    "category": "Käse",
+    "subcategories": [
+      "Weichkäse",
+      "französisch"
+    ]
+  },
+  {
+    "store": "hofer",
+    "id": 545582,
+    "name": "ROI DE TREFLE Französischer Brie würzig-cremig 200g",
+    "category": "Käse",
+    "subcategories": [
+      "Brie",
+      "französisch"
+    ]
+  },
+  {
+    "store": "hofer",
+    "id": 546566,
+    "name": "ROI DE TREFLE Zarte Scheiben Bunter Pfeffer 200g",
+    "category": "Käse",
+    "subcategories": [
+      "Scheiben",
+      "Pfeffer"
+    ]
+  },
+  {
+    "store": "hofer",
+    "id": 549550,
+    "name": "ROI DE TREFLE Zarte Scheiben Kräuter 200g",
+    "category": "Käse",
+    "subcategories": [
+      "Scheiben",
+      "Kräuter"
+    ]
+  },
+  {
+    "store": "hofer",
+    "id": 546565,
+    "name": "ROI DE TREFLE Zarte Scheiben cremig 200g",
+    "category": "Käse",
+    "subcategories": [
+      "Scheiben",
+      "cremig"
+    ]
+  },
+  {
+    "store": "hofer",
+    "id": 546564,
+    "name": "ROI DE TREFLE Zarte Scheiben würzig 200g",
+    "category": "Käse",
+    "subcategories": [
+      "Scheiben",
+      "würzig"
+    ]
+  },
+  {
+    "store": "hofer",
+    "id": 544205,
+    "name": "SAINT ALBRAY L'intense Weichkäse 180g",
+    "category": "Käse",
+    "subcategories": [
+      "Weichkäse"
+    ]
+  },
+  {
+    "store": "hofer",
+    "id": 544206,
+    "name": "SAINT ALBRAY Légére Weichkäse 180g",
+    "category": "Käse",
+    "subcategories": [
+      "Weichkäse"
+    ]
+  },
+  {
+    "store": "hofer",
+    "id": 544207,
+    "name": "SAINT ALBRAY vollmundig & würzig Weichkäse 180g",
+    "category": "Käse",
+    "subcategories": [
+      "Weichkäse",
+      "würzig"
+    ]
+  },
+  {
+    "store": "hofer",
+    "id": 545595,
+    "name": "SAINT ALBRAY vollmundig & würzig klassik Weichkäse 180g",
+    "category": "Käse",
+    "subcategories": [
+      "Weichkäse",
+      "würzig"
+    ]
+  },
+  {
+    "store": "hofer",
+    "id": 544174,
+    "name": "ZURÜCK ZUM URSPRUNG Hummus Natur 150g",
+    "category": "Dip",
+    "subcategories": [
+      "Hummus",
+      "Natur"
+    ]
+  },
+  {
+    "store": "hofer",
+    "id": 544173,
+    "name": "ZURÜCK ZUM URSPRUNG Hummus Orientalisch 150g",
+    "category": "Dip",
+    "subcategories": [
+      "Hummus",
+      "Orientalisch"
+    ]
+  },
+  {
+    "store": "hofer",
+    "id": 545572,
+    "name": "ZURÜCK ZUM URSPRUNG Hummus Rote Rübe 150g",
+    "category": "Dip",
+    "subcategories": [
+      "Hummus",
+      "Rote Rübe"
+    ]
+  },
+  {
+    "store": "hofer",
+    "id": 546802,
+    "name": "ZURÜCK ZUM URSPRUNG Kräftig-pikanter Bergbauern Heumilch Käse 175g",
+    "category": "Käse",
+    "subcategories": [
+      "Bergbauern",
+      "Heumilch",
+      "Käse"
+    ]
+  },
+  {
+    "store": "hofer",
+    "id": 544031,
+    "name": "ZURÜCK ZUM URSPRUNG Mariazeller 175g",
+    "category": "Käse",
+    "subcategories": [
+      "Mariazeller"
+    ]
+  },
+  {
+    "store": "hofer",
+    "id": 545685,
+    "name": "ZURÜCK ZUM URSPRUNG Pikanter Bergbauern Schlosskäse 125g",
+    "category": "Käse",
+    "subcategories": [
+      "Bergbauern",
+      "Schlosskäse",
+      "pikant"
+    ]
+  },
+  {
+    "store": "hofer",
+    "id": 548822,
+    "name": "ZURÜCK ZUM URSPRUNG Schaf-Schnittkäse Natur 200g",
+    "category": "Käse",
+    "subcategories": [
+      "Schaf-Schnittkäse"
+    ]
+  },
+  {
+    "store": "hofer",
+    "id": 548823,
+    "name": "ZURÜCK ZUM URSPRUNG Schaf-Schnittkäse Pfeffer 200g",
+    "category": "Käse",
+    "subcategories": [
+      "Schaf-Schnittkäse",
+      "Pfeffer"
+    ]
+  },
+  {
+    "store": "hofer",
+    "id": 544726,
+    "name": "ZURÜCK ZUM URSPRUNG Schafcamembert Natur 100g",
+    "category": "Käse",
+    "subcategories": [
+      "Schafcamembert",
+      "Natur"
+    ]
+  },
+  {
+    "store": "hofer",
+    "id": 544727,
+    "name": "ZURÜCK ZUM URSPRUNG Schafcamembert Pfeffer 100g",
+    "category": "Käse",
+    "subcategories": [
+      "Schafcamembert",
+      "Pfeffer"
+    ]
+  },
+  {
+    "store": "hofer",
+    "id": 546002,
+    "name": "ZURÜCK ZUM URSPRUNG Schaffrischkäse Natur 150g",
+    "category": "Käse",
+    "subcategories": [
+      "Schaffrischkäse",
+      "Natur"
+    ]
+  },
+  {
+    "store": "hofer",
+    "id": 545668,
+    "name": "ZURÜCK ZUM URSPRUNG Latte Espresso 250ml",
+    "category": "Getränke",
+    "subcategories": [
+      "Latte",
+      "Espresso"
+    ]
+  },
+  {
+    "store": "hofer",
+    "id": 545669,
+    "name": "ZURÜCK ZUM URSPRUNG Latte Macchiato 250ml",
+    "category": "Getränke",
+    "subcategories": [
+      "Latte",
+      "Macchiato"
+    ]
+  },
+  {
+    "store": "hofer",
+    "id": 547651,
+    "name": "ZURÜCK ZUM URSPRUNG Längerfrisches Bergbauern Schlagobers 250ml",
+    "category": "Milchprodukte",
+    "subcategories": [
+      "Bergbauern",
+      "Schlagobers"
+    ]
+  },
+  {
+    "store": "hofer",
+    "id": 546466,
+    "name": "ZURÜCK ZUM URSPRUNG Murauer Bergbauern Heumilch länger frisch 3,6 % Fett 1l",
+    "category": "Milchprodukte",
+    "subcategories": [
+      "Bergbauern",
+      "Heumilch",
+      "Frischmilch"
+    ]
+  },
+  {
+    "store": "hofer",
+    "id": 548714,
+    "name": "ZURÜCK ZUM URSPRUNG Naturjoghurt im Glas 350g",
+    "category": "Joghurt",
+    "subcategories": [
+      "Naturjoghurt",
+      "Glas"
+    ]
+  },
+  {
+    "store": "hofer",
+    "id": 544979,
+    "name": "ZURÜCK ZUM URSPRUNG Schafmilch 500ml",
+    "category": "Milchprodukte",
+    "subcategories": [
+      "Schafmilch"
+    ]
+  },
+  {
+    "store": "hofer",
+    "id": 548820,
+    "name": "ZURÜCK ZUM URSPRUNG Schafmilch Joghurt Natur 400g",
+    "category": "Joghurt",
+    "subcategories": [
+      "Schafmilch",
+      "Naturjoghurt"
+    ]
+  },
+  {
+    "store": "hofer",
+    "id": 543932,
+    "name": "ZURÜCK ZUM URSPRUNG Streichzart mit Bergbauernbutter und Sonnenblumenöl 250g",
+    "category": "Brotaufstrich",
+    "subcategories": [
+      "Streichzart",
+      "Bergbauernbutter",
+      "Sonnenblumenöl"
+    ]
+  },
+  {
+    "store": "hofer",
+    "id": 549497,
+    "name": "ZURÜCK ZUM URSPRUNG Kantwurst 100g",
+    "category": "Wurst",
+    "subcategories": [
+      "Kantwurst"
+    ]
+  },
+  {
+    "store": "hofer",
+    "id": 546516,
+    "name": "ZURÜCK ZUM URSPRUNG Karreerose 80g",
+    "category": "Wurst",
+    "subcategories": [
+      "Karreerose"
+    ]
+  },
+  {
+    "store": "hofer",
+    "id": 544192,
+    "name": "ZURÜCK ZUM URSPRUNG Käsewurst 100g",
+    "category": "Wurst",
+    "subcategories": [
+      "Käsewurst"
+    ]
+  },
+  {
+    "store": "hofer",
+    "id": 544161,
+    "name": "ZURÜCK ZUM URSPRUNG Pariser 130g",
+    "category": "Wurst",
+    "subcategories": [
+      "Pariser"
+    ]
+  },
+  {
+    "store": "hofer",
+    "id": 545565,
+    "name": "ZURÜCK ZUM URSPRUNG Pariser Pikant 130g",
+    "category": "Wurst",
+    "subcategories": [
+      "Pariser",
+      "Pikant"
+    ]
+  },
+  {
+    "store": "hofer",
+    "id": 549456,
+    "name": "ZURÜCK ZUM URSPRUNG Salami 100g",
+    "category": "Wurst",
+    "subcategories": [
+      "Salami"
+    ]
+  },
+  {
+    "store": "hofer",
+    "id": 544985,
+    "name": "ZURÜCK ZUM URSPRUNG Speckwürfel 120g",
+    "category": "Fleisch",
+    "subcategories": [
+      "Speckwürfel"
+    ]
+  },
+  {
+    "store": "hofer",
+    "id": 546201,
+    "name": "ZURÜCK ZUM URSPRUNG Sojadrink Natur 1l",
+    "category": "Getränke",
+    "subcategories": [
+      "Sojadrink",
+      "Natur"
+    ]
+  },
+  {
+    "store": "hofer",
+    "id": 546417,
+    "name": "ZURÜCK ZUM URSPRUNG Schokolade Milcheis 360g",
+    "category": "Eis",
+    "subcategories": [
+      "Schokolade",
+      "Milcheis"
+    ]
+  },
+  {
+    "store": "hofer",
+    "id": 546419,
+    "name": "ZURÜCK ZUM URSPRUNG Schwarze Ribisel Sorbet 360g",
+    "category": "Eis",
+    "subcategories": [
+      "Schwarze Ribisel",
+      "Sorbet"
+    ]
+  },
+  {
+    "store": "hofer",
+    "id": 548474,
+    "name": "ZURÜCK ZUM URSPRUNG Hirse-Maisstangerl 30g",
+    "category": "Snack",
+    "subcategories": [
+      "Hirse-Maisstangerl"
+    ]
+  },
+  {
+    "store": "hofer",
+    "id": 546820,
+    "name": "ZURÜCK ZUM URSPRUNG Hühnerfleischzubereitung 125g",
+    "category": "Fleisch",
+    "subcategories": [
+      "Hühnerfleischzubereitung"
+    ]
+  },
+  {
+    "store": "hofer",
+    "id": 546915,
+    "name": "ZURÜCK ZUM URSPRUNG Karotten Kartoffeln und Rindfleisch 190g",
+    "category": "Fertiggericht",
+    "subcategories": [
+      "Karotten",
+      "Kartoffeln",
+      "Rindfleisch"
+    ]
+  },
+  {
+    "store": "hofer",
+    "id": 546821,
+    "name": "ZURÜCK ZUM URSPRUNG Marille in Birne 190g",
+    "category": "Fertiggericht",
+    "subcategories": [
+      "Marille",
+      "Birne"
+    ]
+  },
+  {
+    "store": "hofer",
+    "id": 545114,
+    "name": "ZURÜCK ZUM URSPRUNG Milchbreigrieß mit Heumilch 250g",
+    "category": "Getreide",
+    "subcategories": [
+      "Milchbreigrieß",
+      "Heumilch"
+    ]
+  },
+  {
+    "store": "hofer",
+    "id": 546908,
+    "name": "ZURÜCK ZUM URSPRUNG Müsli mit Apfel und Birne 190g",
+    "category": "Frühstück",
+    "subcategories": [
+      "Müsli",
+      "Apfel",
+      "Birne"
+    ]
+  },
+  {
+    "store": "hofer",
+    "id": 546912,
+    "name": "ZURÜCK ZUM URSPRUNG Spaghetti Bolognese 220g",
+    "category": "Fertiggericht",
+    "subcategories": [
+      "Spaghetti",
+      "Bolognese"
+    ]
+  },
+  {
+    "store": "hofer",
+    "id": 549314,
+    "name": "ZURÜCK ZUM URSPRUNG Pizza & Pasta Gewürzzubereitung 35g",
+    "category": "Gewürze",
+    "subcategories": [
+      "Pizzagewürz",
+      "Pastagewürz"
+    ]
+  },
+  {
+    "store": "hofer",
+    "id": 549840,
+    "name": "ZURÜCK ZUM URSPRUNG Sauerkraut 500g",
+    "category": "Gemüse",
+    "subcategories": [
+      "Sauerkraut"
+    ]
+  },
+  {
+    "store": "hofer",
+    "id": 544944,
+    "name": "ZURÜCK ZUM URSPRUNG Porridge Basis Honig 500g",
+    "category": "Getreide",
+    "subcategories": [
+      "Porridge",
+      "Honig"
+    ]
+  },
+  {
+    "store": "hofer",
+    "id": 544945,
+    "name": "ZURÜCK ZUM URSPRUNG Porridge Früchte 500g",
+    "category": "Getreide",
+    "subcategories": [
+      "Porridge",
+      "Früchte"
+    ]
+  },
+  {
+    "store": "hofer",
+    "id": 544771,
+    "name": "ZURÜCK ZUM URSPRUNG Helle Dinkel Penne 500g",
+    "category": "Getreide",
+    "subcategories": [
+      "Dinkel",
+      "Penne"
+    ]
+  },
+  {
+    "store": "hofer",
+    "id": 545577,
+    "name": "ZURÜCK ZUM URSPRUNG Tellerlinsen 600g",
+    "category": "Hülsenfrüchte",
+    "subcategories": [
+      "Linsen"
+    ]
+  },
+  {
+    "store": "hofer",
+    "id": 547977,
+    "name": "ZURÜCK ZUM URSPRUNG Popcornmais 500g",
+    "category": "Snack",
+    "subcategories": [
+      "Popcornmais"
+    ]
+  },
+  {
+    "store": "hofer",
+    "id": 544121,
+    "name": "ZURÜCK ZUM URSPRUNG Kraftkekse Apfel-Hafer 140g",
+    "category": "Kekse",
+    "subcategories": [
+      "Apfel-Hafer",
+      "Kekse"
+    ]
+  },
+  {
+    "store": "hofer",
+    "id": 548880,
+    "name": "ZURÜCK ZUM URSPRUNG Handcreme mit Sonnenblumen und Sanddorn 30ml",
+    "category": "Körperpflege",
+    "subcategories": [
+      "Handcreme",
+      "Sonnenblumen",
+      "Sanddorn"
+    ]
+  },
+  {
+    "store": "hofer",
+    "id": 549194,
+    "name": "ZURÜCK ZUM URSPRUNG Lippenbalsam 5g",
+    "category": "Körperpflege",
+    "subcategories": [
+      "Lippenbalsam"
+    ]
+  },
+  {
+    "store": "hofer",
+    "id": 548053,
+    "name": "ZURÜCK ZUM URSPRUNG Premium Erdäpfel 1,5kg",
+    "category": "Gemüse",
+    "subcategories": [
+      "Erdäpfel"
+    ]
+  },
+  {
+    "store": "hofer",
+    "id": 547305,
+    "name": "ZURÜCK ZUM URSPRUNG Äpfel 1,5kg",
+    "category": "Obst",
+    "subcategories": [
+      "Äpfel"
+    ]
+  },
+  {
+    "store": "hofer",
+    "id": 548793,
+    "name": "ZURÜCK ZUM URSPRUNG Tomaten 500g",
+    "category": "Gemüse",
+    "subcategories": [
+      "Tomaten"
+    ]
+  },
+  {
+    "store": "hofer",
+    "id": 550055,
+    "name": "ZURÜCK ZUM URSPRUNG Tomatenraritäten 600g",
+    "category": "Gemüse",
+    "subcategories": [
+      "Tomaten"
+    ]
+  },
+  {
+    "store": "hofer",
+    "id": 547250,
+    "name": "ZURÜCK ZUM URSPRUNG Zwiebeln rot 1kg",
+    "category": "Gemüse",
+    "subcategories": [
+      "Zwiebeln"
+    ]
+  },
+  {
+    "store": "hofer",
+    "id": 543800,
+    "name": "ZURÜCK ZUM URSPRUNG Vollkorn-Buttertoast 500g",
+    "category": "Brot",
+    "subcategories": [
+      "Vollkorn",
+      "Buttertoast"
+    ]
+  },
+  {
+    "store": "hofer",
+    "id": 544882,
+    "name": "ÖLZ Schulmaus 6 Stück 240g",
+    "category": "Snack",
+    "subcategories": [
+      "Schulmaus"
+    ]
+  },
+  {
+    "store": "hofer",
+    "id": 545510,
+    "name": "ZURÜCK ZUM URSPRUNG Tilsiter 175g",
+    "category": "Käse",
+    "subcategories": [
+      "Tilsiter"
+    ]
+  },
+  {
+    "store": "hofer",
+    "id": 548866,
+    "name": "ZURÜCK ZUM URSPRUNG Weichkäse in Salzlake 400g",
+    "category": "Käse",
+    "subcategories": [
+      "Weichkäse",
+      "Salzlake"
+    ]
+  },
+  {
+    "store": "hofer",
+    "id": 545440,
+    "name": "ZURÜCK ZUM URSPRUNG Würzig-Cremiger Bergbauern St. Hubertus Weichkäse 250g",
+    "category": "Käse",
+    "subcategories": [
+      "Bergbauern",
+      "St. Hubertus",
+      "Weichkäse",
+      "würzig"
+    ]
+  },
+  {
+    "store": "hofer",
+    "id": 545684,
+    "name": "ZURÜCK ZUM URSPRUNG Würziger Bergbauern Brie Pfeffer 150g",
+    "category": "Käse",
+    "subcategories": [
+      "Bergbauern",
+      "Brie",
+      "Pfeffer",
+      "würzig"
+    ]
+  },
+  {
+    "store": "hofer",
+    "id": 548821,
+    "name": "ZURÜCK ZUM URSPRUNG Ziegen-Schnittkäse Natur 200g",
+    "category": "Käse",
+    "subcategories": [
+      "Ziegen-Schnittkäse",
+      "Natur"
+    ]
+  },
+  {
+    "store": "hofer",
+    "id": 548824,
+    "name": "ZURÜCK ZUM URSPRUNG Ziegen-Schnittkäse Pfeffer 200g",
+    "category": "Käse",
+    "subcategories": [
+      "Ziegen-Schnittkäse",
+      "Pfeffer"
+    ]
+  },
+  {
+    "store": "hofer",
+    "id": 544724,
+    "name": "ZURÜCK ZUM URSPRUNG Ziegencamembert Natur 100g",
+    "category": "Käse",
+    "subcategories": [
+      "Ziegencamembert",
+      "Natur"
+    ]
+  },
+  {
+    "store": "hofer",
+    "id": 544725,
+    "name": "ZURÜCK ZUM URSPRUNG Ziegencamembert Pfeffer 100g",
+    "category": "Käse",
+    "subcategories": [
+      "Ziegencamembert",
+      "Pfeffer"
+    ]
+  },
+  {
+    "store": "hofer",
+    "id": 546001,
+    "name": "ZURÜCK ZUM URSPRUNG Ziegenfrischkäse Natur 150g",
+    "category": "Käse",
+    "subcategories": [
+      "Ziegenfrischkäse",
+      "Natur"
+    ]
+  },
+  {
+    "store": "hofer",
+    "id": 547118,
+    "name": "SNACK TIME Fruehstuecksbecher Erdbeere 285g",
+    "category": "Frühstück",
+    "subcategories": [
+      "Frühstücksbecher",
+      "Erdbeere"
+    ]
+  },
+  {
+    "store": "hofer",
+    "id": 547119,
+    "name": "SNACK TIME Frühstücksbecher Kirsche 285g",
+    "category": "Frühstück",
+    "subcategories": [
+      "Frühstücksbecher",
+      "Kirsche"
+    ]
+  },
+  {
+    "store": "hofer",
+    "id": 549206,
+    "name": "SNACK TIME Frühstücksbecher Rote Grütze 285g",
+    "category": "Frühstück",
+    "subcategories": [
+      "Frühstücksbecher",
+      "Rote Grütze"
+    ]
+  },
+  {
+    "store": "hofer",
+    "id": 546128,
+    "name": "ZURÜCK ZUM URSPRUNG Ursprungsmilch 1l",
+    "category": "Milchprodukte",
+    "subcategories": [
+      "Ursprungsmilch"
+    ]
+  },
+  {
+    "store": "hofer",
+    "id": 548518,
+    "name": "ZURÜCK ZUM URSPRUNG Ziegenmilch Joghurt Natur 400g",
+    "category": "Joghurt",
+    "subcategories": [
+      "Ziegenmilch",
+      "Naturjoghurt"
+    ]
+  },
+  {
+    "store": "hofer",
+    "id": 546465,
+    "name": "ZURÜCK ZUM URSPRUNG frische Murauer Bergbauern Heumilch 3,6 % Fett 1l",
+    "category": "Milchprodukte",
+    "subcategories": [
+      "Bergbauern",
+      "Heumilch",
+      "Frischmilch"
+    ]
+  },
+  {
+    "store": "hofer",
+    "id": 546549,
+    "name": "ZURÜCK ZUM URSPRUNG leichte Murauer Bergbauern Heumilch 0,9 % Fett länger frisch 1l",
+    "category": "Milchprodukte",
+    "subcategories": [
+      "Bergbauern",
+      "Heumilch",
+      "Leichtmilch"
+    ]
+  },
+  {
+    "store": "hofer",
+    "id": 549263,
+    "name": "ÍSEY SKYR Creme brulee 170g",
+    "category": "Dessert",
+    "subcategories": [
+      "Skry",
+      "Creme brulee"
+    ]
+  },
+  {
+    "store": "hofer",
+    "id": 549805,
+    "name": "ÍSEY SKYR Erdbeer-Schoko 170g",
+    "category": "Dessert",
+    "subcategories": [
+      "Skry",
+      "Erdbeer",
+      "Schoko"
+    ]
+  },
+  {
+    "store": "hofer",
+    "id": 549209,
+    "name": "ÍSEY SKYR Mango 170g",
+    "category": "Dessert",
+    "subcategories": [
+      "Skry",
+      "Mango"
+    ]
+  },
+  {
+    "store": "hofer",
+    "id": 544160,
+    "name": "ZURÜCK ZUM URSPRUNG Toast Schinken 100g",
+    "category": "Aufschnitt",
+    "subcategories": [
+      "Toast",
+      "Schinken"
+    ]
+  },
+  {
+    "store": "hofer",
+    "id": 548549,
+    "name": "ZURÜCK ZUM URSPRUNG Waldviertler 220g",
+    "category": "Aufschnitt",
+    "subcategories": [
+      "Waldviertler"
+    ]
+  },
+  {
+    "store": "hofer",
+    "id": 547716,
+    "name": "ZURÜCK ZUM URSPRUNG Wiener Aufschnitt 100g",
+    "category": "Aufschnitt",
+    "subcategories": [
+      "Wiener"
+    ]
+  },
+  {
+    "store": "hofer",
+    "id": 549425,
+    "name": "SIMPLY V Natur Käsealternative 150g",
+    "category": "Käse",
+    "subcategories": [
+      "Käsealternative",
+      "Natur"
+    ]
+  },
+  {
+    "store": "hofer",
+    "id": 549423,
+    "name": "SIMPLY V Reibegenuss 200g",
+    "category": "Käse",
+    "subcategories": [
+      "Reibegenuss"
+    ]
+  },
+  {
+    "store": "hofer",
+    "id": 548829,
+    "name": "SIMPLY V Veganer Grillgenuss Mediterrane Kräuter 150g",
+    "category": "Käse",
+    "subcategories": [
+      "Veganer Grillgenuss",
+      "Mediterrane Kräuter"
+    ]
+  },
+  {
+    "store": "hofer",
+    "id": 548827,
+    "name": "SIMPLY V Veganer Grillgenuss Mild-cremig 150g",
+    "category": "Käse",
+    "subcategories": [
+      "Veganer Grillgenuss",
+      "mild-cremig"
+    ]
+  },
+  {
+    "store": "hofer",
+    "id": 548828,
+    "name": "SIMPLY V Veganer Grillgenuss Tomate 150g",
+    "category": "Käse",
+    "subcategories": [
+      "Veganer Grillgenuss",
+      "Tomate"
+    ]
+  },
+  {
+    "store": "hofer",
+    "id": 549756,
+    "name": "SIMPLY V Veganer Käse Kräuter 150g",
+    "category": "Käse",
+    "subcategories": [
+      "Veganer Käse",
+      "Kräuter"
+    ]
+  },
+  {
+    "store": "hofer",
+    "id": 549757,
+    "name": "SIMPLY V Veganer Käse Mild 150g",
+    "category": "Käse",
+    "subcategories": [
+      "Veganer Käse",
+      "mild"
+    ]
+  },
+  {
+    "store": "hofer",
+    "id": 549424,
+    "name": "SIMPLY V Würzige Käsealternative 150g",
+    "category": "Käse",
+    "subcategories": [
+      "Käsealternative",
+      "würzig"
+    ]
+  },
+  {
+    "store": "hofer",
+    "id": 546980,
+    "name": "ZURÜCK ZUM URSPRUNG Tofu Chili 200g",
+    "category": "Tofu",
+    "subcategories": [
+      "Tofu",
+      "Chili"
+    ]
+  },
+  {
+    "store": "hofer",
+    "id": 545611,
+    "name": "ZURÜCK ZUM URSPRUNG Tofu Natur 350g",
+    "category": "Tofu",
+    "subcategories": [
+      "Tofu",
+      "Natur"
+    ]
+  },
+  {
+    "store": "hofer",
+    "id": 544217,
+    "name": "ZURÜCK ZUM URSPRUNG Tofu geräuchert 250g",
+    "category": "Tofu",
+    "subcategories": [
+      "Tofu",
+      "geräuchert"
+    ]
+  },
+  {
+    "store": "hofer",
+    "id": 546418,
+    "name": "ZURÜCK ZUM URSPRUNG Vanille Milcheis 360g",
+    "category": "Eis",
+    "subcategories": [
+      "Vanille",
+      "Milcheis"
+    ]
+  },
+  {
+    "store": "hofer",
+    "id": 547088,
+    "name": "ZURÜCK ZUM URSPRUNG Vanille Milcheis Stieleis 80ml",
+    "category": "Eis",
+    "subcategories": [
+      "Vanille",
+      "Milcheis",
+      "Stieleis"
+    ]
+  }
+]

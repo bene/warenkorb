@@ -1,0 +1,993 @@
+[
+   {
+      "store":"spar",
+      "id":"7447464",
+      "name":"Sarotto Gavi di Gavi DOCG 2021",
+      "category":"Wein",
+      "subcategories":[
+         "Weißwein",
+         "Italienischer Wein",
+         "Gavi di Gavi"
+      ]
+   },
+   {
+      "store":"spar",
+      "id":"2020004655592",
+      "name":"Schiefer Uwe Blaufränkisch vom blauen Schiefer 2017",
+      "category":"Wein",
+      "subcategories":[
+         "Rotwein",
+         "Österreichischer Wein",
+         "Blaufränkisch"
+      ]
+   },
+   {
+      "store":"spar",
+      "id":"2020002953591",
+      "name":"Schilerol Spritzeritif",
+      "category":"Alkoholisches Getränk",
+      "subcategories":[
+         "Spritzer",
+         "Erfrischungsgetränk",
+         "Aperitif"
+      ]
+   },
+   {
+      "store":"spar",
+      "id":"2020003303463",
+      "name":"Schilrosso 1 L",
+      "category":"Alkoholisches Getränk",
+      "subcategories":[
+         "Wein",
+         "Roséwein",
+         "Italienischer Wein"
+      ]
+   },
+   {
+      "store":"spar",
+      "id":"356909",
+      "name":"Schloss Fels Blauer Zweigelt 2021",
+      "category":"Wein",
+      "subcategories":[
+         "Rotwein",
+         "Österreichischer Wein",
+         "Zweigelt"
+      ]
+   },
+   {
+      "store":"spar",
+      "id":"565639",
+      "name":"Schloss Fels Blaufränkisch 2019",
+      "category":"Wein",
+      "subcategories":[
+         "Rotwein",
+         "Österreichischer Wein",
+         "Blaufränkisch"
+      ]
+   },
+   {
+      "store":"spar",
+      "id":"238564",
+      "name":"Schloss Fels Chardonnay 2021",
+      "category":"Wein",
+      "subcategories":[
+         "Weißwein",
+         "Österreichischer Wein",
+         "Chardonnay"
+      ]
+   },
+   {
+      "store":"spar",
+      "id":"7276804",
+      "name":"Schloss Fels Gelber Muskateller Wagram DAC 2021",
+      "category":"Wein",
+      "subcategories":[
+         "Weißwein",
+         "Österreichischer Wein",
+         "Muskateller"
+      ]
+   },
+   {
+      "store":"spar",
+      "id":"323345",
+      "name":"Schloss Fels Gewürztraminer Spätlese 2021",
+      "category":"Wein",
+      "subcategories":[
+         "Weißwein",
+         "Österreichischer Wein",
+         "Gewürztraminer"
+      ]
+   },
+   {
+      "store":"spar",
+      "id":"2020004328335",
+      "name":"Schloss Fels Glühwein rot",
+      "category":"Alkoholisches Getränk",
+      "subcategories":[
+         "Glühwein"
+      ]
+   },
+   {
+      "store":"spar",
+      "id":"485241",
+      "name":"Schloss Fels Grüner Veltliner 2022",
+      "category":"Wein",
+      "subcategories":[
+         "Weißwein",
+         "Österreichischer Wein",
+         "Grüner Veltliner"
+      ]
+   },
+   {
+      "store":"spar",
+      "id":"2020002895990",
+      "name":"Schloss Fels Grüner Veltliner Kamptal DAC 2021",
+      "category":"Wein",
+      "subcategories":[
+         "Weißwein",
+         "Österreichischer Wein",
+         "Grüner Veltliner"
+      ]
+   },
+   {
+      "store":"spar",
+      "id":"548526",
+      "name":"Schloss Fels Pinot Noir Selection 2021",
+      "category":"Wein",
+      "subcategories":[
+         "Rotwein",
+         "Österreichischer Wein",
+         "Pinot Noir"
+      ]
+   },
+   {
+      "store":"spar",
+      "id":"1159967",
+      "name":"Schloss Fels Riesling 2021",
+      "category": "Wein",
+      "subcategories":[
+         "Weißwein",
+         "Österreichischer Wein",
+         "Riesling"
+      ]
+   },
+   {
+      "store":"spar",
+      "id":"2020004260291",
+      "name":"Schloss Fels Rosé Spritzer",
+      "category":"Alkoholisches Getränk",
+      "subcategories":[
+         "Spritzer",
+         "Erfrischungsgetränk",
+         "Roséwein"
+      ]
+   },
+   {
+      "store":"spar",
+      "id":"921756",
+      "name":"Schloss Fels Spätlese Cuvée weiß 2021",
+      "category":"Wein",
+      "subcategories":[
+         "Weißwein",
+         "Österreichischer Wein",
+         "Spätlese"
+      ]
+   },
+   {
+      "store":"spar",
+      "id":"2020003615207",
+      "name":"Schloss Fels Weißer Spritzer",
+      "category":"Alkoholisches Getränk",
+      "subcategories":[
+         "Spritzer",
+         "Erfrischungsgetränk",
+         "Weißwein"
+      ]
+   },
+   {
+      "store":"spar",
+      "id":"1228182",
+      "name":"Schloss Fels Zweigelt Reserve 2019",
+      "category":"Wein",
+      "subcategories":[
+         "Rotwein",
+         "Österreichischer Wein",
+         "Zweigelt"
+      ]
+   },
+   {
+      "store":"spar",
+      "id":"6647292",
+      "name":"Schloss Gobelsburg Ried Renner 1. ÖTW Kamptal DAC Grüner Veltliner 2020",
+      "category":"Wein",
+      "subcategories":[
+         "Weißwein",
+         "Österreichischer Wein",
+         "Grüner Veltliner"
+      ]
+   },
+   {
+      "store":"spar",
+      "id":"8033758",
+      "name":"Schloss Raggendorf Chardonnay Alcohol free",
+      "category":"Alkoholfreies Getränk",
+      "subcategories":[
+         "Chardonnay"
+      ]
+   },
+   {
+      "store":"spar",
+      "id":"2020003856747",
+      "name":"Schloss Raggendorf Grüner Veltliner Alcohol free",
+      "category":"Alkoholfreies Getränk",
+      "subcategories":[
+         "Grüner Veltliner"
+      ]
+   },
+   {
+      "store":"spar",
+      "id":"2020003856976",
+      "name":"Schloss Raggendorf Zweigelt Alcohol free",
+      "category":"Alkoholfreies Getränk",
+      "subcategories":[
+         "Zweigelt"
+      ]
+   },
+   {
+      "store":"spar",
+      "id":"7896194",
+      "name":"Schloss Fuschl Forellenfilet",
+      "category":"Fisch",
+      "subcategories":[
+         "Forelle"
+      ]
+   },
+   {
+      "store":"spar",
+      "id":"7896187",
+      "name":"Schloss Fuschl Saibling ganz",
+      "category":"Fisch",
+      "subcategories":[
+         "Saibling"
+      ]
+   },
+   {
+      "store":"spar",
+      "id":"6647476",
+      "name":"Schloss Gobelsburg Ried Gaisberg 1. ÖTW Kamptal DAC Riesling 2020",
+      "category":"Wein",
+      "subcategories":[
+         "Weißwein",
+         "Österreichischer Wein",
+         "Riesling"
+      ]
+   },
+   {
+      "store":"spar",
+      "id":"8033741",
+      "name":"Schloss Raggendorf Cabernet Sauvignon Alcohol free",
+      "category":"Alkoholfreies Getränk",
+      "subcategories":[
+         "Cabernet Sauvignon"
+      ]
+   },
+   {
+      "store":"spar",
+      "id":"4350132",
+      "name":"San Pellegrino Mineralwasser mit Kohlensäure",
+      "category":"Getränk",
+      "subcategories":[
+         "Mineralwasser",
+         "Kohlensäurehaltiges Wasser"
+      ]
+   },
+   {
+      "store":"spar",
+      "id":"5175536",
+      "name":"Santa Maria Tex Mex Original Soft Tortilla Medium Size 8 Stück",
+      "category":"Lebensmittel",
+      "subcategories":[
+         "Tortilla",
+         "Mexikanische Küche"
+      ]
+   },
+   {
+      "store":"spar",
+      "id":"7446047",
+      "name":"Santa Maria Tex Mex Original Wrap Tortilla Large Size 6 Stück",
+      "category":"Lebensmittel",
+      "subcategories":[
+         "Tortilla",
+         "Mexikanische Küche"
+      ]
+   },
+   {
+      "store":"spar",
+      "id":"169844",
+      "name":"Santa Maria Tex Mex Taco Shells 12 Stück",
+      "category":"Lebensmittel",
+      "subcategories":[
+         "Taco",
+         "Mexikanische Küche"
+      ]
+   },
+   {
+      "store":"spar",
+      "id":"2020003567193",
+      "name":"Santa Maria Tortilla Original small size",
+      "category":"Lebensmittel",
+      "subcategories":[
+         "Tortilla",
+         "Mexikanische Küche"
+      ]
+   },
+   {
+      "store":"spar",
+      "id":"2020003566752",
+      "name":"Santa Maria Tortilla with Whole Wheat medium",
+      "category":"Lebensmittel",
+      "subcategories":[
+         "Tortilla",
+         "Mexikanische Küche"
+      ]
+   },
+   {
+      "store":"spar",
+      "id":"2020001587421",
+      "name":"SalzburgMilch Almkönig",
+      "category":"Milchprodukt",
+      "subcategories":[
+         "Käse",
+         "Schnittkäse"
+      ]
+   },
+   {
+      "store":"spar",
+      "id":"5903030",
+      "name":"SalzburgMilch Almkönig",
+      "category":"Milchprodukt",
+      "subcategories":[
+         "Käse",
+         "Schnittkäse"
+      ]
+   },
+   {
+      "store":"spar",
+      "id":"2243344",
+      "name":"SalzburgMilch Almkönig in Scheiben",
+      "category":"Milchprodukt",
+      "subcategories":[
+         "Käse",
+         "Schnittkäse"
+      ]
+   },
+   {
+      "store":"spar",
+      "id":"6281601",
+      "name":"SalzburgMilch Bergkäse in Scheiben",
+      "category":"Milchprodukt",
+      "subcategories":[
+         "Käse",
+         "Schnittkäse"
+      ]
+   },
+   {
+      "store":"spar",
+      "id":"5911646",
+      "name":"SalzburgMilch Edamer",
+      "category":"Milchprodukt",
+      "subcategories":[
+         "Käse",
+         "Schnittkäse"
+      ]
+   },
+   {
+      "store":"spar",
+      "id":"7954528",
+      "name":"SalzburgMilch Emmentaler",
+      "category":"Milchprodukt",
+      "subcategories":[
+         "Käse",
+         "Schnittkäse"
+      ]
+   },
+   {
+      "store":"spar",
+      "id":"2020002986834",
+      "name":"SalzburgMilch Emmentaler Scheiben",
+      "category":"Milchprodukt",
+      "subcategories":[
+         "Käse",
+         "Schnittkäse"
+      ]
+   },
+   {
+      "store":"spar",
+      "id":"8208323",
+      "name":"SalzburgMilch Gouda",
+      "category":"Milchprodukt",
+      "subcategories":[
+         "Käse",
+         "Schnittkäse"
+      ]
+   },
+   {
+      "store":"spar",
+      "id":"5820290",
+      "name":"SalzburgMilch Gouda in Scheiben",
+      "category":"Milchprodukt",
+      "subcategories":[
+         "Käse",
+         "Schnittkäse"
+      ]
+   },
+   {
+      "store":"spar",
+      "id":"2020001878185",
+      "name":"SalzburgMilch Goudascheiben",
+      "category":"Milchprodukt",
+      "subcategories":[
+         "Käse",
+         "Schnittkäse"
+      ]
+   },
+   {
+      "store":"spar",
+      "id":"2020001125739",
+      "name":"SalzburgMilch Heujuwel",
+      "category":"Milchprodukt",
+      "subcategories":[
+         "Käse",
+         "Schnittkäse"
+      ]
+   },
+   {
+      "store":"spar",
+      "id":"5910724",
+      "name":"SalzburgMilch Holländer",
+      "category":"Milchprodukt",
+      "subcategories":[
+         "Käse",
+         "Schnittkäse"
+      ]
+   },
+   {
+      "store":"spar",
+      "id":"2020003909962",
+      "name":"SalzburgMilch Premium Frischkäse Kräuter",
+      "category":"Milchprodukt",
+      "subcategories":[
+         "Frischkäse",
+         "Kräuter"
+      ]
+   },
+   {
+      "store":"spar",
+      "id":"2020003909931",
+      "name":"SalzburgMilch Premium Frischkäse Natur",
+      "category":"Milchprodukt",
+      "subcategories":[
+         "Frischkäse",
+         "Natur"
+      ]
+   },
+   {
+      "store":"spar",
+      "id":"2020003054907",
+      "name":"SalzburgMilch Premium Gouda",
+      "category":"Milchprodukt",
+      "subcategories":[
+         "Käse",
+         "Schnittkäse"
+      ]
+   },
+   {
+      "store":"spar",
+      "id":"1190953",
+      "name":"Schlierbacher Bio Schlosskäse Classic 2 x 62,5g",
+      "category":"Käse",
+      "subcategories":[
+         "Schnittkäse",
+         "Bio-Käse"
+      ]
+   },
+   {
+      "store":"spar",
+      "id":"1190939",
+      "name":"Schlierbacher Bio Schlosskäse Exquisit 2 x 62,5g",
+      "category":"Käse",
+      "subcategories":[
+         "Schnittkäse",
+         "Bio-Käse"
+      ]
+   },
+   {
+      "store":"spar",
+      "id":"7705045",
+      "name":"SalzburgMilch Alex Family Schoko-Milch",
+      "category":"Milchprodukt",
+      "subcategories":[
+         "Schokomilch"
+      ]
+   },
+   {
+      "store":"spar",
+      "id":"2020001297474",
+      "name":"SalzburgMilch Alex Schoko-Milch Alex Schoko-Milch",
+      "category":"Milchprodukt",
+      "subcategories":[
+         "Schokomilch"
+      ]
+   },
+   {
+      "store":"spar",
+      "id":"2020003979569",
+      "name":"SalzburgMilch Bio Premium Teebutter",
+      "category":"Butter",
+      "subcategories":[
+         "Teebutter",
+         "Bioprodukt"
+      ]
+   },
+   {
+      "store":"spar",
+      "id":"6610029",
+      "name":"SalzburgMilch Jogurt Bircher Müsli",
+      "category":"Joghurt",
+      "subcategories":[
+         "Bircher Müsli",
+         "Frühstück"
+      ]
+   },
+   {
+      "store":"spar",
+      "id":"2020004278647",
+      "name":"SalzburgMilch Lisa Vanille-Milch",
+      "category":"Milchprodukt",
+      "subcategories":[
+         "Vanillemilch"
+      ]
+   },
+   {
+      "store":"spar",
+      "id":"7704284",
+      "name":"SalzburgMilch Premium Alpenmilch 1,5% länger frisch",
+      "category":"Milchprodukt",
+      "subcategories":[
+         "Alpenmilch",
+         "H-Milch"
+      ]
+   },
+   {
+      "store":"spar",
+      "id":"6799625",
+      "name":"SalzburgMilch Premium Alpenmilch 3,5% Fett länger haltbar",
+      "category":"Milchprodukt",
+      "subcategories":[
+         "Alpenmilch"
+      ]
+   },
+   {
+      "store":"spar",
+      "id":"7713613",
+      "name":"SalzburgMilch Premium Alpenmilch 3,5% Fett länger haltbar",
+      "category":"Milchprodukt",
+      "subcategories":[
+         "Alpenmilch"
+      ]
+   },
+   {
+      "store":"spar",
+      "id":"2020000957447",
+      "name":"SalzburgMilch Premium Bergbauern H-Milch 0,5%",
+      "category":"Milchprodukt",
+      "subcategories":[
+         "H-Milch",
+         "Fettarme Milch"
+      ]
+   },
+   {
+      "store":"spar",
+      "id":"2020000957461",
+      "name":"SalzburgMilch Premium Bergbauern H-Milch 3,5%",
+      "category":"Milchprodukt",
+      "subcategories":[
+         "H-Milch",
+         "Vollmilch"
+      ]
+   },
+   {
+      "store":"spar",
+      "id":"7714016",
+      "name":"SalzburgMilch Premium Buttermilch 1% Fett erfrischend",
+      "category":"Milchprodukt",
+      "subcategories":[
+         "Buttermilch",
+         "Erfrischungsgetränk"
+      ]
+   },
+   {
+      "store":"spar",
+      "id":"6932886",
+      "name":"SalzburgMilch Premium Fruchtmolke Mango 1L",
+      "category":"Milchprodukt",
+      "subcategories":[
+         "Fruchtmolke",
+         "Mango"
+      ]
+   },
+   {
+      "store":"spar",
+      "id":"3200438",
+      "name":"SalzburgMilch Premium Fruchtmolke Maracuja",
+      "category":"Milchprodukt",
+      "subcategories":[
+         "Fruchtmolke",
+         "Maracuja"
+      ]
+   },
+   {
+      "store":"spar",
+      "id":"2020003453175",
+      "name":"SalzburgMilch Premium Frühstücks-Heumilch 3,6% länger frisch",
+      "category":"Milchprodukt",
+      "subcategories":[
+         "Heumilch"
+      ]
+   },
+   {
+      "store":"spar",
+      "id":"2020004680426",
+      "name":"SalzburgMilch Premium Frühstücks-Skyr Natur",
+      "category":"Milchprodukt",
+      "subcategories":[
+         "Frühstück",
+         "Skyr",
+         "Icelandic Yogurt"
+      ]
+   },
+   {
+      "store":"spar",
+      "id":"7768101",
+      "name":"SalzburgMilch Premium Jogurt Bircher Müsli",
+      "category":"Joghurt",
+      "subcategories":[
+         "Bircher Müsli",
+         "Frühstück"
+      ]
+   },
+   {
+      "store":"spar",
+      "id":"7767722",
+      "name":"SalzburgMilch Premium Jogurt Erdbeer",
+      "category":"Joghurt",
+      "subcategories":[
+         "Erdbeerjoghurt",
+         "Fruchtjoghurt"
+      ]
+   },
+   {
+      "store":"spar",
+      "id":"7699504",
+      "name":"SalzburgMilch Premium Jogurt Heidelbeer",
+      "category":"Joghurt",
+      "subcategories":[
+         "Heidelbeerjoghurt",
+         "Fruchtjoghurt"
+      ]
+   },
+   {
+      "store":"spar",
+      "id":"7767753",
+      "name":"SalzburgMilch Premium Jogurt Himbeer",
+      "category":"Joghurt",
+      "subcategories":[
+         "Himbeerjoghurt",
+         "Fruchtjoghurt"
+      ]
+   },
+   {
+      "store":"spar",
+      "id":"7712319",
+      "name":"SalzburgMilch Premium Jogurt Kaffee",
+      "category":"Joghurt",
+      "subcategories":[
+         "Kaffeejoghurt"
+      ]
+   },
+   {
+      "store":"spar",
+      "id":"7767593",
+      "name":"SalzburgMilch Premium Jogurt Kirsch",
+      "category":"Joghurt",
+      "subcategories":[
+         "Kirschjoghurt",
+         "Fruchtjoghurt"
+      ]
+   },
+   {
+      "store":"spar",
+      "id":"7701948",
+      "name":"SalzburgMilch Premium Jogurt Pfirsich Maracuja",
+      "category":"Joghurt",
+      "subcategories":[
+         "Pfirsich-Maracuja-Joghurt",
+         "Fruchtjoghurt"
+      ]
+   },
+   {
+      "store":"spar",
+      "id":"7701108",
+      "name":"SalzburgMilch Premium Jogurt Schoko",
+      "category":"Joghurt",
+      "subcategories":[
+         "Schokojoghurt"
+      ]
+   },
+   {
+      "store":"spar",
+      "id":"2020003453885",
+      "name":"SalzburgMilch Premium Jogurt Stracciatella",
+      "category":"Joghurt",
+      "subcategories":[
+         "Stracciatellajoghurt"
+      ]
+   },
+   {
+      "store":"spar",
+      "id":"7701016",
+      "name":"SalzburgMilch Premium Jogurt Vanille",
+      "category":"Joghurt",
+      "subcategories":[
+         "Vanillejoghurt"
+      ]
+   },
+   {
+      "store":"spar",
+      "id":"7706097",
+      "name":"SalzburgMilch Premium Jogurt Vanille",
+      "category":"Joghurt",
+      "subcategories":[
+         "Vanillejoghurt"
+      ]
+   },
+   {
+      "store":"spar",
+      "id":"2020002561383",
+      "name":"SalzburgMilch Premium Natur Jogurt 1% Fett, cremig",
+      "category":"Joghurt",
+      "subcategories":[
+         "Naturjoghurt"
+      ]
+   },
+   {
+      "store":"spar",
+      "id":"7717000",
+      "name":"SalzburgMilch Premium Naturjogurt 1% Fett cremig",
+      "category":"Joghurt",
+      "subcategories":[
+         "Naturjoghurt"
+      ]
+   },
+   {
+      "store":"spar",
+      "id":"7702433",
+      "name":"SalzburgMilch Premium Naturjogurt 3,6% Fett cremig",
+      "category":"Joghurt",
+      "subcategories":[
+         "Naturjoghurt"
+      ]
+   },
+   {
+      "store":"spar",
+      "id":"7716973",
+      "name":"SalzburgMilch Premium Naturjogurt 3,6% Fett cremig",
+      "category":"Joghurt",
+      "subcategories":[
+         "Naturjoghurt"
+      ]
+   },
+   {
+      "store":"spar",
+      "id":"7706394",
+      "name":"SalzburgMilch Premium Naturjogurt 3,6% Fett stichfest",
+      "category":"Joghurt",
+      "subcategories":[
+         "Stichfester Joghurt"
+      ]
+   },
+   {
+      "store":"spar",
+      "id":"7699481",
+      "name":"SalzburgMilch Premium Sauerrahm 15% Fett",
+      "category":"Milchprodukt",
+      "subcategories":[
+         "Sauerrahm"
+      ]
+   },
+   {
+      "store":"spar",
+      "id":"7704635",
+      "name":"SalzburgMilch Premium Schlagobers 36% Fett",
+      "category":"Milchprodukt",
+      "subcategories":[
+         "Schlagobers",
+         "Sahne"
+      ]
+   },
+   {
+      "store":"spar",
+      "id":"7715389",
+      "name":"SalzburgMilch Premium Schlagobers 36% Fett frisch",
+      "category":"Milchprodukt",
+      "subcategories":[
+         "Schlagobers",
+         "Sahne"
+      ]
+   },
+   {
+      "store":"spar",
+      "id":"2020002047535",
+      "name":"SalzburgMilch Premium Schoko-Pudding",
+      "category":"Milchprodukt",
+      "subcategories":[
+         "Schokopudding",
+         "Pudding"
+      ]
+   },
+   {
+      "store":"spar",
+      "id":"6978303",
+      "name":"SalzburgMilch Premium Speisetopfen 20% F.i.T.",
+      "category":"Milchprodukt",
+      "subcategories":[
+         "Speisetopfen",
+         "Quark"
+      ]
+   },
+   {
+      "store":"spar",
+      "id":"7701160",
+      "name":"SalzburgMilch Premium Speisetopfen 40% F.i.T.",
+      "category":"Milchprodukt",
+      "subcategories":[
+         "Speisetopfen",
+         "Quark"
+      ]
+   },
+   {
+      "store":"spar",
+      "id":"6977115",
+      "name":"SalzburgMilch Premium Speisetopfen mager",
+      "category":"Milchprodukt",
+      "subcategories":[
+         "Speisetopfen",
+         "Magerquark"
+      ]
+   },
+   {
+      "store":"spar",
+      "id":"7701931",
+      "name":"SalzburgMilch Premium Speistopfen 10% F.i.T.",
+      "category":"Milchprodukt",
+      "subcategories":[
+         "Speisetopfen",
+         "Quark"
+      ]
+   },
+   {
+      "store":"spar",
+      "id":"2020001706303",
+      "name":"SalzburgMilch Premium Teebutter streichzart",
+      "category":"Butter",
+      "subcategories":[
+         "Teebutter"
+      ]
+   },
+   {
+      "store":"spar",
+      "id":"955331",
+      "name":"SalzburgMilch Premium Trinkjogurt Erdbeer",
+      "category":"Joghurt",
+      "subcategories":[
+         "Trinkjogurt",
+         "Erdbeerjoghurt",
+         "Fruchtjoghurt"
+      ]
+   },
+   {
+      "store":"spar",
+      "id":"4693437",
+      "name":"SalzburgMilch Premium Trinkjogurt Heidelbeer-Vanille",
+      "category":"Joghurt",
+      "subcategories":[
+         "Trinkjogurt",
+         "Heidelbeer-Vanillejoghurt",
+         "Fruchtjoghurt"
+      ]
+   },
+   {
+      "store":"spar",
+      "id":"7712968",
+      "name":"SalzburgMilch Premium Tägliche frische Alpenmilch 3,8% Fett",
+      "category":"Milchprodukt",
+      "subcategories":[
+         "Alpenmilch"
+      ]
+   },
+   {
+      "store":"spar",
+      "id":"2020002047832",
+      "name":"SalzburgMilch Premium Vanille-Pudding",
+      "category":"Milchprodukt",
+      "subcategories":[
+         "Vanillepudding",
+         "Pudding"
+      ]
+   },
+   {
+      "store":"spar",
+      "id":"7700293",
+      "name":"SalzburgMilch Schotten 20% Fett",
+      "category":"Milchprodukt",
+      "subcategories":[
+         "Butter"
+      ]
+   },
+   {
+      "store":"spar",
+      "id":"493239",
+      "name":"Schachinger Anna's Schnitzelschmalz",
+      "category":"Speisefett",
+      "subcategories":[
+         "Schnitzelschmalz"
+      ]
+   },
+   {
+      "store":"spar",
+      "id":"6277031",
+      "name":"Sanpareil Pfeffer Leberpaté",
+      "category":"Aufstrich",
+      "subcategories":[
+         "Leberpaté"
+      ]
+   },
+   {
+      "store":"spar",
+      "id":"6276997",
+      "name":"Sanpareil Preiselbeer Leberpaté",
+      "category":"Aufstrich",
+      "subcategories":[
+         "Leberpaté",
+         "Preiselbeeren"
+      ]
+   },
+   {
+      "store":"spar",
+      "id":"7785443",
+      "name":"Sapore Mio Mortadella mit Pistazien",
+      "category":"Wurst",
+      "subcategories":[
+         "Mortadella",
+         "Pistazien"
+      ]
+   },
+   {
+      "store":"spar",
+      "id":"5013722",
+      "name":"Schachinger Bratltopf",
+      "category":"Fertiggericht",
+      "subcategories":[
+         "Bratltopf"
+      ]
+   },
+   {
+      "store":"spar",
+      "id":"2020001634040",
+      "name":"Sardellenfilet mariniert 100 G",
+      "category":"Fisch",
+      "subcategories":[
+         "Sardellen"
+      ]
+   }
+]

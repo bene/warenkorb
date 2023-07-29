@@ -1,0 +1,178 @@
+[
+  {
+    "store": "billa",
+    "id": "00-587848",
+    "name": "efko Obstpause Apfel & Erdbeere",
+    "category": "Obstpause",
+    "subcategories": ["Apfel", "Erdbeere"]
+  },
+  {
+    "store": "billa",
+    "id": "00-587833",
+    "name": "efko Obstpause Apfel & Mango",
+    "category": "Obstpause",
+    "subcategories": ["Apfel", "Mango"]
+  },
+  {
+    "store": "billa",
+    "id": "00-587762",
+    "name": "efko Obstpause Apfel & Marille",
+    "category": "Obstpause",
+    "subcategories": ["Apfel", "Marille"]
+  },
+  {
+    "store": "billa",
+    "id": "00-803941",
+    "name": "efko Pandy Weichseln Pur",
+    "category": "Weichseln",
+    "subcategories": ["Pandy"]
+  },
+  {
+    "store": "billa",
+    "id": "00-451824",
+    "name": "efko Party-Mix",
+    "category": "Party-Mix",
+    "subcategories": []
+  },
+  {
+    "store": "billa",
+    "id": "00-376202",
+    "name": "efko Pfefferoni Scharf",
+    "category": "Pfefferoni",
+    "subcategories": ["scharf"]
+  },
+  {
+    "store": "billa",
+    "id": "00-24064",
+    "name": "efko Pfefferoni mild",
+    "category": "Pfefferoni",
+    "subcategories": ["mild"]
+  },
+  {
+    "store": "billa",
+    "id": "00-176040",
+    "name": "efko Pfefferoni mild",
+    "category": "Pfefferoni",
+    "subcategories": ["mild"]
+  },
+  {
+    "store": "billa",
+    "id": "00-176024",
+    "name": "efko Pfefferoni scharf",
+    "category": "Pfefferoni",
+    "subcategories": ["scharf"]
+  },
+  {
+    "store": "billa",
+    "id": "00-960598",
+    "name": "efko Piri Piri",
+    "category": "Piri Piri",
+    "subcategories": []
+  },
+  {
+    "store": "billa",
+    "id": "00-15153",
+    "name": "efko Pußtasalat",
+    "category": "Pußtasalat",
+    "subcategories": []
+  },
+  {
+    "store": "billa",
+    "id": "00-429551",
+    "name": "efko Rote Rüben Salat",
+    "category": "Rote Rüben Salat",
+    "subcategories": []
+  },
+  {
+    "store": "billa",
+    "id": "00-15154",
+    "name": "efko Rote Rüben Salat",
+    "category": "Rote Rüben Salat",
+    "subcategories": []
+  },
+  {
+    "store": "billa",
+    "id": "00-609804",
+    "name": "efko Rote Rüben Salat in Streifen",
+    "category": "Rote Rüben Salat",
+    "subcategories": ["Streifen"]
+  },
+  {
+    "store": "billa",
+    "id": "00-856285",
+    "name": "efko Sauerkraut mit Speck",
+    "category": "Sauerkraut",
+    "subcategories": ["mit Speck"]
+  },
+  {
+    "store": "billa",
+    "id": "00-342992",
+    "name": "efko Schlemmergurken Blütenhonig",
+    "category": "Schlemmergurken",
+    "subcategories": ["Blütenhonig"]
+  },
+  {
+    "store": "billa",
+    "id": "00-584610",
+    "name": "efko Schlemmergurken Burger & BBQ",
+    "category": "Schlemmergurken",
+    "subcategories": ["Burger", "BBQ"]
+  },
+  {
+    "store": "billa",
+    "id": "00-323711",
+    "name": "efko Schlemmergurken Süß-Sauer",
+    "category": "Schlemmergurken",
+    "subcategories": ["Süß-Sauer"]
+  },
+  {
+    "store": "billa",
+    "id": "00-609806",
+    "name": "efko Selleriesalat Streifen",
+    "category": "Selleriesalat",
+    "subcategories": ["Streifen"]
+  },
+  {
+    "store": "billa",
+    "id": "00-429553",
+    "name": "efko Silberzwiebeln",
+    "category": "Silberzwiebeln",
+    "subcategories": []
+  },
+  {
+    "store": "billa",
+    "id": "00-793808",
+    "name": "efko Weichselkompott ohne Kern",
+    "category": "Weichselkompott",
+    "subcategories": ["ohne Kern"]
+  },
+  {
+    "store": "billa",
+    "id": "00-811335",
+    "name": "efko Zwetschkenröster",
+    "category": "Zwetschkenröster",
+    "subcategories": []
+  },
+  {
+    "store": "billa",
+    "id": "00-6836",
+    "name": "Österreichische Rote Rüben",
+    "category": "Rote Rüben",
+    "subcategories": []
+  },
+  {
+    "store": "billa",
+    "id": "00-417385",
+    "name": "Vanillestange 2er",
+    "category": "Vanillestange",
+    "subcategories": ["2er"]
+  },
+  {
+    "store": "billa",
+    "id": "00-937557",
+    "name": "Al Amier Bulgur Weizen Grob",
+    "category": "Bulgur",
+    "subcategories": ["Weizen", "Grob"]
+  },
+  ...
+]

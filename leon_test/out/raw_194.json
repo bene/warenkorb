@@ -1,0 +1,276 @@
+[
+  {
+    "store": "spar",
+    "id": "2020004237736",
+    "name": "Reiter Geflügelwurst",
+    "category": "Wurst",
+    "subcategories": ["Geflügelwurst"]
+  },
+  {
+    "store": "spar",
+    "id": "6022822",
+    "name": "Reiter Hausgeselchtes",
+    "category": "Wurst",
+    "subcategories": ["Geselchtes"]
+  },
+  {
+    "store": "spar",
+    "id": "4458449",
+    "name": "Reiter Innviertler Bauernschinken",
+    "category": "Schinken",
+    "subcategories": ["Bauernschinken"]
+  },
+  {
+    "store": "spar",
+    "id": "6022761",
+    "name": "Reiter Kaiser-Jagdwurst",
+    "category": "Wurst",
+    "subcategories": ["Kaiser-Jagdwurst"]
+  },
+  {
+    "store": "spar",
+    "id": "4242116",
+    "name": "Reiter Kantwurst",
+    "category": "Wurst",
+    "subcategories": ["Kantwurst"]
+  },
+  {
+    "store": "spar",
+    "id": "5456406",
+    "name": "Reiter Knoblauchschinken",
+    "category": "Schinken",
+    "subcategories": ["Knoblauchschinken"]
+  },
+  {
+    "store": "spar",
+    "id": "52573",
+    "name": "Reiter Mettwurst fein",
+    "category": "Wurst",
+    "subcategories": ["Mettwurst"]
+  },
+  {
+    "store": "spar",
+    "id": "6855345",
+    "name": "Reiter Milder Lachsschinken",
+    "category": "Schinken",
+    "subcategories": ["Lachsschinken"]
+  },
+  {
+    "store": "spar",
+    "id": "1386509",
+    "name": "Reiter Original Reiter Schwarzwälder mit Chili",
+    "category": "Schinken",
+    "subcategories": ["Schwarzwälder Schinken"]
+  },
+  {
+    "store": "spar",
+    "id": "2020000781844",
+    "name": "Reiter Puten Schwarzwälder",
+    "category": "Schinken",
+    "subcategories": ["Puten Schwarzwälder"]
+  },
+  {
+    "store": "spar",
+    "id": "6381868",
+    "name": "Reiter Puten-Schwarzwälder",
+    "category": "Schinken",
+    "subcategories": ["Puten Schwarzwälder"]
+  },
+  {
+    "store": "spar",
+    "id": "6381820",
+    "name": "Reiter Schinken-Salami",
+    "category": "Wurst",
+    "subcategories": ["Schinken-Salami"]
+  },
+  {
+    "store": "spar",
+    "id": "3170021",
+    "name": "Reiter Schwarzwälder",
+    "category": "Schinken",
+    "subcategories": ["Schwarzwälder Schinken"]
+  },
+  {
+    "store": "spar",
+    "id": "8058522",
+    "name": "Reiter Schwarzwälder",
+    "category": "Schinken",
+    "subcategories": ["Schwarzwälder Schinken"]
+  },
+  {
+    "store": "spar",
+    "id": "8026934",
+    "name": "Reiter Spezial",
+    "category": "Wurst",
+    "subcategories": ["Spezial"]
+  },
+  {
+    "store": "spar",
+    "id": "8058485",
+    "name": "Reiter Spezial",
+    "category": "Wurst",
+    "subcategories": ["Spezial"]
+  },
+  {
+    "store": "spar",
+    "id": "4530794",
+    "name": "Reiter Ungarische Salami",
+    "category": "Wurst",
+    "subcategories": ["Ungarische Salami"]
+  },
+  {
+    "store": "spar",
+    "id": "6875220",
+    "name": "Reiter Ungarische Salami",
+    "category": "Wurst",
+    "subcategories": ["Ungarische Salami"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003637094",
+    "name": "Renzini Salami Praline",
+    "category": "Wurst",
+    "subcategories": ["Salami"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003577468",
+    "name": "Rama Schlagcreme 100% Pflanzlich",
+    "category": "Creme",
+    "subcategories": ["Schlagcreme"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003928390",
+    "name": "Qualität Tirol Schlipfkrapfen",
+    "category": "Teigwaren",
+    "subcategories": ["Schlipfkrapfen"]
+  },
+  {
+    "store": "spar",
+    "id": "7085529",
+    "name": "Rapso Rapsöl",
+    "category": "Öl",
+    "subcategories": ["Rapsöl"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003461446",
+    "name": "Regional Couscous Gewürzzubereitung 65g",
+    "category": "Gewürze",
+    "subcategories": ["Couscous Gewürzzubereitung"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003461330",
+    "name": "Regional Hibiskusblüte 21g",
+    "category": "Tee",
+    "subcategories": ["Hibiskusblüte"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003461200",
+    "name": "Regional Jamaica Pfeffer 50g",
+    "category": "Gewürze",
+    "subcategories": ["Jamaica Pfeffer"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003461347",
+    "name": "Regional Kamille 10g",
+    "category": "Tee",
+    "subcategories": ["Kamille"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003461316",
+    "name": "Regional Muskatnuss ganz 30g",
+    "category": "Gewürze",
+    "subcategories": ["Muskatnuss"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003461361",
+    "name": "Regional Orangenschalen 40g",
+    "category": "Gewürze",
+    "subcategories": ["Orangenschalen"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003461392",
+    "name": "Regional Rosa Pfeffer 39g",
+    "category": "Gewürze",
+    "subcategories": ["Rosa Pfeffer"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003461323",
+    "name": "Regional Rosenblütenblätter 9g",
+    "category": "Gewürze",
+    "subcategories": ["Rosenblütenblätter"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003461224",
+    "name": "Regional Sternanis 20g",
+    "category": "Gewürze",
+    "subcategories": ["Sternanis"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003461125",
+    "name": "Regional Wacholderbeeren 45g",
+    "category": "Gewürze",
+    "subcategories": ["Wacholderbeeren"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003461415",
+    "name": "Regional Wasabipulver 50g",
+    "category": "Gewürze",
+    "subcategories": ["Wasabipulver"]
+  },
+  {
+    "store": "spar",
+    "id": "119023",
+    "name": "Rauch Weizenmehl Type 480 doppelgriffig",
+    "category": "Getreide",
+    "subcategories": ["Weizenmehl"]
+  },
+  {
+    "store": "spar",
+    "id": "119238",
+    "name": "Rauch Weizenmehl Type 480 extra für Kuchen",
+    "category": "Getreide",
+    "subcategories": ["Weizenmehl"]
+  },
+  {
+    "store": "spar",
+    "id": "119054",
+    "name": "Rauch Weizenmehl Type 700 glatt",
+    "category": "Getreide",
+    "subcategories": ["Weizenmehl"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002893125",
+    "name": "Recheis Bandnester Die Breiten N°7 400G",
+    "category": "Teigwaren",
+    "subcategories": ["Bandnester"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002893163",
+    "name": "Recheis Bandnester Die Feinen N°3 400G",
+    "category": "Teigwaren",
+    "subcategories": ["Bandnester"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003082849",
+    "name": "Recheis Bio Bio-Fleckerl 400G",
+    "category": "Teigwaren",
+    "subcategories": ["Bio-Fleckerl"]
+  }
+  ... (and so on with the rest of the products)
+]

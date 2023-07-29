@@ -1,0 +1,802 @@
+[
+  {
+    "store": "spar",
+    "id": "2020003239106",
+    "name": "DESPAR All natural ice cream dunkle Schokolade",
+    "category": "Eiscreme",
+    "subcategories": ["Schokolade", "Natur"],
+    "word_category": "Eiscreme"
+  },
+  {
+    "store": "spar",
+    "id": "2020001868926",
+    "name": "DESPAR Gelato Amarena 900ml Packung",
+    "category": "Eiscreme",
+    "subcategories": ["Amarena"],
+    "word_category": "Eiscreme"
+  },
+  {
+    "store": "spar",
+    "id": "2020001869022",
+    "name": "DESPAR Gelato Tiramisù 900ml Packung",
+    "category": "Eiscreme",
+    "subcategories": ["Tiramisù"],
+    "word_category": "Eiscreme"
+  },
+  {
+    "store": "spar",
+    "id": "2020001868995",
+    "name": "DESPAR Gelato Yogurt con Frutti di Bosco 900ml Packung",
+    "category": "Eiscreme",
+    "subcategories": ["Yogurt", "Frutti di Bosco"],
+    "word_category": "Eiscreme"
+  },
+  {
+    "store": "spar",
+    "id": "2020004036148",
+    "name": "DESPAR Calamari",
+    "category": "Meeresfrüchte",
+    "subcategories": ["Tintenfisch"],
+    "word_category": "Meeresfrüchte"
+  },
+  {
+    "store": "spar",
+    "id": "2020003655654",
+    "name": "DESPAR All natural Margherita 420g",
+    "category": "Pizza",
+    "subcategories": ["Margherita"],
+    "word_category": "Pizza"
+  },
+  {
+    "store": "spar",
+    "id": "2020004128171",
+    "name": "DESPAR Focaccia Kirschtomate 2 x 170g",
+    "category": "Brot",
+    "subcategories": ["Focaccia", "Kirschtomate"],
+    "word_category": "Brot"
+  },
+  {
+    "store": "spar",
+    "id": "2020004128157",
+    "name": "DESPAR Focaccia Olivenöl & Rosmarin 2 x 150g",
+    "category": "Brot",
+    "subcategories": ["Focaccia", "Olivenöl", "Rosmarin"],
+    "word_category": "Brot"
+  },
+  {
+    "store": "spar",
+    "id": "2020003145490",
+    "name": "Coppenrath&Wiese Erdbeer Cheesecake",
+    "category": "Kuchen",
+    "subcategories": ["Erdbeer", "Cheesecake"],
+    "word_category": "Kuchen"
+  },
+  {
+    "store": "spar",
+    "id": "6335816",
+    "name": "Coppenrath&Wiese Feinste Sahne Stracciatella Kirsch-Torte",
+    "category": "Kuchen",
+    "subcategories": ["Sahne", "Stracciatella", "Kirsch"],
+    "word_category": "Kuchen"
+  },
+  {
+    "store": "spar",
+    "id": "2020003143717",
+    "name": "Coppenrath&Wiese Festtagstorte Erdbeer-Joghurt",
+    "category": "Kuchen",
+    "subcategories": ["Festtagstorte", "Erdbeer", "Joghurt"],
+    "word_category": "Kuchen"
+  },
+  {
+    "store": "spar",
+    "id": "3178577",
+    "name": "Coppenrath&Wiese Festtagstorte Sacher",
+    "category": "Kuchen",
+    "subcategories": ["Festtagstorte", "Sacher"],
+    "word_category": "Kuchen"
+  },
+  {
+    "store": "spar",
+    "id": "5046829",
+    "name": "Coppenrath&Wiese Festtagstorte Schwarzwälder Kirsch",
+    "category": "Kuchen",
+    "subcategories": ["Festtagstorte", "Schwarzwälder Kirsch"],
+    "word_category": "Kuchen"
+  },
+  {
+    "store": "spar",
+    "id": "2913728",
+    "name": "Coppenrath&Wiese Meistertorte Benjamin Blümchen Erdbeer-Schoko",
+    "category": "Kuchen",
+    "subcategories": ["Meistertorte", "Benjamin Blümchen", "Erdbeer-Schoko"],
+    "word_category": "Kuchen"
+  },
+  {
+    "store": "spar",
+    "id": "2020001389797",
+    "name": "Coppenrath&Wiese Torten Träume Mousse au Chocolat",
+    "category": "Kuchen",
+    "subcategories": ["Torten", "Träume", "Mousse au Chocolat"],
+    "word_category": "Kuchen"
+  },
+  {
+    "store": "spar",
+    "id": "7092350",
+    "name": "Conte de Cesare Olio extra vergine di oliva",
+    "category": "Öl",
+    "subcategories": ["Extra vergine di oliva"],
+    "word_category": "Öl"
+  },
+  {
+    "store": "spar",
+    "id": "2020004561640",
+    "name": "Ciao Mamma Aglio, Olio e Peperoncino 31g",
+    "category": "Gewürz",
+    "subcategories": ["Aglio", "Olio", "Peperoncino"],
+    "word_category": "Gewürz"
+  },
+  {
+    "store": "spar",
+    "id": "2020004561671",
+    "name": "Ciao Mamma Arrabbiata 32g",
+    "category": "Gewürz",
+    "subcategories": ["Arrabbiata"],
+    "word_category": "Gewürz"
+  },
+  {
+    "store": "spar",
+    "id": "2020004561916",
+    "name": "Ciao Mamma Basilikum gerebelt 15g",
+    "category": "Gewürz",
+    "subcategories": ["Basilikum"],
+    "word_category": "Gewürz"
+  },
+  {
+    "store": "spar",
+    "id": "2020004561909",
+    "name": "Ciao Mamma Bolognese 23g",
+    "category": "Gewürz",
+    "subcategories": ["Bolognese"],
+    "word_category": "Gewürz"
+  },
+  {
+    "store": "spar",
+    "id": "2020004561596",
+    "name": "Ciao Mamma Bruschetta 25g",
+    "category": "Gewürz",
+    "subcategories": ["Bruschetta"],
+    "word_category": "Gewürz"
+  },
+  {
+    "store": "spar",
+    "id": "2020004562005",
+    "name": "Ciao Mamma Cafe de Milano 40g",
+    "category": "Gewürz",
+    "subcategories": ["Cafe de Milano"],
+    "word_category": "Gewürz"
+  },
+  {
+    "store": "spar",
+    "id": "2020004561206",
+    "name": "Ciao Mamma Caprese 30g",
+    "category": "Gewürz",
+    "subcategories": ["Caprese"],
+    "word_category": "Gewürz"
+  },
+  {
+    "store": "spar",
+    "id": "2020004561787",
+    "name": "Ciao Mamma Italia 30g",
+    "category": "Gewürz",
+    "subcategories": ["Italia"],
+    "word_category": "Gewürz"
+  },
+  {
+    "store": "spar",
+    "id": "2020004561848",
+    "name": "Ciao Mamma Mediterranes Gemüse 36g",
+    "category": "Gewürz",
+    "subcategories": ["Mediterranes Gemüse"],
+    "word_category": "Gewürz"
+  },
+  {
+    "store": "spar",
+    "id": "2020004561954",
+    "name": "Ciao Mamma Oregano gerebelt 8g",
+    "category": "Gewürz",
+    "subcategories": ["Oregano"],
+    "word_category": "Gewürz"
+  },
+  {
+    "store": "spar",
+    "id": "2020004561893",
+    "name": "Ciao Mamma Pasta Kräuter 15g",
+    "category": "Gewürz",
+    "subcategories": ["Pasta Kräuter"],
+    "word_category": "Gewürz"
+  },
+  {
+    "store": "spar",
+    "id": "2020004561992",
+    "name": "Ciao Mamma Patate Fritte 40g",
+    "category": "Gewürz",
+    "subcategories": ["Patate Fritte"],
+    "word_category": "Gewürz"
+  },
+  {
+    "store": "spar",
+    "id": "2020004561978",
+    "name": "Ciao Mamma Peperoncino solo 30g",
+    "category": "Gewürz",
+    "subcategories": ["Peperoncino solo"],
+    "word_category": "Gewürz"
+  },
+  {
+    "store": "spar",
+    "id": "2020004561862",
+    "name": "Ciao Mamma Piccantino 23g",
+    "category": "Gewürz",
+    "subcategories": ["Piccantino"],
+    "word_category": "Gewürz"
+  },
+  {
+    "store": "spar",
+    "id": "2020004561114",
+    "name": "Ciao Mamma Pizza 12g",
+    "category": "Gewürz",
+    "subcategories": ["Pizza"],
+    "word_category": "Gewürz"
+  },
+  {
+    "store": "spar",
+    "id": "2020004561930",
+    "name": "Ciao Mamma Rosmarin geschnitten 21g",
+    "category": "Gewürz",
+    "subcategories": ["Rosmarin"],
+    "word_category": "Gewürz"
+  },
+  {
+    "store": "spar",
+    "id": "2020004561756",
+    "name": "Ciao Mamma Sicilie 31g",
+    "category": "Gewürz",
+    "subcategories": ["Sicilie"],
+    "word_category": "Gewürz"
+  },
+  {
+    "store": "spar",
+    "id": "2020002603564",
+    "name": "Cirio Bio-Polpa",
+    "category": "Tomatenprodukte",
+    "subcategories": ["Bio-Polpa"],
+    "word_category": "Tomatenprodukte"
+  },
+  {
+    "store": "spar",
+    "id": "2020003456862",
+    "name": "Cirio Bio-Tomaten geschält",
+    "category": "Tomatenprodukte",
+    "subcategories": ["Bio-Tomaten", "geschält"],
+    "word_category": "Tomatenprodukte"
+  },
+  {
+    "store": "spar",
+    "id": "2020003562082",
+    "name": "Cirio Borlotti Bohnen",
+    "category": "Bohnen",
+    "subcategories": ["Borlotti"],
+    "word_category": "Bohnen"
+  },
+  {
+    "store": "spar",
+    "id": "2020003562037",
+    "name": "Cirio Cannellini Bohnen",
+    "category": "Bohnen",
+    "subcategories": ["Cannellini"],
+    "word_category": "Bohnen"
+  },
+  {
+    "store": "spar",
+    "id": "2020003562129",
+    "name": "Cirio Kichererbsen",
+    "category": "Bohnen",
+    "subcategories": ["Kichererbsen"],
+    "word_category": "Bohnen"
+  },
+  {
+    "store": "spar",
+    "id": "2020003784873",
+    "name": "Cirio Mais",
+    "category": "Gemüse",
+    "subcategories": ["Mais"],
+    "word_category": "Gemüse"
+  },
+  {
+    "store": "spar",
+    "id": "2020000857396",
+    "name": "Cirio Passata Rustica Crushed Tomatoes 2 x 350g",
+    "category": "Tomatenprodukte",
+    "subcategories": ["Passata Rustica", "Crushed Tomatoes"],
+    "word_category": "Tomatenprodukte"
+  },
+  {
+    "store": "spar",
+    "id": "2020000857228",
+    "name": "Cirio Passata Verace",
+    "category": "Tomatenprodukte",
+    "subcategories": ["Passata Verace"],
+    "word_category": "Tomatenprodukte"
+  },
+  {
+    "store": "spar",
+    "id": "2020000857143",
+    "name": "Cirio Passierte Tomaten Rustica",
+    "category": "Tomatenprodukte",
+    "subcategories": ["Passierte Tomaten", "Rustica"],
+    "word_category": "Tomatenprodukte"
+  },
+  {
+    "store": "spar",
+    "id": "2020000997825",
+    "name": "Cirio Pizzassimo",
+    "category": "Tomatenprodukte",
+    "subcategories": ["Pizzassimo"],
+    "word_category": "Tomatenprodukte"
+  },
+  {
+    "store": "spar",
+    "id": "2020002892920",
+    "name": "Cirio Polpa Fina",
+    "category": "Tomatenprodukte",
+    "subcategories": ["Polpa Fina"],
+    "word_category": "Tomatenprodukte"
+  },
+  {
+    "store": "spar",
+    "id": "2020003562068",
+    "name": "Cirio Red Kidney Bohnen",
+    "category": "Bohnen",
+    "subcategories": ["Red Kidney"],
+    "word_category": "Bohnen"
+  },
+  {
+    "store": "spar",
+    "id": "2020003691379",
+    "name": "Cirio Tomaten stückig mit Kräutern",
+    "category": "Tomatenprodukte",
+    "subcategories": ["Tomaten", "Kräutern", "stückig"],
+    "word_category": "Tomatenprodukte"
+  },
+  {
+    "store": "spar",
+    "id": "2020000997740",
+    "name": "Cirio Tomatenfilets",
+    "category": "Tomatenprodukte",
+    "subcategories": ["Tomatenfilets"],
+    "word_category": "Tomatenprodukte"
+  },
+  {
+    "store": "spar",
+    "id": "2020003691416",
+    "name": "Cirio Tomatenstücke",
+    "category": "Tomatenprodukte",
+    "subcategories": ["Tomatenstücke"],
+    "word_category": "Tomatenprodukte"
+  },
+  {
+    "store": "spar",
+    "id": "2020003691799",
+    "name": "Cirio geschälte Tomaten",
+    "category": "Tomatenprodukte",
+    "subcategories": ["geschälte Tomaten"],
+    "word_category": "Tomatenprodukte"
+  },
+  {
+    "store": "spar",
+    "id": "2020003801907",
+    "name": "Cirio passierte Tomaten",
+    "category": "Tomatenprodukte",
+    "subcategories": ["passierte Tomaten"],
+    "word_category": "Tomatenprodukte"
+  },
+  {
+    "store": "spar",
+    "id": "2020004068606",
+    "name": "Clasen Bio Bio-Azuki Bohnen 500G",
+    "category": "Bohnen",
+    "subcategories": ["Bio-Azuki"],
+    "word_category": "Bohnen"
+  },
+  {
+    "store": "spar",
+    "id": "2020004068644",
+    "name": "Clasen Bio Bio-Bunte Hülsenfrüchte 500G",
+    "category": "Bohnen",
+    "subcategories": ["Bio-Bunte Hülsenfrüchte"],
+    "word_category": "Bohnen"
+  },
+  {
+    "store": "spar",
+    "id": "2020004068651",
+    "name": "Clasen Bio Bio-Grüne Erbenhälften 500G",
+    "category": "Bohnen",
+    "subcategories": ["Bio-Grüne Erbenhälften"],
+    "word_category": "Bohnen"
+  },
+  {
+    "store": "spar",
+    "id": "2020004068668",
+    "name": "Clasen Bio Bio-Kidneybohnen 500G",
+    "category": "Bohnen",
+    "subcategories": ["Bio-Kidneybohnen"],
+    "word_category": "Bohnen"
+  },
+  {
+    "store": "spar",
+    "id": "2020004068576",
+    "name": "Clasen Bio Bio-Mungobohnen 500G",
+    "category": "Bohnen",
+    "subcategories": ["Bio-Mungobohnen"],
+    "word_category": "Bohnen"
+  },
+  {
+    "store": "spar",
+    "id": "2020004068491",
+    "name": "Clasen Bio Bio-Wachtelbohnen 500G",
+    "category": "Bohnen",
+    "subcategories": ["Bio-Wachtelbohnen"],
+    "word_category": "Bohnen"
+  },
+  {
+    "store": "spar",
+    "id": "2020003793127",
+    "name": "Cipriani Pappardelle 250g",
+    "category": "Nudeln",
+    "subcategories": ["Pappardelle"],
+    "word_category": "Nudeln"
+  },
+  {
+    "store": "spar",
+    "id": "2020003825606",
+    "name": "Cipriani Tagliardi 250g",
+    "category": "Nudeln",
+    "subcategories": ["Tagliardi"],
+    "word_category": "Nudeln"
+  },
+  {
+    "store": "spar",
+    "id": "2020003793189",
+    "name": "Cipriani Tagliolini 250g",
+    "category": "Nudeln",
+    "subcategories": ["Tagliolini"],
+    "word_category": "Nudeln"
+  },
+  {
+    "store": "spar",
+    "id": "7365560",
+    "name": "DESPAR Cavatappi",
+    "category": "Nudeln",
+    "subcategories": ["Cavatappi"],
+    "word_category": "Nudeln"
+  },
+  {
+    "store": "spar",
+    "id": "2020000571612",
+    "name": "DESPAR Conchiglie",
+    "category": "Nudeln",
+    "subcategories": ["Conchiglie"],
+    "word_category": "Nudeln"
+  },
+  {
+    "store": "spar",
+    "id": "2020002914066",
+    "name": "DESPAR Farfalle",
+    "category": "Nudeln",
+    "subcategories": ["Farfalle"],
+    "word_category": "Nudeln"
+  },
+  {
+    "store": "spar",
+    "id": "1194364",
+    "name": "DESPAR Fettuccine all'Uovo",
+    "category": "Nudeln",
+    "subcategories": ["Fettuccine"],
+    "word_category": "Nudeln"
+  },
+  {
+    "store": "spar",
+    "id": "7365386",
+    "name": "DESPAR Fusilli",
+    "category": "Nudeln",
+    "subcategories": ["Fusilli"],
+    "word_category": "Nudeln"
+  },
+  {
+    "store": "spar",
+    "id": "2020002561086",
+    "name": "DESPAR Fusilli Integrale / 100% Vollkorn",
+    "category": "Nudeln",
+    "subcategories": ["Fusilli", "Vollkorn"],
+    "word_category": "Nudeln"
+  },
+  {
+    "store": "spar",
+    "id": "2020004298522",
+    "name": "Cirio Pasta Sauce Arrabiata 420g",
+    "category": "Pasta Sauce",
+    "subcategories": ["Arrabiata"],
+    "word_category": "Pasta Sauce"
+  },
+  {
+    "store": "spar",
+    "id": "2020004298492",
+    "name": "Cirio Pasta Sauce Basilico",
+    "category": "Pasta Sauce",
+    "subcategories": ["Basilico"],
+    "word_category": "Pasta Sauce"
+  },
+  {
+    "store": "spar",
+    "id": "2020004298454",
+    "name": "Cirio Pasta Sauce Bolognese 420g",
+    "category": "Pasta Sauce",
+    "subcategories": ["Bolognese"],
+    "word_category": "Pasta Sauce"
+  },
+  {
+    "store": "spar",
+    "id": "2020004298362",
+    "name": "Cirio Pasta Sauce Napoletana 420g",
+    "category": "Pasta Sauce",
+    "subcategories": ["Napoletana"],
+    "word_category": "Pasta Sauce"
+  },
+  {
+    "store": "spar",
+    "id": "2020004644435",
+    "name": "Curtice Brothers Golden Curry 420ml",
+    "category": "Saucen",
+    "subcategories": ["Golden Curry"],
+    "word_category": "Saucen"
+  },
+  {
+    "store": "spar",
+    "id": "2020004566171",
+    "name": "Curtice Brothers Original Ketchup Original Ketchup 449g",
+    "category": "Saucen",
+    "subcategories": ["Original Ketchup"],
+    "word_category": "Saucen"
+  },
+  {
+    "store": "spar",
+    "id": "2020004644497",
+    "name": "Curtice Brothers Pitmaster Barbeque Pitmaster 420ml",
+    "category": "Saucen",
+    "subcategories": ["Pitmaster Barbeque"],
+    "word_category": "Saucen"
+  },
+  {
+    "store": "spar",
+    "id": "2020003859397",
+    "name": "Clif Bar Energieriegel Chocolate Chip",
+    "category": "Riegel",
+    "subcategories": ["Chocolate Chip"],
+    "word_category": "Riegel"
+  },
+  {
+    "store": "spar",
+    "id": "2020001868537",
+    "name": "Clif Bar Energieriegel Erdnussbutter 68g",
+    "category": "Riegel",
+    "subcategories": ["Erdnussbutter"],
+    "word_category": "Riegel"
+  },
+  {
+    "store": "spar",
+    "id": "2020001868933",
+    "name": "Clif Bar Energieriegel Macadamia 68g",
+    "category": "Riegel",
+    "subcategories": ["Macadamia"],
+    "word_category": "Riegel"
+  },
+  {
+    "store": "spar",
+    "id": "196833",
+    "name": "Conte de Cesare Aceto Balsamico di Modena",
+    "category": "Essig",
+    "subcategories": ["Aceto Balsamico"],
+    "word_category": "Essig"
+  },
+  {
+    "store": "spar",
+    "id": "7485688",
+    "name": "Conte de Cesare Balsamico Senf",
+    "category": "Senf",
+    "subcategories": ["Balsamico"],
+    "word_category": "Senf"
+  },
+  {
+    "store": "spar",
+    "id": "4161509",
+    "name": "Conte de Cesare Condimento  Bianco",
+    "category": "Essig",
+    "subcategories": ["Condimento", "Bianco"],
+    "word_category": "Essig"
+  },
+  {
+    "store": "spar",
+    "id": "6047818",
+    "name": "Conte de Cesare Condimento Rosso",
+    "category": "Essig",
+    "subcategories": ["Condimento", "Rosso"],
+    "word_category": "Essig"
+  },
+  {
+    "store": "spar",
+    "id": "2020002408664",
+    "name": "Conte de Cesare Crema all' Aceto Balsamico di modena I.G.P.",
+    "category": "Essig",
+    "subcategories": ["Crema", "Aceto Balsamico"],
+    "word_category": "Essig"
+  },
+  {
+    "store": "spar",
+    "id": "8079060",
+    "name": "DESPAR Aceto Balsamico",
+    "category": "Essig",
+    "subcategories": ["Aceto Balsamico"],
+    "word_category": "Essig"
+  },
+  {
+    "store": "spar",
+    "id": "5733439",
+    "name": "DESPAR Aceto Balsamico di Modena I. G. P.",
+    "category": "Essig",
+    "subcategories": ["Aceto Balsamico"],
+    "word_category": "Essig"
+  },
+  {
+    "store": "spar",
+    "id": "5733460",
+    "name": "DESPAR Condimento Bianco",
+    "category": "Essig",
+    "subcategories": ["Condimento", "Bianco"],
+    "word_category": "Essig"
+  },
+  {
+    "store": "spar",
+    "id": "8079152",
+    "name": "DESPAR Crema mit \"Aceto Balsamico di Modena I.G.P.\"",
+    "category": "Essig",
+    "subcategories": ["Crema", "Aceto Balsamico"],
+    "word_category": "Essig"
+  },
+  {
+    "store": "spar",
+    "id": "2020003993886",
+    "name": "Crafties Air Chips Kartoffel",
+    "category": "Chips",
+    "subcategories": ["Air Chips", "Kartoffel"],
+    "word_category": "Chips"
+  },
+  {
+    "store": "spar",
+    "id": "2020003993879",
+    "name": "Crafties Chips Käse",
+    "category": "Chips",
+    "subcategories": ["Käse"],
+    "word_category": "Chips"
+  },
+  {
+    "store": "spar",
+    "id": "2020003993862",
+    "name": "Crafties Chips Pizza",
+    "category": "Chips",
+    "subcategories": ["Pizza"],
+    "word_category": "Chips"
+  },
+  {
+    "store": "spar",
+    "id": "2020003065248",
+    "name": "Crifill Grissini All'Aglio",
+    "category": "Snacks",
+    "subcategories": ["Grissini", "All'Aglio"],
+    "word_category": "Snacks"
+  },
+  {
+    "store": "spar",
+    "id": "2020003065187",
+    "name": "Crifill Grissini Alla Crusca",
+    "category": "Snacks",
+    "subcategories": ["Grissini", "Alla Crusca"],
+    "word_category": "Snacks"
+  },
+  {
+    "store": "spar",
+    "id": "2020003065231",
+    "name": "Crifill Grissini al Rosmarino",
+    "category": "Snacks",
+    "subcategories": ["Grissini", "Rosmarino"],
+    "word_category": "Snacks"
+  },
+  {
+    "store": "spar",
+    "id": "2020003353543",
+    "name": "Crifill Grissini al Sesamo",
+    "category": "Snacks",
+    "subcategories": ["Grissini", "Sesamo"],
+    "word_category": "Snacks"
+  },
+  {
+    "store": "spar",
+    "id": "7462924",
+    "name": "Chupa Chups Lollipops Minis 20 Stück",
+    "category": "Süßigkeiten",
+    "subcategories": ["Lollipops", "Minis"],
+    "word_category": "Süßigkeiten"
+  },
+  {
+    "store": "spar",
+    "id": "5626458",
+    "name": "Chupa Chups Lollipops The Best of 10 Stück",
+    "category": "Süßigkeiten",
+    "subcategories": ["Lollipops", "The Best of"],
+    "word_category": "Süßigkeiten"
+  },
+  {
+    "store": "spar",
+    "id": "4784661",
+    "name": "Chupa Chups Lollipops Zungenmaler 10 Stück",
+    "category": "Süßigkeiten",
+    "subcategories": ["Lollipops", "Zungenmaler"],
+    "word_category": "Süßigkeiten"
+  },
+  {
+    "store": "spar",
+    "id": "2020003917714",
+    "name": "Chupa Chups Soft Bubble Gum Cola Lemon Flavour",
+    "category": "Süßigkeiten",
+    "subcategories": ["Soft Bubble Gum", "Cola Lemon"],
+    "word_category": "Süßigkeiten"
+  },
+  {
+    "store": "spar",
+    "id": "2020003917721",
+    "name": "Chupa Chups Tutti Frutti",
+    "category": "Süßigkeiten",
+    "subcategories": ["Tutti Frutti"],
+    "word_category": "Süßigkeiten"
+  },
+  {
+    "store": "spar",
+    "id": "2020001324378",
+    "name": "Coppenrath Butter Cookies zuckerfrei",
+    "category": "Kekse",
+    "subcategories": ["Butter Cookies", "zuckerfrei"],
+    "word_category": "Kekse"
+  },
+  {
+    "store": "spar",
+    "id": "895149",
+    "name": "Coppenrath Café Kränze Classic",
+    "category": "Kekse",
+    "subcategories": ["Café Kränze"],
+    "word_category": "Kekse"
+  },
+  {
+    "store": "spar",
+    "id": "2020001324408",
+    "name": "Coppenrath Cookies Zuckerfrei Choco",
+    "category": "Kekse",
+    "subcategories": ["Cookies", "Zuckerfrei", "Choco"],
+    "word_category": "Kekse"
+  },
+  {
+    "store": "spar",
+    "id": "436441",
+    "name": "Coppenrath Grazer Ringe Classic",
+    "category": "Kekse",
+    "subcategories": ["Grazer Ringe"],
+    "word_category": "Kekse"
+  }
+]

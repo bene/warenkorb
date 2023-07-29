@@ -1,0 +1,702 @@
+Here is the modified JSON list with the added fields:
+
+[{
+    "store": "billa",
+    "id": "00-779372",
+    "name": "BILLA Vanillemilch",
+    "category": "Milchprodukte",
+    "subcategories": ["Milch", "Vanille"]
+},
+{
+    "store": "billa",
+    "id": "00-495630",
+    "name": "BILLA immer gut Feines Backen 70% Fett",
+    "category": "Fette und Öle",
+    "subcategories": ["Backen", "Fett"]
+},
+{
+    "store": "billa",
+    "id": "00-249908",
+    "name": "Becel Gold",
+    "category": "Fette und Öle",
+    "subcategories": ["Becel"]
+},
+{
+    "store": "billa",
+    "id": "00-700143",
+    "name": "Becel Pro Activ Gourmet",
+    "category": "Fette und Öle",
+    "subcategories": ["Becel"]
+},
+{
+    "store": "billa",
+    "id": "00-249972",
+    "name": "Becel Vital",
+    "category": "Fette und Öle",
+    "subcategories": ["Becel"]
+},
+{
+    "store": "billa",
+    "id": "00-743250",
+    "name": "Beurre D'Isigny Demi- Sel",
+    "category": "Fette und Öle",
+    "subcategories": ["Beurre"]
+},
+{
+    "store": "billa",
+    "id": "00-381639",
+    "name": "Biozentrale Kokosöl",
+    "category": "Fette und Öle",
+    "subcategories": ["Kokos"]
+},
+{
+    "store": "billa",
+    "id": "00-855719",
+    "name": "Bonne Maman Creme Brulee",
+    "category": "Nachspeisen",
+    "subcategories": ["Creme Brulee"]
+},
+{
+    "store": "billa",
+    "id": "00-83954",
+    "name": "Ceres Kokosfett",
+    "category": "Fette und Öle",
+    "subcategories": ["Kokos"]
+},
+{
+    "store": "billa",
+    "id": "00-405750",
+    "name": "Ceres Soft",
+    "category": "Fette und Öle",
+    "subcategories": ["Ceres"]
+},
+{
+    "store": "billa",
+    "id": "00-579234",
+    "name": "Chiefs Choco Mountain Milk Protein Drink",
+    "category": "Getränke",
+    "subcategories": ["Protein", "Schokolade"]
+},
+{
+    "store": "billa",
+    "id": "00-307054",
+    "name": "Clever Maracuja Fruchtmolke",
+    "category": "Getränke",
+    "subcategories": ["Maracuja", "Fruchtmolke"]
+},
+{
+    "store": "billa",
+    "id": "00-675779",
+    "name": "Clever Buttermilch",
+    "category": "Milchprodukte",
+    "subcategories": ["Buttermilch"]
+},
+{
+    "store": "billa",
+    "id": "00-416146",
+    "name": "Clever Butterschmalz",
+    "category": "Fette und Öle",
+    "subcategories": ["Butterschmalz"]
+},
+{
+    "store": "billa",
+    "id": "00-668903",
+    "name": "Clever Crème Fraîche Kräuter",
+    "category": "Milchprodukte",
+    "subcategories": ["Crème Fraîche", "Kräuter"]
+},
+{
+    "store": "billa",
+    "id": "00-668900",
+    "name": "Clever Crème Fraîche Natur",
+    "category": "Milchprodukte",
+    "subcategories": ["Crème Fraîche"]
+},
+{
+    "store": "billa",
+    "id": "00-849249",
+    "name": "Clever Erdbeere Joghurt",
+    "category": "Milchprodukte",
+    "subcategories": ["Joghurt", "Erdbeere"]
+},
+{
+    "store": "billa",
+    "id": "00-743094",
+    "name": "Clever Familienjoghurt Frucht",
+    "category": "Milchprodukte",
+    "subcategories": ["Joghurt", "Frucht"]
+},
+{
+    "store": "billa",
+    "id": "00-625019",
+    "name": "Clever Fruchtjoghurt Heidelbeer",
+    "category": "Milchprodukte",
+    "subcategories": ["Joghurt", "Heidelbeer"]
+},
+{
+    "store": "billa",
+    "id": "00-392808",
+    "name": "Clever Fruchtjoghurt Vanille",
+    "category": "Milchprodukte",
+    "subcategories": ["Joghurt", "Vanille"]
+},
+{
+    "store": "billa",
+    "id": "00-746506",
+    "name": "Clever Haltbar-Vollmilch 3.5%",
+    "category": "Milchprodukte",
+    "subcategories": ["Haltbar", "Vollmilch"]
+},
+{
+    "store": "billa",
+    "id": "00-746474",
+    "name": "Clever Haltbarmilch 0.5%",
+    "category": "Milchprodukte",
+    "subcategories": ["Haltbar", "Milch"]
+},
+{
+    "store": "billa",
+    "id": "00-625018",
+    "name": "Clever Joghurt Erdbeer",
+    "category": "Milchprodukte",
+    "subcategories": ["Joghurt", "Erdbeere"]
+},
+{
+    "store": "billa",
+    "id": "00-655232",
+    "name": "Clever Joghurt Kaffee",
+    "category": "Milchprodukte",
+    "subcategories": ["Joghurt", "Kaffee"]
+},
+{
+    "store": "billa",
+    "id": "00-749716",
+    "name": "Clever Joghurt Natur 0.1%",
+    "category": "Milchprodukte",
+    "subcategories": ["Joghurt", "Natur"]
+},
+{
+    "store": "billa",
+    "id": "00-668140",
+    "name": "Clever Joghurt Natur 3.6%",
+    "category": "Milchprodukte",
+    "subcategories": ["Joghurt", "Natur"]
+},
+{
+    "store": "billa",
+    "id": "00-655230",
+    "name": "Clever Joghurt Vanille",
+    "category": "Milchprodukte",
+    "subcategories": ["Joghurt", "Vanille"]
+},
+{
+    "store": "billa",
+    "id": "00-346550",
+    "name": "Clever Joghurt Vanille",
+    "category": "Milchprodukte",
+    "subcategories": ["Joghurt", "Vanille"]
+},
+{
+    "store": "billa",
+    "id": "00-432311",
+    "name": "Clever Joghurt griechische Art",
+    "category": "Milchprodukte",
+    "subcategories": ["Joghurt", "griechische Art"]
+},
+{
+    "store": "billa",
+    "id": "00-717472",
+    "name": "Clever Joghurt stichfest 3.6%",
+    "category": "Milchprodukte",
+    "subcategories": ["Joghurt"]
+},
+{
+    "store": "billa",
+    "id": "00-430282",
+    "name": "Clever Kakaomilch",
+    "category": "Milchprodukte",
+    "subcategories": ["Kakaomilch"]
+},
+{
+    "store": "billa",
+    "id": "00-426612",
+    "name": "Clever Kondensmilch",
+    "category": "Milchprodukte",
+    "subcategories": ["Kondensmilch"]
+},
+{
+    "store": "billa",
+    "id": "00-307034",
+    "name": "Clever Mango Fruchtmolke",
+    "category": "Getränke",
+    "subcategories": ["Mango", "Fruchtmolke"]
+},
+{
+    "store": "billa",
+    "id": "00-336750",
+    "name": "Clever Mascarpone",
+    "category": "Milchprodukte",
+    "subcategories": ["Mascarpone"]
+},
+{
+    "store": "billa",
+    "id": "00-577146",
+    "name": "Clever Milchsnack Honig",
+    "category": "Süßwaren",
+    "subcategories": ["Milchsnack", "Honig"]
+},
+{
+    "store": "billa",
+    "id": "00-434218",
+    "name": "Clever Naturjoghurt 0.1%",
+    "category": "Milchprodukte",
+    "subcategories": ["Joghurt", "Natur"]
+},
+{
+    "store": "billa",
+    "id": "00-853235",
+    "name": "Clever Naturjoghurt 3.6%",
+    "category": "Milchprodukte",
+    "subcategories": ["Joghurt", "Natur"]
+},
+{
+    "store": "billa",
+    "id": "00-420428",
+    "name": "Clever Sauerrahm 15%",
+    "category": "Milchprodukte",
+    "subcategories": ["Sauerrahm"]
+},
+{
+    "store": "billa",
+    "id": "00-246732",
+    "name": "Clever Sauerrahm 15%",
+    "category": "Milchprodukte",
+    "subcategories": ["Sauerrahm"]
+},
+{
+    "store": "billa",
+    "id": "00-451003",
+    "name": "Clever Schlagobers 36% länger frisch",
+    "category": "Milchprodukte",
+    "subcategories": ["Schlagobers"]
+},
+{
+    "store": "billa",
+    "id": "00-962052",
+    "name": "Clever Schlagobers 36% länger frisch",
+    "category": "Milchprodukte",
+    "subcategories": ["Schlagobers"]
+},
+{
+    "store": "billa",
+    "id": "00-621279",
+    "name": "Clever Schokolade Pudding mit Sahne",
+    "category": "Nachspeisen",
+    "subcategories": ["Pudding", "Schokolade"]
+},
+{
+    "store": "billa",
+    "id": "00-746223",
+    "name": "Clever Topfen 20%",
+    "category": "Milchprodukte",
+    "subcategories": ["Topfen"]
+},
+{
+    "store": "billa",
+    "id": "00-746455",
+    "name": "Clever Topfen mager",
+    "category": "Milchprodukte",
+    "subcategories": ["Topfen"]
+},
+{
+    "store": "billa",
+    "id": "00-621278",
+    "name": "Clever Vanille Pudding mit Sahne",
+    "category": "Nachspeisen",
+    "subcategories": ["Pudding", "Vanille"]
+},
+{
+    "store": "billa",
+    "id": "00-425337",
+    "name": "Clever Vollmilch 3.5%",
+    "category": "Milchprodukte",
+    "subcategories": ["Vollmilch"]
+},
+{
+    "store": "billa",
+    "id": "00-504029",
+    "name": "Clever Vollmilch länger frisch 3.5%",
+    "category": "Milchprodukte",
+    "subcategories": ["Vollmilch"]
+},
+{
+    "store": "billa",
+    "id": "00-504031",
+    "name": "Clever Vollmilch länger frisch 3.5%",
+    "category": "Milchprodukte",
+    "subcategories": ["Vollmilch"]
+},
+{
+    "store": "billa",
+    "id": "00-918279",
+    "name": "Clever Wiener Eiskaffee",
+    "category": "Getränke",
+    "subcategories": ["Eiskaffee"]
+},
+{
+    "store": "billa",
+    "id": "00-425413",
+    "name": "Clever Österreichische Teebutter",
+    "category": "Butter und Margarine",
+    "subcategories": ["Teebutter"]
+},
+{
+    "store": "billa",
+    "id": "00-792873",
+    "name": "Completa Kaffeeweißer",
+    "category": "Milchprodukte",
+    "subcategories": ["Kaffeeweißer"]
+},
+{
+    "store": "billa",
+    "id": "00-780378",
+    "name": "Cremana Pflanzenfett",
+    "category": "Fette und Öle",
+    "subcategories": ["Pflanzenfett"]
+},
+{
+    "store": "billa",
+    "id": "00-731204",
+    "name": "Danone Actimel Erdbeere",
+    "category": "Milchprodukte",
+    "subcategories": ["Actimel", "Erdbeere"]
+},
+{
+    "store": "billa",
+    "id": "00-714967",
+    "name": "Danone Actimel Erdbeere",
+    "category": "Milchprodukte",
+    "subcategories": ["Actimel", "Erdbeere"]
+},
+{
+    "store": "billa",
+    "id": "00-289280",
+    "name": "Danone Actimel Kokosnuss",
+    "category": "Milchprodukte",
+    "subcategories": ["Actimel", "Kokosnuss"]
+},
+{
+    "store": "billa",
+    "id": "00-762573",
+    "name": "Danone Actimel Multifrucht",
+    "category": "Milchprodukte",
+    "subcategories": ["Actimel", "Multifrucht"]
+},
+{
+    "store": "billa",
+    "id": "00-714965",
+    "name": "Danone Actimel Natur",
+    "category": "Milchprodukte",
+    "subcategories": ["Actimel", "Natur"]
+},
+{
+    "store": "billa",
+    "id": "00-738536",
+    "name": "Danone Actimel Waldfrucht",
+    "category": "Milchprodukte",
+    "subcategories": ["Actimel", "Waldfrucht"]
+},
+{
+    "store": "billa",
+    "id": "00-933792",
+    "name": "Danone Activia Cerealien",
+    "category": "Milchprodukte",
+    "subcategories": ["Activia", "Cerealien"]
+},
+{
+    "store": "billa",
+    "id": "00-933797",
+    "name": "Danone Activia Erdbeere",
+    "category": "Milchprodukte",
+    "subcategories": ["Activia", "Erdbeere"]
+},
+{
+    "store": "billa",
+    "id": "00-933807",
+    "name": "Danone Activia Pfirsich & Himbeere",
+    "category": "Milchprodukte",
+    "subcategories": ["Activia", "Pfirsich", "Himbeere"]
+},
+{
+    "store": "billa",
+    "id": "00-581078",
+    "name": "Danone Dany Mousse Kokos 4x60g",
+    "category": "Nachspeisen",
+    "subcategories": ["Dany Mousse", "Kokos"]
+},
+{
+    "store": "billa",
+    "id": "00-443080",
+    "name": "Danone Dany Mousse feinste Schokolade",
+    "category": "Nachspeisen",
+    "subcategories": ["Dany Mousse", "Schokolade"]
+},
+{
+    "store": "billa",
+    "id": "00-387480",
+    "name": "Danone Dany Sahne Schoko",
+    "category": "Nachspeisen",
+    "subcategories": ["Dany Sahne", "Schoko"]
+},
+{
+    "store": "billa",
+    "id": "00-387269",
+    "name": "Danone Dany Sahne Vanille",
+    "category": "Nachspeisen",
+    "subcategories": ["Dany Sahne", "Vanille"]
+},
+{
+    "store": "billa",
+    "id": "00-422698",
+    "name": "Danone Fruchtzwerge Banane Erdbeer Pfrisich-Birne",
+    "category": "Milchprodukte",
+    "subcategories": ["Fruchtzwerge", "Banane", "Erdbeer", "Pfirsich-Birne"]
+},
+{
+    "store": "billa",
+    "id": "00-471619",
+    "name": "Danone Fruchtzwerge Erdbeere Marille Banane weniger süß",
+    "category": "Milchprodukte",
+    "subcategories": ["Fruchtzwerge", "Erdbeere", "Marille", "Banane"]
+},
+{
+    "store": "billa",
+    "id": "00-599305",
+    "name": "Danone Fruchtzwerge Go! Erdbeer-Banane",
+    "category": "Milchprodukte",
+    "subcategories": ["Fruchtzwerge", "Erdbeer-Banane"]
+},
+{
+    "store": "billa",
+    "id": "00-456590",
+    "name": "Danone Fruchtzwerge Go! Erdbeere",
+    "category": "Milchprodukte",
+    "subcategories": ["Fruchtzwerge", "Erdbeere"]
+},
+{
+    "store": "billa",
+    "id": "00-9278",
+    "name": "Danone Fruchtzwerge Himbeere Kirsche Erdbeere",
+    "category": "Milchprodukte",
+    "subcategories": ["Fruchtzwerge", "Himbeere", "Kirsche", "Erdbeere"]
+},
+{
+    "store": "billa",
+    "id": "00-581815",
+    "name": "Danone Fruchtzwerge Pfirsich Kirsche Himbeere weniger süß",
+    "category": "Milchprodukte",
+    "subcategories": ["Fruchtzwerge", "Pfirsich", "Kirsche", "Himbeere"]
+},
+{
+    "store": "billa",
+    "id": "00-501770",
+    "name": "Darbo Fruchtikus Erdbeer-Vanille",
+    "category": "Nachspeisen",
+    "subcategories": ["Fruchtikus", "Erdbeer-Vanille"]
+},
+{
+    "store": "billa",
+    "id": "00-723076",
+    "name": "Darbo Fruchtikus Mango-Marille",
+    "category": "Nachspeisen",
+    "subcategories": ["Fruchtikus", "Mango-Marille"]
+},
+{
+    "store": "billa",
+    "id": "00-410217",
+    "name": "Darbo Fruchtikus Rote Früchte",
+    "category": "Nachspeisen",
+    "subcategories": ["Fruchtikus", "Rote Früchte"]
+},
+{
+    "store": "billa",
+    "id": "00-641676",
+    "name": "Die Leichte Muh Frühstücksmilch",
+    "category": "Milchprodukte",
+    "subcategories": ["Frühstücksmilch"]
+},
+{
+    "store": "billa",
+    "id": "00-401951",
+    "name": "Die leichte Muh Kaffeemilch",
+    "category": "Milchprodukte",
+    "subcategories": ["Kaffeemilch"]
+},
+{
+    "store": "billa",
+    "id": "00-719251",
+    "name": "Dodoni Hafer Apfel Zimt",
+    "category": "Milchprodukte",
+    "subcategories": ["Dodoni Hafer", "Apfel", "Zimt"]
+},
+{
+    "store": "billa",
+    "id": "00-719246",
+    "name": "Dodoni Hafer Natur",
+    "category": "Milchprodukte",
+    "subcategories": ["Dodoni Hafer"]
+},
+{
+    "store": "billa",
+    "id": "00-719255",
+    "name": "Dodoni Hafer Vanilla",
+    "category": "Milchprodukte",
+    "subcategories": ["Dodoni Hafer", "Vanilla"]
+},
+{
+    "store": "billa",
+    "id": "00-721477",
+    "name": "Dr. Oetker Creme Dessert Apfelkuchen",
+    "category": "Nachspeisen",
+    "subcategories": ["Creme Dessert", "Apfelkuchen"]
+},
+{
+    "store": "billa",
+    "id": "00-721479",
+    "name": "Dr. Oetker Creme Dessert Erdbeerkuchen",
+    "category": "Nachspeisen",
+    "subcategories": ["Creme Dessert", "Erdbeerkuchen"]
+},
+{
+    "store": "billa",
+    "id": "00-765783",
+    "name": "Dr. Oetker Creme Vega",
+    "category": "Nachspeisen",
+    "subcategories": ["Creme Vega"]
+},
+{
+    "store": "billa",
+    "id": "00-246083",
+    "name": "Dr. Oetker Creme Vega Gartenkräuter",
+    "category": "Nachspeisen",
+    "subcategories": ["Creme Vega", "Gartenkräuter"]
+},
+{
+    "store": "billa",
+    "id": "00-719721",
+    "name": "Dr. Oetker Cuisine Vega",
+    "category": "Milchprodukte",
+    "subcategories": ["Cuisine Vega"]
+},
+{
+    "store": "billa",
+    "id": "00-469245",
+    "name": "Dr. Oetker Götterspeise Himbeer Geschmack",
+    "category": "Backzutaten",
+    "subcategories": ["Götterspeise", "Himbeer"]
+},
+{
+    "store": "billa",
+    "id": "00-469247",
+    "name": "Dr. Oetker Götterspeise Waldmeister Geschmack",
+    "category": "Backzutaten",
+    "subcategories": ["Götterspeise", "Waldmeister"]
+},
+{
+    "store": "billa",
+    "id": "00-721034",
+    "name": "Dr. Oetker High Protein Milchreis",
+    "category": "Nachspeisen",
+    "subcategories": ["High Protein", "Milchreis"]
+},
+{
+    "store": "billa",
+    "id": "00-443463",
+    "name": "Dr. Oetker High Protein Pudding Grieß",
+    "category": "Nachspeisen",
+    "subcategories": ["High Protein", "Pudding", "Grieß"]
+},
+{
+    "store": "billa",
+    "id": "00-472316",
+    "name": "Dr. Oetker High Protein Pudding Grieß Schoko",
+    "category": "Nachspeisen",
+    "subcategories": ["High Protein", "Pudding", "Grieß", "Schoko"]
+},
+{
+    "store": "billa",
+    "id": "00-719913",
+    "name": "Dr. Oetker Love It Griess Pudding Natur",
+    "category": "Nachspeisen",
+    "subcategories": ["Love It", "Griess", "Pudding", "Natur"]
+},
+{
+    "store": "billa",
+    "id": "00-719910",
+    "name": "Dr. Oetker Love It Schokolade Pudding",
+    "category": "Nachspeisen",
+    "subcategories": ["Love It", "Schokolade", "Pudding"]
+},
+{
+    "store": "billa",
+    "id": "00-719915",
+    "name": "Dr. Oetker Love It Vanille Pudding",
+    "category": "Nachspeisen",
+    "subcategories": ["Love It", "Vanille", "Pudding"]
+},
+{
+    "store": "billa",
+    "id": "00-840429",
+    "name": "Dr. Oetker Paula Vanille Pudding mit Schokoflecken",
+    "category": "Nachspeisen",
+    "subcategories": ["Paula", "Vanille", "Pudding", "Schokoflecken"]
+},
+{
+    "store": "billa",
+    "id": "00-582923",
+    "name": "Ehrmann High Protein Vanille Mousse",
+    "category": "Nachspeisen",
+    "subcategories": ["High Protein", "Vanille", "Mousse"]
+},
+{
+    "store": "billa",
+    "id": "00-932010",
+    "name": "Ehrmann Grand Dessert Schoko",
+    "category": "Nachspeisen",
+    "subcategories": ["Grand Dessert", "Schoko"]
+},
+{
+    "store": "billa",
+    "id": "00-582925",
+    "name": "Ehrmann High Protein Chocolate Mousse",
+    "category": "Nachspeisen",
+    "subcategories": ["High Protein", "Schokolade", "Mousse"]
+},
+{
+    "store": "billa",
+    "id": "00-582922",
+    "name": "Ehrmann High Protein Karamell Pudding",
+    "category": "Nachspeisen",
+    "subcategories": ["High Protein", "Karamell", "Pudding"]
+},
+{
+    "store": "billa",
+    "id": "00-382878",
+    "name": "Ehrmann High Protein Schoko Pudding",
+    "category": "Nachspeisen",
+    "subcategories": ["High Protein", "Schokolade", "Pudding"]
+},
+{
+    "store": "billa",
+    "id": "00-580424",
+    "name": "Ehrmann Veo Chocolate Pudding",
+    "category": "Nachspeisen",
+    "subcategories": ["Veo", "Schokolade", "Pudding"]
+},
+{
+    "store": "billa",
+    "id": "00-592958",
+    "name": "Ehrmann Veo Vanille Pudding",
+    "category": "Nachspeisen",
+    "subcategories": ["Veo", "Vanille", "Pudding"]
+}]

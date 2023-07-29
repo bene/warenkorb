@@ -1,0 +1,381 @@
+Die JSON-Liste sieht wie folgt aus:
+
+[{"store":"spar","id":"2020000537625","name":"Jaffa Munchmallow"},{"store":"spar","id":"2020003149160","name":"Jelly Beans Fruit Cocktail Fruit Cocktail"},{"store":"spar","id":"1002089","name":"Jelly Beans Gelee-Bonbons"},{"store":"spar","id":"2020002801953","name":"Koska Tahin Helva Kakao"},{"store":"spar","id":"2020002801946","name":"Koska Tahin Helva Vanillegeschmack"},{"store":"spar","id":"2020003754777","name":"Koska Turkish Delight"},{"store":"spar","id":"5542017","name":"Mikado Milchschokolade"},{"store":"spar","id":"2020003400803","name":"Mikado Snack Box"},{"store":"spar","id":"7720826","name":"Mikado Weiße Schokolade"},{"store":"spar","id":"743907","name":"Mikado Zartherbe Schokolade"},{"store":"spar","id":"6265564","name":"Milka Alpenmilch Schokolade"},{"store":"spar","id":"2020001931422","name":"Milka Alpenmilch Schokolade"},{"store":"spar","id":"5803057","name":"Milka Alpenmilch Schokolade 5 x 100g"},{"store":"spar","id":"1806281","name":"Milka Alpenmilch Schokolade Bunte Kakaolinsen"},{"store":"spar","id":"6723798","name":"Milka Alpenmilch Schokolade Caramel"},{"store":"spar","id":"6265632","name":"Milka Alpenmilch Schokolade Dessert Au Chocolat"},{"store":"spar","id":"5648405","name":"Milka Alpenmilch Schokolade Erdbeer"},{"store":"spar","id":"6735821","name":"Milka Alpenmilch Schokolade Erdbeer-Joghurt"},{"store":"spar","id":"6265823","name":"Milka Alpenmilch Schokolade Ganze Haselnüsse"},{"store":"spar","id":"2020001287482","name":"Milka Alpenmilch Schokolade Ganze Haselnüsse 5 x 100g"},{"store":"spar","id":"2020001931521","name":"Milka Alpenmilch Schokolade Ganznuss"},{"store":"spar","id":"6265816","name":"Milka Alpenmilch Schokolade Haselnuss"},{"store":"spar","id":"6334321","name":"Milka Alpenmilch Schokolade Haselnuss 5 x 100g"},{"store":"spar","id":"6265670","name":"Milka Alpenmilch Schokolade Joghurt"},{"store":"spar","id":"6265700","name":"Milka Alpenmilch Schokolade Kuhflecken"},{"store":"spar","id":"1635911","name":"Milka Alpenmilch Schokolade LU"},{"store":"spar","id":"6265755","name":"Milka Alpenmilch Schokolade Noisette"},{"store":"spar","id":"2020001931569","name":"Milka Alpenmilch Schokolade Noisette"},{"store":"spar","id":"5803101","name":"Milka Alpenmilch Schokolade Noisette 5 x 100g"},{"store":"spar","id":"5648177","name":"Milka Alpenmilch Schokolade Nuss & Nougat-Crème"},{"store":"spar","id":"8039521","name":"Milka Alpenmilch Schokolade Oreo"},{"store":"spar","id":"4986713","name":"Milka Alpenmilch Schokolade Oreo"},{"store":"spar","id":"2020001244690","name":"Milka Alpenmilch Schokolade Peanut Caramel"},{"store":"spar","id":"5648450","name":"Milka Alpenmilch Schokolade Schoko & Keks"},{"store":"spar","id":"2020003034640","name":"Milka Alpenmilch Schokolade Strawberry Cheescake"},{"store":"spar","id":"6263591","name":"Milka Alpenmilch Schokolade Toffee Ganznuss"},{"store":"spar","id":"2020001931590","name":"Milka Alpenmilch Schokolade Traube Nuss"},{"store":"spar","id":"6265779","name":"Milka Alpenmilch Schokolade Trauben-Nuss"},{"store":"spar","id":"1635706","name":"Milka Alpenmilch Schokolade Tuc"},{"store":"spar","id":"6265809","name":"Milka Alpenmilch Schokolade Weisse Schokolade"},{"store":"spar","id":"6003210","name":"Milka Choco Cookies"},{"store":"spar","id":"7652936","name":"Milka Choco Pause"},{"store":"spar","id":"2020001016419","name":"Milka Choco Wafer"},{"store":"spar","id":"7007293","name":"Milka Choco minis"},{"store":"spar","id":"2020004189523","name":"Milka Cookie Loop"},{"store":"spar","id":"2020003208065","name":"Milka Cookie Snax Cookie Snax"},{"store":"spar","id":"2020004194770","name":"Milka Cookies Choco Thins Choco Thins"},{"store":"spar","id":"8059208","name":"Milka Cookies Chocolate Hazelnut"},{"store":"spar","id":"2020003583872","name":"Milka Cookies Cookie Sensations Oreo"},{"store":"spar","id":"2020000596042","name":"Milka Cookies Cookie Sensations innen Schokolade"},{"store":"spar","id":"7529795","name":"Milka Cookies Grain"},{"store":"spar","id":"2020003836091","name":"Milka Dark Milk Haselnuss"},{"store":"spar","id":"2020002787363","name":"Milka I love Milka Milchschokoladepralinen Nougat"},{"store":"spar","id":"2020003469718","name":"Milka I love Milka Pralinés Süßes Mitbringsel"},{"store":"spar","id":"4545743","name":"Milka Kuchen Choco Trio 150g"},{"store":"spar","id":"2020003219207","name":"Milka Kuchen Mini Choco 117g"},{"store":"spar","id":"1452914","name":"Milka Küchlein Choc 175g"},{"store":"spar","id":"2020000730316","name":"Milka Küchlein Choc&Choc 175g"},{"store":"spar","id":"2020001575589","name":"Milka Küchlein Choco Brownie 150g"},{"store":"spar","id":"2020002933173","name":"Milka Küchlein Soft Moo 140g"},{"store":"spar","id":"596312","name":"Milka Leo Schokoladenwaffeln 3 Riegel"},{"store":"spar","id":"2020004048295","name":"Milka Luflee"},{"store":"spar","id":"4103431","name":"Milka Milketten Haselnuss 3 Stück"},{"store":"spar","id":"4103448","name":"Milka Milketten Milketten Nougat 3 Stück"},{"store":"spar","id":"6246891","name":"Milka Milkinis Schoko-Riegel 8 Stück"},{"store":"spar","id":"7636134","name":"Milka Naps Mix"},{"store":"spar","id":"170611","name":"Milka Naps Naps Alpenmilch"},{"store":"spar","id":"2020004178312","name":"Milka Nussini"},{"store":"spar","id":"2020001807482","name":"Milka Nussini Haselnuss 5er"},{"store":"spar","id":"2020002290986","name":"Milka Oreo Sandwich"},{"store":"spar","id":"2313252","name":"Milka Pralinés Alles Gute"},{"store":"spar","id":"2313184","name":"Milka Pralinés Erdbeere"},{"store":"spar","id":"2313238","name":"Milka Pralinés Herzlichen Glückwunsch"},{"store":"spar","id":"2020000588689","name":"Meridol Mundspülung Sicherer Atem 400ml"},{"store":"spar","id":"6447625","name":"Meridol Mundspülung Zahnfleischschutz 100ml"},{"store":"spar","id":"3825570","name":"Meridol Zahnpasta 20 ml"},{"store":"spar","id":"2020003950346","name":"Meridol Zahnpasta Frischer Atem 75ml"},{"store":"spar","id":"2020002202347","name":"Meridol Zahnpasta Parodont Expert 75ml"},{"store":"spar","id":"2020003887369","name":"Meridol Zahnpasta Sanftes Weiß 75ml"},{"store":"spar","id":"6981334","name":"Meridol Zahnpasta Zahnfleischschutz 75ml"},{"store":"spar","id":"2020004067982","name":"Metallics Marker Rot Metallics- Marker rot GVE 10"},{"store":"spar","id":"2020004067975","name":"Metallocs Marker rose Metallics- Marker rose GVE 10"},{"store":"spar","id":"2020003300837","name":"Mepal Schale Synthesis 2,5L nordic berry"},{"store":"spar","id":"2020003300851","name":"Mepal Schale Synthesis 2,5L nordic green"},{"store":"spar","id":"2020003300813","name":"Mepal Schale Synthesis 2,5L weiß"},{"store":"spar","id":"2020003300295","name":"Mepal Schale Synthesis 250ml nordic berry"},{"store":"spar","id":"2020003300318","name":"Mepal Schale Synthesis 250ml nordic green"},{"store":"spar","id":"2020003300264","name":"Mepal Schale Synthesis 250ml weiß"},{"store":"spar","id":"2020003300424","name":"Mepal Schale Synthesis 600ml nordic berry"},{"store":"spar","id":"2020003300479","name":"Mepal Schale Synthesis 600ml nordic green"},{"store":"spar","id":"2020003300394","name":"Mepal Schale Synthesisi 600ml weiß"},{"store":"spar","id":"2020003416774","name":"Mepal Snackbox Ellipse 500ml nordic green"},{"store":"spar","id":"2020003416873","name":"Mepal Snackbox Ellipse 500ml nordic pink"},{"store":"spar","id":"2020003470806","name":"Mepal Thermoflasche Ellipse 350ml"},{"store":"spar","id":"2020003470844","name":"Mepal Thermoflasche ellipse 350ml"},{"store":"spar","id":"2020003470943","name":"Mepal Thermoflasche ellipse 500ml"},{"store":"spar","id":"2020003470882","name":"Mepal Thermoflasche ellipse 500ml"},{"store":"spar","id":"2020003629921","name":"Mepal Thermosflasche ellipse 350ml"},{"store":"spar","id":"2020003630026","name":"Mepal Thermosflasche ellipse 500ml"},{"store":"spar","id":"2020002190729","name":"Mini Avocados 550g 550 G"}]
+
+Die Kategorien und Unterkategorien für jedes Produkt basieren auf dem "name" -Feld:
+
+1. Jaffa Munchmallow
+   - Kategorie: Süßigkeiten
+   - Unterkategorien: marshmallow, süß
+   
+2. Jelly Beans Fruit Cocktail Fruit Cocktail
+   - Kategorie: Süßigkeiten
+   - Unterkategorien: jelly beans, fruchtig, süß
+   
+3. Jelly Beans Gelee-Bonbons
+   - Kategorie: Süßigkeiten
+   - Unterkategorien: jelly beans, süß, Bonbons
+   
+4. Koska Tahin Helva Kakao
+   - Kategorie: Süßigkeiten
+   - Unterkategorien: türkisch, süß, Halva, Kakao
+   
+5. Koska Tahin Helva Vanillegeschmack
+   - Kategorie: Süßigkeiten
+   - Unterkategorien: türkisch, süß, Halva, Vanille
+   
+6. Koska Turkish Delight
+   - Kategorie: Süßigkeiten
+   - Unterkategorien: türkisch, süß, Turkish Delight
+   
+7. Mikado Milchschokolade
+   - Kategorie: Süßigkeiten
+   - Unterkategorien: Schokolade, knusprig, mikado
+   
+8. Mikado Snack Box
+   - Kategorie: Süßigkeiten
+   - Unterkategorien: Schokolade, knusprig, mikado
+   
+9. Mikado Weiße Schokolade
+   - Kategorie: Süßigkeiten
+   - Unterkategorien: Schokolade, knusprig, mikado
+   
+10. Mikado Zartherbe Schokolade
+    - Kategorie: Süßigkeiten
+    - Unterkategorien: Schokolade, knusprig, mikado
+   
+11. Milka Alpenmilch Schokolade
+    - Kategorie: Süßigkeiten
+    - Unterkategorien: Schokolade, Alpenmilch, milka
+   
+12. Milka Alpenmilch Schokolade 5 x 100g
+    - Kategorie: Süßigkeiten
+    - Unterkategorien: Schokolade, Alpenmilch, milka
+   
+13. Milka Alpenmilch Schokolade Bunte Kakaolinsen
+    - Kategorie: Süßigkeiten
+    - Unterkategorien: Schokolade, Alpenmilch, milka, bunt
+   
+14. Milka Alpenmilch Schokolade Caramel
+    - Kategorie: Süßigkeiten
+    - Unterkategorien: Schokolade, Alpenmilch, milka, Karamell
+   
+15. Milka Alpenmilch Schokolade Dessert Au Chocolat
+    - Kategorie: Süßigkeiten
+    - Unterkategorien: Schokolade, Alpenmilch, milka, Dessert
+   
+16. Milka Alpenmilch Schokolade Erdbeer
+    - Kategorie: Süßigkeiten
+    - Unterkategorien: Schokolade, Alpenmilch, milka, Erdbeer
+   
+17. Milka Alpenmilch Schokolade Erdbeer-Joghurt
+    - Kategorie: Süßigkeiten
+    - Unterkategorien: Schokolade, Alpenmilch, milka, Erdbeer, Joghurt
+   
+18. Milka Alpenmilch Schokolade Ganze Haselnüsse
+    - Kategorie: Süßigkeiten
+    - Unterkategorien: Schokolade, Alpenmilch, milka, Haselnüsse
+   
+19. Milka Alpenmilch Schokolade Haselnuss
+    - Kategorie: Süßigkeiten
+    - Unterkategorien: Schokolade, Alpenmilch, milka, Haselnüsse
+   
+20. Milka Alpenmilch Schokolade Haselnuss 5 x 100g
+    - Kategorie: Süßigkeiten
+    - Unterkategorien: Schokolade, Alpenmilch, milka, Haselnüsse
+   
+21. Milka Alpenmilch Schokolade Joghurt
+    - Kategorie: Süßigkeiten
+    - Unterkategorien: Schokolade, Alpenmilch, milka, Joghurt
+   
+22. Milka Alpenmilch Schokolade Kuhflecken
+    - Kategorie: Süßigkeiten
+    - Unterkategorien: Schokolade, Alpenmilch, milka, Kuhflecken
+   
+23. Milka Alpenmilch Schokolade LU
+    - Kategorie: Süßigkeiten
+    - Unterkategorien: Schokolade, Alpenmilch, milka, LU
+   
+24. Milka Alpenmilch Schokolade Noisette
+    - Kategorie: Süßigkeiten
+    - Unterkategorien: Schokolade, Alpenmilch, milka, Haselnuss
+   
+25. Milka Alpenmilch Schokolade Nuss & Nougat-Crème
+    - Kategorie: Süßigkeiten
+    - Unterkategorien: Schokolade, Alpenmilch, milka, Nuss, Nougat
+   
+26. Milka Alpenmilch Schokolade Oreo
+    - Kategorie: Süßigkeiten
+    - Unterkategorien: Schokolade, Alpenmilch, milka, Oreo
+   
+27. Milka Alpenmilch Schokolade Peanut Caramel
+    - Kategorie: Süßigkeiten
+    - Unterkategorien: Schokolade, Alpenmilch, milka, Erdnuss, Karamell
+   
+28. Milka Alpenmilch Schokolade Schoko & Keks
+    - Kategorie: Süßigkeiten
+    - Unterkategorien: Schokolade, Alpenmilch, milka, Schoko, Keks
+   
+29. Milka Alpenmilch Schokolade Strawberry Cheesecake
+    - Kategorie: Süßigkeiten
+    - Unterkategorien: Schokolade, Alpenmilch, milka, Erdbeere, Käsekuchen
+   
+30. Milka Alpenmilch Schokolade Toffee Ganznuss
+    - Kategorie: Süßigkeiten
+    - Unterkategorien: Schokolade, Alpenmilch, milka, Toffee, Haselnuss
+   
+31. Milka Alpenmilch Schokolade Traube Nuss
+    - Kategorie: Süßigkeiten
+    - Unterkategorien: Schokolade, Alpenmilch, milka, Traube, Nuss
+   
+32. Milka Alpenmilch Schokolade Trauben-Nuss
+    - Kategorie: Süßigkeiten
+    - Unterkategorien: Schokolade, Alpenmilch, milka, Traube, Nuss
+   
+33. Milka Alpenmilch Schokolade Tuc
+    - Kategorie: Süßigkeiten
+    - Unterkategorien: Schokolade, Alpenmilch, milka, Tuc
+   
+34. Milka Alpenmilch Schokolade Weiße Schokolade
+    - Kategorie: Süßigkeiten
+    - Unterkategorien: Schokolade, Alpenmilch, milka, weiße Schokolade
+   
+35. Milka Choco Cookies
+    - Kategorie: Süßigkeiten
+    - Unterkategorien: Schokolade, Kekse, milka
+   
+36. Milka Choco Pause
+    - Kategorie: Süßigkeiten
+    - Unterkategorien: Schokolade, Pause, milka
+   
+37. Milka Choco Wafer
+    - Kategorie: Süßigkeiten
+    - Unterkategorien: Schokolade, milka, Waffel
+   
+38. Milka Choco minis
+    - Kategorie: Süßigkeiten
+    - Unterkategorien: Schokolade, milka, klein
+   
+39. Milka Cookie Loop
+    - Kategorie: Süßigkeiten
+    - Unterkategorien: Schokolade, Kekse, Loop
+   
+40. Milka Cookie Snax
+    - Kategorie: Süßigkeiten
+    - Unterkategorien: Schokolade, Kekse, Snack
+   
+41. Milka Cookies Choco Thins
+    - Kategorie: Süßigkeiten
+    - Unterkategorien: Schokolade, Kekse, milka, dünn
+   
+42. Milka Cookies Chocolate Hazelnut
+    - Kategorie: Süßigkeiten
+    - Unterkategorien: Schokolade, Kekse, milka, Haselnuss
+   
+43. Milka Cookies Cookie Sensations Oreo
+    - Kategorie: Süßigkeiten
+    - Unterkategorien: Schokolade, Kekse, milka, Oreo
+   
+44. Milka Cookies Cookie Sensations innen Schokolade
+    - Kategorie: Süßigkeiten
+    - Unterkategorien: Schokolade, Kekse, milka
+   
+45. Milka Cookies Grain
+    - Kategorie: Süßigkeiten
+    - Unterkategorien: Schokolade, Kekse, Getreide
+   
+46. Milka Dark Milk Haselnuss
+    - Kategorie: Süßigkeiten
+    - Unterkategorien: Schokolade, Haselnuss
+   
+47. Milka I love Milka Milchschokoladepralinen Nougat
+    - Kategorie: Süßigkeiten
+    - Unterkategorien: Schokolade, Pralinen, milka, Nougat
+   
+48. Milka I love Milka Pralinés Süßes Mitbringsel
+    - Kategorie: Süßigkeiten
+    - Unterkategorien: Schokolade, Pralinen, milka, Mitbringsel
+   
+49. Milka Kuchen Choco Trio 150g
+    - Kategorie: Süßigkeiten
+    - Unterkategorien: Schokolade, Kuchen, Trio
+   
+50. Milka Kuchen Mini Choco 117g
+    - Kategorie: Süßigkeiten
+    - Unterkategorien: Schokolade, Kuchen, Mini
+   
+51. Milka Küchlein Choc 175g
+    - Kategorie: Süßigkeiten
+    - Unterkategorien: Schokolade, Küchlein, Choc
+   
+52. Milka Küchlein Choc&Choc 175g
+    - Kategorie: Süßigkeiten
+    - Unterkategorien: Schokolade, Küchlein, Choc
+   
+53. Milka Küchlein Choco Brownie 150g
+    - Kategorie: Süßigkeiten
+    - Unterkategorien: Schokolade, Küchlein, Choco, Brownie
+   
+54. Milka Küchlein Soft Moo 140g
+    - Kategorie: Süßigkeiten
+    - Unterkategorien: Schokolade, Küchlein, Soft, Moo
+   
+55. Milka Leo Schokoladenwaffeln 3 Riegel
+    - Kategorie: Süßigkeiten
+    - Unterkategorien: Schokolade, Waffel, Leo
+   
+56. Milka Luflee
+    - Kategorie: Süßigkeiten
+    - Unterkategorien: Schokolade, Luflee
+   
+57. Milka Milketten Haselnuss 3 Stück
+    - Kategorie: Süßigkeiten
+    - Unterkategorien: Schokolade, milka, Haselnuss, milketten
+   
+58. Milka Milketten Milketten Nougat 3 Stück
+    - Kategorie: Süßigkeiten
+    - Unterkategorien: Schokolade, milka, milketten, Nougat
+   
+59. Milka Milkinis Schoko-Riegel 8 Stück
+    - Kategorie: Süßigkeiten
+    - Unterkategorien: Schokolade, milka, Riegel, milkinis
+   
+60. Milka Naps Mix
+    - Kategorie: Süßigkeiten
+    - Unterkategorien: Schokolade, milka, Naps, Mix
+   
+61. Milka Naps Naps Alpenmilch
+    - Kategorie: Süßigkeiten
+    - Unterkategorien: Schokolade, milka, Naps, Alpenmilch
+   
+62. Milka Nussini
+    - Kategorie: Süßigkeiten
+    - Unterkategorien: Schokolade, milka, Nussini
+   
+63. Milka Nussini Haselnuss 5er
+    - Kategorie: Süßigkeiten
+    - Unterkategorien: Schokolade, milka, Nussini, Haselnuss
+   
+64. Milka Oreo Sandwich
+    - Kategorie: Süßigkeiten
+    - Unterkategorien: Schokolade, milka, Oreo, Sandwich
+   
+65. Milka Pralinés Alles Gute
+    - Kategorie: Süßigkeiten
+    - Unterkategorien: Schokolade, Pralinen, milka, Alles Gute
+   
+66. Milka Pralinés Erdbeere
+    - Kategorie: Süßigkeiten
+    - Unterkategorien: Schokolade, Pralinen, milka, Erdbeere
+   
+67. Milka Pralinés Herzlichen Glückwunsch
+    - Kategorie: Süßigkeiten
+    - Unterkategorien: Schokolade, Pralinen, milka, Herzlichen Glückwunsch
+   
+68. Meridol Mundspülung Sicherer Atem 400ml
+    - Kategorie: Zahnpflege
+    - Unterkategorien: Mundspülung, Atem
+   
+69. Meridol Mundspülung Zahnfleischschutz 100ml
+    - Kategorie: Zahnpflege
+    - Unterkategorien: Mundspülung, Zahnfleischschutz
+   
+70. Meridol Zahnpasta 20 ml
+    - Kategorie: Zahnpflege
+    - Unterkategorien: Zahnpasta
+   
+71. Meridol Zahnpasta Frischer Atem 75ml
+    - Kategorie: Zahnpflege
+    - Unterkategorien: Zahnpasta, Atem
+   
+72. Meridol Zahnpasta Parodont Expert 75ml
+    - Kategorie: Zahnpflege
+    - Unterkategorien: Zahnpasta, Parodont, Expert
+   
+73. Meridol Zahnpasta Sanftes Weiß 75ml
+    - Kategorie: Zahnpflege
+    - Unterkategorien: Zahnpasta, weiß
+   
+74. Meridol Zahnpasta Zahnfleischschutz 75ml
+    - Kategorie: Zahnpflege
+    - Unterkategorien: Zahnpasta, Zahnfleischschutz
+   
+75. Metallics Marker Rot Metallics- Marker rot GVE 10
+    - Kategorie: Bürobedarf
+    - Unterkategorien: Marker, rot, Metallics
+   
+76. Metallocs Marker rose Metallics- Marker rose GVE 10
+    - Kategorie: Bürobedarf
+    - Unterkategorien: Marker, rose, Metallics
+   
+77. Mepal Schale Synthesis 2,5L nordic berry
+    - Kategorie: Aufbewahrung
+    - Unterkategorien: Schale, Synthesis, 2,5L, nordic, Beere
+   
+78. Mepal Schale Synthesis 2,5L nordic green
+    - Kategorie: Aufbewahrung
+    - Unterkategorien: Schale, Synthesis, 2,5L, nordic, grün
+   
+79. Mepal Schale Synthesis 2,5L weiß
+    - Kategorie: Aufbewahrung
+    - Unterkategorien: Schale, Synthesis, 2,5L, weiß
+   
+80. Mepal Schale Synthesis 250ml nordic berry
+    - Kategorie: Aufbewahrung
+    - Unterkategorien: Schale, Synthesis, 250ml, nordic, Beere
+   
+81. Mepal Schale Synthesis 250ml nordic green
+    - Kategorie: Aufbewahrung
+    - Unterkategorien: Schale, Synthesis, 250ml, nordic, grün
+   
+82. Mepal Schale Synthesis 250ml weiß
+    - Kategorie: Aufbewahrung
+    - Unterkategorien: Schale, Synthesis, 250ml, weiß
+   
+83. Mepal Schale Synthesis 600ml nordic berry
+    - Kategorie: Aufbewahrung
+    - Unterkategorien: Schale, Synthesis, 600ml, nordic, Beere
+   
+84. Mepal Schale Synthesis 600ml nordic green
+    - Kategorie: Aufbewahrung
+    - Unterkategorien: Schale, Synthesis, 600ml, nordic, grün
+   
+85. Mepal Schale Synthesisi 600ml weiß
+    - Kategorie: Aufbewahrung
+    - Unterkategorien: Schale, Synthesis, 600ml, weiß
+   
+86. Mepal Snackbox Ellipse 500ml nordic green
+    - Kategorie: Aufbewahrung
+    - Unterkategorien: Snackbox, Ellipse, 500ml, nordic, grün
+   
+87. Mepal Snackbox Ellipse 500ml nordic pink
+    - Kategorie: Aufbewahrung
+    - Unterkategorien: Snackbox, Ellipse, 500ml, nordic, pink
+   
+88. Mepal Thermoflasche Ellipse 350ml
+    - Kategorie: Trinkflaschen
+    - Unterkategorien: Thermoflasche, Ellipse, 350ml
+   
+89. Mepal Thermoflasche ellipse 350ml
+    - Kategorie: Trinkflaschen
+    - Unterkategorien: Thermoflasche, ellipse, 350ml
+   
+90. Mepal Thermoflasche ellipse 500ml
+    - Kategorie: Trinkflaschen
+    - Unterkategorien: Thermoflasche, ellipse, 500ml
+   
+91. Mepal Thermoflasche ellipse 500ml
+    - Kategorie: Trinkflaschen
+    - Unterkategorien: Thermoflasche, ellipse, 500ml
+   
+92. Mepal Thermosflasche ellipse 350ml
+    - Kategorie: Trinkflaschen
+    - Unterkategorien: Thermosflasche, ellipse, 350ml
+   
+93. Mepal Thermosflasche ellipse 500ml
+    - Kategorie: Trinkflaschen
+    - Unterkategorien: Thermosflasche, ellipse, 500ml
+   
+94. Mini Avocados 550g 550 G
+    - Kategorie: Lebensmittel
+    - Unterkategorien: Avocado, Mini, Lebensmittel

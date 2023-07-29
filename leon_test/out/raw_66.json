@@ -1,0 +1,702 @@
+[
+  {
+    "store": "billa",
+    "id": "00-714973",
+    "name": "Knorr Kaiserteller Gourmet Waldpilzsuppe",
+    "category": "Suppen",
+    "subcategories": ["Pilzsuppe", "Waldpilzsuppe"]
+  },
+  {
+    "store": "billa",
+    "id": "00-56224",
+    "name": "Knorr Kaiserteller Grießnockerlsuppe",
+    "category": "Suppen",
+    "subcategories": ["Grießnockerlsuppe"]
+  },
+  {
+    "store": "billa",
+    "id": "00-431939",
+    "name": "Knorr Kaiserteller Kartoffelcreme Suppe",
+    "category": "Suppen",
+    "subcategories": ["Kartoffelsuppe"]
+  },
+  {
+    "store": "billa",
+    "id": "00-6191",
+    "name": "Knorr Kaiserteller Knoblauchcremesuppe",
+    "category": "Suppen",
+    "subcategories": ["Knoblauchcremesuppe"]
+  },
+  {
+    "store": "billa",
+    "id": "00-437684",
+    "name": "Knorr Kaiserteller Kürbiscremesuppe",
+    "category": "Suppen",
+    "subcategories": ["Kürbiscremesuppe"]
+  },
+  {
+    "store": "billa",
+    "id": "00-423195",
+    "name": "Knorr Kaiserteller Lebernockerl Suppe",
+    "category": "Suppen",
+    "subcategories": ["Lebernockerlsuppe"]
+  },
+  {
+    "store": "billa",
+    "id": "00-963120",
+    "name": "Knorr Kaiserteller Minestrone",
+    "category": "Suppen",
+    "subcategories": ["Minestrone"]
+  },
+  {
+    "store": "billa",
+    "id": "00-154",
+    "name": "Knorr Kaiserteller Rindsuppe",
+    "category": "Suppen",
+    "subcategories": ["Rindsuppe"]
+  },
+  {
+    "store": "billa",
+    "id": "00-153",
+    "name": "Knorr Kaiserteller Speckknödelsuppe",
+    "category": "Suppen",
+    "subcategories": ["Speckknödelsuppe"]
+  },
+  {
+    "store": "billa",
+    "id": "00-5229",
+    "name": "Knorr Kaiserteller Tomatensuppe",
+    "category": "Suppen",
+    "subcategories": ["Tomatensuppe"]
+  },
+  {
+    "store": "billa",
+    "id": "00-28761",
+    "name": "Knorr Kaiserteller Wiener Festtagssuppe",
+    "category": "Suppen",
+    "subcategories": ["Festtagssuppe"]
+  },
+  {
+    "store": "billa",
+    "id": "00-412222",
+    "name": "Knorr Kaiserteller Zwiebelsuppe",
+    "category": "Suppen",
+    "subcategories": ["Zwiebelsuppe"]
+  },
+  {
+    "store": "billa",
+    "id": "00-430910",
+    "name": "Knorr Kartoffel Snack Speck & Zwiebeln",
+    "category": "Snacks",
+    "subcategories": ["Kartoffelsnack"]
+  },
+  {
+    "store": "billa",
+    "id": "00-437683",
+    "name": "Knorr Kartoffel-Lauchsuppe mit Speck",
+    "category": "Suppen",
+    "subcategories": ["Kartoffelsuppe"]
+  },
+  {
+    "store": "billa",
+    "id": "00-17013",
+    "name": "Knorr Klare Suppe Pflanzlich",
+    "category": "Suppen",
+    "subcategories": ["Klare Suppe"]
+  },
+  {
+    "store": "billa",
+    "id": "00-284507",
+    "name": "Knorr Kraftbouillon Gemüse",
+    "category": "Suppen",
+    "subcategories": ["Gemüsebouillon"]
+  },
+  {
+    "store": "billa",
+    "id": "00-965598",
+    "name": "Knorr Kürbiscremesuppe im Glas",
+    "category": "Suppen",
+    "subcategories": ["Kürbiscremesuppe"]
+  },
+  {
+    "store": "billa",
+    "id": "00-469108",
+    "name": "Knorr Mei Supp'n Gemüse Bouillon",
+    "category": "Suppen",
+    "subcategories": ["Gemüsesuppe"]
+  },
+  {
+    "store": "billa",
+    "id": "00-414166",
+    "name": "Knorr Meisterkessel Bohnen-Speck Suppe",
+    "category": "Suppen",
+    "subcategories": ["Bohnensuppe"]
+  },
+  {
+    "store": "billa",
+    "id": "00-826516",
+    "name": "Knorr Meisterkessel Chili Con Carne",
+    "category": "Suppen",
+    "subcategories": ["Chili Con Carne"]
+  },
+  {
+    "store": "billa",
+    "id": "00-358440",
+    "name": "Knorr Meisterkessel Debreziner Würstelsuppe",
+    "category": "Suppen",
+    "subcategories": ["Würstelsuppe"]
+  },
+  {
+    "store": "billa",
+    "id": "00-777936",
+    "name": "Knorr Meisterkessel Deftige Gemüsesuppe mit Kartoffeln und Speck",
+    "category": "Suppen",
+    "subcategories": ["Gemüsesuppe", "Specksuppe"]
+  },
+  {
+    "store": "billa",
+    "id": "00-705631",
+    "name": "Knorr Meisterkessel Feurige Gulaschsuppe",
+    "category": "Suppen",
+    "subcategories": ["Gulaschsuppe"]
+  },
+  {
+    "store": "billa",
+    "id": "00-3459",
+    "name": "Knorr Meisterkessel Gulaschsuppe",
+    "category": "Suppen",
+    "subcategories": ["Gulaschsuppe"]
+  },
+  {
+    "store": "billa",
+    "id": "00-867874",
+    "name": "Knorr Meisterkessel Hühnersuppe",
+    "category": "Suppen",
+    "subcategories": ["Hühnersuppe"]
+  },
+  {
+    "store": "billa",
+    "id": "00-837886",
+    "name": "Knorr Meisterkessel Kalbsbeuschel",
+    "category": "Suppen",
+    "subcategories": ["Kalbsbeuschel"]
+  },
+  {
+    "store": "billa",
+    "id": "00-402708",
+    "name": "Knorr Meisterkessel Kartoffelsuppe",
+    "category": "Suppen",
+    "subcategories": ["Kartoffelsuppe"]
+  },
+  {
+    "store": "billa",
+    "id": "00-439465",
+    "name": "Knorr Meisterkessel Kräftige Rindsuppe",
+    "category": "Suppen",
+    "subcategories": ["Rindsuppe"]
+  },
+  {
+    "store": "billa",
+    "id": "00-3496",
+    "name": "Knorr Meisterkessel Leberknödelsuppe",
+    "category": "Suppen",
+    "subcategories": ["Leberknödelsuppe"]
+  },
+  {
+    "store": "billa",
+    "id": "00-826518",
+    "name": "Knorr Meisterkessel Reisfleisch",
+    "category": "Suppen",
+    "subcategories": ["Reisfleisch"]
+  },
+  {
+    "store": "billa",
+    "id": "00-826519",
+    "name": "Knorr Meisterkessel Rindsgulasch",
+    "category": "Suppen",
+    "subcategories": ["Rindsgulasch"]
+  },
+  {
+    "store": "billa",
+    "id": "00-3881",
+    "name": "Knorr Meisterkessel Serbische Bohnensuppe",
+    "category": "Suppen",
+    "subcategories": ["Bohnensuppe"]
+  },
+  {
+    "store": "billa",
+    "id": "00-16395",
+    "name": "Knorr Meisterkessel Südtiroler Bauernsuppe",
+    "category": "Suppen",
+    "subcategories": ["Bauernsuppe"]
+  },
+  {
+    "store": "billa",
+    "id": "00-335981",
+    "name": "Knorr Meisterkessel XL Gulaschsuppe",
+    "category": "Suppen",
+    "subcategories": ["Gulaschsuppe"]
+  },
+  {
+    "store": "billa",
+    "id": "00-284505",
+    "name": "Knorr Meisterkessel XL Leberknödelsuppe",
+    "category": "Suppen",
+    "subcategories": ["Leberknödelsuppe"]
+  },
+  {
+    "store": "billa",
+    "id": "00-527347",
+    "name": "Knorr Meisterkessel Xl Serbische Bohnensuppe",
+    "category": "Suppen",
+    "subcategories": ["Bohnensuppe"]
+  },
+  {
+    "store": "billa",
+    "id": "00-511396",
+    "name": "Knorr Noodles Käse und Kräuter",
+    "category": "Snacks",
+    "subcategories": ["Nudeln", "Käse-Kräuter"]
+  },
+  {
+    "store": "billa",
+    "id": "00-511395",
+    "name": "Knorr Noodles Tomate und Paprika",
+    "category": "Snacks",
+    "subcategories": ["Nudeln", "Tomate-Paprika"]
+  },
+  {
+    "store": "billa",
+    "id": "00-430901",
+    "name": "Knorr Pasta Snack Arrabiata",
+    "category": "Snacks",
+    "subcategories": ["Pasta Snack", "Arrabiata"]
+  },
+  {
+    "store": "billa",
+    "id": "00-538948",
+    "name": "Knorr Pasta Snack Bolognese",
+    "category": "Snacks",
+    "subcategories": ["Pasta Snack", "Bolognese"]
+  },
+  {
+    "store": "billa",
+    "id": "00-468639",
+    "name": "Knorr Pasta Snack Brokkoli Käse Sauce",
+    "category": "Snacks",
+    "subcategories": ["Pasta Snack", "Brokkoli-Käse"]
+  },
+  {
+    "store": "billa",
+    "id": "00-923559",
+    "name": "Knorr Pasta Snack Gulasch Sauce",
+    "category": "Snacks",
+    "subcategories": ["Pasta Snack", "Gulasch"]
+  },
+  {
+    "store": "billa",
+    "id": "00-471928",
+    "name": "Knorr Pasta Snack Käse Kräuter Sauce",
+    "category": "Snacks",
+    "subcategories": ["Pasta Snack", "Käse-Kräuter"]
+  },
+  {
+    "store": "billa",
+    "id": "00-539014",
+    "name": "Knorr Pasta Snack Käse Sahne Sauce",
+    "category": "Snacks",
+    "subcategories": ["Pasta Snack", "Käse-Sahne"]
+  },
+  {
+    "store": "billa",
+    "id": "00-713191",
+    "name": "Knorr Pasta Snack Mac & Cheese Jalapeno",
+    "category": "Snacks",
+    "subcategories": ["Pasta Snack", "Mac & Cheese", "Jalapeno"]
+  },
+  {
+    "store": "billa",
+    "id": "00-469617",
+    "name": "Knorr Pasta Snack Pilz Rahm Sauce",
+    "category": "Snacks",
+    "subcategories": ["Pasta Snack", "Pilz-Rahm"]
+  },
+  {
+    "store": "billa",
+    "id": "00-287748",
+    "name": "Knorr Pasta Snack Tomate- Mozarella",
+    "category": "Snacks",
+    "subcategories": ["Pasta Snack", "Tomate-Mozarella"]
+  },
+  {
+    "store": "billa",
+    "id": "00-56210",
+    "name": "Knorr Rindessa",
+    "category": "Suppen",
+    "subcategories": ["Rindfleisch"]
+  },
+  {
+    "store": "billa",
+    "id": "00-1411",
+    "name": "Knorr Rindessa Nachfüllbeutel",
+    "category": "Suppen",
+    "subcategories": ["Rindfleisch"]
+  },
+  {
+    "store": "billa",
+    "id": "00-418402",
+    "name": "Knorr Spaghetteria Bolognese",
+    "category": "Nudeln",
+    "subcategories": ["Bolognese"]
+  },
+  {
+    "store": "billa",
+    "id": "00-418395",
+    "name": "Knorr Spaghetteria Carbonara",
+    "category": "Nudeln",
+    "subcategories": ["Carbonara"]
+  },
+  {
+    "store": "billa",
+    "id": "00-418399",
+    "name": "Knorr Spaghetteria Funghi",
+    "category": "Nudeln",
+    "subcategories": ["Funghi"]
+  },
+  {
+    "store": "billa",
+    "id": "00-245464",
+    "name": "Knorr Spaghetteria Maccaroni mit Käse",
+    "category": "Nudeln",
+    "subcategories": ["Maccaroni", "Käse"]
+  },
+  {
+    "store": "billa",
+    "id": "00-418400",
+    "name": "Knorr Spaghetteria Panna",
+    "category": "Nudeln",
+    "subcategories": ["Panna"]
+  },
+  {
+    "store": "billa",
+    "id": "00-439460",
+    "name": "Knorr Spaghetteria Panna e Prosciutto",
+    "category": "Nudeln",
+    "subcategories": ["Panna e Prosciutto"]
+  },
+  {
+    "store": "billa",
+    "id": "00-418398",
+    "name": "Knorr Spaghetteria Parmesana",
+    "category": "Nudeln",
+    "subcategories": ["Parmesana"]
+  },
+  {
+    "store": "billa",
+    "id": "00-418397",
+    "name": "Knorr Spaghetteria Pomodoro Mozzarella",
+    "category": "Nudeln",
+    "subcategories": ["Pomodoro Mozzarella"]
+  },
+  {
+    "store": "billa",
+    "id": "00-823996",
+    "name": "Knorr Spaghetteria Spinaci",
+    "category": "Nudeln",
+    "subcategories": ["Spinaci"]
+  },
+  {
+    "store": "billa",
+    "id": "00-409269",
+    "name": "Knorr Sweety Grießschmarrn",
+    "category": "Süßspeisen",
+    "subcategories": ["Grießschmarrn"]
+  },
+  {
+    "store": "billa",
+    "id": "00-409271",
+    "name": "Knorr Sweety Kaiserschmarrn",
+    "category": "Süßspeisen",
+    "subcategories": ["Kaiserschmarrn"]
+  },
+  {
+    "store": "billa",
+    "id": "00-832794",
+    "name": "Knorr Sweety Kaiserschmarrn ohne Rosinen",
+    "category": "Süßspeisen",
+    "subcategories": ["Kaiserschmarrn"]
+  },
+  {
+    "store": "billa",
+    "id": "00-410779",
+    "name": "Knorr Sweety Milchreis",
+    "category": "Süßspeisen",
+    "subcategories": ["Milchreis"]
+  },
+  {
+    "store": "billa",
+    "id": "00-412868",
+    "name": "Knorr Sweety Topfenknödel",
+    "category": "Süßspeisen",
+    "subcategories": ["Topfenknödel"]
+  },
+  {
+    "store": "billa",
+    "id": "00-511397",
+    "name": "Knorr Sweety Topfenschmarrn",
+    "category": "Süßspeisen",
+    "subcategories": ["Topfenschmarrn"]
+  },
+  {
+    "store": "billa",
+    "id": "00-965596",
+    "name": "Knorr Tomatencremesuppe im Glas",
+    "category": "Suppen",
+    "subcategories": ["Tomatencremesuppe"]
+  },
+  {
+    "store": "billa",
+    "id": "00-243648",
+    "name": "Knorr Veggie Muschelnudeln mit Frühlingsgemüse",
+    "category": "Nudeln",
+    "subcategories": ["Muschelnudeln", "Frühlingsgemüse"]
+  },
+  {
+    "store": "billa",
+    "id": "00-244330",
+    "name": "Knorr Veggie Penne in Paprika Rahm Sauce",
+    "category": "Nudeln",
+    "subcategories": ["Penne", "Paprika Rahm"]
+  },
+  {
+    "store": "billa",
+    "id": "00-965501",
+    "name": "Knorr Veggie Penne mit Broccoli",
+    "category": "Nudeln",
+    "subcategories": ["Penne", "Broccoli"]
+  },
+  {
+    "store": "billa",
+    "id": "00-469106",
+    "name": "Knorr Vollkorn Pasta Snack Spinat & Käse",
+    "category": "Snacks",
+    "subcategories": ["Pasta Snack", "Vollkorn", "Spinat-Käse"]
+  },
+  {
+    "store": "billa",
+    "id": "00-54227",
+    "name": "Land-Leben Backerbsen",
+    "category": "Snacks",
+    "subcategories": ["Backerbsen"]
+  },
+  {
+    "store": "billa",
+    "id": "00-411798",
+    "name": "Land-Leben Croutons Zwiebel-Knoblauch",
+    "category": "Snacks",
+    "subcategories": ["Croutons", "Zwiebel-Knoblauch"]
+  },
+  {
+    "store": "billa",
+    "id": "00-872153",
+    "name": "Le Veneziane Mais Suppennudeln",
+    "category": "Nudeln",
+    "subcategories": ["Suppennudeln", "Maisnudeln"]
+  },
+  {
+    "store": "billa",
+    "id": "00-341025",
+    "name": "Little Lunch Chili Sin Carne",
+    "category": "Suppen",
+    "subcategories": ["Chili Sin Carne"]
+  },
+  {
+    "store": "billa",
+    "id": "00-249595",
+    "name": "Little Lunch Geflügel Knochen Fond",
+    "category": "Suppen",
+    "subcategories": ["Fond"]
+  },
+  {
+    "store": "billa",
+    "id": "00-249602",
+    "name": "Little Lunch Gemüsebrühe Klassik",
+    "category": "Suppen",
+    "subcategories": ["Gemüsebrühe"]
+  },
+  {
+    "store": "billa",
+    "id": "00-249600",
+    "name": "Little Lunch Gemüsefond",
+    "category": "Suppen",
+    "subcategories": ["Gemüsefond"]
+  },
+  {
+    "store": "billa",
+    "id": "00-452802",
+    "name": "Little Lunch Karotten Orange Suppe",
+    "category": "Suppen",
+    "subcategories": ["Karotten-Orangen-Suppe"]
+  },
+  {
+    "store": "billa",
+    "id": "00-545376",
+    "name": "Little Lunch Kartoffelsuppe mit Lauch",
+    "category": "Suppen",
+    "subcategories": ["Kartoffelsuppe", "Lauchsuppe"]
+  },
+  {
+    "store": "billa",
+    "id": "00-249681",
+    "name": "Little Lunch Linseneintopf",
+    "category": "Suppen",
+    "subcategories": ["Linseneintopf"]
+  },
+  {
+    "store": "billa",
+    "id": "00-545362",
+    "name": "Little Lunch Little Italy Suppe",
+    "category": "Suppen",
+    "subcategories": ["Italienische Suppe"]
+  },
+  {
+    "store": "billa",
+    "id": "00-341030",
+    "name": "Little Lunch Little Marokko Suppe",
+    "category": "Suppen",
+    "subcategories": ["Marokkanische Suppe"]
+  },
+  {
+    "store": "billa",
+    "id": "00-249592",
+    "name": "Little Lunch Rind Knochen Fond",
+    "category": "Suppen",
+    "subcategories": ["Fond"]
+  },
+  {
+    "store": "billa",
+    "id": "00-249468",
+    "name": "Little Lunch Rote Linsensuppe",
+    "category": "Suppen",
+    "subcategories": ["Linsensuppe"]
+  },
+  {
+    "store": "billa",
+    "id": "00-452816",
+    "name": "Little Lunch Tomatensuppe mit Chili",
+    "category": "Suppen",
+    "subcategories": ["Tomatensuppe", "Chilisuppe"]
+  },
+  {
+    "store": "billa",
+    "id": "00-517588",
+    "name": "MAGGI Bio Gemüse Cremesuppe",
+    "category": "Suppen",
+    "subcategories": ["Bio", "Gemüsecremesuppe"]
+  },
+  {
+    "store": "billa",
+    "id": "00-517586",
+    "name": "MAGGI Bio Hühnersuppe",
+    "category": "Suppen",
+    "subcategories": ["Bio", "Hühnersuppe"]
+  },
+  {
+    "store": "billa",
+    "id": "00-517585",
+    "name": "MAGGI Bio Kartoffel Cremesuppe",
+    "category": "Suppen",
+    "subcategories": ["Bio", "Kartoffelcremesuppe"]
+  },
+  {
+    "store": "billa",
+    "id": "00-517587",
+    "name": "MAGGI Bio Tomaten Cremesuppe",
+    "category": "Suppen",
+    "subcategories": ["Bio", "Tomatencremesuppe"]
+  },
+  {
+    "store": "billa",
+    "id": "00-311169",
+    "name": "MAGGI Gemüsesuppe",
+    "category": "Suppen",
+    "subcategories": ["Gemüsesuppe"]
+  },
+  {
+    "store": "billa",
+    "id": "00-412692",
+    "name": "MAGGI Guten Appetit Buchstaben Suppe",
+    "category": "Suppen",
+    "subcategories": ["Buchstabensuppe"]
+  },
+  {
+    "store": "billa",
+    "id": "00-9526",
+    "name": "MAGGI Guten Appetit Eiermuschel Suppe",
+    "category": "Suppen",
+    "subcategories": ["Eiermuschelsuppe"]
+  },
+  {
+    "store": "billa",
+    "id": "00-758559",
+    "name": "MAGGI Guten Appetit Feuerwehr Suppe",
+    "category": "Suppen",
+    "subcategories": ["Feuerwehrsuppe"]
+  },
+  {
+    "store": "billa",
+    "id": "00-9525",
+    "name": "MAGGI Guten Appetit Grießnockerl Suppe",
+    "category": "Suppen",
+    "subcategories": ["Grießnockerlsuppe"]
+  },
+  {
+    "store": "billa",
+    "id": "00-651619",
+    "name": "MAGGI Guten Appetit Hochzeits Suppe",
+    "category": "Suppen",
+    "subcategories": ["Hochzeitssuppe"]
+  },
+  {
+    "store": "billa",
+    "id": "00-185470",
+    "name": "MAGGI Guten Appetit Hühner Suppe",
+    "category": "Suppen",
+    "subcategories": ["Hühnersuppe"]
+  },
+  {
+    "store": "billa",
+    "id": "00-56118",
+    "name": "MAGGI Guten Appetit Nudel Suppe",
+    "category": "Suppen",
+    "subcategories": ["Nudelsuppe"]
+  },
+  {
+    "store": "billa",
+    "id": "00-504228",
+    "name": "MAGGI Guten Appetit Sonntags Suppe",
+    "category": "Suppen",
+    "subcategories": ["Sonntagssuppe"]
+  },
+  {
+    "store": "billa",
+    "id": "00-343160",
+    "name": "MAGGI Hühnersuppe",
+    "category": "Suppen",
+    "subcategories": ["Hühnersuppe"]
+  },
+  {
+    "store": "billa",
+    "id": "00-601151",
+    "name": "MAGGI Magic Asia Gebratene Nudeln Ente",
+    "category": "Nudeln",
+    "subcategories": ["Magic Asia", "Gebratene Nudeln", "Ente"]
+  },
+  {
+    "store": "billa",
+    "id": "00-586456",
+    "name": "MAGGI Magic Asia Gebratene Nudeln Gemüse",
+    "category": "Nudeln",
+    "subcategories": ["Magic Asia", "Gebratene Nudeln", "Gemüse"]
+  }
+]

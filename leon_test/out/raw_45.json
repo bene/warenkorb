@@ -1,0 +1,702 @@
+[
+  {
+    "store": "billa",
+    "id": "00-296815",
+    "name": "Clever Extrawurst Geschnitten",
+    "category": "Wurstwaren",
+    "subcategories": ["Aufschnitt"]
+  },
+  {
+    "store": "billa",
+    "id": "00-473705",
+    "name": "Clever Feine Wiener",
+    "category": "Wurstwaren",
+    "subcategories": ["Aufschnitt"]
+  },
+  {
+    "store": "billa",
+    "id": "00-968433",
+    "name": "Clever Frankfurter",
+    "category": "Wurstwaren",
+    "subcategories": ["Aufschnitt"]
+  },
+  {
+    "store": "billa",
+    "id": "00-817776",
+    "name": "Clever Haussalami",
+    "category": "Wurstwaren",
+    "subcategories": ["Aufschnitt"]
+  },
+  {
+    "store": "billa",
+    "id": "00-507366",
+    "name": "Clever Hühner Pikante",
+    "category": "Wurstwaren",
+    "subcategories": ["Aufschnitt"]
+  },
+  {
+    "store": "billa",
+    "id": "00-667019",
+    "name": "Clever Knacker",
+    "category": "Wurstwaren",
+    "subcategories": ["Aufschnitt"]
+  },
+  {
+    "store": "billa",
+    "id": "00-475392",
+    "name": "Clever Knacker",
+    "category": "Wurstwaren",
+    "subcategories": ["Aufschnitt"]
+  },
+  {
+    "store": "billa",
+    "id": "00-473675",
+    "name": "Clever Käsekrainer",
+    "category": "Wurstwaren",
+    "subcategories": ["Aufschnitt"]
+  },
+  {
+    "store": "billa",
+    "id": "00-704780",
+    "name": "Clever Landjäger",
+    "category": "Wurstwaren",
+    "subcategories": ["Aufschnitt", "Trockenwurst"]
+  },
+  {
+    "store": "billa",
+    "id": "00-475370",
+    "name": "Clever Leberstreichwurst",
+    "category": "Wurstwaren",
+    "subcategories": ["Aufschnitt"]
+  },
+  {
+    "store": "billa",
+    "id": "00-475375",
+    "name": "Clever Prosciutto Crudo",
+    "category": "Schinken",
+    "subcategories": ["Aufschnitt", "Rohschinken"]
+  },
+  {
+    "store": "billa",
+    "id": "00-681304",
+    "name": "Clever Putenschinken",
+    "category": "Schinken",
+    "subcategories": ["Aufschnitt"]
+  },
+  {
+    "store": "billa",
+    "id": "00-705946",
+    "name": "Clever Salami Sticks",
+    "category": "Salami",
+    "subcategories": ["Aufschnitt"]
+  },
+  {
+    "store": "billa",
+    "id": "00-200090",
+    "name": "Clever Selchroller",
+    "category": "Spezialitäten",
+    "subcategories": ["Aufschnitt", "Geräuchertes"]
+  },
+  {
+    "store": "billa",
+    "id": "00-425215",
+    "name": "Clever Toastschinken",
+    "category": "Schinken",
+    "subcategories": ["Aufschnitt"]
+  },
+  {
+    "store": "billa",
+    "id": "00-882279",
+    "name": "Clever Ungarische Salami",
+    "category": "Salami",
+    "subcategories": ["Aufschnitt"]
+  },
+  {
+    "store": "billa",
+    "id": "00-656921",
+    "name": "Clever Wurstaufschnitt",
+    "category": "Wurstwaren",
+    "subcategories": ["Aufschnitt"]
+  },
+  {
+    "store": "billa",
+    "id": "00-581954",
+    "name": "Clever XXL Toastschinken",
+    "category": "Schinken",
+    "subcategories": ["Aufschnitt"]
+  },
+  {
+    "store": "billa",
+    "id": "00-782176",
+    "name": "Di Grillo Tapas Fuet Chorizo Käse",
+    "category": "Salami",
+    "subcategories": ["Aufschnitt"]
+  },
+  {
+    "store": "billa",
+    "id": "00-782166",
+    "name": "Di Grillo Tapas Salami Pepe Olive",
+    "category": "Salami",
+    "subcategories": ["Aufschnitt"]
+  },
+  {
+    "store": "billa",
+    "id": "00-782218",
+    "name": "Di Grillo Tapas Schinken Olive Käse",
+    "category": "Schinken",
+    "subcategories": ["Aufschnitt"]
+  },
+  {
+    "store": "billa",
+    "id": "00-717922",
+    "name": "Die OHNE Vegane Chili Extra",
+    "category": "Vegan",
+    "subcategories": ["Aufschnitt"]
+  },
+  {
+    "store": "billa",
+    "id": "00-717919",
+    "name": "Die OHNE Vegane Extra Kranzl",
+    "category": "Vegan",
+    "subcategories": ["Aufschnitt"]
+  },
+  {
+    "store": "billa",
+    "id": "00-717917",
+    "name": "Die OHNE Vegane Frankfurter",
+    "category": "Vegan",
+    "subcategories": ["Wurstwaren"]
+  },
+  {
+    "store": "billa",
+    "id": "00-717925",
+    "name": "Die OHNE Vegane Gurkerl Extra",
+    "category": "Vegan",
+    "subcategories": ["Aufschnitt"]
+  },
+  {
+    "store": "billa",
+    "id": "00-314210",
+    "name": "Farmerschinken",
+    "category": "Schinken",
+    "subcategories": ["Aufschnitt"]
+  },
+  {
+    "store": "billa",
+    "id": "00-439995",
+    "name": "Frierss Bauernschinken Kärnten",
+    "category": "Schinken",
+    "subcategories": ["Aufschnitt"]
+  },
+  {
+    "store": "billa",
+    "id": "00-439979",
+    "name": "Frierss Bergsalami",
+    "category": "Salami",
+    "subcategories": ["Aufschnitt"]
+  },
+  {
+    "store": "billa",
+    "id": "00-656685",
+    "name": "Frierss Hauswürstel Kärnten Grob",
+    "category": "Wurstwaren",
+    "subcategories": ["Aufschnitt"]
+  },
+  {
+    "store": "billa",
+    "id": "00-843487",
+    "name": "Frierss Hühnerschinken Chili",
+    "category": "Schinken",
+    "subcategories": ["Aufschnitt", "Geflügelschinken"]
+  },
+  {
+    "store": "billa",
+    "id": "00-843801",
+    "name": "Frierss Kärntner Hauswürstel Fein",
+    "category": "Wurstwaren",
+    "subcategories": ["Aufschnitt"]
+  },
+  {
+    "store": "billa",
+    "id": "00-733157",
+    "name": "Frierss Kärntner Sasaka",
+    "category": "Wurstwaren",
+    "subcategories": ["Aufschnitt"]
+  },
+  {
+    "store": "billa",
+    "id": "00-517024",
+    "name": "Frierss Mortadella",
+    "category": "Wurstwaren",
+    "subcategories": ["Aufschnitt"]
+  },
+  {
+    "store": "billa",
+    "id": "00-278927",
+    "name": "Frierss Prosciutto Castello",
+    "category": "Schinken",
+    "subcategories": ["Aufschnitt", "Rohschinken"]
+  },
+  {
+    "store": "billa",
+    "id": "00-447756",
+    "name": "Frierss Zirbenrauchschinken",
+    "category": "Schinken",
+    "subcategories": ["Aufschnitt"]
+  },
+  {
+    "store": "billa",
+    "id": "00-651416",
+    "name": "Gebratene Käsewurst",
+    "category": "Sonstige",
+    "subcategories": ["Aufschnitt"]
+  },
+  {
+    "store": "billa",
+    "id": "00-342833",
+    "name": "Handl Tyrol Almjause",
+    "category": "Spezialitäten",
+    "subcategories": ["Aufschnitt"]
+  },
+  {
+    "store": "billa",
+    "id": "00-98202",
+    "name": "Handl Tyrol Bauchspeck - Tiroler Speck g.g.A.",
+    "category": "Speck",
+    "subcategories": ["Aufschnitt"]
+  },
+  {
+    "store": "billa",
+    "id": "00-436925",
+    "name": "Handl Tyrol Feine Speckwürfel",
+    "category": "Speck",
+    "subcategories": ["Aufschnitt"]
+  },
+  {
+    "store": "billa",
+    "id": "00-612051",
+    "name": "Handl Tyrol Feinster Bacon",
+    "category": "Speck",
+    "subcategories": ["Aufschnitt"]
+  },
+  {
+    "store": "billa",
+    "id": "00-98203",
+    "name": "Handl Tyrol Karreespeck - Tiroler Speck g.g.A.",
+    "category": "Speck",
+    "subcategories": ["Aufschnitt"]
+  },
+  {
+    "store": "billa",
+    "id": "00-342909",
+    "name": "Handl Tyrol Klettermaxi",
+    "category": "Spezialitäten",
+    "subcategories": ["Aufschnitt"]
+  },
+  {
+    "store": "billa",
+    "id": "00-98219",
+    "name": "Handl Tyrol Landjäger",
+    "category": "Wurstwaren",
+    "subcategories": ["Aufschnitt", "Trockenwurst"]
+  },
+  {
+    "store": "billa",
+    "id": "00-570495",
+    "name": "Handl Tyrol Milde Tyrolini 4x40g",
+    "category": "Wurstwaren",
+    "subcategories": ["Aufschnitt"]
+  },
+  {
+    "store": "billa",
+    "id": "00-323884",
+    "name": "Handl Tyrol Schinkenspeck - Tiroler Speck g.g.A.",
+    "category": "Speck",
+    "subcategories": ["Aufschnitt"]
+  },
+  {
+    "store": "billa",
+    "id": "00-98204",
+    "name": "Handl Tyrol Schinkenspeck - Tiroler Speck g.g.A.",
+    "category": "Speck",
+    "subcategories": ["Aufschnitt"]
+  },
+  {
+    "store": "billa",
+    "id": "00-34407",
+    "name": "Handl Tyrol Schinkenspeck - Tiroler Speck g.g.A.",
+    "category": "Speck",
+    "subcategories": ["Aufschnitt"]
+  },
+  {
+    "store": "billa",
+    "id": "00-849377",
+    "name": "Handl Tyrol Tiroler Brettljause",
+    "category": "Spezialitäten",
+    "subcategories": ["Aufschnitt"]
+  },
+  {
+    "store": "billa",
+    "id": "00-202785",
+    "name": "Handl Tyrol Tiroler Chiliwurzerl",
+    "category": "Spezialitäten",
+    "subcategories": ["Aufschnitt"]
+  },
+  {
+    "store": "billa",
+    "id": "00-200094",
+    "name": "Handl Tyrol Tiroler Kaminwurzerl",
+    "category": "Spezialitäten",
+    "subcategories": ["Aufschnitt"]
+  },
+  {
+    "store": "billa",
+    "id": "00-459967",
+    "name": "Handl Tyrol Tiroler Karree Leicht",
+    "category": "Schinken",
+    "subcategories": ["Aufschnitt"]
+  },
+  {
+    "store": "billa",
+    "id": "00-369600",
+    "name": "Haussalami",
+    "category": "Salami",
+    "subcategories": ["Aufschnitt"]
+  },
+  {
+    "store": "billa",
+    "id": "00-244478",
+    "name": "Hermann Wein Schwarzwälder Schinken",
+    "category": "Schinken",
+    "subcategories": ["Aufschnitt", "Rohschinken"]
+  },
+  {
+    "store": "billa",
+    "id": "00-714108",
+    "name": "Heura Chorizo",
+    "category": "Salami",
+    "subcategories": ["Aufschnitt"]
+  },
+  {
+    "store": "billa",
+    "id": "00-504926",
+    "name": "Hofmann Landgeselchtes",
+    "category": "Spezialitäten",
+    "subcategories": ["Aufschnitt"]
+  },
+  {
+    "store": "billa",
+    "id": "00-881578",
+    "name": "Hofstädter Arlberger",
+    "category": "Aufschnitt",
+    "subcategories": ["Käse"]
+  },
+  {
+    "store": "billa",
+    "id": "00-621336",
+    "name": "Hofstädter Bauchspeck",
+    "category": "Speck",
+    "subcategories": ["Aufschnitt"]
+  },
+  {
+    "store": "billa",
+    "id": "00-859854",
+    "name": "Hofstädter Bauernpresswurst",
+    "category": "Wurstwaren",
+    "subcategories": ["Aufschnitt"]
+  },
+  {
+    "store": "billa",
+    "id": "00-568137",
+    "name": "Hofstädter Bauernpresswurst Scheiben",
+    "category": "Wurstwaren",
+    "subcategories": ["Aufschnitt"]
+  },
+  {
+    "store": "billa",
+    "id": "00-240478",
+    "name": "Hofstädter Bratenspeck",
+    "category": "Speck",
+    "subcategories": ["Aufschnitt"]
+  },
+  {
+    "store": "billa",
+    "id": "00-240479",
+    "name": "Hofstädter Bratenspeck Knoblauch",
+    "category": "Speck",
+    "subcategories": ["Aufschnitt"]
+  },
+  {
+    "store": "billa",
+    "id": "00-736766",
+    "name": "Hofstädter Braunschweiger",
+    "category": "Wurstwaren",
+    "subcategories": ["Aufschnitt"]
+  },
+  {
+    "store": "billa",
+    "id": "00-289554",
+    "name": "Hofstädter Chili Paprika Salami",
+    "category": "Salami",
+    "subcategories": ["Aufschnitt"]
+  },
+  {
+    "store": "billa",
+    "id": "00-392327",
+    "name": "Hofstädter Fair zum Tier Bratlstück",
+    "category": "Aufschnitt",
+    "subcategories": ["Gourmet", "Biosiegel", "Nachhaltig"]
+  },
+  {
+    "store": "billa",
+    "id": "00-386090",
+    "name": "Hofstädter Fair zum Tier Haussalami",
+    "category": "Salami",
+    "subcategories": ["Aufschnitt", "Gourmet", "Biosiegel", "Nachhaltig"]
+  },
+  {
+    "store": "billa",
+    "id": "00-574045",
+    "name": "Hofstädter Fair zum Tier Käse-Leberkäse",
+    "category": "Aufschnitt",
+    "subcategories": ["Fleischkäse", "Gourmet", "Biosiegel", "Nachhaltig"]
+  },
+  {
+    "store": "billa",
+    "id": "00-705747",
+    "name": "Hofstädter Fair zum Tier Landschinken",
+    "category": "Schinken",
+    "subcategories": ["Aufschnitt", "Gourmet", "Biosiegel", "Nachhaltig"]
+  },
+  {
+    "store": "billa",
+    "id": "00-596711",
+    "name": "Hofstädter Feine Jausenplatte",
+    "category": "Aufschnitt",
+    "subcategories": ["Platte", "Gourmet"]
+  },
+  {
+    "store": "billa",
+    "id": "00-474057",
+    "name": "Hofstädter Feiner Extra Kranz",
+    "category": "Aufschnitt",
+    "subcategories": ["Gourmet", "Nachhaltig"]
+  },
+  {
+    "store": "billa",
+    "id": "00-372436",
+    "name": "Hofstädter Frühstücksspeck Geschnitten",
+    "category": "Speck",
+    "subcategories": ["Aufschnitt", "Frühstück"]
+  },
+  {
+    "store": "billa",
+    "id": "00-296811",
+    "name": "Hofstädter Griller Käse & Puszta Die Grillerei",
+    "category": "Aufschnitt",
+    "subcategories": ["Grillen"]
+  },
+  {
+    "store": "billa",
+    "id": "00-716127",
+    "name": "Hofstädter Hauswürstel Classic",
+    "category": "Wurstwaren",
+    "subcategories": ["Aufschnitt"]
+  },
+  {
+    "store": "billa",
+    "id": "00-240334",
+    "name": "Hofstädter Heurigenschinken",
+    "category": "Schinken",
+    "subcategories": ["Aufschnitt"]
+  },
+  {
+    "store": "billa",
+    "id": "00-898934",
+    "name": "Hofstädter Jausenspeck",
+    "category": "Speck",
+    "subcategories": ["Aufschnitt"]
+  },
+  {
+    "store": "billa",
+    "id": "00-743719",
+    "name": "Hofstädter Kalbsleberstreichwurst",
+    "category": "Aufschnitt",
+    "subcategories": ["Leberstreichwurst"]
+  },
+  {
+    "store": "billa",
+    "id": "00-240406",
+    "name": "Hofstädter Kalbspariser",
+    "category": "Aufschnitt",
+    "subcategories": ["Schinken"]
+  },
+  {
+    "store": "billa",
+    "id": "00-397025",
+    "name": "Hofstädter Kantwurst",
+    "category": "Aufschnitt",
+    "subcategories": ["Gekochtes"]
+  },
+  {
+    "store": "billa",
+    "id": "00-621345",
+    "name": "Hofstädter Karreespeck",
+    "category": "Speck",
+    "subcategories": ["Aufschnitt"]
+  },
+  {
+    "store": "billa",
+    "id": "00-958276",
+    "name": "Hofstädter Knoblauchsalami",
+    "category": "Salami",
+    "subcategories": ["Aufschnitt"]
+  },
+  {
+    "store": "billa",
+    "id": "00-297415",
+    "name": "Hofstädter Käsegriller Die Grillerei",
+    "category": "Aufschnitt",
+    "subcategories": ["Grillen"]
+  },
+  {
+    "store": "billa",
+    "id": "00-579868",
+    "name": "Hofstädter Käsegriller Fackeln Die Grillerei",
+    "category": "Aufschnitt",
+    "subcategories": ["Grillen"]
+  },
+  {
+    "store": "billa",
+    "id": "00-654575",
+    "name": "Hofstädter Käsewurst",
+    "category": "Wurstwaren",
+    "subcategories": ["Aufschnitt"]
+  },
+  {
+    "store": "billa",
+    "id": "00-568200",
+    "name": "Hofstädter Leberkäse",
+    "category": "Aufschnitt",
+    "subcategories": ["Fleischkäse"]
+  },
+  {
+    "store": "billa",
+    "id": "00-727613",
+    "name": "Hofstädter Leberstreichwurst",
+    "category": "Aufschnitt",
+    "subcategories": ["Leberstreichwurst"]
+  },
+  {
+    "store": "billa",
+    "id": "00-773276",
+    "name": "Hofstädter Leberstreichwurst",
+    "category": "Aufschnitt",
+    "subcategories": ["Leberstreichwurst"]
+  },
+  {
+    "store": "billa",
+    "id": "00-240336",
+    "name": "Hofstädter Leichtschinken",
+    "category": "Schinken",
+    "subcategories": ["Aufschnitt"]
+  },
+  {
+    "store": "billa",
+    "id": "00-474056",
+    "name": "Hofstädter Pariser Kranzl",
+    "category": "Aufschnitt",
+    "subcategories": ["Gourmet", "Nachhaltig"]
+  },
+  {
+    "store": "billa",
+    "id": "00-240305",
+    "name": "Hofstädter Pfefferblock Geschnitten",
+    "category": "Speck",
+    "subcategories": ["Aufschnitt", "Schwarzgeräuchertes"]
+  },
+  {
+    "store": "billa",
+    "id": "00-628965",
+    "name": "Hofstädter Puten Knacker",
+    "category": "Wurstwaren",
+    "subcategories": ["Aufschnitt", "Geflügel"]
+  },
+  {
+    "store": "billa",
+    "id": "00-878464",
+    "name": "Hofstädter Puten Schinken",
+    "category": "Schinken",
+    "subcategories": ["Aufschnitt", "Geflügel"]
+  },
+  {
+    "store": "billa",
+    "id": "00-628959",
+    "name": "Hofstädter Puten-Frankfurter",
+    "category": "Wurstwaren",
+    "subcategories": ["Aufschnitt", "Geflügel"]
+  },
+  {
+    "store": "billa",
+    "id": "00-893994",
+    "name": "Hofstädter Putenextra",
+    "category": "Wurstwaren",
+    "subcategories": ["Aufschnitt", "Geflügel"]
+  },
+  {
+    "store": "billa",
+    "id": "00-888552",
+    "name": "Hofstädter Putenkäsewurst",
+    "category": "Wurstwaren",
+    "subcategories": ["Aufschnitt", "Geflügel"]
+  },
+  {
+    "store": "billa",
+    "id": "00-775758",
+    "name": "Hofstädter Rauchdürre",
+    "category": "Wurstwaren",
+    "subcategories": ["Aufschnitt", "Grillen"]
+  },
+  {
+    "store": "billa",
+    "id": "00-764925",
+    "name": "Hofstädter Rauchfleisch Essfertig",
+    "category": "Speck",
+    "subcategories": ["Aufschnitt", "Geräuchertes", "Grillen"]
+  },
+  {
+    "store": "billa",
+    "id": "00-388847",
+    "name": "Hofstädter Rauchschinken geschnitten",
+    "category": "Schinken",
+    "subcategories": ["Aufschnitt", "Geräuchertes", "Grillen"]
+  },
+  {
+    "store": "billa",
+    "id": "00-741168",
+    "name": "Hofstädter Sacherwürstel",
+    "category": "Wurstwaren",
+    "subcategories": ["Aufschnitt"]
+  },
+  {
+    "store": "billa",
+    "id": "00-474030",
+    "name": "Hofstädter Saunaschinken",
+    "category": "Schinken",
+    "subcategories": ["Aufschnitt"]
+  },
+  {
+    "store": "billa",
+    "id": "00-860044",
+    "name": "Hofstädter Saunaschinken",
+    "category": "Schinken",
+    "subcategories": ["Aufschnitt"]
+  },
+  {
+    "store": "billa",
+    "id": "00-564294",
+    "name": "Hofstädter Toastschinken",
+    "category": "Schinken",
+    "subcategories": ["Aufschnitt"]
+  }
+]

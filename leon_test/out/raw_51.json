@@ -1,0 +1,702 @@
+[
+  {
+    "store": "billa",
+    "id": "00-723107",
+    "name": "Wao Lemon & Yuzu Mochi Eis",
+    "category": "Eis",
+    "subcategories": ["Mochi", "Zitronen", "Juzu"]
+  },
+  {
+    "store": "billa",
+    "id": "00-723103",
+    "name": "Wao Mango Mochi Eis",
+    "category": "Eis",
+    "subcategories": ["Mochi", "Mango"]
+  },
+  {
+    "store": "billa",
+    "id": "00-723114",
+    "name": "Wao Tropical Mochi Eis",
+    "category": "Eis",
+    "subcategories": ["Mochi", "Tropisch"]
+  },
+  {
+    "store": "billa",
+    "id": "00-723112",
+    "name": "Wao Vanilla Mochi Eis",
+    "category": "Eis",
+    "subcategories": ["Mochi", "Vanille"]
+  },
+  {
+    "store": "billa",
+    "id": "00-412318",
+    "name": "Ackerl Wurstknödel",
+    "category": "Knödel",
+    "subcategories": ["Wurst"]
+  },
+  {
+    "store": "billa",
+    "id": "00-244476",
+    "name": "BILLA Back-Camembert mit Dip",
+    "category": "Käse",
+    "subcategories": ["Camembert"]
+  },
+  {
+    "store": "billa",
+    "id": "00-443846",
+    "name": "BILLA Bio Kartoffelpuffer",
+    "category": "Kartoffel",
+    "subcategories": ["Bio"]
+  },
+  {
+    "store": "billa",
+    "id": "00-705384",
+    "name": "BILLA Cevapcici",
+    "category": "Fleisch",
+    "subcategories": ["Hack"]
+  },
+  {
+    "store": "billa",
+    "id": "00-498344",
+    "name": "BILLA Chili Cheese Nuggets",
+    "category": "Nuggets",
+    "subcategories": ["Chili", "Käse"]
+  },
+  {
+    "store": "billa",
+    "id": "00-823509",
+    "name": "BILLA Emmentaler Herzen",
+    "category": "Käse",
+    "subcategories": ["Emmentaler"]
+  },
+  {
+    "store": "billa",
+    "id": "00-714175",
+    "name": "BILLA Faschierte Laibchen",
+    "category": "Fleisch",
+    "subcategories": ["Hack"]
+  },
+  {
+    "store": "billa",
+    "id": "00-962348",
+    "name": "BILLA Frittaten",
+    "category": "Teigwaren",
+    "subcategories": ["Suppeneinlage"]
+  },
+  {
+    "store": "billa",
+    "id": "00-470583",
+    "name": "BILLA Frühlingsrollen mit Gemüse",
+    "category": "Gemüse",
+    "subcategories": ["Frühling"]
+  },
+  {
+    "store": "billa",
+    "id": "00-470585",
+    "name": "BILLA Frühlingsrollen mit Huhn & Gemüse",
+    "category": "Geflügel",
+    "subcategories": ["Frühling"]
+  },
+  {
+    "store": "billa",
+    "id": "00-697013",
+    "name": "BILLA Gemüse Lasagne",
+    "category": "Lasagne",
+    "subcategories": ["Gemüse"]
+  },
+  {
+    "store": "billa",
+    "id": "00-468056",
+    "name": "BILLA Gemüsestrudel",
+    "category": "Gemüse",
+    "subcategories": ["Strudel"]
+  },
+  {
+    "store": "billa",
+    "id": "00-705376",
+    "name": "BILLA Grammelknödel",
+    "category": "Knödel",
+    "subcategories": ["Grammeln"]
+  },
+  {
+    "store": "billa",
+    "id": "00-268851",
+    "name": "BILLA Grießnockerl",
+    "category": "Knödel",
+    "subcategories": ["Grieß"]
+  },
+  {
+    "store": "billa",
+    "id": "00-720044",
+    "name": "BILLA Gyoza mit Gemüse",
+    "category": "Gemüse",
+    "subcategories": ["Gyoza"]
+  },
+  {
+    "store": "billa",
+    "id": "00-720062",
+    "name": "BILLA Gyoza mit Huhn & schwarzem Pilz",
+    "category": "Geflügel",
+    "subcategories": ["Gyoza"]
+  },
+  {
+    "store": "billa",
+    "id": "00-318508",
+    "name": "BILLA Hühner Cordon Bleu",
+    "category": "Geflügel",
+    "subcategories": ["Cordon Bleu"]
+  },
+  {
+    "store": "billa",
+    "id": "00-354805",
+    "name": "BILLA Hühnerfilet Kräuter",
+    "category": "Geflügel",
+    "subcategories": ["Hühnerfilet"]
+  },
+  {
+    "store": "billa",
+    "id": "00-341748",
+    "name": "BILLA Hühnergeschnetzeltes",
+    "category": "Geflügel",
+    "subcategories": ["Geschnetzeltes"]
+  },
+  {
+    "store": "billa",
+    "id": "00-318506",
+    "name": "BILLA Hühnerschnitzel",
+    "category": "Geflügel",
+    "subcategories": ["Schnitzel"]
+  },
+  {
+    "store": "billa",
+    "id": "00-683828",
+    "name": "BILLA Kärntner Kasnudeln",
+    "category": "Teigwaren",
+    "subcategories": ["Kasnudeln"]
+  },
+  {
+    "store": "billa",
+    "id": "00-242268",
+    "name": "BILLA Lasagne Bolognese",
+    "category": "Lasagne",
+    "subcategories": ["Bolognese"]
+  },
+  {
+    "store": "billa",
+    "id": "00-697017",
+    "name": "BILLA Lasagne Bolognese",
+    "category": "Lasagne",
+    "subcategories": ["Bolognese"]
+  },
+  {
+    "store": "billa",
+    "id": "00-283996",
+    "name": "BILLA Leberknödel",
+    "category": "Knödel",
+    "subcategories": ["Leber"]
+  },
+  {
+    "store": "billa",
+    "id": "00-918195",
+    "name": "BILLA Makkaroni Al Forno",
+    "category": "Teigwaren",
+    "subcategories": ["Ofen"]
+  },
+  {
+    "store": "billa",
+    "id": "00-470581",
+    "name": "BILLA Mini Frühlingsrollen mit Gemüse",
+    "category": "Gemüse",
+    "subcategories": ["Frühling"]
+  },
+  {
+    "store": "billa",
+    "id": "00-498351",
+    "name": "BILLA Mozzarella Sticks",
+    "category": "Käse",
+    "subcategories": ["Mozzarella"]
+  },
+  {
+    "store": "billa",
+    "id": "00-692113",
+    "name": "BILLA Schweins Cordon Bleu",
+    "category": "Fleisch",
+    "subcategories": ["Cordon Bleu"]
+  },
+  {
+    "store": "billa",
+    "id": "00-692118",
+    "name": "BILLA Schweinsschnitzel",
+    "category": "Fleisch",
+    "subcategories": ["Schnitzel"]
+  },
+  {
+    "store": "billa",
+    "id": "00-705364",
+    "name": "BILLA Selchfleischknödel",
+    "category": "Knödel",
+    "subcategories": ["Selchfleisch"]
+  },
+  {
+    "store": "billa",
+    "id": "00-697010",
+    "name": "BILLA Spinat Cannelloni",
+    "category": "Teigwaren",
+    "subcategories": ["Spinat"]
+  },
+  {
+    "store": "billa",
+    "id": "00-341776",
+    "name": "BILLA Tortelloni Spinat-Ricotta",
+    "category": "Teigwaren",
+    "subcategories": ["Tortelloni"]
+  },
+  {
+    "store": "billa",
+    "id": "00-498290",
+    "name": "BILLA Wildlachs Reis Pfanne",
+    "category": "Fisch",
+    "subcategories": ["Reis", "Pfanne"]
+  },
+  {
+    "store": "billa",
+    "id": "00-705370",
+    "name": "BILLA Wurstknödel",
+    "category": "Knödel",
+    "subcategories": ["Wurst"]
+  },
+  {
+    "store": "billa",
+    "id": "00-715264",
+    "name": "Barbaro Pinsa Salami",
+    "category": "Pizza",
+    "subcategories": ["Pinsa", "Salami"]
+  },
+  {
+    "store": "billa",
+    "id": "00-715271",
+    "name": "Barbaro Pinsa Schinken und Trüffelcreme",
+    "category": "Pizza",
+    "subcategories": ["Pinsa", "Schinken", "Trüffelcreme"]
+  },
+  {
+    "store": "billa",
+    "id": "00-622688",
+    "name": "Bauernland Gemüselaibchen",
+    "category": "Gemüse",
+    "subcategories": ["Laibchen"]
+  },
+  {
+    "store": "billa",
+    "id": "00-622713",
+    "name": "Bauernland Käse-Karfiol Laibchen",
+    "category": "Käse",
+    "subcategories": ["Laibchen", "Karfiol"]
+  },
+  {
+    "store": "billa",
+    "id": "00-404589",
+    "name": "Beyond Meat Beyond Burger tiefgekühlt",
+    "category": "Fleischersatz",
+    "subcategories": ["Burger"]
+  },
+  {
+    "store": "billa",
+    "id": "00-723755",
+    "name": "Beyond Meat Burger Chicken-Style",
+    "category": "Fleischersatz",
+    "subcategories": ["Burger", "Hühnchen"]
+  },
+  {
+    "store": "billa",
+    "id": "00-723753",
+    "name": "Beyond Meat Tenders Chicken-Style",
+    "category": "Fleischersatz",
+    "subcategories": ["Tenders", "Hühnchen"]
+  },
+  {
+    "store": "billa",
+    "id": "00-795516",
+    "name": "Brajlovic Banja Luka Cevapcici",
+    "category": "Fleisch",
+    "subcategories": ["Cevapcici"]
+  },
+  {
+    "store": "billa",
+    "id": "00-958365",
+    "name": "Clever Backhendlstreifen",
+    "category": "Fleisch",
+    "subcategories": ["Hendl"]
+  },
+  {
+    "store": "billa",
+    "id": "00-273722",
+    "name": "Clever Cevapcici",
+    "category": "Fleisch",
+    "subcategories": ["Cevapcici"]
+  },
+  {
+    "store": "billa",
+    "id": "00-667910",
+    "name": "Clever Chicken Wings",
+    "category": "Fleisch",
+    "subcategories": ["Hendl"]
+  },
+  {
+    "store": "billa",
+    "id": "00-686337",
+    "name": "Clever Grammelknödel",
+    "category": "Knödel",
+    "subcategories": ["Grammeln"]
+  },
+  {
+    "store": "billa",
+    "id": "00-243133",
+    "name": "Clever Grießnockerl",
+    "category": "Knödel",
+    "subcategories": ["Grieß"]
+  },
+  {
+    "store": "billa",
+    "id": "00-500842",
+    "name": "Clever Hühner Nuggets",
+    "category": "Fleisch",
+    "subcategories": ["Hühnchen", "Nuggets"]
+  },
+  {
+    "store": "billa",
+    "id": "00-243149",
+    "name": "Clever Leberknödel",
+    "category": "Knödel",
+    "subcategories": ["Leber"]
+  },
+  {
+    "store": "billa",
+    "id": "00-721826",
+    "name": "Clever Mini Schweinsschnitzel",
+    "category": "Fleisch",
+    "subcategories": ["Schnitzel"]
+  },
+  {
+    "store": "billa",
+    "id": "00-280878",
+    "name": "Clever Putenschnitzel paniert",
+    "category": "Geflügel",
+    "subcategories": ["Schnitzel"]
+  },
+  {
+    "store": "billa",
+    "id": "00-686343",
+    "name": "Clever Selchfleischknödel",
+    "category": "Knödel",
+    "subcategories": ["Selchfleisch"]
+  },
+  {
+    "store": "billa",
+    "id": "00-243156",
+    "name": "Clever Semmelknödel",
+    "category": "Knödel",
+    "subcategories": ["Semmel"]
+  },
+  {
+    "store": "billa",
+    "id": "00-687304",
+    "name": "Clever Wurstknödel",
+    "category": "Knödel",
+    "subcategories": ["Wurst"]
+  },
+  {
+    "store": "billa",
+    "id": "00-718537",
+    "name": "Damn Good Dumplings BBQ Beef",
+    "category": "Teigwaren",
+    "subcategories": ["Dumplings", "Rind"]
+  },
+  {
+    "store": "billa",
+    "id": "00-718536",
+    "name": "Damn Good Dumplings Pork Belly",
+    "category": "Teigwaren",
+    "subcategories": ["Dumplings", "Schweinebauch"]
+  },
+  {
+    "store": "billa",
+    "id": "00-718535",
+    "name": "Damn Good Dumplings Shrimp Sensation",
+    "category": "Teigwaren",
+    "subcategories": ["Dumplings", "Garnelen"]
+  },
+  {
+    "store": "billa",
+    "id": "00-718538",
+    "name": "Damn Good Dumplings Tofu Portobello",
+    "category": "Teigwaren",
+    "subcategories": ["Dumplings", "Tofu", "Portobello"]
+  },
+  {
+    "store": "billa",
+    "id": "00-589280",
+    "name": "Followfood Kichererbsen Curry",
+    "category": "Curry",
+    "subcategories": ["Kichererbsen"]
+  },
+  {
+    "store": "billa",
+    "id": "00-589281",
+    "name": "Followfood Thai Curry",
+    "category": "Curry",
+    "subcategories": []
+  },
+  {
+    "store": "billa",
+    "id": "00-585460",
+    "name": "Frosta Lasagne Bolognese",
+    "category": "Lasagne",
+    "subcategories": ["Bolognese"]
+  },
+  {
+    "store": "billa",
+    "id": "00-585439",
+    "name": "Frosta Lasagne Grillgemüse",
+    "category": "Lasagne",
+    "subcategories": ["Gemüse"]
+  },
+  {
+    "store": "billa",
+    "id": "00-585457",
+    "name": "Frosta Macaroni & Cheese",
+    "category": "Teigwaren",
+    "subcategories": ["Käse"]
+  },
+  {
+    "store": "billa",
+    "id": "00-704948",
+    "name": "Frosta Nice Rice Korean Style",
+    "category": "Reis",
+    "subcategories": ["Koreanisch"]
+  },
+  {
+    "store": "billa",
+    "id": "00-704949",
+    "name": "Frosta Nom Nom Noodles Wok Style",
+    "category": "Nudeln",
+    "subcategories": ["Wok"]
+  },
+  {
+    "store": "billa",
+    "id": "00-397837",
+    "name": "Frosta Paella mit Meeresfrüchten",
+    "category": "Reis",
+    "subcategories": ["Meeresfrüchte"]
+  },
+  {
+    "store": "billa",
+    "id": "00-745143",
+    "name": "Frosta Pappardelle Creme Spinaci",
+    "category": "Nudeln",
+    "subcategories": ["Pappardelle", "Spinat"]
+  },
+  {
+    "store": "billa",
+    "id": "00-637093",
+    "name": "Frosta Rustikale Hendlpfanne",
+    "category": "Geflügel",
+    "subcategories": ["Hendl", "Pfanne"]
+  },
+  {
+    "store": "billa",
+    "id": "00-637089",
+    "name": "Frosta Spätzle Pfanne",
+    "category": "Teigwaren",
+    "subcategories": ["Pfanne"]
+  },
+  {
+    "store": "billa",
+    "id": "00-397854",
+    "name": "Frosta Steakhouse Pfanne",
+    "category": "Pfanne",
+    "subcategories": ["Steak"]
+  },
+  {
+    "store": "billa",
+    "id": "00-397847",
+    "name": "Frosta Tagliatelle Wildlachs",
+    "category": "Nudeln",
+    "subcategories": ["Tagliatelle", "Wildlachs"]
+  },
+  {
+    "store": "billa",
+    "id": "00-912707",
+    "name": "Frosta Wokpfanne Bami Goreng",
+    "category": "Pfanne",
+    "subcategories": ["Wokpfanne"]
+  },
+  {
+    "store": "billa",
+    "id": "00-243700",
+    "name": "Frosta Wokpfanne Nasi Goreng",
+    "category": "Pfanne",
+    "subcategories": ["Wokpfanne"]
+  },
+  {
+    "store": "billa",
+    "id": "00-704947",
+    "name": "Frosta Yummy Tummy Soup Ramen Style",
+    "category": "Suppe",
+    "subcategories": ["Ramen"]
+  },
+  {
+    "store": "billa",
+    "id": "00-723600",
+    "name": "Hubers Chicken Wings Buffalo Style",
+    "category": "Fleisch",
+    "subcategories": ["Hendl", "Buffalo"]
+  },
+  {
+    "store": "billa",
+    "id": "00-723595",
+    "name": "Hubers Karaage Asia Style",
+    "category": "Fleisch",
+    "subcategories": ["Karaage", "Asiatisch"]
+  },
+  {
+    "store": "billa",
+    "id": "00-723599",
+    "name": "Hubers Mac'n'Cheese Balls Tasty Chicken",
+    "category": "Fleisch",
+    "subcategories": ["Huhn", "Käse"]
+  },
+  {
+    "store": "billa",
+    "id": "00-723601",
+    "name": "Hubers Mini Chicken Burger Patties",
+    "category": "Fleisch",
+    "subcategories": ["Huhn", "Burger"]
+  },
+  {
+    "store": "billa",
+    "id": "00-758675",
+    "name": "Iglo Backhendlstreifen mit Sesamkörnern",
+    "category": "Fleisch",
+    "subcategories": ["Hendl"]
+  },
+  {
+    "store": "billa",
+    "id": "00-6779",
+    "name": "Iglo Beuschel",
+    "category": "Fleisch",
+    "subcategories": []
+  },
+  {
+    "store": "billa",
+    "id": "00-425783",
+    "name": "Iglo Faschierte Laibchen",
+    "category": "Fleisch",
+    "subcategories": ["Laibchen"]
+  },
+  {
+    "store": "billa",
+    "id": "00-822524",
+    "name": "Iglo Fischstäbchen Glutenfrei",
+    "category": "Fisch",
+    "subcategories": ["Fischstäbchen"]
+  },
+  {
+    "store": "billa",
+    "id": "00-82665",
+    "name": "Iglo Fleischknödel",
+    "category": "Knödel",
+    "subcategories": ["Fleisch"]
+  },
+  {
+    "store": "billa",
+    "id": "00-514677",
+    "name": "Iglo Genießer Pfanne  Ravioli Mediterran",
+    "category": "Pfanne",
+    "subcategories": ["Ravioli"]
+  },
+  {
+    "store": "billa",
+    "id": "00-875583",
+    "name": "Iglo Genießer Pfanne Französische Art",
+    "category": "Pfanne",
+    "subcategories": []
+  },
+  {
+    "store": "billa",
+    "id": "00-875588",
+    "name": "Iglo Genießer Pfanne Gnocchi",
+    "category": "Pfanne",
+    "subcategories": ["Gnocchi"]
+  },
+  {
+    "store": "billa",
+    "id": "00-875590",
+    "name": "Iglo Genießer Pfanne Paprika-Huhn",
+    "category": "Pfanne",
+    "subcategories": ["Huhn"]
+  },
+  {
+    "store": "billa",
+    "id": "00-438602",
+    "name": "Iglo Genießer Pfanne Stroganoff",
+    "category": "Pfanne",
+    "subcategories": []
+  },
+  {
+    "store": "billa",
+    "id": "00-514675",
+    "name": "Iglo Genießer Pfanne Tagliatelle Funghi",
+    "category": "Pfanne",
+    "subcategories": ["Tagliatelle", "Pilze"]
+  },
+  {
+    "store": "billa",
+    "id": "00-875580",
+    "name": "Iglo Genießer Pfanne Tortellini",
+    "category": "Pfanne",
+    "subcategories": ["Tortellini"]
+  },
+  {
+    "store": "billa",
+    "id": "00-425794",
+    "name": "Iglo Genießer Schmankerl Cremespinat mit Mini-Rösti",
+    "category": "Gemüse",
+    "subcategories": ["Spinat", "Rösti"]
+  },
+  {
+    "store": "billa",
+    "id": "00-615422",
+    "name": "Iglo Genießer Schmankerl Gnocchi in Schinken-Käsesauce",
+    "category": "Pfanne",
+    "subcategories": ["Gnocchi", "Schinken", "Käse"]
+  },
+  {
+    "store": "billa",
+    "id": "00-430018",
+    "name": "Iglo Genießer Schmankerl Krautfleckerl",
+    "category": "Pfanne",
+    "subcategories": ["Kraut", "Fleckerl"]
+  },
+  {
+    "store": "billa",
+    "id": "00-875439",
+    "name": "Iglo Genießer Schmankerl Marchfelder Rahmfisolen mit Mini Rösti",
+    "category": "Gemüse",
+    "subcategories": ["Gemüse", "Rösti"]
+  },
+  {
+    "store": "billa",
+    "id": "00-600235",
+    "name": "Iglo Genießer Schmankerl Paprikahuhn mit Spiralen",
+    "category": "Pfanne",
+    "subcategories": ["Huhn"]
+  },
+  {
+    "store": "billa",
+    "id": "00-501793",
+    "name": "Iglo Genießer Schmankerl Tortelloni Spinat-Ricotta",
+    "category": "Pfanne",
+    "subcategories": ["Tortelloni"]
+  }
+]
