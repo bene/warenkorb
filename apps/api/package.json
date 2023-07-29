@@ -1,6 +1,7 @@
 {
-  "name": "@warenkorn/api",
+  "name": "@warenkorb/api",
   "version": "0.0.0",
+  "main": "./src/main.ts",
   "scripts": {
     "dev": "nodemon src/main.ts"
   },
