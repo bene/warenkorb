@@ -15,7 +15,7 @@ export function Stepper({
         <Fragment key={i}>
           <View
             className={twMerge(
-              "flex aspect-square w-8 items-center justify-center rounded-full border",
+              "flex h-8 w-8 items-center justify-center rounded-full border",
               currentIndex === i && "bg-black",
             )}
           >

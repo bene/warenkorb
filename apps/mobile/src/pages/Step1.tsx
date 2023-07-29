@@ -60,7 +60,7 @@ export function Step1() {
                 selectedStores.includes(store.name) && "text-white",
               )}
             >
-              {store.label}
+              {store.label.toUpperCase()}
             </Text>
           </TouchableHighlight>
         ))}
