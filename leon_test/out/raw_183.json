@@ -1,0 +1,706 @@
+Here is the modified JSON list with the added fields:
+
+[
+  {
+    "store": "spar",
+    "id": "5566389",
+    "name": "NÖM Fru Fru Himbeere",
+    "category": "Joghurt",
+    "subcategories": ["Fruchtjoghurt", "Himbeer"]
+  },
+  {
+    "store": "spar",
+    "id": "7453045",
+    "name": "NÖM Fru Fru Kaffee",
+    "category": "Joghurt",
+    "subcategories": ["Fruchtjoghurt", "Kaffee"]
+  },
+  {
+    "store": "spar",
+    "id": "5303885",
+    "name": "NÖM Fru Fru Kirsche",
+    "category": "Joghurt",
+    "subcategories": ["Fruchtjoghurt", "Kirsche"]
+  },
+  {
+    "store": "spar",
+    "id": "5726844",
+    "name": "NÖM Fru Fru Mango",
+    "category": "Joghurt",
+    "subcategories": ["Fruchtjoghurt", "Mango"]
+  },
+  {
+    "store": "spar",
+    "id": "5303892",
+    "name": "NÖM Fru Fru Waldbeere",
+    "category": "Joghurt",
+    "subcategories": ["Fruchtjoghurt", "Waldbeere"]
+  },
+  {
+    "store": "spar",
+    "id": "6833657",
+    "name": "NÖM Fru Fru wie damals Erdbeere",
+    "category": "Joghurt",
+    "subcategories": ["Fruchtjoghurt", "Erdbeere"]
+  },
+  {
+    "store": "spar",
+    "id": "7324321",
+    "name": "NÖM Fru Fru wie damals Marille",
+    "category": "Joghurt",
+    "subcategories": ["Fruchtjoghurt", "Marille"]
+  },
+  {
+    "store": "spar",
+    "id": "5048854",
+    "name": "NÖM Guten Morgen Milch 1,8 % Fett länger frisch",
+    "category": "Milch",
+    "subcategories": ["Länger frisch", "1,8% Fett"]
+  },
+  {
+    "store": "spar",
+    "id": "6324353",
+    "name": "NÖM Halbfettmilch 1,5 % Fett länger frisch",
+    "category": "Milch",
+    "subcategories": ["Länger frisch", "1,5% Fett"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001410361",
+    "name": "NÖM Joghurt Griechischer Art 10%",
+    "category": "Joghurt",
+    "subcategories": ["Griechischer Art", "10%"]
+  },
+  {
+    "store": "spar",
+    "id": "5700875",
+    "name": "NÖM Kaffeeobers 10% Fett länger frisch",
+    "category": "Sahne",
+    "subcategories": ["Kaffeeobers", "10% Fett", "Länger frisch"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001039234",
+    "name": "NÖM Kakao Milch",
+    "category": "Kakao",
+    "subcategories": ["Kakao", "Milch"]
+  },
+  {
+    "store": "spar",
+    "id": "5157815",
+    "name": "NÖM Kakao Milch",
+    "category": "Kakao",
+    "subcategories": ["Kakao", "Milch"]
+  },
+  {
+    "store": "spar",
+    "id": "8184894",
+    "name": "NÖM Kakao Milch 1,5% Fett",
+    "category": "Kakao",
+    "subcategories": ["Kakao", "Milch", "1,5% Fett"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001706068",
+    "name": "NÖM Kakaomilch laktosefrei",
+    "category": "Kakao",
+    "subcategories": ["Kakaomilch", "laktosefrei"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003786662",
+    "name": "NÖM Kefir Drink Natur",
+    "category": "Kefir",
+    "subcategories": ["Kefir", "Natur"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002840273",
+    "name": "NÖM Mix Fruchtjoghurt Erdbeere laktosefrei",
+    "category": "Joghurt",
+    "subcategories": ["Fruchtjoghurt", "Erdbeere", "laktosefrei"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002840303",
+    "name": "NÖM Mix Fruchtjoghurt Vanille laktosefrei",
+    "category": "Joghurt",
+    "subcategories": ["Fruchtjoghurt", "Vanille", "laktosefrei"]
+  },
+  {
+    "store": "spar",
+    "id": "160858",
+    "name": "NÖM Mix Joghurt Erdbeere",
+    "category": "Joghurt",
+    "subcategories": ["Fruchtjoghurt", "Erdbeere"]
+  },
+  {
+    "store": "spar",
+    "id": "6495299",
+    "name": "NÖM Mix Joghurt Fruchtcocktail",
+    "category": "Joghurt",
+    "subcategories": ["Fruchtjoghurt", "Fruchtcocktail"]
+  },
+  {
+    "store": "spar",
+    "id": "166843",
+    "name": "NÖM Mix Joghurt Heidelbeere",
+    "category": "Joghurt",
+    "subcategories": ["Fruchtjoghurt", "Heidelbeere"]
+  },
+  {
+    "store": "spar",
+    "id": "168434",
+    "name": "NÖM Mix Joghurt Himbeere",
+    "category": "Joghurt",
+    "subcategories": ["Fruchtjoghurt", "Himbeere"]
+  },
+  {
+    "store": "spar",
+    "id": "190909",
+    "name": "NÖM Mix Joghurt Kaffee",
+    "category": "Joghurt",
+    "subcategories": ["Fruchtjoghurt", "Kaffee"]
+  },
+  {
+    "store": "spar",
+    "id": "171786",
+    "name": "NÖM Mix Joghurt Kirsche",
+    "category": "Joghurt",
+    "subcategories": ["Fruchtjoghurt", "Kirsche"]
+  },
+  {
+    "store": "spar",
+    "id": "2020000746911",
+    "name": "NÖM Mix Joghurt Mango",
+    "category": "Joghurt",
+    "subcategories": ["Fruchtjoghurt", "Mango"]
+  },
+  {
+    "store": "spar",
+    "id": "6933395",
+    "name": "NÖM Mix Joghurt Marille",
+    "category": "Joghurt",
+    "subcategories": ["Fruchtjoghurt", "Marille"]
+  },
+  {
+    "store": "spar",
+    "id": "198943",
+    "name": "NÖM Mix Joghurt Vanille",
+    "category": "Joghurt",
+    "subcategories": ["Fruchtjoghurt", "Vanille"]
+  },
+  {
+    "store": "spar",
+    "id": "3380659",
+    "name": "NÖM Mix Joghurt Waldbeere",
+    "category": "Joghurt",
+    "subcategories": ["Fruchtjoghurt", "Waldbeere"]
+  },
+  {
+    "store": "spar",
+    "id": "2729503",
+    "name": "NÖM Natur Joghurt 1 % Fett",
+    "category": "Joghurt",
+    "subcategories": ["Naturjoghurt", "1% Fett"]
+  },
+  {
+    "store": "spar",
+    "id": "2729497",
+    "name": "NÖM Natur Joghurt 1 % Fett löffelfest",
+    "category": "Joghurt",
+    "subcategories": ["Naturjoghurt", "1% Fett", "Löffelfest"]
+  },
+  {
+    "store": "spar",
+    "id": "2729466",
+    "name": "NÖM Natur Joghurt 3,6 % Fett cremig gerührt",
+    "category": "Joghurt",
+    "subcategories": ["Naturjoghurt", "3,6% Fett", "Cremig gerührt"]
+  },
+  {
+    "store": "spar",
+    "id": "2729480",
+    "name": "NÖM Natur Joghurt 3,6% Fett cremig gerührt",
+    "category": "Joghurt",
+    "subcategories": ["Naturjoghurt", "3,6% Fett", "Cremig gerührt"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003404740",
+    "name": "NÖM PRO 20 topfencreme himbeere high protein",
+    "category": "Topfen",
+    "subcategories": ["Topfencreme", "Himbeer", "High Protein"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003138805",
+    "name": "NÖM PRO 20 topfencreme mango high protein",
+    "category": "Topfen",
+    "subcategories": ["Topfencreme", "Mango", "High Protein"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003138829",
+    "name": "NÖM PRO 20 topfencreme vanille hight protein",
+    "category": "Topfen",
+    "subcategories": ["Topfencreme", "Vanille", "High Protein"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002794033",
+    "name": "NÖM PRO Banane",
+    "category": "Topfen",
+    "subcategories": ["Banane"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003690693",
+    "name": "NÖM PRO Erdbeere",
+    "category": "Topfen",
+    "subcategories": ["Erdbeere"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004721686",
+    "name": "Nussyy Bio-Aufstrich Kürbiskern",
+    "category": "Aufstrich",
+    "subcategories": ["Bio-Aufstrich", "Kürbiskern"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004721679",
+    "name": "Nussyy Bio-Aufstrich Paprika",
+    "category": "Aufstrich",
+    "subcategories": ["Bio-Aufstrich", "Paprika"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004721662",
+    "name": "Nussyy Bio-Aufstrich Rote Rübe - Kren",
+    "category": "Aufstrich",
+    "subcategories": ["Bio-Aufstrich", "Rote Rübe", "Kren"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004721761",
+    "name": "Nussyy Bio-Aufstrich Tomate",
+    "category": "Aufstrich",
+    "subcategories": ["Bio-Aufstrich", "Tomate"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004019080",
+    "name": "Nussyy Bio-Grünkern-Laibchen mit Süßkartoffel-Püree",
+    "category": "Grünkern",
+    "subcategories": ["Bio-Grünkern-Laibchen", "Süßkartoffel-Püree"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004019011",
+    "name": "Nussyy Bio-Linsen-Curry mit Basmatireis",
+    "category": "Linsen",
+    "subcategories": ["Bio-Linsen-Curry", "Basmatireis"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003541018",
+    "name": "Nussyy Bio-Dinkel Birchermüsli 350G",
+    "category": "Birchermüsli",
+    "subcategories": ["Bio-Dinkel", "Birchermüsli"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003541025",
+    "name": "Nussyy Bio-Dinkel Porridge 350G",
+    "category": "Porridge",
+    "subcategories": ["Bio-Dinkel", "Porridge"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003763908",
+    "name": "Nussyy Stringhetti",
+    "category": "Teigwaren",
+    "subcategories": ["Stringhetti"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004239167",
+    "name": "Nussyy Bio-Riegel Cherry Emma Weitblick 35G",
+    "category": "Riegel",
+    "subcategories": ["Bio-Riegel", "Cherry Emma Weitblick"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002186050",
+    "name": "Nussyy Bio-Riegel Lazy Freddy 35G",
+    "category": "Riegel",
+    "subcategories": ["Bio-Riegel", "Lazy Freddy"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002700164",
+    "name": "Nussyy Bio-Riegel Protein-Bär 35G",
+    "category": "Riegel",
+    "subcategories": ["Bio-Riegel", "Protein-Bär"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004695338",
+    "name": "Nussyy CARA BIO COSMETICS Natürliche 24h Tagescreme Bio Sheabutter/Bio Aloe-Vera 75ml",
+    "category": "Kosmetik",
+    "subcategories": ["24h Tagescreme", "Bio Sheabutter", "Bio Aloe-Vera"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004336231",
+    "name": "Nussyy CARA BIO COSMETICS Natürliche Handcreme Bio Apfelsaft/Aprikosenkernöl 75ml",
+    "category": "Kosmetik",
+    "subcategories": ["Handcreme", "Bio Apfelsaft", "Aprikosenkernöl"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004336309",
+    "name": "Nussyy CARA BIO COSMETICS Natürliche Zahncreme Bio Minze/Bio Aloe-Vera 75ml",
+    "category": "Kosmetik",
+    "subcategories": ["Zahncreme", "Bio Minze", "Bio Aloe-Vera"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004336033",
+    "name": "Nussyy CARA BIO COSMETICS Natürliches Mundwasser Bio Minze/Bio Aloe Vera 500ml",
+    "category": "Kosmetik",
+    "subcategories": ["Mundwasser", "Bio Minze", "Bio Aloe Vera"]
+  },
+  {
+    "store": "spar",
+    "id": "3812112",
+    "name": "Oral-B Complete Zahnbürste Mittel 40",
+    "category": "Zahnbürste",
+    "subcategories": ["Complete", "Mittel"]
+  },
+  {
+    "store": "spar",
+    "id": "3812242",
+    "name": "Oral-B Complete Zahnbürste Sensitive / Extra Soft 35",
+    "category": "Zahnbürste",
+    "subcategories": ["Complete", "Sensitive", "Extra Soft"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002601744",
+    "name": "Oral-B Elektrische Zahnbürste Vitality 100 Box Blue",
+    "category": "Zahnbürste",
+    "subcategories": ["Elektrische Zahnbürste", "Vitality 100"]
+  },
+  {
+    "store": "spar",
+    "id": "3007488",
+    "name": "Oral-B Essentialfloss Zahnseide gewachst 50m",
+    "category": "Zahnseide",
+    "subcategories": ["Essentialfloss", "Gewachst"]
+  },
+  {
+    "store": "spar",
+    "id": "3007471",
+    "name": "Oral-B Essentialfloss Zahnseide ungewachst 50m",
+    "category": "Zahnseide",
+    "subcategories": ["Essentialfloss", "Ungewachst"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003263958",
+    "name": "Oral-B Junior Zahnbürste 6-12 Jahre / weich",
+    "category": "Zahnbürste",
+    "subcategories": ["Junior", "6-12 Jahre", "Weich"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003241079",
+    "name": "Oral-B Kids Kinder-Zahnbürtse Cars / extra weich",
+    "category": "Zahnbürste",
+    "subcategories": ["Kids", "Cars", "Extra Weich"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004460417",
+    "name": "Oral-B Pro Expert Zahnbürste Extra Clean Eco Editon Mittel",
+    "category": "Zahnbürste",
+    "subcategories": ["Pro Expert", "Extra Clean", "Eco Editon", "Mittel"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003061318",
+    "name": "Oral-B Pro Expert Zahncreme Stages / Eiskönigin 75ml",
+    "category": "Zahncreme",
+    "subcategories": ["Pro Expert", "Stages", "Eiskönigin"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003948701",
+    "name": "Oral-B Pro-Science Zahncreme Gründliche Reinigung 75ml",
+    "category": "Zahncreme",
+    "subcategories": ["Pro-Science", "Gründliche Reinigung"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004298966",
+    "name": "Oral-B Pro-Science Zahncreme Stärkung & Regeneration 75ml",
+    "category": "Zahncreme",
+    "subcategories": ["Pro-Science", "Stärkung", "Regeneration"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002967710",
+    "name": "Oral-B Pro-Science Zahncreme Zahnfleisch Repair ExtraFrisch 2 x 75ml",
+    "category": "Zahncreme",
+    "subcategories": ["Pro-Science", "Zahnfleisch Repair", "ExtraFrisch"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002585037",
+    "name": "Oral-B Pro-Science Zahncreme Zahnfleisch Repair ExtraFrisch 75ml",
+    "category": "Zahncreme",
+    "subcategories": ["Pro-Science", "Zahnfleisch Repair", "ExtraFrisch"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002967666",
+    "name": "Oral-B Pro-Science Zahncreme Zahnfleisch Repair Original 2 x 75ml",
+    "category": "Zahncreme",
+    "subcategories": ["Pro-Science", "Zahnfleisch Repair", "Original"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002584986",
+    "name": "Oral-B Pro-Science Zahncreme Zahnfleisch Repair Original 75ml",
+    "category": "Zahncreme",
+    "subcategories": ["Pro-Science", "Zahnfleisch Repair", "Original"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003759567",
+    "name": "Oral-B Professional Zahnpasta Pro-Repair Zahnfleisch & -schmelz 75ml",
+    "category": "Zahnpasta",
+    "subcategories": ["Professional", "Pro-Repair", "Zahnfleisch", "Zahnschmelz"]
+  },
+  {
+    "store": "spar",
+    "id": "3491881",
+    "name": "Oral-B Satintape Zahnreinigungsband Mint 25m",
+    "category": "Zahnreinigungsband",
+    "subcategories": ["Satintape", "Zahnreinigung", "Mint"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003464324",
+    "name": "Oral-B Vitality 100 Kids Spiderman",
+    "category": "Zahnbürste",
+    "subcategories": ["Vitality 100", "Kids", "Spiderman"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001947713",
+    "name": "Oral-B Zahnbürste 1 2 3 Classic Care Mittel 2 Stück",
+    "category": "Zahnbürste",
+    "subcategories": ["1 2 3 Classic Care", "Mittel"]
+  },
+  {
+    "store": "spar",
+    "id": "1448665",
+    "name": "Oral-B Zahnbürste Classic Care / Mittel 35 3 Stück",
+    "category": "Zahnbürste",
+    "subcategories": ["Classic Care", "Mittel"]
+  },
+  {
+    "store": "spar",
+    "id": "4483021",
+    "name": "Oral-B Zahnbürste Indicator / Mittel 35",
+    "category": "Zahnbürste",
+    "subcategories": ["Indicator", "Mittel"]
+  },
+  {
+    "store": "spar",
+    "id": "8092502",
+    "name": "Oral-B Zahnbürste Pulsar / Mittel",
+    "category": "Zahnbürste",
+    "subcategories": ["Pulsar", "Mittel"]
+  },
+  {
+    "store": "spar",
+    "id": "1164589",
+    "name": "Oral-B Zahnseide Superfloss 50 einzelne Fäden",
+    "category": "Zahnseide",
+    "subcategories": ["Superfloss", "Einzelne Fäden"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002908577",
+    "name": "Parodoc Mundspülung Proimplant 250ml",
+    "category": "Mundspülung",
+    "subcategories": ["Proimplant"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002537661",
+    "name": "Parodontax Complete Protection Zahnpasta Extra Frisch 75ml",
+    "category": "Zahnpasta",
+    "subcategories": ["Complete Protection", "Extra Frisch"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003324178",
+    "name": "Parodontax Complete Protection Zahnpasta Whitening 75ml",
+    "category": "Zahnpasta",
+    "subcategories": ["Complete Protection", "Whitening"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004128638",
+    "name": "Parodontax Mundspülung Tägliche Zahnfleischpflege 300 ml",
+    "category": "Mundspülung",
+    "subcategories": ["Tägliche Zahnfleischpflege"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002467692",
+    "name": "Parodontax Zahnbürste Complete Protection weich 1 Stück",
+    "category": "Zahnbürste",
+    "subcategories": ["Complete Protection", "Weich"]
+  },
+  {
+    "store": "spar",
+    "id": "7459559",
+    "name": "Parodontax Zahnpasta Classic Fluoridfrei 75 ml",
+    "category": "Zahnpasta",
+    "subcategories": ["Classic", "Fluoridfrei"]
+  },
+  {
+    "store": "spar",
+    "id": "2323619",
+    "name": "Parodontax Zahnpasta Extra Frisch 75ml",
+    "category": "Zahnpasta",
+    "subcategories": ["Extra Frisch"]
+  },
+  {
+    "store": "spar",
+    "id": "7459566",
+    "name": "Parodontax Zahnpasta Fluorid 75 ml",
+    "category": "Zahnpasta",
+    "subcategories": ["Fluorid"]
+  },
+  {
+    "store": "spar",
+    "id": "7459580",
+    "name": "Parodontax Zahnpasta Natürlich Weiss 75 ml",
+    "category": "Zahnpasta",
+    "subcategories": ["Natürlich Weiss"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004393159",
+    "name": "Parodontax Zahnpasta Zahnfleisch+ 75ml",
+    "category": "Zahnpasta",
+    "subcategories": ["Zahnfleisch+"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003948732",
+    "name": "Parodontax Zahnpasta ultra clean 75ml",
+    "category": "Zahnpasta",
+    "subcategories": ["Ultra Clean"]
+  },
+  {
+    "store": "spar",
+    "id": "2213163",
+    "name": "Palmolive Men Rasiercreme Classic 100ml",
+    "category": "Rasiercreme",
+    "subcategories": ["Men", "Classic"]
+  },
+  {
+    "store": "spar",
+    "id": "2213217",
+    "name": "Palmolive Men Rasierschaum Classic 300ml",
+    "category": "Rasierschaum",
+    "subcategories": ["Men", "Classic"]
+  },
+  {
+    "store": "spar",
+    "id": "2213262",
+    "name": "Palmolive men Rasierschaum Sensitive 300ml",
+    "category": "Rasierschaum",
+    "subcategories": ["Men", "Sensitive"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004336460",
+    "name": "Nussyy CARA BIO COSMETICS Natürliche Cremedusche Bio Mandelöl/Sonnenblumenöl 200ml",
+    "category": "Kosmetik",
+    "subcategories": ["Cremedusche", "Bio Mandelöl", "Sonnenblumenöl"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004336538",
+    "name": "Nussyy CARA BIO COSMETICS Natürliches Duschgel Bio Rosmarin/Bio Birkensaft 200ml",
+    "category": "Kosmetik",
+    "subcategories": ["Duschgel", "Bio Rosmarin", "Bio Birkensaft"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004337634",
+    "name": "Nussyy CARA BIO COSMETICS Natürliches Handseife Bio Zitronenmelisse/Apfelsaft 300ml",
+    "category": "Kosmetik",
+    "subcategories": ["Handseife", "Bio Zitronenmelisse", "Apfelsaft"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003902673",
+    "name": "Palmolive Aroma Essence Duschgel Alluring Love 250ml",
+    "category": "Duschgel",
+    "subcategories": ["Aroma Essence", "Alluring Love"]
+  },
+  {
+    "store": "spar",
+    "id": "2020000616238",
+    "name": "Palmolive Aroma Essence Duschgel Ultimate Relax 250ml",
+    "category": "Duschgel",
+    "subcategories": ["Aroma Essence", "Ultimate Relax"]
+  },
+  {
+    "store": "spar",
+    "id": "2020000643319",
+    "name": "Palmolive Aroma Sensations Schaumbad Absolute Relax 650ml",
+    "category": "Schaumbad",
+    "subcategories": ["Aroma Sensations", "Absolute Relax"]
+  },
+  {
+    "store": "spar",
+    "id": "3514450",
+    "name": "Palmolive Flüssigseife Aquarium 300ml",
+    "category": "Flüssigseife",
+    "subcategories": ["Flüssigseife", "Aquarium"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004713506",
+    "name": "Palmolive Flüssigseife Tropical Forest 300ml",
+    "category": "Flüssigseife",
+    "subcategories": ["Flüssigseife", "Tropical Forest"]
+  },
+  {
+    "store": "spar",
+    "id": "7625251",
+    "name": "Palmolive Hygiene Plus Flüssigseife Family 300ml",
+    "category": "Flüssigseife",
+    "subcategories": ["Hygiene Plus", "Flüssigseife", "Family"]
+  },
+  {
+    "store": "spar",
+    "id": "6449513",
+    "name": "Palmolive Hygiene Plus Flüssigseife Kitchen 300ml",
+    "category": "Flüssigseife",
+    "subcategories": ["Hygiene Plus", "Flüssigseife", "Kitchen"]
+  }
+]
+
+Note: I have created and assigned categories and subcategories based on the "name" field provided. A single word category is added for each product and a list of subcategories is included to break down the category for each individual product. Please note that the category and subcategories are in German, as requested.

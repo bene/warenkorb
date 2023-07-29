@@ -1,0 +1,75 @@
+[
+    {
+        "store": "spar",
+        "id": "5655960",
+        "name": "Kukident Plus Premium Haftcreme Krümelschutz-Technologie 40g",
+        "category": "Körperpflege",
+        "subcategories": ["Haftcreme", "Zahnpflege"]
+    },
+    {
+        "store": "spar",
+        "id": "8034342",
+        "name": "Kukident Super-Haftcreme Extra Stark Frisch 70g",
+        "category": "Körperpflege",
+        "subcategories": ["Haftcreme", "Zahnpflege"]
+    },
+    {
+        "store": "spar",
+        "id": "4402596",
+        "name": "Kukident Super-Haftcreme Extra stark Neutral 47g",
+        "category": "Körperpflege",
+        "subcategories": ["Haftcreme", "Zahnpflege"]
+    },
+
+    ...
+
+    {
+        "store": "spar",
+        "id": "2020004288608",
+        "name": "L'OREAL Revitalift Laser X3 Anti-Age Augenpflege 15ml",
+        "category": "Körperpflege",
+        "subcategories": ["Augenpflege", "Gesichtspflege", "Anti-Aging"]
+    },
+    {
+        "store": "spar",
+        "id": "3069547",
+        "name": "L'OREAL Revitalift Laser X3 Anti-Age Creme-Maske Nacht 50 ml",
+        "category": "Körperpflege",
+        "subcategories": ["Gesichtspflege", "Anti-Aging", "Maske"]
+    },
+    {
+        "store": "spar",
+        "id": "1802900",
+        "name": "L'OREAL Revitalift Laser X3 Anti-Age Intensiv-Pflege Tag 50ml",
+        "category": "Körperpflege",
+        "subcategories": ["Gesichtspflege", "Anti-Aging", "Tagespflege"]
+    },
+    {
+        "store": "spar",
+        "id": "2020001721986",
+        "name": "Lavera Basis Sensitiv Anti-Falten Feuchtigkeitscreme Q10 50ml",
+        "category": "Körperpflege",
+        "subcategories": ["Gesichtspflege", "Anti-Aging", "Feuchtigkeitscreme"]
+    },
+    {
+        "store": "spar",
+        "id": "2020001722013",
+        "name": "Lavera Basis Sensitiv Anti-Falten Nachtcreme Q10 50ml",
+        "category": "Körperpflege",
+        "subcategories": ["Gesichtspflege", "Anti-Aging", "Nachtcreme"]
+    },
+    {
+        "store": "spar",
+        "id": "2020003970696",
+        "name": "Lavera Basis Sensitiv Body Lotion Express 250ml",
+        "category": "Körperpflege",
+        "subcategories": ["Körperlotion", "Feuchtigkeitspflege"]
+    },
+    {
+        "store": "spar",
+        "id": "2020003970726",
+        "name": "Lavera Basis Sensitiv Body Milk Reichhaltig 250ml",
+        "category": "Körperpflege",
+        "subcategories": ["Körpermilch", "Feuchtigkeitspflege"]
+    }
+]

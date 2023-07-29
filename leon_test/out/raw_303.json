@@ -1,0 +1,702 @@
+[
+    {
+        "store": "spar",
+        "id": "2020001602155",
+        "name": "Mini Party Donuts 9 Stück 198 G",
+        "category": "Backwaren",
+        "subcategories": ["Donuts"]
+    },
+    {
+        "store": "spar",
+        "id": "1002966",
+        "name": "Mini Schoko Donuts 9 Stück 180 G",
+        "category": "Backwaren",
+        "subcategories": ["Donuts"]
+    },
+    {
+        "store": "spar",
+        "id": "2020000659617",
+        "name": "Mini Zucker Donuts 9 Stück 162 G",
+        "category": "Backwaren",
+        "subcategories": ["Donuts"]
+    },
+    {
+        "store": "spar",
+        "id": "2568263",
+        "name": "Loaster Fruchtsaft Apfel Naturtrüb",
+        "category": "Getränke",
+        "subcategories": ["Fruchtsaft"]
+    },
+    {
+        "store": "spar",
+        "id": "2568577",
+        "name": "Loaster Fruchtsaft Apfel-Birne",
+        "category": "Getränke",
+        "subcategories": ["Fruchtsaft"]
+    },
+    {
+        "store": "spar",
+        "id": "8077820",
+        "name": "Loaster Fruchtsaft Apfel-Johannisbeere",
+        "category": "Getränke",
+        "subcategories": ["Fruchtsaft"]
+    },
+    {
+        "store": "spar",
+        "id": "2567532",
+        "name": "Loaster Fruchtsaft Apfel-Karotte",
+        "category": "Getränke",
+        "subcategories": ["Fruchtsaft"]
+    },
+    {
+        "store": "spar",
+        "id": "1891607",
+        "name": "Loaster Fruchtsaft Apfel-Weichsel",
+        "category": "Getränke",
+        "subcategories": ["Fruchtsaft"]
+    },
+    {
+        "store": "spar",
+        "id": "2020002606169",
+        "name": "Loaster Fruchtsaft Birne",
+        "category": "Getränke",
+        "subcategories": ["Fruchtsaft"]
+    },
+    {
+        "store": "spar",
+        "id": "8119667",
+        "name": "Loaster Glühmost",
+        "category": "Getränke",
+        "subcategories": ["Fruchtsaft"]
+    },
+    {
+        "store": "spar",
+        "id": "8119643",
+        "name": "Loaster Obstmost",
+        "category": "Getränke",
+        "subcategories": ["Fruchtsaft"]
+    },
+    {
+        "store": "spar",
+        "id": "2020004524300",
+        "name": "Lobsters Lemon Mint",
+        "category": "Getränke",
+        "subcategories": ["Limonade"]
+    },
+    {
+        "store": "spar",
+        "id": "2020004024541",
+        "name": "Lobsters Tonic Water",
+        "category": "Getränke",
+        "subcategories": ["Limonade"]
+    },
+    {
+        "store": "spar",
+        "id": "2020000672562",
+        "name": "Lobsters Tonic Water 4 x 0,2l",
+        "category": "Getränke",
+        "subcategories": ["Limonade"]
+    },
+    {
+        "store": "spar",
+        "id": "7087660",
+        "name": "Lorenz Schneemännchen Kinderpunsch",
+        "category": "Getränke",
+        "subcategories": ["Punsch"]
+    },
+    {
+        "store": "spar",
+        "id": "6977405",
+        "name": "Makava delighted Ice Tea",
+        "category": "Getränke",
+        "subcategories": ["Eistee"]
+    },
+    {
+        "store": "spar",
+        "id": "2020004624192",
+        "name": "Marry Honeybush + Red Berries",
+        "category": "Getränke",
+        "subcategories": ["Tee"]
+    },
+    {
+        "store": "spar",
+        "id": "2020003420580",
+        "name": "Marry Mate + Red Berries",
+        "category": "Getränke",
+        "subcategories": ["Tee"]
+    },
+    {
+        "store": "spar",
+        "id": "2020003529108",
+        "name": "Mautner Markhof 70% Fruchtsaft Sirup Himbeere Zitrone",
+        "category": "Getränke",
+        "subcategories": ["Sirup"]
+    },
+    {
+        "store": "spar",
+        "id": "2020003528453",
+        "name": "Mautner Markhof 70% Fruchtsaft Sirup Waldbeere",
+        "category": "Getränke",
+        "subcategories": ["Sirup"]
+    },
+    {
+        "store": "spar",
+        "id": "3044087",
+        "name": "Mautner Markhof Fruchtsirup Himbeere",
+        "category": "Getränke",
+        "subcategories": ["Sirup"]
+    },
+    {
+        "store": "spar",
+        "id": "7239540",
+        "name": "Mautner Markhof Fruchtsirup Himbeere 0% Zucker",
+        "category": "Getränke",
+        "subcategories": ["Sirup"]
+    },
+    {
+        "store": "spar",
+        "id": "4737438",
+        "name": "Mautner Markhof Fruchtsirup Himbeere-Zitrone",
+        "category": "Getränke",
+        "subcategories": ["Sirup"]
+    },
+    {
+        "store": "spar",
+        "id": "7241437",
+        "name": "Mautner Markhof Fruchtsirup Johannisbeer-Citro 0% Zucker",
+        "category": "Getränke",
+        "subcategories": ["Sirup"]
+    },
+    {
+        "store": "spar",
+        "id": "238120",
+        "name": "Mautner Markhof Fruchtsirup Kirsche",
+        "category": "Getränke",
+        "subcategories": ["Sirup"]
+    },
+    {
+        "store": "spar",
+        "id": "2020003787287",
+        "name": "Mautner Markhof Fruchtsirup Orange-Mango 0% Zucker",
+        "category": "Getränke",
+        "subcategories": ["Sirup"]
+    },
+    {
+        "store": "spar",
+        "id": "7239601",
+        "name": "Mautner Markhof Fruchtsirup Pfirsich-Maracuja 0% Zucker",
+        "category": "Getränke",
+        "subcategories": ["Sirup"]
+    },
+    {
+        "store": "spar",
+        "id": "1930207",
+        "name": "Mautner Markhof Holunderblütensirup 0% Zucker",
+        "category": "Getränke",
+        "subcategories": ["Sirup"]
+    },
+    {
+        "store": "spar",
+        "id": "7103872",
+        "name": "Mautner Markhof Morgenzauber Fruchtsirup Multivitamin",
+        "category": "Getränke",
+        "subcategories": ["Sirup"]
+    },
+    {
+        "store": "spar",
+        "id": "6763497",
+        "name": "Mautner Markhof Morgenzauber Fruchtsirup Orange",
+        "category": "Getränke",
+        "subcategories": ["Sirup"]
+    },
+    {
+        "store": "spar",
+        "id": "5171453",
+        "name": "Mautner Markhof Sirup Himbeer-Zitrone 0%",
+        "category": "Getränke",
+        "subcategories": ["Sirup"]
+    },
+    {
+        "store": "spar",
+        "id": "2011325",
+        "name": "Mautner Markhof Sirup Hugolunder",
+        "category": "Getränke",
+        "subcategories": ["Sirup"]
+    },
+    {
+        "store": "spar",
+        "id": "3395189",
+        "name": "Mautner Markhof Sommersirup Holunderblüte",
+        "category": "Getränke",
+        "subcategories": ["Sirup"]
+    },
+    {
+        "store": "spar",
+        "id": "2020002986995",
+        "name": "Mautner Markhof Sommersirup Mango",
+        "category": "Getränke",
+        "subcategories": ["Sirup"]
+    },
+    {
+        "store": "spar",
+        "id": "2020003453069",
+        "name": "Linzer Bier Lager 0,5lt.",
+        "category": "Getränke",
+        "subcategories": ["Bier"]
+    },
+    {
+        "store": "spar",
+        "id": "2020003181177",
+        "name": "Linzer Bier Märzen Lager 6x0,5lt.",
+        "category": "Getränke",
+        "subcategories": ["Bier"]
+    },
+    {
+        "store": "spar",
+        "id": "2020001296828",
+        "name": "Loncium Bier dry hopped Carinthi(p)a",
+        "category": "Getränke",
+        "subcategories": ["Bier"]
+    },
+    {
+        "store": "spar",
+        "id": "2020003843556",
+        "name": "Loncium Freepa Alkoholfreies IPA",
+        "category": "Getränke",
+        "subcategories": ["Bier"]
+    },
+    {
+        "store": "spar",
+        "id": "2020003735042",
+        "name": "Linteo Nero d'Avola Sicilia DOC Appassimento 2021",
+        "category": "Getränke",
+        "subcategories": ["Wein"]
+    },
+    {
+        "store": "spar",
+        "id": "7118975",
+        "name": "Loimer Grüner Veltliner Kamptal DAC Terrassen BIODYNAMISCH 2019",
+        "category": "Getränke",
+        "subcategories": ["Wein"]
+    },
+    {
+        "store": "spar",
+        "id": "7119071",
+        "name": "Loimer Lois Grüner Veltliner Kamptal DAC BIO 2022",
+        "category": "Getränke",
+        "subcategories": ["Wein"]
+    },
+    {
+        "store": "spar",
+        "id": "8183538",
+        "name": "Loimer Riesling Kamptal DAC Reserve Terrassen BIODYNAMISCH 2019",
+        "category": "Getränke",
+        "subcategories": ["Wein"]
+    },
+    {
+        "store": "spar",
+        "id": "2020004632562",
+        "name": "Lopez de Heredia Viña Cubillo Tinto Crianza 2013",
+        "category": "Getränke",
+        "subcategories": ["Wein"]
+    },
+    {
+        "store": "spar",
+        "id": "3997581",
+        "name": "Long Life Mineralwasser mild",
+        "category": "Getränke",
+        "subcategories": ["Wasser"]
+    },
+    {
+        "store": "spar",
+        "id": "3746806",
+        "name": "Long Life Mineralwasser prickelnd",
+        "category": "Getränke",
+        "subcategories": ["Wasser"]
+    },
+    {
+        "store": "spar",
+        "id": "2020004708700",
+        "name": "Loidl Bergsalami 75 G",
+        "category": "Wurstwaren",
+        "subcategories": ["Salami"]
+    },
+    {
+        "store": "spar",
+        "id": "2020002545017",
+        "name": "Loidl Breakfastbacon",
+        "category": "Wurstwaren",
+        "subcategories": ["Speck"]
+    },
+    {
+        "store": "spar",
+        "id": "2020004112750",
+        "name": "Loidl Edel Salami Sticks",
+        "category": "Wurstwaren",
+        "subcategories": ["Salami"]
+    },
+    {
+        "store": "spar",
+        "id": "2020000845270",
+        "name": "Loidl Frische Salami",
+        "category": "Wurstwaren",
+        "subcategories": ["Salami"]
+    },
+    {
+        "store": "spar",
+        "id": "2020003189340",
+        "name": "Loidl Gebirgsjäger Chilii u. Käswurst",
+        "category": "Wurstwaren",
+        "subcategories": ["Wurst"]
+    },
+    {
+        "store": "spar",
+        "id": "4898016",
+        "name": "Loidl Haus-Salami",
+        "category": "Wurstwaren",
+        "subcategories": ["Salami"]
+    },
+    {
+        "store": "spar",
+        "id": "4937036",
+        "name": "Loidl Haus-Salami",
+        "category": "Wurstwaren",
+        "subcategories": ["Salami"]
+    },
+    {
+        "store": "spar",
+        "id": "4898153",
+        "name": "Loidl Kantwurst",
+        "category": "Wurstwaren",
+        "subcategories": ["Wurst"]
+    },
+    {
+        "store": "spar",
+        "id": "2020004311979",
+        "name": "Loidl Karreespeck",
+        "category": "Wurstwaren",
+        "subcategories": ["Speck"]
+    },
+    {
+        "store": "spar",
+        "id": "2020004708830",
+        "name": "Loidl Käswurst mit Pfeffer 75 G",
+        "category": "Wurstwaren",
+        "subcategories": ["Wurst"]
+    },
+    {
+        "store": "spar",
+        "id": "6625214",
+        "name": "Loidl Käswurst mit schwarzem Pfeffer",
+        "category": "Wurstwaren",
+        "subcategories": ["Wurst"]
+    },
+    {
+        "store": "spar",
+        "id": "2020004712936",
+        "name": "Loidl Mini Jausen Sticks 70 G",
+        "category": "Wurstwaren",
+        "subcategories": ["Wurst"]
+    },
+    {
+        "store": "spar",
+        "id": "6827113",
+        "name": "Loidl Mini-Salamis Klassik",
+        "category": "Wurstwaren",
+        "subcategories": ["Salami"]
+    },
+    {
+        "store": "spar",
+        "id": "738729",
+        "name": "Loidl Pfefferblock",
+        "category": "Wurstwaren",
+        "subcategories": ["Wurst"]
+    },
+    {
+        "store": "spar",
+        "id": "2020004708748",
+        "name": "Loidl Pfefferblock 75 G",
+        "category": "Wurstwaren",
+        "subcategories": ["Wurst"]
+    },
+    {
+        "store": "spar",
+        "id": "7447174",
+        "name": "Loidl Pfefferblock geschnitten",
+        "category": "Wurstwaren",
+        "subcategories": ["Wurst"]
+    },
+    {
+        "store": "spar",
+        "id": "5293261",
+        "name": "Loidl Puten-Kantwurst",
+        "category": "Wurstwaren",
+        "subcategories": ["Wurst"]
+    },
+    {
+        "store": "spar",
+        "id": "2020002742881",
+        "name": "Loidl Putensalami Selektion Selektion",
+        "category": "Wurstwaren",
+        "subcategories": ["Salami"]
+    },
+    {
+        "store": "spar",
+        "id": "2020001675616",
+        "name": "Loidl Putensalami geschnitten",
+        "category": "Wurstwaren",
+        "subcategories": ["Salami"]
+    },
+    {
+        "store": "spar",
+        "id": "2020000882428",
+        "name": "Loidl Salami Mit Steinpilz",
+        "category": "Wurstwaren",
+        "subcategories": ["Salami"]
+    },
+    {
+        "store": "spar",
+        "id": "2020003192586",
+        "name": "Loidl Salami Sticks",
+        "category": "Wurstwaren",
+        "subcategories": ["Salami"]
+    },
+    {
+        "store": "spar",
+        "id": "2020001889112",
+        "name": "Loidl Salami im Chili Mantel",
+        "category": "Wurstwaren",
+        "subcategories": ["Salami"]
+    },
+    {
+        "store": "spar",
+        "id": "4839408",
+        "name": "Loidl Salami im Kürbiskern-Mantel",
+        "category": "Wurstwaren",
+        "subcategories": ["Salami"]
+    },
+    {
+        "store": "spar",
+        "id": "6619138",
+        "name": "Loidl Salami mit grünem Pfeffer",
+        "category": "Wurstwaren",
+        "subcategories": ["Salami"]
+    },
+    {
+        "store": "spar",
+        "id": "4839354",
+        "name": "Loidl Verhackert",
+        "category": "Wurstwaren",
+        "subcategories": ["Wurst"]
+    },
+    {
+        "store": "spar",
+        "id": "2020004357878",
+        "name": "Loidl rustikale Selektion",
+        "category": "Wurstwaren",
+        "subcategories": ["Wurst"]
+    },
+    {
+        "store": "spar",
+        "id": "2020003109713",
+        "name": "Little Moons Mochi Himbeere 6 Stück 192g Packung",
+        "category": "Süßwaren",
+        "subcategories": ["Mochi"]
+    },
+    {
+        "store": "spar",
+        "id": "2020003109683",
+        "name": "Little Moons Mochi Kokosnuss 6 Stück 192g Packung",
+        "category": "Süßwaren",
+        "subcategories": ["Mochi"]
+    },
+    {
+        "store": "spar",
+        "id": "2020003109706",
+        "name": "Little Moons Mochi Mango",
+        "category": "Süßwaren",
+        "subcategories": ["Mochi"]
+    },
+    {
+        "store": "spar",
+        "id": "2020003547959",
+        "name": "Little Moons Mochi Passionsfrucht & Mango",
+        "category": "Süßwaren",
+        "subcategories": ["Mochi"]
+    },
+    {
+        "store": "spar",
+        "id": "2020003972508",
+        "name": "Livis Bio Fruchtkonfekt Kokos 24G",
+        "category": "Süßwaren",
+        "subcategories": ["Fruchtkonfekt"]
+    },
+    {
+        "store": "spar",
+        "id": "2020003407338",
+        "name": "Livis Haselnuss Schoko",
+        "category": "Süßwaren",
+        "subcategories": ["Schokolade"]
+    },
+    {
+        "store": "spar",
+        "id": "2020003407291",
+        "name": "Livis Heidelbeere Vanille",
+        "category": "Süßwaren",
+        "subcategories": ["Joghurt"]
+    },
+    {
+        "store": "spar",
+        "id": "2020003407352",
+        "name": "Livis Himbeere Kakao",
+        "category": "Süßwaren",
+        "subcategories": ["Joghurt"]
+    },
+    {
+        "store": "spar",
+        "id": "2020003793424",
+        "name": "Lorado Instant Nudeln mit Gemüsegeschmack",
+        "category": "Lebensmittel",
+        "subcategories": ["Instant Nudeln"]
+    },
+    {
+        "store": "spar",
+        "id": "2020003793400",
+        "name": "Lorado Instant Nudeln mit Hühnerfleischgeschmack",
+        "category": "Lebensmittel",
+        "subcategories": ["Instant Nudeln"]
+    },
+    {
+        "store": "spar",
+        "id": "2020003793431",
+        "name": "Lorado Instant Nudeln mit Rindfleischgeschmack",
+        "category": "Lebensmittel",
+        "subcategories": ["Instant Nudeln"]
+    },
+    {
+        "store": "spar",
+        "id": "2020002901424",
+        "name": "Lizza Bio-Spirelli  aus Leinsamen",
+        "category": "Lebensmittel",
+        "subcategories": ["Nudeln"]
+    },
+    {
+        "store": "spar",
+        "id": "7703386",
+        "name": "Lorenz Cashew Cranberry Mix ungesalzen",
+        "category": "Süßwaren",
+        "subcategories": ["Cashew"]
+    },
+    {
+        "store": "spar",
+        "id": "2791203",
+        "name": "Lorenz Cashews geröstet & gesalzen",
+        "category": "Süßwaren",
+        "subcategories": ["Cashew"]
+    },
+    {
+        "store": "spar",
+        "id": "2020004546944",
+        "name": "Lorenz Crunchips Cheese and Onion",
+        "category": "Süßwaren",
+        "subcategories": ["Chips"]
+    },
+    {
+        "store": "spar",
+        "id": "2020004706027",
+        "name": "Lorenz Crunchips Hot Paprika",
+        "category": "Süßwaren",
+        "subcategories": ["Chips"]
+    },
+    {
+        "store": "spar",
+        "id": "4321941",
+        "name": "Lorenz Crunchips Paprika",
+        "category": "Süßwaren",
+        "subcategories": ["Chips"]
+    },
+    {
+        "store": "spar",
+        "id": "2020003201738",
+        "name": "Lorenz Crunchips Party Pack Paprika",
+        "category": "Süßwaren",
+        "subcategories": ["Chips"]
+    },
+    {
+        "store": "spar",
+        "id": "4321958",
+        "name": "Lorenz Crunchips Red Chili",
+        "category": "Süßwaren",
+        "subcategories": ["Chips"]
+    },
+    {
+        "store": "spar",
+        "id": "2020000469247",
+        "name": "Lorenz Crunchips Roast Spare Ribs",
+        "category": "Süßwaren",
+        "subcategories": ["Chips"]
+    },
+    {
+        "store": "spar",
+        "id": "2020003183737",
+        "name": "Lorenz Crunchips Roasted Grilled Chicken",
+        "category": "Süßwaren",
+        "subcategories": ["Chips"]
+    },
+    {
+        "store": "spar",
+        "id": "4321910",
+        "name": "Lorenz Crunchips Salted",
+        "category": "Süßwaren",
+        "subcategories": ["Chips"]
+    },
+    {
+        "store": "spar",
+        "id": "7321306",
+        "name": "Lorenz Crunchips Western Style",
+        "category": "Süßwaren",
+        "subcategories": ["Chips"]
+    },
+    {
+        "store": "spar",
+        "id": "5899203",
+        "name": "Lorenz Crunchips X-Cut Meersalz",
+        "category": "Süßwaren",
+        "subcategories": ["Chips"]
+    },
+    {
+        "store": "spar",
+        "id": "4741251",
+        "name": "Lorenz Crunchips X-Cut Paprika",
+        "category": "Süßwaren",
+        "subcategories": ["Chips"]
+    },
+    {
+        "store": "spar",
+        "id": "2020001084746",
+        "name": "Lorenz Crunchips XXL Paprika",
+        "category": "Süßwaren",
+        "subcategories": ["Chips"]
+    },
+    {
+        "store": "spar",
+        "id": "2020001084838",
+        "name": "Lorenz Crunchips XXL Salz",
+        "category": "Süßwaren",
+        "subcategories": ["Chips"]
+    },
+    {
+        "store": "spar",
+        "id": "1180886",
+        "name": "Lorenz Erdnusslocken Classic",
+        "category": "Süßwaren",
+        "subcategories": ["Erdnüsse"]
+    },
+    {
+        "store": "spar",
+        "id": "1180985",
+        "name": "Lorenz Erdnusslocken Mexican Style",
+        "category": "Süßwaren",
+        "subcategories": ["Erdnüsse"]
+    }
+]

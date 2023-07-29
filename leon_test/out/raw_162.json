@@ -1,0 +1,601 @@
+[{
+    "store": "spar",
+    "id": "2020004272157",
+    "name": "SPAR Suppengruen 400g",
+    "category": "Gemüse",
+    "subcategories": ["Suppengrün"]
+}, {
+    "store": "spar",
+    "id": "6643539",
+    "name": "SPAR Suppengrün",
+    "category": "Gemüse",
+    "subcategories": ["Suppengrün"]
+}, {
+    "store": "spar",
+    "id": "3362969",
+    "name": "SPAR Suppengrün",
+    "category": "Gemüse",
+    "subcategories": ["Suppengrün"]
+}, {
+    "store": "spar",
+    "id": "6178789",
+    "name": "SPAR Thymian frisch",
+    "category": "Kräuter",
+    "subcategories": ["Thymian"]
+}, {
+    "store": "spar",
+    "id": "6718381",
+    "name": "SPAR Tomate Rispe per kg",
+    "category": "Gemüse",
+    "subcategories": ["Tomate"]
+}, {
+    "store": "spar",
+    "id": "2382524",
+    "name": "SPAR Tomate San Marzano per Tasse",
+    "category": "Gemüse",
+    "subcategories": ["Tomate"]
+}, {
+    "store": "spar",
+    "id": "2020002181772",
+    "name": "SPAR Vital Bio-Austernpilze",
+    "category": "Pilze",
+    "subcategories": ["Austernpilze"]
+}, {
+    "store": "spar",
+    "id": "2020004593788",
+    "name": "SPAR Vital Bio-Kräuterseitlinge",
+    "category": "Pilze",
+    "subcategories": ["Kräuterseitlinge"]
+}, {
+    "store": "spar",
+    "id": "7885846",
+    "name": "SPAR Vital Bio-Kräuterseitlinge",
+    "category": "Pilze",
+    "subcategories": ["Kräuterseitlinge"]
+}, {
+    "store": "spar",
+    "id": "4828501",
+    "name": "SPAR Vital Italienische Edelkastanien essfertig",
+    "category": "Obst",
+    "subcategories": ["Kastanien"]
+}, {
+    "store": "spar",
+    "id": "1034547",
+    "name": "SPAR Vital Mungo-Bohnenkeimlinge",
+    "category": "Gemüse",
+    "subcategories": ["Bohnenkeimlinge"]
+}, {
+    "store": "spar",
+    "id": "2020002694081",
+    "name": "SPAR Vogerlsalat",
+    "category": "Salat",
+    "subcategories": ["Vogerlsalat"]
+}, {
+    "store": "spar",
+    "id": "2020003321993",
+    "name": "SPAR Zucchini",
+    "category": "Gemüse",
+    "subcategories": ["Zucchini"]
+}, {
+    "store": "spar",
+    "id": "7951213",
+    "name": "SPAR Zuckererbsen",
+    "category": "Gemüse",
+    "subcategories": ["Zuckererbsen"]
+}, {
+    "store": "spar",
+    "id": "6725471",
+    "name": "SPAR Zuckermais 2 Stück",
+    "category": "Gemüse",
+    "subcategories": ["Zuckermais"]
+}, {
+    "store": "spar",
+    "id": "4667230",
+    "name": "SPAR Zuckermais per Tasse",
+    "category": "Gemüse",
+    "subcategories": ["Zuckermais"]
+}, {
+    "store": "spar",
+    "id": "6918897",
+    "name": "SPAR Zwiebel gelb",
+    "category": "Gemüse",
+    "subcategories": ["Zwiebel"]
+}, {
+    "store": "spar",
+    "id": "6333898",
+    "name": "SPAR Zwiebel rot",
+    "category": "Gemüse",
+    "subcategories": ["Zwiebel"]
+}, {
+    "store": "spar",
+    "id": "1949018",
+    "name": "SPAR Zwiebel rot",
+    "category": "Gemüse",
+    "subcategories": ["Zwiebel"]
+}, {
+    "store": "spar",
+    "id": "2020003459337",
+    "name": "SPAR wie früher Bio-Knoblauch per kg",
+    "category": "Gemüse",
+    "subcategories": ["Knoblauch"]
+}, {
+    "store": "spar",
+    "id": "2020000636045",
+    "name": "SPAR wie früher Edition Stekovics Bio-Knoblauch aus Österreich",
+    "category": "Gemüse",
+    "subcategories": ["Knoblauch"]
+}, {
+    "store": "spar",
+    "id": "2020003084874",
+    "name": "SPAR wie früher Edition Stekovics Bio-Schalotten",
+    "category": "Gemüse",
+    "subcategories": ["Schalotten"]
+}, {
+    "store": "spar",
+    "id": "2020003201905",
+    "name": "Salat Duett per Stk Salat Duett EVE 1",
+    "category": "Salat",
+    "subcategories": ["Salat"]
+}, {
+    "store": "spar",
+    "id": "2020001303663",
+    "name": "Nussyy Bio Erdbeeren gefriergetrocknet",
+    "category": "Obst",
+    "subcategories": ["Erdbeeren"]
+}, {
+    "store": "spar",
+    "id": "2020001303700",
+    "name": "Nussyy Bio Gojibeeren Feel Good Spirits",
+    "category": "Obst",
+    "subcategories": ["Gojibeeren"]
+}, {
+    "store": "spar",
+    "id": "2020001303724",
+    "name": "Nussyy Bio Himbeeren gefriergetrocknet",
+    "category": "Obst",
+    "subcategories": ["Himbeeren"]
+}, {
+    "store": "spar",
+    "id": "6775414",
+    "name": "S-BUDGET Soft-Pflaumen entsteint",
+    "category": "Obst",
+    "subcategories": ["Pflaumen"]
+}, {
+    "store": "spar",
+    "id": "4660361",
+    "name": "SPAR Natur*pur Bio-Aprikosen",
+    "category": "Obst",
+    "subcategories": ["Aprikosen"]
+}, {
+    "store": "spar",
+    "id": "4660385",
+    "name": "SPAR Natur*pur Bio-Bananenchips",
+    "category": "Snacks",
+    "subcategories": ["Bananenchips"]
+}, {
+    "store": "spar",
+    "id": "2020001578900",
+    "name": "SPAR Natur*pur Bio-Cranberries getrocknet",
+    "category": "Obst",
+    "subcategories": ["Cranberries"]
+}, {
+    "store": "spar",
+    "id": "2020003894213",
+    "name": "SPAR Natur*pur Bio-Dattel-Balls Cherry-Maca",
+    "category": "Snacks",
+    "subcategories": ["Datteln"]
+}, {
+    "store": "spar",
+    "id": "2020003894169",
+    "name": "SPAR Natur*pur Bio-Dattel-Balls Walnut-Brownie",
+    "category": "Snacks",
+    "subcategories": ["Datteln"]
+}, {
+    "store": "spar",
+    "id": "2275734",
+    "name": "SPAR Natur*pur Bio-Datteln Deglet Nour-entsteint",
+    "category": "Obst",
+    "subcategories": ["Datteln"]
+}, {
+    "store": "spar",
+    "id": "2020001579853",
+    "name": "SPAR Natur*pur Bio-Datteln entsteint",
+    "category": "Obst",
+    "subcategories": ["Datteln"]
+}, {
+    "store": "spar",
+    "id": "2020001578917",
+    "name": "SPAR Natur*pur Bio-Feigen getrocknet",
+    "category": "Obst",
+    "subcategories": ["Feigen"]
+}, {
+    "store": "spar",
+    "id": "7055669",
+    "name": "SPAR Natur*pur Bio-Mangostücke",
+    "category": "Obst",
+    "subcategories": ["Mangostücke"]
+}, {
+    "store": "spar",
+    "id": "2020003852565",
+    "name": "SPAR Natur*pur Bio-Medjoul-Datteln mit Kern",
+    "category": "Obst",
+    "subcategories": ["Datteln"]
+}, {
+    "store": "spar",
+    "id": "7257216",
+    "name": "SPAR Natur*pur Bio-Pflaumen",
+    "category": "Obst",
+    "subcategories": ["Pflaumen"]
+}, {
+    "store": "spar",
+    "id": "4660354",
+    "name": "SPAR Natur*pur Bio-Rosinen",
+    "category": "Obst",
+    "subcategories": ["Rosinen"]
+}, {
+    "store": "spar",
+    "id": "4137276",
+    "name": "SPAR Natur*pur Bio-Rosinen",
+    "category": "Obst",
+    "subcategories": ["Rosinen"]
+}, {
+    "store": "spar",
+    "id": "4753124",
+    "name": "SPAR Natur*pur Bio-Weinbeeren",
+    "category": "Obst",
+    "subcategories": ["Weinbeeren"]
+}, {
+    "store": "spar",
+    "id": "6660581",
+    "name": "SPAR PREMIUM Bio-Medjoul Datteln",
+    "category": "Obst",
+    "subcategories": ["Datteln"]
+}, {
+    "store": "spar",
+    "id": "2020003789250",
+    "name": "SPAR PREMIUM Österreichische Erdbeeren gefriergetrocknet",
+    "category": "Obst",
+    "subcategories": ["Erdbeeren"]
+}, {
+    "store": "spar",
+    "id": "2020003789267",
+    "name": "SPAR PREMIUM Österreichische Himbeeren gefriergetrocknet",
+    "category": "Obst",
+    "subcategories": ["Himbeeren"]
+}, {
+    "store": "spar",
+    "id": "3813058",
+    "name": "SPAR Pflaumen entsteint und verzehrfertig",
+    "category": "Obst",
+    "subcategories": ["Pflaumen"]
+}, {
+    "store": "spar",
+    "id": "172448",
+    "name": "SPAR Rosinen ungeschwefelt 500G",
+    "category": "Obst",
+    "subcategories": ["Rosinen"]
+}, {
+    "store": "spar",
+    "id": "6682354",
+    "name": "SPAR Vital \"Kletzen\" Dörrbirnen",
+    "category": "Obst",
+    "subcategories": ["Dörrbirnen"]
+}, {
+    "store": "spar",
+    "id": "2020001461783",
+    "name": "SPAR Vital Apfelchips aus steirischen Äpfeln",
+    "category": "Obst",
+    "subcategories": ["Apfelchips"]
+}, {
+    "store": "spar",
+    "id": "2020003885211",
+    "name": "SPAR Vital Bio-Baby-Bananen getrocknet",
+    "category": "Obst",
+    "subcategories": ["Bananen"]
+}, {
+    "store": "spar",
+    "id": "7393686",
+    "name": "SPAR Vital Bio-Gojibeeren",
+    "category": "Obst",
+    "subcategories": ["Gojibeeren"]
+}, {
+    "store": "spar",
+    "id": "2020003164934",
+    "name": "SPAR Vital Bio-Heidelbeeren getrocknet",
+    "category": "Obst",
+    "subcategories": ["Heidelbeeren"]
+}, {
+    "store": "spar",
+    "id": "2020002987343",
+    "name": "SPAR Vital Bio-Jackfruit getrocknet",
+    "category": "Obst",
+    "subcategories": ["Jackfruit"]
+}, {
+    "store": "spar",
+    "id": "2020002191191",
+    "name": "SPAR Vital Bio-Mangohälften getrocknet",
+    "category": "Obst",
+    "subcategories": ["Mangos"]
+}, {
+    "store": "spar",
+    "id": "2020003613623",
+    "name": "SPAR Vital Bio-Maulbeeren getrocknet",
+    "category": "Obst",
+    "subcategories": ["Maulbeeren"]
+}, {
+    "store": "spar",
+    "id": "2020003885204",
+    "name": "SPAR Vital Bio-Zwetschken extra-groß & getrocknet",
+    "category": "Obst",
+    "subcategories": ["Zwetschken"]
+}, {
+    "store": "spar",
+    "id": "2020003746703",
+    "name": "S-BUDGET Steinofen-Kornspitz 4 Stück",
+    "category": "Brot",
+    "subcategories": ["Kornspitz"]
+}, {
+    "store": "spar",
+    "id": "2020004492319",
+    "name": "SPAR Natur*pur Bio-Dinkel-Wraps 3 Stück",
+    "category": "Brot",
+    "subcategories": ["Wraps"]
+}, {
+    "store": "spar",
+    "id": "2020004023483",
+    "name": "SPAR Natur*pur Bio-Weckerl mit Bio-Sauerteig 4 Stück",
+    "category": "Brot",
+    "subcategories": ["Weckerl"]
+}, {
+    "store": "spar",
+    "id": "2020000884231",
+    "name": "SPAR Veggie by NENI Pitabrot 6 Stück",
+    "category": "Brot",
+    "subcategories": ["Pitabrot"]
+}, {
+    "store": "spar",
+    "id": "2020002621759",
+    "name": "SPAR Wraps 6 Stück",
+    "category": "Brot",
+    "subcategories": ["Wraps"]
+}, {
+    "store": "spar",
+    "id": "2020004445308",
+    "name": "SPAR free from Bio- Haferweckerl",
+    "category": "Brot",
+    "subcategories": ["Weckerl"]
+}, {
+    "store": "spar",
+    "id": "2020003942167",
+    "name": "SPAR free from Bio- Kaisersemmeln 4 Stück",
+    "category": "Brot",
+    "subcategories": ["Kaisersemmeln"]
+}, {
+    "store": "spar",
+    "id": "2020000427155",
+    "name": "SPAR free from Bio-Baguette",
+    "category": "Brot",
+    "subcategories": ["Baguette"]
+}, {
+    "store": "spar",
+    "id": "2020003420771",
+    "name": "SPAR free from Bio-Hamburger Buns 2 Stück",
+    "category": "Brot",
+    "subcategories": ["Hamburger Buns"]
+}, {
+    "store": "spar",
+    "id": "2020003942242",
+    "name": "SPAR free from Bio-Körnerweckerl 4 Stück",
+    "category": "Brot",
+    "subcategories": ["Weckerl"]
+}, {
+    "store": "spar",
+    "id": "2020000427063",
+    "name": "SPAR free from Bio-Saaten-Baguette",
+    "category": "Brot",
+    "subcategories": ["Baguette"]
+}, {
+    "store": "spar",
+    "id": "2020003636660",
+    "name": "Nussyy Bio Dinkel-Vollkornbrot",
+    "category": "Brot",
+    "subcategories": ["Vollkornbrot"]
+}, {
+    "store": "spar",
+    "id": "2020004129468",
+    "name": "Orva American Sandwich enthält 21 Scheiben",
+    "category": "Brot",
+    "subcategories": ["American Sandwich"]
+}, {
+    "store": "spar",
+    "id": "1603521",
+    "name": "S-BUDGET Roggen-Vollkornbrot mit Sonnenblumenkernen",
+    "category": "Brot",
+    "subcategories": ["Roggen-Vollkornbrot"]
+}, {
+    "store": "spar",
+    "id": "6984984",
+    "name": "S-BUDGET Salzspitz",
+    "category": "Brot",
+    "subcategories": ["Salzspitz"]
+}, {
+    "store": "spar",
+    "id": "6797164",
+    "name": "S-BUDGET Semmel",
+    "category": "Brot",
+    "subcategories": ["Semmel"]
+}, {
+    "store": "spar",
+    "id": "2020000692386",
+    "name": "S-BUDGET Sonnenblumenbrot",
+    "category": "Brot",
+    "subcategories": ["Sonnenblumenbrot"]
+}, {
+    "store": "spar",
+    "id": "7088087",
+    "name": "S-BUDGET Toastbrot",
+    "category": "Brot",
+    "subcategories": ["Toastbrot"]
+}, {
+    "store": "spar",
+    "id": "2020003014574",
+    "name": "S-BUDGET Topfenkornbrot",
+    "category": "Brot",
+    "subcategories": ["Topfenkornbrot"]
+}, {
+    "store": "spar",
+    "id": "2020002543969",
+    "name": "S-BUDGET Vollkornbrot",
+    "category": "Brot",
+    "subcategories": ["Vollkornbrot"]
+}, {
+    "store": "spar",
+    "id": "2020003624346",
+    "name": "S-BUDGET Weißbrot geschnitten",
+    "category": "Brot",
+    "subcategories": ["Weißbrot"]
+}, {
+    "store": "spar",
+    "id": "7898976",
+    "name": "S-BUDGET original Kornspitz",
+    "category": "Brot",
+    "subcategories": ["Kornspitz"]
+}, {
+    "store": "spar",
+    "id": "2020003092756",
+    "name": "SPAR Natur*pur Bio-Baguette de Paris",
+    "category": "Brot",
+    "subcategories": ["Baguette"]
+}, {
+    "store": "spar",
+    "id": "1604061",
+    "name": "SPAR Natur*pur Bio-Brotkörbchen",
+    "category": "Brot",
+    "subcategories": ["Brotkörbchen"]
+}, {
+    "store": "spar",
+    "id": "7914423",
+    "name": "SPAR Natur*pur Bio-Bäckerzeile",
+    "category": "Brot",
+    "subcategories": ["Bäckerzeile"]
+}, {
+    "store": "spar",
+    "id": "2271729",
+    "name": "SPAR Natur*pur Bio-Dinkel-Vollkornbrot",
+    "category": "Brot",
+    "subcategories": ["Vollkornbrot"]
+}, {
+    "store": "spar",
+    "id": "2020003624353",
+    "name": "SPAR Natur*pur Bio-Dinkel-Vollkornbrot",
+    "category": "Brot",
+    "subcategories": ["Vollkornbrot"]
+}, {
+    "store": "spar",
+    "id": "2020003711978",
+    "name": "SPAR Natur*pur Bio-Dinkelwurzel",
+    "category": "Brot",
+    "subcategories": ["Dinkelwurzel"]
+}, {
+    "store": "spar",
+    "id": "2020001465439",
+    "name": "SPAR Natur*pur Bio-Einkornbrot",
+    "category": "Brot",
+    "subcategories": ["Einkornbrot"]
+}, {
+    "store": "spar",
+    "id": "2020003189838",
+    "name": "SPAR Natur*pur Bio-Eiweißbrot",
+    "category": "Brot",
+    "subcategories": ["Eiweißbrot"]
+}, {
+    "store": "spar",
+    "id": "2020003059735",
+    "name": "SPAR Natur*pur Bio-Roggen-Vollkornbrot",
+    "category": "Brot",
+    "subcategories": ["Roggen-Vollkornbrot"]
+}, {
+    "store": "spar",
+    "id": "2020003059742",
+    "name": "SPAR Natur*pur Bio-Roggen-Vollkornbrot Leinsamen",
+    "category": "Brot",
+    "subcategories": ["Roggen-Vollkornbrot"]
+}, {
+    "store": "spar",
+    "id": "2304199",
+    "name": "SPAR Natur*pur Bio-Roggenbrot",
+    "category": "Brot",
+    "subcategories": ["Roggenbrot"]
+}, {
+    "store": "spar",
+    "id": "2020001698387",
+    "name": "SPAR Natur*pur Bio-Roggenweckerl",
+    "category": "Brot",
+    "subcategories": ["Roggenweckerl"]
+}, {
+    "store": "spar",
+    "id": "2020001325436",
+    "name": "SPAR Natur*pur Bio-Semmel",
+    "category": "Brot",
+    "subcategories": ["Semmel"]
+}, {
+    "store": "spar",
+    "id": "2020004103505",
+    "name": "SPAR Natur*pur Bio-Spitzweckerl",
+    "category": "Brot",
+    "subcategories": ["Spitzweckerl"]
+}, {
+    "store": "spar",
+    "id": "5157099",
+    "name": "SPAR Natur*pur Bio-Vollkorn-Toast",
+    "category": "Brot",
+    "subcategories": ["Vollkorn-Toast"]
+}, {
+    "store": "spar",
+    "id": "2511993",
+    "name": "SPAR Natur*pur Steirerfladen",
+    "category": "Brot",
+    "subcategories": ["Steirerfladen"]
+}, {
+    "store": "spar",
+    "id": "8080196",
+    "name": "SPAR PREMIUM Backstuben PREMIUM Baguette",
+    "category": "Brot",
+    "subcategories": ["Baguette"]
+}, {
+    "store": "spar",
+    "id": "2020001719105",
+    "name": "SPAR PREMIUM Baguette Klassik",
+    "category": "Brot",
+    "subcategories": ["Baguette"]
+}, {
+    "store": "spar",
+    "id": "2020001719198",
+    "name": "SPAR PREMIUM Baguette Korn",
+    "category": "Brot",
+    "subcategories": ["Baguette"]
+}, {
+    "store": "spar",
+    "id": "8062710",
+    "name": "SPAR PREMIUM Bio Handsemmel",
+    "category": "Brot",
+    "subcategories": ["Handsemmel"]
+}, {
+    "store": "spar",
+    "id": "2020002966836",
+    "name": "SPAR PREMIUM Edition Johanna Maier Mühlviertler Bio-Dinkel- Roggenbrot backofenfrisch",
+    "category": "Brot",
+    "subcategories": ["Dinkel-Roggenbrot"]
+}, {
+    "store": "spar",
+    "id": "7386473",
+    "name": "SPAR Pumpernickel",
+    "category": "Brot",
+    "subcategories": ["Pumpernickel"]
+}, {
+    "store": "spar",
+    "id": "2020004161956",
+    "name": "SPAR Roggenmischbrot geschnitten",
+    "category": "Brot",
+    "subcategories": ["Roggenmischbrot"]
+}]

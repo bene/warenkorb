@@ -1,0 +1,702 @@
+[
+  {
+    "store": "spar",
+    "id": "5987535",
+    "name": "Pago Erdbeere",
+    "category": "Fruchtsaft",
+    "subcategories": ["Erdbeere", "Fruchtsaft"]
+  },
+  {
+    "store": "spar",
+    "id": "5678204",
+    "name": "Pago Johannisbeere",
+    "category": "Fruchtsaft",
+    "subcategories": ["Johannisbeere", "Fruchtsaft"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004652690",
+    "name": "Pago Mango",
+    "category": "Fruchtsaft",
+    "subcategories": ["Mango", "Fruchtsaft"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004652676",
+    "name": "Pago Marille",
+    "category": "Fruchtsaft",
+    "subcategories": ["Marille", "Aprikose", "Fruchtsaft"]
+  },
+  {
+    "store": "spar",
+    "id": "5679263",
+    "name": "Pago Marille",
+    "category": "Fruchtsaft",
+    "subcategories": ["Marille", "Aprikose", "Fruchtsaft"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004142320",
+    "name": "Pago Orange-Karotte-Zitrone",
+    "category": "Fruchtsaft",
+    "subcategories": ["Orange-Karotte-Zitrone", "Fruchtsaft"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004142207",
+    "name": "Pago Orange-Mango",
+    "category": "Fruchtsaft",
+    "subcategories": ["Orange-Mango", "Fruchtsaft"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004652775",
+    "name": "Pago Pfirsich",
+    "category": "Fruchtsaft",
+    "subcategories": ["Pfirsich", "Fruchtsaft"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003865114",
+    "name": "Pago Roter ACE",
+    "category": "Fruchtsaft",
+    "subcategories": ["Roter ACE", "Fruchtsaft"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004073037",
+    "name": "S-BUDGET Traube gespritzt 6x0,5l",
+    "category": "Fruchtsaft",
+    "subcategories": ["Traube", "Fruchtsaft"]
+  },
+  {
+    "store": "spar",
+    "id": "1207347",
+    "name": "S-BUDGET Wiener Eiskaffee",
+    "category": "Kaffee",
+    "subcategories": ["Eiskaffee", "Kaffee"]
+  },
+  {
+    "store": "spar",
+    "id": "7031519",
+    "name": "SPAR Natur*pur Bio-Apfelsaft direkt gepresst",
+    "category": "Fruchtsaft",
+    "subcategories": ["Bio-Apfelsaft", "Apfelsaft", "Fruchtsaft"]
+  },
+  {
+    "store": "spar",
+    "id": "5509324",
+    "name": "SPAR Natur*pur Bio-Apfelsaft gespritzt",
+    "category": "Fruchtsaft",
+    "subcategories": ["Bio-Apfelsaft", "Apfelsaft", "Fruchtsaft"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003217067",
+    "name": "SPAR Natur*pur Bio-Aroniasaft",
+    "category": "Fruchtsaft",
+    "subcategories": ["Bio-Aroniasaft", "Aroniasaft", "Fruchtsaft"]
+  },
+  {
+    "store": "spar",
+    "id": "1090000",
+    "name": "SPAR Natur*pur Bio-Birnenensaft naturtrüb direkt gepresst",
+    "category": "Fruchtsaft",
+    "subcategories": ["Bio-Birnenensaft", "Birnenensaft", "Fruchtsaft"]
+  },
+  {
+    "store": "spar",
+    "id": "6221904",
+    "name": "SPAR Natur*pur Bio-Blütensirup Holunderblüte",
+    "category": "Sirup",
+    "subcategories": ["Blütensirup", "Holunderblüte", "Sirup"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004508430",
+    "name": "SPAR Natur*pur Bio-Multi-Frucht",
+    "category": "Fruchtsaft",
+    "subcategories": ["Bio-Multi-Frucht", "Fruchtsaft"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002931032",
+    "name": "SPAR Natur*pur Bio-Orange mit stillem Wasser 3x 0,2l",
+    "category": "Fruchtsaft",
+    "subcategories": ["Bio-Orange", "Orange", "Fruchtsaft"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003017032",
+    "name": "SPAR Natur*pur Bio-Orange-Karottensaft direkt gepresst",
+    "category": "Fruchtsaft",
+    "subcategories": ["Bio-Orange-Karottensaft", "Fruchtsaft"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004568861",
+    "name": "SPAR Natur*pur Bio-Orange-Mango",
+    "category": "Fruchtsaft",
+    "subcategories": ["Bio-Orange-Mango", "Orange-Mango", "Fruchtsaft"]
+  },
+  {
+    "store": "spar",
+    "id": "6940720",
+    "name": "SPAR Natur*pur Bio-Orangensaft 100%",
+    "category": "Fruchtsaft",
+    "subcategories": ["Bio-Orangensaft", "Orangensaft", "Fruchtsaft"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003143892",
+    "name": "SPAR Natur*pur Bio-Orangensaft direkt gepresst",
+    "category": "Fruchtsaft",
+    "subcategories": ["Bio-Orangensaft", "Orangensaft", "Fruchtsaft"]
+  },
+  {
+    "store": "spar",
+    "id": "8132383",
+    "name": "SPAR Natur*pur Bio-Rote Rübensaft direkt gepresst",
+    "category": "Fruchtsaft",
+    "subcategories": ["Bio-Rote Rübensaft", "Rote Rübensaft", "Fruchtsaft"]
+  },
+  {
+    "store": "spar",
+    "id": "8132420",
+    "name": "SPAR Natur*pur Bio-Sauerkrautsaft direkt gepresst",
+    "category": "Gemüsesaft",
+    "subcategories": ["Bio-Sauerkrautsaft", "Sauerkrautsaft", "Gemüsesaft"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003912382",
+    "name": "SPAR Natur*pur Bio-Shot Apfel-Ingwer",
+    "category": "Shot",
+    "subcategories": ["Bio-Shot", "Apfel-Ingwer", "Shot"]
+  },
+  {
+    "store": "spar",
+    "id": "6221812",
+    "name": "SPAR Natur*pur Bio-Sirup Himbeer",
+    "category": "Sirup",
+    "subcategories": ["Bio-Sirup", "Himbeer", "Sirup"]
+  },
+  {
+    "store": "spar",
+    "id": "6221874",
+    "name": "SPAR Natur*pur Bio-Sirup Johannisbeere-Zitrone",
+    "category": "Sirup",
+    "subcategories": ["Bio-Sirup", "Johannisbeere-Zitrone", "Sirup"]
+  },
+  {
+    "store": "spar",
+    "id": "8132482",
+    "name": "SPAR Natur*pur Bio-Tomatensaft direkt gepresst",
+    "category": "Gemüsesaft",
+    "subcategories": ["Bio-Tomatensaft", "Tomatensaft", "Gemüsesaft"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003534423",
+    "name": "SPAR Natur*pur Naturtrüber Bio-Apfelsaft gespritzt",
+    "category": "Fruchtsaft",
+    "subcategories": ["Naturtrüber Bio-Apfelsaft", "Apfelsaft", "Fruchtsaft"]
+  },
+  {
+    "store": "spar",
+    "id": "6886820",
+    "name": "SPAR Orangen Limo",
+    "category": "Limousine",
+    "subcategories": ["Orangenlimo", "Limo"]
+  },
+  {
+    "store": "spar",
+    "id": "4346128",
+    "name": "SPAR Orangen Limo",
+    "category": "Limousine",
+    "subcategories": ["Orangenlimo", "Limo"]
+  },
+  {
+    "store": "spar",
+    "id": "7055935",
+    "name": "SPAR Orangen Limo",
+    "category": "Limousine",
+    "subcategories": ["Orangenlimo", "Limo"]
+  },
+  {
+    "store": "spar",
+    "id": "4285113",
+    "name": "SPAR Orangensaft 100% 4 x 1l",
+    "category": "Fruchtsaft",
+    "subcategories": ["Orangensaft", "Fruchtsaft"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002881924",
+    "name": "SPAR Orangensaft 100% mild",
+    "category": "Fruchtsaft",
+    "subcategories": ["Orangensaft", "Fruchtsaft"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004291158",
+    "name": "SPAR PREMIUM Ananassaft",
+    "category": "Fruchtsaft",
+    "subcategories": ["Ananassaft", "Fruchtsaft"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003610936",
+    "name": "SPAR PREMIUM Apfel-Ananas-Zitronen- Ingwersaft",
+    "category": "Fruchtsaft",
+    "subcategories": ["Apfel-Ananas-Zitronen-Ingwersaft", "Fruchtsaft"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003610912",
+    "name": "SPAR PREMIUM Apfel-Waldbeerensaft",
+    "category": "Fruchtsaft",
+    "subcategories": ["Apfel-Waldbeerensaft", "Fruchtsaft"]
+  },
+  {
+    "store": "spar",
+    "id": "8181138",
+    "name": "SPAR PREMIUM Apfesaft naturtrüb direkt gepresst",
+    "category": "Fruchtsaft",
+    "subcategories": ["Apfesaft", "Fruchtsaft"]
+  },
+  {
+    "store": "spar",
+    "id": "1679410",
+    "name": "SPAR PREMIUM Traubensaft Zweigelt direkt gepresst",
+    "category": "Fruchtsaft",
+    "subcategories": ["Traubensaft", "Fruchtsaft"]
+  },
+  {
+    "store": "spar",
+    "id": "3065419",
+    "name": "SPAR Schwarze Johannisbeere",
+    "category": "Fruchtsaft",
+    "subcategories": ["Schwarze Johannisbeere", "Fruchtsaft"]
+  },
+  {
+    "store": "spar",
+    "id": "2020000409984",
+    "name": "SPAR Steirischer Apfel gespritzt",
+    "category": "Fruchtsaft",
+    "subcategories": ["Steirischer Apfel", "Fruchtsaft"]
+  },
+  {
+    "store": "spar",
+    "id": "2317205",
+    "name": "SPAR Steirischer Apfel gespritzt",
+    "category": "Fruchtsaft",
+    "subcategories": ["Steirischer Apfel", "Fruchtsaft"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001691920",
+    "name": "SPAR Steirischer Apfel still",
+    "category": "Fruchtsaft",
+    "subcategories": ["Steirischer Apfel", "Fruchtsaft"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002518042",
+    "name": "SPAR Tonic Water",
+    "category": "Tonic",
+    "subcategories": ["Tonic Water", "Tonic"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003165931",
+    "name": "SPAR Tonic Water Sirup",
+    "category": "Sirup",
+    "subcategories": ["Tonic Water", "Sirup"]
+  },
+  {
+    "store": "spar",
+    "id": "5579235",
+    "name": "SPAR Traubensaft rot direkt gepresst",
+    "category": "Fruchtsaft",
+    "subcategories": ["Traubensaft", "Fruchtsaft"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004051684",
+    "name": "SPAR Vital Apfel-Holunderblüte mit stillem Wasser",
+    "category": "Fruchtsaft",
+    "subcategories": ["Vital Apfel-Holunderblüte", "Fruchtsaft"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004051639",
+    "name": "SPAR Vital Apfel-Johannisbeer mit stillem Wasser",
+    "category": "Fruchtsaft",
+    "subcategories": ["Vital Apfel-Johannisbeer", "Fruchtsaft"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002518158",
+    "name": "SPAR Wild Berry",
+    "category": "Fruchtsaft",
+    "subcategories": ["Wild Berry", "Fruchtsaft"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003165962",
+    "name": "SPAR Wild Berry Sirup",
+    "category": "Sirup",
+    "subcategories": ["Wild Berry", "Sirup"]
+  },
+  {
+    "store": "spar",
+    "id": "7056659",
+    "name": "SPAR Zitonen Limo",
+    "category": "Limousine",
+    "subcategories": ["Zitronenlimo", "Limo"]
+  },
+  {
+    "store": "spar",
+    "id": "6869434",
+    "name": "SPAR Zitronen Limo",
+    "category": "Limousine",
+    "subcategories": ["Zitronenlimo", "Limo"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003587115",
+    "name": "SPAR enjoy Bio-Aronia Limonade",
+    "category": "Limonade",
+    "subcategories": ["Bio-Aronia", "Limonade"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002104641",
+    "name": "SPAR enjoy Bio-Cola natural",
+    "category": "Limonade",
+    "subcategories": ["Bio-Cola", "Cola", "Limonade"]
+  },
+  {
+    "store": "spar",
+    "id": "2020000595519",
+    "name": "SPAR enjoy Cappuccino Grande",
+    "category": "Kaffee",
+    "subcategories": ["Cappuccino", "Kaffee"]
+  },
+  {
+    "store": "spar",
+    "id": "2376189",
+    "name": "SPAR enjoy Enjoy Smoothie Cherry & Co",
+    "category": "Smoothie",
+    "subcategories": ["Enjoy Smoothie", "Cherry", "Smoothie"]
+  },
+  {
+    "store": "spar",
+    "id": "4373315",
+    "name": "SPAR enjoy Green Tea Honey",
+    "category": "Tee",
+    "subcategories": ["Green Tea Honey", "Tee"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002104276",
+    "name": "SPAR enjoy Green Tea Honey",
+    "category": "Tee",
+    "subcategories": ["Green Tea Honey", "Tee"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003237119",
+    "name": "SPAR enjoy Natural Energy Drink Classic",
+    "category": "Energy Drink",
+    "subcategories": ["Natural Energy Drink", "Classic", "Energy Drink"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002622787",
+    "name": "SPAR enjoy Orange Smoothie Cold pressed",
+    "category": "Smoothie",
+    "subcategories": ["Orange Smoothie", "Cold pressed", "Smoothie"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004311023",
+    "name": "SPAR enjoy Power-Smoothie Cell°-Boost",
+    "category": "Smoothie",
+    "subcategories": ["Power-Smoothie", "Cell°-Boost", "Smoothie"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004310989",
+    "name": "SPAR enjoy Power-Smoothie Energy-Boost",
+    "category": "Smoothie",
+    "subcategories": ["Power-Smoothie", "Energy-Boost", "Smoothie"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004310934",
+    "name": "SPAR enjoy Power-Smoothie Vitamin-Boost",
+    "category": "Smoothie",
+    "subcategories": ["Power-Smoothie", "Vitamin-Boost", "Smoothie"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002622756",
+    "name": "SPAR enjoy Red Smoothie Cold pressed",
+    "category": "Smoothie",
+    "subcategories": ["Red Smoothie", "Cold pressed", "Smoothie"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003270918",
+    "name": "SPAR enjoy Shot Ananas & Kurkuma",
+    "category": "Shot",
+    "subcategories": ["Shot", "Ananas", "Kurkuma"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003271168",
+    "name": "SPAR enjoy Shot Apfel & Ingwer",
+    "category": "Shot",
+    "subcategories": ["Shot", "Apfel", "Ingwer"]
+  },
+  {
+    "store": "spar",
+    "id": "2978949",
+    "name": "SPAR enjoy Smoothie & Water Mango Tango",
+    "category": "Smoothie",
+    "subcategories": ["Smoothie & Water", "Mango Tango", "Smoothie"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003537462",
+    "name": "SPAR enjoy Smoothie & Water Pink Dragon",
+    "category": "Smoothie",
+    "subcategories": ["Smoothie & Water", "Pink Dragon", "Smoothie"]
+  },
+  {
+    "store": "spar",
+    "id": "2352886",
+    "name": "SPAR enjoy Smoothie Applelicious",
+    "category": "Smoothie",
+    "subcategories": ["Smoothie", "Applelicious"]
+  },
+  {
+    "store": "spar",
+    "id": "2020000837411",
+    "name": "SPAR enjoy Smoothie Flotte Karotte",
+    "category": "Smoothie",
+    "subcategories": ["Smoothie", "Flotte Karotte"]
+  },
+  {
+    "store": "spar",
+    "id": "2376196",
+    "name": "SPAR enjoy Smoothie Orange Sunrise",
+    "category": "Smoothie",
+    "subcategories": ["Smoothie", "Orange Sunrise"]
+  },
+  {
+    "store": "spar",
+    "id": "4388180",
+    "name": "SPAR enjoy White Tea Blueberry",
+    "category": "Tee",
+    "subcategories": ["White Tea Blueberry", "Tee"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002104368",
+    "name": "SPAR enjoy White Tea Blueberry",
+    "category": "Tee",
+    "subcategories": ["White Tea Blueberry", "Tee"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002622701",
+    "name": "SPAR enjoy Yellow Smoothie Cold pressed",
+    "category": "Smoothie",
+    "subcategories": ["Yellow Smoothie", "Cold pressed", "Smoothie"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003608322",
+    "name": "Saftgarten Bio Sommer Früchte- & Kräutertee",
+    "category": "Tee",
+    "subcategories": ["Bio Sommer Früchte- & Kräutertee", "Tee"]
+  },
+  {
+    "store": "spar",
+    "id": "5933655",
+    "name": "Ottakringer Dunkles Dunkles 6x0,5lt",
+    "category": "Bier",
+    "subcategories": ["Dunkles", "Bier"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001630431",
+    "name": "Ottakringer Gmischtes",
+    "category": "Bier",
+    "subcategories": ["Gmischtes", "Bier"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002443450",
+    "name": "Ottakringer Helles",
+    "category": "Bier",
+    "subcategories": ["Helles", "Bier"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002110703",
+    "name": "Ottakringer Helles",
+    "category": "Bier",
+    "subcategories": ["Helles", "Bier"]
+  },
+  {
+    "store": "spar",
+    "id": "5668427",
+    "name": "Ottakringer Helles",
+    "category": "Bier",
+    "subcategories": ["Helles", "Bier"]
+  },
+  {
+    "store": "spar",
+    "id": "795463",
+    "name": "Ottakringer Helles",
+    "category": "Bier",
+    "subcategories": ["Helles", "Bier"]
+  },
+  {
+    "store": "spar",
+    "id": "7935473",
+    "name": "Ottakringer Helles",
+    "category": "Bier",
+    "subcategories": ["Helles", "Bier"]
+  },
+  {
+    "store": "spar",
+    "id": "7946240",
+    "name": "Ottakringer Helles 6 x 0,5l",
+    "category": "Bier",
+    "subcategories": ["Helles", "Bier"]
+  },
+  {
+    "store": "spar",
+    "id": "3508367",
+    "name": "Ottakringer Nullkomma Josef Alkoholfreies Bier 6 x 0,5l",
+    "category": "Bier",
+    "subcategories": ["Nullkomma Josef", "Alkoholfreies Bier", "Bier"]
+  },
+  {
+    "store": "spar",
+    "id": "5668960",
+    "name": "Ottakringer Radler Citrus",
+    "category": "Bier",
+    "subcategories": ["Radler Citrus", "Bier"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002531133",
+    "name": "Ottakringer Radler Citrus",
+    "category": "Bier",
+    "subcategories": ["Radler Citrus", "Bier"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003387708",
+    "name": "Ottakringer Radler alkoholfrei Zitrone Minze 6x0,5lt",
+    "category": "Bier",
+    "subcategories": ["Radler alkoholfrei", "Zitrone", "Minze", "Bier"]
+  },
+  {
+    "store": "spar",
+    "id": "2020000735144",
+    "name": "Ottakringer Wiener Original",
+    "category": "Bier",
+    "subcategories": ["Wiener Original", "Bier"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001629213",
+    "name": "Ottakringer Wiener Original",
+    "category": "Bier",
+    "subcategories": ["Wiener Original", "Bier"]
+  },
+  {
+    "store": "spar",
+    "id": "2758398",
+    "name": "Ottakringer Wiener Original Wiener Original 6 x 0,5l",
+    "category": "Bier",
+    "subcategories": ["Wiener Original", "Bier"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004667786",
+    "name": "Ozujsko Bier Lager",
+    "category": "Bier",
+    "subcategories": ["Bier", "Lager"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003592799",
+    "name": "Nussyy Bio Aktiv-Tee Ingwer-Orange 20 Teebeutel",
+    "category": "Tee",
+    "subcategories": ["Bio Aktiv-Tee", "Ingwer-Orange", "Tee"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003589485",
+    "name": "Nussyy Bio Kuschel-Tee Lemon-Hibiskus 20 Teebeutel",
+    "category": "Tee",
+    "subcategories": ["Bio Kuschel-Tee", "Lemon-Hibiskus", "Tee"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003592195",
+    "name": "Nussyy Bio Ruhe-Tee Salbei-Zitrone 20 Teebeutel",
+    "category": "Tee",
+    "subcategories": ["Bio Ruhe-Tee", "Salbei-Zitrone", "Tee"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003152283",
+    "name": "Nussyy Bio Träume-Tee Kamille-Melisse 20 Teebeutel",
+    "category": "Tee",
+    "subcategories": ["Bio Träume-Tee", "Kamille-Melisse", "Tee"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003805028",
+    "name": "Or Tea? Bio-Schwarztee Earl Grey Duke's Blues 10 Teebeutel",
+    "category": "Tee",
+    "subcategories": ["Bio-Schwarztee", "Earl Grey Duke's Blues", "Tee"]
+  },
+  {
+    "store": "spar",
+    "id": "7491108",
+    "name": "Ovomaltine Der Klassiker",
+    "category": "Getränkepulver",
+    "subcategories": ["Ovomaltine", "Getränkepulver"]
+  },
+  {
+    "store": "spar",
+    "id": "861786",
+    "name": "Ovomaltine Kakao",
+    "category": "Getränkepulver",
+    "subcategories": ["Ovomaltine", "Kakao", "Getränkepulver"]
+  },
+  {
+    "store": "spar",
+    "id": "7379628",
+    "name": "S-BUDGET Turbo Tea 20 Teebeutel",
+    "category": "Tee",
+    "subcategories": ["Turbo Tea", "Tee"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004409898",
+    "name": "S-BUDGET Typ Cappuccino Latte Macchiato",
+    "category": "Kaffee",
+    "subcategories": ["Cappuccino", "Latte Macchiato", "Kaffee"]
+  }
+]

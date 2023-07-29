@@ -1,0 +1,702 @@
+[
+  {
+    "store": "spar",
+    "id": "2020002577872",
+    "name": "Zagler Bio Honigmüsli Erdmandel",
+    "category": "Müsli",
+    "subcategories": ["Bio", "Honig", "Erdmandel"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002576202",
+    "name": "Zagler Bio Honigmüsli Ingwer-Zimt",
+    "category": "Müsli",
+    "subcategories": ["Bio", "Honig", "Ingwer-Zimt"]
+  },
+  {
+    "store": "spar",
+    "id": "2020000906339",
+    "name": "Zagler Bio Müsli Honig",
+    "category": "Müsli",
+    "subcategories": ["Bio", "Honig"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003729768",
+    "name": "familia Flakes n'Clusters Granatapfel Beeren Kakao",
+    "category": "Müsli",
+    "subcategories": ["Flakes n'Clusters", "Granatapfel", "Beeren", "Kakao"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004430175",
+    "name": "familia Flakes n'Clusters Mindful Knuspermüsli Nüsse, Samen & Kerne",
+    "category": "Müsli",
+    "subcategories": ["Flakes n'Clusters", "Mindful", "Knuspermüsli", "Nüsse", "Samen", "Kerne"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004430182",
+    "name": "familia Flakes n'Clusters Youthful Knuspermüsli Granatapfel, Beeren & Kakao",
+    "category": "Müsli",
+    "subcategories": ["Flakes n'Clusters", "Youthful", "Knuspermüsli", "Granatapfel", "Beeren", "Kakao"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003729744",
+    "name": "familia Knusper Müsli nuts & seeds 350G",
+    "category": "Müsli",
+    "subcategories": ["Knusper Müsli", "Nüsse", "Samen"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003729751",
+    "name": "familia Pure Granola Crunchy Müsli 375G",
+    "category": "Müsli",
+    "subcategories": ["Pure Granola", "Crunchy Müsli"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004430199",
+    "name": "familia Pure Granola Knuspermüsli natur",
+    "category": "Müsli",
+    "subcategories": ["Pure Granola", "Knuspermüsli", "natur"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003763045",
+    "name": "foodspring Protein Cream 200g",
+    "category": "Protein",
+    "subcategories": ["Protein Cream"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003834752",
+    "name": "foodspring Proteincreme Duo 200g",
+    "category": "Protein",
+    "subcategories": ["Proteincreme Duo"]
+  },
+  {
+    "store": "spar",
+    "id": "7489846",
+    "name": "Yutaka 5 Blätter",
+    "category": "Sushi",
+    "subcategories": []
+  },
+  {
+    "store": "spar",
+    "id": "7483349",
+    "name": "Yutaka Sushi-Ingwer",
+    "category": "Sushi",
+    "subcategories": []
+  },
+  {
+    "store": "spar",
+    "id": "2020003793257",
+    "name": "Zucchini gegrillt 170 G",
+    "category": "Gemüse",
+    "subcategories": ["gegrillt"]
+  },
+  {
+    "store": "spar",
+    "id": "569545",
+    "name": "Voralberger Mehl für Spätzle 1KG",
+    "category": "Mehl",
+    "subcategories": ["für Spätzle"]
+  },
+  {
+    "store": "spar",
+    "id": "556880",
+    "name": "Voralberger Pizzamehl 1KG",
+    "category": "Mehl",
+    "subcategories": ["Pizzamehl"]
+  },
+  {
+    "store": "spar",
+    "id": "6419929",
+    "name": "Wallner Bio-Bandnudeln",
+    "category": "Nudeln",
+    "subcategories": ["Bio", "Bandnudeln"]
+  },
+  {
+    "store": "spar",
+    "id": "6419837",
+    "name": "Wallner Bio-Rüscherl 300G",
+    "category": "Nudeln",
+    "subcategories": ["Bio", "Rüscherl"]
+  },
+  {
+    "store": "spar",
+    "id": "6419783",
+    "name": "Wallner Bio-Rüscherl bunt",
+    "category": "Nudeln",
+    "subcategories": ["Bio", "Rüscherl", "bunt"]
+  },
+  {
+    "store": "spar",
+    "id": "6420123",
+    "name": "Wallner Bio-Spaghetti",
+    "category": "Nudeln",
+    "subcategories": ["Bio", "Spaghetti"]
+  },
+  {
+    "store": "spar",
+    "id": "6420130",
+    "name": "Wallner Bio-Spaghetti bunt",
+    "category": "Nudeln",
+    "subcategories": ["Bio", "Spaghetti", "bunt"]
+  },
+  {
+    "store": "spar",
+    "id": "6419868",
+    "name": "Wallner Bio-Suppen fein",
+    "category": "Suppen",
+    "subcategories": ["Bio", "Suppen"]
+  },
+  {
+    "store": "spar",
+    "id": "951166",
+    "name": "Wolf Eigold Tiere",
+    "category": "Eier",
+    "subcategories": ["Eigold Tiere"]
+  },
+  {
+    "store": "spar",
+    "id": "7375408",
+    "name": "Wolf Goldfaden Suppennudeln",
+    "category": "Nudeln",
+    "subcategories": ["Goldfaden", "Suppennudeln"]
+  },
+  {
+    "store": "spar",
+    "id": "2020000691860",
+    "name": "Yutaka Sushi Kit for 2",
+    "category": "Sushi",
+    "subcategories": ["Kit", "for 2"]
+  },
+  {
+    "store": "spar",
+    "id": "2020000992035",
+    "name": "Yutaka Sushi Rice Originario",
+    "category": "Sushi",
+    "subcategories": ["Rice Originario"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004409737",
+    "name": "Yopongo Aioli mit Olivenöl extra nativ",
+    "category": "Soßen",
+    "subcategories": ["Aioli", "Olivenöl extra nativ"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003755248",
+    "name": "natura Royal Salat mild",
+    "category": "Salat",
+    "subcategories": ["Royal Salat", "mild"]
+  },
+  {
+    "store": "spar",
+    "id": "4449089",
+    "name": "demeter Bio Maisgriess",
+    "category": "Getreide",
+    "subcategories": ["Bio", "Maisgriess"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003664519",
+    "name": "foodspring Protein Bar Choco Peanut 65g",
+    "category": "Protein",
+    "subcategories": ["Protein Bar", "Choco Peanut"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003768934",
+    "name": "foodspring Protein Brownie Brownie 250g",
+    "category": "Protein",
+    "subcategories": ["Protein Brownie", "Brownie"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003747342",
+    "name": "foodspring Protein Cream Cocos Crisp Cocos Crisp 200g",
+    "category": "Protein",
+    "subcategories": ["Protein Cream", "Cocos Crisp"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003817847",
+    "name": "foodspring Proteinriegel Caramel 65G",
+    "category": "Protein",
+    "subcategories": ["Proteinriegel", "Caramel"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003664441",
+    "name": "foodspring Proteinriegel Chocolate Almond 60G",
+    "category": "Protein",
+    "subcategories": ["Proteinriegel", "Chocolate Almond"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003664380",
+    "name": "foodspring Proteinriegel Cookie Dough",
+    "category": "Protein",
+    "subcategories": ["Proteinriegel", "Cookie Dough"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003818110",
+    "name": "foodspring Proteinriegel Crispy Coconut 65G",
+    "category": "Protein",
+    "subcategories": ["Proteinriegel", "Crispy Coconut"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003728969",
+    "name": "foodspring Proteinriegel Extra Choc Double Choc 65g",
+    "category": "Protein",
+    "subcategories": ["Proteinriegel", "Extra Choc", "Double Choc"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003770906",
+    "name": "foodspring Shape Shake Schokolade 420g",
+    "category": "Protein",
+    "subcategories": ["Shape Shake", "Schokolade"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003768804",
+    "name": "foodspring Shape Shake Schokolade 60g",
+    "category": "Protein",
+    "subcategories": ["Shape Shake", "Schokolade"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003770869",
+    "name": "foodspring Shape Shake Vanille 420g",
+    "category": "Protein",
+    "subcategories": ["Shape Shake", "Vanille"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003768903",
+    "name": "foodspring Shape Shake Vanille 60g",
+    "category": "Protein",
+    "subcategories": ["Shape Shake", "Vanille"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003763106",
+    "name": "foodspring Vegan Protein Ball Salty Peanut Butter 40g",
+    "category": "Protein",
+    "subcategories": ["Vegan Protein Ball", "Salty Peanut Butter"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003768668",
+    "name": "foodspring Vegan Protein Balls Lemon Cake 40g",
+    "category": "Protein",
+    "subcategories": ["Vegan Protein Balls", "Lemon Cake"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003817397",
+    "name": "foodspring Whey Protein Schokolade 30g",
+    "category": "Protein",
+    "subcategories": ["Whey Protein", "Schokolade"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003817328",
+    "name": "foodspring Whey Protein Vanille 30g",
+    "category": "Protein",
+    "subcategories": ["Whey Protein", "Vanille"]
+  },
+  {
+    "store": "spar",
+    "id": "7483585",
+    "name": "Yutaka Rice Vinegar",
+    "category": "Sushi",
+    "subcategories": ["Rice Vinegar"]
+  },
+  {
+    "store": "spar",
+    "id": "4969518",
+    "name": "Wasa Delicate Crackers Sea Salt",
+    "category": "Knabbereien",
+    "subcategories": ["Delicate Crackers", "Sea Salt"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004670809",
+    "name": "Zweifel Joy Pea Snack Wasabi & Cream",
+    "category": "Snacks",
+    "subcategories": ["Joy Pea Snack", "Wasabi & Cream"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004670564",
+    "name": "Zweifel Vaya Roots Salt & Balsamico Snack",
+    "category": "Snacks",
+    "subcategories": ["Vaya Roots", "Salt & Balsamico Snack"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003128189",
+    "name": "Zweifel Vaya Snack Bean Salt",
+    "category": "Snacks",
+    "subcategories": ["Vaya Snack", "Bean", "Salt"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003997686",
+    "name": "Zweifel Vaya Snack Pea Chili Lime",
+    "category": "Snacks",
+    "subcategories": ["Vaya Snack", "Pea", "Chili Lime"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003128219",
+    "name": "Zweifel Vaya Snack Protein Paprika",
+    "category": "Snacks",
+    "subcategories": ["Vaya Snack", "Protein", "Paprika"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003694219",
+    "name": "Zweifel Vaya Snack Sweet Potato Rosmary",
+    "category": "Snacks",
+    "subcategories": ["Vaya Snack", "Sweet Potato", "Rosmary"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003425035",
+    "name": "alka Elephant Squeezed Pretzels Black & White Sesame",
+    "category": "Knabbereien",
+    "subcategories": ["Squeezed Pretzels", "Black & White Sesame"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002784713",
+    "name": "alka Elephant Squeezed Pretzels Honig-Senf-Zwiebel",
+    "category": "Knabbereien",
+    "subcategories": ["Squeezed Pretzels", "Honig-Senf-Zwiebel"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002784744",
+    "name": "alka Elephant Squeezed Pretzels Meersalz",
+    "category": "Knabbereien",
+    "subcategories": ["Squeezed Pretzels", "Meersalz"]
+  },
+  {
+    "store": "spar",
+    "id": "3632222",
+    "name": "Walkers Biscuits Stem Ginger",
+    "category": "Kekse",
+    "subcategories": ["Biscuits", "Stem Ginger"]
+  },
+  {
+    "store": "spar",
+    "id": "3632185",
+    "name": "Walkers Shortbread Fingers",
+    "category": "Kekse",
+    "subcategories": ["Shortbread Fingers"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001757411",
+    "name": "Wrigley Airwaves Bottle Extreme",
+    "category": "Kaugummi",
+    "subcategories": ["Airwaves Bottle", "Extreme"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003554070",
+    "name": "Wrigley Airwaves Cherry Menthol",
+    "category": "Kaugummi",
+    "subcategories": ["Airwaves", "Cherry Menthol"]
+  },
+  {
+    "store": "spar",
+    "id": "3128268",
+    "name": "Wrigley Airwaves Cool Cassis 46 Stück",
+    "category": "Kaugummi",
+    "subcategories": ["Airwaves", "Cool Cassis"]
+  },
+  {
+    "store": "spar",
+    "id": "2438375",
+    "name": "Wrigley Airwaves Extreme 4 x 10 Stück",
+    "category": "Kaugummi",
+    "subcategories": ["Airwaves", "Extreme"]
+  },
+  {
+    "store": "spar",
+    "id": "2010618",
+    "name": "Wrigley Airwaves Kaugummi Bottle Menthol & Eucalyptus 46 Dragees",
+    "category": "Kaugummi",
+    "subcategories": ["Airwaves Kaugummi", "Bottle Menthol & Eucalyptus"]
+  },
+  {
+    "store": "spar",
+    "id": "7083457",
+    "name": "Wrigley Airwaves Kaugummi Cool Cassis 4 x 10 Dragees",
+    "category": "Kaugummi",
+    "subcategories": ["Airwaves Kaugummi", "Cool Cassis"]
+  },
+  {
+    "store": "spar",
+    "id": "7083464",
+    "name": "Wrigley Airwaves Menthol und Eucalyptus 4 x 10 Stück",
+    "category": "Kaugummi",
+    "subcategories": ["Airwaves", "Menthol und Eucalyptus"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002448769",
+    "name": "Wrigley Orbit Apple 5er",
+    "category": "Kaugummi",
+    "subcategories": ["Orbit", "Apple"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002448530",
+    "name": "Wrigley Orbit Bottle Apple",
+    "category": "Kaugummi",
+    "subcategories": ["Orbit Bottle", "Apple"]
+  },
+  {
+    "store": "spar",
+    "id": "2010533",
+    "name": "Wrigley Orbit Bottle Peppermint 46 Stück",
+    "category": "Kaugummi",
+    "subcategories": ["Orbit Bottle", "Peppermint"]
+  },
+  {
+    "store": "spar",
+    "id": "1213249",
+    "name": "Wrigley Orbit Bottle Professional Mint Forest Fruit",
+    "category": "Kaugummi",
+    "subcategories": ["Orbit Bottle", "Professional Mint", "Forest Fruit"]
+  },
+  {
+    "store": "spar",
+    "id": "7826900",
+    "name": "Wrigley Orbit Bottle Professional Mint Strong Mint",
+    "category": "Kaugummi",
+    "subcategories": ["Orbit Bottle", "Professional Mint", "Strong Mint"]
+  },
+  {
+    "store": "spar",
+    "id": "1213201",
+    "name": "Wrigley Orbit Bottle Professional Mints Classic",
+    "category": "Kaugummi",
+    "subcategories": ["Orbit Bottle", "Professional Mints", "Classic"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003780462",
+    "name": "Wrigley Orbit Bottle Refresher Bubblemint",
+    "category": "Kaugummi",
+    "subcategories": ["Orbit Bottle", "Refresher Bubblemint"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003780400",
+    "name": "Wrigley Orbit Bottle Refresher Peppermint",
+    "category": "Kaugummi",
+    "subcategories": ["Orbit Bottle", "Refresher Peppermint"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002449056",
+    "name": "Wrigley Orbit Bottle White Strawberry",
+    "category": "Kaugummi",
+    "subcategories": ["Orbit Bottle", "White Strawberry"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002448509",
+    "name": "Wrigley Orbit Dragee White Spearmint",
+    "category": "Kaugummi",
+    "subcategories": ["Orbit Dragee", "White Spearmint"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002448127",
+    "name": "Wrigley Orbit Dragee White Sweet Mint",
+    "category": "Kaugummi",
+    "subcategories": ["Orbit Dragee", "White Sweet Mint"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002448899",
+    "name": "Wrigley Orbit Peppermint 5er",
+    "category": "Kaugummi",
+    "subcategories": ["Orbit", "Peppermint"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002448929",
+    "name": "Wrigley Orbit Spearmint 5er",
+    "category": "Kaugummi",
+    "subcategories": ["Orbit", "Spearmint"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002448677",
+    "name": "Wrigley Orbit White Bubblemint 4er",
+    "category": "Kaugummi",
+    "subcategories": ["Orbit White", "Bubblemint"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002448752",
+    "name": "Wrigley Orbit White Spearmint 4er",
+    "category": "Kaugummi",
+    "subcategories": ["Orbit White", "Spearmint"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002448622",
+    "name": "Wrigley Orbit White Strawberry 4er",
+    "category": "Kaugummi",
+    "subcategories": ["Orbit White", "Strawberry"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002448516",
+    "name": "Wrigley Orbit White Strawberry Dragees",
+    "category": "Kaugummi",
+    "subcategories": ["Orbit White", "Strawberry Dragees"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002448547",
+    "name": "Wrigley Orbit White Sweet Mint 4er",
+    "category": "Kaugummi",
+    "subcategories": ["Orbit White", "Sweet Mint"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002449124",
+    "name": "Zotter Classic Dunkle Schokolade",
+    "category": "Schokolade",
+    "subcategories": ["Classic", "Dunkle Schokolade"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002449131",
+    "name": "Zotter Classic Milchschokolade",
+    "category": "Schokolade",
+    "subcategories": ["Classic", "Milchschokolade"]
+  },
+  {
+    "store": "spar",
+    "id": "5196999",
+    "name": "Zotter Extradunkle Milchschokolade Kürbiskern mit Marzipan",
+    "category": "Schokolade",
+    "subcategories": ["Extradunkle Milchschokolade", "Kürbiskern", "Marzipan"]
+  },
+  {
+    "store": "spar",
+    "id": "5518524",
+    "name": "Zotter Handgeschöpft ButterKaramell",
+    "category": "Schokolade",
+    "subcategories": ["Handgeschöpft", "ButterKaramell"]
+  },
+  {
+    "store": "spar",
+    "id": "5518463",
+    "name": "Zotter Handgeschöpft Schoklade Alles Liebe",
+    "category": "Schokolade",
+    "subcategories": ["Handgeschöpft", "Schokolade", "Alles Liebe"]
+  },
+  {
+    "store": "spar",
+    "id": "5197446",
+    "name": "Zotter Handgeschöpft Schokolade Für Dich",
+    "category": "Schokolade",
+    "subcategories": ["Handgeschöpft", "Schokolade", "Für Dich"]
+  },
+  {
+    "store": "spar",
+    "id": "5197057",
+    "name": "Zotter Handgeschöpft Schokolade Marc de Champagne",
+    "category": "Schokolade",
+    "subcategories": ["Handgeschöpft", "Schokolade", "Marc de Champagne"]
+  },
+  {
+    "store": "spar",
+    "id": "2449593",
+    "name": "Zotter Handgeschöpft Typisch Österreich",
+    "category": "Schokolade",
+    "subcategories": ["Handgeschöpft", "Typisch Österreich"]
+  },
+  {
+    "store": "spar",
+    "id": "5197392",
+    "name": "Zotter Schokolade Danke",
+    "category": "Schokolade",
+    "subcategories": ["Schokolade", "Danke"]
+  },
+  {
+    "store": "spar",
+    "id": "5197125",
+    "name": "Zotter Schokolade NougatVariation",
+    "category": "Schokolade",
+    "subcategories": ["Schokolade", "NougatVariation"]
+  },
+  {
+    "store": "spar",
+    "id": "5197224",
+    "name": "Zotter Schokolade Scotch Whiskey",
+    "category": "Schokolade",
+    "subcategories": ["Schokolade", "Scotch Whiskey"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003532146",
+    "name": "barefood Bio Riegel Choco",
+    "category": "Riegel",
+    "subcategories": ["Bio Riegel", "Choco"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003532252",
+    "name": "barefood Bio Riegel coconut dream",
+    "category": "Riegel",
+    "subcategories": ["Bio Riegel", "coconut dream"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003532009",
+    "name": "barefood Bio Riegel salted cashew",
+    "category": "Riegel",
+    "subcategories": ["Bio Riegel", "salted cashew"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003932427",
+    "name": "hitschies Brizzl Ufos",
+    "category": "Süßigkeiten",
+    "subcategories": ["Brizzl Ufos"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004398543",
+    "name": "hitschies Cola süß",
+    "category": "Süßigkeiten",
+    "subcategories": ["Cola süß"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003425288",
+    "name": "hitschies Hitschies Original Mix",
+    "category": "Süßigkeiten",
+    "subcategories": ["Hitschies", "Original Mix"]
+  }
+]

@@ -1,0 +1,702 @@
+[
+    {
+        "store": "billa",
+        "id": "00-361048",
+        "name": "Felix Junger Zuckermais",
+        "category": "Gemüse",
+        "subcategories": ["Mais"]
+    },
+    {
+        "store": "billa",
+        "id": "00-7182",
+        "name": "Felix Karottensalat à la Julienne",
+        "category": "Gemüse",
+        "subcategories": ["Karotten", "Salat"]
+    },
+    {
+        "store": "billa",
+        "id": "00-1681",
+        "name": "Felix Kartoffelsalat",
+        "category": "Salat",
+        "subcategories": ["Kartoffeln"]
+    },
+    {
+        "store": "billa",
+        "id": "00-10219",
+        "name": "Felix Kleine Feine Gurken",
+        "category": "Gemüse",
+        "subcategories": ["Gurken"]
+    },
+    {
+        "store": "billa",
+        "id": "00-837956",
+        "name": "Felix Roter Rübensalat",
+        "category": "Salat",
+        "subcategories": ["Rote Rüben"]
+    },
+    {
+        "store": "billa",
+        "id": "00-1421",
+        "name": "Felix Sandwichgurken mild süß-sauer",
+        "category": "Gemüse",
+        "subcategories": ["Gurken", "Sandwich"]
+    },
+    {
+        "store": "billa",
+        "id": "00-810654",
+        "name": "Felix Sandwichgurken pikant",
+        "category": "Gemüse",
+        "subcategories": ["Gurken", "Sandwich"]
+    },
+    {
+        "store": "billa",
+        "id": "00-620043",
+        "name": "Fireland Foods Rings Of Fire Jalapeno",
+        "category": "Gemüse",
+        "subcategories": ["Jalapeno", "Feurig"]
+    },
+    {
+        "store": "billa",
+        "id": "00-580791",
+        "name": "Fish Peas Vegan Fishly Flakes Lemon Pepper",
+        "category": "Fleischersatz",
+        "subcategories": ["Vegan", "Fischersatz", "Flakes"]
+    },
+    {
+        "store": "billa",
+        "id": "00-580945",
+        "name": "Fish Peas Vegan Fishly Salad Italian Style",
+        "category": "Fleischersatz",
+        "subcategories": ["Vegan", "Fischersatz", "Salat"]
+    },
+    {
+        "store": "billa",
+        "id": "00-580944",
+        "name": "Fish Peas Vegan Fishly Salad Mexican Style",
+        "category": "Fleischersatz",
+        "subcategories": ["Vegan", "Fischersatz", "Salat"]
+    },
+    {
+        "store": "billa",
+        "id": "00-629705",
+        "name": "Goldpack Getrocknete Linsen",
+        "category": "Hülsenfrüchte",
+        "subcategories": ["Linsen"]
+    },
+    {
+        "store": "billa",
+        "id": "00-437267",
+        "name": "Gurkenprinz Gewürzgurken",
+        "category": "Gemüse",
+        "subcategories": ["Gurken"]
+    },
+    {
+        "store": "billa",
+        "id": "00-360012",
+        "name": "Gurkenprinz Gürkchen Primeur",
+        "category": "Gemüse",
+        "subcategories": ["Gurken"]
+    },
+    {
+        "store": "billa",
+        "id": "00-437271",
+        "name": "Gurkenprinz Piccolo Gewürzgurken",
+        "category": "Gemüse",
+        "subcategories": ["Gurken"]
+    },
+    {
+        "store": "billa",
+        "id": "00-775501",
+        "name": "Ham Aufstriche Kombipackung",
+        "category": "Aufstriche",
+        "subcategories": ["Ham"]
+    },
+    {
+        "store": "billa",
+        "id": "00-701917",
+        "name": "Hawesta Bücklingsfilets",
+        "category": "Fisch",
+        "subcategories": ["Bückling"]
+    },
+    {
+        "store": "billa",
+        "id": "00-20188",
+        "name": "Hengstenberg Bohnenpeperoni",
+        "category": "Gemüse",
+        "subcategories": ["Bohnen", "Peperoni"]
+    },
+    {
+        "store": "billa",
+        "id": "00-715447",
+        "name": "Hengstenberg Burger Gurken",
+        "category": "Gemüse",
+        "subcategories": ["Gurken"]
+    },
+    {
+        "store": "billa",
+        "id": "00-420989",
+        "name": "Hengstenberg Honiggurken",
+        "category": "Gemüse",
+        "subcategories": ["Gurken", "Honig"]
+    },
+    {
+        "store": "billa",
+        "id": "00-514757",
+        "name": "Hengstenberg Jalapeno Ringe",
+        "category": "Gemüse",
+        "subcategories": ["Jalapeno"]
+    },
+    {
+        "store": "billa",
+        "id": "00-774706",
+        "name": "Hengstenberg Knax Gewürzgurken",
+        "category": "Gemüse",
+        "subcategories": ["Gurken"]
+    },
+    {
+        "store": "billa",
+        "id": "00-429589",
+        "name": "Hengstenberg Knax Gewürzgurken",
+        "category": "Gemüse",
+        "subcategories": ["Gurken"]
+    },
+    {
+        "store": "billa",
+        "id": "00-403232",
+        "name": "Hengstenberg Sticksi Gurken scharf-würzig",
+        "category": "Gemüse",
+        "subcategories": ["Gurken", "Scharf"]
+    },
+    {
+        "store": "billa",
+        "id": "00-16428",
+        "name": "Hengstenberg Sticksi Gurken süß-würzig",
+        "category": "Gemüse",
+        "subcategories": ["Gurken", "Süß"]
+    },
+    {
+        "store": "billa",
+        "id": "00-507556",
+        "name": "Hink Wien Corned Beef",
+        "category": "Fleisch",
+        "subcategories": ["Corned Beef"]
+    },
+    {
+        "store": "billa",
+        "id": "00-507557",
+        "name": "Hink Wien Corned Boar",
+        "category": "Fleisch",
+        "subcategories": ["Corned Boar"]
+    },
+    {
+        "store": "billa",
+        "id": "00-507558",
+        "name": "Hink Wien Corned Deer",
+        "category": "Fleisch",
+        "subcategories": ["Corned Deer"]
+    },
+    {
+        "store": "billa",
+        "id": "00-390238",
+        "name": "Hink Wien Heurigen Kalbsleberpastete",
+        "category": "Pasteten",
+        "subcategories": ["Kalbsleber"]
+    },
+    {
+        "store": "billa",
+        "id": "00-390205",
+        "name": "Hink Wien Heurigen Kümmelbraten",
+        "category": "Fleisch",
+        "subcategories": ["Kümmelbraten"]
+    },
+    {
+        "store": "billa",
+        "id": "00-390252",
+        "name": "Hink Wien Heurigen Landleberpastete",
+        "category": "Pasteten",
+        "subcategories": ["Landleber"]
+    },
+    {
+        "store": "billa",
+        "id": "00-407421",
+        "name": "Hink Wien Karpfen in Rapsöl mit Thymian",
+        "category": "Fisch",
+        "subcategories": ["Karpfen", "Rapsöl", "Thymian"]
+    },
+    {
+        "store": "billa",
+        "id": "00-394268",
+        "name": "Hink Wien Lachsforelle in Rapsöl mit Zitronenschale",
+        "category": "Fisch",
+        "subcategories": ["Lachsforelle", "Rapsöl", "Zitronenschale"]
+    },
+    {
+        "store": "billa",
+        "id": "00-394254",
+        "name": "Hink Wien Seesaibling in Rapsöl mit Basilikum",
+        "category": "Fisch",
+        "subcategories": ["Seesaibling", "Rapsöl", "Basilikum"]
+    },
+    {
+        "store": "billa",
+        "id": "00-394274",
+        "name": "Hink Wien Wels in Rapsöl mit Rosmarin",
+        "category": "Fisch",
+        "subcategories": ["Wels", "Rapsöl", "Rosmarin"]
+    },
+    {
+        "store": "billa",
+        "id": "00-960475",
+        "name": "Hutesa Oliven Grün mit Knoblauch",
+        "category": "Gemüse",
+        "subcategories": ["Oliven", "Knoblauch"]
+    },
+    {
+        "store": "billa",
+        "id": "00-100767",
+        "name": "Hutesa Oliven Grün ohne Kern",
+        "category": "Gemüse",
+        "subcategories": ["Oliven"]
+    },
+    {
+        "store": "billa",
+        "id": "00-855380",
+        "name": "Hutesa Schwarze Oliven ohne Kern",
+        "category": "Gemüse",
+        "subcategories": ["Oliven"]
+    },
+    {
+        "store": "billa",
+        "id": "00-397418",
+        "name": "Il Conte Bio Grüne Oliven mit Kern",
+        "category": "Gemüse",
+        "subcategories": ["Oliven", "Bio"]
+    },
+    {
+        "store": "billa",
+        "id": "00-397416",
+        "name": "Il Conte Bio Kalamata Oliven mit Kern",
+        "category": "Gemüse",
+        "subcategories": ["Oliven", "Kalamata", "Bio"]
+    },
+    {
+        "store": "billa",
+        "id": "00-258976",
+        "name": "Il Conte Knoblauchzehen",
+        "category": "Gemüse",
+        "subcategories": ["Knoblauch"]
+    },
+    {
+        "store": "billa",
+        "id": "00-912054",
+        "name": "Il Conte Peppersweet mit Frischkäse",
+        "category": "Gemüse",
+        "subcategories": ["Peppersweet", "Frischkäse"]
+    },
+    {
+        "store": "billa",
+        "id": "00-403845",
+        "name": "Il Conte di Roma Amarena Kirschen",
+        "category": "Früchte",
+        "subcategories": ["Kirschen"]
+    },
+    {
+        "store": "billa",
+        "id": "00-5055",
+        "name": "Il Conte di Roma Cocktail Kirschen",
+        "category": "Früchte",
+        "subcategories": ["Kirschen"]
+    },
+    {
+        "store": "billa",
+        "id": "00-569006",
+        "name": "Il Conte di Roma Kapern",
+        "category": "Gemüse",
+        "subcategories": ["Kapern"]
+    },
+    {
+        "store": "billa",
+        "id": "00-801930",
+        "name": "Il Conte di Roma Kapernbeeren",
+        "category": "Gemüse",
+        "subcategories": ["Kapernbeeren"]
+    },
+    {
+        "store": "billa",
+        "id": "00-798371",
+        "name": "Il Conte di Roma Oliven mit Mandeln",
+        "category": "Gemüse",
+        "subcategories": ["Oliven", "Mandeln"]
+    },
+    {
+        "store": "billa",
+        "id": "00-900748",
+        "name": "Iliada Griechischer Olivenmix mit Kräutern",
+        "category": "Gemüse",
+        "subcategories": ["Oliven", "Griechisch", "Kräuter"]
+    },
+    {
+        "store": "billa",
+        "id": "00-886544",
+        "name": "Iliada Grüne Oliven in Scheiben",
+        "category": "Gemüse",
+        "subcategories": ["Oliven"]
+    },
+    {
+        "store": "billa",
+        "id": "00-960446",
+        "name": "Iliada Kalamata Oliven mit Kern",
+        "category": "Gemüse",
+        "subcategories": ["Oliven", "Kalamata"]
+    },
+    {
+        "store": "billa",
+        "id": "00-862466",
+        "name": "Iliada Kalamata Oliven mit Kern",
+        "category": "Gemüse",
+        "subcategories": ["Oliven", "Kalamata"]
+    },
+    {
+        "store": "billa",
+        "id": "00-637187",
+        "name": "Iliada Kalamata Oliven ohne Kern",
+        "category": "Gemüse",
+        "subcategories": ["Oliven", "Kalamata"]
+    },
+    {
+        "store": "billa",
+        "id": "00-868292",
+        "name": "Iliada Riesenbohnen Pikant",
+        "category": "Gemüse",
+        "subcategories": ["Bohnen", "Pikant"]
+    },
+    {
+        "store": "billa",
+        "id": "00-168013",
+        "name": "Inzersdorfer Balkanaufstrich",
+        "category": "Aufstriche",
+        "subcategories": ["Balkan"]
+    },
+    {
+        "store": "billa",
+        "id": "00-44722",
+        "name": "Inzersdorfer Fleischschmalz",
+        "category": "Fett",
+        "subcategories": ["Fleisch"]
+    },
+    {
+        "store": "billa",
+        "id": "00-44747",
+        "name": "Inzersdorfer Fleischschmalz",
+        "category": "Fett",
+        "subcategories": ["Fleisch"]
+    },
+    {
+        "store": "billa",
+        "id": "00-472289",
+        "name": "Inzersdorfer Frühstücksfleisch",
+        "category": "Fleisch",
+        "subcategories": ["Frühstück"]
+    },
+    {
+        "store": "billa",
+        "id": "00-818028",
+        "name": "Inzersdorfer Frühstücksfleisch",
+        "category": "Fleisch",
+        "subcategories": ["Frühstück"]
+    },
+    {
+        "store": "billa",
+        "id": "00-928552",
+        "name": "Inzersdorfer Geflügelaufstrich Junior 3er",
+        "category": "Aufstriche",
+        "subcategories": ["Geflügel", "Junior"]
+    },
+    {
+        "store": "billa",
+        "id": "00-716174",
+        "name": "Inzersdorfer Huhnaufstrich",
+        "category": "Aufstriche",
+        "subcategories": ["Huhn"]
+    },
+    {
+        "store": "billa",
+        "id": "00-44721",
+        "name": "Inzersdorfer Jagdwurst",
+        "category": "Wurst",
+        "subcategories": ["Jagd"]
+    },
+    {
+        "store": "billa",
+        "id": "00-44744",
+        "name": "Inzersdorfer Jagdwurst",
+        "category": "Wurst",
+        "subcategories": ["Jagd"]
+    },
+    {
+        "store": "billa",
+        "id": "00-589533",
+        "name": "Inzersdorfer Kümmelbratenaufstrich",
+        "category": "Aufstriche",
+        "subcategories": ["Kümmelbraten"]
+    },
+    {
+        "store": "billa",
+        "id": "00-44731",
+        "name": "Inzersdorfer Leberaufstrich",
+        "category": "Aufstriche",
+        "subcategories": ["Leber"]
+    },
+    {
+        "store": "billa",
+        "id": "00-44729",
+        "name": "Inzersdorfer Leberaufstrich",
+        "category": "Aufstriche",
+        "subcategories": ["Leber"]
+    },
+    {
+        "store": "billa",
+        "id": "00-928558",
+        "name": "Inzersdorfer Milde Streichwurst Junior 3er",
+        "category": "Aufstriche",
+        "subcategories": ["Mild", "Junior"]
+    },
+    {
+        "store": "billa",
+        "id": "00-44725",
+        "name": "Inzersdorfer Rauchfleisch",
+        "category": "Fleisch",
+        "subcategories": ["Rauch"]
+    },
+    {
+        "store": "billa",
+        "id": "00-411711",
+        "name": "Inzersdorfer Rauchfleischaufstrich",
+        "category": "Aufstriche",
+        "subcategories": ["Rauchfleisch"]
+    },
+    {
+        "store": "billa",
+        "id": "00-549870",
+        "name": "Inzersdorfer Wellness Corned Beef",
+        "category": "Fleisch",
+        "subcategories": ["Wellness", "Corned Beef"]
+    },
+    {
+        "store": "billa",
+        "id": "00-549864",
+        "name": "Inzersdorfer Wellness Thunfisch Aufstrich",
+        "category": "Aufstriche",
+        "subcategories": ["Wellness", "Thunfisch"]
+    },
+    {
+        "store": "billa",
+        "id": "00-412776",
+        "name": "Ja! Natürlich Apfel-Bananenmus",
+        "category": "Obst",
+        "subcategories": ["Apfel", "Banane", "Mus"]
+    },
+    {
+        "store": "billa",
+        "id": "00-412765",
+        "name": "Ja! Natürlich Apfel-Mangomus",
+        "category": "Obst",
+        "subcategories": ["Apfel", "Mango", "Mus"]
+    },
+    {
+        "store": "billa",
+        "id": "00-412757",
+        "name": "Ja! Natürlich Apfelmus Golden Delicious",
+        "category": "Obst",
+        "subcategories": ["Apfel"]
+    },
+    {
+        "store": "billa",
+        "id": "00-449876",
+        "name": "Ja! Natürlich Apfelmus Topaz",
+        "category": "Obst",
+        "subcategories": ["Apfel"]
+    },
+    {
+        "store": "billa",
+        "id": "00-362587",
+        "name": "Ja! Natürlich Bio - Passata",
+        "category": "Gemüse",
+        "subcategories": ["Passata", "Bio"]
+    },
+    {
+        "store": "billa",
+        "id": "00-927008",
+        "name": "Ja! Natürlich Bio Tellerlinsen",
+        "category": "Hülsenfrüchte",
+        "subcategories": ["Linsen", "Bio"]
+    },
+    {
+        "store": "billa",
+        "id": "00-905386",
+        "name": "Ja! Natürlich Bio Zuckermais",
+        "category": "Gemüse",
+        "subcategories": ["Mais", "Bio"]
+    },
+    {
+        "store": "billa",
+        "id": "00-903300",
+        "name": "Ja! Natürlich Griechische Oliven mit Kräutern",
+        "category": "Gemüse",
+        "subcategories": ["Oliven", "Griechisch", "Kräuter"]
+    },
+    {
+        "store": "billa",
+        "id": "00-710232",
+        "name": "Ja! Natürlich Gurken Sticks",
+        "category": "Gemüse",
+        "subcategories": ["Gurken", "Sticks"]
+    },
+    {
+        "store": "billa",
+        "id": "00-522480",
+        "name": "Ja! Natürlich Hollerröster",
+        "category": "Obst",
+        "subcategories": ["Holler"]
+    },
+    {
+        "store": "billa",
+        "id": "00-292825",
+        "name": "Ja! Natürlich Kalamata Oliven ohne Kern",
+        "category": "Gemüse",
+        "subcategories": ["Oliven", "Kalamata"]
+    },
+    {
+        "store": "billa",
+        "id": "00-667162",
+        "name": "Ja! Natürlich Pfefferoni mild",
+        "category": "Gemüse",
+        "subcategories": ["Pfefferoni", "Mild"]
+    },
+    {
+        "store": "billa",
+        "id": "00-710235",
+        "name": "Ja! Natürlich Pfefferoni scharf",
+        "category": "Gemüse",
+        "subcategories": ["Pfefferoni", "Scharf"]
+    },
+    {
+        "store": "billa",
+        "id": "00-403098",
+        "name": "Ja! Natürlich Sauerkraut",
+        "category": "Gemüse",
+        "subcategories": ["Sauerkraut"]
+    },
+    {
+        "store": "billa",
+        "id": "00-522484",
+        "name": "Ja! Natürlich Zwetschkenröster",
+        "category": "Obst",
+        "subcategories": ["Zwetschken"]
+    },
+    {
+        "store": "billa",
+        "id": "00-890386",
+        "name": "Le Baron Artischockenherzen",
+        "category": "Gemüse",
+        "subcategories": ["Artischocken"]
+    },
+    {
+        "store": "billa",
+        "id": "00-641231",
+        "name": "Le Baron Rote Kidneybohnen",
+        "category": "Hülsenfrüchte",
+        "subcategories": ["Kidneybohnen"]
+    },
+    {
+        "store": "billa",
+        "id": "00-828895",
+        "name": "Le Baron Spargelspitzen Grün",
+        "category": "Gemüse",
+        "subcategories": ["Spargel"]
+    },
+    {
+        "store": "billa",
+        "id": "00-410033",
+        "name": "Le Baron Spargelspitzen weiß",
+        "category": "Gemüse",
+        "subcategories": ["Spargel"]
+    },
+    {
+        "store": "billa",
+        "id": "00-403244",
+        "name": "Le Baron Stangenspargel",
+        "category": "Gemüse",
+        "subcategories": ["Spargel"]
+    },
+    {
+        "store": "billa",
+        "id": "00-864465",
+        "name": "Lutz Bio Bunter Krautsalat",
+        "category": "Salat",
+        "subcategories": ["Kraut"]
+    },
+    {
+        "store": "billa",
+        "id": "00-864485",
+        "name": "Lutz Bio Jausen Gurkerl",
+        "category": "Gemüse",
+        "subcategories": ["Gurken"]
+    },
+    {
+        "store": "billa",
+        "id": "00-864479",
+        "name": "Lutz Bio Karotten Sellerie Salat",
+        "category": "Salat",
+        "subcategories": ["Karotten", "Sellerie"]
+    },
+    {
+        "store": "billa",
+        "id": "00-757910",
+        "name": "Lutz Bio Pfefferoni scharf",
+        "category": "Gemüse",
+        "subcategories": ["Pfefferoni", "Scharf"]
+    },
+    {
+        "store": "billa",
+        "id": "00-864483",
+        "name": "Lutz Bio Rote Rüben Salat",
+        "category": "Salat",
+        "subcategories": ["Rote Rüben"]
+    },
+    {
+        "store": "billa",
+        "id": "00-869038",
+        "name": "Machland Apfelmus",
+        "category": "Obst",
+        "subcategories": ["Apfel"]
+    },
+    {
+        "store": "billa",
+        "id": "00-9915",
+        "name": "Machland Apfelpaprika gefüllt",
+        "category": "Gemüse",
+        "subcategories": ["Apfel", "Paprika"]
+    },
+    {
+        "store": "billa",
+        "id": "00-4393",
+        "name": "Machland Cornichons",
+        "category": "Gemüse",
+        "subcategories": ["Cornichons"]
+    },
+    {
+        "store": "billa",
+        "id": "00-81307",
+        "name": "Machland Delikatess-Gurken Gurkentopf",
+        "category": "Gemüse",
+        "subcategories": ["Gurken"]
+    },
+    {
+        "store": "billa",
+        "id": "00-41205",
+        "name": "Machland Delikatessgurken",
+        "category": "Gemüse",
+        "subcategories": ["Gurken"]
+    }
+]

@@ -1,0 +1,51 @@
+The JSON list describes grocery products in Austrian supermarkets in a JSON format. To generate a category and subcategories, we will use the "name" field. We will add a field to each product that describes the category for the specific product in one word. Additionally, we will add a list of subcategories that breaks down the category for each individual product. These subcategories can be synonyms or search terms that are not present in the product name. The categories will be in German, and they will be reused for similar products. 
+
+Here is the modified list:
+
+[
+  {
+    "store": "hofer",
+    "id": 544141,
+    "name": "NEW LIFESTYLE Goudina Leicht-Schnittkäse 25% Fett 170g",
+    "category": "Käse",
+    "subcategories": ["Leichtkäse", "Schnittkäse"]
+  },
+  {
+    "store": "hofer",
+    "id": 549895,
+    "name": "NÖM Fru Fru Erdbeer 200g",
+    "category": "Joghurt",
+    "subcategories": ["Fru Fru", "Erdbeer"]
+  },
+  {
+    "store": "hofer",
+    "id": 549896,
+    "name": "NÖM Fru Fru Heidelbeer 200g",
+    "category": "Joghurt",
+    "subcategories": ["Fru Fru", "Heidelbeer"]
+  },
+  {
+    "store": "hofer",
+    "id": 549897,
+    "name": "NÖM Fru Fru Himbeer 200g",
+    "category": "Joghurt",
+    "subcategories": ["Fru Fru", "Himbeer"]
+  },
+  {
+    "store": "hofer",
+    "id": 549469,
+    "name": "NÖM Proteinmilch 1l",
+    "category": "Milchprodukte",
+    "subcategories": ["Proteinmilch"]
+  },
+  {
+    "store": "hofer",
+    "id": 545389,
+    "name": "NEW LIFESTYLE Aufschnitt leicht Schinkenpikante 110g",
+    "category": "Wurst",
+    "subcategories": ["Aufschnitt", "Leicht", "Schinkenpikante"]
+  },
+  ...
+]
+
+Please note that the above translations may not be accurate. It is recommended to verify them with a native German speaker.

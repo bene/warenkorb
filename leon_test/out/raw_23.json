@@ -1,0 +1,702 @@
+[
+  {
+    "store": "billa",
+    "id": "00-576930",
+    "name": "Stibitzer Cider Apfel",
+    "category": "Getränke",
+    "subcategories": ["Apfelwein"]
+  },
+  {
+    "store": "billa",
+    "id": "00-577063",
+    "name": "Stibitzer Cider Apfel Birne",
+    "category": "Getränke",
+    "subcategories": ["Apfelwein", "Birnenwein"]
+  },
+  {
+    "store": "billa",
+    "id": "00-280972",
+    "name": "Strongbow Apple Cider - Gold Apple",
+    "category": "Getränke",
+    "subcategories": ["Apfelwein"]
+  },
+  {
+    "store": "billa",
+    "id": "00-964705",
+    "name": "Strongbow Apple Cider - Gold Apple",
+    "category": "Getränke",
+    "subcategories": ["Apfelwein"]
+  },
+  {
+    "store": "billa",
+    "id": "00-280967",
+    "name": "Strongbow Apple Cider - Red Berries",
+    "category": "Getränke",
+    "subcategories": ["Apfelwein"]
+  },
+  {
+    "store": "billa",
+    "id": "00-288002",
+    "name": "Strongbow Rosé Apple",
+    "category": "Getränke",
+    "subcategories": ["Apfelwein"]
+  },
+  {
+    "store": "billa",
+    "id": "00-616875",
+    "name": "Szigeti Grüner Veltliner Brut",
+    "category": "Getränke",
+    "subcategories": ["Sekt"]
+  },
+  {
+    "store": "billa",
+    "id": "00-643238",
+    "name": "Szigeti Muskat Ottonel Extra Dry",
+    "category": "Getränke",
+    "subcategories": ["Sekt"]
+  },
+  {
+    "store": "billa",
+    "id": "00-677409",
+    "name": "Szigeti Pinot Noir Rosé",
+    "category": "Getränke",
+    "subcategories": ["Sekt", "Rosé"]
+  },
+  {
+    "store": "billa",
+    "id": "00-616876",
+    "name": "Szigeti Welschriesling Brut",
+    "category": "Getränke",
+    "subcategories": ["Sekt"]
+  },
+  {
+    "store": "billa",
+    "id": "00-18685",
+    "name": "Söhnlein Brillant Trocken",
+    "category": "Getränke",
+    "subcategories": ["Sekt"]
+  },
+  {
+    "store": "billa",
+    "id": "00-699063",
+    "name": "Taittinger Brut Reserve",
+    "category": "Getränke",
+    "subcategories": ["Sekt"]
+  },
+  {
+    "store": "billa",
+    "id": "00-500978",
+    "name": "Tallero Prosecco DOC Baby Frizzante",
+    "category": "Getränke",
+    "subcategories": ["Sekt", "Prosecco"]
+  },
+  {
+    "store": "billa",
+    "id": "00-627201",
+    "name": "Trummer Uhudler Sparkling",
+    "category": "Getränke",
+    "subcategories": ["Sekt"]
+  },
+  {
+    "store": "billa",
+    "id": "00-501627",
+    "name": "Valdo Prosecco Spumante DOC Extra Dry",
+    "category": "Getränke",
+    "subcategories": ["Sekt", "Prosecco"]
+  },
+  {
+    "store": "billa",
+    "id": "00-6621",
+    "name": "Veuve Clicquot Brut Yellow Label im Geschenkkarton",
+    "category": "Getränke",
+    "subcategories": ["Sekt"]
+  },
+  {
+    "store": "billa",
+    "id": "00-586903",
+    "name": "Wegenstein Sekt Blanc de Blancs",
+    "category": "Getränke",
+    "subcategories": ["Sekt"]
+  },
+  {
+    "store": "billa",
+    "id": "00-586910",
+    "name": "Wegenstein Sekt Rosé",
+    "category": "Getränke",
+    "subcategories": ["Sekt", "Rosé"]
+  },
+  {
+    "store": "billa",
+    "id": "00-966976",
+    "name": "Zonin Prosecco Frizzante Brut",
+    "category": "Getränke",
+    "subcategories": ["Sekt", "Prosecco"]
+  },
+  {
+    "store": "billa",
+    "id": "00-353644",
+    "name": "2B Hemp Gin",
+    "category": "Getränke",
+    "subcategories": ["Gin"]
+  },
+  {
+    "store": "billa",
+    "id": "00-901361",
+    "name": "Aberfeldy Scotch Whisky 12 Years Old",
+    "category": "Getränke",
+    "subcategories": ["Whisky"]
+  },
+  {
+    "store": "billa",
+    "id": "00-716876",
+    "name": "Absolut Elyx",
+    "category": "Getränke",
+    "subcategories": ["Vodka"]
+  },
+  {
+    "store": "billa",
+    "id": "00-354761",
+    "name": "Absolut Vodka",
+    "category": "Getränke",
+    "subcategories": ["Vodka"]
+  },
+  {
+    "store": "billa",
+    "id": "00-314409",
+    "name": "Amaro Ramazzotti",
+    "category": "Getränke",
+    "subcategories": ["Likör"]
+  },
+  {
+    "store": "billa",
+    "id": "00-838784",
+    "name": "Amarula Cream Liqueur",
+    "category": "Getränke",
+    "subcategories": ["Likör"]
+  },
+  {
+    "store": "billa",
+    "id": "00-814519",
+    "name": "Aperol",
+    "category": "Getränke",
+    "subcategories": ["Likör"]
+  },
+  {
+    "store": "billa",
+    "id": "00-628326",
+    "name": "Aperol Soda 6er",
+    "category": "Getränke",
+    "subcategories": ["Softdrinks"]
+  },
+  {
+    "store": "billa",
+    "id": "00-695883",
+    "name": "Aperol Spritz 3er",
+    "category": "Getränke",
+    "subcategories": ["Cocktail"]
+  },
+  {
+    "store": "billa",
+    "id": "00-700819",
+    "name": "Ardbeg 10yo Single Malt Whisky",
+    "category": "Getränke",
+    "subcategories": ["Whisky"]
+  },
+  {
+    "store": "billa",
+    "id": "00-455356",
+    "name": "Arnautovic Premium London Dry Gin No. 7",
+    "category": "Getränke",
+    "subcategories": ["Gin"]
+  },
+  {
+    "store": "billa",
+    "id": "00-3502",
+    "name": "Asbach Original 3 Jahre",
+    "category": "Getränke",
+    "subcategories": ["Brandy"]
+  },
+  {
+    "store": "billa",
+    "id": "00-308690",
+    "name": "Averna Amaro Siciliano",
+    "category": "Getränke",
+    "subcategories": ["Likör"]
+  },
+  {
+    "store": "billa",
+    "id": "00-494690",
+    "name": "BILLA Chill'eroso Spritz",
+    "category": "Getränke",
+    "subcategories": ["Cocktail"]
+  },
+  {
+    "store": "billa",
+    "id": "00-940196",
+    "name": "Bacardi Añejo Cuatro",
+    "category": "Getränke",
+    "subcategories": ["Rum"]
+  },
+  {
+    "store": "billa",
+    "id": "00-356264",
+    "name": "Bacardi Breezer Orange",
+    "category": "Getränke",
+    "subcategories": ["Alcopop"]
+  },
+  {
+    "store": "billa",
+    "id": "00-336",
+    "name": "Bacardi Carta Blanca",
+    "category": "Getränke",
+    "subcategories": ["Rum"]
+  },
+  {
+    "store": "billa",
+    "id": "00-723736",
+    "name": "Bacardi Coconut",
+    "category": "Getränke",
+    "subcategories": ["Rum", "Kokos"]
+  },
+  {
+    "store": "billa",
+    "id": "00-872090",
+    "name": "Bacardi Razz",
+    "category": "Getränke",
+    "subcategories": ["Rum", "Himbeere"]
+  },
+  {
+    "store": "billa",
+    "id": "00-483261",
+    "name": "Baileys Espresso Creme",
+    "category": "Getränke",
+    "subcategories": ["Likör", "Espresso"]
+  },
+  {
+    "store": "billa",
+    "id": "00-14851",
+    "name": "Baileys Irish Cream",
+    "category": "Getränke",
+    "subcategories": ["Likör"]
+  },
+  {
+    "store": "billa",
+    "id": "00-471218",
+    "name": "Baileys Salted Caramel Original",
+    "category": "Getränke",
+    "subcategories": ["Likör", "Karamell"]
+  },
+  {
+    "store": "billa",
+    "id": "00-11658",
+    "name": "Bailoni Gold Marillenbrand",
+    "category": "Getränke",
+    "subcategories": ["Likör", "Marillenbrand"]
+  },
+  {
+    "store": "billa",
+    "id": "00-11659",
+    "name": "Bailoni Gold Marillenlikör",
+    "category": "Getränke",
+    "subcategories": ["Likör", "Marillenlikör"]
+  },
+  {
+    "store": "billa",
+    "id": "00-72119",
+    "name": "Ballantines Scotch Whisky",
+    "category": "Getränke",
+    "subcategories": ["Whisky"]
+  },
+  {
+    "store": "billa",
+    "id": "00-806994",
+    "name": "Balvenie 12yo Double Wood Single Malt Scotch Whisky",
+    "category": "Getränke",
+    "subcategories": ["Whisky"]
+  },
+  {
+    "store": "billa",
+    "id": "00-303195",
+    "name": "Beefeater London Dry Gin",
+    "category": "Getränke",
+    "subcategories": ["Gin"]
+  },
+  {
+    "store": "billa",
+    "id": "00-938539",
+    "name": "Beefeater London Pink Gin",
+    "category": "Getränke",
+    "subcategories": ["Gin"]
+  },
+  {
+    "store": "billa",
+    "id": "00-635256",
+    "name": "Belvedere Vodka",
+    "category": "Getränke",
+    "subcategories": ["Vodka"]
+  },
+  {
+    "store": "billa",
+    "id": "00-386675",
+    "name": "Berliner Luft Pfefferminzlikör",
+    "category": "Getränke",
+    "subcategories": ["Likör", "Pfefferminzlikör"]
+  },
+  {
+    "store": "billa",
+    "id": "00-578761",
+    "name": "Bombay Citron Pressé Gin",
+    "category": "Getränke",
+    "subcategories": ["Gin"]
+  },
+  {
+    "store": "billa",
+    "id": "00-806297",
+    "name": "Bombay Sapphire Gin",
+    "category": "Getränke",
+    "subcategories": ["Gin"]
+  },
+  {
+    "store": "billa",
+    "id": "00-22476",
+    "name": "Boonekamp Guter Stern",
+    "category": "Getränke",
+    "subcategories": ["Kräuterlikör"]
+  },
+  {
+    "store": "billa",
+    "id": "00-421243",
+    "name": "Boscabana White Rum",
+    "category": "Getränke",
+    "subcategories": ["Rum"]
+  },
+  {
+    "store": "billa",
+    "id": "00-883626",
+    "name": "Bulldog Gin",
+    "category": "Getränke",
+    "subcategories": ["Gin"]
+  },
+  {
+    "store": "billa",
+    "id": "00-402465",
+    "name": "Bumbu The Original Rum",
+    "category": "Getränke",
+    "subcategories": ["Rum"]
+  },
+  {
+    "store": "billa",
+    "id": "00-773589",
+    "name": "Bushmills 10yo Single Malt Irish Whiskey",
+    "category": "Getränke",
+    "subcategories": ["Whiskey"]
+  },
+  {
+    "store": "billa",
+    "id": "00-575132",
+    "name": "Campari Bitter",
+    "category": "Getränke",
+    "subcategories": ["Bitter"]
+  },
+  {
+    "store": "billa",
+    "id": "00-23498",
+    "name": "Campari Soda",
+    "category": "Getränke",
+    "subcategories": ["Bitter", "Softdrinks"]
+  },
+  {
+    "store": "billa",
+    "id": "00-894767",
+    "name": "Captain Morgan Rum & Cola",
+    "category": "Getränke",
+    "subcategories": ["Rum", "Cola"]
+  },
+  {
+    "store": "billa",
+    "id": "00-777236",
+    "name": "Captain Morgan Spiced Gold",
+    "category": "Getränke",
+    "subcategories": ["Rum"]
+  },
+  {
+    "store": "billa",
+    "id": "00-301850",
+    "name": "Captain Morgan White Rum",
+    "category": "Getränke",
+    "subcategories": ["Rum"]
+  },
+  {
+    "store": "billa",
+    "id": "00-3357",
+    "name": "Carlo Vermouth Bianco",
+    "category": "Getränke",
+    "subcategories": ["Vermouth"]
+  },
+  {
+    "store": "billa",
+    "id": "00-648701",
+    "name": "Casella Amaretto",
+    "category": "Getränke",
+    "subcategories": ["Likör"]
+  },
+  {
+    "store": "billa",
+    "id": "00-3006",
+    "name": "Chivas Regal 12yo Scotch Whisky",
+    "category": "Getränke",
+    "subcategories": ["Whisky"]
+  },
+  {
+    "store": "billa",
+    "id": "00-290304",
+    "name": "Chivas Regal 18yo Scotch Whisky",
+    "category": "Getränke",
+    "subcategories": ["Whisky"]
+  },
+  {
+    "store": "billa",
+    "id": "00-697011",
+    "name": "Choya Sake",
+    "category": "Getränke",
+    "subcategories": ["Sake"]
+  },
+  {
+    "store": "billa",
+    "id": "00-518835",
+    "name": "Clever Eierlikör",
+    "category": "Getränke",
+    "subcategories": ["Likör"]
+  },
+  {
+    "store": "billa",
+    "id": "00-359673",
+    "name": "Clever Inländerrum 38%",
+    "category": "Getränke",
+    "subcategories": ["Rum"]
+  },
+  {
+    "store": "billa",
+    "id": "00-722900",
+    "name": "Clever Korn",
+    "category": "Getränke",
+    "subcategories": ["Schnaps"]
+  },
+  {
+    "store": "billa",
+    "id": "00-303118",
+    "name": "Clever Obstschnaps",
+    "category": "Getränke",
+    "subcategories": ["Schnaps"]
+  },
+  {
+    "store": "billa",
+    "id": "00-545404",
+    "name": "Clever Zwetschkenschnaps",
+    "category": "Getränke",
+    "subcategories": ["Schnaps"]
+  },
+  {
+    "store": "billa",
+    "id": "00-3643",
+    "name": "Cointreau",
+    "category": "Getränke",
+    "subcategories": ["Likör"]
+  },
+  {
+    "store": "billa",
+    "id": "00-201376",
+    "name": "Courvoisier V.S. Cognac",
+    "category": "Getränke",
+    "subcategories": ["Cognac"]
+  },
+  {
+    "store": "billa",
+    "id": "00-201384",
+    "name": "Courvoisier V.S.O.P. Cognac",
+    "category": "Getränke",
+    "subcategories": ["Cognac"]
+  },
+  {
+    "store": "billa",
+    "id": "00-587007",
+    "name": "Crodino Biondo Alkoholfrei 8er",
+    "category": "Getränke",
+    "subcategories": ["Alkoholfrei", "Bitter"]
+  },
+  {
+    "store": "billa",
+    "id": "00-959709",
+    "name": "Crodino Rosso Alkoholfrei 8er",
+    "category": "Getränke",
+    "subcategories": ["Alkoholfrei", "Bitter"]
+  },
+  {
+    "store": "billa",
+    "id": "00-303204",
+    "name": "Cynar Leggermente Amaro",
+    "category": "Getränke",
+    "subcategories": ["Bitter"]
+  },
+  {
+    "store": "billa",
+    "id": "00-425086",
+    "name": "Eristoff Fire",
+    "category": "Getränke",
+    "subcategories": ["Vodka", "Scharf"]
+  },
+  {
+    "store": "billa",
+    "id": "00-434613",
+    "name": "Eristoff Flash",
+    "category": "Getränke",
+    "subcategories": ["Vodka"]
+  },
+  {
+    "store": "billa",
+    "id": "00-424895",
+    "name": "Eristoff Ice",
+    "category": "Getränke",
+    "subcategories": ["Vodka", "Eis"]
+  },
+  {
+    "store": "billa",
+    "id": "00-724088",
+    "name": "Eristoff Passion Star",
+    "category": "Getränke",
+    "subcategories": ["Vodka", "Passionsfrucht"]
+  },
+  {
+    "store": "billa",
+    "id": "00-17524",
+    "name": "Eristoff Red",
+    "category": "Getränke",
+    "subcategories": ["Vodka"]
+  },
+  {
+    "store": "billa",
+    "id": "00-6719",
+    "name": "Eristoff Vodka",
+    "category": "Getränke",
+    "subcategories": ["Vodka"]
+  },
+  {
+    "store": "billa",
+    "id": "00-932287",
+    "name": "Farthofer Fräsch Organic Premium Gin",
+    "category": "Getränke",
+    "subcategories": ["Gin"]
+  },
+  {
+    "store": "billa",
+    "id": "00-16672",
+    "name": "Fernet Branca",
+    "category": "Getränke",
+    "subcategories": ["Kräuterlikör"]
+  },
+  {
+    "store": "billa",
+    "id": "00-574479",
+    "name": "Fior London Dry Gin",
+    "category": "Getränke",
+    "subcategories": ["Gin"]
+  },
+  {
+    "store": "billa",
+    "id": "00-3501",
+    "name": "Four Roses Bourbon Whiskey",
+    "category": "Getränke",
+    "subcategories": ["Whiskey"]
+  },
+  {
+    "store": "billa",
+    "id": "00-825700",
+    "name": "Frangelico Liqueur",
+    "category": "Getränke",
+    "subcategories": ["Likör"]
+  },
+  {
+    "store": "billa",
+    "id": "00-733295",
+    "name": "Freemans Dry Gin",
+    "category": "Getränke",
+    "subcategories": ["Gin"]
+  },
+  {
+    "store": "billa",
+    "id": "00-342674",
+    "name": "Gautier Mückstein Haselnuss Spirituose",
+    "category": "Getränke",
+    "subcategories": ["Likör", "Haselnusslikör"]
+  },
+  {
+    "store": "billa",
+    "id": "00-81473",
+    "name": "Gautier-Mückstein Kirschenlikör",
+    "category": "Getränke",
+    "subcategories": ["Likör", "Kirschenlikör"]
+  },
+  {
+    "store": "billa",
+    "id": "00-415604",
+    "name": "Glenfiddich 12yo Single Malt Scotch Whisky",
+    "category": "Getränke",
+    "subcategories": ["Whisky"]
+  },
+  {
+    "store": "billa",
+    "id": "00-826487",
+    "name": "Glenfiddich 15yo Single Malt Scotch Whisky",
+    "category": "Getränke",
+    "subcategories": ["Whisky"]
+  },
+  {
+    "store": "billa",
+    "id": "00-764688",
+    "name": "Glenmorangie 10yo Single Malt Whisky",
+    "category": "Getränke",
+    "subcategories": ["Whisky"]
+  },
+  {
+    "store": "billa",
+    "id": "00-700816",
+    "name": "Glenmorangie Nectar D'Or",
+    "category": "Getränke",
+    "subcategories": ["Whisky"]
+  },
+  {
+    "store": "billa",
+    "id": "00-684050",
+    "name": "Gordon's Dry Gin",
+    "category": "Getränke",
+    "subcategories": ["Gin"]
+  },
+  {
+    "store": "billa",
+    "id": "00-651070",
+    "name": "Gordon's Gin & Tonic",
+    "category": "Getränke",
+    "subcategories": ["Gin", "Tonic Water"]
+  },
+  {
+    "store": "billa",
+    "id": "00-924290",
+    "name": "Gordon's Pink Gin",
+    "category": "Getränke",
+    "subcategories": ["Gin"]
+  },
+  {
+    "store": "billa",
+    "id": "00-303222",
+    "name": "Grant's Triple Wood Blended Scotch Whisky",
+    "category": "Getränke",
+    "subcategories": ["Whisky"]
+  },
+  {
+    "store": "billa",
+    "id": "00-901360",
+    "name": "Grey Goose Vodka",
+    "category": "Getränke",
+    "subcategories": ["Vodka"]
+  }
+]

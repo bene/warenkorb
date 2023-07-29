@@ -1,0 +1,702 @@
+[
+  {
+    "store": "spar",
+    "id": "3780541",
+    "name": "Staedtler Bleistift Noris Set 3 Stück inkl. Radiergummi",
+    "category": "Schreibwaren",
+    "subcategories": ["Bleistift", "Radiergummi"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003689024",
+    "name": "Staedtler Bleistift Noris Set 5 Stück inkl. Radiergummi",
+    "category": "Schreibwaren",
+    "subcategories": ["Bleistift", "Radiergummi"]
+  },
+  {
+    "store": "spar",
+    "id": "6132798",
+    "name": "Staedtler Bleistift mit Radierer 3 Stk.",
+    "category": "Schreibwaren",
+    "subcategories": ["Bleistift", "Radierer"]
+  },
+  {
+    "store": "spar",
+    "id": "2912615",
+    "name": "Staedtler Bleistift mit Radierer HB Noris eco 3 Stk.",
+    "category": "Schreibwaren",
+    "subcategories": ["Bleistift", "Radierer"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002826963",
+    "name": "Staedtler Buntstifte 36 Farben",
+    "category": "Schreibwaren",
+    "subcategories": ["Buntstifte"]
+  },
+  {
+    "store": "spar",
+    "id": "1924695",
+    "name": "Staedtler Doppelspitzdose blau",
+    "category": "Schreibwaren",
+    "subcategories": ["Spitzdose"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001585687",
+    "name": "Staedtler Farbstifte Noris Club 12 Farben",
+    "category": "Schreibwaren",
+    "subcategories": ["Farbstifte"]
+  },
+  {
+    "store": "spar",
+    "id": "1422368",
+    "name": "Staedtler Folienstifte Lumocolor permanent 2 Stk.",
+    "category": "Schreibwaren",
+    "subcategories": ["Folienstifte"]
+  },
+  {
+    "store": "spar",
+    "id": "2580517",
+    "name": "Staedtler Metallic Marker gold/silber",
+    "category": "Schreibwaren",
+    "subcategories": ["Marker", "Metallic"]
+  },
+  {
+    "store": "spar",
+    "id": "8149060",
+    "name": "Staedtler Permanentmarker Lumocolor 2 Stk.",
+    "category": "Schreibwaren",
+    "subcategories": ["Permanentmarker"]
+  },
+  {
+    "store": "spar",
+    "id": "2913384",
+    "name": "Staedtler Pigmentliner 0,3 mm schwarz",
+    "category": "Schreibwaren",
+    "subcategories": ["Pigmentliner"]
+  },
+  {
+    "store": "spar",
+    "id": "2913230",
+    "name": "Staedtler Pigmentliner 0,5 mm schwarz",
+    "category": "Schreibwaren",
+    "subcategories": ["Pigmentliner"]
+  },
+  {
+    "store": "spar",
+    "id": "2020000953562",
+    "name": "Staedtler Pigmentliner mit Keilspitze 0,3 - 2,0 mm schwarz",
+    "category": "Schreibwaren",
+    "subcategories": ["Pigmentliner"]
+  },
+  {
+    "store": "spar",
+    "id": "1928488",
+    "name": "Staedtler Radierer Mars Plastic",
+    "category": "Schreibwaren",
+    "subcategories": ["Radierer"]
+  },
+  {
+    "store": "spar",
+    "id": "2937915",
+    "name": "Staedtler Radierer Mars Plastic",
+    "category": "Schreibwaren",
+    "subcategories": ["Radierer"]
+  },
+  {
+    "store": "spar",
+    "id": "2191591",
+    "name": "Staedtler Radierer mit Kunststoffhülse",
+    "category": "Schreibwaren",
+    "subcategories": ["Radierer"]
+  },
+  {
+    "store": "spar",
+    "id": "7604744",
+    "name": "Staedtler Universalstift Lumocolor Non-Permanent",
+    "category": "Schreibwaren",
+    "subcategories": ["Universalstift", "Non-Permanent"]
+  },
+  {
+    "store": "spar",
+    "id": "7815751",
+    "name": "Staedtler Universalstift Lumocolor Permanent",
+    "category": "Schreibwaren",
+    "subcategories": ["Universalstift", "Permanent"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002280529",
+    "name": "Staedtler Universalstift Lumocolor Permanent M",
+    "category": "Schreibwaren",
+    "subcategories": ["Universalstift", "Permanent"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004172594",
+    "name": "Staedtler Wachsmalkreiden Noris junior 12 Stk.",
+    "category": "Schreibwaren",
+    "subcategories": ["Wachsmalkreiden"]
+  },
+  {
+    "store": "spar",
+    "id": "7554360",
+    "name": "Staedtler Whiteboard Marker Lumocolor 4er Set",
+    "category": "Schreibwaren",
+    "subcategories": ["Whiteboard Marker"]
+  },
+  {
+    "store": "spar",
+    "id": "2191447",
+    "name": "Staedtler Wäschemarker schwarz",
+    "category": "Schreibwaren",
+    "subcategories": ["Wäschemarker"]
+  },
+  {
+    "store": "spar",
+    "id": "2020000412052",
+    "name": "Stempelset 26 teilig Stempelset 26tlg. GVE 6",
+    "category": "Bürobedarf",
+    "subcategories": ["Stempelset"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003710964",
+    "name": "Stifteköcher gefüllt Frozen Koecher gefuel.7tlg. Frozen GVE 6",
+    "category": "Bürobedarf",
+    "subcategories": ["Stifteköcher", "Frozen"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003710865",
+    "name": "Stifteköcher gefüllt Jurassic World Koecher gefuel.7tlg JurassicP GVE 6",
+    "category": "Bürobedarf",
+    "subcategories": ["Stifteköcher", "Jurassic World"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003710896",
+    "name": "Stifteköcher gefüllt LOL Koecher gefuel.7tlg. LOL GVE 6",
+    "category": "Bürobedarf",
+    "subcategories": ["Stifteköcher", "LOL"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003710926",
+    "name": "Stifteköcher gefüllt Spiderman Koecher gefuel.7tlg. Spiderman GVE 6",
+    "category": "Bürobedarf",
+    "subcategories": ["Stifteköcher", "Spiderman"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001607341",
+    "name": "Style Karteikarten A7 quer, weiß, liniert 100 Blatt Style Kartei- karte A7 100Bl. GVE 1",
+    "category": "Schreibwaren",
+    "subcategories": ["Karteikarten"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003920585",
+    "name": "Spiegelau Gin und Tonic 4er Set",
+    "category": "Haushalt",
+    "subcategories": ["Gin und Tonic"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003846090",
+    "name": "Spiegelau Summertime Gin Tonic 4er Set",
+    "category": "Haushalt",
+    "subcategories": ["Gin und Tonic"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002846664",
+    "name": "Stanley Rogers Abseihlöffel 33 cm",
+    "category": "Küchenhelfer",
+    "subcategories": ["Abseihlöffel"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002848415",
+    "name": "Stanley Rogers Abseihlöffel 34 cm",
+    "category": "Küchenhelfer",
+    "subcategories": ["Abseihlöffel"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001828395",
+    "name": "Stanley Rogers Abseihlöffel Edelstahl 320 mm",
+    "category": "Küchenhelfer",
+    "subcategories": ["Abseihlöffel"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001829132",
+    "name": "Stanley Rogers Apfelentkerner Pride 215mm",
+    "category": "Küchenhelfer",
+    "subcategories": ["Apfelentkerner"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004382672",
+    "name": "Stanley Rogers Avocadotool Premium 4in1",
+    "category": "Küchenhelfer",
+    "subcategories": ["Avocadotool"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001828920",
+    "name": "Stanley Rogers Dosenöffner Pride 200 mm",
+    "category": "Küchenhelfer",
+    "subcategories": ["Dosenöffner"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001829040",
+    "name": "Stanley Rogers Eisportionierer Edelstahl Ø50x215mm",
+    "category": "Küchenhelfer",
+    "subcategories": ["Eisportionierer"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004382689",
+    "name": "Stanley Rogers Elektrische Mühle",
+    "category": "Küchenhelfer",
+    "subcategories": ["Elektrische Mühle"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001828388",
+    "name": "Stanley Rogers Fleischgabel Edelstahl 325 mm",
+    "category": "Küchenhelfer",
+    "subcategories": ["Fleischgabel"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001828340",
+    "name": "Stanley Rogers Fleischklopfer Aluminium/Soft Touch 260mm",
+    "category": "Küchenhelfer",
+    "subcategories": ["Fleischklopfer"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001828302",
+    "name": "Stanley Rogers Geflügelschere Edelstahl 250 mm",
+    "category": "Küchenhelfer",
+    "subcategories": ["Geflügelschere"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001829002",
+    "name": "Stanley Rogers Gemüseschäler 12cm",
+    "category": "Küchenhelfer",
+    "subcategories": ["Gemüseschäler"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001830428",
+    "name": "Stanley Rogers Kartoffelstampfer Pride 300mm",
+    "category": "Küchenhelfer",
+    "subcategories": ["Kartoffelstampfer"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001829088",
+    "name": "Stanley Rogers Kellnerkorkenzieher 27,7cm",
+    "category": "Küchenhelfer",
+    "subcategories": ["Korkenzieher"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001828951",
+    "name": "Stanley Rogers Knoblauchpresse Pride 190mm",
+    "category": "Küchenhelfer",
+    "subcategories": ["Knoblauchpresse"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003761317",
+    "name": "Stanley Rogers Kochlöffel 31 cm, Buche",
+    "category": "Küchenhelfer",
+    "subcategories": ["Kochlöffel"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002848453",
+    "name": "Stanley Rogers Kochlöffel rund, 32 cm",
+    "category": "Küchenhelfer",
+    "subcategories": ["Kochlöffel"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001829064",
+    "name": "Stanley Rogers Korkenzieher 19cm",
+    "category": "Küchenhelfer",
+    "subcategories": ["Korkenzieher"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001829101",
+    "name": "Stanley Rogers Käseschneider Pride 215mm",
+    "category": "Küchenhelfer",
+    "subcategories": ["Käseschneider"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001828777",
+    "name": "Stanley Rogers Mehrzweckzange 34cm",
+    "category": "Küchenhelfer",
+    "subcategories": ["Mehrzweckzange"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003643941",
+    "name": "Stanley Rogers Messerset Kaese 3tlg.",
+    "category": "Küchenhelfer",
+    "subcategories": ["Messerset"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003096723",
+    "name": "Stanley Rogers Muskatreibe mit Behälter",
+    "category": "Küchenhelfer",
+    "subcategories": ["Muskatreibe"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001829170",
+    "name": "Stanley Rogers Nussknacker Zinklegierung verchromt 170mm",
+    "category": "Küchenhelfer",
+    "subcategories": ["Nussknacker"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001829149",
+    "name": "Stanley Rogers Pendelschäler 16cm",
+    "category": "Küchenhelfer",
+    "subcategories": ["Pendelschäler"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002846572",
+    "name": "Stanley Rogers Pfannenwender 32 cm",
+    "category": "Küchenhelfer",
+    "subcategories": ["Pfannenwender"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001830473",
+    "name": "Stanley Rogers Pizzaschneider Pride Ø60x185mm",
+    "category": "Küchenhelfer",
+    "subcategories": ["Pizzaschneider"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002848613",
+    "name": "Stanley Rogers Schlitzlöffel Bambus 33 cm",
+    "category": "Küchenhelfer",
+    "subcategories": ["Schlitzlöffel"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002848330",
+    "name": "Stanley Rogers Schlitzwender 33 cm",
+    "category": "Küchenhelfer",
+    "subcategories": ["Schlitzwender"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002848606",
+    "name": "Stanley Rogers Schlitzwender Bambus 32 cm, Bambus 325mm",
+    "category": "Küchenhelfer",
+    "subcategories": ["Schlitzwender"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001828418",
+    "name": "Stanley Rogers Schlitzwender Edelstahl 325 mm",
+    "category": "Küchenhelfer",
+    "subcategories": ["Schlitzwender"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002842833",
+    "name": "Stanley Rogers Schneidbrett Buchenholz 360x250x15mm",
+    "category": "Küchenhelfer",
+    "subcategories": ["Schneidbrett"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002842864",
+    "name": "Stanley Rogers Schneidbrett Buchenholz 390x120x11mm",
+    "category": "Küchenhelfer",
+    "subcategories": ["Schneidbrett"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002842840",
+    "name": "Stanley Rogers Schneidbrett Buchenholz 450x200x15mm",
+    "category": "Küchenhelfer",
+    "subcategories": ["Schneidbrett"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002842857",
+    "name": "Stanley Rogers Schneidbrett Buchenholz 450x200x15mm",
+    "category": "Küchenhelfer",
+    "subcategories": ["Schneidbrett"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002842871",
+    "name": "Stanley Rogers Schneidbrett Buchenholz 450x210x15mm",
+    "category": "Küchenhelfer",
+    "subcategories": ["Schneidbrett"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001829125",
+    "name": "Stanley Rogers Schäler Pride 190mm",
+    "category": "Küchenhelfer",
+    "subcategories": ["Schäler"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002846701",
+    "name": "Stanley Rogers Schöpflöffel 33 cm 330mm",
+    "category": "Küchenhelfer",
+    "subcategories": ["Schöpflöffel"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001828432",
+    "name": "Stanley Rogers Schöpflöffel Edelstahl 320 mm",
+    "category": "Küchenhelfer",
+    "subcategories": ["Schöpflöffel"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002846619",
+    "name": "Stanley Rogers Schöpflöffel Pride 305mm",
+    "category": "Küchenhelfer",
+    "subcategories": ["Schöpflöffel"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001828562",
+    "name": "Stanley Rogers Sieb 10,5cm",
+    "category": "Küchenhelfer",
+    "subcategories": ["Sieb"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001828500",
+    "name": "Stanley Rogers Sieb 14,5 cm",
+    "category": "Küchenhelfer",
+    "subcategories": ["Sieb"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001828586",
+    "name": "Stanley Rogers Sieb 20cm",
+    "category": "Küchenhelfer",
+    "subcategories": ["Sieb"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001828470",
+    "name": "Stanley Rogers Sieb 7,5cm",
+    "category": "Küchenhelfer",
+    "subcategories": ["Sieb"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001828364",
+    "name": "Stanley Rogers Silikon-Pinsel 20cm",
+    "category": "Küchenhelfer",
+    "subcategories": ["Silikon-Pinsel"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001828401",
+    "name": "Stanley Rogers Spaghettilöffel Edelstahl 310 mm",
+    "category": "Küchenhelfer",
+    "subcategories": ["Spaghettilöffel"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002846633",
+    "name": "Stanley Rogers Spaghettilöffel Pride 305mm",
+    "category": "Küchenhelfer",
+    "subcategories": ["Spaghettilöffel"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002848491",
+    "name": "Stanley Rogers Spitzlöffel 32 cm",
+    "category": "Küchenhelfer",
+    "subcategories": ["Spitzlöffel"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001828456",
+    "name": "Stanley Rogers Spritzschutz Pride Ø290x425mm",
+    "category": "Küchenhelfer",
+    "subcategories": ["Spritzschutz"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001828371",
+    "name": "Stanley Rogers Teigschaber 26cm",
+    "category": "Küchenhelfer",
+    "subcategories": ["Teigschaber"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001828319",
+    "name": "Stanley Rogers Universalreibe Edelstahl/Silikon 287x115mm",
+    "category": "Küchenhelfer",
+    "subcategories": ["Universalreibe"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001829194",
+    "name": "Stanley Rogers Universalschere 20cm 205x90mm",
+    "category": "Küchenhelfer",
+    "subcategories": ["Universalschere"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002848620",
+    "name": "Stanley Rogers Vorlegelöffel Bambus 33 cm",
+    "category": "Küchenhelfer",
+    "subcategories": ["Vorlegelöffel"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001828425",
+    "name": "Stanley Rogers Vorlegelöffel Edelstahl 315 mm",
+    "category": "Küchenhelfer",
+    "subcategories": ["Vorlegelöffel"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001830541",
+    "name": "Stanley Rogers Ziehschäler Pride 155mm",
+    "category": "Küchenhelfer",
+    "subcategories": ["Ziehschäler"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003669798",
+    "name": "Superior Design Products Brotbackset 4-tlg.",
+    "category": "Backzubehör",
+    "subcategories": ["Brotbackset"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002584504",
+    "name": "Superior Design Products Brotkörbchen groß 26x19x12cm",
+    "category": "Backzubehör",
+    "subcategories": ["Brotkörbchen"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002584528",
+    "name": "Superior Design Products Brotkörbchen klein 21x15x10cm",
+    "category": "Backzubehör",
+    "subcategories": ["Brotkörbchen"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003086656",
+    "name": "Superior Design Products Brotkörbchen mittel 23x17x11cm",
+    "category": "Backzubehör",
+    "subcategories": ["Brotkörbchen"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003063190",
+    "name": "Superior Design Products Brotschieber aus Holz 45x28x0,7 cm",
+    "category": "Backzubehör",
+    "subcategories": ["Brotschieber"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003328824",
+    "name": "Superior Design Products Bäckermesser",
+    "category": "Backzubehör",
+    "subcategories": ["Bäckermesser"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003328800",
+    "name": "Superior Design Products Dänischer Teigquirl",
+    "category": "Backzubehör",
+    "subcategories": ["Teigquirl"]
+  },
+  {
+    "store": "spar",
+    "id": "2020000917861",
+    "name": "Superior Design Products Eierbecher-Set 4 teilig Pastell Farben",
+    "category": "Geschirr",
+    "subcategories": ["Eierbecher"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003556876",
+    "name": "Superior Design Products Fondueset gusseisern für 6 Personen",
+    "category": "Küchenhelfer",
+    "subcategories": ["Fondueset"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003498107",
+    "name": "Superior Design Products Französischer Teigroller 50cm",
+    "category": "Backzubehör",
+    "subcategories": ["Teigroller"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002518561",
+    "name": "Superior Design Products Frühstückspfanne 15cm",
+    "category": "Kochgeschirr",
+    "subcategories": ["Pfanne"]
+  },
+  {
+    "store": "spar",
+    "id": "3919354",
+    "name": "Superior Design Products Gemüse- und Steakpfanne 21cm",
+    "category": "Kochgeschirr",
+    "subcategories": ["Pfanne"]
+  },
+  {
+    "store": "spar",
+    "id": "3919446",
+    "name": "Superior Design Products Grillpfanne 26 x 26 cm",
+    "category": "Kochgeschirr",
+    "subcategories": ["Pfanne"]
+  },
+  {
+    "store": "spar",
+    "id": "3919286",
+    "name": "Superior Design Products Grillpfanne 27x18cm oval",
+    "category": "Kochgeschirr",
+    "subcategories": ["Pfanne"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002357610",
+    "name": "Superior Design Products Gusseisene Pfanne 24cm mit Holzstiel",
+    "category": "Kochgeschirr",
+    "subcategories": ["Pfanne"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003396182",
+    "name": "Superior Design Products Gusseisenes Töpfchen mit Deckel und Holzbrett",
+    "category": "Kochgeschirr",
+    "subcategories": ["Töpfchen"]
+  }
+]

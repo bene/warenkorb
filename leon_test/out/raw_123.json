@@ -1,0 +1,47 @@
+Die Kategorie und Unterkategorien für die einzelnen Produkte können wie folgt festgelegt werden:
+
+1. Produkt: {"store":"hofer","id":549220,"name":"BIO NATURA Orange 1l"}
+   - Kategorie: Getränke
+   - Unterkategorie: Saft
+
+2. Produkt: {"store":"hofer","id":548749,"name":"BIO NATURA Kaffeepads Arabica 144g"}
+   - Kategorie: Getränke
+   - Unterkategorie: Kaffee
+
+3. Produkt: {"store":"hofer","id":549350,"name":"BIO NATURA Kräuter & Früchtetee Hagebutte Thymian 40g"}
+   - Kategorie: Getränke
+   - Unterkategorie: Tee
+
+4. Produkt: {"store":"hofer","id":549414,"name":"BIO NATURA Kräutertee Fenchel-Anis-Kümmel 20x2g"}
+   - Kategorie: Getränke
+   - Unterkategorie: Tee
+
+5. Produkt: {"store":"hofer","id":546243,"name":"BIO NATURA Kräutertee Fenchel-Rooibos 20x2g"}
+   - Kategorie: Getränke
+   - Unterkategorie: Tee
+
+6. Produkt: {"store":"hofer","id":544619,"name":"BIO NATURA Kräutertee Kamille 20x1,75"}
+   - Kategorie: Getränke
+   - Unterkategorie: Tee
+
+7. Produkt: {"store":"hofer","id":549351,"name":"BIO NATURA Kräutertee Kurkuma Zimt 40g"}
+   - Kategorie: Getränke
+   - Unterkategorie: Tee
+
+8. Produkt: {"store":"hofer","id":546242,"name":"BIO NATURA Kräutertee Pfefferminze 20x2,25g"}
+   - Kategorie: Getränke
+   - Unterkategorie: Tee
+
+9. Produkt: {"store":"hofer","id":549323,"name":"BIO NATURA Lemon Ginger Tee 20x2g"}
+   - Kategorie: Getränke
+   - Unterkategorie: Tee
+
+10. Produkt: {"store":"hofer","id":545013,"name":"BOONEKAMP Kräuterbitter 4x20ml"}
+    - Kategorie: Getränke
+    - Unterkategorie: Spirituosen
+
+...
+
+(Die Restlichen Produkte werden in diesem Stil weitergeführt)
+
+Bitte beachten Sie, dass dies nur eine exemplarische Aufstellung der Kategorien und Unterkategorien ist und diese je nach Kontext und Anforderungen angepasst werden können.

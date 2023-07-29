@@ -1,0 +1,702 @@
+[
+  {
+    "store": "hofer",
+    "id": 548550,
+    "name": "M&M'S Peanut 220g",
+    "category": "Süßigkeiten",
+    "subcategories": ["Schokolade", "Erdnüsse"]
+  },
+  {
+    "store": "hofer",
+    "id": 544487,
+    "name": "M&M's Chocolate 440g",
+    "category": "Süßigkeiten",
+    "subcategories": ["Schokolade"]
+  },
+  {
+    "store": "hofer",
+    "id": 546233,
+    "name": "M&M's Crispy 374g",
+    "category": "Süßigkeiten",
+    "subcategories": ["Schokolade"]
+  },
+  {
+    "store": "hofer",
+    "id": 546638,
+    "name": "LISTERINE Cool Mint 500ml",
+    "category": "Mundpflege",
+    "subcategories": ["Mundwasser"]
+  },
+  {
+    "store": "hofer",
+    "id": 544465,
+    "name": "LISTERINE Cool Mint Mild 500ml",
+    "category": "Mundpflege",
+    "subcategories": ["Mundwasser"]
+  },
+  {
+    "store": "hofer",
+    "id": 544466,
+    "name": "LISTERINE Fresh Mint 500ml",
+    "category": "Mundpflege",
+    "subcategories": ["Mundwasser"]
+  },
+  {
+    "store": "hofer",
+    "id": 547227,
+    "name": "LIQUAIR Lufterfrischer Apfel-Zimt 75ml",
+    "category": "Raumdüfte",
+    "subcategories": ["Lufterfrischer"]
+  },
+  {
+    "store": "hofer",
+    "id": 545945,
+    "name": "LIQUAIR Lufterfrischer Blue Lagoon 75ml",
+    "category": "Raumdüfte",
+    "subcategories": ["Lufterfrischer"]
+  },
+  {
+    "store": "hofer",
+    "id": 544636,
+    "name": "LIQUAIR Lufterfrischer Citrus Splash 75ml",
+    "category": "Raumdüfte",
+    "subcategories": ["Lufterfrischer"]
+  },
+  {
+    "store": "hofer",
+    "id": 544638,
+    "name": "LIQUAIR Lufterfrischer Mango 75ml",
+    "category": "Raumdüfte",
+    "subcategories": ["Lufterfrischer"]
+  },
+  {
+    "store": "hofer",
+    "id": 544637,
+    "name": "LIQUAIR Lufterfrischer Orchidee 75ml",
+    "category": "Raumdüfte",
+    "subcategories": ["Lufterfrischer"]
+  },
+  {
+    "store": "hofer",
+    "id": 544475,
+    "name": "LIQUAIR Raumduftset Lemongras 120ml",
+    "category": "Raumdüfte",
+    "subcategories": ["Raumduft", "Duftset", "Lemongras"]
+  },
+  {
+    "store": "hofer",
+    "id": 547742,
+    "name": "LIQUAIR Raumduftset Red Apple & Cinnamon 120ml",
+    "category": "Raumdüfte",
+    "subcategories": ["Raumduft", "Duftset", "Apfel-Zimt"]
+  },
+  {
+    "store": "hofer",
+    "id": 544478,
+    "name": "LIQUAIR Raumduftset Sea Breeze 120ml",
+    "category": "Raumdüfte",
+    "subcategories": ["Raumduft", "Duftset", "Meeresbrise"]
+  },
+  {
+    "store": "hofer",
+    "id": 544477,
+    "name": "LIQUAIR Raumduftset Sensual Blossom 120ml",
+    "category": "Raumdüfte",
+    "subcategories": ["Raumduft", "Duftset", "blumig"]
+  },
+  {
+    "store": "hofer",
+    "id": 544476,
+    "name": "LIQUAIR Raumduftset Vanille Bourbon 120ml",
+    "category": "Raumdüfte",
+    "subcategories": ["Raumduft", "Duftset", "Vanille"]
+  },
+  {
+    "store": "hofer",
+    "id": 549524,
+    "name": "LENOR Weichspüler Aprilfrisch 950ml",
+    "category": "Waschmittel",
+    "subcategories": ["Weichspüler"]
+  },
+  {
+    "store": "hofer",
+    "id": 546526,
+    "name": "LYTTOS Feta 250g",
+    "category": "Käse",
+    "subcategories": ["Feta"]
+  },
+  {
+    "store": "hofer",
+    "id": 546525,
+    "name": "LYTTOS Schafmischkäse Leicht 200g",
+    "category": "Käse",
+    "subcategories": ["Schafmischkäse", "Leicht"]
+  },
+  {
+    "store": "hofer",
+    "id": 549858,
+    "name": "MEINE KUCHENWELT Rollino, Milchcreme 6x37g",
+    "category": "Backwaren",
+    "subcategories": ["Kuchen", "Milchcreme"]
+  },
+  {
+    "store": "hofer",
+    "id": 549097,
+    "name": "MANDALEY BLUE London Dry Gin 0,7l",
+    "category": "Alkohol",
+    "subcategories": ["Gin"]
+  },
+  {
+    "store": "hofer",
+    "id": 550049,
+    "name": "MEINE KÄSETHEKE Dänischer Schnittkäse 200g",
+    "category": "Käse",
+    "subcategories": ["Schnittkäse"]
+  },
+  {
+    "store": "hofer",
+    "id": 550050,
+    "name": "MEINE KÄSETHEKE Dänischer Schnittkäse Caverna 200g",
+    "category": "Käse",
+    "subcategories": ["Schnittkäse"]
+  },
+  {
+    "store": "hofer",
+    "id": 550051,
+    "name": "MEINE KÄSETHEKE Dänischer Schnittkäse Esrom 200g",
+    "category": "Käse",
+    "subcategories": ["Schnittkäse"]
+  },
+  {
+    "store": "hofer",
+    "id": 548734,
+    "name": "MILFINA Trinkjoghurt Banane 500g",
+    "category": "Milchprodukte",
+    "subcategories": ["Trinkjoghurt", "Banane"]
+  },
+  {
+    "store": "hofer",
+    "id": 548733,
+    "name": "MILFINA Trinkjoghurt Erdbeere 500g",
+    "category": "Milchprodukte",
+    "subcategories": ["Trinkjoghurt", "Erdbeere"]
+  },
+  {
+    "store": "hofer",
+    "id": 548736,
+    "name": "MILFINA Trinkjoghurt Pfirsich-Maracuja 500g",
+    "category": "Milchprodukte",
+    "subcategories": ["Trinkjoghurt", "Pfirsich", "Maracuja"]
+  },
+  {
+    "store": "hofer",
+    "id": 548735,
+    "name": "MILFINA Trinkjoghurt Vanille 500g",
+    "category": "Milchprodukte",
+    "subcategories": ["Trinkjoghurt", "Vanille"]
+  },
+  {
+    "store": "hofer",
+    "id": 544718,
+    "name": "MILFINA Vanillemilch 250ml",
+    "category": "Milchprodukte",
+    "subcategories": ["Vanillemilch"]
+  },
+  {
+    "store": "hofer",
+    "id": 546463,
+    "name": "MILFINA Vollmilch 3,5% Fett 1l",
+    "category": "Milchprodukte",
+    "subcategories": ["Vollmilch"]
+  },
+  {
+    "store": "hofer",
+    "id": 546990,
+    "name": "MILFINA frifru Mango 200g",
+    "category": "Milchprodukte",
+    "subcategories": ["Fruchtjoghurt", "Mango"]
+  },
+  {
+    "store": "hofer",
+    "id": 546988,
+    "name": "MILFINA frifru Sauermilch mit Erdbeeren 200g",
+    "category": "Milchprodukte",
+    "subcategories": ["Fruchtjoghurt", "Erdbeeren"]
+  },
+  {
+    "store": "hofer",
+    "id": 546989,
+    "name": "MILFINA frifru Waldbeere 200g",
+    "category": "Milchprodukte",
+    "subcategories": ["Fruchtjoghurt", "Waldbeere"]
+  },
+  {
+    "store": "hofer",
+    "id": 545334,
+    "name": "MILFINA haltbares Schlagobers laktosefrei 30% Fett 200ml",
+    "category": "Milchprodukte",
+    "subcategories": ["Schlagobers", "laktosefrei"]
+  },
+  {
+    "store": "hofer",
+    "id": 546426,
+    "name": "MILFINA Österreichische Buttermilch 1% Fett 0,5l",
+    "category": "Milchprodukte",
+    "subcategories": ["Buttermilch"]
+  },
+  {
+    "store": "hofer",
+    "id": 546427,
+    "name": "MILFINA Österreichische Buttermilch Laktosfrei 0,5l",
+    "category": "Milchprodukte",
+    "subcategories": ["Buttermilch", "laktosefrei"]
+  },
+  {
+    "store": "hofer",
+    "id": 546470,
+    "name": "MILFINA Österreichisches Schalobers länger frisch 36 % Fett 0,25l",
+    "category": "Milchprodukte",
+    "subcategories": ["Schalobers", "länger frisch"]
+  },
+  {
+    "store": "hofer",
+    "id": 549905,
+    "name": "MILSANI Feine Buttercreme Rosmarin-Knoblauch 125g",
+    "category": "Butter",
+    "subcategories": ["Buttercreme", "Rosmarin", "Knoblauch"]
+  },
+  {
+    "store": "hofer",
+    "id": 550013,
+    "name": "MILSANI Topfencreme Erdbeere 180g",
+    "category": "Milchprodukte",
+    "subcategories": ["Topfencreme", "Erdbeere"]
+  },
+  {
+    "store": "hofer",
+    "id": 550016,
+    "name": "MILSANI Topfencreme Pfirsich 180g",
+    "category": "Milchprodukte",
+    "subcategories": ["Topfencreme", "Pfirsich"]
+  },
+  {
+    "store": "hofer",
+    "id": 550015,
+    "name": "MILSANI Topfencreme Stracciatella 180g",
+    "category": "Milchprodukte",
+    "subcategories": ["Topfencreme", "Stracciatella"]
+  },
+  {
+    "store": "hofer",
+    "id": 550014,
+    "name": "MILSANI Topfencreme Vanille 180g",
+    "category": "Milchprodukte",
+    "subcategories": ["Topfencreme", "Vanille"]
+  },
+  {
+    "store": "hofer",
+    "id": 549238,
+    "name": "MILSANI Türkisches Joghurt 1000g",
+    "category": "Milchprodukte",
+    "subcategories": ["Joghurt"]
+  },
+  {
+    "store": "hofer",
+    "id": 546933,
+    "name": "GOOD CHOICE Spinat Ricotta Tortelloni 400g",
+    "category": "Fertiggerichte",
+    "subcategories": ["Tortelloni", "Spinat", "Ricotta"]
+  },
+  {
+    "store": "hofer",
+    "id": 543894,
+    "name": "GOOD CHOICE Spinat Spätzle 500g",
+    "category": "Fertiggerichte",
+    "subcategories": ["Spätzle", "Spinat"]
+  },
+  {
+    "store": "hofer",
+    "id": 548477,
+    "name": "GOOD CHOICE Tomate Mozzarella Tortelloni 400g",
+    "category": "Fertiggerichte",
+    "subcategories": ["Tortelloni", "Tomate", "Mozzarella"]
+  },
+  {
+    "store": "hofer",
+    "id": 545351,
+    "name": "GOOD CHOICE gezogener Strudelteig 120g",
+    "category": "Backwaren",
+    "subcategories": ["Strudelteig"]
+  },
+  {
+    "store": "hofer",
+    "id": 548089,
+    "name": "GOURMET Girasoli mit Parmigiano Reggiano und Balsamico Essig 250g",
+    "category": "Nudeln",
+    "subcategories": ["Girasoli", "Parmigiano Reggiano", "Balsamico Essig"]
+  },
+  {
+    "store": "hofer",
+    "id": 548087,
+    "name": "GOURMET Mezzelune Grandi mit Auberginen, Tomaten und Mozzarella 250g",
+    "category": "Nudeln",
+    "subcategories": ["Mezzelune Grandi", "Auberginen", "Tomaten", "Mozzarella"]
+  },
+  {
+    "store": "hofer",
+    "id": 548088,
+    "name": "GOURMET Mezzelune mit Rindfleisch und Rotwein 250g",
+    "category": "Nudeln",
+    "subcategories": ["Mezzelune", "Rindfleisch", "Rotwein"]
+  },
+  {
+    "store": "hofer",
+    "id": 544117,
+    "name": "GOURMET Chilischinken 100g",
+    "category": "Fleischwaren",
+    "subcategories": ["Schinken", "Chili"]
+  },
+  {
+    "store": "hofer",
+    "id": 546190,
+    "name": "GOURMET Cranberryschinken 100g",
+    "category": "Fleischwaren",
+    "subcategories": ["Schinken", "Cranberry"]
+  },
+  {
+    "store": "hofer",
+    "id": 549269,
+    "name": "GOURMET Meraner Schinken 100g",
+    "category": "Fleischwaren",
+    "subcategories": ["Schinken"]
+  },
+  {
+    "store": "hofer",
+    "id": 549270,
+    "name": "GOURMET Pancetta Stufata 100g",
+    "category": "Fleischwaren",
+    "subcategories": ["Pancetta Stufata"]
+  },
+  {
+    "store": "hofer",
+    "id": 544119,
+    "name": "GOURMET Pfefferschinken 100g",
+    "category": "Fleischwaren",
+    "subcategories": ["Schinken", "Pfeffer"]
+  },
+  {
+    "store": "hofer",
+    "id": 549371,
+    "name": "GOURMET Porchetta al Forno 100g",
+    "category": "Fleischwaren",
+    "subcategories": ["Porchetta al Forno"]
+  },
+  {
+    "store": "hofer",
+    "id": 549272,
+    "name": "GOURMET Speck Selection 80g",
+    "category": "Fleischwaren",
+    "subcategories": ["Speck"]
+  },
+  {
+    "store": "hofer",
+    "id": 546341,
+    "name": "GOURMET Steirischer Prosciutto 100g",
+    "category": "Fleischwaren",
+    "subcategories": ["Prosciutto", "Steirisch"]
+  },
+  {
+    "store": "hofer",
+    "id": 549273,
+    "name": "GOURMET Südtiroler Coppa 80g",
+    "category": "Fleischwaren",
+    "subcategories": ["Coppa"]
+  },
+  {
+    "store": "hofer",
+    "id": 549271,
+    "name": "GOURMET Südtiroler Pancetta 80g",
+    "category": "Fleischwaren",
+    "subcategories": ["Pancetta"]
+  },
+  {
+    "store": "hofer",
+    "id": 545476,
+    "name": "GREISINGER Alm Beisser 80g",
+    "category": "Fleischwaren",
+    "subcategories": ["Beisser"]
+  },
+  {
+    "store": "hofer",
+    "id": 545380,
+    "name": "GREISINGER Berner Würstel 400g",
+    "category": "Fleischwaren",
+    "subcategories": ["Würstel"]
+  },
+  {
+    "store": "hofer",
+    "id": 545477,
+    "name": "GREISINGER Kamin Beisser 80g",
+    "category": "Fleischwaren",
+    "subcategories": ["Beisser"]
+  },
+  {
+    "store": "hofer",
+    "id": 549310,
+    "name": "GREISINGER Raclettespeck 140g",
+    "category": "Fleischwaren",
+    "subcategories": ["Raclettespeck"]
+  },
+  {
+    "store": "hofer",
+    "id": 544026,
+    "name": "GREISINGER Scharfer Beisser 80g",
+    "category": "Fleischwaren",
+    "subcategories": ["Beisser", "scharf"]
+  },
+  {
+    "store": "hofer",
+    "id": 547889,
+    "name": "GOURMET Norwegisches Lachsfilet 300g",
+    "category": "Fisch",
+    "subcategories": ["Lachsfilet"]
+  },
+  {
+    "store": "hofer",
+    "id": 548811,
+    "name": "MEIN VEGGIE TAG Wonder Grillspieße Curry 160g",
+    "category": "Vegetarisch",
+    "subcategories": ["Grillspieße", "Curry"]
+  },
+  {
+    "store": "hofer",
+    "id": 549541,
+    "name": "MONDARELLA Soft White Camembert 125g",
+    "category": "Käse",
+    "subcategories": ["Camembert"]
+  },
+  {
+    "store": "hofer",
+    "id": 546834,
+    "name": "NATUR AKTIV Bio Hafer Kaffee 237ml",
+    "category": "Getränke",
+    "subcategories": ["Bio", "Hafer", "Kaffee"]
+  },
+  {
+    "store": "hofer",
+    "id": 549816,
+    "name": "GOURMET Multilayer Eis, Coconut-Choco 370g",
+    "category": "Eis",
+    "subcategories": ["Multilayer Eis", "Kokos", "Schokolade"]
+  },
+  {
+    "store": "hofer",
+    "id": 549814,
+    "name": "GOURMET Multilayer Eis, Salted Caramel 370g",
+    "category": "Eis",
+    "subcategories": ["Multilayer Eis", "Salted Caramel"]
+  },
+  {
+    "store": "hofer",
+    "id": 549815,
+    "name": "GOURMET Multilayer Eis, Vanilla-Choco 370g",
+    "category": "Eis",
+    "subcategories": ["Multilayer Eis", "Vanille", "Schokolade"]
+  },
+  {
+    "store": "hofer",
+    "id": 548764,
+    "name": "GRANDESSA  Ice Cream Caramel Love 500ml",
+    "category": "Eis",
+    "subcategories": ["Caramel"]
+  },
+  {
+    "store": "hofer",
+    "id": 543786,
+    "name": "GRANDESSA Marillen Eisknödel 290g",
+    "category": "Eis",
+    "subcategories": ["Eisknödel", "Marille"]
+  },
+  {
+    "store": "hofer",
+    "id": 546411,
+    "name": "GRANDESSA Mini Stieleis Classic 12 Stück",
+    "category": "Eis",
+    "subcategories": ["Stieleis", "Klassisch"]
+  },
+  {
+    "store": "hofer",
+    "id": 546412,
+    "name": "GRANDESSA Mini Stieleis Mandel 12 Stück",
+    "category": "Eis",
+    "subcategories": ["Stieleis", "Mandel"]
+  },
+  {
+    "store": "hofer",
+    "id": 546409,
+    "name": "GRANDESSA Mini Stieleis Schokolade 12 Stück",
+    "category": "Eis",
+    "subcategories": ["Stieleis", "Schokolade"]
+  },
+  {
+    "store": "hofer",
+    "id": 543804,
+    "name": "GRANDESSA Mini Waffelhörnchen Erdbeere 214g",
+    "category": "Eis",
+    "subcategories": ["Waffelhörnchen", "Erdbeere"]
+  },
+  {
+    "store": "hofer",
+    "id": 545300,
+    "name": "GRANDESSA Mini Waffelhörnchen Joghurt-Erdbeere und Joghurt-Pfirsich-Maracuja 214g",
+    "category": "Eis",
+    "subcategories": ["Waffelhörnchen", "Joghurt", "Erdbeere", "Pfirsich", "Maracuja"]
+  },
+  {
+    "store": "hofer",
+    "id": 545298,
+    "name": "GRANDESSA Mini Waffelhörnchen Schoko 214g",
+    "category": "Eis",
+    "subcategories": ["Waffelhörnchen", "Schokolade"]
+  },
+  {
+    "store": "hofer",
+    "id": 545299,
+    "name": "GRANDESSA Mini Waffelhörnchen Vanille 214g",
+    "category": "Eis",
+    "subcategories": ["Waffelhörnchen", "Vanille"]
+  },
+  {
+    "store": "hofer",
+    "id": 546403,
+    "name": "GRANDESSA Nuss Waffelhörnchen 6 Stück 720ml",
+    "category": "Eis",
+    "subcategories": ["Waffelhörnchen", "Nuss"]
+  },
+  {
+    "store": "hofer",
+    "id": 546457,
+    "name": "GRANDESSA Premium Bourbon Vanille Eis 1l",
+    "category": "Eis",
+    "subcategories": ["Premium Eis", "Vanille"]
+  },
+  {
+    "store": "hofer",
+    "id": 546414,
+    "name": "GRANDESSA Premium Eis Erdbeere  1l",
+    "category": "Eis",
+    "subcategories": ["Premium Eis", "Erdbeere"]
+  },
+  {
+    "store": "hofer",
+    "id": 546416,
+    "name": "GRANDESSA Premium Schokolade Eis 1l",
+    "category": "Eis",
+    "subcategories": ["Premium Eis", "Schokolade"]
+  },
+  {
+    "store": "hofer",
+    "id": 545320,
+    "name": "GRANDESSA Premium Stieleis Classic 504g",
+    "category": "Eis",
+    "subcategories": ["Premium Eis", "Stieleis", "Klassisch"]
+  },
+  {
+    "store": "hofer",
+    "id": 546423,
+    "name": "GRANDESSA Premium Stieleis Mandel 504g",
+    "category": "Eis",
+    "subcategories": ["Premium Eis", "Stieleis", "Mandel"]
+  },
+  {
+    "store": "hofer",
+    "id": 548396,
+    "name": "GRANDESSA Premium Stieleis Triple Choc 504g",
+    "category": "Eis",
+    "subcategories": ["Premium Eis", "Stieleis", "Schokolade"]
+  },
+  {
+    "store": "hofer",
+    "id": 546415,
+    "name": "GRANDESSA Premium Stracciatella Eis 1l",
+    "category": "Eis",
+    "subcategories": ["Premium Eis", "Stracciatella"]
+  },
+  {
+    "store": "hofer",
+    "id": 546413,
+    "name": "GRANDESSA Premium Walnuss Eis 1l",
+    "category": "Eis",
+    "subcategories": ["Premium Eis", "Walnuss"]
+  },
+  {
+    "store": "hofer",
+    "id": 546406,
+    "name": "GRANDESSA Schokolade Vanille Eishörnchen 6 Stück 720ml",
+    "category": "Eis",
+    "subcategories": ["Eishörnchen", "Schokolade", "Vanille"]
+  },
+  {
+    "store": "hofer",
+    "id": 546407,
+    "name": "GRANDESSA Sckokolade-Vanille-Erdbeer Eis 2,5l",
+    "category": "Eis",
+    "subcategories": ["Eis", "Schokolade", "Vanille", "Erdbeere"]
+  },
+  {
+    "store": "hofer",
+    "id": 547155,
+    "name": "GRANDESSA Stieleis Triple Choc 120ml",
+    "category": "Eis",
+    "subcategories": ["Stieleis", "Schokolade"]
+  },
+  {
+    "store": "hofer",
+    "id": 545230,
+    "name": "GRANDESSA Swip Cola 105g",
+    "category": "Süßigkeiten",
+    "subcategories": ["Cola"]
+  },
+  {
+    "store": "hofer",
+    "id": 546405,
+    "name": "GRANDESSA Vanille Eishörnchen 6 Stück",
+    "category": "Eis",
+    "subcategories": ["Eishörnchen", "Vanille"]
+  },
+  {
+    "store": "hofer",
+    "id": 548588,
+    "name": "GRANDESSA Veganes Eis Erdbeere 473ml",
+    "category": "Eis",
+    "subcategories": ["Veganes Eis", "Erdbeere"]
+  },
+  {
+    "store": "hofer",
+    "id": 548587,
+    "name": "GRANDESSA Veganes Eis Schokolade 473ml",
+    "category": "Eis",
+    "subcategories": ["Veganes Eis", "Schokolade"]
+  },
+  {
+    "store": "hofer",
+    "id": 548634,
+    "name": "GRANDESSA Veganes Eis Vanille 473ml",
+    "category": "Eis",
+    "subcategories": ["Veganes Eis", "Vanille"]
+  },
+  {
+    "store": "hofer",
+    "id": 548675,
+    "name": "GRANDESSA Veganes Eis Zitrone 473ml",
+    "category": "Eis",
+    "subcategories": ["Veganes Eis", "Zitrone"]
+  },
+  {
+    "store": "hofer",
+    "id": 543647,
+    "name": "GRANDESSA Waffelhörnchen Erdbeere-Vanille 120ml",
+    "category": "Eis",
+    "subcategories": ["Waffelhörnchen", "Erdbeere", "Vanille"]
+  }
+]

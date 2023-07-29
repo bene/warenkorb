@@ -1,0 +1,702 @@
+[
+  {
+    "store": "billa",
+    "id": "00-863932",
+    "name": "Clever Topfreiniger",
+    "category": "Reinigung",
+    "subcategories": ["Küchenreinigung", "Geschirrreinigung"]
+  },
+  {
+    "store": "billa",
+    "id": "00-720664",
+    "name": "Clever Topfreiniger",
+    "category": "Reinigung",
+    "subcategories": ["Küchenreinigung", "Geschirrreinigung"]
+  },
+  {
+    "store": "billa",
+    "id": "00-313140",
+    "name": "Clever WC Duft-Steinchen Lilie",
+    "category": "Reinigung",
+    "subcategories": ["Toilettenreinigung"]
+  },
+  {
+    "store": "billa",
+    "id": "00-313138",
+    "name": "Clever WC Duft-Steinchen Ocean",
+    "category": "Reinigung",
+    "subcategories": ["Toilettenreinigung"]
+  },
+  {
+    "store": "billa",
+    "id": "00-353491",
+    "name": "Clever WC-Reiniger",
+    "category": "Reinigung",
+    "subcategories": ["Toilettenreinigung"]
+  },
+  {
+    "store": "billa",
+    "id": "00-386779",
+    "name": "Clever Wc Beckensteine Ocean",
+    "category": "Reinigung",
+    "subcategories": ["Toilettenreinigung"]
+  },
+  {
+    "store": "billa",
+    "id": "00-856968",
+    "name": "Clin Anti-Glasbeschlag Pistole Streifenfrei Reiniger",
+    "category": "Reinigung",
+    "subcategories": ["Glasreinigung"]
+  },
+  {
+    "store": "billa",
+    "id": "00-117622",
+    "name": "Clin Citrus Frische Pistole Streifenfrei",
+    "category": "Reinigung",
+    "subcategories": ["Glasreinigung"]
+  },
+  {
+    "store": "billa",
+    "id": "00-779614",
+    "name": "Clin Citrus-Frische Squeeze",
+    "category": "Reinigung",
+    "subcategories": ["Glasreinigung"]
+  },
+  {
+    "store": "billa",
+    "id": "00-400856",
+    "name": "Clin Glas & Flächen Pistole Streifenfrei Reiniger",
+    "category": "Reinigung",
+    "subcategories": ["Glasreinigung"]
+  },
+  {
+    "store": "billa",
+    "id": "00-404601",
+    "name": "DanKlorix Hygienereiniger",
+    "category": "Reinigung",
+    "subcategories": ["Haushaltsreinigung"]
+  },
+  {
+    "store": "billa",
+    "id": "00-419026",
+    "name": "DanKlorix Hygienereiniger Frische Duft",
+    "category": "Reinigung",
+    "subcategories": ["Haushaltsreinigung"]
+  },
+  {
+    "store": "billa",
+    "id": "00-763280",
+    "name": "DanKlorix Hygienereiniger Lavendel",
+    "category": "Reinigung",
+    "subcategories": ["Haushaltsreinigung"]
+  },
+  {
+    "store": "billa",
+    "id": "00-900037",
+    "name": "DanKlorix Küchen-Reiniger mit Chlor",
+    "category": "Reinigung",
+    "subcategories": ["Küchenreinigung"]
+  },
+  {
+    "store": "billa",
+    "id": "00-420964",
+    "name": "Dettol Desinfektions Reiniger Limette",
+    "category": "Reinigung",
+    "subcategories": ["Desinfektionsmittel"]
+  },
+  {
+    "store": "billa",
+    "id": "00-420929",
+    "name": "Dettol Desinfektionsreiniger Standard",
+    "category": "Reinigung",
+    "subcategories": ["Desinfektionsmittel"]
+  },
+  {
+    "store": "billa",
+    "id": "00-375007",
+    "name": "Dettol Feuchte Bodentücher Citrus",
+    "category": "Reinigung",
+    "subcategories": ["Bodenreinigung"]
+  },
+  {
+    "store": "billa",
+    "id": "00-467604",
+    "name": "Dettol Reinigungstücher",
+    "category": "Reinigung",
+    "subcategories": ["Allzweckreinigung"]
+  },
+  {
+    "store": "billa",
+    "id": "00-289415",
+    "name": "Dettol Reinigungstücher Granatapfel & Limette",
+    "category": "Reinigung",
+    "subcategories": ["Allzweckreinigung"]
+  },
+  {
+    "store": "billa",
+    "id": "00-930186",
+    "name": "Dettol Reinigungstücher Limette & Minze",
+    "category": "Reinigung",
+    "subcategories": ["Allzweckreinigung"]
+  },
+  {
+    "store": "billa",
+    "id": "00-657377",
+    "name": "Dr. Beckmann Backofen Aktiv-Gel",
+    "category": "Reinigung",
+    "subcategories": ["Küchenreinigung"]
+  },
+  {
+    "store": "billa",
+    "id": "00-740635",
+    "name": "Dr. Beckmann Kühlschrank Frische Zitrus",
+    "category": "Reinigung",
+    "subcategories": ["Küchenreinigung"]
+  },
+  {
+    "store": "billa",
+    "id": "00-379919",
+    "name": "Drano Küchen-Gel",
+    "category": "Reinigung",
+    "subcategories": ["Küchenreinigung"]
+  },
+  {
+    "store": "billa",
+    "id": "00-666297",
+    "name": "Drano Max Power Gel",
+    "category": "Reinigung",
+    "subcategories": ["Küchenreinigung"]
+  },
+  {
+    "store": "billa",
+    "id": "00-902956",
+    "name": "Durgol Swiss Espresso Spezialentkalker",
+    "category": "Reinigung",
+    "subcategories": ["Küchenreinigung"]
+  },
+  {
+    "store": "billa",
+    "id": "00-852288",
+    "name": "Edelstahl-Topfreiniger",
+    "category": "Reinigung",
+    "subcategories": ["Küchenreinigung"]
+  },
+  {
+    "store": "billa",
+    "id": "00-852821",
+    "name": "Emsal Laminat Boden-Pflege",
+    "category": "Reinigung",
+    "subcategories": ["Bodenreinigung"]
+  },
+  {
+    "store": "billa",
+    "id": "00-864946",
+    "name": "Emsal Parkettpflege",
+    "category": "Reinigung",
+    "subcategories": ["Bodenreinigung"]
+  },
+  {
+    "store": "billa",
+    "id": "00-864945",
+    "name": "Emsal Stein Und Fliese",
+    "category": "Reinigung",
+    "subcategories": ["Bodenreinigung"]
+  },
+  {
+    "store": "billa",
+    "id": "00-731525",
+    "name": "Fairy Granatapfel",
+    "category": "Reinigung",
+    "subcategories": ["Geschirrreinigung"]
+  },
+  {
+    "store": "billa",
+    "id": "00-731515",
+    "name": "Fairy Original Spülmittel",
+    "category": "Reinigung",
+    "subcategories": ["Geschirrreinigung"]
+  },
+  {
+    "store": "billa",
+    "id": "00-718585",
+    "name": "Fairy Tabs All In 1 Zitrone",
+    "category": "Reinigung",
+    "subcategories": ["Geschirrreinigung"]
+  },
+  {
+    "store": "billa",
+    "id": "00-718576",
+    "name": "Fairy Tabs Platinum Plus Zitrone",
+    "category": "Reinigung",
+    "subcategories": ["Geschirrreinigung"]
+  },
+  {
+    "store": "billa",
+    "id": "00-446068",
+    "name": "Finish All in 1 XXL Citrus",
+    "category": "Reinigung",
+    "subcategories": ["Geschirrreinigung"]
+  },
+  {
+    "store": "billa",
+    "id": "00-850944",
+    "name": "Finish Klarspüler Brilliant",
+    "category": "Reinigung",
+    "subcategories": ["Geschirrreinigung"]
+  },
+  {
+    "store": "billa",
+    "id": "00-755391",
+    "name": "Finish Maschinenpfleger",
+    "category": "Reinigung",
+    "subcategories": ["Maschinenreinigung"]
+  },
+  {
+    "store": "billa",
+    "id": "00-755393",
+    "name": "Finish Maschinenpfleger Limone",
+    "category": "Reinigung",
+    "subcategories": ["Maschinenreinigung"]
+  },
+  {
+    "store": "billa",
+    "id": "00-797387",
+    "name": "Finish Maschinenpfleger Tabs",
+    "category": "Reinigung",
+    "subcategories": ["Maschinenreinigung"]
+  },
+  {
+    "store": "billa",
+    "id": "00-862781",
+    "name": "Finish Protector",
+    "category": "Reinigung",
+    "subcategories": ["Geschirrreinigung"]
+  },
+  {
+    "store": "billa",
+    "id": "00-538546",
+    "name": "Finish Quantum All-in-1 Regular",
+    "category": "Reinigung",
+    "subcategories": ["Geschirrreinigung"]
+  },
+  {
+    "store": "billa",
+    "id": "00-596879",
+    "name": "Finish Spezial Salz",
+    "category": "Reinigung",
+    "subcategories": ["Geschirrreinigung"]
+  },
+  {
+    "store": "billa",
+    "id": "00-11213",
+    "name": "Finish Spülmaschinen-Duft Citrus",
+    "category": "Reinigung",
+    "subcategories": ["Geschirrreinigung"]
+  },
+  {
+    "store": "billa",
+    "id": "00-721206",
+    "name": "Finish Tabs XXl Classic",
+    "category": "Reinigung",
+    "subcategories": ["Geschirrreinigung"]
+  },
+  {
+    "store": "billa",
+    "id": "00-721502",
+    "name": "Finish Tabs XXl Power All-in-1 Citrus",
+    "category": "Reinigung",
+    "subcategories": ["Geschirrreinigung"]
+  },
+  {
+    "store": "billa",
+    "id": "00-721501",
+    "name": "Finish Tabs XXl Power All-in-1 Regular",
+    "category": "Reinigung",
+    "subcategories": ["Geschirrreinigung"]
+  },
+  {
+    "store": "billa",
+    "id": "00-538545",
+    "name": "Finish Ultimate All-in-1 Citrus",
+    "category": "Reinigung",
+    "subcategories": ["Geschirrreinigung"]
+  },
+  {
+    "store": "billa",
+    "id": "00-864307",
+    "name": "Frosch Aktiv Soda Reiniger",
+    "category": "Reinigung",
+    "subcategories": ["Allzweckreinigung"]
+  },
+  {
+    "store": "billa",
+    "id": "00-649467",
+    "name": "Frosch Allzweckreiniger Lavendel",
+    "category": "Reinigung",
+    "subcategories": ["Allzweckreinigung"]
+  },
+  {
+    "store": "billa",
+    "id": "00-573132",
+    "name": "Frosch Aloe Vera Handspüllotion Nachfüller",
+    "category": "Reinigung",
+    "subcategories": ["Geschirrreinigung"]
+  },
+  {
+    "store": "billa",
+    "id": "00-869808",
+    "name": "Frosch Aloe Vera Spüllotion",
+    "category": "Reinigung",
+    "subcategories": ["Geschirrreinigung"]
+  },
+  {
+    "store": "billa",
+    "id": "00-486038",
+    "name": "Frosch Bio Multiflächen-Reiniger",
+    "category": "Reinigung",
+    "subcategories": ["Allzweckreinigung"]
+  },
+  {
+    "store": "billa",
+    "id": "00-903616",
+    "name": "Frosch Citrus Dusche und Badreiniger",
+    "category": "Reinigung",
+    "subcategories": ["Badreinigung"]
+  },
+  {
+    "store": "billa",
+    "id": "00-764501",
+    "name": "Frosch Essig Kalklöse-Essenz",
+    "category": "Reinigung",
+    "subcategories": ["Kalkreinigung"]
+  },
+  {
+    "store": "billa",
+    "id": "00-649509",
+    "name": "Frosch Essig Reiniger",
+    "category": "Reinigung",
+    "subcategories": ["Allzweckreinigung"]
+  },
+  {
+    "store": "billa",
+    "id": "00-715325",
+    "name": "Frosch Granatapfel Spülbalsam",
+    "category": "Reinigung",
+    "subcategories": ["Geschirrreinigung"]
+  },
+  {
+    "store": "billa",
+    "id": "00-935472",
+    "name": "Frosch Himbeer Spülgel",
+    "category": "Reinigung",
+    "subcategories": ["Geschirrreinigung"]
+  },
+  {
+    "store": "billa",
+    "id": "00-661506",
+    "name": "Frosch Himbeer-Essig Anti-Kalk",
+    "category": "Reinigung",
+    "subcategories": ["Kalkreinigung"]
+  },
+  {
+    "store": "billa",
+    "id": "00-928595",
+    "name": "Frosch Himbeer-Essig WC-Reiniger",
+    "category": "Reinigung",
+    "subcategories": ["Badreinigung"]
+  },
+  {
+    "store": "billa",
+    "id": "00-847387",
+    "name": "Frosch Holzreiniger",
+    "category": "Reinigung",
+    "subcategories": ["Holzreinigung"]
+  },
+  {
+    "store": "billa",
+    "id": "00-764502",
+    "name": "Frosch Lavendel Hygiene-Reiniger",
+    "category": "Reinigung",
+    "subcategories": ["Allzweckreinigung"]
+  },
+  {
+    "store": "billa",
+    "id": "00-604897",
+    "name": "Frosch Lavendel Scheuermilch",
+    "category": "Reinigung",
+    "subcategories": ["Allzweckreinigung"]
+  },
+  {
+    "store": "billa",
+    "id": "00-619165",
+    "name": "Frosch Lavendel Urinstein- und Kalkentferner",
+    "category": "Reinigung",
+    "subcategories": ["Badreinigung"]
+  },
+  {
+    "store": "billa",
+    "id": "00-649459",
+    "name": "Frosch Neutralreiniger",
+    "category": "Reinigung",
+    "subcategories": ["Allzweckreinigung"]
+  },
+  {
+    "store": "billa",
+    "id": "00-852701",
+    "name": "Frosch Spiritus Glasreiniger",
+    "category": "Reinigung",
+    "subcategories": ["Glasreinigung"]
+  },
+  {
+    "store": "billa",
+    "id": "00-866002",
+    "name": "Frosch Spülmittel",
+    "category": "Reinigung",
+    "subcategories": ["Geschirrreinigung"]
+  },
+  {
+    "store": "billa",
+    "id": "00-100696",
+    "name": "Frosch WC Essigreiniger",
+    "category": "Reinigung",
+    "subcategories": ["Badreinigung"]
+  },
+  {
+    "store": "billa",
+    "id": "00-406850",
+    "name": "Greenminds Haushaltshandschuhe L",
+    "category": "Reinigung",
+    "subcategories": ["Schutzausrüstung"]
+  },
+  {
+    "store": "billa",
+    "id": "00-406846",
+    "name": "Greenminds Haushaltshandschuhe M",
+    "category": "Reinigung",
+    "subcategories": ["Schutzausrüstung"]
+  },
+  {
+    "store": "billa",
+    "id": "00-672777",
+    "name": "Lysoform Bad-Reiniger",
+    "category": "Reinigung",
+    "subcategories": ["Badreinigung"]
+  },
+  {
+    "store": "billa",
+    "id": "00-854323",
+    "name": "Lysoform Desinfekt Spray",
+    "category": "Reinigung",
+    "subcategories": ["Desinfektionsmittel"]
+  },
+  {
+    "store": "billa",
+    "id": "00-965574",
+    "name": "Lysoform Desinfektions-Spray Lemon",
+    "category": "Reinigung",
+    "subcategories": ["Desinfektionsmittel"]
+  },
+  {
+    "store": "billa",
+    "id": "00-665311",
+    "name": "Lysoform Küchenreiniger",
+    "category": "Reinigung",
+    "subcategories": ["Küchenreinigung"]
+  },
+  {
+    "store": "billa",
+    "id": "00-448145",
+    "name": "Lysoform Universalreiniger",
+    "category": "Reinigung",
+    "subcategories": ["Allzweckreinigung"]
+  },
+  {
+    "store": "billa",
+    "id": "00-454587",
+    "name": "Meister Proper Citrusfrische Reiniger",
+    "category": "Reinigung",
+    "subcategories": ["Allzweckreinigung"]
+  },
+  {
+    "store": "billa",
+    "id": "00-454546",
+    "name": "Meister Proper Frühlingserwachen Reiniger",
+    "category": "Reinigung",
+    "subcategories": ["Allzweckreinigung"]
+  },
+  {
+    "store": "billa",
+    "id": "00-868033",
+    "name": "Meister Proper Schmutzradierer",
+    "category": "Reinigung",
+    "subcategories": ["Allzweckreinigung"]
+  },
+  {
+    "store": "billa",
+    "id": "00-871702",
+    "name": "Microfaser Bodentuch 50x60cm",
+    "category": "Reinigung",
+    "subcategories": ["Reinigungstücher"]
+  },
+  {
+    "store": "billa",
+    "id": "00-703345",
+    "name": "Mr. Proper Reinigungstücher",
+    "category": "Reinigung",
+    "subcategories": ["Reinigungstücher"]
+  },
+  {
+    "store": "billa",
+    "id": "00-965577",
+    "name": "Multy Haushalt-Wischtuch",
+    "category": "Reinigung",
+    "subcategories": ["Reinigungstücher"]
+  },
+  {
+    "store": "billa",
+    "id": "00-318251",
+    "name": "Multy Super Topfreiniger Soft",
+    "category": "Reinigung",
+    "subcategories": ["Geschirrreinigung"]
+  },
+  {
+    "store": "billa",
+    "id": "00-5438",
+    "name": "Opti Möbelpflege mit Bienenwachs",
+    "category": "Reinigung",
+    "subcategories": ["Möbelpflege"]
+  },
+  {
+    "store": "billa",
+    "id": "00-850895",
+    "name": "Opti Parkett- und Laminatpflege",
+    "category": "Reinigung",
+    "subcategories": ["Bodenreinigung"]
+  },
+  {
+    "store": "billa",
+    "id": "00-965584",
+    "name": "Palmolive 4in1 Hygiene Spülmittel",
+    "category": "Reinigung",
+    "subcategories": ["Geschirrreinigung"]
+  },
+  {
+    "store": "billa",
+    "id": "00-862966",
+    "name": "Palmolive Spülmittel Original",
+    "category": "Reinigung",
+    "subcategories": ["Geschirrreinigung"]
+  },
+  {
+    "store": "billa",
+    "id": "00-602947",
+    "name": "Palmolive Spülmittel Original",
+    "category": "Reinigung",
+    "subcategories": ["Geschirrreinigung"]
+  },
+  {
+    "store": "billa",
+    "id": "00-383205",
+    "name": "Pril Balsam Aloe Vera",
+    "category": "Reinigung",
+    "subcategories": ["Geschirrreinigung"]
+  },
+  {
+    "store": "billa",
+    "id": "00-389574",
+    "name": "Pril Power Apple & Mint",
+    "category": "Reinigung",
+    "subcategories": ["Geschirrreinigung"]
+  },
+  {
+    "store": "billa",
+    "id": "00-398481",
+    "name": "Pril Power Feige",
+    "category": "Reinigung",
+    "subcategories": ["Geschirrreinigung"]
+  },
+  {
+    "store": "billa",
+    "id": "00-389578",
+    "name": "Pril Power Fresh",
+    "category": "Reinigung",
+    "subcategories": ["Geschirrreinigung"]
+  },
+  {
+    "store": "billa",
+    "id": "00-398482",
+    "name": "Pril Power Lemon",
+    "category": "Reinigung",
+    "subcategories": ["Geschirrreinigung"]
+  },
+  {
+    "store": "billa",
+    "id": "00-389584",
+    "name": "Pril Power Lemon & Melissa",
+    "category": "Reinigung",
+    "subcategories": ["Geschirrreinigung"]
+  },
+  {
+    "store": "billa",
+    "id": "00-565910",
+    "name": "Pril Stark & Natürlich 0% Duftstoffe",
+    "category": "Reinigung",
+    "subcategories": ["Geschirrreinigung"]
+  },
+  {
+    "store": "billa",
+    "id": "00-565911",
+    "name": "Pril Stark & Natürlich Apfelblüte & Aloe Vera",
+    "category": "Reinigung",
+    "subcategories": ["Geschirrreinigung"]
+  },
+  {
+    "store": "billa",
+    "id": "00-728813",
+    "name": "Rekord DuoClean Küchenreiniger",
+    "category": "Reinigung",
+    "subcategories": ["Küchenreinigung"]
+  },
+  {
+    "store": "billa",
+    "id": "00-602215",
+    "name": "Rorax Bio-Rohrfrei Powergel",
+    "category": "Reinigung",
+    "subcategories": ["Rohrreinigung"]
+  },
+  {
+    "store": "billa",
+    "id": "00-610321",
+    "name": "Rorax Rohrfrei Granulat",
+    "category": "Reinigung",
+    "subcategories": ["Rohrreinigung"]
+  },
+  {
+    "store": "billa",
+    "id": "00-404443",
+    "name": "Rorax Rohrfrei Power-Gel",
+    "category": "Reinigung",
+    "subcategories": ["Rohrreinigung"]
+  },
+  {
+    "store": "billa",
+    "id": "00-404113",
+    "name": "Scotch Brite Extra Sticky Kleiderroller",
+    "category": "Reinigung",
+    "subcategories": ["Kleiderreinigung"]
+  },
+  {
+    "store": "billa",
+    "id": "00-404112",
+    "name": "Scotch Brite Extra Sticky Kleiderroller Nachfüllung",
+    "category": "Reinigung",
+    "subcategories": ["Kleiderreinigung"]
+  },
+  {
+    "store": "billa",
+    "id": "00-4517",
+    "name": "Scotch Brite Geschirrwunder",
+    "category": "Reinigung",
+    "subcategories": ["Geschirrreinigung"]
+  }
+]

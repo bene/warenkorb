@@ -1,0 +1,702 @@
+[
+    {
+        "store": "billa",
+        "id": "00-917061",
+        "name": "Sorger Salanettis mild",
+        "category": "Gemüseaufstriche",
+        "subcategories": ["Aufstrich", "Gemüse"]
+    },
+    {
+        "store": "billa",
+        "id": "00-917060",
+        "name": "Sorger Salanettis scharf",
+        "category": "Gemüseaufstriche",
+        "subcategories": ["Aufstrich", "Gemüse"]
+    },
+    {
+        "store": "billa",
+        "id": "00-439970",
+        "name": "Stastnik Bauchspeck",
+        "category": "Speck",
+        "subcategories": ["Fleisch", "Schwein"]
+    },
+    {
+        "store": "billa",
+        "id": "00-474868",
+        "name": "Stastnik Feurige Cabanossi",
+        "category": "Wurst",
+        "subcategories": ["Fleisch", "Schwein"]
+    },
+    {
+        "store": "billa",
+        "id": "00-439974",
+        "name": "Stastnik Haussalami",
+        "category": "Wurst",
+        "subcategories": ["Fleisch"]
+    },
+    {
+        "store": "billa",
+        "id": "00-646931",
+        "name": "Stastnik Heurigenstangerl",
+        "category": "Wurst",
+        "supcategoreis": ["Fleisch"]
+    },
+    {
+        "store": "billa",
+        "id": "00-91371",
+        "name": "Stastnik Jausenspeck",
+        "category": "Speck",
+        "subcategories": ["Fleisch", "Schwein"]
+    },
+    {
+        "store": "billa",
+        "id": "00-474871",
+        "name": "Stastnik Klassische Cabanossi",
+        "category": "Wurst",
+        "subcategories": ["Fleisch", "Schwein"]
+    },
+    {
+        "store": "billa",
+        "id": "00-767550",
+        "name": "Stastnik Knabberstangerl",
+        "category": "Wurst",
+        "subcategories": ["Fleisch", "Snack"]
+    },
+    {
+        "store": "billa",
+        "id": "00-441155",
+        "name": "Stastnik Kräuterschopf",
+        "category": "Wurst",
+        "subcategories": ["Fleisch"]
+    },
+    {
+        "store": "billa",
+        "id": "00-200162",
+        "name": "Stastnik Puten Cabanossi",
+        "category": "Wurst",
+        "subcategories": ["Fleisch", "Pute"]
+    },
+    {
+        "store": "billa",
+        "id": "00-722076",
+        "name": "Stastnik Putenheurigenstangerl",
+        "category": "Wurst",
+        "subcategories": ["Fleisch", "Pute"]
+    },
+    {
+        "store": "billa",
+        "id": "00-240263",
+        "name": "Stastnik Putenkantwurst",
+        "category": "Wurst",
+        "subcategories": ["Fleisch", "Pute"]
+    },
+    {
+        "store": "billa",
+        "id": "00-668465",
+        "name": "Stastnik Putensalami",
+        "category": "Wurst",
+        "subcategories": ["Fleisch", "Pute"]
+    },
+    {
+        "store": "billa",
+        "id": "00-98251",
+        "name": "Stastnik Ungarische Salami Geschnitten",
+        "category": "Wurst",
+        "subcategories": ["Fleisch"]
+    },
+    {
+        "store": "billa",
+        "id": "00-284682",
+        "name": "Staudinger Holzofen Käswurst",
+        "category": "Wurst",
+        "subcategories": ["Fleisch", "Käse"]
+    },
+    {
+        "store": "billa",
+        "id": "00-698017",
+        "name": "Staudinger Holzofen Leberkäs Geschnitten",
+        "category": "Wurst",
+        "subcategories": ["Fleisch"]
+    },
+    {
+        "store": "billa",
+        "id": "00-439969",
+        "name": "Tannenhof Schwarzwälder Schinken",
+        "category": "Schinken",
+        "subcategories": ["Fleisch", "Schwein"]
+    },
+    {
+        "store": "billa",
+        "id": "00-34279",
+        "name": "Ungarische Salami",
+        "category": "Wurst",
+        "subcategories": ["Fleisch"]
+    },
+    {
+        "store": "billa",
+        "id": "00-718188",
+        "name": "Vegavita Bratwürstel",
+        "category": "Wurst",
+        "subcategories": ["Fleisch", "Vegan"]
+    },
+    {
+        "store": "billa",
+        "id": "00-721207",
+        "name": "Vegavita Cheezi Griller",
+        "category": "Wurst",
+        "subcategories": ["Fleisch", "Vegan"]
+    },
+    {
+        "store": "billa",
+        "id": "00-506425",
+        "name": "Vegavita Extra Classic",
+        "category": "Wurst",
+        "subcategories": ["Fleisch", "Vegan"]
+    },
+    {
+        "store": "billa",
+        "id": "00-506427",
+        "name": "Vegavita Extra Pikant",
+        "category": "Wurst",
+        "subcategories": ["Fleisch", "Vegan"]
+    },
+    {
+        "store": "billa",
+        "id": "00-286927",
+        "name": "Vegavita Knackwurst",
+        "category": "Wurst",
+        "subcategories": ["Fleisch", "Vegan"]
+    },
+    {
+        "store": "billa",
+        "id": "00-718189",
+        "name": "Vegavita Leberkäse",
+        "category": "Wurst",
+        "subcategories": ["Fleisch", "Vegan"]
+    },
+    {
+        "store": "billa",
+        "id": "00-33429",
+        "name": "Virginia Pfeffer-Schinken",
+        "category": "Schinken",
+        "subcategories": ["Fleisch", "Schwein"]
+    },
+    {
+        "store": "billa",
+        "id": "00-255442",
+        "name": "Vivera Veganer Speck",
+        "category": "Wurst",
+        "subcategories": ["Fleisch", "Vegan"]
+    },
+    {
+        "store": "billa",
+        "id": "00-495902",
+        "name": "Vom Scharfen Rene Bratwurst verfeinert mit Duroc-Schwein",
+        "category": "Wurst",
+        "subcategories": ["Fleisch"]
+    },
+    {
+        "store": "billa",
+        "id": "00-495904",
+        "name": "Vom Scharfen Rene Burenwurst",
+        "category": "Wurst",
+        "subcategories": ["Fleisch"]
+    },
+    {
+        "store": "billa",
+        "id": "00-770080",
+        "name": "Wech Hühnerbrust Gegrillt",
+        "category": "Hühnerbrust",
+        "subcategories": ["Fleisch", "Huhn"]
+    },
+    {
+        "store": "billa",
+        "id": "00-411369",
+        "name": "Wech Truthahn Extrawurst Geschnitten",
+        "category": "Wurst",
+        "subcategories": ["Fleisch", "Truthahn"]
+    },
+    {
+        "store": "billa",
+        "id": "00-439980",
+        "name": "Wiesbauer Bergsteiger",
+        "category": "Wurst",
+        "subcategories": ["Fleisch"]
+    },
+    {
+        "store": "billa",
+        "id": "00-98106",
+        "name": "Wiesbauer Bergsteiger",
+        "category": "Wurst",
+        "subcategories": ["Fleisch"]
+    },
+    {
+        "store": "billa",
+        "id": "00-437192",
+        "name": "Wiesbauer Bergsteiger Geschnitten",
+        "category": "Wurst",
+        "subcategories": ["Fleisch"]
+    },
+    {
+        "store": "billa",
+        "id": "00-437195",
+        "name": "Wiesbauer Beskada Geschnitten",
+        "category": "Wurst",
+        "subcategories": ["Fleisch"]
+    },
+    {
+        "store": "billa",
+        "id": "00-437196",
+        "name": "Wiesbauer Gebratene Käsewurst Geschnitten",
+        "category": "Wurst",
+        "subcategories": ["Fleisch", "Käse"]
+    },
+    {
+        "store": "billa",
+        "id": "00-293304",
+        "name": "Wiesbauer Gipfel Stangerl",
+        "category": "Wurst",
+        "subcategories": ["Fleisch"]
+    },
+    {
+        "store": "billa",
+        "id": "00-962799",
+        "name": "Wiesbauer Gurkerl Knacker",
+        "category": "Wurst",
+        "subcategories": ["Fleisch", "Schwein", "Snack"]
+    },
+    {
+        "store": "billa",
+        "id": "00-886737",
+        "name": "Wiesbauer Gurkerlextra",
+        "category": "Gurkenwurst",
+        "subcategories": ["Fleisch", "Schwein"]
+    },
+    {
+        "store": "billa",
+        "id": "00-701699",
+        "name": "Wiesbauer Knusperbraten geschnitten",
+        "category": "Wurst",
+        "subcategories": ["Fleisch"]
+    },
+    {
+        "store": "billa",
+        "id": "00-32476",
+        "name": "Wiesbauer Käsewurst gebraten",
+        "category": "Wurst",
+        "subcategories": ["Fleisch", "Käse"]
+    },
+    {
+        "store": "billa",
+        "id": "00-101122",
+        "name": "Wiesbauer Polnische Spezial",
+        "category": "Wurst",
+        "subcategories": ["Fleisch"]
+    },
+    {
+        "store": "billa",
+        "id": "00-570454",
+        "name": "Wiesbauer Prater Stelze geschnitten",
+        "category": "Schinken",
+        "subcategories": ["Fleisch", "Schwein"]
+    },
+    {
+        "store": "billa",
+        "id": "00-779944",
+        "name": "Wiesbauer Wiener Heurigen Aufschnitt",
+        "category": "Wurst",
+        "subcategories": ["Fleisch"]
+    },
+    {
+        "store": "hofer",
+        "id": 545383,
+        "name": "AIBLER Aufschnitt Krakauer, Beskiden, Extrawurst 450g",
+        "category": "Wurstwaren",
+        "subcategories": ["Fleisch"]
+    },
+    {
+        "store": "hofer",
+        "id": 546445,
+        "name": "AIBLER Aufschnitt Krakauer, Käsewurst, Extrawurst 450g",
+        "category": "Wurstwaren",
+        "subcategories": ["Fleisch", "Käse"]
+    },
+    {
+        "store": "hofer",
+        "id": 543905,
+        "name": "AIBLER Aufschnitt Krakauer, Wiener, Pikantwurst 450g",
+        "category": "Wurstwaren",
+        "subcategories": ["Fleisch"]
+    },
+    {
+        "store": "hofer",
+        "id": 548478,
+        "name": "AIBLGENUSS 100% AUS ÖSTERREICHER Spargelschinken 150g",
+        "category": "Schinken",
+        "subcategories": ["Fleisch", "Schwein"]
+    },
+    {
+        "store": "hofer",
+        "id": 549933,
+        "name": "AMERICAN XXL Sandwich Toastschinken 300g",
+        "category": "Schinken",
+        "subcategories": ["Fleisch", "Schwein"]
+    },
+    {
+        "store": "hofer",
+        "id": 543855,
+        "name": "ARLBERGER Kaminwurzerl Bergkäse 130g",
+        "category": "Wurstwaren",
+        "subcategories": ["Fleisch", "Käse"]
+    },
+    {
+        "store": "hofer",
+        "id": 543856,
+        "name": "ARLBERGER Kaminwurzerl feurig 150g",
+        "category": "Wurstwaren",
+        "subcategories": ["Fleisch"]
+    },
+    {
+        "store": "hofer",
+        "id": 549470,
+        "name": "ARLBERGER Knabber Sticks 90g",
+        "category": "Snacks",
+        "subcategories": ["Fleisch"]
+    },
+    {
+        "store": "hofer",
+        "id": 549712,
+        "name": "ARLBERGER Leichtes Karree, Klassik 90g",
+        "category": "Wurstwaren",
+        "subcategories": ["Fleisch"]
+    },
+    {
+        "store": "hofer",
+        "id": 549711,
+        "name": "ARLBERGER Leichtes Karree, Zitronenpfeffer 90g",
+        "category": "Wurstwaren",
+        "subcategories": ["Fleisch"]
+    },
+    {
+        "store": "hofer",
+        "id": 545549,
+        "name": "ARLBERGER Speckwürfel 200g",
+        "category": "Speck",
+        "subcategories": ["Fleisch", "Schwein"]
+    },
+    {
+        "store": "hofer",
+        "id": 544921,
+        "name": "ARLBERGER Tiroler Landjäger mild-würzig 200g",
+        "category": "Wurstwaren",
+        "subcategories": ["Fleisch"]
+    },
+    {
+        "store": "hofer",
+        "id": 545548,
+        "name": "ARLBERGER Tiroler Speck g.g.A. Schinkenspeck-Stifterl 130g",
+        "category": "Speck",
+        "subcategories": ["Fleisch", "Schwein"]
+    },
+    {
+        "store": "hofer",
+        "id": 545387,
+        "name": "ARLBERGER Tyrolini Chili 90g",
+        "category": "Wurstwaren",
+        "subcategories": ["Fleisch"]
+    },
+    {
+        "store": "hofer",
+        "id": 543910,
+        "name": "ARLBERGER Tyrolini luftgetrocknet 90g",
+        "category": "Wurstwaren",
+        "subcategories": ["Fleisch"]
+    },
+    {
+        "store": "billa",
+        "id": "00-728877",
+        "name": "BILLA Peppersweet mit Schaffrischkäse",
+        "category": "Aufstriche",
+        "subcategories": ["Gemüse", "Käse"]
+    },
+    {
+        "store": "billa",
+        "id": "00-346231",
+        "name": "BILLA Schinkenspeck Geschnitten",
+        "category": "Speck",
+        "subcategories": ["Fleisch", "Schwein"]
+    },
+    {
+        "store": "billa",
+        "id": "00-765897",
+        "name": "BILLA Serrano Schinken",
+        "category": "Schinken",
+        "subcategories": ["Fleisch", "Schwein"]
+    },
+    {
+        "store": "billa",
+        "id": "00-440171",
+        "name": "Berger Backofenschinken",
+        "category": "Schinken",
+        "subcategories": ["Fleisch", "Schwein"]
+    },
+    {
+        "store": "billa",
+        "id": "00-504914",
+        "name": "Berger Römerschinken",
+        "category": "Schinken",
+        "subcategories": ["Fleisch", "Schwein"]
+    },
+    {
+        "store": "billa",
+        "id": "00-439997",
+        "name": "Berger Traditionsbeinschinken",
+        "category": "Schinken",
+        "subcategories": ["Fleisch", "Schwein"]
+    },
+    {
+        "store": "billa",
+        "id": "00-447163",
+        "name": "Burrata In Lake",
+        "category": "Käse",
+        "subcategories": ["Italien"]
+    },
+    {
+        "store": "billa",
+        "id": "00-38349",
+        "name": "Frischkäseröllchen in Schinkenspeck - Die Käsemacher",
+        "category": "Käse",
+        "subcategories": ["Fleisch", "Käse"]
+    },
+    {
+        "store": "billa",
+        "id": "00-504961",
+        "name": "Gaflenzer Schafmischrolle",
+        "category": "Käse",
+        "subcategories": ["Schaf"]
+    },
+    {
+        "store": "billa",
+        "id": "00-371120",
+        "name": "Gorgonzola Mascarpone",
+        "category": "Käse",
+        "subcategories": ["Italien"]
+    },
+    {
+        "store": "billa",
+        "id": "00-519088",
+        "name": "Ja! Natürlich Bergkräuterkäse",
+        "category": "Käse",
+        "subcategories": ["Kräuter"]
+    },
+    {
+        "store": "billa",
+        "id": "00-31419",
+        "name": "Ja! Natürlich Landschinken",
+        "category": "Schinken",
+        "subcategories": ["Fleisch", "Schwein"]
+    },
+    {
+        "store": "billa",
+        "id": "00-745820",
+        "name": "Ja! Natürlich Streichwurst fein",
+        "category": "Wurst",
+        "subcategories": ["Fleisch"]
+    },
+    {
+        "store": "billa",
+        "id": "00-938287",
+        "name": "Jamon Serrano",
+        "category": "Schinken",
+        "subcategories": ["Fleisch", "Schwein"]
+    },
+    {
+        "store": "billa",
+        "id": "00-725379",
+        "name": "Käse-Gemüse-Tricolore - Die Käsemacher",
+        "category": "Käse",
+        "subcategories": ["Gemüse"]
+    },
+    {
+        "store": "billa",
+        "id": "00-607654",
+        "name": "Lamercantile Frischkäserolle Kräuter",
+        "category": "Käse",
+        "subcategories": ["Kräuter"]
+    },
+    {
+        "store": "billa",
+        "id": "00-270644",
+        "name": "Landhof Burgunderschinken",
+        "category": "Schinken",
+        "subcategories": ["Fleisch", "Schwein"]
+    },
+    {
+        "store": "billa",
+        "id": "00-32459",
+        "name": "Moser Dürre",
+        "category": "Wurst",
+        "subcategories": ["Fleisch"]
+    },
+    {
+        "store": "billa",
+        "id": "00-743244",
+        "name": "Parmigiano Reggiano",
+        "category": "Käse",
+        "subcategories": ["Italien"]
+    },
+    {
+        "store": "billa",
+        "id": "00-593375",
+        "name": "Puten Extrawurst",
+        "category": "Wurst",
+        "subcategories": ["Fleisch", "Pute"]
+    },
+    {
+        "store": "billa",
+        "id": "00-406242",
+        "name": "Putenbrust",
+        "category": "Putenbrust",
+        "subcategories": ["Fleisch", "Pute"]
+    },
+    {
+        "store": "billa",
+        "id": "00-440006",
+        "name": "Reiter Schwarzwälder Wurst",
+        "category": "Wurst",
+        "subcategories": ["Fleisch"]
+    },
+    {
+        "store": "billa",
+        "id": "00-713513",
+        "name": "Schafkäsehäppchen - Die Käsemacher",
+        "category": "Käse",
+        "subcategories": ["Schaf"]
+    },
+    {
+        "store": "billa",
+        "id": "00-813252",
+        "name": "Sorger Landjäger",
+        "category": "Wurst",
+        "subcategories": ["Fleisch"]
+    },
+    {
+        "store": "billa",
+        "id": "00-439983",
+        "name": "Stastnik Farmer Putenbrust",
+        "category": "Putenbrust",
+        "subcategories": ["Fleisch", "Pute"]
+    },
+    {
+        "store": "billa",
+        "id": "00-19687",
+        "name": "Staudinger Holzofen Leberkäse",
+        "category": "Leberkäse",
+        "subcategories": ["Fleisch"]
+    },
+    {
+        "store": "billa",
+        "id": "00-591628",
+        "name": "Taverna Kräuter Snack- & Salatkäsewürfel",
+        "category": "Käse",
+        "subcategories": ["Kräuter"]
+    },
+    {
+        "store": "billa",
+        "id": "00-591648",
+        "name": "Taverna Olive Snack- & Salatkäsewürfel",
+        "category": "Käse",
+        "subcategories": ["Oliven"]
+    },
+    {
+        "store": "billa",
+        "id": "00-885332",
+        "name": "Waldviertler Selchkäse vom Schaf - Die Käsemacher",
+        "category": "Käse",
+        "subcategories": ["Schaf"]
+    },
+    {
+        "store": "billa",
+        "id": "00-440054",
+        "name": "Wiesbauer Polnische Spezial Gebraten",
+        "category": "Wurst",
+        "subcategories": ["Fleisch", "Gebraten"]
+    },
+    {
+        "store": "billa",
+        "id": "00-908159",
+        "name": "Wojnar Ei Salat",
+        "category": "Salat",
+        "subcategories": ["Ei"]
+    },
+    {
+        "store": "billa",
+        "id": "00-242391",
+        "name": "Wojnar Ei Tramezzini",
+        "category": "Tramezzini",
+        "subcategories": ["Ei"]
+    },
+    {
+        "store": "billa",
+        "id": "00-439656",
+        "name": "Wojnar Liptauer Scharf Premium",
+        "category": "Aufstriche",
+        "subcategories": ["Käse", "Scharf"]
+    },
+    {
+        "store": "billa",
+        "id": "00-793297",
+        "name": "Ziegenrolle Schnittlauch - Die Käsemacher",
+        "category": "Käse",
+        "subcategories": ["Ziege"]
+    },
+    {
+        "store": "billa",
+        "id": "00-701344",
+        "name": "BILLA Anchovis mariniert",
+        "category": "Fisch",
+        "subcategories": ["Mariniert"]
+    },
+    {
+        "store": "billa",
+        "id": "00-700869",
+        "name": "BILLA Bio Garnelen Essfertig",
+        "category": "Fisch",
+        "subcategories": ["Garnelen"]
+    },
+    {
+        "store": "billa",
+        "id": "00-561332",
+        "name": "BILLA Bio Graved Lachs",
+        "category": "Fisch",
+        "subcategories": ["Lachs"]
+    },
+    {
+        "store": "billa",
+        "id": "00-526063",
+        "name": "BILLA Bio Lachsfilet",
+        "category": "Fisch",
+        "subcategories": ["Lachs"]
+    },
+    {
+        "store": "billa",
+        "id": "00-443218",
+        "name": "BILLA Bio Räucherlachs",
+        "category": "Fisch",
+        "subcategories": ["Lachs"]
+    },
+    {
+        "store": "billa",
+        "id": "00-247287",
+        "name": "BILLA Forellenfilet geräuchert",
+        "category": "Fisch",
+        "subcategories": ["Forelle", "Geräuchert"]
+    },
+    {
+        "store": "billa",
+        "id": "00-706582",
+        "name": "BILLA Genusswelt Forellenkaviar",
+        "category": "Fisch",
+        "subcategories": ["Forelle", "Kaviar"]
+    }
+]

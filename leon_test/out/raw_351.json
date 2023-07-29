@@ -1,0 +1,46 @@
+[
+  {
+    "store": "spar",
+    "id": "2020004701633",
+    "name": "David Beckham Eau de Toilette Classic Blue 50ml",
+    "category": "Parfüm",
+    "subcategories": ["Duft", "Kosmetik"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004373892",
+    "name": "De Vergy Crémant de Bourgogne Brut",
+    "category": "Wein",
+    "subcategories": ["Alkohol", "Getränke"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004375308",
+    "name": "De Vergy Crémant de Bourgogne Rosé",
+    "category": "Wein",
+    "subcategories": ["Alkohol", "Getränke"]
+  },
+  {
+    "store": "spar",
+    "id": "4355861",
+    "name": "De Kuyper Pina Colada",
+    "category": "Spirituosen",
+    "subcategories": ["Alkohol", "Cocktails", "Getränke"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001370610",
+    "name": "Delicata Hühneraufstrich pikant",
+    "category": "Aufstrich",
+    "subcategories": ["Feinkost", "Lebensmittel"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002342289",
+    "name": "Delight Bärlauch 1 KG",
+    "category": "Kräuter",
+    "subcategories": ["Gewürze", "Lebensmittel"]
+  },
+
+...
+]

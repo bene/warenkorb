@@ -1,0 +1,702 @@
+[
+  {
+    "store": "spar",
+    "id": "2020004051325",
+    "name": "Lindt Lindor Kugeln Salted Caramel 200g",
+    "category": "Schokolade",
+    "subcategories": ["Pralinen", "Kugeln", "Salted Caramel"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004051301",
+    "name": "Lindt Lindor Kugeln Weiss 200g",
+    "category": "Schokolade",
+    "subcategories": ["Pralinen", "Kugeln", "Weiss"]
+  },
+  {
+    "store": "spar",
+    "id": "154604",
+    "name": "Lindt Lindor Kugeln Weiß",
+    "category": "Schokolade",
+    "subcategories": ["Pralinen", "Kugeln", "Weiss"]
+  },
+  {
+    "store": "spar",
+    "id": "154062",
+    "name": "Lindt Lindor Kugeln dunkel",
+    "category": "Schokolade",
+    "subcategories": ["Pralinen", "Kugeln", "dunkel"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003498770",
+    "name": "Lindt Lindor Kugeln extra dark",
+    "category": "Schokolade",
+    "subcategories": ["Pralinen", "Kugeln", "extra dunkel"]
+  },
+  {
+    "store": "spar",
+    "id": "967600",
+    "name": "Lindt Lindor Schokolade Dunkel",
+    "category": "Schokolade",
+    "subcategories": ["Schokolade", "dunkel"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003914683",
+    "name": "Lindt Lindor Schokoladentafel Salted Caramel",
+    "category": "Schokolade",
+    "subcategories": ["Schokolade", "Tafel", "Salted Caramel"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001349746",
+    "name": "Lindt Lindor Stick Dark 60%",
+    "category": "Schokolade",
+    "subcategories": ["Schokolade", "Stick", "dunkel"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003096297",
+    "name": "Lindt Lindor Tafel Extra Dark 70%",
+    "category": "Schokolade",
+    "subcategories": ["Schokolade", "Tafel", "extra dunkel"]
+  },
+  {
+    "store": "spar",
+    "id": "953023",
+    "name": "Lindt Lindor Tafel Milch",
+    "category": "Schokolade",
+    "subcategories": ["Schokolade", "Tafel", "Milch"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003387630",
+    "name": "Lindt Lindor Tafel Milch 3 x 100g",
+    "category": "Schokolade",
+    "subcategories": ["Schokolade", "Tafel", "Milch"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003430510",
+    "name": "Lindt Lindor Tafel Noir 3 Tafeln",
+    "category": "Schokolade",
+    "subcategories": ["Schokolade", "Tafel", "Noir"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001586288",
+    "name": "Lindt Lindor Tafel Orange 100g",
+    "category": "Schokolade",
+    "subcategories": ["Schokolade", "Tafel", "Orange"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003096242",
+    "name": "Lindt Lindor Tafel Pistazie 100g",
+    "category": "Schokolade",
+    "subcategories": ["Schokolade", "Tafel", "Pistazie"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003387531",
+    "name": "Lindt Lindor Tafel Weiss 3 x 100g",
+    "category": "Schokolade",
+    "subcategories": ["Schokolade", "Tafel", "Weiss"]
+  },
+  {
+    "store": "spar",
+    "id": "953030",
+    "name": "Lindt Lindor Tafel Weiß",
+    "category": "Schokolade",
+    "subcategories": ["Schokolade", "Tafel", "Weiss"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004426109",
+    "name": "Lindt Maitre Chocolatier Doppelmilch",
+    "category": "Schokolade",
+    "subcategories": ["Schokolade", "Maitre Chocolatier", "Doppelmilch"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004427557",
+    "name": "Lindt Maitre Chocolatier Dunkle Haselnuss",
+    "category": "Schokolade",
+    "subcategories": ["Schokolade", "Maitre Chocolatier", "dunkle Haselnuss"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004426000",
+    "name": "Lindt Maitre Chocolatier Milch",
+    "category": "Schokolade",
+    "subcategories": ["Schokolade", "Maitre Chocolatier", "Milch"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004426130",
+    "name": "Lindt Maitre Chocolatier Milch Haselnuss",
+    "category": "Schokolade",
+    "subcategories": ["Schokolade", "Maitre Chocolatier", "Milch", "Haselnuss"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004427526",
+    "name": "Lindt Maitre Chocolatier Tafelschokolade Milch Crisp 110g",
+    "category": "Schokolade",
+    "subcategories": ["Schokolade", "Maitre Chocolatier", "Tafel", "Milch Crisp"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004426161",
+    "name": "Lindt Maitre Chocolatier Zartbitter",
+    "category": "Schokolade",
+    "subcategories": ["Schokolade", "Maitre Chocolatier", "Zartbitter"]
+  },
+  {
+    "store": "spar",
+    "id": "247450",
+    "name": "Lindt Milch-Schokolade Cointreau",
+    "category": "Schokolade",
+    "subcategories": ["Schokolade", "Milch-Schokolade", "Cointreau"]
+  },
+  {
+    "store": "spar",
+    "id": "7655616",
+    "name": "Lindt Mini Pralinés",
+    "category": "Schokolade",
+    "subcategories": ["Schokolade", "Mini Pralinés"]
+  },
+  {
+    "store": "spar",
+    "id": "7525520",
+    "name": "Lindt Mini Pralinés 36 Stück",
+    "category": "Schokolade",
+    "subcategories": ["Schokolade", "Mini Pralinés"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004182579",
+    "name": "Lindt Mini Pralinés Noir",
+    "category": "Schokolade",
+    "subcategories": ["Schokolade", "Mini Pralinés", "Noir"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003888670",
+    "name": "Lindt Mini Pralinés Noir",
+    "category": "Schokolade",
+    "subcategories": ["Schokolade", "Mini Pralinés", "Noir"]
+  },
+  {
+    "store": "spar",
+    "id": "6755294",
+    "name": "Lindt Mini Schicht-Nougat 36 Stück",
+    "category": "Schokolade",
+    "subcategories": ["Schokolade", "Mini Schicht-Nougat"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003888687",
+    "name": "Lindt Nuxor Pralinen dunkel",
+    "category": "Schokolade",
+    "subcategories": ["Schokolade", "Nuxor Pralinen", "dunkel"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004346186",
+    "name": "Lindt Pralines Marzipan",
+    "category": "Schokolade",
+    "subcategories": ["Schokolade", "Pralinen", "Marzipan"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001890323",
+    "name": "Lindt Pralinès Classic",
+    "category": "Schokolade",
+    "subcategories": ["Schokolade", "Pralinès", "Classic"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001089307",
+    "name": "Lindt Pralinés Classic",
+    "category": "Schokolade",
+    "subcategories": ["Schokolade", "Pralinés", "Classic"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003959622",
+    "name": "Lindt Pralinés Für Kenner - Nougat",
+    "category": "Schokolade",
+    "subcategories": ["Schokolade", "Pralinés", "Für Kenner", "Nougat"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003959615",
+    "name": "Lindt Pralinés Marzipan",
+    "category": "Schokolade",
+    "subcategories": ["Schokolade", "Pralinés", "Marzipan"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003959530",
+    "name": "Lindt Pralinés Noir",
+    "category": "Schokolade",
+    "subcategories": ["Schokolade", "Pralinés", "Noir"]
+  },
+  {
+    "store": "spar",
+    "id": "6199074",
+    "name": "Lindt Pralinés Nougat",
+    "category": "Schokolade",
+    "subcategories": ["Schokolade", "Pralinés", "Nougat"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002638542",
+    "name": "Lindt Pralinés Royal",
+    "category": "Schokolade",
+    "subcategories": ["Schokolade", "Pralinés", "Royal"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003927454",
+    "name": "Lindt Pralinés weiß",
+    "category": "Schokolade",
+    "subcategories": ["Schokolade", "Pralinés", "weiss"]
+  },
+  {
+    "store": "spar",
+    "id": "7657788",
+    "name": "Lindt Pralinés Élégance",
+    "category": "Schokolade",
+    "subcategories": ["Schokolade", "Pralinés", "Élégance"]
+  },
+  {
+    "store": "spar",
+    "id": "6199982",
+    "name": "Lindt Spezialitäten",
+    "category": "Schokolade",
+    "subcategories": ["Schokolade", "Spezialitäten"]
+  },
+  {
+    "store": "spar",
+    "id": "4206934",
+    "name": "Lindt Swiss Premium Chocolate Milch",
+    "category": "Schokolade",
+    "subcategories": ["Schokolade", "Swiss Premium Chocolate", "Milch"]
+  },
+  {
+    "store": "spar",
+    "id": "4206941",
+    "name": "Lindt Swiss Premium Chocolate Milch-Nuss",
+    "category": "Schokolade",
+    "subcategories": ["Schokolade", "Swiss Premium Chocolate", "Milch-Nuss"]
+  },
+  {
+    "store": "spar",
+    "id": "7029875",
+    "name": "Lindt Swiss Premium Chocolate Milch-Traube-Nuss",
+    "category": "Schokolade",
+    "subcategories": ["Schokolade", "Swiss Premium Chocolate", "Milch-Traube-Nuss"]
+  },
+  {
+    "store": "spar",
+    "id": "6421632",
+    "name": "Lindt Swiss Premium Chocolate Weiss-Mandel 300g",
+    "category": "Schokolade",
+    "subcategories": ["Schokolade", "Swiss Premium Chocolate", "Weiss-Mandel"]
+  },
+  {
+    "store": "spar",
+    "id": "5841837",
+    "name": "Lindt Williams",
+    "category": "Schokolade",
+    "subcategories": ["Schokolade", "Williams"]
+  },
+  {
+    "store": "spar",
+    "id": "394161",
+    "name": "Lindt gefüllte Milchschokolade Cognac",
+    "category": "Schokolade",
+    "subcategories": ["gefüllte Schokolade", "Milchschokolade", "Cognac"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003962431",
+    "name": "Langerhans Glastrinkhalme 10 Stück",
+    "category": "Glaswaren",
+    "subcategories": ["Glastrinkhalme"]
+  },
+  {
+    "store": "spar",
+    "id": "5201600",
+    "name": "Leifheit Bolero Isolierkanne blau 1 Liter",
+    "category": "Haushaltswaren",
+    "subcategories": ["Isolierkanne"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001136490",
+    "name": "Mixsalat per Stk 1 STK",
+    "category": "Gemüse",
+    "subcategories": ["Salat", "Mixsalat"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004561619",
+    "name": "Mr. Brownie Blondies mit belgischer Schokolade",
+    "category": "Kuchen",
+    "subcategories": ["Brownies", "Blondies", "Schokolade"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004561558",
+    "name": "Mr. Brownie Brownies mit belgischer Schokolade",
+    "category": "Kuchen",
+    "subcategories": ["Brownies", "Schokolade"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004552013",
+    "name": "Mövenpick Marmorkuchen 4 Stück",
+    "category": "Kuchen",
+    "subcategories": ["Marmorkuchen"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004551924",
+    "name": "Mövenpick Zitronenkuchen 4 Stück",
+    "category": "Kuchen",
+    "subcategories": ["Zitronenkuchen"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004613387",
+    "name": "Nescafé Eiskaffee Cappuccino",
+    "category": "Kaffee",
+    "subcategories": ["Eiskaffee", "Cappuccino"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004613448",
+    "name": "Nescafé Eiskaffee Latte",
+    "category": "Kaffee",
+    "subcategories": ["Eiskaffee", "Latte"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004613523",
+    "name": "Nescafé Eiskaffee Latte Caramel",
+    "category": "Kaffee",
+    "subcategories": ["Eiskaffee", "Latte", "Caramel"]
+  },
+  {
+    "store": "spar",
+    "id": "7936678",
+    "name": "Mohren Export Märzen 0,5lt.",
+    "category": "Bier",
+    "subcategories": ["Export", "Märzen"]
+  },
+  {
+    "store": "spar",
+    "id": "565233",
+    "name": "Mohren Export Märzen 0,5lt.",
+    "category": "Bier",
+    "subcategories": ["Export", "Märzen"]
+  },
+  {
+    "store": "spar",
+    "id": "8015167",
+    "name": "Mohren Kellerbier 2.640 ML MEHRWEG",
+    "category": "Bier",
+    "subcategories": ["Kellerbier"]
+  },
+  {
+    "store": "spar",
+    "id": "8033642",
+    "name": "Mohren Kellerbier Kellerbier 0,33lt.",
+    "category": "Bier",
+    "subcategories": ["Kellerbier"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003972737",
+    "name": "Mohren Lager Hell 0,5lt.",
+    "category": "Bier",
+    "subcategories": ["Lager", "Hell"]
+  },
+  {
+    "store": "spar",
+    "id": "7936975",
+    "name": "Mohren Pfiff Märzen 0,33lt.",
+    "category": "Bier",
+    "subcategories": ["Pfiff", "Märzen"]
+  },
+  {
+    "store": "spar",
+    "id": "7945328",
+    "name": "Mohren Pfiff Märzen 0,33lt.",
+    "category": "Bier",
+    "subcategories": ["Pfiff", "Märzen"]
+  },
+  {
+    "store": "spar",
+    "id": "8031549",
+    "name": "Mohren Saurer Radler Biermischgetränk 0,33lt.",
+    "category": "Bier",
+    "subcategories": ["Saurer Radler", "Biermischgetränk"]
+  },
+  {
+    "store": "spar",
+    "id": "7934575",
+    "name": "Mohren Spezial Spezial 0,5lt.",
+    "category": "Bier",
+    "subcategories": ["Spezial"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004144553",
+    "name": "Mohren Spezial Spezial Spezial 0,33lt.",
+    "category": "Bier",
+    "subcategories": ["Spezial"]
+  },
+  {
+    "store": "spar",
+    "id": "7947001",
+    "name": "Murauer Märzen",
+    "category": "Bier",
+    "subcategories": ["Märzen"]
+  },
+  {
+    "store": "spar",
+    "id": "1785845",
+    "name": "Murauer Märzen Lagerbier 6x0,33lt.",
+    "category": "Bier",
+    "subcategories": ["Märzen", "Lagerbier"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002746131",
+    "name": "Murauer Märzen Lagerbier 6x0,5lt.",
+    "category": "Bier",
+    "subcategories": ["Märzen", "Lagerbier"]
+  },
+  {
+    "store": "spar",
+    "id": "7946684",
+    "name": "Murauer Märzen Märzen 6 x 0,5l",
+    "category": "Bier",
+    "subcategories": ["Märzen"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003206580",
+    "name": "Neufeldner Vollbier 6x0,5lt.",
+    "category": "Bier",
+    "subcategories": ["Vollbier"]
+  },
+  {
+    "store": "spar",
+    "id": "5402373",
+    "name": "Nescafe Gold Löskaffee Cappuccino 10 Sticks 10 Portionen",
+    "category": "Kaffee",
+    "subcategories": ["Gold Löskaffee", "Cappuccino"]
+  },
+  {
+    "store": "spar",
+    "id": "7490453",
+    "name": "Nescafé 3 in 1 10 Portionen",
+    "category": "Kaffee",
+    "subcategories": ["3 in 1"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001999231",
+    "name": "Nescafé Azera Espresso 25 Portionen",
+    "category": "Kaffee",
+    "subcategories": ["Azera", "Espresso"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003770432",
+    "name": "Nescafé Classic Löskaffee Black Roast",
+    "category": "Kaffee",
+    "subcategories": ["Classic Löskaffee", "Black Roast"]
+  },
+  {
+    "store": "spar",
+    "id": "3892466",
+    "name": "Nescafé Classic Löskaffee Crema",
+    "category": "Kaffee",
+    "subcategories": ["Classic Löskaffee", "Crema"]
+  },
+  {
+    "store": "spar",
+    "id": "241274",
+    "name": "Nescafé Classic Löskaffee Kräftig",
+    "category": "Kaffee",
+    "subcategories": ["Classic Löskaffee", "Kräftig"]
+  },
+  {
+    "store": "spar",
+    "id": "241236",
+    "name": "Nescafé Classic Löskaffee Mild",
+    "category": "Kaffee",
+    "subcategories": ["Classic Löskaffee", "Mild"]
+  },
+  {
+    "store": "spar",
+    "id": "241229",
+    "name": "Nescafé Classic Mild",
+    "category": "Kaffee",
+    "subcategories": ["Classic", "Mild"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004577931",
+    "name": "Nescafé Dolce Gusto American Café Inspiration Miami Morning Blend 18 Kapseln",
+    "category": "Kaffee",
+    "subcategories": ["Dolce Gusto", "American Café", "Inspiration", "Miami Morning Blend"]
+  },
+  {
+    "store": "spar",
+    "id": "7875472",
+    "name": "Nescafé Dolce Gusto Café au Lait Café au Lait 16 Kapseln",
+    "category": "Kaffee",
+    "subcategories": ["Dolce Gusto", "Café au Lait"]
+  },
+  {
+    "store": "spar",
+    "id": "7103780",
+    "name": "Nescafé Dolce Gusto Grande Grande 16 Kapseln",
+    "category": "Kaffee",
+    "subcategories": ["Dolce Gusto", "Grande"]
+  },
+  {
+    "store": "spar",
+    "id": "6263263",
+    "name": "Nescafé Dolce Gusto Kapseln Cappuccino 16 Kapseln 8+8 Kapseln",
+    "category": "Kaffee",
+    "subcategories": ["Dolce Gusto", "Cappuccino"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003400520",
+    "name": "Nescafé Dolce Gusto Kapseln Crema d'Oro CaffèLatte",
+    "category": "Kaffee",
+    "subcategories": ["Dolce Gusto", "Crema d'Oro", "CaffèLatte"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003737282",
+    "name": "Nescafé Dolce Gusto Kapseln Crema d'Oro Intensa",
+    "category": "Kaffee",
+    "subcategories": ["Dolce Gusto", "Crema d'Oro", "Intensa"]
+  },
+  {
+    "store": "spar",
+    "id": "1548655",
+    "name": "Nescafé Dolce Gusto Kapseln Dallmayr Crema d'Oro 16 Stück",
+    "category": "Kaffee",
+    "subcategories": ["Dolce Gusto", "Dallmayr", "Crema d'Oro"]
+  },
+  {
+    "store": "spar",
+    "id": "7997976",
+    "name": "Nescafé Dolce Gusto Kapseln Dallmayr Prodomo 16 Kapseln",
+    "category": "Kaffee",
+    "subcategories": ["Dolce Gusto", "Dallmayr", "Prodomo"]
+  },
+  {
+    "store": "spar",
+    "id": "6495541",
+    "name": "Nescafé Dolce Gusto Kapseln Espresso Intenso 16 Stück",
+    "category": "Kaffee",
+    "subcategories": ["Dolce Gusto", "Espresso Intenso"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001702732",
+    "name": "Nescafé Dolce Gusto Kapseln Espresso Ristretto A. 16 Kapseln",
+    "category": "Kaffee",
+    "subcategories": ["Dolce Gusto", "Espresso Ristretto A."]
+  },
+  {
+    "store": "spar",
+    "id": "2210476",
+    "name": "Nescafé Dolce Gusto Kapseln Latte Macch. Caramel 16 Stück",
+    "category": "Kaffee",
+    "subcategories": ["Dolce Gusto", "Latte Macch.", "Caramel"]
+  },
+  {
+    "store": "spar",
+    "id": "6263324",
+    "name": "Nescafé Dolce Gusto Kapseln Latte Macchiato 8+8 Kapseln",
+    "category": "Kaffee",
+    "subcategories": ["Dolce Gusto", "Latte Macchiato"]
+  },
+  {
+    "store": "spar",
+    "id": "6495794",
+    "name": "Nescafé Dolce Gusto Kapseln Lungo (entkoffeiniert) 16 Kapseln",
+    "category": "Kaffee",
+    "subcategories": ["Dolce Gusto", "Lungo", "entkoffeiniert"]
+  },
+  {
+    "store": "spar",
+    "id": "6263348",
+    "name": "Nescafé Dolce Gusto Kapseln Lungo 16 Kapseln",
+    "category": "Kaffee",
+    "subcategories": ["Dolce Gusto", "Lungo"]
+  },
+  {
+    "store": "spar",
+    "id": "7875427",
+    "name": "Nescafé Dolce Gusto Kapseln Nesquik Kakao 16 Stück",
+    "category": "Kaffee",
+    "subcategories": ["Dolce Gusto", "Nesquik", "Kakao"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004383365",
+    "name": "Nescafé Farmers Origins Africas Ristretto 10 Kapseln",
+    "category": "Kaffee",
+    "subcategories": ["Farmers Origins", "Africas Ristretto"]
+  },
+  {
+    "store": "spar",
+    "id": "7497438",
+    "name": "Nescafé Gold Crema",
+    "category": "Kaffee",
+    "subcategories": ["Gold", "Crema"]
+  },
+  {
+    "store": "spar",
+    "id": "352062",
+    "name": "Nescafé Gold Löskaffee Cap Colombie 200g",
+    "category": "Kaffee",
+    "subcategories": ["Gold Löskaffee", "Cap Colombie"]
+  },
+  {
+    "store": "spar",
+    "id": "7510601",
+    "name": "Nescafé Gold Löskaffee Cappuccino 250g",
+    "category": "Kaffee",
+    "subcategories": ["Gold Löskaffee", "Cappuccino"]
+  },
+  {
+    "store": "spar",
+    "id": "5402731",
+    "name": "Nescafé Gold Löskaffee Cappuccino Entkoff. 10 Portionen",
+    "category": "Kaffee",
+    "subcategories": ["Gold Löskaffee", "Cappuccino", "entkoffeiniert"]
+  },
+  {
+    "store": "spar",
+    "id": "5402526",
+    "name": "Nescafé Gold Löskaffee Cappuccino ungesüßt 10 Portionen",
+    "category": "Kaffee",
+    "subcategories": ["Gold Löskaffee", "Cappuccino", "ungesüßt"]
+  }
+]

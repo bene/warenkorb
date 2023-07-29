@@ -1,0 +1,702 @@
+[
+    {
+        "store": "spar",
+        "id": "2020002881054",
+        "name": "SIMPEX Color Teelichter Summer 8h 25 Stück",
+        "category": "Kerzen",
+        "subcategories": ["Teelichter"]
+    },
+    {
+        "store": "spar",
+        "id": "2020003160516",
+        "name": "SIMPEX Color Teelichter lange Brenndauer 25 Stück",
+        "category": "Kerzen",
+        "subcategories": ["Teelichter"]
+    },
+    {
+        "store": "spar",
+        "id": "2020003156083",
+        "name": "SIMPEX Color Kleidersack Large 60 x 137 cm",
+        "category": "Haushaltswaren",
+        "subcategories": ["Kleidersack"]
+    },
+    {
+        "store": "spar",
+        "id": "2020003155772",
+        "name": "SIMPEX Color Textilaufbewahrungsbox Medium 30x45x20 cm",
+        "category": "Haushaltswaren",
+        "subcategories": ["Textilaufbewahrung"]
+    },
+    {
+        "store": "spar",
+        "id": "2020003281365",
+        "name": "SIMPEX Color Thermosflasche",
+        "category": "Küchenbedarf",
+        "subcategories": ["Thermosflasche"]
+    },
+    {
+        "store": "spar",
+        "id": "2020003786198",
+        "name": "SIMPEX Color Thermosflasche",
+        "category": "Küchenbedarf",
+        "subcategories": ["Thermosflasche"]
+    },
+    {
+        "store": "spar",
+        "id": "2020003132490",
+        "name": "SIMPEX Color Thermosflasche 0,5L Tropical",
+        "category": "Küchenbedarf",
+        "subcategories": ["Thermosflasche"]
+    },
+    {
+        "store": "spar",
+        "id": "2020003281297",
+        "name": "SIMPEX Color Thermosflasche 0,5l rosa",
+        "category": "Küchenbedarf",
+        "subcategories": ["Thermosflasche"]
+    },
+    {
+        "store": "spar",
+        "id": "2020002793746",
+        "name": "SIMPEX Color Thermosflasche 0,75L Grau",
+        "category": "Küchenbedarf",
+        "subcategories": ["Thermosflasche"]
+    },
+    {
+        "store": "spar",
+        "id": "2020003281358",
+        "name": "SIMPEX Color Thermosflasche 0,75l Blätter blau/grün",
+        "category": "Küchenbedarf",
+        "subcategories": ["Thermosflasche"]
+    },
+    {
+        "store": "spar",
+        "id": "2020003281341",
+        "name": "SIMPEX Color Thermosflasche 0,75l grün",
+        "category": "Küchenbedarf",
+        "subcategories": ["Thermosflasche"]
+    },
+    {
+        "store": "spar",
+        "id": "2020003786167",
+        "name": "SIMPEX Color Thermosflasche Blätter",
+        "category": "Küchenbedarf",
+        "subcategories": ["Thermosflasche"]
+    },
+    {
+        "store": "spar",
+        "id": "2020003786181",
+        "name": "SIMPEX Color Thermosflasche nude",
+        "category": "Küchenbedarf",
+        "subcategories": ["Thermosflasche"]
+    },
+    {
+        "store": "spar",
+        "id": "2020003685637",
+        "name": "SIMPEX Color To Go Glasbecher mit Korkring berry",
+        "category": "Geschirr",
+        "subcategories": ["Glasbecher"]
+    },
+    {
+        "store": "spar",
+        "id": "2020003685644",
+        "name": "SIMPEX Color To Go Glasbecher mit Korkring petrol",
+        "category": "Geschirr",
+        "subcategories": ["Glasbecher"]
+    },
+    {
+        "store": "spar",
+        "id": "2020003685651",
+        "name": "SIMPEX Color To Go Glasbecher mit Korkring taupe",
+        "category": "Geschirr",
+        "subcategories": ["Glasbecher"]
+    },
+    {
+        "store": "spar",
+        "id": "2020003685668",
+        "name": "SIMPEX Color To Go Glasbecher mit Sillikonring",
+        "category": "Geschirr",
+        "subcategories": ["Glasbecher"]
+    },
+    {
+        "store": "spar",
+        "id": "2020003541032",
+        "name": "SIMPEX Color Toaster Coral",
+        "category": "Küchengeräte",
+        "subcategories": ["Toaster"]
+    },
+    {
+        "store": "spar",
+        "id": "2020003541056",
+        "name": "SIMPEX Color Toaster Mint",
+        "category": "Küchengeräte",
+        "subcategories": ["Toaster"]
+    },
+    {
+        "store": "spar",
+        "id": "2020003042300",
+        "name": "SIMPEX Color Trinkflasche 400ml Pirat",
+        "category": "Küchenbedarf",
+        "subcategories": ["Trinkflasche"]
+    },
+    {
+        "store": "spar",
+        "id": "2020003042348",
+        "name": "SIMPEX Color Trinkflasche 400ml Punkte",
+        "category": "Küchenbedarf",
+        "subcategories": ["Trinkflasche"]
+    },
+    {
+        "store": "spar",
+        "id": "2020003042331",
+        "name": "SIMPEX Color Trinkflasche 400ml Unicorn",
+        "category": "Küchenbedarf",
+        "subcategories": ["Trinkflasche"]
+    },
+    {
+        "store": "spar",
+        "id": "2020002613969",
+        "name": "SIMPEX Color Trinkflasche 600ml Blätter",
+        "category": "Küchenbedarf",
+        "subcategories": ["Trinkflasche"]
+    },
+    {
+        "store": "spar",
+        "id": "2020002614058",
+        "name": "SIMPEX Color Trinkflasche 600ml Feder",
+        "category": "Küchenbedarf",
+        "subcategories": ["Trinkflasche"]
+    },
+    {
+        "store": "spar",
+        "id": "2020002614126",
+        "name": "SIMPEX Color Trinkflasche 600ml Punkte",
+        "category": "Küchenbedarf",
+        "subcategories": ["Trinkflasche"]
+    },
+    {
+        "store": "spar",
+        "id": "2020003042454",
+        "name": "SIMPEX Color Trinkflasche aus Glas 750ml / Coral",
+        "category": "Küchenbedarf",
+        "subcategories": ["Trinkflasche", "Glasflasche"]
+    },
+    {
+        "store": "spar",
+        "id": "2020003042478",
+        "name": "SIMPEX Color Trinkflasche aus Glas 750ml / Petrol",
+        "category": "Küchenbedarf",
+        "subcategories": ["Trinkflasche", "Glasflasche"]
+    },
+    {
+        "store": "spar",
+        "id": "2020003042430",
+        "name": "SIMPEX Color Trinkflasche aus Glas mit Filzhülle / 560ml",
+        "category": "Küchenbedarf",
+        "subcategories": ["Trinkflasche", "Glasflasche"]
+    },
+    {
+        "store": "spar",
+        "id": "2020003042416",
+        "name": "SIMPEX Color Trinkflasche aus Glas mit Korkhülle / 560ml",
+        "category": "Küchenbedarf",
+        "subcategories": ["Trinkflasche", "Glasflasche"]
+    },
+    {
+        "store": "spar",
+        "id": "2020002110734",
+        "name": "SIMPEX Color Wasserflasche 0,4L graue Blüte",
+        "category": "Küchenbedarf",
+        "subcategories": ["Wasserflasche"]
+    },
+    {
+        "store": "spar",
+        "id": "2020002110741",
+        "name": "SIMPEX Color Wasserflasche 0,4l grün",
+        "category": "Küchenbedarf",
+        "subcategories": ["Wasserflasche"]
+    },
+    {
+        "store": "spar",
+        "id": "2020003541063",
+        "name": "SIMPEX Color Wasserkocher Coral",
+        "category": "Küchengeräte",
+        "subcategories": ["Wasserkocher"]
+    },
+    {
+        "store": "spar",
+        "id": "2020003541070",
+        "name": "SIMPEX Color Wasserkocher Mint",
+        "category": "Küchengeräte",
+        "subcategories": ["Wasserkocher"]
+    },
+    {
+        "store": "spar",
+        "id": "2020004147769",
+        "name": "SIMPEX Color Wok 28 cm eisblau",
+        "category": "Küchenbedarf",
+        "subcategories": ["Wok"]
+    },
+    {
+        "store": "spar",
+        "id": "2020004335388",
+        "name": "SIMPEX Color Wok 28 cm grapefruit",
+        "category": "Küchenbedarf",
+        "subcategories": ["Wok"]
+    },
+    {
+        "store": "spar",
+        "id": "2020003346347",
+        "name": "SIMPEX Color Wok 28cm mint",
+        "category": "Küchenbedarf",
+        "subcategories": ["Wok"]
+    },
+    {
+        "store": "spar",
+        "id": "2020002614317",
+        "name": "SIMPEX Professional Backblech ausziehbar",
+        "category": "Backzubehör",
+        "subcategories": ["Backblech"]
+    },
+    {
+        "store": "spar",
+        "id": "2020002614256",
+        "name": "SIMPEX Professional Blechkuchenspringform",
+        "category": "Backzubehör",
+        "subcategories": ["Springform"]
+    },
+    {
+        "store": "spar",
+        "id": "2020003962387",
+        "name": "SIMPEX Professional Bratpfanne 20 cm mit Keramikbeschichtung",
+        "category": "Küchenbedarf",
+        "subcategories": ["Bratpfanne"]
+    },
+    {
+        "store": "spar",
+        "id": "2020001659388",
+        "name": "SIMPEX Professional Bratpfanne 24 cm",
+        "category": "Küchenbedarf",
+        "subcategories": ["Bratpfanne"]
+    },
+    {
+        "store": "spar",
+        "id": "2020001659319",
+        "name": "SIMPEX Professional Bratpfanne 24 cm mit Keramikbeschichtung",
+        "category": "Küchenbedarf",
+        "subcategories": ["Bratpfanne"]
+    },
+    {
+        "store": "spar",
+        "id": "2020001659418",
+        "name": "SIMPEX Professional Bratpfanne 28 cm",
+        "category": "Küchenbedarf",
+        "subcategories": ["Bratpfanne"]
+    },
+    {
+        "store": "spar",
+        "id": "2020001659364",
+        "name": "SIMPEX Professional Bratpfanne 28 cm mit Keramikbeschichtung",
+        "category": "Küchenbedarf",
+        "subcategories": ["Bratpfanne"]
+    },
+    {
+        "store": "spar",
+        "id": "2020003052507",
+        "name": "SIMPEX Professional Bratpfanne Granitec / 24 cm",
+        "category": "Küchenbedarf",
+        "subcategories": ["Bratpfanne"]
+    },
+    {
+        "store": "spar",
+        "id": "2020003052514",
+        "name": "SIMPEX Professional Bratpfanne Granitec / 28 cm",
+        "category": "Küchenbedarf",
+        "subcategories": ["Bratpfanne"]
+    },
+    {
+        "store": "spar",
+        "id": "2020003902093",
+        "name": "SIMPEX Professional Bratpfanne Wabenbeschichtung excellence 20 cm",
+        "category": "Küchenbedarf",
+        "subcategories": ["Bratpfanne"]
+    },
+    {
+        "store": "spar",
+        "id": "2020003047336",
+        "name": "SIMPEX Professional Bratpfanne mit Keramikbeschichtung",
+        "category": "Küchenbedarf",
+        "subcategories": ["Bratpfanne"]
+    },
+    {
+        "store": "spar",
+        "id": "2020003047305",
+        "name": "SIMPEX Professional Bratpfanne mit Keramikbeschichtung",
+        "category": "Küchenbedarf",
+        "subcategories": ["Bratpfanne"]
+    },
+    {
+        "store": "spar",
+        "id": "2020002359379",
+        "name": "SIMPEX Professional Brotmesser 20 cm",
+        "category": "Küchenmesser",
+        "subcategories": ["Messer"]
+    },
+    {
+        "store": "spar",
+        "id": "2020003798504",
+        "name": "SIMPEX Professional Crepespfanne Granitec 26cm",
+        "category": "Küchenbedarf",
+        "subcategories": ["Crepespfanne"]
+    },
+    {
+        "store": "spar",
+        "id": "2020003121326",
+        "name": "SIMPEX Professional Edelstahlpfanne  24 cm Wabenbeschichtung",
+        "category": "Küchenbedarf",
+        "subcategories": ["Edelstahlpfanne"]
+    },
+    {
+        "store": "spar",
+        "id": "2020002359348",
+        "name": "SIMPEX Professional Fleischmesser 20 cm",
+        "category": "Küchenmesser",
+        "subcategories": ["Messer", "Fleischmesser"]
+    },
+    {
+        "store": "spar",
+        "id": "2020002359171",
+        "name": "SIMPEX Professional Gemüsemesser 10 cm",
+        "category": "Küchenmesser",
+        "subcategories": ["Messer", "Gemüsemesser"]
+    },
+    {
+        "store": "spar",
+        "id": "2020002614140",
+        "name": "SIMPEX Professional Gugelhupfform 22cm",
+        "category": "Backzubehör",
+        "subcategories": ["Gugelhupfform"]
+    },
+    {
+        "store": "spar",
+        "id": "2020002877125",
+        "name": "SIMPEX Professional Kaffeemaschine mit Mahlwerk",
+        "category": "Küchengeräte",
+        "subcategories": ["Kaffeemaschine"]
+    },
+    {
+        "store": "spar",
+        "id": "2020002614232",
+        "name": "SIMPEX Professional Kastenform 30cm",
+        "category": "Backzubehör",
+        "subcategories": ["Kastenform"]
+    },
+    {
+        "store": "spar",
+        "id": "2020002359287",
+        "name": "SIMPEX Professional Kochmesser 15 cm",
+        "category": "Küchenmesser",
+        "subcategories": ["Messer", "Kochmesser"]
+    },
+    {
+        "store": "spar",
+        "id": "2020002359362",
+        "name": "SIMPEX Professional Kochmesser 20 cm",
+        "category": "Küchenmesser",
+        "subcategories": ["Messer", "Kochmesser"]
+    },
+    {
+        "store": "spar",
+        "id": "2020002878665",
+        "name": "SIMPEX Professional Langschlitztoaster Edelstahl",
+        "category": "Küchengeräte",
+        "subcategories": ["Toaster"]
+    },
+    {
+        "store": "spar",
+        "id": "2020003781988",
+        "name": "SIMPEX Professional Milchtopf 14cm",
+        "category": "Küchenbedarf",
+        "subcategories": ["Milchtopf"]
+    },
+    {
+        "store": "spar",
+        "id": "2020003121432",
+        "name": "SIMPEX Professional Pfanne mit Wabenbeschichtung excellence / 28 cm",
+        "category": "Küchenbedarf",
+        "subcategories": ["Pfanne"]
+    },
+    {
+        "store": "spar",
+        "id": "2020001659609",
+        "name": "SIMPEX Professional Körperanalysewaage bis 180kg",
+        "category": "Haushaltswaren",
+        "subcategories": ["Waage"]
+    },
+    {
+        "store": "spar",
+        "id": "2020002614218",
+        "name": "SIMPEX Professional Muffinbackform 12er",
+        "category": "Backzubehör",
+        "subcategories": ["Muffinbackform"]
+    },
+    {
+        "store": "spar",
+        "id": "2020003047367",
+        "name": "SIMPEX Professional Palatschinkenpfanne mit Keramikbeschichtung",
+        "category": "Küchenbedarf",
+        "subcategories": ["Pfanne"]
+    },
+    {
+        "store": "spar",
+        "id": "2020003745317",
+        "name": "SIMPEX Professional Rührschüssel 3-teilig",
+        "category": "Backzubehör",
+        "subcategories": ["Rührschüssel"]
+    },
+    {
+        "store": "spar",
+        "id": "2020002359294",
+        "name": "SIMPEX Professional Santokumesser 18 cm",
+        "category": "Küchenmesser",
+        "subcategories": ["Messer", "Santokumesser"]
+    },
+    {
+        "store": "spar",
+        "id": "2020003052521",
+        "name": "SIMPEX Professional Schmor- und Servierpfanne Granitec / 28 cm",
+        "category": "Küchenbedarf",
+        "subcategories": ["Schmorpfanne", "Servierpfanne"]
+    },
+    {
+        "store": "spar",
+        "id": "2020004021052",
+        "name": "SIMPEX Professional Schmorpfanne 24 cm Wabenbeschichtung mit Glasdeckel",
+        "category": "Küchenbedarf",
+        "subcategories": ["Schmorpfanne"]
+    },
+    {
+        "store": "spar",
+        "id": "2020003047350",
+        "name": "SIMPEX Professional Schmorpfanne mit Glasdeckel",
+        "category": "Küchenbedarf",
+        "subcategories": ["Schmorpfanne"]
+    },
+    {
+        "store": "spar",
+        "id": "2020004021069",
+        "name": "SIMPEX Professional Schmortopf 28 cm Wabenbeschichtung mit Glasdeckel",
+        "category": "Küchenbedarf",
+        "subcategories": ["Schmortopf"]
+    },
+    {
+        "store": "spar",
+        "id": "2020003121715",
+        "name": "SIMPEX Professional Schneidbrett aus Holzfasern 23,8 x 16,5 cm",
+        "category": "Küchenhelfer",
+        "subcategories": ["Schneidbrett"]
+    },
+    {
+        "store": "spar",
+        "id": "2020003121753",
+        "name": "SIMPEX Professional Schneidbrett aus Holzfasern 32,5 x 21,5 cm",
+        "category": "Küchenhelfer",
+        "subcategories": ["Schneidbrett"]
+    },
+    {
+        "store": "spar",
+        "id": "2020003121784",
+        "name": "SIMPEX Professional Schneidbrett aus Holzfasern 40 x 26 cm",
+        "category": "Küchenhelfer",
+        "subcategories": ["Schneidbrett"]
+    },
+    {
+        "store": "spar",
+        "id": "2020003353208",
+        "name": "SIMPEX Professional Schneidebrett aus Holzfasern 34 x 18,8 cm",
+        "category": "Küchenhelfer",
+        "subcategories": ["Schneidbrett"]
+    },
+    {
+        "store": "spar",
+        "id": "2020003353178",
+        "name": "SIMPEX Professional Schneidebrett aus Holzfasern Größe L / 36,8 x 27,4 cm",
+        "category": "Küchenhelfer",
+        "subcategories": ["Schneidbrett"]
+    },
+    {
+        "store": "spar",
+        "id": "2020003353130",
+        "name": "SIMPEX Professional Schneidebrett aus Holzfasern Größe M / 29,8 x 21,5 cm",
+        "category": "Küchenhelfer",
+        "subcategories": ["Schneidbrett"]
+    },
+    {
+        "store": "spar",
+        "id": "2020002359157",
+        "name": "SIMPEX Professional Schälmesser 7 cm",
+        "category": "Küchenmesser",
+        "subcategories": ["Messer", "Schälmesser"]
+    },
+    {
+        "store": "spar",
+        "id": "2103198",
+        "name": "S-BUDGET Wäscheklammern Korb",
+        "category": "Haushaltswaren",
+        "subcategories": ["Wäscheklammern"]
+    },
+    {
+        "store": "spar",
+        "id": "2020003156045",
+        "name": "SIMPEX Color Kleidersack Medium, 60x100 cm",
+        "category": "Haushaltswaren",
+        "subcategories": ["Kleidersack"]
+    },
+    {
+        "store": "spar",
+        "id": "2020001825844",
+        "name": "SIMPEX Color Wäschekorb 28l",
+        "category": "Haushaltswaren",
+        "subcategories": ["Wäschekorb"]
+    },
+    {
+        "store": "spar",
+        "id": "2020002613990",
+        "name": "SIMPEX Professional Springform 18cm",
+        "category": "Backzubehör",
+        "subcategories": ["Springform"]
+    },
+    {
+        "store": "spar",
+        "id": "2020002614027",
+        "name": "SIMPEX Professional Springform 26cm",
+        "category": "Backzubehör",
+        "subcategories": ["Springform"]
+    },
+    {
+        "store": "spar",
+        "id": "2020002614096",
+        "name": "SIMPEX Professional Springformenset 26cm",
+        "category": "Backzubehör",
+        "subcategories": ["Springform"]
+    },
+    {
+        "store": "spar",
+        "id": "2020002603717",
+        "name": "SPAR Apfel Snack Bonita 750g",
+        "category": "Lebensmittel",
+        "subcategories": ["Snack"]
+    },
+    {
+        "store": "spar",
+        "id": "2020003407048",
+        "name": "SPAR 100% Multifruchtsaft gelb",
+        "category": "Getränke",
+        "subcategories": ["Multifruchtsaft"]
+    },
+    {
+        "store": "spar",
+        "id": "2020003345241",
+        "name": "SPAR 100% Orangensaft",
+        "category": "Getränke",
+        "subcategories": ["Orangensaft"]
+    },
+    {
+        "store": "spar",
+        "id": "232029",
+        "name": "SPAR 100% Orangensaft",
+        "category": "Getränke",
+        "subcategories": ["Orangensaft"]
+    },
+    {
+        "store": "spar",
+        "id": "2020003492600",
+        "name": "SPAR 100% Orangensaft fairtrade",
+        "category": "Getränke",
+        "subcategories": ["Orangensaft"]
+    },
+    {
+        "store": "spar",
+        "id": "2020003434341",
+        "name": "SPAR 100% Orangensaft mit Fruchtfleisch",
+        "category": "Getränke",
+        "subcategories": ["Orangensaft"]
+    },
+    {
+        "store": "spar",
+        "id": "5398485",
+        "name": "SPAR 100% steirischer Apfel aus der Steiermark",
+        "category": "Lebensmittel",
+        "subcategories": ["Apfel"]
+    },
+    {
+        "store": "spar",
+        "id": "3702574",
+        "name": "SPAR 8-Kräuter-Mischung streufertig",
+        "category": "Gewürze",
+        "subcategories": ["Kräutermischung"]
+    },
+    {
+        "store": "spar",
+        "id": "2020003403651",
+        "name": "SPAR 100% Rapsöl",
+        "category": "Lebensmittel",
+        "subcategories": ["Öl"]
+    },
+    {
+        "store": "spar",
+        "id": "2020003403637",
+        "name": "SPAR 100% Sonnenblumenöl",
+        "category": "Lebensmittel",
+        "subcategories": ["Öl"]
+    },
+    {
+        "store": "spar",
+        "id": "4774839",
+        "name": "SPAR 100% reines Erdnussöl",
+        "category": "Lebensmittel",
+        "subcategories": ["Öl"]
+    },
+    {
+        "store": "spar",
+        "id": "104791",
+        "name": "SPAR 100% reines Rapsöl",
+        "category": "Lebensmittel",
+        "subcategories": ["Öl"]
+    },
+    {
+        "store": "spar",
+        "id": "2020002615406",
+        "name": "SIMPEX Professional Stabmixer Set",
+        "category": "Küchengeräte",
+        "subcategories": ["Stabmixer"]
+    },
+    {
+        "store": "spar",
+        "id": "2020003781995",
+        "name": "SIMPEX Professional Stielkasserolle 16cm",
+        "category": "Küchenbedarf",
+        "subcategories": ["Stielkasserolle"]
+    },
+    {
+        "store": "spar",
+        "id": "2020003047381",
+        "name": "SIMPEX Professional Stielkasserolle mit Keramikbeschichtung",
+        "category": "Küchenbedarf",
+        "subcategories": ["Stielkasserolle"]
+    },
+    {
+        "store": "spar",
+        "id": "2020003047398",
+        "name": "SIMPEX Professional Stielkasserolle mit Keramikbeschichtung",
+        "category": "Küchenbedarf",
+        "subcategories": ["Stielkasserolle"]
+    },
+    {
+        "store": "spar",
+        "id": "2020002614294",
+        "name": "SIMPEX Professional Tarteform 28cm",
+        "category": "Backzubehör",
+        "subcategories": ["Tarteform"]
+    }
+]

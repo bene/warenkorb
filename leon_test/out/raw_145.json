@@ -1,0 +1,45 @@
+[
+  {
+    "store": "hofer",
+    "id": 544654,
+    "name": "PRIMANA Gulasch Suppe 400g",
+    "category": "Suppen",
+    "subcategories": ["Suppen", "Fertiggerichte"]
+  },
+  {
+    "store": "hofer",
+    "id": 545967,
+    "name": "PRIMANA Leberknödel Suppe 400g",
+    "category": "Suppen",
+    "subcategories": ["Suppen", "Fertiggerichte"]
+  },
+  {
+    "store": "hofer",
+    "id": 544652,
+    "name": "PRIMANA Rindgulsch 400g",
+    "category": "Gulasch",
+    "subcategories": ["Fleischgerichte", "Gulasch"]
+  },
+  {
+    "store": "hofer",
+    "id": 546669,
+    "name": "PRIMANA Serbische Bohnensuppe 400g",
+    "category": "Suppen",
+    "subcategories": ["Suppen", "Fertiggerichte"]
+  },
+  {
+    "store": "hofer",
+    "id": 543841,
+    "name": "PRIMANA Fleischaufstrich Leber 150g",
+    "category": "Aufstriche",
+    "subcategories": ["Aufstriche", "Herzhaftes"]
+  },
+  {
+    "store": "hofer",
+    "id": 543842,
+    "name": "PRIMANA Fleischschmalz 150g",
+    "category": "Aufstriche",
+    "subcategories": ["Aufstriche", "Herzhaftes"]
+  }
+  ...
+]

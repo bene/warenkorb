@@ -1,0 +1,702 @@
+[
+  {
+    "store": "spar",
+    "id": "2020004315250",
+    "name": "Huber Markus Riesling Engelsberg Magnum BIO Traisental DAC Geschenkkarton",
+    "category": "Wein",
+    "subcategories": ["Riesling", "Bio", "Traisental DAC"]
+  },
+  {
+    "store": "spar",
+    "id": "4458142",
+    "name": "Huber Markus Riesling Traisental DAC Nussdorfer BIO 2022",
+    "category": "Wein",
+    "subcategories": ["Riesling", "Bio", "Traisental DAC"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004183347",
+    "name": "Huber Markus Rosé Moments BIO 2022",
+    "category": "Wein",
+    "subcategories": ["Rosé", "Bio"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004276025",
+    "name": "Huber Markus Rosé Moments BIO Magnum 2021",
+    "category": "Wein",
+    "subcategories": ["Rosé", "Bio"]
+  },
+  {
+    "store": "spar",
+    "id": "6159023",
+    "name": "Il Barone Cabernet Sauvignon del Veneto IGT",
+    "category": "Wein",
+    "subcategories": ["Cabernet Sauvignon"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002239596",
+    "name": "Il Barone Chardonnay",
+    "category": "Wein",
+    "subcategories": ["Chardonnay"]
+  },
+  {
+    "store": "spar",
+    "id": "4369493",
+    "name": "Il Barone Chardonnay 2022",
+    "category": "Wein",
+    "subcategories": ["Chardonnay"]
+  },
+  {
+    "store": "spar",
+    "id": "578257",
+    "name": "Il Barone Merlot IGT del Veneto 2022",
+    "category": "Wein",
+    "subcategories": ["Merlot"]
+  },
+  {
+    "store": "spar",
+    "id": "7796371",
+    "name": "Il Barone Merlot del Veneto IGT",
+    "category": "Wein",
+    "subcategories": ["Merlot"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001826032",
+    "name": "Il Barone Moscato IGT Terre di Chieti 2021",
+    "category": "Wein",
+    "subcategories": ["Moscato"]
+  },
+  {
+    "store": "spar",
+    "id": "4574972",
+    "name": "Il Barone Pinot Grigio delle Venezie DOC 2022",
+    "category": "Wein",
+    "subcategories": ["Pinot Grigio"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003080968",
+    "name": "Imkerei Mayrhofer Met Honigwein",
+    "category": "Honigwein",
+    "subcategories": []
+  },
+  {
+    "store": "spar",
+    "id": "2020004251169",
+    "name": "Inama Val Liona Veneto Rosso IGT 2018",
+    "category": "Wein",
+    "subcategories": ["Rosso"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003791918",
+    "name": "Kouros Nemea Agiorgitiko 2020",
+    "category": "Wein",
+    "subcategories": ["Nemea", "Agiorgitiko"]
+  },
+  {
+    "store": "spar",
+    "id": "4678137",
+    "name": "Kourtaki Mavrodaphne of Patras rot",
+    "category": "Wein",
+    "subcategories": ["Mavrodaphne"]
+  },
+  {
+    "store": "spar",
+    "id": "698108",
+    "name": "Kourtaki Retsina aus Attika",
+    "category": "Wein",
+    "subcategories": ["Retsina"]
+  },
+  {
+    "store": "spar",
+    "id": "855419",
+    "name": "Kourtaki Samos Muscat AOC",
+    "category": "Wein",
+    "subcategories": ["Samos", "Muscat"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001806263",
+    "name": "Kracher Spätlese Cuvée 2021",
+    "category": "Wein",
+    "subcategories": ["Spätlese", "Cuvée"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004353214",
+    "name": "Kracher Spätlese Rosé 2021",
+    "category": "Wein",
+    "subcategories": ["Spätlese", "Rosé"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001708086",
+    "name": "Krispel Gelber Muskateller Vulkanland Steiermark DAC 2021",
+    "category": "Wein",
+    "subcategories": ["Gelber Muskateller", "Steiermark DAC"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003810671",
+    "name": "Krispel Klasse Steira Gelber Muskateller 2022",
+    "category": "Wein",
+    "subcategories": ["Gelber Muskateller"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003810558",
+    "name": "Krispel Klasse Steira Sauvignon Blanc 2022",
+    "category": "Wein",
+    "subcategories": ["Sauvignon Blanc"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003810749",
+    "name": "Krispel Klasse Steira Weißburgunder 2021",
+    "category": "Wein",
+    "subcategories": ["Weißburgunder"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003810466",
+    "name": "Krispel Klasse Steira Welschriesling 2022",
+    "category": "Wein",
+    "subcategories": ["Welschriesling"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002471187",
+    "name": "Krispel Krispelino 2022",
+    "category": "Wein",
+    "subcategories": []
+  },
+  {
+    "store": "spar",
+    "id": "2020003797095",
+    "name": "Krispel Krispelino Rosé 2022",
+    "category": "Wein",
+    "subcategories": ["Rosé"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004183453",
+    "name": "Krispel Rosé Bohéme 2021",
+    "category": "Wein",
+    "subcategories": ["Rosé"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001663125",
+    "name": "Krispel Sauvignon Blanc Vulkanland Steiermark DAC 2022",
+    "category": "Wein",
+    "subcategories": ["Sauvignon Blanc"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001620067",
+    "name": "Krispel Weißburgunder Vulkanland Steiermark DAC 2022",
+    "category": "Wein",
+    "subcategories": ["Weißburgunder"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001708130",
+    "name": "Krispel Welschriesling Vulkanland Steiermark DAC 2022",
+    "category": "Wein",
+    "subcategories": ["Welschriesling"]
+  },
+  {
+    "store": "spar",
+    "id": "4150695",
+    "name": "Kurtatsch Grauvernatsch Südtirol DOC 2021",
+    "category": "Wein",
+    "subcategories": ["Grauvernatsch"]
+  },
+  {
+    "store": "spar",
+    "id": "6703448",
+    "name": "Kurtatsch Südtirol Kalterersee Klassik DOC 2021",
+    "category": "Wein",
+    "subcategories": ["Südtirol", "Kalterersee", "Klassik"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001986941",
+    "name": "Kurtatsch Vernatsch Weinberg Dolomiten IGT 2021",
+    "category": "Wein",
+    "subcategories": ["Vernatsch"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004764492",
+    "name": "Kurtatsch Weißburgunder Südtirol DOC 2022",
+    "category": "Wein",
+    "subcategories": ["Weißburgunder"]
+  },
+  {
+    "store": "spar",
+    "id": "2020000548812",
+    "name": "Kutjevo Kutjevo d.d. Grasevina 2021",
+    "category": "Wein",
+    "subcategories": ["Grasevina"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004682109",
+    "name": "La Chablisienne Chablis Cuvée 1923 2020",
+    "category": "Wein",
+    "subcategories": ["Chablis", "Cuvée"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004682055",
+    "name": "La Chablisienne Chablis Grande Cuvée 2022",
+    "category": "Wein",
+    "subcategories": ["Chablis", "Grande Cuvée"]
+  },
+  {
+    "store": "spar",
+    "id": "2114989",
+    "name": "La Gioiosa Hugo",
+    "category": "Wein",
+    "subcategories": []
+  },
+  {
+    "store": "spar",
+    "id": "1646351",
+    "name": "La Massa Toscana IGT 2019",
+    "category": "Wein",
+    "subcategories": ["Toscana IGT"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004251190",
+    "name": "La Vieille Ferme Rosé 2021",
+    "category": "Wein",
+    "subcategories": ["Rosé"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003615436",
+    "name": "La Vieille Ferme Rouge 2021",
+    "category": "Wein",
+    "subcategories": ["Rouge"]
+  },
+  {
+    "store": "spar",
+    "id": "5122318",
+    "name": "Lang Rotweingut Blaufränkisch Mittelburgenland DAC Reserve L1 2019",
+    "category": "Wein",
+    "subcategories": ["Blaufränkisch", "Mittelburgenland DAC", "Reserve"]
+  },
+  {
+    "store": "spar",
+    "id": "5488544",
+    "name": "Lang Rotweingut Blaufränkisch Vitikult 2021",
+    "category": "Wein",
+    "subcategories": ["Blaufränkisch"]
+  },
+  {
+    "store": "spar",
+    "id": "5083176",
+    "name": "Lang Rotweingut Cuvée Excelsior 2019",
+    "category": "Wein",
+    "subcategories": ["Cuvée", "Excelsior"]
+  },
+  {
+    "store": "spar",
+    "id": "5082933",
+    "name": "Lang Rotweingut St. Laurent Classic 2021",
+    "category": "Wein",
+    "subcategories": ["St. Laurent"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001691265",
+    "name": "Laporte Sauvignon Blanc Le Bouquet IGP 2021",
+    "category": "Wein",
+    "subcategories": ["Sauvignon Blanc"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004276056",
+    "name": "Lapostolle Le Petit Clos 2019",
+    "category": "Wein",
+    "subcategories": []
+  },
+  {
+    "store": "spar",
+    "id": "2020003956973",
+    "name": "Lar de Paula Edición Limitada Rioja Crianza DOCa 2016",
+    "category": "Wein",
+    "subcategories": ["Rioja", "Crianza"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003956850",
+    "name": "Lar de Paula Edición Limitada Rioja Reserva DOCa 2015",
+    "category": "Wein",
+    "subcategories": ["Rioja", "Reserva"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004423269",
+    "name": "Lawson’s Dry Hills Sauvignon Blanc 2021",
+    "category": "Wein",
+    "subcategories": ["Sauvignon Blanc"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001929023",
+    "name": "Medici Ermete Lambrusco Grasperossa DOC Bocciolo 2021",
+    "category": "Wein",
+    "subcategories": ["Lambrusco", "Grasperossa"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001882540",
+    "name": "Medici Ermete Lambrusco Reggiano DOC Dolce",
+    "category": "Wein",
+    "subcategories": ["Lambrusco"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002322335",
+    "name": "Medici Ermete Lambrusco bianco Emilia IGT dolce",
+    "category": "Wein",
+    "subcategories": ["Lambrusco"]
+  },
+  {
+    "store": "spar",
+    "id": "5879373",
+    "name": "Meinklang Blaufränkisch BIODYNAMISCH 2020",
+    "category": "Wein",
+    "subcategories": ["Blaufränkisch"]
+  },
+  {
+    "store": "spar",
+    "id": "8183828",
+    "name": "Mezzacorona Cabernet Sauvignon Trentino DOC 2021",
+    "category": "Wein",
+    "subcategories": ["Cabernet Sauvignon"]
+  },
+  {
+    "store": "spar",
+    "id": "8183835",
+    "name": "Mezzacorona Chardonnay Trentino DOC 2022",
+    "category": "Wein",
+    "subcategories": ["Chardonnay"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001685929",
+    "name": "Mezzacorona Lagrein Trentino DOC 2021",
+    "category": "Wein",
+    "subcategories": ["Lagrein"]
+  },
+  {
+    "store": "spar",
+    "id": "8183804",
+    "name": "Mezzacorona Merlot Trentino DOC 2022",
+    "category": "Wein",
+    "subcategories": ["Merlot"]
+  },
+  {
+    "store": "spar",
+    "id": "6049584",
+    "name": "Mezzacorona Pinot Grigio Trentino DOC 2022",
+    "category": "Wein",
+    "subcategories": ["Pinot Grigio"]
+  },
+  {
+    "store": "spar",
+    "id": "2020000619888",
+    "name": "Active O2 Apple Kiwi",
+    "category": "Getränk",
+    "subcategories": ["Apfel-Kiwi"]
+  },
+  {
+    "store": "spar",
+    "id": "2020000619901",
+    "name": "Active O2 Cherry",
+    "category": "Getränk",
+    "subcategories": ["Kirsche"]
+  },
+  {
+    "store": "spar",
+    "id": "3131701",
+    "name": "Alpquell Mineralwasser mild",
+    "category": "Getränk",
+    "subcategories": ["Mineralwasser", "mild"]
+  },
+  {
+    "store": "spar",
+    "id": "1321357",
+    "name": "Alpquell Mineralwasser mild",
+    "category": "Getränk",
+    "subcategories": ["Mineralwasser", "mild"]
+  },
+  {
+    "store": "spar",
+    "id": "5758920",
+    "name": "Alpquell Mineralwasser mild 6 x 0,5l",
+    "category": "Getränk",
+    "subcategories": ["Mineralwasser", "mild"]
+  },
+  {
+    "store": "spar",
+    "id": "4325031",
+    "name": "Alpquell Mineralwasser ohne",
+    "category": "Getränk",
+    "subcategories": ["Mineralwasser", "ohne Kohlensäure"]
+  },
+  {
+    "store": "spar",
+    "id": "5759118",
+    "name": "Alpquell Mineralwasser ohne 6 x 0,5l",
+    "category": "Getränk",
+    "subcategories": ["Mineralwasser", "ohne Kohlensäure"]
+  },
+  {
+    "store": "spar",
+    "id": "1321296",
+    "name": "Alpquell Mineralwasser prickelnd",
+    "category": "Getränk",
+    "subcategories": ["Mineralwasser", "prickelnd"]
+  },
+  {
+    "store": "spar",
+    "id": "5758869",
+    "name": "Alpquell Mineralwasser prickelnd 6 x 0,5l",
+    "category": "Getränk",
+    "subcategories": ["Mineralwasser", "prickelnd"]
+  },
+  {
+    "store": "spar",
+    "id": "2953977",
+    "name": "Alpquell prickelnd",
+    "category": "Getränk",
+    "subcategories": ["Mineralwasser", "prickelnd"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003413711",
+    "name": "Gasteiner Apfel",
+    "category": "Getränk",
+    "subcategories": ["Apfel"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003879135",
+    "name": "Gasteiner Johannisbeere",
+    "category": "Getränk",
+    "subcategories": ["Johannisbeere"]
+  },
+  {
+    "store": "spar",
+    "id": "3359969",
+    "name": "Gasteiner Kristallklar Mineralwasser mild",
+    "category": "Getränk",
+    "subcategories": ["Mineralwasser", "mild"]
+  },
+  {
+    "store": "spar",
+    "id": "3359945",
+    "name": "Gasteiner Kristallklar Mineralwasser prickelnd",
+    "category": "Getränk",
+    "subcategories": ["Mineralwasser", "prickelnd"]
+  },
+  {
+    "store": "spar",
+    "id": "6984236",
+    "name": "Gasteiner Kristallklar Mineralwasser prickelnd Glasflasche",
+    "category": "Getränk",
+    "subcategories": ["Mineralwasser", "prickelnd", "Glasflasche"]
+  },
+  {
+    "store": "spar",
+    "id": "4029106",
+    "name": "Gasteiner Kristallklar Mineralwasser still",
+    "category": "Getränk",
+    "subcategories": ["Mineralwasser", "still"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002958534",
+    "name": "Gasteiner Lemon",
+    "category": "Getränk",
+    "subcategories": ["Zitrone"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002958688",
+    "name": "Gasteiner Orange",
+    "category": "Getränk",
+    "subcategories": ["Orange"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001158812",
+    "name": "Mehrner Heilwasser Heilwasser still",
+    "category": "Getränk",
+    "subcategories": ["Heilwasser", "still"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004380517",
+    "name": "Garden Gourmet Veganer Ei-Ersatz",
+    "category": "Lebensmittel",
+    "subcategories": ["Vegan", "Ei-Ersatz"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004142085",
+    "name": "Hilcona Mezzelune Funghi",
+    "category": "Lebensmittel",
+    "subcategories": ["Mezzelune", "Funghi"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004142054",
+    "name": "Hilcona Ravioli Ricotta di Bufala e Spinacci",
+    "category": "Lebensmittel",
+    "subcategories": ["Ravioli", "Ricotta di Bufala", "Spinat"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002382124",
+    "name": "Hilcona Tortelloni Prosciutto Crudo + Formaggi",
+    "category": "Lebensmittel",
+    "subcategories": ["Tortelloni", "Prosciutto Crudo", "Formaggi"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003142178",
+    "name": "Küchenbrüder Bio-Thai-Nudel-Suppe",
+    "category": "Lebensmittel",
+    "subcategories": ["Thai-Nudel-Suppe"]
+  },
+  {
+    "store": "spar",
+    "id": "4000563",
+    "name": "Meggle Baguette Knoblauchbutter",
+    "category": "Lebensmittel",
+    "subcategories": ["Baguette", "Knoblauchbutter"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003060496",
+    "name": "Meggle Knoblauchbrot",
+    "category": "Lebensmittel",
+    "subcategories": ["Knoblauchbrot"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004021113",
+    "name": "Meggle Laugenbaguette Kräuterbutter",
+    "category": "Lebensmittel",
+    "subcategories": ["Laugenbaguette", "Kräuterbutter"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003060502",
+    "name": "Meggle Mediterranes Brot",
+    "category": "Lebensmittel",
+    "subcategories": ["Mediterranes Brot"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004614032",
+    "name": "Meggle Rustikal Baguette Vegan 160g",
+    "category": "Lebensmittel",
+    "subcategories": ["Baguette", "Vegan"]
+  },
+  {
+    "store": "spar",
+    "id": "6554149",
+    "name": "AGER Rehschnitzel geschnitten",
+    "category": "Fleisch",
+    "subcategories": ["Rehschnitzel"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001920228",
+    "name": "Aia Chicken Wings Hot",
+    "category": "Fleisch",
+    "subcategories": ["Chicken Wings"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004037916",
+    "name": "Aia Entenbrust Filet",
+    "category": "Fleisch",
+    "subcategories": ["Entenbrust"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004037909",
+    "name": "Aia Entenkeulen",
+    "category": "Fleisch",
+    "subcategories": ["Entenkeulen"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001920112",
+    "name": "Aia Hendl Brustschnitzel Roma",
+    "category": "Fleisch",
+    "subcategories": ["Hendl", "Brustschnitzel"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003788451",
+    "name": "Aia Hendl Innenfilet",
+    "category": "Fleisch",
+    "subcategories": ["Hendl", "Innenfilet"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003002151",
+    "name": "Aia Hendlbrustfilet",
+    "category": "Fleisch",
+    "subcategories": ["Hendlbrustfilet"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003638022",
+    "name": "Aia Perlhuhn",
+    "category": "Fleisch",
+    "subcategories": ["Perlhuhn"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001920013",
+    "name": "Aia Putensteaks CAPRI",
+    "category": "Fleisch",
+    "subcategories": ["Putensteaks"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001920082",
+    "name": "Aia Putensteaks TOSCANA",
+    "category": "Fleisch",
+    "subcategories": ["Putensteaks"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002087906",
+    "name": "Gans mit Innereien 1 KG",
+    "category": "Fleisch",
+    "subcategories": ["Gans", "Innereien"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002087883",
+    "name": "Gänsebrustfilet mit Haut 1 KG",
+    "category": "Fleisch",
+    "subcategories": ["Gänsebrustfilet"]
+  }
+]

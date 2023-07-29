@@ -1,0 +1,184 @@
+[
+  {
+    "store": "hofer",
+    "id": 544359,
+    "name": "CHOCEUR Milch Mäuse Caramel 210g",
+    "category": "Schokolade",
+    "subcategories": ["Milch", "Riegel", "Mäuse", "Caramel"]
+  },
+  {
+    "store": "hofer",
+    "id": 544361,
+    "name": "CHOCEUR Milch Mäuse Erdbeere 210g",
+    "category": "Schokolade",
+    "subcategories": ["Milch", "Riegel", "Mäuse", "Erdbeere"]
+  },
+  {
+    "store": "hofer",
+    "id": 549720,
+    "name": "CHOCEUR Milch Riegel 235g",
+    "category": "Schokolade",
+    "subcategories": ["Milch", "Riegel"]
+  },
+  {
+    "store": "hofer",
+    "id": 549719,
+    "name": "CHOCEUR Milch Riegel Knusper 223g",
+    "category": "Schokolade",
+    "subcategories": ["Milch", "Riegel", "Knusper"]
+  },
+  {
+    "store": "hofer",
+    "id": 548842,
+    "name": "CHOCEUR Milk Friends Milchschokolade 150g",
+    "category": "Schokolade",
+    "subcategories": ["Milch", "Friends"]
+  },
+  {
+    "store": "hofer",
+    "id": 544370,
+    "name": "CHOCEUR Milk Jumbo Classic 150g",
+    "category": "Schokolade",
+    "subcategories": ["Milch", "Jumbo", "Classic"]
+  },
+  {
+    "store": "hofer",
+    "id": 545753,
+    "name": "CHOCEUR Milk Jumbo Cocos-Creme 150g",
+    "category": "Schokolade",
+    "subcategories": ["Milch", "Jumbo", "Cocos-Creme"]
+  },
+  {
+    "store": "hofer",
+    "id": 544371,
+    "name": "CHOCEUR Milk Jumbo Nuss-Nugat-Creme 150g",
+    "category": "Schokolade",
+    "subcategories": ["Milch", "Jumbo", "Nuss-Nugat-Creme"]
+  },
+  {
+    "store": "hofer",
+    "id": 545807,
+    "name": "CHOCEUR Mini Dreemy 400g",
+    "category": "Schokolade",
+    "subcategories": ["Mini", "Dreemy"]
+  },
+  {
+    "store": "hofer",
+    "id": 545806,
+    "name": "CHOCEUR Mini Racer 400g",
+    "category": "Schokolade",
+    "subcategories": ["Mini", "Racer"]
+  },
+  {
+    "store": "hofer",
+    "id": 545808,
+    "name": "CHOCEUR Mini Ranger 400g",
+    "category": "Schokolade",
+    "subcategories": ["Mini", "Ranger"]
+  },
+  {
+    "store": "hofer",
+    "id": 549907,
+    "name": "CHOCEUR Mozartkugeln dunkel 297g",
+    "category": "Schokolade",
+    "subcategories": ["Mozartkugeln"]
+  },
+  {
+    "store": "hofer",
+    "id": 549908,
+    "name": "CHOCEUR Mozartkugeln weiß 297g",
+    "category": "Schokolade",
+    "subcategories": ["Mozartkugeln"]
+  },
+  {
+    "store": "hofer",
+    "id": 548562,
+    "name": "CHOCEUR Noisette 300g",
+    "category": "Schokolade",
+    "subcategories": ["Noisette"]
+  },
+  {
+    "store": "hofer",
+    "id": 545875,
+    "name": "CHOCEUR Nuss & Crisp Riegel 200g",
+    "category": "Schokolade",
+    "subcategories": ["Nuss", "Crisp", "Riegel"]
+  },
+  {
+    "store": "hofer",
+    "id": 543685,
+    "name": "CHOCEUR Nussknacker Vollmilch 100g",
+    "category": "Schokolade",
+    "subcategories": ["Nussknacker"]
+  },
+  {
+    "store": "hofer",
+    "id": 544376,
+    "name": "CHOCEUR Orange 55% Cocoa 100g",
+    "category": "Schokolade",
+    "subcategories": ["Orange", "Cocoa"]
+  },
+  {
+    "store": "hofer",
+    "id": 549839,
+    "name": "CHOCEUR Rum Kokos Kugeln 300g",
+    "category": "Schokolade",
+    "subcategories": ["Rum", "Kokos", "Kugeln"]
+  },
+  {
+    "store": "hofer",
+    "id": 544529,
+    "name": "CHOCEUR Schoko Milch Riegel 200g",
+    "category": "Schokolade",
+    "subcategories": ["Schoko", "Milch", "Riegel"]
+  },
+  {
+    "store": "hofer",
+    "id": 547110,
+    "name": "CHOCEUR Schoko Rosinen 400g",
+    "category": "Schokolade",
+    "subcategories": ["Schoko", "Rosinen"]
+  },
+  {
+    "store": "hofer",
+    "id": 547111,
+    "name": "CHOCEUR Schoko Rosinen in Zartbitterschokolade 400g",
+    "category": "Schokolade",
+    "subcategories": ["Schoko", "Rosinen", "Zartbitterschokolade"]
+  },
+  {
+    "store": "hofer",
+    "id": 546126,
+    "name": "CHOCEUR Schoko-Bananen 600g",
+    "category": "Schokolade",
+    "subcategories": ["Schoko-Bananen"]
+  },
+  {
+    "store": "hofer",
+    "id": 544685,
+    "name": "CHOCEUR Schokolade Choco&Cookie 300g",
+    "category": "Schokolade",
+    "subcategories": ["Schokolade", "Choco&Cookie"]
+  },
+  {
+    "store": "hofer",
+    "id": 544682,
+    "name": "CHOCEUR Schokolade Cookie&Cream 300g",
+    "category": "Schokolade",
+    "subcategories": ["Schokolade", "Cookie&Cream"]
+  },
+  {
+    "store": "hofer",
+    "id": 544683,
+    "name": "CHOCEUR Schokolade Crispy Yoghurt 290g",
+    "category": "Schokolade",
+    "subcategories": ["Schokolade", "Crispy", "Yoghurt"]
+  },
+  {
+    "store": "hofer",
+    "id": 544684,
+    "name": "CHOCEUR Schokolade Toffee&Haselnuss 300g",
+    "category": "Schokolade",
+    "subcategories": ["Schokolade", "Toffee&Haselnuss"]
+  },
+  ... (continued)

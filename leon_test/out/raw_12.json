@@ -1,0 +1,278 @@
+{
+  "category": "Kaffee",
+  "subcategories": ["Cold Brew Coffee"]
+},
+{
+  "category": "Softdrinks",
+  "subcategories": ["Bitter Lemon", "Tonic Water"]
+},
+{
+  "category": "Ingwer",
+  "subcategories": ["12Shot Ingwer Classic", "Double Shot Ingwer-Granatapfel"]
+},
+{
+  "category": "Quellwasser",
+  "subcategories": ["Paw Patrol Quellwasser"]
+},
+{
+  "category": "Cappuccino",
+  "subcategories": ["Lattesso Cappuccino"]
+},
+{
+  "category": "Macchiato",
+  "subcategories": ["Lattesso Macchiato"]
+},
+{
+  "category": "Wasser",
+  "subcategories": ["Lauretana Perlend"]
+},
+{
+  "category": "Soda",
+  "subcategories": ["Lemon Soda"]
+},
+{
+  "category": "Limette",
+  "subcategories": ["Lemonaid Limette"]
+},
+{
+  "category": "Maracuja",
+  "subcategories": ["Lemonaid Maracuja"]
+},
+{
+  "category": "Mineralwasser",
+  "subcategories": ["Mild", "Prickelnd", "Long Life Mineralwasser Mild", "Long Life Mineralwasser Prickelnd"]
+},
+{
+  "category": "Aloe Vera",
+  "subcategories": ["Lotte Aloe Vera Drink Granatapfel", "Lotte Aloe Vera Drink Traube"]
+},
+{
+  "category": "Saft",
+  "subcategories": [
+    "Apfel-Pfirsichsaft Bio", 
+    "Apfel-Weichselsaft Bio", 
+    "Birnensaft Naturtrüb Bio", 
+    "Karotten Apfel Quittensaft Bio",
+    "Lutz Apfel-Pfirsichsaft Bio", 
+    "Lutz Apfel-Weichselsaft Bio", 
+    "Lutz Birnensaft Naturtrüb Bio", 
+    "Lutz Karotten Apfel Quittensaft Bio"
+  ]
+},
+{
+  "category": "Erfrischungsgetränk",
+  "subcategories": ["Traube - Minze", "Zitrone - Melisse", "MIIND Erfrischungsgetränk Traube - Minze", "MIIND Erfrischungsgetränk Zitrone - Melisse"]
+},
+{
+  "category": "Magnesia",
+  "subcategories": ["Go"]
+},
+{
+  "category": "Eistee",
+  "subcategories": ["Makava Delighted Ice Tea"]
+},
+{
+  "category": "Bio Cola",
+  "subcategories": ["Mama - Bio Cola"]
+},
+{
+  "category": "Mango",
+  "subcategories": ["Mama - Mango Bio Limonade"]
+},
+{
+  "category": "Orange",
+  "subcategories": ["Mama - Orange Bio Lemonade"]
+},
+{
+  "category": "Passion",
+  "subcategories": ["Mama - Passion Bio Limonade"]
+},
+{
+  "category": "Cheesecake",
+  "subcategories": ["Maresi Milk&Love Cheesecake"]
+},
+{
+  "category": "Cocoa Brownie",
+  "subcategories": ["Maresi Milk&Love Cocoa Brownie"]
+},
+{
+  "category": "Himbeer Sirup",
+  "subcategories": ["Mautner Markhof 0% Himbeer Sirup"]
+},
+{
+  "category": "Himbeer-Zitrone Sirup",
+  "subcategories": ["Mautner Markhof 0% Himbeer-Zitrone Sirup"]
+},
+{
+  "category": "Holunderblüten Sirup",
+  "subcategories": ["Mautner Markhof 0% Holunderblüten Sirup", "Mautner Markhof Holunderblüten Sirup"]
+},
+{
+  "category": "Orange-Mango Sirup",
+  "subcategories": ["Mautner Markhof 0% Orange-Mango Sirup"]
+},
+{
+  "category": "Pfirsich-Maracuja Sirup",
+  "subcategories": ["Mautner Markhof 0% Pfirsich-Maracuja Sirup"]
+},
+{
+  "category": "Multivitamin Sirup",
+  "subcategories": ["Mautner Markhof Multivitamin Sirup"]
+},
+{
+  "category": "Orangen Sirup",
+  "subcategories": ["Mautner Markhof Orangen Sirup"]
+},
+{
+  "category": "Himbeer",
+  "subcategories": ["Mautner Markhof Sirup Himbeer - Zitrone"]
+},
+{
+  "category": "Mixgetränk",
+  "subcategories": ["Mezzo Mix"]
+},
+{
+  "category": "Multivitamin",
+  "subcategories": ["Minions Multivitamin"]
+},
+{
+  "category": "Cola",
+  "subcategories": ["Mio Mio Cola Original"]
+},
+{
+  "category": "Lemon + Koffein",
+  "subcategories": ["Mio Mio Lemon + Koffein"]
+},
+{
+  "category": "Mate",
+  "subcategories": ["Mio Mio Mate Original"]
+},
+{
+  "category": "Orangenlimo",
+  "subcategories": ["Mirinda Orangenlimo"]
+},
+{
+  "category": "Sodawasser",
+  "subcategories": ["Mix It Sodawasser"]
+},
+{
+  "category": "Holundersirup",
+  "subcategories": ["Mohr Sederl Bio Holundersirup"]
+},
+{
+  "category": "Apfel-Karottensaft",
+  "subcategories": ["Mohr-Sederl Apfel-Karottensaft"]
+},
+{
+  "category": "Apfel-Rote Rüben Saft",
+  "subcategories": ["Mohr-Sederl Apfel-Rote Rüben Saft"]
+},
+{
+  "category": "Apfel-Weichselsaft",
+  "subcategories": ["Mohr-Sederl Apfel-Weichselsaft"]
+},
+{
+  "category": "Apfelsaft",
+  "subcategories": ["Mohr-Sederl Apfelsaft", "Mohr-Sederl Apfelsaft gspritzt"]
+},
+{
+  "category": "Birnensaft",
+  "subcategories": ["Mohr-Sederl Birnensaft"]
+},
+{
+  "category": "Cocos Sirup",
+  "subcategories": ["Monin Cocos Sirup"]
+},
+{
+  "category": "Veilchen Sirup",
+  "subcategories": ["Monin Veilchen Sirup"]
+},
+{
+  "category": "Energy Drink",
+  "subcategories": [
+    "Monster Energy Green", 
+    "Monster Energy Mango Loco", 
+    "Monster Energy Punch", 
+    "Monster Energy Ultra Fiesta Mango", 
+    "Monster Energy Ultra Paradise", 
+    "Monster Energy Ultra White", 
+    "Monster Energydrink Green 4er"
+  ]
+},
+{
+  "category": "Green Tea Lemon",
+  "subcategories": ["Nativa Green Tea Lemon", "Nativa Green Tea Lemon 0% Zucker"]
+},
+{
+  "category": "Eiskaffee",
+  "subcategories": ["Nescafé Eiskaffee Cappuccino", "Nescafé Eiskaffee Latte"]
+},
+{
+  "category": "Erdbeere",
+  "subcategories": ["Nocco Miami Erdbeere"]
+},
+{
+  "category": "Organics",
+  "subcategories": [
+    "Black Orange by Redbull", 
+    "Easy Lemon by Red Bull", 
+    "Ginger Ale by Red Bull", 
+    "Ginger Beer by Red Bull", 
+    "Purple Berry by Red Bull", 
+    "Simply Cola by Red Bull 6-Pack", 
+    "Simply Cola by Redbull", 
+    "Tonic Water by Red Bull"
+  ]
+},
+{
+  "category": "Haferdrink",
+  "subcategories": ["Oatly Haferdrink Caffe Latte", "Oatly Haferdrink Mocha Latte"]
+},
+{
+  "category": "Orangina",
+  "subcategories": ["Orangina"]
+},
+{
+  "category": "ACE",
+  "subcategories": ["Pago ACE", "Pago ACE Classic"]
+},
+{
+  "category": "Drachenfrucht Pink Guave",
+  "subcategories": ["Pago Drachenfrucht Pink Guave"]
+},
+{
+  "category": "Erdbeere",
+  "subcategories": ["Pago Erdbeere", "Pago Erdbeere"]
+},
+{
+  "category": "Johannisbeere",
+  "subcategories": ["Pago Johannisbeere"]
+},
+{
+  "category": "Mango",
+  "subcategories": ["Pago Mango", "Pago Mango-Maracuja"]
+},
+{
+  "category": "Marille",
+  "subcategories": ["Pago Marille", "Pago Marille"]
+},
+{
+  "category": "Pfirsich",
+  "subcategories": ["Pago Pfirsich"]
+},
+{
+  "category": "Hypotonic",
+  "subcategories": ["Inspiring Lemon", "Wild Peach", "Peeroton Hypotonic Inspiring Lemon", "Peeroton Hypotonic Wild Peach"]
+},
+{
+  "category": "Cola",
+  "subcategories": ["Pepsi Cola"]
+},
+{
+  "category": "Max",
+  "subcategories": ["Pepsi Max"]
+},
+{
+  "category": "Mineralwasser",
+  "subcategories": ["Prickelnd", "Peterquelle Mineralwasser Prickelnd", "Peterquelle Mineralwasser mit Zitrone"]
+}

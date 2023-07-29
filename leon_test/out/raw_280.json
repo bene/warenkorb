@@ -1,0 +1,702 @@
+[
+  {
+    "store": "spar",
+    "id": "4670476",
+    "name": "Fanta Orange 6 x 0,5l",
+    "category": "Getränke",
+    "subcategories": ["Erfrischungsgetränke", "Softdrinks", "Limonade"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002620462",
+    "name": "Fanta Orange Orange 6 x 0,33l",
+    "category": "Getränke",
+    "subcategories": ["Erfrischungsgetränke", "Softdrinks", "Limonade"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001640980",
+    "name": "Fanta Orange Zero",
+    "category": "Getränke",
+    "subcategories": ["Erfrischungsgetränke", "Softdrinks", "Limonade"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001681150",
+    "name": "Fanta Orange Zero",
+    "category": "Getränke",
+    "subcategories": ["Erfrischungsgetränke", "Softdrinks", "Limonade"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004461025",
+    "name": "Fanta Strawberry & Kiwi",
+    "category": "Getränke",
+    "subcategories": ["Erfrischungsgetränke", "Softdrinks", "Limonade"]
+  },
+  {
+    "store": "spar",
+    "id": "2020000477433",
+    "name": "Frucade Orangenfruchtsaftlimonade",
+    "category": "Getränke",
+    "subcategories": ["Erfrischungsgetränke", "Softdrinks", "Limonade"]
+  },
+  {
+    "store": "spar",
+    "id": "3152218",
+    "name": "Frucade Orangenfruchtsaftlimonade",
+    "category": "Getränke",
+    "subcategories": ["Erfrischungsgetränke", "Softdrinks", "Limonade"]
+  },
+  {
+    "store": "spar",
+    "id": "2020000477501",
+    "name": "Frucade Orangenfruchtsaftlimonade Blutorange",
+    "category": "Getränke",
+    "subcategories": ["Erfrischungsgetränke", "Softdrinks", "Limonade", "Blutorange"]
+  },
+  {
+    "store": "spar",
+    "id": "2660387",
+    "name": "Frucade Orangenfruchtsaftlimonade light",
+    "category": "Getränke",
+    "subcategories": ["Erfrischungsgetränke", "Softdrinks", "Limonade", "Light"]
+  },
+  {
+    "store": "spar",
+    "id": "5372911",
+    "name": "Frucade Orangenlimonade",
+    "category": "Getränke",
+    "subcategories": ["Erfrischungsgetränke", "Softdrinks", "Limonade"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004574336",
+    "name": "Frucade Orangenlimonade Light",
+    "category": "Getränke",
+    "subcategories": ["Erfrischungsgetränke", "Softdrinks", "Limonade", "Light"]
+  },
+  {
+    "store": "spar",
+    "id": "1952919",
+    "name": "Frucade Zitronenfruchtsaftlimonade",
+    "category": "Getränke",
+    "subcategories": ["Erfrischungsgetränke", "Softdrinks", "Limonade", "Zitrone"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003944123",
+    "name": "Gamers Only Performance Drink Hyper Peach Ice Tea 40 Portionen",
+    "category": "Getränke",
+    "subcategories": ["Eistee", "Softdrinks"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003944079",
+    "name": "Gamers Only Performance Drink Red Funky Watermelon 40 Portionen",
+    "category": "Getränke",
+    "subcategories": ["Energy Drinks", "Softdrinks"]
+  },
+  {
+    "store": "spar",
+    "id": "3335703",
+    "name": "Gatorade Sport Drink Blue Rasberry",
+    "category": "Getränke",
+    "subcategories": ["Sportgetränke", "Isotonische Getränke"]
+  },
+  {
+    "store": "spar",
+    "id": "6428969",
+    "name": "Gatorade Sport Drink Low Calorie",
+    "category": "Getränke",
+    "subcategories": ["Sportgetränke", "Isotonische Getränke", "Kalorienarm"]
+  },
+  {
+    "store": "spar",
+    "id": "3335697",
+    "name": "Gatorade Sport Drink Mandarine",
+    "category": "Getränke",
+    "subcategories": ["Sportgetränke", "Isotonische Getränke"]
+  },
+  {
+    "store": "spar",
+    "id": "3584286",
+    "name": "Gatorade Sport Drink Red Orange",
+    "category": "Getränke",
+    "subcategories": ["Sportgetränke", "Isotonische Getränke"]
+  },
+  {
+    "store": "spar",
+    "id": "8212412",
+    "name": "Gracioso Hugo Alkoholfrei",
+    "category": "Getränke",
+    "subcategories": ["Alkoholfreie Getränke", "Hugo"]
+  },
+  {
+    "store": "spar",
+    "id": "7371172",
+    "name": "Granny's Apfelsaft gespritzt",
+    "category": "Getränke",
+    "subcategories": ["Apfelsaft", "Almdudler gespritzt", "Gespritzt"]
+  },
+  {
+    "store": "spar",
+    "id": "3131671",
+    "name": "Granny's Apfelsaft gespritzt",
+    "category": "Getränke",
+    "subcategories": ["Apfelsaft", "Almdudler gespritzt", "Gespritzt"]
+  },
+  {
+    "store": "spar",
+    "id": "2020000536796",
+    "name": "Granny's Sport Apfelsaft und stilles Wasser",
+    "category": "Getränke",
+    "subcategories": ["Apfelsaft", "Wasser"]
+  },
+  {
+    "store": "spar",
+    "id": "2690803",
+    "name": "Gröbi Limonade Grapefruit zuckerfrei",
+    "category": "Getränke",
+    "subcategories": ["Limonade", "Grapefruit", "Zuckerfrei"]
+  },
+  {
+    "store": "spar",
+    "id": "2886688",
+    "name": "Gröbi Limonade Orange-Maracuja zuckerfrei",
+    "category": "Getränke",
+    "subcategories": ["Limonade", "Orange", "Maracuja", "Zuckerfrei"]
+  },
+  {
+    "store": "spar",
+    "id": "3783375",
+    "name": "Hackls Marillen Nektar",
+    "category": "Getränke",
+    "subcategories": ["Fruchtsäfte", "Nektar", "Marille"]
+  },
+  {
+    "store": "spar",
+    "id": "2660776",
+    "name": "Hell Energy Drink",
+    "category": "Getränke",
+    "subcategories": ["Energy Drinks"]
+  },
+  {
+    "store": "spar",
+    "id": "7287039",
+    "name": "Hohes C # Apfel-Granatapfel-Himbeere",
+    "category": "Getränke",
+    "subcategories": ["Fruchtsäfte", "Hohes C", "Apfel", "Granatapfel", "Himbeere"]
+  },
+  {
+    "store": "spar",
+    "id": "6182717",
+    "name": "Hohes C # Orange",
+    "category": "Getränke",
+    "subcategories": ["Fruchtsäfte", "Hohes C", "Orange"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003899393",
+    "name": "Hohes C # Plus Eisen",
+    "category": "Getränke",
+    "subcategories": ["Fruchtsäfte", "Hohes C", "Vitamin C", "Eisen"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003969416",
+    "name": "Hohes C Antiox",
+    "category": "Getränke",
+    "subcategories": ["Fruchtsäfte", "Hohes C", "Antioxidantien"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003456787",
+    "name": "Hohes C Durstlöscher Lernfit",
+    "category": "Getränke",
+    "subcategories": ["Fruchtsäfte", "Hohes C", "Durstlöscher", "Lernfit"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003456756",
+    "name": "Hohes C Durstlöscher Milder Multivitamin",
+    "category": "Getränke",
+    "subcategories": ["Fruchtsäfte", "Hohes C", "Durstlöscher", "Multivitamin"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003456831",
+    "name": "Hohes C Durstlöscher Plus Magnesium",
+    "category": "Getränke",
+    "subcategories": ["Fruchtsäfte", "Hohes C", "Durstlöscher", "Magnesium"]
+  },
+  {
+    "store": "spar",
+    "id": "6183011",
+    "name": "Hohes C Frühstückssaft",
+    "category": "Getränke",
+    "subcategories": ["Fruchtsäfte", "Hohes C", "Frühstück"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003969270",
+    "name": "Hohes C Immun",
+    "category": "Getränke",
+    "subcategories": ["Fruchtsäfte", "Hohes C", "Immunstärkung"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002454753",
+    "name": "Hohes C Immun Traube-Guave-Cranberry",
+    "category": "Getränke",
+    "subcategories": ["Fruchtsäfte", "Hohes C", "Immunstärkung", "Traube", "Guave", "Cranberry"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002954468",
+    "name": "Hohes C Kids Roter Multi",
+    "category": "Getränke",
+    "subcategories": ["Fruchtsäfte", "Hohes C", "Kinder", "Multivitamin"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004665959",
+    "name": "Hohes C Mango Mango",
+    "category": "Getränke",
+    "subcategories": ["Fruchtsäfte", "Hohes C", "Mango"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003899324",
+    "name": "Hohes C Milde Orange",
+    "category": "Getränke",
+    "subcategories": ["Fruchtsäfte", "Hohes C", "Orange"]
+  },
+  {
+    "store": "spar",
+    "id": "6183110",
+    "name": "Hohes C Milde Orange",
+    "category": "Getränke",
+    "subcategories": ["Fruchtsäfte", "Hohes C", "Orange"]
+  },
+  {
+    "store": "spar",
+    "id": "6386535",
+    "name": "Hohes C Milder Multivitamin",
+    "category": "Getränke",
+    "subcategories": ["Fruchtsäfte", "Hohes C", "Multivitamin"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004665935",
+    "name": "Hohes C Multi",
+    "category": "Getränke",
+    "subcategories": ["Fruchtsäfte", "Hohes C", "Multivitamin"]
+  },
+  {
+    "store": "spar",
+    "id": "6182854",
+    "name": "Hohes C Multivitamin",
+    "category": "Getränke",
+    "subcategories": ["Fruchtsäfte", "Hohes C", "Multivitamin"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004665898",
+    "name": "Hohes C Orange",
+    "category": "Getränke",
+    "subcategories": ["Fruchtsäfte", "Hohes C", "Orange"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001507269",
+    "name": "Hohes C Orange Maracuja Kaki Plus Vitamin D",
+    "category": "Getränke",
+    "subcategories": ["Fruchtsäfte", "Hohes C", "Orange", "Maracuja", "Kaki", "Vitamin D"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004665911",
+    "name": "Hohes C Roter Multi",
+    "category": "Getränke",
+    "subcategories": ["Fruchtsäfte", "Hohes C", "Multivitamin"]
+  },
+  {
+    "store": "spar",
+    "id": "6182908",
+    "name": "Hohes C Roter Multivitamin",
+    "category": "Getränke",
+    "subcategories": ["Fruchtsäfte", "Hohes C", "Multivitamin"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004354310",
+    "name": "Hohes C Supershots Energie",
+    "category": "Getränke",
+    "subcategories": ["Fruchtsäfte", "Hohes C", "Supershots", "Energie"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001990580",
+    "name": "Hoobert Bio-Natur-Kola",
+    "category": "Getränke",
+    "subcategories": ["Bionade", "Kola"]
+  },
+  {
+    "store": "spar",
+    "id": "3069585",
+    "name": "Höllinger Bio Fruchtnektar Mango",
+    "category": "Getränke",
+    "subcategories": ["Fruchtsäfte", "Bio", "Nektar", "Mango"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003752681",
+    "name": "Höllinger Bio Fruchtnektar Marille",
+    "category": "Getränke",
+    "subcategories": ["Fruchtsäfte", "Bio", "Nektar", "Marille"]
+  },
+  {
+    "store": "spar",
+    "id": "7308253",
+    "name": "Höllinger Bio Fruchtsaft Rote Traube",
+    "category": "Getränke",
+    "subcategories": ["Fruchtsaft", "Bio", "Rote Traube"]
+  },
+  {
+    "store": "spar",
+    "id": "8142191",
+    "name": "Höllinger Bio Fruchtsaft Schwarze Johannisbeere",
+    "category": "Getränke",
+    "subcategories": ["Fruchtsaft", "Bio", "Schwarze Johannisbeere"]
+  },
+  {
+    "store": "spar",
+    "id": "8142214",
+    "name": "Höllinger Bio Fruchtsaft Wilder Apfel naturtrüb",
+    "category": "Getränke",
+    "subcategories": ["Fruchtsaft", "Bio", "Wilder Apfel", "Naturtrüb"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004158628",
+    "name": "Höllinger Oxymel+ Bio Shot",
+    "category": "Getränke",
+    "subcategories": ["Bio", "Shot"]
+  },
+  {
+    "store": "spar",
+    "id": "4364474",
+    "name": "Höllinger Steirischer Apfel naturtrüb",
+    "category": "Getränke",
+    "subcategories": ["Apfelsaft", "Naturtrüb", "Steirisch"]
+  },
+  {
+    "store": "spar",
+    "id": "5717637",
+    "name": "Höllinger Vitamin Apfel naturtrüb 3 x 0,2l",
+    "category": "Getränke",
+    "subcategories": ["Apfelsaft", "Naturtrüb", "Vitamin C"]
+  },
+  {
+    "store": "spar",
+    "id": "2020000735045",
+    "name": "Innocent Apfel Beere Saft",
+    "category": "Getränke",
+    "subcategories": ["Fruchtsäfte", "Innocent", "Apfel", "Beere"]
+  },
+  {
+    "store": "spar",
+    "id": "8204851",
+    "name": "Innocent Apfel Mango Saft",
+    "category": "Getränke",
+    "subcategories": ["Fruchtsäfte", "Innocent", "Apfel", "Mango"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002934217",
+    "name": "Innocent Citrus Shield Plus Saft",
+    "category": "Getränke",
+    "subcategories": ["Fruchtsäfte", "Innocent", "Zitrusfrüchte"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001215683",
+    "name": "Innocent Coconut Water",
+    "category": "Getränke",
+    "subcategories": ["Fruchtsäfte", "Innocent", "Kokoswasser"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001750818",
+    "name": "Innocent Coconut Water",
+    "category": "Getränke",
+    "subcategories": ["Fruchtsäfte", "Innocent", "Kokoswasser"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003909290",
+    "name": "Innocent Direktsaft Blaubeere",
+    "category": "Getränke",
+    "subcategories": ["Fruchtsäfte", "Innocent", "Blaubeere"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002041427",
+    "name": "Innocent Direktsaft Clementine & Mandarine",
+    "category": "Getränke",
+    "subcategories": ["Fruchtsäfte", "Innocent", "Clementine", "Mandarine"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001750740",
+    "name": "Innocent Direktsaft Dark Berry",
+    "category": "Getränke",
+    "subcategories": ["Fruchtsäfte", "Innocent", "Beeren"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003343995",
+    "name": "Innocent Direktsaft Multi Mix Orange",
+    "category": "Getränke",
+    "subcategories": ["Fruchtsäfte", "Innocent", "Multivitamin", "Orange"]
+  },
+  {
+    "store": "spar",
+    "id": "2165370",
+    "name": "Innocent Direktsaft Multi Mix gelb",
+    "category": "Getränke",
+    "subcategories": ["Fruchtsäfte", "Innocent", "Multivitamin", "Gelb"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003909252",
+    "name": "Innocent Direktsaft Multi Mix gelb",
+    "category": "Getränke",
+    "subcategories": ["Fruchtsäfte", "Innocent", "Multivitamin", "Gelb"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001489640",
+    "name": "Innocent Direktsaft Multi Mix orange",
+    "category": "Getränke",
+    "subcategories": ["Fruchtsäfte", "Innocent", "Multivitamin", "Orange"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002399979",
+    "name": "Innocent Direktsaft Multi Mix rot",
+    "category": "Getränke",
+    "subcategories": ["Fruchtsäfte", "Innocent", "Multivitamin", "Rot"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002041441",
+    "name": "Innocent Direktsaft Orange & Mango",
+    "category": "Getränke",
+    "subcategories": ["Fruchtsäfte", "Innocent", "Orange", "Mango"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002899264",
+    "name": "Innocent Direktsaft Orange mit Fruchtfleisch",
+    "category": "Getränke",
+    "subcategories": ["Fruchtsäfte", "Innocent", "Orange", "Fruchtfleisch"]
+  },
+  {
+    "store": "spar",
+    "id": "8204844",
+    "name": "Innocent Direktsaft Orange mit Fruchtfleisch",
+    "category": "Getränke",
+    "subcategories": ["Fruchtsäfte", "Innocent", "Orange", "Fruchtfleisch"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002657734",
+    "name": "Innocent Direktsaft Orange ohne Fruchtfleisch",
+    "category": "Getränke",
+    "subcategories": ["Fruchtsäfte", "Innocent", "Orange", "Ohne Fruchtfleisch"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003194696",
+    "name": "Innocent Direktsaft Orange ohne Fruchtfleisch",
+    "category": "Getränke",
+    "subcategories": ["Fruchtsäfte", "Innocent", "Orange", "Ohne Fruchtfleisch"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001042395",
+    "name": "Innocent Orangen Karotten Saft",
+    "category": "Getränke",
+    "subcategories": ["Fruchtsäfte", "Innocent", "Orange", "Karotte"]
+  },
+  {
+    "store": "spar",
+    "id": "1951172",
+    "name": "Innocent Orangensaft mit Fruchtfleisch",
+    "category": "Getränke",
+    "subcategories": ["Fruchtsäfte", "Innocent", "Orange", "Fruchtfleisch"]
+  },
+  {
+    "store": "spar",
+    "id": "2020000735106",
+    "name": "Innocent Orangensaft ohne Fruchtfleisch",
+    "category": "Getränke",
+    "subcategories": ["Fruchtsäfte", "Innocent", "Orange", "Ohne Fruchtfleisch"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003344572",
+    "name": "Innocent Plus Saft Blue Break",
+    "category": "Getränke",
+    "subcategories": ["Fruchtsäfte", "Innocent", "Vitamine", "Blau"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004099808",
+    "name": "Innocent Plus Saft Inner Winner",
+    "category": "Getränke",
+    "subcategories": ["Fruchtsäfte", "Innocent", "Vitamine", "Gesund"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003744525",
+    "name": "Innocent Plus Saft Yeah, Yeah Yellow",
+    "category": "Getränke",
+    "subcategories": ["Fruchtsäfte", "Innocent", "Vitamine", "Gelb"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003580918",
+    "name": "Innocent Power Shot Ingwer",
+    "category": "Getränke",
+    "subcategories": ["Fruchtsäfte", "Innocent", "Shot", "Ingwer"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002934316",
+    "name": "Innocent Saft Blue Break Plus Saft",
+    "category": "Getränke",
+    "subcategories": ["Fruchtsäfte", "Innocent", "Saft", "Blau"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002934309",
+    "name": "Innocent Saft Wonder Green Plus Saft",
+    "category": "Getränke",
+    "subcategories": ["Fruchtsäfte", "Innocent", "Saft", "Grün"]
+  },
+  {
+    "store": "spar",
+    "id": "1329025",
+    "name": "Innocent Smoothie Ananas, Banane & Kokosnuss",
+    "category": "Getränke",
+    "subcategories": ["Smoothies", "Innocent", "Ananas", "Banane", "Kokosnuss"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003744501",
+    "name": "Innocent Smoothie Ananas, Erdbeere & Apfel",
+    "category": "Getränke",
+    "subcategories": ["Smoothies", "Innocent", "Ananas", "Erdbeere", "Apfel"]
+  },
+  {
+    "store": "spar",
+    "id": "6726249",
+    "name": "Innocent Smoothie Johannisbeere, Erdbeere & Apfel",
+    "category": "Getränke",
+    "subcategories": ["Smoothies", "Innocent", "Johannisbeere", "Erdbeere", "Apfel"]
+  },
+  {
+    "store": "spar",
+    "id": "1329100",
+    "name": "Innocent Smoothie Kiwi, Apfel & Limette",
+    "category": "Getränke",
+    "subcategories": ["Smoothies", "Innocent", "Kiwi", "Apfel", "Limette"]
+  },
+  {
+    "store": "spar",
+    "id": "6654238",
+    "name": "Innocent Smoothie Mango, Maracuja & Apfel",
+    "category": "Getränke",
+    "subcategories": ["Smoothies", "Innocent", "Mango", "Maracuja", "Apfel"]
+  },
+  {
+    "store": "spar",
+    "id": "6654252",
+    "name": "Innocent Smoothie Orange, Karotte & Mango",
+    "category": "Getränke",
+    "subcategories": ["Smoothies", "Innocent", "Orange", "Karotte", "Mango"]
+  },
+  {
+    "store": "spar",
+    "id": "8210500",
+    "name": "Innocent Smoothie Plus Antioxidant",
+    "category": "Getränke",
+    "subcategories": ["Smoothies", "Innocent", "Vitamine", "Antioxidantien"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001381470",
+    "name": "Innocent Smoothie Plus Antioxidant",
+    "category": "Getränke",
+    "subcategories": ["Smoothies", "Innocent", "Vitamine", "Antioxidantien"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004354556",
+    "name": "Innocent Smoothie Plus Beerkules",
+    "category": "Getränke",
+    "subcategories": ["Smoothies", "Innocent", "Beeren", "Superfood", "Vitamine"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003344701",
+    "name": "Innocent Smoothie Plus Blaulenzer",
+    "category": "Getränke",
+    "subcategories": ["Smoothies", "Innocent", "Beeren", "Blaubeeren", "Vitamine"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003344589",
+    "name": "Innocent Smoothie Plus Blaulenzer",
+    "category": "Getränke",
+    "subcategories": ["Smoothies", "Innocent", "Beeren", "Blaubeeren", "Vitamine"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004546975",
+    "name": "Innocent Smoothie Plus Defence",
+    "category": "Getränke",
+    "subcategories": ["Smoothies", "Innocent", "Vitamine", "Abwehr"]
+  },
+  {
+    "store": "spar",
+    "id": "8210517",
+    "name": "Innocent Smoothie Plus Energise",
+    "category": "Getränke",
+    "subcategories": ["Smoothies", "Innocent", "Vitamine", "Energie"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003344732",
+    "name": "Innocent Smoothie Plus Multitalent",
+    "category": "Getränke",
+    "subcategories": ["Smoothies", "Innocent", "Vitamine", "Multivitamin"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001381456",
+    "name": "Innocent Smoothie Plus Smoothie Plus Energise",
+    "category": "Getränke",
+    "subcategories": ["Smoothies", "Innocent", "Vitamine", "Energie"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003344756",
+    "name": "Innocent Smoothie Plus Vitaminbündel",
+    "category": "Getränke",
+    "subcategories": ["Smoothies", "Innocent", "Vitamine", "Superfood"]
+  }
+]

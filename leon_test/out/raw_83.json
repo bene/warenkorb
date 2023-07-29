@@ -1,0 +1,80 @@
+[
+  {
+    "store": "billa",
+    "id": "00-765701",
+    "name": "Leopold Holzmann Bandnudeln gewellt",
+    "category": "Nudeln",
+    "subcategories": ["Pasta"]
+  },
+  {
+    "store": "billa",
+    "id": "00-575459",
+    "name": "Lizza Low Carb Pasta Spirelli",
+    "category": "Nudeln",
+    "subcategories": ["Pasta", "Kohlenhydratarm"]
+  },
+  {
+    "store": "billa",
+    "id": "00-960513",
+    "name": "Oriental Gold Thai Jasmin-Reis",
+    "category": "Reis",
+    "subcategories": ["Thai", "Jasmin"]
+  },
+  {
+    "store": "billa",
+    "id": "00-856319",
+    "name": "Oryza Himalaya Basmati Reis",
+    "category": "Reis",
+    "subcategories": ["Basmati"]
+  },
+  {
+    "store": "billa",
+    "id": "00-856328",
+    "name": "Oryza Jasmin Reis",
+    "category": "Reis",
+    "subcategories": ["Jasmin"]
+  },
+  {
+    "store": "billa",
+    "id": "00-636572",
+    "name": "Oryza Milchreis",
+    "category": "Reis",
+    "subcategories": ["Milch"]
+  },
+  {
+    "store": "billa",
+    "id": "00-856324",
+    "name": "Oryza Risotto und Paella Reis",
+    "category": "Reis",
+    "subcategories": ["Risotto", "Paella"]
+  },
+  {
+    "store": "billa",
+    "id": "00-312545",
+    "name": "Oryza Spitzen-Langkorn Reis",
+    "category": "Reis",
+    "subcategories": ["Langkorn"]
+  },
+  {
+    "store": "billa",
+    "id": "00-420434",
+    "name": "Paprika-Hatschek Tarhonya Original",
+    "category": "Sonstige",
+    "subcategories": ["Tarhonya"]
+  },
+  {
+    "store": "billa",
+    "id": "00-405953",
+    "name": "Parmalat Chef Panna",
+    "category": "Milchprodukte",
+    "subcategories": ["Sahne"]
+  },
+  {
+    "store": "billa",
+    "id": "00-525176",
+    "name": "Pedon Grüne Erbsen Fusilli",
+    "category": "Nudeln",
+    "subcategories": ["Pasta", "Erbsen"]
+  },
+  ...
+]

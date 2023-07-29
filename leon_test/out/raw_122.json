@@ -1,0 +1,79 @@
+The updated JSON list with the added fields would look like this:
+
+```json
+[
+  {
+    "store": "hofer",
+    "id": 549161,
+    "name": "BIO NATURA Cashew Nüsse 250g",
+    "category": "Nüsse",
+    "subcategories": ["Cashew Nüsse", "Cashew"]
+  },
+  {
+    "store": "hofer",
+    "id": 549340,
+    "name": "BIO NATURA Cashew Nüsse Minis 125g",
+    "category": "Nüsse",
+    "subcategories": ["Cashew Nüsse", "Cashew"]
+  },
+  {
+    "store": "hofer",
+    "id": 549266,
+    "name": "BIO NATURA Eistee mit Pfirsichgeschmack 1l",
+    "category": "Getränke",
+    "subcategories": ["Eistee", "Pfirsichgeschmack"]
+  },
+  {
+    "store": "hofer",
+    "id": 549265,
+    "name": "BIO NATURA Eistee mit Zitronengeschmack 1l",
+    "category": "Getränke",
+    "subcategories": ["Eistee", "Zitronengeschmack"]
+  },
+  {
+    "store": "hofer",
+    "id": 549305,
+    "name": "BIO NATURA Café Ganze Bohne 1000g",
+    "category": "Kaffee",
+    "subcategories": ["Café", "Bohnen"]
+  },
+  {
+    "store": "hofer",
+    "id": 548784,
+    "name": "BIO NATURA Café Latino ganze Bohne 500g",
+    "category": "Kaffee",
+    "subcategories": ["Café", "Bohnen"]
+  },
+  {
+    "store": "hofer",
+    "id": 548785,
+    "name": "BIO NATURA Café Latino gemahlen 500g",
+    "category": "Kaffee",
+    "subcategories": ["Café", "gemahlen"]
+  },
+  {
+    "store": "hofer",
+    "id": 549413,
+    "name": "BIO NATURA Früchtetee Hibiskus-Apfel-Hagebutte 20x2g",
+    "category": "Tee",
+    "subcategories": ["Früchtetee", "Hibiskus", "Apfel", "Hagebutte"]
+  },
+  {
+    "store": "hofer",
+    "id": 545238,
+    "name": "BIO NATURA Frisches Bio Lachsfilet 250g",
+    "category": "Fisch",
+    "subcategories": ["Lachsfilet"]
+  },
+  {
+    "store": "hofer",
+    "id": 549236,
+    "name": "BIO NATURA Garnelen Crevettes 80g",
+    "category": "Fisch",
+    "subcategories": ["Garnelen", "Crevettes"]
+  },
+  ...
+]
+```
+
+Note: I have added categories and subcategories based on my understanding of the products. The actual categories and subcategories may vary according to the context and domain knowledge.

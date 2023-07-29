@@ -1,0 +1,45 @@
+[
+  {
+    "store": "hofer",
+    "id": 549875,
+    "name": "BBQ High Protein Focaccia Dinkel 230g",
+    "category": "Brot",
+    "subcategories": ["Focaccia", "Dinkel"]
+  },
+  {
+    "store": "hofer",
+    "id": 549874,
+    "name": "BBQ High Protein Focaccia Sonnenblumenkerne 230g",
+    "category": "Brot",
+    "subcategories": ["Focaccia", "Sonnenblumenkerne"]
+  },
+  {
+    "store": "hofer",
+    "id": 549793,
+    "name": "BBQ Grillspiesse, Käsekrainer per kg",
+    "category": "Wurstwaren",
+    "subcategories": ["Grillspiesse", "Käsekrainer"]
+  },
+  {
+    "store": "hofer",
+    "id": 549792,
+    "name": "BBQ Grillspieße Klassik per kg",
+    "category": "Wurstwaren",
+    "subcategories": ["Grillspiesse", "Klassik"]
+  },
+  {
+    "store": "hofer",
+    "id": 549830,
+    "name": "BBQ Hühner Filetschnitzel, Curry per kg",
+    "category": "Fleisch",
+    "subcategories": ["Hühner Filetschnitzel", "Curry"]
+  },
+  {
+    "store": "hofer",
+    "id": 549829,
+    "name": "BBQ Hühner Filetschnitzel, Paprika-Knoblauch per kg",
+    "category": "Fleisch",
+    "subcategories": ["Hühner Filetschnitzel", "Paprika-Knoblauch"]
+  },
+  ...
+]

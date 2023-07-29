@@ -1,0 +1,704 @@
+Here is the modified JSON list with added fields:
+
+[
+  {
+    "store": "spar",
+    "id": "2020003902550",
+    "name": "OATLY Aufstrich Kräuter der Provence",
+    "category": "Aufstrich",
+    "subcategories": ["Kräuter der Provence"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003612138",
+    "name": "OATLY Aufstrich Natur",
+    "category": "Aufstrich",
+    "subcategories": ["Natur"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003612114",
+    "name": "OATLY Aufstrich Tomate & Basilikum",
+    "category": "Aufstrich",
+    "subcategories": ["Tomate & Basilikum"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004298836",
+    "name": "OATLY Barista Hafer",
+    "category": "Haferdrink",
+    "subcategories": ["Barista"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004164537",
+    "name": "OATLY Hafer Cuisine zum Aufschlagen",
+    "category": "Hafer Cuisine",
+    "subcategories": ["Aufschlagen"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003993909",
+    "name": "OATLY Hafer Cuisine zum Kochen",
+    "category": "Hafer Cuisine",
+    "subcategories": ["Kochen"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004164599",
+    "name": "OATLY Hafer Dessertsauce mit Vanillegeschmack",
+    "category": "Hafer Dessertsauce",
+    "subcategories": ["Vanillegeschmack"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004587671",
+    "name": "OATLY Haferdrink No Sugars",
+    "category": "Haferdrink",
+    "subcategories": ["No Sugars"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003801938",
+    "name": "OATLY Haferdrink deluxe",
+    "category": "Haferdrink",
+    "subcategories": ["deluxe"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004501523",
+    "name": "SPAR Pasta Verdura Vegan 375g",
+    "category": "Pasta",
+    "subcategories": ["Verdura Vegan"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004330659",
+    "name": "SPAR Veggie Bio Drink Kokos",
+    "category": "Bio Drink",
+    "subcategories": ["Kokos"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002644604",
+    "name": "SPAR Veggie Bio-Aufstrich Erbse",
+    "category": "Bio-Aufstrich",
+    "subcategories": ["Erbse"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002644567",
+    "name": "SPAR Veggie Bio-Aufstrich Gemüse-Kren",
+    "category": "Bio-Aufstrich",
+    "subcategories": ["Gemüse-Kren"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002644628",
+    "name": "SPAR Veggie Bio-Aufstrich Grünkern",
+    "category": "Bio-Aufstrich",
+    "subcategories": ["Grünkern"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002644550",
+    "name": "SPAR Veggie Bio-Aufstrich Linse-Curry",
+    "category": "Bio-Aufstrich",
+    "subcategories": ["Linse-Curry"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002644529",
+    "name": "SPAR Veggie Bio-Aufstrich Mediterran",
+    "category": "Bio-Aufstrich",
+    "subcategories": ["Mediterran"]
+  },
+  {
+    "store": "spar",
+    "id": "1113846",
+    "name": "SPAR Veggie Bio-Hummus Natur",
+    "category": "Bio-Hummus",
+    "subcategories": ["Natur"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004497086",
+    "name": "SPAR Veggie Bio-Miso-Paste vegan 190g",
+    "category": "Bio-Miso-Paste",
+    "subcategories": ["vegan"]
+  },
+  {
+    "store": "spar",
+    "id": "1112245",
+    "name": "SPAR Veggie Bio-Tofu Chili",
+    "category": "Bio-Tofu",
+    "subcategories": ["Chili"]
+  },
+  {
+    "store": "spar",
+    "id": "1090208",
+    "name": "SPAR Veggie Bio-Tofu Geräuchert",
+    "category": "Bio-Tofu",
+    "subcategories": ["Geräuchert"]
+  },
+  {
+    "store": "spar",
+    "id": "2423210",
+    "name": "SPAR Veggie Bio-Tofu Mandel-Nuss",
+    "category": "Bio-Tofu",
+    "subcategories": ["Mandel-Nuss"]
+  },
+  {
+    "store": "spar",
+    "id": "2159836",
+    "name": "SPAR Veggie Bio-Tofu Mediterran",
+    "category": "Bio-Tofu",
+    "subcategories": ["Mediterran"]
+  },
+  {
+    "store": "spar",
+    "id": "1090161",
+    "name": "SPAR Veggie Bio-Tofu Natur",
+    "category": "Bio-Tofu",
+    "subcategories": ["Natur"]
+  },
+  {
+    "store": "spar",
+    "id": "1112320",
+    "name": "SPAR Veggie Bio-Tofu Olive",
+    "category": "Bio-Tofu",
+    "subcategories": ["Olive"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003690549",
+    "name": "SPAR Veggie Der Bio-Cremige Griechische Kräuter",
+    "category": "Der Bio-Cremige",
+    "subcategories": ["Griechische Kräuter"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003690532",
+    "name": "SPAR Veggie Der Bio-Cremige Italienische Kräuter",
+    "category": "Der Bio-Cremige",
+    "subcategories": ["Italienische Kräuter"]
+  },
+  {
+    "store": "spar",
+    "id": "4733126",
+    "name": "SPAR Veggie Orientalisches Trio Baba Ganoush/Hummus &Rote Rübe 3x70g",
+    "category": "Orientalisches Trio",
+    "subcategories": ["Baba Ganoush", "Hummus", "Rote Rübe"]
+  },
+  {
+    "store": "spar",
+    "id": "1125399",
+    "name": "SPAR Veggie Vegane Bio-Bratstreifen",
+    "category": "Vegane Bio-Bratstreifen",
+    "subcategories": []
+  },
+  {
+    "store": "spar",
+    "id": "2020004539731",
+    "name": "SPAR Veggie Vegane Bio-Frischcreme Kräuter der Provence 150g",
+    "category": "Vegane Bio-Frischcreme",
+    "subcategories": ["Kräuter der Provence"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004539960",
+    "name": "SPAR Veggie Vegane Bio-Frischcreme Tomate-Chili 150g",
+    "category": "Vegane Bio-Frischcreme",
+    "subcategories": ["Tomate-Chili"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004539922",
+    "name": "SPAR Veggie Vegane Bio-Frischcreme natur 150g",
+    "category": "Vegane Bio-Frischcreme",
+    "subcategories": ["natur"]
+  },
+  {
+    "store": "spar",
+    "id": "1934007",
+    "name": "SPAR Veggie Vegane Bio-Laibchen Chili 2 Stück",
+    "category": "Vegane Bio-Laibchen",
+    "subcategories": ["Chili"]
+  },
+  {
+    "store": "spar",
+    "id": "1114027",
+    "name": "SPAR Veggie Vegane Bratwurst 2 Stück",
+    "category": "Vegane Bratwurst",
+    "subcategories": []
+  },
+  {
+    "store": "spar",
+    "id": "2020004379184",
+    "name": "SPAR Veggie Vegane Extra Gurkerl",
+    "category": "Vegane Extra",
+    "subcategories": ["Gurkerl"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004379160",
+    "name": "SPAR Veggie Vegane Extra Klassik",
+    "category": "Vegane Extra",
+    "subcategories": ["Klassik"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004379207",
+    "name": "SPAR Veggie Vegane Extra Pikant",
+    "category": "Vegane Extra",
+    "subcategories": ["Pikant"]
+  },
+  {
+    "store": "spar",
+    "id": "2945828",
+    "name": "SPAR Veggie Vegane Guacamole",
+    "category": "Vegane Guacamole",
+    "subcategories": []
+  },
+  {
+    "store": "spar",
+    "id": "2020004633330",
+    "name": "SPAR Veggie Vegane Italian Style Creme 250g",
+    "category": "Vegane Italian Style Creme",
+    "subcategories": []
+  },
+  {
+    "store": "spar",
+    "id": "2020004713629",
+    "name": "SPAR Veggie Vegane Wurzerl",
+    "category": "Vegane Wurzerl",
+    "subcategories": []
+  },
+  {
+    "store": "spar",
+    "id": "2020004380579",
+    "name": "SPAR Veggie Veganer Bio-Aufstrich Dattel-Walnuss",
+    "category": "Veganer Bio-Aufstrich",
+    "subcategories": ["Dattel-Walnuss"]
+  },
+  {
+    "store": "spar",
+    "id": "1119725",
+    "name": "SPAR Veggie Veganer Bio-Aufstrich Rote Bohne-Chili",
+    "category": "Veganer Bio-Aufstrich",
+    "subcategories": ["Rote Bohne-Chili"]
+  },
+  {
+    "store": "spar",
+    "id": "1119299",
+    "name": "SPAR Veggie Veganer Bio-Aufstrich Tomate-Basilikum",
+    "category": "Veganer Bio-Aufstrich",
+    "subcategories": ["Tomate-Basilikum"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004501561",
+    "name": "SPAR Veggie Veganer Bio-Cremiger Bärlauch 100g",
+    "category": "Veganer Bio-Cremiger",
+    "subcategories": ["Bärlauch"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003690525",
+    "name": "SPAR Veggie Veganer Bio-Edler",
+    "category": "Veganer Bio-Edler",
+    "subcategories": []
+  },
+  {
+    "store": "spar",
+    "id": "2020004741974",
+    "name": "SPAR Veggie Veganer Brotaufstrich Art Streichwurst",
+    "category": "Veganer Brotaufstrich",
+    "subcategories": ["Art Streichwurst"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004379412",
+    "name": "SPAR Veggie Veganer Greek Style Classic",
+    "category": "Veganer Greek Style",
+    "subcategories": ["Classic"]
+  },
+  {
+    "store": "spar",
+    "id": "3784037",
+    "name": "SPAR Veggie Veganer Hummus Natur XXL",
+    "category": "Veganer Hummus",
+    "subcategories": ["Natur"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002644543",
+    "name": "SPAR Veggie Veganer-Bio-Aufstrich Linse-Paprika",
+    "category": "Veganer-Bio-Aufstrich",
+    "subcategories": ["Linse-Paprika"]
+  },
+  {
+    "store": "spar",
+    "id": "1125412",
+    "name": "SPAR Veggie Veganes Bio-Gyros",
+    "category": "Veganes Bio-Gyros",
+    "subcategories": []
+  },
+  {
+    "store": "spar",
+    "id": "2020004168252",
+    "name": "SPAR Veggie Veganes Knoblauchbrot 250g",
+    "category": "Veganes Knoblauchbrot",
+    "subcategories": []
+  },
+  {
+    "store": "spar",
+    "id": "2020004362056",
+    "name": "SPAR Veggie Vegetarische Bratstreifen Chunks",
+    "category": "Vegetarische Bratstreifen",
+    "subcategories": ["Chunks"]
+  },
+  {
+    "store": "spar",
+    "id": "2020002872922",
+    "name": "SPAR Veggie Vegetarische Frankfurter 175g",
+    "category": "Vegetarische Frankfurter",
+    "subcategories": []
+  },
+  {
+    "store": "spar",
+    "id": "2020002872977",
+    "name": "SPAR Veggie Vegetarische Rostbratwürstel 175g",
+    "category": "Vegetarische Rostbratwürstel",
+    "subcategories": []
+  },
+  {
+    "store": "spar",
+    "id": "2020000706304",
+    "name": "SPAR Veggie by NENI Baba Ganusch Melanzani-Sesam-Aufstrich",
+    "category": "by NENI Baba Ganusch",
+    "subcategories": ["Melanzani-Sesam-Aufstrich"]
+  },
+  {
+    "store": "spar",
+    "id": "2020000707684",
+    "name": "SPAR Veggie by NENI Falafel",
+    "category": "by NENI Falafel",
+    "subcategories": []
+  },
+  {
+    "store": "spar",
+    "id": "2020000706359",
+    "name": "SPAR Veggie by NENI Hummus Curry-Mango",
+    "category": "by NENI Hummus",
+    "subcategories": ["Curry-Mango"]
+  },
+  {
+    "store": "spar",
+    "id": "2020000707745",
+    "name": "SPAR Veggie by NENI Hummus Natur",
+    "category": "by NENI Hummus",
+    "subcategories": ["Natur"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004361998",
+    "name": "SPAR Veggie vegane Bratstreifen Kebab",
+    "category": "vegane Bratstreifen",
+    "subcategories": ["Kebab"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004646095",
+    "name": "SPAR Veggie vegane Bratwürstel Chili 240g",
+    "category": "vegane Bratwürstel",
+    "subcategories": ["Chili"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004646033",
+    "name": "SPAR Veggie vegane Bratwürstel classic 240g",
+    "category": "vegane Bratwürstel",
+    "subcategories": ["classic"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004379221",
+    "name": "SPAR Veggie vegane Toastblockscheiben",
+    "category": "vegane Toastblockscheiben",
+    "subcategories": []
+  },
+  {
+    "store": "spar",
+    "id": "2020004211200",
+    "name": "SPAR Veggie veganer Bio-Tempeh Black Beans",
+    "category": "veganer Bio-Tempeh",
+    "subcategories": ["Black Beans"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004211217",
+    "name": "SPAR Veggie veganer Bio-Tempeh Burger Laibchen 2 Stück",
+    "category": "veganer Bio-Tempeh",
+    "subcategories": ["Burger Laibchen"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004712998",
+    "name": "SPAR Veggie veganer Bio-Tempeh Knoblauch-Koriander",
+    "category": "veganer Bio-Tempeh",
+    "subcategories": ["Knoblauch-Koriander"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004211170",
+    "name": "SPAR Veggie veganer Bio-Tempeh Teriyaki-Art",
+    "category": "veganer Bio-Tempeh",
+    "subcategories": ["Teriyaki-Art"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004712981",
+    "name": "SPAR Veggie veganer Bio-Tempeh Wildkräuter",
+    "category": "veganer Bio-Tempeh",
+    "subcategories": ["Wildkräuter"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004464798",
+    "name": "SPAR Veggie veganer Feta Kräuter",
+    "category": "veganer Feta",
+    "subcategories": ["Kräuter"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004362032",
+    "name": "SPAR Veggie veganes Faschiertes",
+    "category": "veganes Faschiertes",
+    "subcategories": []
+  },
+  {
+    "store": "spar",
+    "id": "2020004676078",
+    "name": "SPAR Veggie veganes Faschiertes per Packung",
+    "category": "veganes Faschiertes",
+    "subcategories": []
+  },
+  {
+    "store": "spar",
+    "id": "2020003909870",
+    "name": "SPAR Veggie veganes Sackerl \"Kochen\"",
+    "category": "veganes Sackerl",
+    "subcategories": ["\"Kochen\""]
+  },
+  {
+    "store": "spar",
+    "id": "2020004114297",
+    "name": "SPAR Veggie vegetarische Bratwurst 2 Stück",
+    "category": "vegetarische Bratwurst",
+    "subcategories": []
+  },
+  {
+    "store": "spar",
+    "id": "2020004114310",
+    "name": "SPAR Veggie vegetarische Käsekrainer 8 Stück",
+    "category": "vegetarische Käsekrainer",
+    "subcategories": []
+  },
+  {
+    "store": "spar",
+    "id": "2020003909955",
+    "name": "SPAR Veggie vegetarisches Sackerl \"Jause\"",
+    "category": "vegetarisches Sackerl",
+    "subcategories": ["\"Jause\""]
+  },
+  {
+    "store": "spar",
+    "id": "2020004534590",
+    "name": "Nussyy Bio Eis am Stiel Erdbeere 3 Stück 150g Packung",
+    "category": "Bio Eis am Stiel",
+    "subcategories": ["Erdbeere"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004534620",
+    "name": "Nussyy Bio Eis am Stiel Himbeere 3 Stück 150g Packung",
+    "category": "Bio Eis am Stiel",
+    "subcategories": ["Himbeere"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004534651",
+    "name": "Nussyy Bio Eis am Stiel Schokolade 3 Stück 150g Packung",
+    "category": "Bio Eis am Stiel",
+    "subcategories": ["Schokolade"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004089908",
+    "name": "OATLY Hafer Eis Chocolate Fudge 500ml Becher",
+    "category": "Hafer Eis",
+    "subcategories": ["Chocolate Fudge"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004089960",
+    "name": "OATLY Hafer Eis Hazelnut Swirl",
+    "category": "Hafer Eis",
+    "subcategories": ["Hazelnut Swirl"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004089915",
+    "name": "OATLY Hafer Eis Salted Caramel",
+    "category": "Hafer Eis",
+    "subcategories": ["Salted Caramel"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003725685",
+    "name": "Oppo Double Chocolate Brownie",
+    "category": "Oppo",
+    "subcategories": ["Double Chocolate Brownie"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003281679",
+    "name": "Oreo Sticks Mini 6 Stück 300ml Packung",
+    "category": "Oreo Sticks",
+    "subcategories": ["Mini"]
+  },
+  {
+    "store": "spar",
+    "id": "2020001019724",
+    "name": "SPAR Natur*pur Bio-Schoko-Eis",
+    "category": "Bio-Schoko-Eis",
+    "subcategories": []
+  },
+  {
+    "store": "spar",
+    "id": "1258370",
+    "name": "SPAR Natur*pur Bio-Vanille-Eis",
+    "category": "Bio-Vanille-Eis",
+    "subcategories": []
+  },
+  {
+    "store": "spar",
+    "id": "2020002966652",
+    "name": "SPAR Natur*pur Bio-Vanille-Eis 450ml Packung",
+    "category": "Bio-Vanille-Eis",
+    "subcategories": []
+  },
+  {
+    "store": "spar",
+    "id": "2020004083081",
+    "name": "SPAR Natur*pur Bio-Zitronen-Sorbet 450ml Packung",
+    "category": "Bio-Zitronen-Sorbet",
+    "subcategories": []
+  },
+  {
+    "store": "spar",
+    "id": "2020003286858",
+    "name": "SPAR PREMIUM Caramel-Core",
+    "category": "Caramel-Core",
+    "subcategories": []
+  },
+  {
+    "store": "spar",
+    "id": "7552120",
+    "name": "SPAR PREMIUM Chocolate-Caramel-Truffle",
+    "category": "Chocolate-Caramel-Truffle",
+    "subcategories": []
+  },
+  {
+    "store": "spar",
+    "id": "2352657",
+    "name": "SPAR PREMIUM Chocolate-Fudge-Brownie",
+    "category": "Chocolate-Fudge-Brownie",
+    "subcategories": []
+  },
+  {
+    "store": "spar",
+    "id": "7552328",
+    "name": "SPAR PREMIUM Vanilla-Caramel-Pecan Nuts",
+    "category": "Vanilla-Caramel-Pecan Nuts",
+    "subcategories": []
+  },
+  {
+    "store": "spar",
+    "id": "2020004745828",
+    "name": "SPAR Streetfood Style Choco Brownie",
+    "category": "Streetfood Style",
+    "subcategories": ["Choco Brownie"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004745835",
+    "name": "SPAR Streetfood Style Cookie Dough",
+    "category": "Streetfood Style",
+    "subcategories": ["Cookie Dough"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004745781",
+    "name": "SPAR Streetfood Style Crunchy Almond",
+    "category": "Streetfood Style",
+    "subcategories": ["Crunchy Almond"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004745804",
+    "name": "SPAR Streetfood Style Half baked Vanilla Ice Creams with Brown.",
+    "category": "Streetfood Style",
+    "subcategories": ["Half baked Vanilla Ice Creams with Brown"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003404818",
+    "name": "SPAR Sweet Waves Erdbeere 5 Stück 285ml Packung",
+    "category": "Sweet Waves",
+    "subcategories": ["Erdbeere"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004083357",
+    "name": "SPAR Sweet Waves Vanille 5 Stück 285ml Packung",
+    "category": "Sweet Waves",
+    "subcategories": ["Vanille"]
+  },
+  {
+    "store": "spar",
+    "id": "2020003736865",
+    "name": "SPAR Unicorn Ice Cream 4 Stück 280ml",
+    "category": "Unicorn Ice Cream",
+    "subcategories": []
+  },
+  {
+    "store": "spar",
+    "id": "2020004005687",
+    "name": "SPAR Veggie Hafereis Nougat",
+    "category": "Hafereis",
+    "subcategories": ["Nougat"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004005601",
+    "name": "SPAR Veggie Hafereis Salted-Coffe Mokka",
+    "category": "Hafereis",
+    "subcategories": ["Salted-Coffe Mokka"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004005533",
+    "name": "SPAR Veggie Hafereis Vanille",
+    "category": "Hafereis",
+    "subcategories": ["Vanille"]
+  },
+  {
+    "store": "spar",
+    "id": "2020004524485",
+    "name": "SPAR Veggie Vegane Mini-Conte Vanille 12 Stück 336ml Packung",
+    "category": "Vegane Mini-Conte",
+    "subcategories": ["Vanille"]
+  }
+]

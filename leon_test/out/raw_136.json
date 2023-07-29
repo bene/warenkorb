@@ -1,0 +1,702 @@
+[
+    {
+        "store": "hofer",
+        "id": 548595,
+        "name": "MAGNUM Almond 6 stück",
+        "category": "Eis",
+        "subcategories": ["Eis", "Eissorte"]
+    },
+    {
+        "store": "hofer",
+        "id": 544872,
+        "name": "MAGNUM Classic 120ml",
+        "category": "Eis",
+        "subcategories": ["Eis", "Eissorte"]
+    },
+    {
+        "store": "hofer",
+        "id": 548594,
+        "name": "MAGNUM Classic 6 stück",
+        "category": "Eis",
+        "subcategories": ["Eis", "Eissorte"]
+    },
+    {
+        "store": "hofer",
+        "id": 549810,
+        "name": "MAGNUM Double Gold Caramel Billionaire Becher 440ml",
+        "category": "Eis",
+        "subcategories": ["Eis", "Eissorte"]
+    },
+    {
+        "store": "hofer",
+        "id": 549822,
+        "name": "MAGNUM Double Gold Caramel Billionare 85ml",
+        "category": "Eis",
+        "subcategories": ["Eis", "Eissorte"]
+    },
+    {
+        "store": "hofer",
+        "id": 544871,
+        "name": "MAGNUM Mandel Eis 120 ml",
+        "category": "Eis",
+        "subcategories": ["Eis", "Eissorte"]
+    },
+    {
+        "store": "hofer",
+        "id": 549681,
+        "name": "MAGNUM Mini Mix 10x55ml",
+        "category": "Eis",
+        "subcategories": ["Eis", "Eissorte"]
+    },
+    {
+        "store": "hofer",
+        "id": 549984,
+        "name": "MAGNUM Yoghurt Raspberry 660ml",
+        "category": "Eis",
+        "subcategories": ["Eis", "Eissorte"]
+    },
+    {
+        "store": "hofer",
+        "id": 549746,
+        "name": "MUCCI Dino Waffelhörchen 4x110ml",
+        "category": "Eis",
+        "subcategories": ["Eis", "Eissorte"]
+    },
+    {
+        "store": "hofer",
+        "id": 549691,
+        "name": "MUCCI Doppelfrucht, Ananas-Kiwi 6x60ml",
+        "category": "Eis",
+        "subcategories": ["Eis", "Eissorte"]
+    },
+    {
+        "store": "hofer",
+        "id": 549689,
+        "name": "MUCCI Doppelfrucht, Mango-Himbeer 6x60ml",
+        "category": "Eis",
+        "subcategories": ["Eis", "Eissorte"]
+    },
+    {
+        "store": "hofer",
+        "id": 549690,
+        "name": "MUCCI Doppelfrucht, Orange-Cassis 6x60ml",
+        "category": "Eis",
+        "subcategories": ["Eis", "Eissorte"]
+    },
+    {
+        "store": "hofer",
+        "id": 549750,
+        "name": "MUCCI Erdnuss Eisriegel 6x53ml",
+        "category": "Eis",
+        "subcategories": ["Eis", "Eissorte"]
+    },
+    {
+        "store": "hofer",
+        "id": 549749,
+        "name": "MUCCI Karamell Eisriegel 6x51ml",
+        "category": "Eis",
+        "subcategories": ["Eis", "Eissorte"]
+    },
+    {
+        "store": "hofer",
+        "id": 549748,
+        "name": "MUCCI Kokos Eisriegel 6x50ml",
+        "category": "Eis",
+        "subcategories": ["Eis", "Eissorte"]
+    },
+    {
+        "store": "hofer",
+        "id": 549948,
+        "name": "MUCCI Sensation Duo Stieleis Karamell 292g",
+        "category": "Eis",
+        "subcategories": ["Eis", "Eissorte"]
+    },
+    {
+        "store": "hofer",
+        "id": 549949,
+        "name": "MUCCI Sensation Duo Stieleis Kirsche 288g",
+        "category": "Eis",
+        "subcategories": ["Eis", "Eissorte"]
+    },
+    {
+        "store": "hofer",
+        "id": 549947,
+        "name": "MUCCI Sensation Duo Stieleis Kokos 288g",
+        "category": "Eis",
+        "subcategories": ["Eis", "Eissorte"]
+    },
+    {
+        "store": "hofer",
+        "id": 549902,
+        "name": "MUCCI Soft Ice Cones 4x Schokolade 135ml",
+        "category": "Eis",
+        "subcategories": ["Eis", "Eissorte"]
+    },
+    {
+        "store": "hofer",
+        "id": 549901,
+        "name": "MUCCI Soft Ice Cones 4x Vanille 135ml",
+        "category": "Eis",
+        "subcategories": ["Eis", "Eissorte"]
+    },
+    {
+        "store": "hofer",
+        "id": 549903,
+        "name": "MUCCI Soft Ice Cones 4x Vanille-Erdbeer 135ml",
+        "category": "Eis",
+        "subcategories": ["Eis", "Eissorte"]
+    },
+    {
+        "store": "hofer",
+        "id": 549904,
+        "name": "MUCCI Soft Ice Cones 4x Vanille-Haselnuss 135ml",
+        "category": "Eis",
+        "subcategories": ["Eis", "Eissorte"]
+    },
+    {
+        "store": "hofer",
+        "id": 549824,
+        "name": "MUCCI Swip Cola 110ml",
+        "category": "Eis",
+        "subcategories": ["Eis", "Eissorte"]
+    },
+    {
+        "store": "hofer",
+        "id": 549747,
+        "name": "MUCCI Waffelhörnchen Einhorn 280g",
+        "category": "Eis",
+        "subcategories": ["Eis", "Eissorte"]
+    },
+    {
+        "store": "hofer",
+        "id": 549509,
+        "name": "GOURMET FINEST CUISINE Thunfischsteak 250g",
+        "category": "Fisch",
+        "subcategories": ["Fisch", "Thunfisch"]
+    },
+    {
+        "store": "hofer",
+        "id": 549128,
+        "name": "GOURMET Lachsfilet Bourbon Whiskey Marinade 550g",
+        "category": "Fisch",
+        "subcategories": ["Fisch", "Lachs"]
+    },
+    {
+        "store": "hofer",
+        "id": 549129,
+        "name": "GOURMET Lachsfilet Zitrone - Dill 550g",
+        "category": "Fisch",
+        "subcategories": ["Fisch", "Lachs"]
+    },
+    {
+        "store": "hofer",
+        "id": 543640,
+        "name": "NATUR AKTIV Bio Lachsfilets 250g",
+        "category": "Fisch",
+        "subcategories": ["Fisch", "Lachs"]
+    },
+    {
+        "store": "hofer",
+        "id": 550012,
+        "name": "MAMIA BIO Bio Baby-Keks Dinkel-Banane 125g",
+        "category": "Bio",
+        "subcategories": ["Bio", "Baby", "Keks"]
+    },
+    {
+        "store": "hofer",
+        "id": 550010,
+        "name": "MAMIA BIO Bio Früchteriegel Apfel-Banane 25g",
+        "category": "Bio",
+        "subcategories": ["Bio", "Früchteriegel", "Apfel", "Banane"]
+    },
+    {
+        "store": "hofer",
+        "id": 550011,
+        "name": "MAMIA BIO Bio Früchteriegel, Apfel Banane mit Aronia 25g",
+        "category": "Bio",
+        "subcategories": ["Bio", "Früchteriegel", "Apfel", "Banane", "Aronia"]
+    },
+    {
+        "store": "hofer",
+        "id": 550017,
+        "name": "MAMIA BIO Bio Mini Reiswaffel Apfel 30g",
+        "category": "Bio",
+        "subcategories": ["Bio", "Mini", "Reiswaffel", "Apfel"]
+    },
+    {
+        "store": "hofer",
+        "id": 550018,
+        "name": "MAMIA BIO Bio Mini Reiswaffel Himbeere 30g",
+        "category": "Bio",
+        "subcategories": ["Bio", "Mini", "Reiswaffel", "Himbeere"]
+    },
+    {
+        "store": "hofer",
+        "id": 547333,
+        "name": "NATUR AKTIV Bio Bourbon-Vanille Zucker 10g",
+        "category": "Bio",
+        "subcategories": ["Bio", "Bourbon-Vanille", "Zucker"]
+    },
+    {
+        "store": "hofer",
+        "id": 547330,
+        "name": "NATUR AKTIV Bio Germ 14g",
+        "category": "Bio",
+        "subcategories": ["Bio", "Germ"]
+    },
+    {
+        "store": "hofer",
+        "id": 545155,
+        "name": "GOURMET Balsamessig aus Modena 250ml",
+        "category": "Essig",
+        "subcategories": ["Essig", "Balsamessig"]
+    },
+    {
+        "store": "hofer",
+        "id": 546608,
+        "name": "NATUR AKTIV Bio Balsamico Creme Feigen-Geschmack 250ml",
+        "category": "Essig",
+        "subcategories": ["Essig", "Balsamico", "Feige"]
+    },
+    {
+        "store": "hofer",
+        "id": 545094,
+        "name": "NATUR AKTIV Bio Kokosöl kaltgepresst 200ml",
+        "category": "Öl",
+        "subcategories": ["Öl", "Kokosöl"]
+    },
+    {
+        "store": "hofer",
+        "id": 544740,
+        "name": "NATUR AKTIV Bio Pesto Calabrese 190g",
+        "category": "Pesto",
+        "subcategories": ["Pesto", "Calabrese"]
+    },
+    {
+        "store": "hofer",
+        "id": 544739,
+        "name": "NATUR AKTIV Bio Pesto Genovese 190g",
+        "category": "Pesto",
+        "subcategories": ["Pesto", "Genovese"]
+    },
+    {
+        "store": "hofer",
+        "id": 546272,
+        "name": "NATUR AKTIV Bio Basilikum getrocknet 25g",
+        "category": "Gewürze",
+        "subcategories": ["Gewürze", "Basilikum"]
+    },
+    {
+        "store": "hofer",
+        "id": 546792,
+        "name": "NATUR AKTIV Bio Bratkartoffel Gewürz 45g",
+        "category": "Gewürze",
+        "subcategories": ["Gewürze", "Bratkartoffel"]
+    },
+    {
+        "store": "hofer",
+        "id": 546793,
+        "name": "NATUR AKTIV Bio Fisch Gewürz 35g",
+        "category": "Gewürze",
+        "subcategories": ["Gewürze", "Fisch"]
+    },
+    {
+        "store": "hofer",
+        "id": 545825,
+        "name": "GOURMET Erdbeere 15% Fruchtanteil 250g",
+        "category": "Marmelade",
+        "subcategories": ["Marmelade", "Erdbeere"]
+    },
+    {
+        "store": "hofer",
+        "id": 544471,
+        "name": "GOURMET Fruchtaufstrich Marille 250g",
+        "category": "Marmelade",
+        "subcategories": ["Marmelade", "Marille"]
+    },
+    {
+        "store": "hofer",
+        "id": 545826,
+        "name": "GOURMET Heidelbeere 250g",
+        "category": "Marmelade",
+        "subcategories": ["Marmelade", "Heidelbeere"]
+    },
+    {
+        "store": "hofer",
+        "id": 545939,
+        "name": "GRANDESSA Nuss Nougat Creme 400g",
+        "category": "Schokolade",
+        "subcategories": ["Schokolade", "Nuss Nougat", "Creme"]
+    },
+    {
+        "store": "hofer",
+        "id": 545731,
+        "name": "GRANDESSA Marille Fruchtreich 400g",
+        "category": "Marmelade",
+        "subcategories": ["Marmelade", "Marille"]
+    },
+    {
+        "store": "hofer",
+        "id": 544617,
+        "name": "GRANDESSA Marille Konfitüre 750g",
+        "category": "Marmelade",
+        "subcategories": ["Marmelade", "Marille"]
+    },
+    {
+        "store": "hofer",
+        "id": 549120,
+        "name": "GRANDESSA Rote Ribisel Konfitüre 440g",
+        "category": "Marmelade",
+        "subcategories": ["Marmelade", "Rote Ribisel"]
+    },
+    {
+        "store": "hofer",
+        "id": 545768,
+        "name": "GRANDESSA Wald honig würzig-harziges Aroma 500g",
+        "category": "Honig",
+        "subcategories": ["Honig", "Waldhonig"]
+    },
+    {
+        "store": "hofer",
+        "id": 545100,
+        "name": "GRANDESSA Wildpreiselbeere Auslese 400g",
+        "category": "Marmelade",
+        "subcategories": ["Marmelade", "Wildpreiselbeere"]
+    },
+    {
+        "store": "hofer",
+        "id": 548445,
+        "name": "NATUR AKTIV Bio Cashew Mus 250g",
+        "category": "Nussmus",
+        "subcategories": ["Nussmus", "Cashew"]
+    },
+    {
+        "store": "hofer",
+        "id": 548156,
+        "name": "NATUR AKTIV Bio Erdnuss Butter creamy 250g",
+        "category": "Nussbutter",
+        "subcategories": ["Nussbutter", "Erdnuss"]
+    },
+    {
+        "store": "hofer",
+        "id": 548157,
+        "name": "NATUR AKTIV Bio Erdnuss Butter crunchy 250g",
+        "category": "Nussbutter",
+        "subcategories": ["Nussbutter", "Erdnuss"]
+    },
+    {
+        "store": "hofer",
+        "id": 544567,
+        "name": "NATUR AKTIV Bio Konfitüre Erdbeere 320g",
+        "category": "Marmelade",
+        "subcategories": ["Marmelade", "Erdbeere"]
+    },
+    {
+        "store": "hofer",
+        "id": 546650,
+        "name": "NATUR AKTIV Bio Konfitüre Himbeere 320g",
+        "category": "Marmelade",
+        "subcategories": ["Marmelade", "Himbeere"]
+    },
+    {
+        "store": "hofer",
+        "id": 544568,
+        "name": "NATUR AKTIV Bio Konfitüre Marille 320g",
+        "category": "Marmelade",
+        "subcategories": ["Marmelade", "Marille"]
+    },
+    {
+        "store": "hofer",
+        "id": 548008,
+        "name": "GOURMET Halbe Pfirsiche gezuckert mit Mandeln und Amaretto Aroma 550g",
+        "category": "Konserven",
+        "subcategories": ["Konserven", "Pfirsiche"]
+    },
+    {
+        "store": "hofer",
+        "id": 548007,
+        "name": "GOURMET Halbe Pfirsiche gezuckert mit Vanille 550g",
+        "category": "Konserven",
+        "subcategories": ["Konserven", "Pfirsiche"]
+    },
+    {
+        "store": "hofer",
+        "id": 548006,
+        "name": "GOURMET Halbe Pfirsiche gezuckert mit Zimt 550g",
+        "category": "Konserven",
+        "subcategories": ["Konserven", "Pfirsiche"]
+    },
+    {
+        "store": "hofer",
+        "id": 547781,
+        "name": "GOURMET Rotkraut mit Maroni- und Apfelstücken 400g",
+        "category": "Konserven",
+        "subcategories": ["Konserven", "Rotkraut"]
+    },
+    {
+        "store": "hofer",
+        "id": 547780,
+        "name": "GOURMET Sauerkraut mit Speck 400g",
+        "category": "Konserven",
+        "subcategories": ["Konserven", "Sauerkraut"]
+    },
+    {
+        "store": "hofer",
+        "id": 548472,
+        "name": "NATUR AKTIV Bio Kidney Bohnen 400g",
+        "category": "Konserven",
+        "subcategories": ["Konserven", "Bohnen"]
+    },
+    {
+        "store": "hofer",
+        "id": 544939,
+        "name": "NATUR AKTIV Bio Passierte Tomaten 690g",
+        "category": "Konserven",
+        "subcategories": ["Konserven", "Tomaten"]
+    },
+    {
+        "store": "hofer",
+        "id": 548949,
+        "name": "GOURMET Knuspermüsli Nüsse, Mandeln & Honig 500g",
+        "category": "Müsli",
+        "subcategories": ["Müsli", "Knuspermüsli", "Nüsse", "Mandeln", "Honig"]
+    },
+    {
+        "store": "hofer",
+        "id": 548947,
+        "name": "GOURMET Knuspermüsli Triple Choc 500g",
+        "category": "Müsli",
+        "subcategories": ["Müsli", "Knuspermüsli", "Schokolade"]
+    },
+    {
+        "store": "hofer",
+        "id": 548948,
+        "name": "GOURMET Müsli Früchte & Nuss 500g",
+        "category": "Müsli",
+        "subcategories": ["Müsli", "Früchte", "Nuss"]
+    },
+    {
+        "store": "hofer",
+        "id": 548098,
+        "name": "NATUR AKTIV BIO Crunchy Müsli Nüsse 500g",
+        "category": "Müsli",
+        "subcategories": ["Müsli", "Crunchy", "Nüsse"]
+    },
+    {
+        "store": "hofer",
+        "id": 548100,
+        "name": "NATUR AKTIV Bio Müsli Dinkel-Schoko 500g",
+        "category": "Müsli",
+        "subcategories": ["Müsli", "Dinkel", "Schokolade"]
+    },
+    {
+        "store": "hofer",
+        "id": 548099,
+        "name": "NATUR AKTIV Bio Müsli Früchte und Dinkel 500g",
+        "category": "Müsli",
+        "subcategories": ["Müsli", "Früchte", "Dinkel"]
+    },
+    {
+        "store": "hofer",
+        "id": 544035,
+        "name": "GOURMET Gewalzte Bandnudeln gerädelt 500g",
+        "category": "Nudeln",
+        "subcategories": ["Nudeln", "Bandnudeln"]
+    },
+    {
+        "store": "hofer",
+        "id": 545484,
+        "name": "GOURMET Gewalzte Bandnudeln glatt 500g",
+        "category": "Nudeln",
+        "subcategories": ["Nudeln", "Bandnudeln"]
+    },
+    {
+        "store": "hofer",
+        "id": 544036,
+        "name": "GOURMET Gewalzte Dinkelnudeln 500g",
+        "category": "Nudeln",
+        "subcategories": ["Nudeln", "Dinkelnudeln"]
+    },
+    {
+        "store": "hofer",
+        "id": 546959,
+        "name": "NATUR AKTIV Bio Bulgur 750g",
+        "category": "Getreide",
+        "subcategories": ["Getreide", "Bulgur"]
+    },
+    {
+        "store": "hofer",
+        "id": 546961,
+        "name": "NATUR AKTIV Bio Couscous 750g",
+        "category": "Getreide",
+        "subcategories": ["Getreide", "Couscous"]
+    },
+    {
+        "store": "hofer",
+        "id": 548937,
+        "name": "NATUR AKTIV Bio Langkorn Reis natur 1kg",
+        "category": "Reis",
+        "subcategories": ["Reis", "Langkorn"]
+    },
+    {
+        "store": "hofer",
+        "id": 548935,
+        "name": "NATUR AKTIV Bio Langkorn Reis parboiled 1kg",
+        "category": "Reis",
+        "subcategories": ["Reis", "Langkorn"]
+    },
+    {
+        "store": "hofer",
+        "id": 548936,
+        "name": "NATUR AKTIV Bio Langkorn Reis weiß 1kg",
+        "category": "Reis",
+        "subcategories": ["Reis", "Langkorn"]
+    },
+    {
+        "store": "hofer",
+        "id": 545718,
+        "name": "MULTINORM Calcium 90g",
+        "category": "Nahrungsergänzung",
+        "subcategories": ["Nahrungsergänzung", "Calcium"]
+    },
+    {
+        "store": "hofer",
+        "id": 545717,
+        "name": "MULTINORM Magnesium 80g",
+        "category": "Nahrungsergänzung",
+        "subcategories": ["Nahrungsergänzung", "Magnesium"]
+    },
+    {
+        "store": "hofer",
+        "id": 545719,
+        "name": "MULTINORM Multivitamin 90g",
+        "category": "Nahrungsergänzung",
+        "subcategories": ["Nahrungsergänzung", "Multivitamin"]
+    },
+    {
+        "store": "hofer",
+        "id": 549940,
+        "name": "MULTINORM Omega-3 Fischöl Kapseln 60 Stück",
+        "category": "Nahrungsergänzung",
+        "subcategories": ["Nahrungsergänzung", "Omega-3", "Fischöl"]
+    },
+    {
+        "store": "hofer",
+        "id": 548014,
+        "name": "MULTINORM Vitamin B12 Brombeere-Heidelbeere 87,3g",
+        "category": "Nahrungsergänzung",
+        "subcategories": ["Nahrungsergänzung", "Vitamin B12", "Brombeere", "Heidelbeere"]
+    },
+    {
+        "store": "hofer",
+        "id": 548012,
+        "name": "MULTINORM Vitamin B12 Himbeere 87,5g",
+        "category": "Nahrungsergänzung",
+        "subcategories": ["Nahrungsergänzung", "Vitamin B12", "Himbeere"]
+    },
+    {
+        "store": "hofer",
+        "id": 548013,
+        "name": "MULTINORM Vitamin B12 Mango-Maracuja 87,3g",
+        "category": "Nahrungsergänzung",
+        "subcategories": ["Nahrungsergänzung", "Vitamin B12", "Mango", "Maracuja"]
+    },
+    {
+        "store": "hofer",
+        "id": 544335,
+        "name": "MULTINORM Vitamin C 84g",
+        "category": "Nahrungsergänzung",
+        "subcategories": ["Nahrungsergänzung", "Vitamin C"]
+    },
+    {
+        "store": "hofer",
+        "id": 549308,
+        "name": "MULTINORM Vitamin D3+K2 Tropfen 30ml",
+        "category": "Nahrungsergänzung",
+        "subcategories": ["Nahrungsergänzung", "Vitamin D3", "Vitamin K2"]
+    },
+    {
+        "store": "hofer",
+        "id": 548790,
+        "name": "MANNER Cubidoo 140g",
+        "category": "Süßwaren",
+        "subcategories": ["Süßwaren", "Cubidoo"]
+    },
+    {
+        "store": "hofer",
+        "id": 548980,
+        "name": "MANNER Knusprige Vollkornwaffeln 300g",
+        "category": "Süßwaren",
+        "subcategories": ["Süßwaren", "Vollkornwaffeln"]
+    },
+    {
+        "store": "hofer",
+        "id": 548976,
+        "name": "MANNER Neapolitaner 300g",
+        "category": "Süßwaren",
+        "subcategories": ["Süßwaren", "Neapolitaner"]
+    },
+    {
+        "store": "hofer",
+        "id": 549108,
+        "name": "MANNER Rum Trüffel Herzen 300g",
+        "category": "Süßwaren",
+        "subcategories": ["Süßwaren", "Rum Trüffel"]
+    },
+    {
+        "store": "hofer",
+        "id": 549474,
+        "name": "MANNER Vollkorn 3x75g",
+        "category": "Süßwaren",
+        "subcategories": ["Süßwaren", "Vollkorn"]
+    },
+    {
+        "store": "hofer",
+        "id": 544572,
+        "name": "GOURMET Kartoffelchips Parmesan 125g",
+        "category": "Chips",
+        "subcategories": ["Chips", "Kartoffelchips", "Parmesan"]
+    },
+    {
+        "store": "hofer",
+        "id": 545898,
+        "name": "GOURMET Kartoffelchips Thai Curry Style 125g",
+        "category": "Chips",
+        "subcategories": ["Chips", "Kartoffelchips", "Thai Curry"]
+    },
+    {
+        "store": "hofer",
+        "id": 545899,
+        "name": "GOURMET Meersalz und Pfeffer Chips 125g",
+        "category": "Chips",
+        "subcategories": ["Chips", "Meersalz", "Pfeffer"]
+    },
+    {
+        "store": "hofer",
+        "id": 545986,
+        "name": "GOURMET Cantuccini Cappuccino 300g",
+        "category": "Süßwaren",
+        "subcategories": ["Süßwaren", "Cantuccini", "Cappuccino"]
+    },
+    {
+        "store": "hofer",
+        "id": 544698,
+        "name": "GOURMET Cantuccini mit Mandeln, Schokolade und Kakao 300g",
+        "category": "Süßwaren",
+        "subcategories": ["Süßwaren", "Cantuccini", "Mandeln", "Schokolade", "Kakao"]
+    },
+    {
+        "store": "hofer",
+        "id": 547027,
+        "name": "GOURMET Pralinenmischung mit Alkohol 200g",
+        "category": "Süßwaren",
+        "subcategories": ["Süßwaren", "Pralinen", "Alkohol"]
+    },
+    {
+        "store": "hofer",
+        "id": 547028,
+        "name": "GOURMET Pralinenmischung ohne Alkohol 200g",
+        "category": "Süßwaren",
+        "subcategories": ["Süßwaren", "Pralinen"]
+    }
+]

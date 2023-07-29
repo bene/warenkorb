@@ -1,0 +1,708 @@
+The updated JSON list with additional fields describing the category and subcategories for each product is as follows:
+
+```
+[
+  {
+    "store": "hofer",
+    "id": 547877,
+    "name": "PINK LADY Apfel 1kg",
+    "category": "Obst",
+    "subcategories": ["Apfel"]
+  },
+  {
+    "store": "hofer",
+    "id": 547271,
+    "name": "Pfirsiche 1 kg",
+    "category": "Obst",
+    "subcategories": ["Pfirsich"]
+  },
+  {
+    "store": "hofer",
+    "id": 548175,
+    "name": "Premium Erdbeeren 400g",
+    "category": "Obst",
+    "subcategories": ["Erdbeere"]
+  },
+  {
+    "store": "hofer",
+    "id": 545156,
+    "name": "Riesenwassermelone per kg",
+    "category": "Obst",
+    "subcategories": ["Wassermelone"]
+  },
+  {
+    "store": "hofer",
+    "id": 546287,
+    "name": "Saturn-Pfirsiche",
+    "category": "Obst",
+    "subcategories": ["Pfirsich"]
+  },
+  {
+    "store": "hofer",
+    "id": 550058,
+    "name": "TESSA Äpfel 1kg",
+    "category": "Obst",
+    "subcategories": ["Apfel"]
+  },
+  {
+    "store": "hofer",
+    "id": 548378,
+    "name": "Traubenmix kernlos 500g",
+    "category": "Obst",
+    "subcategories": ["Traube"]
+  },
+  {
+    "store": "hofer",
+    "id": 543712,
+    "name": "ZURÜCK ZUM URSPRUNG Bio Äpfel",
+    "category": "Obst",
+    "subcategories": ["Apfel"]
+  },
+  {
+    "store": "billa",
+    "id": "00-580756",
+    "name":"'Pfanni' Erdäpfel speckig aus Österreich",
+    "category": "Gemüse",
+    "subcategories": ["Kartoffel"]
+  },
+  {
+    "store": "billa",
+    "id": "00-705404",
+    "name":"BILLA Bio Fisolen aus Spanien",
+    "category": "Gemüse",
+    "subcategories": ["Bohne"]
+  },
+  {
+    "store": "billa",
+    "id": "00-443875",
+    "name":"BILLA Bio Gurke aus Spanien",
+    "category": "Gemüse",
+    "subcategories": ["Gurke"]
+  },
+  {
+    "store": "billa",
+    "id": "00-444674",
+    "name":"BILLA Bio Ingwer",
+    "category": "Gemüse",
+    "subcategories": ["Ingwer"]
+  },
+  {
+    "store": "billa",
+    "id": "00-443876",
+    "name":"BILLA Bio Mini Paprika aus Spanien",
+    "category": "Gemüse",
+    "subcategories": ["Paprika"]
+  },
+  {
+    "store": "billa",
+    "id": "00-443874",
+    "name":"BILLA Bio Paprika aus Spanien",
+    "category": "Gemüse",
+    "subcategories": ["Paprika"]
+  },
+  {
+    "store": "billa",
+    "id": "00-490089",
+    "name":"BILLA Bio Süsskartoffeln lose aus Niederlande",
+    "category": "Gemüse",
+    "subcategories": ["Süßkartoffel"]
+  },
+  {
+    "store": "billa",
+    "id": "00-89595",
+    "name":"Bierrettich aus Italien",
+    "category": "Gemüse",
+    "subcategories": ["Radieschen"]
+  },
+  {
+    "store": "billa",
+    "id": "00-89872",
+    "name":"Brokkoli",
+    "category": "Gemüse",
+    "subcategories": ["Brokkoli"]
+  },
+  {
+    "store": "billa",
+    "id": "00-89623",
+    "name":"Champignons aus Polen/Ungarn",
+    "category": "Gemüse",
+    "subcategories": ["Champignon"]
+  },
+  {
+    "store": "billa",
+    "id": "00-89624",
+    "name":"Champignons aus Ungarn / Polen",
+    "category": "Gemüse",
+    "subcategories": ["Champignon"]
+  },
+  {
+    "store": "billa",
+    "id": "00-705790",
+    "name":"Clever Champignons aus Ungarn",
+    "category": "Gemüse",
+    "subcategories": ["Champignon"]
+  },
+  {
+    "store": "billa",
+    "id": "00-410026",
+    "name":"Clever Cherrytomaten aus Spanien / Italien / Marokko",
+    "category": "Gemüse",
+    "subcategories": ["Tomate"]
+  },
+  {
+    "store": "billa",
+    "id": "00-89536",
+    "name":"Clever Erdäpfel festkochend aus Österreich",
+    "category": "Gemüse",
+    "subcategories": ["Kartoffel"]
+  },
+  {
+    "store": "billa",
+    "id": "00-89517",
+    "name":"Clever Erdäpfel vorwiegend festkochend aus Österreich",
+    "category": "Gemüse",
+    "subcategories": ["Kartoffel"]
+  },
+  {
+    "store": "billa",
+    "id": "00-88204",
+    "name":"Clever Heurige vorwiegend festkochend aus Österreich",
+    "category": "Gemüse",
+    "subcategories": ["Kartoffel"]
+  },
+  {
+    "store": "billa",
+    "id": "00-89009",
+    "name":"Clever Knoblauch aus Spanien / Italien / Ägypten",
+    "category": "Gemüse",
+    "subcategories": ["Knoblauch"]
+  },
+  {
+    "store": "billa",
+    "id": "00-402113",
+    "name":"Clever Tomaten aus Spanien / Marokko / Österreich aus Österreich",
+    "category": "Gemüse",
+    "subcategories": ["Tomate"]
+  },
+  {
+    "store": "billa",
+    "id": "00-415856",
+    "name":"Clever Zucchini Italien / Spanien / Marokko",
+    "category": "Gemüse",
+    "subcategories": ["Zucchini"]
+  },
+  {
+    "store": "billa",
+    "id": "00-346427",
+    "name":"Clever Zwiebel Gelb",
+    "category": "Gemüse",
+    "subcategories": ["Zwiebel"]
+  },
+  {
+    "store": "billa",
+    "id": "00-414102",
+    "name":"Da komm ich her! Bierrettich aus Österreich",
+    "category": "Gemüse",
+    "subcategories": ["Radieschen"]
+  },
+  {
+    "store": "billa",
+    "id": "00-89033",
+    "name":"Da komm ich her! Cherrytomaten 'Sophie' aus Österreich",
+    "category": "Gemüse",
+    "subcategories": ["Tomate"]
+  },
+  {
+    "store": "billa",
+    "id": "00-702363",
+    "name":"Da komm ich her! Cherrytomaten 'Sophie' aus Österreich",
+    "category": "Gemüse",
+    "subcategories": ["Tomate"]
+  },
+  {
+    "store": "billa",
+    "id": "00-961723",
+    "name":"Da komm ich her! Dille aus Österreich",
+    "category": "Gewürze",
+    "subcategories": ["Dille"]
+  },
+  {
+    "store": "billa",
+    "id": "00-89546",
+    "name":"Da komm ich her! Erdäpfel speckig aus Österreich",
+    "category": "Gemüse",
+    "subcategories": ["Kartoffel"]
+  },
+  {
+    "store": "billa",
+    "id": "00-89532",
+    "name":"Da komm ich her! Erdäpfel speckig aus Österreich",
+    "category": "Gemüse",
+    "subcategories": ["Kartoffel"]
+  },
+  {
+    "store": "billa",
+    "id": "00-89523",
+    "name":"Da komm ich her! Erdäpfel vorwiegend festkochend aus Österreich",
+    "category": "Gemüse",
+    "subcategories": ["Kartoffel"]
+  },
+  {
+    "store": "billa",
+    "id": "00-307854",
+    "name":"Da komm ich her! Fleischparadeiser aus Österreich",
+    "category": "Gemüse",
+    "subcategories": ["Tomate"]
+  },
+  {
+    "store": "billa",
+    "id": "00-410623",
+    "name":"Da komm ich her! Frühkraut aus Österreich",
+    "category": "Gemüse",
+    "subcategories": ["Kohl"]
+  },
+  {
+    "store": "billa",
+    "id": "00-408966",
+    "name":"Da komm ich her! Gurke aus Österreich",
+    "category": "Gemüse",
+    "subcategories": ["Gurke"]
+  },
+  {
+    "store": "billa",
+    "id": "00-406809",
+    "name":"Da komm ich her! Heurige festkochend aus Österreich",
+    "category": "Gemüse",
+    "subcategories": ["Kartoffel"]
+  },
+  {
+    "store": "billa",
+    "id": "00-429158",
+    "name":"Da komm ich her! Heurige vorwiegend festkochend aus Österreich",
+    "category": "Gemüse",
+    "subcategories": ["Kartoffel"]
+  },
+  {
+    "store": "billa",
+    "id": "00-407972",
+    "name":"Da komm ich her! Jungzwiebel aus Österreich",
+    "category": "Gemüse",
+    "subcategories": ["Zwiebel"]
+  },
+  {
+    "store": "billa",
+    "id": "00-429089",
+    "name":"Da komm ich her! Karotten aus Österreich",
+    "category": "Gemüse",
+    "subcategories": ["Karotte"]
+  },
+  {
+    "store": "billa",
+    "id": "00-89016",
+    "name":"Da komm ich her! Knoblauch aus Österreich",
+    "category": "Gemüse",
+    "subcategories": ["Knoblauch"]
+  },
+  {
+    "store": "billa",
+    "id": "00-400913",
+    "name":"Da komm ich her! Kohl aus Österreich",
+    "category": "Gemüse",
+    "subcategories": ["Kohl"]
+  },
+  {
+    "store": "billa",
+    "id": "00-409241",
+    "name":"Da komm ich her! Kohlrabi aus Österreich",
+    "category": "Gemüse",
+    "subcategories": ["Kohlrabi"]
+  },
+  {
+    "store": "billa",
+    "id": "00-961719",
+    "name":"Da komm ich her! Koriander aus Österreich",
+    "category": "Gewürze",
+    "subcategories": ["Koriander"]
+  },
+  {
+    "store": "billa",
+    "id": "00-953173",
+    "name":"Da komm ich her! Krauspetersilie aus Österreich",
+    "category": "Gewürze",
+    "subcategories": ["Petersilie"]
+  },
+  {
+    "store": "billa",
+    "id": "00-500504",
+    "name":"Da komm ich her! Kren aus Österreich",
+    "category": "Gewürze",
+    "subcategories": ["Kren"]
+  },
+  {
+    "store": "billa",
+    "id": "00-89723",
+    "name":"Da komm ich her! Lauch aus Österreich",
+    "category": "Gemüse",
+    "subcategories": ["Lauch"]
+  },
+  {
+    "store": "billa",
+    "id": "00-410633",
+    "name":"Da komm ich her! Melanzani aus Österreich",
+    "category": "Gemüse",
+    "subcategories": ["Melanzani"]
+  },
+  {
+    "store": "billa",
+    "id": "00-429162",
+    "name":"Da komm ich her! Midi Rispenparadeiser aus Österreich",
+    "category": "Gemüse",
+    "subcategories": ["Tomate"]
+  },
+  {
+    "store": "billa",
+    "id": "00-367352",
+    "name":"Da komm ich her! Midi Rispenparadeiser aus Österreich",
+    "category": "Gemüse",
+    "subcategories": ["Tomate"]
+  },
+  {
+    "store": "billa",
+    "id": "00-961720",
+    "name":"Da komm ich her! Minze aus Österreich",
+    "category": "Gewürze",
+    "subcategories": ["Minze"]
+  },
+  {
+    "store": "billa",
+    "id": "00-403137",
+    "name":"Da komm ich her! Paprika Gelb aus Österreich",
+    "category": "Gemüse",
+    "subcategories": ["Paprika"]
+  },
+  {
+    "store": "billa",
+    "id": "00-89104",
+    "name":"Da komm ich her! Paprika Grün aus Österreich",
+    "category": "Gemüse",
+    "subcategories": ["Paprika"]
+  },
+  {
+    "store": "billa",
+    "id": "00-411113",
+    "name":"Da komm ich her! Paprika Rot aus Österreich",
+    "category": "Gemüse",
+    "subcategories": ["Paprika"]
+  },
+  {
+    "store": "billa",
+    "id": "00-410646",
+    "name":"Da komm ich her! Paprika Tricolore aus Österreich",
+    "category": "Gemüse",
+    "subcategories": ["Paprika"]
+  },
+  {
+    "store": "billa",
+    "id": "00-318080",
+    "name":"Da komm ich her! Petersilie aus Österreich",
+    "category": "Gewürze",
+    "subcategories": ["Petersilie"]
+  },
+  {
+    "store": "billa",
+    "id": "00-394147",
+    "name":"Da komm ich her! Pfefferoni aus Österreich",
+    "category": "Gemüse",
+    "subcategories": ["Pfefferoni"]
+  },
+  {
+    "store": "billa",
+    "id": "00-89508",
+    "name":"Da komm ich her! Radieschen Bund aus Österreich",
+    "category": "Gemüse",
+    "subcategories": ["Radieschen"]
+  },
+  {
+    "store": "billa",
+    "id": "00-805088",
+    "name":"Da komm ich her! Rispentomaten 'Resi' aus Österreich",
+    "category": "Gemüse",
+    "subcategories": ["Tomate"]
+  },
+  {
+    "store": "billa",
+    "id": "00-89328",
+    "name":"Da komm ich her! Rispentomaten lose aus Österreich",
+    "category": "Gemüse",
+    "subcategories": ["Tomate"]
+  },
+  {
+    "store": "billa",
+    "id": "00-944004",
+    "name":"Da komm ich her! Rosmarin aus Österreich",
+    "category": "Gewürze",
+    "subcategories": ["Rosmarin"]
+  },
+  {
+    "store": "billa",
+    "id": "00-953164",
+    "name":"Da komm ich her! Schnittlauch aus Österreich",
+    "category": "Gewürze",
+    "subcategories": ["Schnittlauch"]
+  },
+  {
+    "store": "billa",
+    "id": "00-410232",
+    "name":"Da komm ich her! Snack Radieschen aus Österreich",
+    "category": "Gemüse",
+    "subcategories": ["Radieschen"]
+  },
+  {
+    "store": "billa",
+    "id": "00-576940",
+    "name":"Da komm ich her! Stangensellerie aus Österreich",
+    "category": "Gemüse",
+    "subcategories": ["Sellerie"]
+  },
+  {
+    "store": "billa",
+    "id": "00-411118",
+    "name":"Da komm ich her! Zuckermais aus Österreich",
+    "category": "Gemüse",
+    "subcategories": ["Mais"]
+  },
+  {
+    "store": "billa",
+    "id": "00-425118",
+    "name":"Da komm ich her! Zwiebel Gelb aus Österreich",
+    "category": "Gemüse",
+    "subcategories": ["Zwiebel"]
+  },
+  {
+    "store": "billa",
+    "id": "00-429100",
+    "name":"Da komm ich her! Zwiebel Gelb aus Österreich",
+    "category": "Gemüse",
+    "subcategories": ["Zwiebel"]
+  },
+  {
+    "store": "billa",
+    "id": "00-413813",
+    "name":"Da komm ich her! Zwiebel Rot aus Österreich",
+    "category": "Gemüse",
+    "subcategories": ["Zwiebel"]
+  },
+  {
+    "store": "billa",
+    "id": "00-298684",
+    "name":"Die Grillerei Grillmais aus Österreich",
+    "category": "Gemüse",
+    "subcategories": ["Mais"]
+  },
+  {
+    "store": "billa",
+    "id": "00-481676",
+    "name":"Die Grillerei Ofen- & Grillerdäpfel aus Österreich",
+    "category": "Gemüse",
+    "subcategories": ["Kartoffel"]
+  },
+  {
+    "store": "billa",
+    "id": "00-89707",
+    "name":"Dille Bund aus Italien",
+    "category": "Gewürze",
+    "subcategories": ["Dille"]
+  },
+  {
+    "store": "billa",
+    "id": "00-410759",
+    "name":"Eierschwammerl aus Österreich",
+    "category": "Pilze",
+    "subcategories": ["Eierschwammerl"]
+  },
+  {
+    "store": "billa",
+    "id": "00-565920",
+    "name":"Erzberg Bio Kräuterseitlinge aus Österreich",
+    "category": "Pilze",
+    "subcategories": ["Kräuterseitling"]
+  },
+  {
+    "store": "billa",
+    "id": "00-400576",
+    "name":"Ja! Natürlich Bio Brokkoli aus Italien",
+    "category": "Gemüse",
+    "subcategories": ["Brokkoli"]
+  },
+  {
+    "store": "billa",
+    "id": "00-410116",
+    "name":"Ja! Natürlich Bio Champignon aus Österreich",
+    "category": "Gemüse",
+    "subcategories": ["Champignon"]
+  },
+  {
+    "store": "billa",
+    "id": "00-409484",
+    "name":"Ja! Natürlich Bio Karotten Mix aus Österreich",
+    "category": "Gemüse",
+    "subcategories": ["Karotte"]
+  },
+  {
+    "store": "billa",
+    "id": "00-89479",
+    "name":"Ja! Natürlich Bio Maroni gegart aus Italien",
+    "category": "Gemüse",
+    "subcategories": ["Maroni"]
+  },
+  {
+    "store": "billa",
+    "id": "00-511872",
+    "name":"Ja! Natürlich Bio Maroni mit Zimt aus Italien",
+    "category": "Gemüse",
+    "subcategories": ["Maroni"]
+  },
+  {
+    "store": "billa",
+    "id": "00-88163",
+    "name":"Ja! Natürlich Bio Melanzani 2 Stück aus Österreich",
+    "category": "Gemüse",
+    "subcategories": ["Melanzani"]
+  },
+  {
+    "store": "billa",
+    "id": "00-514798",
+    "name":"Ja! Natürlich Bio Saft - Karotten aus Österreich",
+    "category": "Gemüse",
+    "subcategories": ["Karotte"]
+  },
+  {
+    "store": "billa",
+    "id": "00-514852",
+    "name":"Ja! Natürlich Bio Snackkarotten aus Österreich",
+    "category": "Gemüse",
+    "subcategories": ["Karotte"]
+  },
+  {
+    "store": "billa",
+    "id": "00-359654",
+    "name":"Ja! Natürlich Bio Spitzkraut aus Österreich",
+    "category": "Gemüse",
+    "subcategories": ["Kohl"]
+  },
+  {
+    "store": "billa",
+    "id": "00-89614",
+    "name":"Ja! Natürlich Bio Suppentasse aus Österreich / Italien",
+    "category": "Gemüse",
+    "subcategories": ["Gemüsemix"]
+  },
+  {
+    "store": "billa",
+    "id": "00-406977",
+    "name":"Ja! Natürlich Bio Zucchini Gelb aus Italien",
+    "category": "Gemüse",
+    "subcategories": ["Zucchini"]
+  },
+  {
+    "store": "billa",
+    "id": "00-575199",
+    "name":"Ja! Natürlich Bio Zuckermais Vorgegart aus Österreich",
+    "category": "Gemüse",
+    "subcategories": ["Mais"]
+  },
+  {
+    "store": "billa",
+    "id": "00-89668",
+    "name":"Ja! Natürlich Bio Zwiebel Gelb aus Österreich",
+    "category": "Gemüse",
+    "subcategories": ["Zwiebel"]
+  },
+  {
+    "store": "billa",
+    "id": "00-89521",
+    "name":"Ja! Natürlich Bio-Salaterdäpfel aus Österreich",
+    "category": "Gemüse",
+    "subcategories": ["Kartoffel"]
+  },
+  {
+    "store": "billa",
+    "id": "00-488233",
+    "name":"Ja! Natürlich Erdäpfel aus Österreich",
+    "category": "Gemüse",
+    "subcategories": ["Kartoffel"]
+  },
+  {
+    "store": "billa",
+    "id": "00-498544",
+    "name":"Ja! Natürlich Feldgurke aus Österreich",
+    "category": "Gemüse",
+    "subcategories": ["Gurke"]
+  },
+  {
+    "store": "billa",
+    "id": "00-321422",
+    "name":"Ja! Natürlich Fenchel aus Österreich",
+    "category": "Gemüse",
+    "subcategories": ["Fenchel"]
+  },
+  {
+    "store": "billa",
+    "id": "00-414718",
+    "name":"Ja! Natürlich Fisolen gelb aus Österreich",
+    "category": "Gemüse",
+    "subcategories": ["Bohne"]
+  },
+  {
+    "store": "billa",
+    "id": "00-401375",
+    "name":"Ja! Natürlich Fisolen grün aus Österreich",
+    "category": "Gemüse",
+    "subcategories": ["Bohne"]
+  },
+  {
+    "store": "billa",
+    "id": "00-401125",
+    "name":"Ja! Natürlich Heurige aus Österreich",
+    "category": "Gemüse",
+    "subcategories": ["Kartoffel"]
+  },
+  {
+    "store": "billa",
+    "id": "00-729360",
+    "name":"Ja! Natürlich Heurige vofe aus Österreich",
+    "category": "Gemüse",
+    "subcategories": ["Kartoffel"]
+  },
+  {
+    "store": "billa",
+    "id": "00-422619",
+    "name":"Ja! Natürlich Hokkaido Kürbis aus Österreich",
+    "category": "Gemüse",
+    "subcategories": ["Kürbis"]
+  },
+  {
+    "store": "billa",
+    "id": "00-89591",
+    "name":"Ja! Natürlich Karotten",
+    "category": "Gemüse",
+    "subcategories": ["Karotte"]
+  },
+  {
+    "store": "billa",
+    "id": "00-89709",
+    "name":"Ja! Natürlich Kresse aus Österreich",
+    "category": "Gemüse",
+    "subcategories": ["Kresse"]
+  },
+  {
+    "store": "billa",
+    "id": "00-414059",
+    "name":"Ja! Natürlich Kräutertopf Basilikum aus Österreich",
+    "category": "Kräuter",
+    "subcategories": ["Basilikum"]
+  }
+]
+```
+
+Please note that the categories and subcategories have been translated into German as requested.

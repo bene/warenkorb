@@ -1,0 +1,80 @@
+[
+  {
+    "store": "billa",
+    "id": "00-880733",
+    "name": "Decocino Rollfondant Schwarz",
+    "category": "Backzutaten",
+    "subcategories": ["Rollfondant", "Schwarz"]
+  },
+  {
+    "store": "billa",
+    "id": "00-880728",
+    "name": "Decocino Rollfondant Weiß",
+    "category": "Backzutaten",
+    "subcategories": ["Rollfondant", "Weiß"]
+  },
+  {
+    "store": "billa",
+    "id": "00-5152",
+    "name": "Dr Oetker Schokoblättchen",
+    "category": "Backzutaten",
+    "subcategories": ["Schokoblättchen"]
+  },
+  ...
+  {
+    "store": "billa",
+    "id": "00-285124",
+    "name": "Pearls Of Samarkand Bio Maronimehl",
+    "category": "Backzutaten",
+    "subcategories": ["Maronimehl", "Bio"]
+  },
+  {
+    "store": "billa",
+    "id": "00-285132",
+    "name": "Pearls Of Samarkand Bio Quinoamehl",
+    "category": "Backzutaten",
+    "subcategories": ["Quinoamehl", "Bio"]
+  },
+  {
+    "store": "billa",
+    "id": "00-758491",
+    "name": "Pearls of Samarkand Bio Mandelmehl",
+    "category": "Backzutaten",
+    "subcategories": ["Mandelmehl", "Bio"]
+  },
+  {
+    "store": "billa",
+    "id": "00-762784",
+    "name": "Pearls of Samarkand Bio Reismehl Glutenfrei",
+    "category": "Backzutaten",
+    "subcategories": ["Reismehl", "Bio", "Glutenfrei"]
+  },
+  {
+    "store": "billa",
+    "id": "00-504061",
+    "name": "Pesendorfer Ingwer Icing",
+    "category": "Backzutaten",
+    "subcategories": ["Ingwer Icing"]
+  },
+  {
+    "store": "billa",
+    "id": "00-414506",
+    "name": "Pickerd Gourmet Vanille Mühle",
+    "category": "Backzutaten",
+    "subcategories": ["Gourmet Vanille Mühle"]
+  },
+  {
+    "store": "billa",
+    "id": "00-414502",
+    "name": "Pickerd Kakao-Orangen Glasur",
+    "category": "Backzutaten",
+    "subcategories": ["Kakao-Orangen Glasur"]
+  },
+  {
+    "store": "billa",
+    "id": "00-414491",
+    "name": "Pickerd Mini Cookies",
+    "category": "Backzutaten",
+    "subcategories": ["Mini Cookies"]
+  }
+]

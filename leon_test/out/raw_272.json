@@ -1,0 +1,702 @@
+[
+    {
+        "store": "spar",
+        "id": "4385073",
+        "name": "tetesept Badezusatz Muskel & Gelenke 80 g",
+        "category": "Badezusatz",
+        "subcategories": ["Muskel & Gelenke"]
+    },
+    {
+        "store": "spar",
+        "id": "8085795",
+        "name": "tetesept Badezusatz Rücken & Schulter 750g",
+        "category": "Badezusatz",
+        "subcategories": ["Rücken & Schulter"]
+    },
+    {
+        "store": "spar",
+        "id": "2020001333691",
+        "name": "tetesept Badezusatz Schlaf gut 750g",
+        "category": "Badezusatz",
+        "subcategories": ["Schlaf"]
+    },
+    {
+        "store": "spar",
+        "id": "2020000754817",
+        "name": "tetesept Badeöl Set Verwöhnmomente 6 x 20ml",
+        "category": "Badeöl",
+        "subcategories": ["Verwöhnmomente"]
+    },
+    {
+        "store": "spar",
+        "id": "7708411",
+        "name": "tetesept Beweglichkeit Intensiv Bad 125ml",
+        "category": "Badezusatz",
+        "subcategories": ["Beweglichkeit"]
+    },
+    {
+        "store": "spar",
+        "id": "1681550",
+        "name": "tetesept Bronchial Bad 125ml",
+        "category": "Badezusatz",
+        "subcategories": ["Bronchial"]
+    },
+    {
+        "store": "spar",
+        "id": "8085818",
+        "name": "tetesept Bäder der Welt Cremebad Kleopatras Geheimnis 125ml",
+        "category": "Badezusatz",
+        "subcategories": ["Cremebad", "Bäder der Welt"]
+    },
+    {
+        "store": "spar",
+        "id": "5396467",
+        "name": "tetesept Bäder der Welt Marokkanisches Rosen Bad 125ml",
+        "category": "Badezusatz",
+        "subcategories": ["Marokkanisches Rosen Bad", "Bäder der Welt"]
+    },
+    {
+        "store": "spar",
+        "id": "2020004285140",
+        "name": "tetesept Duschbad Totes Meer 300ml",
+        "category": "Duschbad",
+        "subcategories": ["Totes Meer"]
+    },
+    {
+        "store": "spar",
+        "id": "4365099",
+        "name": "tetesept Dusche Muskel&Gelenk 250ml",
+        "category": "Duschgel",
+        "subcategories": ["Muskel&Gelenk"]
+    },
+    {
+        "store": "spar",
+        "id": "473163",
+        "name": "tetesept Entspannungs Bad 125ml",
+        "category": "Badezusatz",
+        "subcategories": ["Entspannung"]
+    },
+    {
+        "store": "spar",
+        "id": "473125",
+        "name": "tetesept Erkältungsbad 125ml",
+        "category": "Badezusatz",
+        "subcategories": ["Erkältung"]
+    },
+    {
+        "store": "spar",
+        "id": "3666296",
+        "name": "tetesept Gesundheits-Dusche Entspannung 250ml",
+        "category": "Duschgel",
+        "subcategories": ["Entspannung"]
+    },
+    {
+        "store": "spar",
+        "id": "6670887",
+        "name": "tetesept Gesundheits-Dusche Erkältung 250ml",
+        "category": "Duschgel",
+        "subcategories": ["Erkältung"]
+    },
+    {
+        "store": "spar",
+        "id": "2020003096488",
+        "name": "tetesept Gesundheits-Dusche Gelassenheit 250ml",
+        "category": "Duschgel",
+        "subcategories": ["Gelassenheit"]
+    },
+    {
+        "store": "spar",
+        "id": "2045238",
+        "name": "tetesept Gesundheits-Dusche Kraft&Energie 250ml",
+        "category": "Duschgel",
+        "subcategories": ["Kraft", "Energie"]
+    },
+    {
+        "store": "spar",
+        "id": "2020002985486",
+        "name": "tetesept Gesundheits-Dusche Leichtigkeit 250ml",
+        "category": "Duschgel",
+        "subcategories": ["Leichtigkeit"]
+    },
+    {
+        "store": "spar",
+        "id": "8085801",
+        "name": "tetesept Gesundheitsbad Rücken Wärme Bad 125ml",
+        "category": "Badezusatz",
+        "subcategories": ["Rücken", "Wärme"]
+    },
+    {
+        "store": "spar",
+        "id": "2020001333967",
+        "name": "tetesept Kinder Badespaß Blubbersalz Vulkanland 50g",
+        "category": "Kinder Badespaß",
+        "subcategories": ["Blubbersalz", "Vulkanland"]
+    },
+    {
+        "store": "spar",
+        "id": "2020003620355",
+        "name": "tetesept Kinder Badespaß Knister-Farbwechselbad Hokuspokus 45g",
+        "category": "Kinder Badespaß",
+        "subcategories": ["Knister-Farbwechselbad", "Hokuspokus"]
+    },
+    {
+        "store": "spar",
+        "id": "2020001333844",
+        "name": "tetesept Kinder Badespaß Knisterbad Räuberbande 50g",
+        "category": "Kinder Badespaß",
+        "subcategories": ["Knisterbad", "Räuberbande"]
+    },
+    {
+        "store": "spar",
+        "id": "2020004285195",
+        "name": "tetesept Kinder Badespaß Schaumbad Gute Nacht 40ml",
+        "category": "Kinder Badespaß",
+        "subcategories": ["Schaumbad", "Gute Nacht"]
+    },
+    {
+        "store": "spar",
+        "id": "2020002989163",
+        "name": "tetesept Kinder Badespaß Schaumbad Mein Einhorn 40ml",
+        "category": "Kinder Badespaß",
+        "subcategories": ["Schaumbad", "Mein Einhorn"]
+    },
+    {
+        "store": "spar",
+        "id": "2020001042982",
+        "name": "tetesept Frische-Gel Venen Spezial 125ml",
+        "category": "Gesundheit",
+        "subcategories": ["Frische-Gel", "Venen Spezial"]
+    },
+    {
+        "store": "spar",
+        "id": "2009759",
+        "name": "tetesept Gesundheits-Lotion Muskel&Gelenk 250ml",
+        "category": "Körperpflege",
+        "subcategories": ["Gesundheits-Lotion", "Muskel&Gelenk"]
+    },
+    {
+        "store": "spar",
+        "id": "1653564",
+        "name": "tetesept Gesundheits-Meersalze-Set Natürlich Entspannt 4 x 100g",
+        "category": "Meersalze",
+        "subcategories": ["Natürlich Entspannt"]
+    },
+    {
+        "store": "spar",
+        "id": "2020003959394",
+        "name": "true fruits green smoothie",
+        "category": "Smoothie",
+        "subcategories": ["Grün"]
+    },
+    {
+        "store": "spar",
+        "id": "2020001692620",
+        "name": "true fruits green smoothie no.1",
+        "category": "Smoothie",
+        "subcategories": ["Grün"]
+    },
+    {
+        "store": "spar",
+        "id": "2020002517816",
+        "name": "true fruits smoothie orange",
+        "category": "Smoothie",
+        "subcategories": ["Orange"]
+    },
+    {
+        "store": "spar",
+        "id": "2020001692514",
+        "name": "true fruits smoothie pink",
+        "category": "Smoothie",
+        "subcategories": ["Pink"]
+    },
+    {
+        "store": "spar",
+        "id": "2020003556852",
+        "name": "true fruits smoothie triple orange",
+        "category": "Smoothie",
+        "subcategories": ["Orange"]
+    },
+    {
+        "store": "spar",
+        "id": "2020002517786",
+        "name": "true fruits smoothie triple pink",
+        "category": "Smoothie",
+        "subcategories": ["Pink"]
+    },
+    {
+        "store": "spar",
+        "id": "2020001692033",
+        "name": "true fruits smoothie triple yellow",
+        "category": "Smoothie",
+        "subcategories": ["Yellow"]
+    },
+    {
+        "store": "spar",
+        "id": "2020001692446",
+        "name": "true fruits smoothie yellow",
+        "category": "Smoothie",
+        "subcategories": ["Yellow"]
+    },
+    {
+        "store": "spar",
+        "id": "2020002950095",
+        "name": "wie bitter wermut",
+        "category": "Kräuter",
+        "subcategories": ["Wermut"]
+    },
+    {
+        "store": "spar",
+        "id": "2020004133311",
+        "name": "yebo. Baharat 50g",
+        "category": "Gewürze",
+        "subcategories": ["Baharat"]
+    },
+    {
+        "store": "spar",
+        "id": "2020004133397",
+        "name": "yebo. Berbere 50g",
+        "category": "Gewürze",
+        "subcategories": ["Berbere"]
+    },
+    {
+        "store": "spar",
+        "id": "2020004133250",
+        "name": "yebo. Cajun 65g",
+        "category": "Gewürze",
+        "subcategories": ["Cajun"]
+    },
+    {
+        "store": "spar",
+        "id": "2020004133359",
+        "name": "yebo. Caribbean Style Jerk 65g",
+        "category": "Gewürze",
+        "subcategories": ["Caribbean Style Jerk"]
+    },
+    {
+        "store": "spar",
+        "id": "2020002599256",
+        "name": "von daheim Akazien- mit Blütenhonig Bio",
+        "category": "Honig",
+        "subcategories": ["Akazienhonig", "Blütenhonig"]
+    },
+    {
+        "store": "spar",
+        "id": "2020003083662",
+        "name": "von daheim Bio Akazienhonig mit Bio Blütenhonig",
+        "category": "Honig",
+        "subcategories": ["Akazienhonig", "Blütenhonig"]
+    },
+    {
+        "store": "spar",
+        "id": "2020003083648",
+        "name": "von daheim Bio Blütenhonig",
+        "category": "Honig",
+        "subcategories": ["Blütenhonig"]
+    },
+    {
+        "store": "spar",
+        "id": "2020001007110",
+        "name": "von daheim Bio Donau Honig",
+        "category": "Honig",
+        "subcategories": ["Donau Honig"]
+    },
+    {
+        "store": "spar",
+        "id": "2020001465941",
+        "name": "von daheim Bio Honig mit Gelee Royal",
+        "category": "Honig",
+        "subcategories": ["Honig mit Gelee Royal"]
+    },
+    {
+        "store": "spar",
+        "id": "2020001544189",
+        "name": "von daheim Bio Wien Honig",
+        "category": "Honig",
+        "subcategories": ["Wien Honig"]
+    },
+    {
+        "store": "spar",
+        "id": "2020002599249",
+        "name": "von daheim Linden- mit Blütenhonig Bio",
+        "category": "Honig",
+        "subcategories": ["Lindenhonig", "Blütenhonig"]
+    },
+    {
+        "store": "spar",
+        "id": "2020004338815",
+        "name": "tetesept Kinder Badespaß Schaumbad T-Rex World 40ml",
+        "category": "Kinder Badespaß",
+        "subcategories": ["Schaumbad", "T-Rex World"]
+    },
+    {
+        "store": "spar",
+        "id": "2020004312013",
+        "name": "tetesept Kinder Badespaß Sprudelbad Regenbogenland 40g",
+        "category": "Kinder Badespaß",
+        "subcategories": ["Sprudelbad", "Regenbogenland"]
+    },
+    {
+        "store": "spar",
+        "id": "2020002470975",
+        "name": "tetesept Kinder Badespaß Sprudelbad Schatzsucher 140g",
+        "category": "Kinder Badespaß",
+        "subcategories": ["Sprudelbad", "Schatzsucher"]
+    },
+    {
+        "store": "spar",
+        "id": "2020001333356",
+        "name": "tetesept Kinder Duschspaß 2-in-1 Duschbad Beste Freundinnen 250ml",
+        "category": "Kinder Duschspaß",
+        "subcategories": ["2-in-1 Duschbad", "Beste Freundinnen"]
+    },
+    {
+        "store": "spar",
+        "id": "2020001333370",
+        "name": "tetesept Kinder Duschspaß 2-in-1 Duschbad Drachen-Reiter 250ml",
+        "category": "Kinder Duschspaß",
+        "subcategories": ["2-in-1 Duschbad", "Drachen-Reiter"]
+    },
+    {
+        "store": "spar",
+        "id": "2020002684914",
+        "name": "tetesept Limited Edition Badesalz Deine Kuschelzeit 60g",
+        "category": "Badesalz",
+        "subcategories": ["Limited Edition", "Deine Kuschelzeit"]
+    },
+    {
+        "store": "spar",
+        "id": "2020002684884",
+        "name": "tetesept Limited Edition Badesalz Wintermärchen 60g",
+        "category": "Badesalz",
+        "subcategories": ["Limited Edition", "Wintermärchen"]
+    },
+    {
+        "store": "spar",
+        "id": "2020004331229",
+        "name": "tetesept Meersalz-Pflegebad Tiefen-Entspannung 750g",
+        "category": "Meersalz-Pflegebad",
+        "subcategories": ["Tiefen-Entspannung"]
+    },
+    {
+        "store": "spar",
+        "id": "473378",
+        "name": "tetesept Muskel & Gelenk Bad 125ml",
+        "category": "Badezusatz",
+        "subcategories": ["Muskel & Gelenk"]
+    },
+    {
+        "store": "spar",
+        "id": "2020003154003",
+        "name": "tetesept Pflege-Badesalz Spür die Wärme 60g",
+        "category": "Badesalz",
+        "subcategories": ["Spür die Wärme"]
+    },
+    {
+        "store": "spar",
+        "id": "2020003138287",
+        "name": "tetesept Pflege-Schaumbad Abschalten 500ml",
+        "category": "Schaumbad",
+        "subcategories": ["Abschalten"]
+    },
+    {
+        "store": "spar",
+        "id": "2020002635176",
+        "name": "tetesept Pflege-Schaumbad Atemwohl 500ml",
+        "category": "Schaumbad",
+        "subcategories": ["Atemwohl"]
+    },
+    {
+        "store": "spar",
+        "id": "2020004630551",
+        "name": "tetesept Pflege-Schaumbad Wohlfühlen / Blüten-Edition 500ml",
+        "category": "Schaumbad",
+        "subcategories": ["Wohlfühlen", "Blüten-Edition"]
+    },
+    {
+        "store": "spar",
+        "id": "2020002635145",
+        "name": "tetesept Pflege-Schaumbad Wärme spüren 500ml",
+        "category": "Schaumbad",
+        "subcategories": ["Wärme spüren"]
+    },
+    {
+        "store": "spar",
+        "id": "2020002665364",
+        "name": "tetesept Pflege-Schaumbad Zeit für Mich 500ml",
+        "category": "Schaumbad",
+        "subcategories": ["Zeit für Mich"]
+    },
+    {
+        "store": "spar",
+        "id": "2020003944420",
+        "name": "tetesept Set Bademomente 6 x 20ml",
+        "category": "Badezusatz",
+        "subcategories": ["Set", "Bademomente"]
+    },
+    {
+        "store": "spar",
+        "id": "2020004546968",
+        "name": "tetesept Wohlfühlbad Regeneration Wald Bad 125 ml",
+        "category": "Badezusatz",
+        "subcategories": ["Wohlfühlbad", "Regeneration", "Wald"]
+    },
+    {
+        "store": "spar",
+        "id": "7539312",
+        "name": "tetesept Zeit für Dich Aroma-Pflegebad Ruhepause 125ml",
+        "category": "Badezusatz",
+        "subcategories": ["Zeit für Dich", "Aroma-Pflegebad", "Ruhepause"]
+    },
+    {
+        "store": "spar",
+        "id": "5024148",
+        "name": "tetesept Wärme-Balsam Rücken & Schulter 100ml",
+        "category": "Balsam",
+        "subcategories": ["Wärme-Balsam", "Rücken & Schulter"]
+    },
+    {
+        "store": "spar",
+        "id": "2020002107833",
+        "name": "tetesept t by Set Du bist wundervoll! 2 x 200ml",
+        "category": "Set",
+        "subcategories": ["Du bist wundervoll!"]
+    },
+    {
+        "store": "spar",
+        "id": "2020003108389",
+        "name": "tetesept t by Set Glücklich steht dir gut! 2 x 200ml",
+        "category": "Set",
+        "subcategories": ["Glücklich steht dir gut!"]
+    },
+    {
+        "store": "spar",
+        "id": "6713539",
+        "name": "Äpfel Braeburn gelegt per kg Apfel Braeburn  gelegt      KG  KG  1",
+        "category": "Obst",
+        "subcategories": ["Braeburn"]
+    },
+    {
+        "store": "spar",
+        "id": "2020001693818",
+        "name": "Äpfel Jazz per kg Apfel Jazz gelegt +MW       KG  GVE 6,50",
+        "category": "Obst",
+        "subcategories": ["Jazz"]
+    },
+    {
+        "store": "spar",
+        "id": "2020002578404",
+        "name": "Ölz Brioche Burger Brötle 4 Stück",
+        "category": "Burger",
+        "subcategories": ["Brioche"]
+    },
+    {
+        "store": "spar",
+        "id": "7922589",
+        "name": "Ölz Burger Buns 6 Stück",
+        "category": "Burger",
+        "subcategories": ["Buns"]
+    },
+    {
+        "store": "spar",
+        "id": "2020003060946",
+        "name": "Ölz Eiweiß Burger Brötle",
+        "category": "Burger",
+        "subcategories": ["Eiweiß"]
+    },
+    {
+        "store": "spar",
+        "id": "2020003736209",
+        "name": "Ölz Fladenbrot",
+        "category": "Brot",
+        "subcategories": ["Fladenbrot"]
+    },
+    {
+        "store": "spar",
+        "id": "2020001958658",
+        "name": "Ölz Maxi Burger Brötle 4 Stück",
+        "category": "Burger",
+        "subcategories": ["Maxi"]
+    },
+    {
+        "store": "spar",
+        "id": "2020003277535",
+        "name": "Ölz Bio-Vollkorntoast mit Hanf & Craft Malz",
+        "category": "Toast",
+        "subcategories": ["Bio-Vollkorntoast", "Hanf", "Craft Malz"]
+    },
+    {
+        "store": "spar",
+        "id": "640848",
+        "name": "Ölz Butter-Toast",
+        "category": "Toast",
+        "subcategories": ["Butter"]
+    },
+    {
+        "store": "spar",
+        "id": "248334",
+        "name": "Ölz Butter-Toast",
+        "category": "Toast",
+        "subcategories": ["Butter"]
+    },
+    {
+        "store": "spar",
+        "id": "2020003382093",
+        "name": "Ölz Dinkel Soft Sandwich",
+        "category": "Sandwich",
+        "subcategories": ["Dinkel"]
+    },
+    {
+        "store": "spar",
+        "id": "2958439",
+        "name": "Ölz Dinkel-Toast",
+        "category": "Toast",
+        "subcategories": ["Dinkel"]
+    },
+    {
+        "store": "spar",
+        "id": "8016010",
+        "name": "Ölz Dinkel-Vollkornbrot geschnitten",
+        "category": "Brot",
+        "subcategories": ["Dinkel-Vollkornbrot"]
+    },
+    {
+        "store": "spar",
+        "id": "2020000585978",
+        "name": "Ölz Eiweißbrot geschnitten",
+        "category": "Brot",
+        "subcategories": ["Eiweißbrot"]
+    },
+    {
+        "store": "spar",
+        "id": "7944536",
+        "name": "Ölz Farmer Soft Sandwich",
+        "category": "Sandwich",
+        "subcategories": ["Farmer"]
+    },
+    {
+        "store": "spar",
+        "id": "2020002638481",
+        "name": "Ölz Italien Sandwich",
+        "category": "Sandwich",
+        "subcategories": ["Italien"]
+    },
+    {
+        "store": "spar",
+        "id": "1879070",
+        "name": "Ölz Kornspitz-Toast",
+        "category": "Toast",
+        "subcategories": ["Kornspitz"]
+    },
+    {
+        "store": "spar",
+        "id": "2020002011802",
+        "name": "Ölz Krustenbrot",
+        "category": "Brot",
+        "subcategories": ["Krustenbrot"]
+    },
+    {
+        "store": "spar",
+        "id": "4631835",
+        "name": "Ölz Krustenbrot geschnitten",
+        "category": "Brot",
+        "subcategories": ["Krustenbrot"]
+    },
+    {
+        "store": "spar",
+        "id": "4631873",
+        "name": "Ölz Körndlbrot",
+        "category": "Brot",
+        "subcategories": ["Körndlbrot"]
+    },
+    {
+        "store": "spar",
+        "id": "2020004115607",
+        "name": "Ölz Landbrot 100% Dinkel geschnitten",
+        "category": "Brot",
+        "subcategories": ["Landbrot", "Dinkel"]
+    },
+    {
+        "store": "spar",
+        "id": "2020004381460",
+        "name": "Ölz Landbrot mit Hafer geschnitten",
+        "category": "Brot",
+        "subcategories": ["Landbrot", "Hafer"]
+    },
+    {
+        "store": "spar",
+        "id": "2020004115591",
+        "name": "Ölz Landbrot mit Roggen geschnitten",
+        "category": "Brot",
+        "subcategories": ["Landbrot", "Roggen"]
+    },
+    {
+        "store": "spar",
+        "id": "159258",
+        "name": "Ölz Mehrkorn Toast",
+        "category": "Toast",
+        "subcategories": ["Mehrkorn"]
+    },
+    {
+        "store": "spar",
+        "id": "292665",
+        "name": "Ölz Mehrkorn-Toast",
+        "category": "Toast",
+        "subcategories": ["Mehrkorn"]
+    },
+    {
+        "store": "spar",
+        "id": "2020003865466",
+        "name": "Ölz Protein Soft Sandwich",
+        "category": "Sandwich",
+        "subcategories": ["Protein"]
+    },
+    {
+        "store": "spar",
+        "id": "5612444",
+        "name": "Ölz Riesen Toast",
+        "category": "Toast",
+        "subcategories": ["Riesen"]
+    },
+    {
+        "store": "spar",
+        "id": "248365",
+        "name": "Ölz Sandwich Toast",
+        "category": "Toast",
+        "subcategories": ["Sandwich"]
+    },
+    {
+        "store": "spar",
+        "id": "248327",
+        "name": "Ölz Sandwich-Toast",
+        "category": "Toast",
+        "subcategories": ["Sandwich"]
+    },
+    {
+        "store": "spar",
+        "id": "7944543",
+        "name": "Ölz Super Soft Sandwich",
+        "category": "Sandwich",
+        "subcategories": ["Super Soft"]
+    },
+    {
+        "store": "spar",
+        "id": "7944550",
+        "name": "Ölz Super Soft Sandwich",
+        "category": "Sandwich",
+        "subcategories": ["Super Soft"]
+    },
+    {
+        "store": "spar",
+        "id": "2958446",
+        "name": "Ölz Vollkorn Soft Sandwich",
+        "category": "Sandwich",
+        "subcategories": ["Vollkorn"]
+    },
+    {
+        "store": "spar",
+        "id": "2020004390035",
+        "name": "Ölz Vollkorn Soft Sandwich",
+        "category": "Sandwich",
+        "subcategories": ["Vollkorn"]
+    }
+]

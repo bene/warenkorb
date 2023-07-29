@@ -1,0 +1,600 @@
+[
+  {
+    "store": "billa",
+    "id": "00-424921",
+    "name": "Ja! Natürlich Kaffee Crema Ganze Bohne",
+    "category": "Kaffee",
+    "subcategories": ["Natürlich", "Ganze Bohne"]
+  },
+  { "store": "billa", "id": "00-871423", "name": "Ja! Natürlich Kamillentee", "category": "Tee", "subcategories": ["Natürlich", "Kamillentee"] },
+  { "store": "billa", "id": "00-871424", "name": "Ja! Natürlich Kräutertee", "category": "Tee", "subcategories": ["Natürlich", "Kräutertee"] },
+  {
+    "store": "billa",
+    "id": "00-379746",
+    "name": "Ja! Natürlich Morgensonne Kräutertee",
+    "category": "Tee",
+    "subcategories": ["Natürlich", "Kräutertee"]
+  },
+  {
+    "store": "billa",
+    "id": "00-871425",
+    "name": "Ja! Natürlich Pfefferminztee",
+    "category": "Tee",
+    "subcategories": ["Natürlich", "Pfefferminztee"]
+  },
+  {
+    "store": "billa",
+    "id": "00-379752",
+    "name": "Ja! Natürlich Ruhepol Kräutertee",
+    "category": "Tee",
+    "subcategories": ["Natürlich", "Kräutertee"]
+  },
+  { "store": "billa", "id": "00-438671", "name": "Jacobs 2in1", "category": "Kaffee", "subcategories": ["Jacobs", "2in1"] },
+  { "store": "billa", "id": "00-438670", "name": "Jacobs 3in1", "category": "Kaffee", "subcategories": ["Jacobs", "3in1"] },
+  {
+    "store": "billa",
+    "id": "00-284769",
+    "name": "Jacobs Auslese Crema - ganze Bohne",
+    "category": "Kaffee",
+    "subcategories": ["Jacobs", "Auslese", "Ganze Bohne"]
+  },
+  {
+    "store": "billa",
+    "id": "00-284772",
+    "name": "Jacobs Auslese Espresso - ganze Bohne",
+    "category": "Kaffee",
+    "subcategories": ["Jacobs", "Auslese", "Ganze Bohne"]
+  },
+  {
+    "store": "billa",
+    "id": "00-618398",
+    "name": "Jacobs Caffe Crema Intenso Ganze Bohne",
+    "category": "Kaffee",
+    "subcategories": ["Jacobs", "Caffe Crema", "Intenso", "Ganze Bohne"]
+  },
+  {
+    "store": "billa",
+    "id": "00-428774",
+    "name": "Jacobs Caffè Crema Classico",
+    "category": "Kaffee",
+    "subcategories": ["Jacobs", "Caffè Crema", "Classico"]
+  },
+  { "store": "billa", "id": "00-58148", "name": "Jacobs Cronat Kräftig", "category": "Kaffee", "subcategories": ["Jacobs", "Cronat", "Kräftig"] },
+  { "store": "billa", "id": "00-58146", "name": "Jacobs Cronat Mild", "category": "Kaffee", "subcategories": ["Jacobs", "Cronat", "Mild"] },
+  {
+    "store": "billa",
+    "id": "00-654533",
+    "name": "Jacobs Kapsel Espresso 10 Intenso",
+    "category": "Kaffee",
+    "subcategories": ["Jacobs", "Kapsel", "Espresso", "Intenso"]
+  },
+  {
+    "store": "billa",
+    "id": "00-654525",
+    "name": "Jacobs Kapsel Lungo 6 Classico",
+    "category": "Kaffee",
+    "subcategories": ["Jacobs", "Kapsel", "Lungo", "Classico"]
+  },
+  {
+    "store": "billa",
+    "id": "00-654536",
+    "name": "Jacobs Kapsel Lungo 8 Intenso",
+    "category": "Kaffee",
+    "subcategories": ["Jacobs", "Kapsel", "Lungo", "Intenso"]
+  },
+  {
+    "store": "billa",
+    "id": "00-503440",
+    "name": "Jacobs Monarch Auslese Pads",
+    "category": "Kaffee",
+    "subcategories": ["Jacobs", "Monarch", "Auslese", "Pads"]
+  },
+  {
+    "store": "billa",
+    "id": "00-11738",
+    "name": "Jacobs Monarch Ganze Bohne",
+    "category": "Kaffee",
+    "subcategories": ["Jacobs", "Monarch", "Ganze Bohne"]
+  },
+  { "store": "billa", "id": "00-5044", "name": "Jacobs Monarch Gemahlen", "category": "Kaffee", "subcategories": ["Jacobs", "Monarch", "Gemahlen"] },
+  {
+    "store": "billa",
+    "id": "00-23220",
+    "name": "Jacobs Monarch Mild Gemahlen",
+    "category": "Kaffee",
+    "subcategories": ["Jacobs", "Monarch", "Mild", "Gemahlen"]
+  },
+  {
+    "store": "billa",
+    "id": "00-891111",
+    "name": "Jacobs Tassimo Cafe Au Lait",
+    "category": "Kaffee",
+    "subcategories": ["Jacobs", "Tassimo", "Cafe Au Lait"]
+  },
+  {
+    "store": "billa",
+    "id": "00-726495",
+    "name": "Jacobs Tassimo Cafe Hag",
+    "category": "Kaffee",
+    "subcategories": ["Jacobs", "Tassimo", "Cafe Hag"]
+  },
+  {
+    "store": "billa",
+    "id": "00-500316",
+    "name": "Jacobs Tassimo Caffe Crema",
+    "category": "Kaffee",
+    "subcategories": ["Jacobs", "Tassimo", "Caffe Crema"]
+  },
+  {
+    "store": "billa",
+    "id": "00-350113",
+    "name": "Jacobs Tassimo Caffe Crema Intenso XXL",
+    "category": "Kaffee",
+    "subcategories": ["Jacobs", "Tassimo", "Caffe Crema", "Intenso", "XXL"]
+  },
+  {
+    "store": "billa",
+    "id": "00-500318",
+    "name": "Jacobs Tassimo Cappuccino",
+    "category": "Kaffee",
+    "subcategories": ["Jacobs", "Tassimo", "Cappuccino"]
+  },
+  {
+    "store": "billa",
+    "id": "00-707605",
+    "name": "Jacobs Tassimo Chai Latte",
+    "category": "Kaffee",
+    "subcategories": ["Jacobs", "Tassimo", "Chai Latte"]
+  },
+  {
+    "store": "billa",
+    "id": "00-606123",
+    "name": "Jacobs Tassimo Crema XL",
+    "category": "Kaffee",
+    "subcategories": ["Jacobs", "Tassimo", "Crema", "XL"]
+  },
+  {
+    "store": "billa",
+    "id": "00-500317",
+    "name": "Jacobs Tassimo Espresso",
+    "category": "Kaffee",
+    "subcategories": ["Jacobs", "Tassimo", "Espresso"]
+  },
+  {
+    "store": "billa",
+    "id": "00-501463",
+    "name": "Jacobs Tassimo Latte Macchiatto",
+    "category": "Kaffee",
+    "subcategories": ["Jacobs", "Tassimo", "Latte Macchiatto"]
+  },
+  {
+    "store": "billa",
+    "id": "00-642841",
+    "name": "Jacobs Tassimo Medaille D'Or",
+    "category": "Kaffee",
+    "subcategories": ["Jacobs", "Tassimo", "Medaille D'Or"]
+  },
+  {
+    "store": "billa",
+    "id": "00-726498",
+    "name": "Jacobs Tassimo Milchkomposition",
+    "category": "Kaffee",
+    "subcategories": ["Jacobs", "Tassimo", "Milchkomposition"]
+  },
+  {
+    "store": "billa",
+    "id": "00-606128",
+    "name": "Jacobs Tassimo Milka Kakao",
+    "category": "Kaffee",
+    "subcategories": ["Jacobs", "Tassimo", "Milka", "Kakao"]
+  },
+  { "store": "billa", "id": "00-500315", "name": "Jacobs Tassimo Monarch", "category": "Kaffee", "subcategories": ["Jacobs", "Tassimo", "Monarch"] },
+  {
+    "store": "billa",
+    "id": "00-967525",
+    "name": "Jacobs Tassimo Morning Cafe",
+    "category": "Kaffee",
+    "subcategories": ["Jacobs", "Tassimo", "Morning Cafe"]
+  },
+  {
+    "store": "billa",
+    "id": "00-668835",
+    "name": "Jacobs Tassimo Toffee Nut Latte",
+    "category": "Kaffee",
+    "subcategories": ["Jacobs", "Tassimo", "Toffee Nut Latte"]
+  },
+  {
+    "store": "billa",
+    "id": "00-406786",
+    "name": "Julius Meinl Espresso Crema Inspresso Kapseln kompostierbar",
+    "category": "Kaffee",
+    "subcategories": ["Julius Meinl", "Espresso", "Crema", "Inspresso", "kompostierbar"]
+  },
+  {
+    "store": "billa",
+    "id": "00-359979",
+    "name": "Julius Meinl Espresso Inspresso Kapseln kompostierbar",
+    "category": "Kaffee",
+    "subcategories": ["Julius Meinl", "Espresso", "Inspresso", "kompostierbar"]
+  },
+  {
+    "store": "billa",
+    "id": "00-413887",
+    "name": "Julius Meinl Jubiläumsmischung Ganze Bohne",
+    "category": "Kaffee",
+    "subcategories": ["Julius Meinl", "Jubiläumsmischung", "Ganze Bohne"]
+  },
+  {
+    "store": "billa",
+    "id": "00-31196",
+    "name": "Julius Meinl Kaffee Jubiläums Mischung Gemahlen",
+    "category": "Kaffee",
+    "subcategories": ["Julius Meinl", "Kaffee", "Jubiläums Mischung", "Gemahlen"]
+  },
+  {
+    "store": "billa",
+    "id": "00-22007",
+    "name": "Julius Meinl Kaffee Präsident Gemahlen",
+    "category": "Kaffee",
+    "subcategories": ["Julius Meinl", "Kaffee", "Präsident", "Gemahlen"]
+  },
+  {
+    "store": "billa",
+    "id": "00-406802",
+    "name": "Julius Meinl Lungo Classico Inspresso Kapseln kompostierbar",
+    "category": "Kaffee",
+    "subcategories": ["Julius Meinl", "Lungo", "Classico", "Inspresso", "kompostierbar"]
+  },
+  {
+    "store": "billa",
+    "id": "00-359981",
+    "name": "Julius Meinl Lungo Inspresso Kapseln kompostierbar",
+    "category": "Kaffee",
+    "subcategories": ["Julius Meinl", "Lungo", "Inspresso", "kompostierbar"]
+  },
+  {
+    "store": "billa",
+    "id": "00-968216",
+    "name": "Julius Meinl Premium Collection Caffe Crema",
+    "category": "Kaffee",
+    "subcategories": ["Julius Meinl", "Premium Collection", "Caffe Crema"]
+  },
+  {
+    "store": "billa",
+    "id": "00-968217",
+    "name": "Julius Meinl Premium Collection Espresso",
+    "category": "Kaffee",
+    "subcategories": ["Julius Meinl", "Premium Collection", "Espresso"]
+  },
+  {
+    "store": "billa",
+    "id": "00-476254",
+    "name": "Julius Meinl Premium Collection Mokka",
+    "category": "Kaffee",
+    "subcategories": ["Julius Meinl", "Premium Collection", "Mokka"]
+  },
+  {
+    "store": "billa",
+    "id": "00-413756",
+    "name": "Julius Meinl Präsident Ganze Bohne",
+    "category": "Kaffee",
+    "subcategories": ["Julius Meinl", "Präsident", "Ganze Bohne"]
+  },
+  {
+    "store": "billa",
+    "id": "00-406800",
+    "name": "Julius Meinl Ristretto Intenso Inspresso Kapseln kompostierbar",
+    "category": "Kaffee",
+    "subcategories": ["Julius Meinl", "Ristretto", "Intenso", "Inspresso", "kompostierbar"]
+  },
+  {
+    "store": "billa",
+    "id": "00-968214",
+    "name": "Julius Meinl Trend Collection Caffe Crema Intenso",
+    "category": "Kaffee",
+    "subcategories": ["Julius Meinl", "Trend Collection", "Caffe Crema", "Intenso"]
+  },
+  {
+    "store": "billa",
+    "id": "00-968208",
+    "name": "Julius Meinl Trend Collection Espresso Classico",
+    "category": "Kaffee",
+    "subcategories": ["Julius Meinl", "Trend Collection", "Espresso", "Classico"]
+  },
+  {
+    "store": "billa",
+    "id": "00-723972",
+    "name": "Julius Meinl Vienna Espresso - Ganze Bohne",
+    "category": "Kaffee",
+    "subcategories": ["Julius Meinl", "Vienna", "Espresso", "Ganze Bohne"]
+  },
+  {
+    "store": "billa",
+    "id": "00-723970",
+    "name": "Julius Meinl Vienna Melange - Ganze Bohne",
+    "category": "Kaffee",
+    "subcategories": ["Julius Meinl", "Vienna", "Melange", "Ganze Bohne"]
+  },
+  {
+    "store": "billa",
+    "id": "00-654328",
+    "name": "L'OR Kapsel Espresso Forza",
+    "category": "Kaffee",
+    "subcategories": ["L'OR", "Kapsel", "Espresso", "Forza"]
+  },
+  {
+    "store": "billa",
+    "id": "00-654418",
+    "name": "L'OR Kapsel Espresso Ristretto",
+    "category": "Kaffee",
+    "subcategories": ["L'OR", "Kapsel", "Espresso", "Ristretto"]
+  },
+  {
+    "store": "billa",
+    "id": "00-654447",
+    "name": "L'OR Kapsel Espresso Splendente",
+    "category": "Kaffee",
+    "subcategories": ["L'OR", "Kapsel", "Espresso", "Splendente"]
+  },
+  {
+    "store": "billa",
+    "id": "00-654316",
+    "name": "L'OR Kapsel Lungo Elegante",
+    "category": "Kaffee",
+    "subcategories": ["L'OR", "Kapsel", "Lungo", "Elegante"]
+  },
+  {
+    "store": "billa",
+    "id": "00-654384",
+    "name": "L'OR Kapsel Lungo Profondo",
+    "category": "Kaffee",
+    "subcategories": ["L'OR", "Kapsel", "Lungo", "Profondo"]
+  },
+  {
+    "store": "billa",
+    "id": "00-596519",
+    "name": "Lavazza Barista Caffè Crema Delicato - ganze Bohne",
+    "category": "Kaffee",
+    "subcategories": ["Lavazza", "Barista", "Caffè Crema", "Delicato", "Ganze Bohne"]
+  },
+  {
+    "store": "billa",
+    "id": "00-906453",
+    "name": "Lavazza Barista Gran Crema",
+    "category": "Kaffee",
+    "subcategories": ["Lavazza", "Barista", "Gran Crema"]
+  },
+  {
+    "store": "billa",
+    "id": "00-292574",
+    "name": "Lavazza Caffe Crema Classico Pads",
+    "category": "Kaffee",
+    "subcategories": ["Lavazza", "Caffe Crema", "Classico", "Pads"]
+  },
+  {
+    "store": "billa",
+    "id": "00-414204",
+    "name": "Lavazza Caffe Crema Ganze Bohne",
+    "category": "Kaffee",
+    "subcategories": ["Lavazza", "Caffe Crema", "Ganze Bohne"]
+  },
+  {
+    "store": "billa",
+    "id": "00-937953",
+    "name": "Lavazza Caffè Crema Classico",
+    "category": "Kaffee",
+    "subcategories": ["Lavazza", "Caffè Crema", "Classico"]
+  },
+  { "store": "billa", "id": "00-630177", "name": "Lavazza Crema e Aroma", "category": "Kaffee", "subcategories": ["Lavazza", "Crema", "Aroma"] },
+  {
+    "store": "billa",
+    "id": "00-292581",
+    "name": "Lavazza Crema e Aroma Pads",
+    "category": "Kaffee",
+    "subcategories": ["Lavazza", "Crema", "Aroma", "Pads"]
+  },
+  {
+    "store": "billa",
+    "id": "00-4211",
+    "name": "Lavazza Crema e Gusto Gemahlen",
+    "category": "Kaffee",
+    "subcategories": ["Lavazza", "Crema", "Gusto", "Gemahlen"]
+  },
+  {
+    "store": "billa",
+    "id": "00-378097",
+    "name": "Lavazza Espresso Barista Intenso",
+    "category": "Kaffee",
+    "subcategories": ["Lavazza", "Espresso", "Barista", "Intenso"]
+  },
+  {
+    "store": "billa",
+    "id": "00-292584",
+    "name": "Lavazza Espresso Cremoso Pads",
+    "category": "Kaffee",
+    "subcategories": ["Lavazza", "Espresso", "Cremoso", "Pads"]
+  },
+  {
+    "store": "billa",
+    "id": "00-378095",
+    "name": "Lavazza Espresso Italiano Aromatico",
+    "category": "Kaffee",
+    "subcategories": ["Lavazza", "Espresso", "Italiano", "Aromatico"]
+  },
+  {
+    "store": "billa",
+    "id": "00-875385",
+    "name": "Lavazza Espresso Italiano Classico",
+    "category": "Kaffee",
+    "subcategories": ["Lavazza", "Espresso", "Italiano", "Classico"]
+  },
+  {
+    "store": "billa",
+    "id": "00-428624",
+    "name": "Lavazza Espresso Italiano Cremoso Ganze Bohne",
+    "category": "Kaffee",
+    "subcategories": ["Lavazza", "Espresso", "Italiano", "Cremoso", "Ganze Bohne"]
+  },
+  {
+    "store": "billa",
+    "id": "00-521712",
+    "name": "Lavazza Espresso Maestro Classico Kapseln 10er",
+    "category": "Kaffee",
+    "subcategories": ["Lavazza", "Espresso", "Maestro", "Classico", "Kapseln", "10er"]
+  },
+  {
+    "store": "billa",
+    "id": "00-596660",
+    "name": "Lavazza Espresso Maestro Classico Kapseln 30er",
+    "category": "Kaffee",
+    "subcategories": ["Lavazza", "Espresso", "Maestro", "Classico", "Kapseln", "30er"]
+  },
+  {
+    "store": "billa",
+    "id": "00-521717",
+    "name": "Lavazza Espresso Maestro Lungo Kapseln 10er",
+    "category": "Kaffee",
+    "subcategories": ["Lavazza", "Espresso", "Maestro", "Lungo", "Kapseln", "10er"]
+  },
+  {
+    "store": "billa",
+    "id": "00-521719",
+    "name": "Lavazza Espresso Maestro Ristretto Kapseln 10er",
+    "category": "Kaffee",
+    "subcategories": ["Lavazza", "Espresso", "Maestro", "Ristretto", "Kapseln", "10er"]
+  },
+  {
+    "store": "billa",
+    "id": "00-596662",
+    "name": "Lavazza Espresso Maestro Ristretto Kapseln 30er",
+    "category": "Kaffee",
+    "subcategories": ["Lavazza", "Espresso", "Maestro", "Ristretto", "Kapseln", "30er"]
+  },
+  {
+    "store": "billa",
+    "id": "00-489785",
+    "name": "Lavazza ¡Tierra! for Africa - Ganze Bohne",
+    "category": "Kaffee",
+    "subcategories": ["Lavazza", "¡Tierra!", "for Africa", "Ganze Bohne"]
+  },
+  {
+    "store": "billa",
+    "id": "00-701558",
+    "name": "Lavazza ¡Tierra! for Africa Kapseln 10er",
+    "category": "Kaffee",
+    "subcategories": ["Lavazza", "¡Tierra!", "for Africa", "Kapseln", "10er"]
+  },
+  {
+    "store": "billa",
+    "id": "00-701563",
+    "name": "Lavazza ¡Tierra! for Africa gemahlen",
+    "category": "Kaffee",
+    "subcategories": ["Lavazza", "¡Tierra!", "for Africa", "gemahlen"]
+  },
+  {
+    "store": "billa",
+    "id": "00-489801",
+    "name": "Lavazza ¡Tierra! for Amazonia - Ganze Bohne",
+    "category": "Kaffee",
+    "subcategories": ["Lavazza", "¡Tierra!", "for Amazonia", "Ganze Bohne"]
+  },
+  {
+    "store": "billa",
+    "id": "00-930685",
+    "name": "Lavazza ¡Tierra! for Planet",
+    "category": "Kaffee",
+    "subcategories": ["Lavazza", "¡Tierra!", "for Planet"]
+  },
+  {
+    "store": "billa",
+    "id": "00-701560",
+    "name": "Lavazza ¡Tierra! for Planet Kapseln 10er",
+    "category": "Kaffee",
+    "subcategories": ["Lavazza", "¡Tierra!", "for Planet", "Kapseln", "10er"]
+  },
+  {
+    "store": "billa",
+    "id": "00-701567",
+    "name": "Lavazza ¡Tierra! for Planet gemahlen",
+    "category": "Kaffee",
+    "subcategories": ["Lavazza", "¡Tierra!", "for Planet", "gemahlen"]
+  },
+  { "store": "billa", "id": "00-58265", "name": "Linde Mischung", "category": "Kaffee", "subcategories": ["Linde", "Mischung"] },
+  {
+    "store": "billa",
+    "id": "00-385114",
+    "name": "Maresi Vienna Eiskaffee Classic",
+    "category": "Kaffee",
+    "subcategories": ["Maresi", "Vienna", "Eiskaffee", "Classic"]
+  },
+  {
+    "store": "billa",
+    "id": "00-389402",
+    "name": "Maresi Vienna Eiskaffee Latte",
+    "category": "Kaffee",
+    "subcategories": ["Maresi", "Vienna", "Eiskaffee", "Latte"]
+  },
+  {
+    "store": "billa",
+    "id": "00-389403",
+    "name": "Maresi Vienna Eiskaffee Vanilla",
+    "category": "Kaffee",
+    "subcategories": ["Maresi", "Vienna", "Eiskaffee", "Vanilla"]
+  },
+  { "store": "billa", "id": "00-292073", "name": "Maxwell Cappuccino", "category": "Kaffee", "subcategories": ["Maxwell", "Cappuccino"] },
+  { "store": "billa", "id": "00-352512", "name": "Meßmer Bio Blutorange", "category": "Tee", "subcategories": ["Meßmer", "Bio", "Blutorange"] },
+  {
+    "store": "billa",
+    "id": "00-352543",
+    "name": "Meßmer Bio Fruchtiges Beerchen",
+    "category": "Tee",
+    "subcategories": ["Meßmer", "Bio", "Fruchtiges Beerchen"]
+  },
+  {
+    "store": "billa",
+    "id": "00-352563",
+    "name": "Meßmer Bio Orange Ingwer",
+    "category": "Tee",
+    "subcategories": ["Meßmer", "Bio", "Orange", "Ingwer"]
+  },
+  { "store": "billa", "id": "00-266857", "name": "Minas Cafe Gemahlen", "category": "Kaffee", "subcategories": ["Minas", "Cafe", "Gemahlen"] },
+  {
+    "store": "billa",
+    "id": "00-857954",
+    "name": "Naber Kaffee Exquisit - Gemahlen",
+    "category": "Kaffee",
+    "subcategories": ["Naber", "Kaffee", "Exquisit", "Gemahlen"]
+  },
+  { "store": "billa", "id": "00-692377", "name": "Nescafé 3in1", "category": "Kaffee", "subcategories": ["Nescafé", "3in1"] },
+  {
+    "store": "billa",
+    "id": "00-701582",
+    "name": "Nescafé Africa Ristretto Kapseln",
+    "category": "Kaffee",
+    "subcategories": ["Nescafé", "Africa", "Ristretto", "Kapseln"]
+  },
+  {
+    "store": "billa",
+    "id": "00-701580",
+    "name": "Nescafé Americas Lungo Kapseln",
+    "category": "Kaffee",
+    "subcategories": ["Nescafé", "Americas", "Lungo", "Kapseln"]
+  },
+  {
+    "store": "billa",
+    "id": "00-701584",
+    "name": "Nescafé Brazil Lungo Kapseln",
+    "category": "Kaffee",
+    "subcategories": ["Nescafé", "Brazil", "Lungo", "Kapseln"]
+  },
+  {
+    "store": "billa",
+    "id": "00-481211",
+    "name": "Nescafé Classic Black Roast",
+    "category": "Kaffee",
+    "subcategories": ["Nescafé", "Classic", "Black Roast"]
+  },
+  { "store": "billa", "id": "00-875234", "name": "Nescafé Classic Crema", "category": "Kaffee", "subcategories": ["Nescafé", "Classic", "Crema"] },
+  { "store": "billa", "id": "00-58225", "name": "Nescafé Classic Kräftig", "category": "Kaffee", "subcategories": ["Nescafé", "Classic", "Kräftig"] },
+  { "store": "billa", "id": "00-58221", "name": "Nescafé Classic Mild", "category": "Kaffee", "subcategories": ["Nescafé", "Classic", "Mild"] }
+]
