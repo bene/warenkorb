@@ -1,0 +1,17 @@
+{
+  "name": "@warenkorn/mono",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "pnpm --parallel --filter './apps/**' run dev",
+    "fmt": "prettier --write ."
+  },
+  "dependencies": {
+    "prettier": "^3.0.0",
+    "prettier-plugin-tailwindcss": "^0.4.1"
+  },
+  "prettier": {
+    "plugins": [
+      "prettier-plugin-tailwindcss"
+    ]
+  }
+}
