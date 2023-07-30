@@ -1,6 +1,4 @@
-Die folgende JSON-Liste beschreibt Lebensmittelprodukte in österreichischen Supermärkten im JSON-Format. Verwenden Sie das "name"-Feld, um eine Kategorie und Unterkategorien zu generieren. Fügen Sie jedem Produkt ein Feld hinzu, das die Kategorie für das jeweilige Produkt in einem Wort beschreibt. Fügen Sie auch eine Liste von Unterkategorien hinzu, die die Kategorie für jedes einzelne Produkt weiter aufschlüsseln. Diese können Synonyme für die Kategorie oder Suchbegriffe sein, die nicht im Namen des Produkts enthalten sind. Die Kategorien sollten für ähnliche Produkte wiederverwendet werden. Die Kategorie sollte auf Deutsch sein. 
 
-Liste:
 
 [{"store":"spar","id":"2020004601933","name":"Schweppes Weißer Pfirsich"},
 {"store":"spar","id":"2020004592491","name":"Schweppes Wild Berry Zero"},

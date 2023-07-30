@@ -1,4 +1,4 @@
-The modified JSON list with the added fields would look like this:
+
 
 [{"store":"spar","id":"4631842","name":"Ölz Weizenmischbrot","category":"Brot","subcategories":["Mischbrot","Weizenbrot"]},
 {"store":"spar","id":"6896027","name":"Ölz Weißbrot","category":"Brot","subcategories":["Weißbrot"]},

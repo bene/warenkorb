@@ -1,4 +1,4 @@
-Here is the modified JSON list with the added fields:
+
 
 [
   {"store":"spar","id":"2020002783600","name":"SPAR Natur*pur Bio-Skyr Natur","category":"Joghurt","subcategories":["Natur","Bio","Skyr"]},
@@ -103,4 +103,3 @@ Here is the modified JSON list with the added fields:
   {"store":"spar","id":"2020003612084","name":"OATLY Aufstrich Gurke & Knoblauch","category":"Brotaufstrich","subcategories":["Aufstrich","Gurke","Knoblauch"]}
 ]
 
-Note: The categories and subcategories are in German.

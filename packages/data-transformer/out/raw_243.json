@@ -1,6 +1,4 @@
-Die JSON-Liste beschreibt verschiedene Lebensmittelprodukte in österreichischen Supermärkten. Der Name des Produkts wird verwendet, um Kategorien und Unterkategorien zu generieren. Ein Feld wird zu jedem Produkt hinzugefügt, um die Kategorie in einem Wort zu beschreiben. Außerdem wird eine Liste von Unterkategorien hinzugefügt, die die Kategorie für jedes einzelne Produkt weiter aufschlüsseln. Diese können Synonyme oder Suchbegriffe sein, die nicht im Namen enthalten sind, um das Produkt zu finden. Die Kategorien sollten für ähnliche Produkte wiederverwendet werden. Die Kategorie sollte auf Deutsch sein.
 
-Die Liste lautet wie folgt:
 [{"store":"spar","id":"2020001858385","name":"Splendid nature Flaschenbürste mit Naturborsten 1 Stk", "category": "Haushaltswaren", "subcategories": ["Bürste", "Reinigung"]},
 {"store":"spar","id":"4411420","name":"Splendid nature Geschirrspülmittel Konzentrat Grüner Tee Duft 500 ml", "category": "Haushaltswaren", "subcategories": ["Geschirrspüler", "Reinigungsmittel"]},
 {"store":"spar","id":"2652504","name":"Splendid nature Glasreiniger Spiritus 750ml", "category": "Haushaltswaren", "subcategories": ["Reiniger", "Glas"]},

@@ -1,4 +1,4 @@
-Here is the modified JSON list with the added category and subcategory fields:
+
 
 [
 {"store":"spar","id":"2020000747154","name":"Küchenbrüder Veganer Süsskartoffel Eintopf","category":"Suppen","subcategories":["Eintopf", "Vegan"]},

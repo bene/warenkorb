@@ -1,4 +1,4 @@
-Die Liste der Lebensmittelprodukte in österreichischen Supermärkten im JSON-Format wird wie folgt ergänzt:
+
 
 [{"store":"spar",
  "id":"6087982",
@@ -150,8 +150,7 @@ Die Liste der Lebensmittelprodukte in österreichischen Supermärkten im JSON-Fo
   "category":"Wein",
   "subcategories":["Rotwein", "Spanien", "Rioja"]},
   
- ...
- 
+
  {"store":"spar",
   "id":"2020004060203",
   "name":"Eskimo Calippo Melone",

@@ -1,4 +1,3 @@
-Here is the modified JSON list with the added category field and list of subcategories for each product:
 
 [
   {"store":"billa","id":"00-308188","name":"Fruchtbar Quetsche Apfel-Birne-Traube","category":"Obst","subcategories":["Frucht","Quetsche","Apfel","Birne","Traube"]},
@@ -85,5 +84,3 @@ Here is the modified JSON list with the added category field and list of subcate
   {"store":"billa","id":"00-549411","name":"Hipp mit Kartoffel-Kürbis Gemüse und Bio-Huhn","category":"Gemüse","subcategories":["Kartoffel-Kürbis Gemüse","Bio-Huhn"]},
   {"store":"billa","id":"00-611755","name":"Hipp Äpfel mit Bananen Vorteilsglas","category":"Obst","subcategories":["Äpfel","Bananen"]}
 ]
-
-Jetzt enthalten die Produkte ein Feld, das die Kategorie in einem einzigen Wort beschreibt, sowie eine Liste von Unterkategorien, die die Kategorie für jedes einzelne Produkt aufschlüsseln.

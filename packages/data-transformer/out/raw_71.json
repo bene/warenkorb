@@ -1,6 +1,4 @@
-Here is the modified JSON list with the added fields describing the category and subcategories for each product in German:
 
-```
 [
   {
     "store": "billa",
@@ -703,6 +701,3 @@ Here is the modified JSON list with the added fields describing the category and
     "subcategories": ["Huhn", "Pikant"]
   }
 ]
-```
-
-Note: Due to the large number of items in the list, I have only provided a portion of the modified JSON. The complete list contains all the products with their respective categories and subcategories.

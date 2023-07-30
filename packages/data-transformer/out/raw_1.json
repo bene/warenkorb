@@ -1,6 +1,3 @@
-The updated JSON list with additional fields describing the category and subcategories for each product is as follows:
-
-```
 [
   {
     "store": "hofer",
@@ -703,6 +700,3 @@ The updated JSON list with additional fields describing the category and subcate
     "subcategories": ["Basilikum"]
   }
 ]
-```
-
-Please note that the categories and subcategories have been translated into German as requested.

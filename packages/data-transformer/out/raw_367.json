@@ -1,6 +1,4 @@
-The JSON list will describe grocery products in Austrian supermarkets in a JSON format. Each product will have a category and subcategories based on the name field. A field will also be added to each product to describe the category in one word. Additionally, a list of subcategories will be included that breaks down the category for each individual product. These subcategories can be synonyms or search terms not in the name to find the product. The categories will be in German and will be reused for similar products.
 
-Here is the modified JSON list with the added fields:
 
 [{"store":"spar","id":"2020004725042","name":"GEFU Hobel Gemüse- und Kartoffelhobel","category":"Hobel","subcategories":["Gemüsehobel", "Kartoffelhobel"]},
 {"store":"spar","id":"2020004731593","name":"GEFU Kartoffel- und Spätzlepresse Presco","category":"Presse","subcategories":["Kartoffelpresse", "Spätzlepresse"]},

@@ -1,4 +1,4 @@
-The updated JSON list with categories and subcategories for each product is as follows:
+
 
 [
   {
@@ -84,8 +84,6 @@ The updated JSON list with categories and subcategories for each product is as f
     "name": "SPAR Natur*pur Bio-Cashewkerne",
     "category": "Nüsse",
     "subcategories": ["Cashewkerne"]
-  },
-...
+  }
 ]
 
-Note: Categories like "Chips" and "Nüsse" are used to group similar products together. The subcategories are provided as synonyms or search terms for a more specific description of the product.

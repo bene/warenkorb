@@ -1,6 +1,4 @@
-The updated JSON list with the added fields would look like this:
 
-```json
 [
   {
     "store": "hofer",
@@ -71,9 +69,5 @@ The updated JSON list with the added fields would look like this:
     "name": "BIO NATURA Garnelen Crevettes 80g",
     "category": "Fisch",
     "subcategories": ["Garnelen", "Crevettes"]
-  },
-  ...
+  }
 ]
-```
-
-Note: I have added categories and subcategories based on my understanding of the products. The actual categories and subcategories may vary according to the context and domain knowledge.

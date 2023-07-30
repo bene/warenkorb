@@ -1,4 +1,4 @@
-Here is the updated JSON list with the added fields:
+
 
 [
 {"store":"billa","id":"00-684375","name":"BILLA Pestostangerl","category":"Gebäck","subcategories":["Brot","Stangenbrot","Pesto"]},
@@ -102,5 +102,3 @@ Here is the updated JSON list with the added fields:
 {"store":"billa","id":"00-242604","name":"Ursonne Sesam","category":"Brot","subcategories":["Ursonne","Sesam"]},
 {"store":"billa","id":"00-439747","name":"Vollkornbrot","category":"Brot","subcategories":["Vollkornbrot"]}
 ]
-
-Note: The categories and subcategories are provided based on the available information. The category names and subcategory groupings may vary based on individual interpretation and preference.

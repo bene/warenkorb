@@ -99,6 +99,3 @@
 {"store":"spar","id":"8208774","name":"Kelly's Zirkus Räder Paprika Style", "category":"Snacks", "subcategories":["Chips"]},
 {"store":"spar","id":"2020003968914","name":"Kinder Delice", "category":"Süßigkeiten", "subcategories":["Kinder"]}]
 
-Note:
-- The categories "Gewürze", "Getreideprodukte", "Soßen", "Speiseöle", "Snacks", and "Süßigkeiten" are generated based on the name field.
-- The subcategories are generated based on the name field, but there can be multiple subcategories for each product.
