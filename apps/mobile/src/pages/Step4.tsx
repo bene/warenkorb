@@ -20,7 +20,6 @@ export function Step4() {
             }}
             className="h-full w-full rounded-2xl"
             resizeMode={ResizeMode.COVER}
-            isLooping
             isMuted
             useNativeControls
             shouldPlay
