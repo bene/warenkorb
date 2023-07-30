@@ -14,9 +14,10 @@ for (let i = 0; i <= 387; i++) {
 
     const jsonData = JSON.parse(fs.readFileSync(path + file, "utf-8"));
     combinedData.push(...jsonData);
-    const outputFilePath = path+ outputFile;
-    fs.writeFileSync(outputFilePath, JSON.stringify(combinedData, null, 2));
 
-}
+};
+
+const outputFilePath = path+ outputFile;
+fs.writeFileSync(outputFilePath, JSON.stringify(combinedData, null, 2));
 
 
