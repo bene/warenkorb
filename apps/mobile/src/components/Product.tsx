@@ -1,4 +1,5 @@
-import { View, Text } from "react-native";
+import { View, Text, Image } from "react-native";
+import Backpulver from "../../assets/Backpulver.jpg";
 
 export function Product({ name, amount }: { name: string; amount: string }) {
   return (

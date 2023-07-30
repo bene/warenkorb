@@ -35,7 +35,7 @@ export function Step2() {
             <View className="flex flex-row items-center">
               <Image
                 source={store.icon}
-                style={{ height: 50, width: 40 }}
+                style={{ height: store.name === "billa" ? 22 : 50, width: 40 }}
                 className="mr-5"
               />
               <View>
