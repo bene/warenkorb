@@ -28,12 +28,12 @@ export function Step3() {
           subtitle="Most important groceries"
           classes="bg-sky-200 border-sky-400"
         />
-        <ShoppingList name="Party" subtitle="Snacks & beverages" />
+        <ShoppingList name="Party" subtitle="Snacks & Beverages" />
         <ShoppingList name="Baking" subtitle="Cupcakes" />
         <ShoppingList name="Christmas" subtitle="Turkey" />
         <ShoppingList
-          name="Breakfast"
-          subtitle="4 people"
+          name="Healthy Breakfast"
+          subtitle="4 People"
           classes="bg-emerald-200 border-emerald-400"
         />
       </Page>
