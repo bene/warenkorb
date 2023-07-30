@@ -15,8 +15,8 @@ export function Stepper({
         <Fragment key={i}>
           <View
             className={twMerge(
-              "flex h-8 items-center justify-center rounded-md border-2 border-sky-500 bg-sky-100 pl-3 pr-3",
-              currentIndex >= i && "bg-sky-500",
+              "flex h-8 items-center justify-center rounded-full border-2 border-zinc-800 bg-zinc-100 pl-3 pr-3",
+              currentIndex >= i && "bg-zinc-800",
             )}
           >
             <Text className={twMerge(currentIndex >= i && "text-white")}>
@@ -24,7 +24,7 @@ export function Stepper({
             </Text>
           </View>
           {i !== steps.length - 1 && (
-            <View className="w-3 border-b-2 border-sky-500" />
+            <View className="w-3 border-b-2 border-zinc-500" />
           )}
         </Fragment>
       ))}

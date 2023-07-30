@@ -16,7 +16,7 @@ export function Step2() {
         {stores.map((store) => (
           <TouchableOpacity
             key={store.name}
-            activeOpacity={0.7}
+            activeOpacity={0.9}
             onPress={() => {
               if (selectedStores.includes(store.name)) {
                 setSelectedStores(
@@ -27,9 +27,9 @@ export function Step2() {
               }
             }}
             className={twMerge(
-              "mb-4 w-full rounded-md border-2 border-sky-400 p-2 pl-4",
+              "mb-4 w-full rounded-md border-2 border-zinc-400 bg-zinc-100 p-2 pl-4",
               selectedStores.includes(store.name) &&
-                "border-sky-400 bg-sky-300",
+                "border-emerald-400 bg-emerald-200",
             )}
           >
             <View className="flex flex-row items-center">

@@ -10,10 +10,12 @@ export function Page({
 
   return (
     <View className="relative h-max p-4">
-      <Stepper
-        currentIndex={currentStep}
-        steps={["Stores", "My Lists", "Products", "Overview"]}
-      />
+      {currentStep !== -1 && (
+        <Stepper
+          currentIndex={currentStep}
+          steps={["Stores", "My Lists", "Products", "Overview"]}
+        />
+      )}
       <View className="flex">{children}</View>
     </View>
   );

@@ -6,6 +6,7 @@ import { createNativeStackNavigator } from "@react-navigation/native-stack";
 import { Step1 } from "./pages/Step1";
 import { Step2 } from "./pages/Step2";
 import { Step3 } from "./pages/Step3";
+import { Home } from "./pages/Home";
 
 const Stack = createNativeStackNavigator();
 
@@ -13,12 +14,17 @@ export default function App() {
   return (
     <NavigationContainer>
       <Stack.Navigator
-        initialRouteName="Step1"
+        initialRouteName="Home"
         screenOptions={{
           contentStyle: { backgroundColor: "#fff" },
         }}
       >
         <Stack.Group>
+          <Stack.Screen
+            name="Home"
+            component={Home}
+            options={{ title: "warenkorb.at" }}
+          />
           <Stack.Screen
             name="Step1"
             component={Step1}
