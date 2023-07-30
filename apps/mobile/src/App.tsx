@@ -7,6 +7,7 @@ import { Step1 } from "./pages/Step1";
 import { Step2 } from "./pages/Step2";
 import { Step3 } from "./pages/Step3";
 import { Home } from "./pages/Home";
+import { Step4 } from "./pages/Step4";
 
 const Stack = createNativeStackNavigator();
 
@@ -40,6 +41,13 @@ export default function App() {
           <Stack.Screen
             name="Step3"
             component={Step3}
+            options={{
+              title: "warenkorb.at",
+            }}
+          />
+          <Stack.Screen
+            name="Step4"
+            component={Step4}
             options={{
               title: "warenkorb.at",
             }}
