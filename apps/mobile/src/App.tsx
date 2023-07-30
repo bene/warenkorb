@@ -20,6 +20,7 @@ export default function App() {
         initialRouteName="Home"
         screenOptions={{
           contentStyle: { backgroundColor: "#fff" },
+          headerBackTitle: "Back",
         }}
       >
         <Stack.Group>
