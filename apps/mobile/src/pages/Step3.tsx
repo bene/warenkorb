@@ -3,7 +3,8 @@ import { ContinueButton } from "../components/ContinueButton";
 import { Page } from "../components/Page";
 import { ShoppingList } from "../components/ShoppingList";
 import { TouchableOpacity, Text, View, Image } from "react-native";
-import Scan from "../../assets/scanner.png";
+import Scan from "../../assets/barcode-scanner.png";
+import Plus from "../../assets/plus.png";
 
 export function Step3() {
   const nav = useNavigation<any>();
@@ -16,10 +17,10 @@ export function Step3() {
             activeOpacity={0.9}
             onPress={() => nav.navigate("Step4")}
           >
-            <Image source={Scan} />
+            <Image source={Scan} style={{ height: 25, width: 25 }} />
           </TouchableOpacity>
           <TouchableOpacity activeOpacity={0.9}>
-            <Text>+</Text>
+            <Image source={Plus} style={{ height: 25, width: 25 }} />
           </TouchableOpacity>
         </View>
         <ShoppingList
