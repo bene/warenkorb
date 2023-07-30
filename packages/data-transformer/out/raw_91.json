@@ -1,5 +1,4 @@
-{
-  "products": [
+[
     {
       "store": "billa",
       "id": "00-409999",
@@ -724,4 +723,4 @@
       "subcategories": ["Tortilla-Chips", "Salz"]
     }
   ]
-}
+
