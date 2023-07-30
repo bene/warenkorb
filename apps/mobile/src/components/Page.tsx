@@ -9,7 +9,7 @@ export function Page({
   const nav = useNavigation<any>();
 
   return (
-    <View className="relative h-max p-4 pt-10">
+    <View className="relative h-max p-4">
       <Stepper
         currentIndex={currentStep}
         steps={["Stores", "My Lists", "Products", "Overview"]}
