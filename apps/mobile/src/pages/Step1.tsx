@@ -1,45 +1,21 @@
+import { useNavigation } from "@react-navigation/native";
 import { useState } from "react";
-import { Button, Text, TouchableHighlight, View } from "react-native";
+import { Image, Text, TouchableOpacity, View } from "react-native";
 import { twMerge } from "tailwind-merge";
-import { Stepper } from "./Stepper";
-
-const stores = [
-  {
-    name: "billa",
-    label: "BILLA",
-  },
-  {
-    name: "spar",
-    label: "Spar",
-  },
-  {
-    name: "hofer",
-    label: "Hofer",
-  },
-  {
-    name: "penny",
-    label: "Penny",
-  },
-  {
-    name: "lidl",
-    label: "Lidl",
-  },
-];
+import { Page } from "../components/Page";
+import { stores } from "../util/storeData";
 
 export function Step1() {
+  const nav = useNavigation<any>();
   const [selectedStores, setSelectedStores] = useState<string[]>([]);
 
   return (
-    <View className="flex flex-1 items-center justify-center p-8">
-      <Text className="mb-12 text-center text-3xl font-bold">
-        Wähle Märkte
-        {"\n"}
-        in deiner Nähe aus.
-      </Text>
-      <View className="flex flex-row flex-wrap justify-center gap-2">
+    <>
+      <Page currentStep={0}>
         {stores.map((store) => (
-          <TouchableHighlight
+          <TouchableOpacity
             key={store.name}
+            activeOpacity={0.7}
             onPress={() => {
               if (selectedStores.includes(store.name)) {
                 setSelectedStores(
@@ -50,29 +26,40 @@ export function Step1() {
               }
             }}
             className={twMerge(
-              "rounded-full border-2 px-4 py-2",
-              selectedStores.includes(store.name) && "bg-black",
+              "mb-4 w-full rounded-md border-2 border-sky-500 p-2 pl-4",
+              selectedStores.includes(store.name) &&
+                "border-sky-300 bg-sky-300",
             )}
           >
-            <Text
-              className={twMerge(
-                "text-lg",
-                selectedStores.includes(store.name) && "text-white",
-              )}
-            >
-              {store.label.toUpperCase()}
-            </Text>
-          </TouchableHighlight>
+            <View className="flex flex-row items-center">
+              <Image
+                source={store.icon}
+                style={{ height: 50, width: 40 }}
+                className="mr-5"
+              />
+              <View>
+                <Text className={"text-2xl"}>{store.label}</Text>
+                <Text className="text-gray-500">
+                  Distance to next store: {store.distance} km
+                </Text>
+              </View>
+            </View>
+          </TouchableOpacity>
         ))}
-      </View>
-
-      <View className="mt-12">
-        <Stepper currentIndex={0} steps={3} />
-      </View>
-
-      <View className="mt-12">
-        <Button title="Weiter" onPress={() => {}} />
-      </View>
-    </View>
+      </Page>
+      <TouchableOpacity
+        className={twMerge(
+          " absolute bottom-0 left-0 right-0 m-4 mb-6 flex items-center justify-center rounded-md bg-sky-500 p-3",
+          selectedStores.length === 0 && "bg-gray-400 ",
+        )}
+        onPress={() => {
+          selectedStores.length > 0 && nav.navigate("Step2");
+        }}
+      >
+        <Text className="font-medium tracking-widest text-white">
+          {selectedStores.length} Supermärkte ausgewählt
+        </Text>
+      </TouchableOpacity>
+    </>
   );
 }
