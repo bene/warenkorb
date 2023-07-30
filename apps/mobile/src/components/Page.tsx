@@ -10,14 +10,14 @@ export function Page({
   const nav = useNavigation<any>();
 
   return (
-    <View className="relative h-max p-4">
+    <View className="relative h-max flex-1 p-4">
       {currentStep !== -1 && (
         <Stepper
           currentIndex={currentStep}
           steps={steps || ["Stores", "My Lists", "Products", "Overview"]}
         />
       )}
-      <View className="flex">{children}</View>
+      <View className="flex flex-1">{children}</View>
     </View>
   );
 }

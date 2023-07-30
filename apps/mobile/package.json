@@ -8,6 +8,7 @@
     "dev:ios": "expo start --ios"
   },
   "dependencies": {
+    "@react-native-community/slider": "4.4.2",
     "@react-navigation/native": "^6.1.7",
     "@react-navigation/native-stack": "^6.9.13",
     "expo": "~49.0.5",
@@ -15,7 +16,7 @@
     "nativewind": "^2.0.11",
     "react": "18.2.0",
     "react-native": "0.72.3",
-    "@react-native-community/slider": "4.4.2",
+    "react-native-svg": "^13.10.0",
     "react-native-vector-icons": "10.0.0",
     "tailwind-merge": "^1.14.0"
   },
