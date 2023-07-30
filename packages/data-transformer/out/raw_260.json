@@ -1,6 +1,4 @@
-The updated JSON list with the added fields for category and subcategories would be as follows:
 
-```json
 [
   {"store": "spar", "id": "2020003679513", "name": "Vivanco Data Cable USB Typce-C to Lightning", "category": "Kabel", "subcategories": ["Datenkabel", "USB-Kabel"]},
   {"store": "spar", "id": "2020003674303", "name": "Vivanco Data Cable USB to Micro-USB", "category": "Kabel", "subcategories": ["Datenkabel", "USB-Kabel"]},
@@ -103,6 +101,3 @@ The updated JSON list with the added fields for category and subcategories would
   {"store": "spar", "id": "2020002593575", "name": "Yutaka Panko Brösel", "category": "Lebensmittel", "subcategories": ["Brotbrösel"]},
   {"store": "spar", "id": "2020004632951", "name": "Voelkel 100% Direktsaft Apfel Mango", "category": "Getränke", "subcategories": ["Fruchtsaft"]}
 ]
-```
-
-Note: I have added the "category" field and the "subcategories" field to each product in the list. The category field represents the category of the product in German, and the subcategories field represents a list of subcategories or search terms related to the product. These fields provide additional information to easily categorize and search for the products.

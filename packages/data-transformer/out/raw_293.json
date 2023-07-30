@@ -1,4 +1,4 @@
-Here is the updated JSON list with the added fields:
+
 
 [
   {
@@ -70,8 +70,6 @@ Here is the updated JSON list with the added fields:
     "name":"Iglo Strudelteig gezogen",
     "category": "Bäckerei",
     "subcategories": ["Strudelteig"]
-  },
-  // Rest of the products...
+  }
 ]
 
-Note: The categories and subcategories are just placeholders. Please replace them with the appropriate category and subcategory names in German.

@@ -1,5 +1,3 @@
-Here is the modified JSON list with the added fields:
-
 [
   {
     "store": "billa",
@@ -695,5 +693,3 @@ Here is the modified JSON list with the added fields:
     "subcategories": ["Paprika-Käse-Stangerl"]
   }
 ]
-
-The "category" field represents the category of the specific product, and the "subcategories" field provides a list of subcategories that further categorize the product.

@@ -1,4 +1,3 @@
-The JSON list describes grocery products in Austrian supermarkets. To generate a category and subcategories, we can use the "name" field. Here is an updated version of the JSON list with the added fields:
 
 [
   {

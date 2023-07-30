@@ -1,4 +1,5 @@
-{"store": "spar", "id": "6358495", "name": "SPAR Käseplatte Österreich - groß 800g", "category": "Käse", "subcategories": ["Österreich"]},
+
+[{"store": "spar", "id": "6358495", "name": "SPAR Käseplatte Österreich - groß 800g", "category": "Käse", "subcategories": ["Österreich"]},
 {"store": "spar", "id": "6200862", "name": "SPAR Käseplatte Österreich - klein 400g", "category": "Käse", "subcategories": ["Österreich"]},
 {"store": "spar", "id": "2020004369109", "name": "SPAR Langkorn Wildreis Mischung Wildreismischung", "category": "Reis", "subcategories": ["Langkorn", "Wildreismischung"]},
 {"store": "spar", "id": "3130506", "name": "SPAR Bratensaft 6 Stück", "category": "Soße", "subcategories": ["Bratensaft"]},

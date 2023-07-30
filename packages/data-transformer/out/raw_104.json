@@ -99,12 +99,3 @@
 {"store": "billa", "id": "00-4018", "name": "Labello Med Protection", "category": "Lippenpflege", "subcategories": ["Lippenpflege", "medizinisch"]}, 
 {"store": "billa", "id": "00-731036", "name": "Lavera Basis Sensitiv Anti-Falten Creme Q10", "category": "Hautpflege", "subcategories": ["Anti-Falten Creme", "Q10"]}]
 
-Explanation:
-I have added two fields to each product: "category" and "subcategories". The "category" field describes the product category in one word in German. The "subcategories" field is a list that breaks down the category for each individual product. These subcategories can be synonyms to the category or search terms that are not in the name to find the product. 
-
-Here are a few examples:
-1. The product "Syoss Keratin Shampoo" falls under the category "Haarpflege" (Haircare) and the subcategories are "Shampoo" and "Keratin".
-2. The product "Got2b Kleber Styling Gel" falls under the category "Haarpflege" (Haircare) and the subcategory is "Kleber" (Glue).
-3. The product "Hansaplast Classic 1mx6cm" falls under the category "Erste Hilfe" (First Aid) and the subcategories are "Pflaster" (Plaster) and "klassisch" (classic).
-
-Please note that I have assigned categories and subcategories based on my understanding of the product names and their nature.

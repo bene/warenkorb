@@ -1,6 +1,4 @@
-The JSON list describes grocery products in Austrian supermarkets in a JSON format. To generate a category and subcategories, we will use the "name" field. We will add a field to each product that describes the category for the specific product in one word. Additionally, we will add a list of subcategories that breaks down the category for each individual product. These subcategories can be synonyms or search terms that are not present in the product name. The categories will be in German, and they will be reused for similar products. 
 
-Here is the modified list:
 
 [
   {
@@ -44,8 +42,6 @@ Here is the modified list:
     "name": "NEW LIFESTYLE Aufschnitt leicht Schinkenpikante 110g",
     "category": "Wurst",
     "subcategories": ["Aufschnitt", "Leicht", "Schinkenpikante"]
-  },
-  ...
+  }
 ]
 
-Please note that the above translations may not be accurate. It is recommended to verify them with a native German speaker.

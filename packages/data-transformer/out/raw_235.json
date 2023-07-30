@@ -1,6 +1,4 @@
-Die JSON-Liste enthält Lebensmittelprodukte in österreichischen Supermärkten. Die Kategorie und Unterkategorie sollen basierend auf dem "name" Feld generiert werden. Jedes Produkt sollte ein zusätzliches Feld enthalten, das die Kategorie mit einem Wort beschreibt. Es sollte auch eine Liste von Unterkategorien hinzugefügt werden, die die Kategorie für jedes einzelne Produkt genauer beschreiben. Diese Unterkategorien können Synonyme zur Kategorie oder Suchbegriffe sein, die nicht im Namen enthalten sind, um das Produkt zu finden. Die Kategorien sollten für ähnliche Produkte wiederverwendet werden. Die Kategorien sollten auf Deutsch sein.
 
-Hier ist die aktualisierte Liste:
 
 [{"store":"spar","id":"2020004649324","name":"Silan Aroma Therapie Weichspüler Traumhafte Lotusblüte 46WG","category":"Waschmittel","subcategories":["Weichspüler","Aroma","Therapie","Blumenduft"]},
 {"store":"spar","id":"2020004649348","name":"Silan Aroma Therapie Weichspüler Zauberhafte Malediven 46WG","category":"Waschmittel","subcategories":["Weichspüler","Aroma","Therapie","Exotischer Duft"]},

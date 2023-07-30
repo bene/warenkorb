@@ -1,6 +1,4 @@
-Die JSON-Liste beschreibt Lebensmittelprodukte in österreichischen Supermärkten im JSON-Format. Das Feld "name" wird verwendet, um eine Kategorie und Unterkategorien zu generieren. Fügen Sie jedem Produkt ein Feld hinzu, das die Kategorie des spezifischen Produkts mit einem Wort beschreibt. Fügen Sie außerdem eine Liste von Unterkategorien hinzu, die die Kategorie für jedes einzelne Produkt genauer beschreiben. Diese können Synonyme für die Kategorie oder Suchbegriffe sein, die nicht im Namen enthalten sind, um das Produkt zu finden. Die Kategorien sollten für ähnliche Produkte wiederverwendet werden. Die Kategorie sollte auf Deutsch sein.
 
-Die Liste lautet:
 
 [{"store":"spar","id":"3979204","name":"Hardys William Hardy Langhorne Creek Shiraz 2019","category":"Wein","subcategory":["Rotwein","Shiraz","Langhorne Creek"]},
 {"store":"spar","id":"2020002406639","name":"Hanfwasser prickelnd","category":"Getränke","subcategory":["Wasser","prickelnd","Hanf"]},

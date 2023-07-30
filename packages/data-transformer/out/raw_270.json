@@ -1,6 +1,4 @@
-Hier ist die Liste der Lebensmittelprodukte in österreichischen Supermärkten im JSON-Format. Der "name"-Feld wird verwendet, um eine Kategorie und Unterkategorien zu generieren. Für jedes Produkt wird ein Feld hinzugefügt, das die Kategorie des spezifischen Produkts in einem Wort beschreibt. Außerdem wird eine Liste von Unterkategorien hinzugefügt, die die Kategorie für jedes einzelne Produkt aufgliedern. Diese können Synonyme für die Kategorie oder Suchbegriffe sein, die nicht im Namen stehen, um das Produkt zu finden. Die Kategorien sollten für ähnliche Produkte wiederverwendet werden. Die Kategorie sollte auf Deutsch sein.
 
-Liste:
 
 [
 {"store":"spar","id":"4291725","name":"Wellness Knoblauch 30 Dragees", "category":"Gesundheit", "subcategories":["Nahrungsergänzungsmittel", "Knoblauchtabletten"]},

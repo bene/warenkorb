@@ -1,6 +1,4 @@
-Die folgende JSON-Liste beschreibt Lebensmittelprodukte in österreichischen Supermärkten im JSON-Format. Verwenden Sie das Feld "name", um eine Kategorie und Unterkategorien zu generieren. Fügen Sie jedem Produkt ein Feld hinzu, das die Kategorie für das jeweilige Produkt mit einem Wort beschreibt. Fügen Sie außerdem eine Liste von Unterkategorien hinzu, die die Kategorie für jedes einzelne Produkt aufschlüsselt. Diese können Synonyme für die Kategorie oder Suchbegriffe sein, die nicht im Namen zu finden sind, um das Produkt zu finden. Die Kategorien sollten für ähnliche Produkte wiederverwendet werden. Die Kategorie sollte in Deutsch sein.
 
-Liste:
 [{"store": "lidl", "id": 208445, "name": "WIESENTALER Schwarzwälder oder leichte Kalbspariser"},
 {"store": "lidl", "id": 9991233, "name": "WIESENTALER Spare Ribs Sous-Vide"},
 {"store": "lidl", "id": 7004409, "name": "Wachauer"},
@@ -100,9 +98,8 @@ Liste:
 {"store": "spar", "id": "6727338", "name": "SPAR Wassermelone rot, kernarm per kg"},
 {"store": "spar", "id": "2020003166792", "name": "SPAR Zitronen unbehandelt"},
 {"store": "spar", "id": "6714550", "name": "SPAR Zuckermelone süß"},
-{"store": "spar", "id": "6680954", "name": "SPAR Zwetschken per Tasse"}]
+{"store": "spar", "id": "6680954", "name": "SPAR Zwetschken per Tasse"},
 
-Modified List:
 [{"store": "lidl", "id": 208445, "name": "WIESENTALER Schwarzwälder oder leichte Kalbspariser", "category": "Fleischwaren", "subcategories": ["Schwarzwälder", "Kalbspariser"]},
 {"store": "lidl", "id": 9991233, "name": "WIESENTALER Spare Ribs Sous-Vide", "category": "Fleischwaren", "subcategories": ["Spare Ribs", "Sous-Vide"]},
 {"store": "lidl", "id": 7004409, "name": "Wachauer", "category": "Wein", "subcategories": []},
@@ -144,6 +141,4 @@ Modified List:
 {"store": "lidl", "id": 433190, "name": "vileda® Reinigungshelfer", "category": "Reinigungsmittel", "subcategories": ["Reinigungshelfer"]},
 {"store": "lidl", "id": 397166, "name": "vileda® Steam Ersatzbezug, 2 Stück", "category": "Reinigungsmittel", "subcategories": ["Ersatzbezug"]},
 {"store": "lidl", "id": 430199, "name": "vileda® Ultramax Ersatzbezug", "category": "Reinigungsmittel", "subcategories": ["Ersatzbezug"]},
-{"store": "lidl", "id": 22101155, "name": "Öle zum Dippen", "category": "Lebensmittel", "subcategories": ["Dip-Öl"]}]
-
-Hinweis: Die Kategorien und Unterkategorien wurden basierend auf den Namen der Produkte generiert.
+{"store": "lidl", "id": 22101155, "name": "Öle zum Dippen", "category": "Lebensmittel", "subcategories": ["Dip-Öl"]}]]

@@ -1,4 +1,4 @@
-The modified JSON list with category and subcategory fields would look like this:
+
 
 [{"store":"spar","id":"2020001681723","name":"Casa Modena Prosciutto crudo Marco Polo","category":"Fleischwaren","subcategories":["Wurst","Schinken"]},
 {"store":"spar","id":"3137406","name":"Edeltruthanbrust gegrillt und gepökelt 1 KG","category":"Fleischwaren","subcategories":["Geflügel","Truthahn"]},
@@ -101,4 +101,3 @@ The modified JSON list with category and subcategory fields would look like this
 {"store":"spar","id":"2020000747109","name":"Küchenbrüder Frische Bio Tomatensuppe mit Basilikum","category":"Fertiggerichte","subcategories":["Suppe","Tomate","Basilikum"]},
 {"store":"spar","id":"2020000747239","name":"Küchenbrüder Veganer Bio Linseneintopf","category":"Fertiggerichte","subcategories":["Suppe","Linseneintopf"]}]
 
-Note: The categories and subcategories are assigned based on the name field, so the accuracy of the categorization depends on the consistency and specificity of the names used in the list.
