@@ -8,6 +8,8 @@ import { Step2 } from "./pages/Step2";
 import { Step3 } from "./pages/Step3";
 import { Home } from "./pages/Home";
 import { Step4 } from "./pages/Step4";
+import { Step5 } from "./pages/Step5";
+import { Step6 } from "./pages/Step6";
 
 const Stack = createNativeStackNavigator();
 
@@ -48,6 +50,20 @@ export default function App() {
           <Stack.Screen
             name="Step4"
             component={Step4}
+            options={{
+              title: "warenkorb.at",
+            }}
+          />
+          <Stack.Screen
+            name="Step5"
+            component={Step5}
+            options={{
+              title: "warenkorb.at",
+            }}
+          />
+          <Stack.Screen
+            name="Step6"
+            component={Step6}
             options={{
               title: "warenkorb.at",
             }}

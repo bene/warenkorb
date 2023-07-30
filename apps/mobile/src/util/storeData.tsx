@@ -11,15 +11,15 @@ export const stores = [
     name: "spar",
     label: "Spar",
     icon: Hofer,
-    distance: 3.9,
+    distance: 1.2,
   },
   {
     name: "hofer",
     label: "Hofer",
     icon: Hofer,
-    distance: 2.1,
+    distance: 1.7,
   },
-  {
+  /*{
     name: "penny",
     label: "Penny",
     icon: Hofer,
@@ -30,5 +30,5 @@ export const stores = [
     label: "Lidl",
     icon: Hofer,
     distance: 5.3,
-  },
+  },*/
 ];

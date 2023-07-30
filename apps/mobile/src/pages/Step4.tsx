@@ -1,7 +1,8 @@
 import { useNavigation } from "@react-navigation/native";
 import { ContinueButton } from "../components/ContinueButton";
 import { Page } from "../components/Page";
-import { ShoppingList } from "../components/ShoppingList";
+import { Image } from "react-native";
+import List from "../../assets/list.jpg";
 
 export function Step4() {
   const nav = useNavigation<any>();
@@ -11,11 +12,13 @@ export function Step4() {
       <Page
         currentStep={1}
         steps={["Stores", "Scan List", "Products", "Overview"]}
-      ></Page>
+      >
+        <Image source={List} style={{ width: "100%", height: "88%" }} />
+      </Page>
       <ContinueButton
         title={"Use Image"}
         disabled={false}
-        onClick={() => nav.navigate("Step4")}
+        onClick={() => nav.navigate("Step5")}
       />
     </>
   );
