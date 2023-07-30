@@ -1,8 +1,8 @@
 import { useNavigation } from "@react-navigation/native";
 import { ContinueButton } from "../components/ContinueButton";
 import { Page } from "../components/Page";
-import { Image } from "react-native";
-import List from "../../assets/list.jpg";
+import { ResizeMode, Video } from "expo-av";
+import { View } from "react-native";
 
 export function Step4() {
   const nav = useNavigation<any>();
@@ -13,10 +13,22 @@ export function Step4() {
         currentStep={1}
         steps={["Stores", "Scan List", "Products", "Overview"]}
       >
-        <Image source={List} style={{ width: "100%", height: "88%" }} />
+        <View className="h-5/6 w-full">
+          <Video
+            source={{
+              uri: "https://warenkorb-assets.netlify.app/demo.mp4",
+            }}
+            className="h-full w-full rounded-2xl"
+            resizeMode={ResizeMode.COVER}
+            isLooping
+            isMuted
+            useNativeControls
+            shouldPlay
+          />
+        </View>
       </Page>
       <ContinueButton
-        title={"Use Image"}
+        title={"Scan"}
         disabled={false}
         onClick={() => nav.navigate("Step5")}
       />
