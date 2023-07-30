@@ -1,6 +1,5 @@
 import { useNavigation } from "@react-navigation/native";
 import { ContinueButton } from "../components/ContinueButton";
-import { Page } from "../components/Page";
 import Slider from "@react-native-community/slider";
 import { View, Text, Image } from "react-native";
 import { useState } from "react";
