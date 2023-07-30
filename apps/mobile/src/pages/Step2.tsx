@@ -27,7 +27,7 @@ export function Step2() {
               }
             }}
             className={twMerge(
-              "mb-4 w-full rounded-md border-2 border-zinc-400 bg-zinc-100 p-2 pl-4",
+              "mb-4 w-full rounded-md border-2 border-zinc-500 bg-zinc-200 p-2 pl-4",
               selectedStores.includes(store.name) &&
                 "border-emerald-400 bg-emerald-200",
             )}
