@@ -24,15 +24,15 @@ export function Step3() {
         </View>
         <ShoppingList
           name="My Weekly Groceries"
-          subtitle="All of you weekly necessaties."
+          subtitle="Most important groceries"
           classes="bg-sky-200 border-sky-400"
         />
-        <ShoppingList name="Baking" subtitle="All of you weekly necessaties." />
-        <ShoppingList name="Baking" subtitle="All of you weekly necessaties." />
-        <ShoppingList name="Baking" subtitle="All of you weekly necessaties." />
+        <ShoppingList name="Party" subtitle="Snacks & beverages" />
+        <ShoppingList name="Baking" subtitle="Cupcakes" />
+        <ShoppingList name="Christmas" subtitle="Turkey" />
         <ShoppingList
-          name="Healthy Alternatives"
-          subtitle="All of you weekly necessaties."
+          name="Breakfast"
+          subtitle="4 people"
           classes="bg-emerald-200 border-emerald-400"
         />
       </Page>
