@@ -8,7 +8,15 @@ export function Step4() {
 
   return (
     <>
-      <Page currentStep={2}></Page>
+      <Page
+        currentStep={1}
+        steps={["Stores", "Scan List", "Products", "Overview"]}
+      ></Page>
+      <ContinueButton
+        title={"Use Image"}
+        disabled={false}
+        onClick={() => nav.navigate("Step4")}
+      />
     </>
   );
 }

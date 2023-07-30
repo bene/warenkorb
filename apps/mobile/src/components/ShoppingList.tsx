@@ -16,7 +16,6 @@ export function ShoppingList({
   return (
     <TouchableOpacity
       activeOpacity={0.9}
-      onPress={() => nav.navigate("Step4")}
       className={twMerge(
         "mb-4 flex flex-row items-center justify-between rounded-md border-2 border-zinc-500 bg-zinc-200 p-2",
         classes,

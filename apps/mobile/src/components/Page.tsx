@@ -5,7 +5,8 @@ import { Stepper } from "./Stepper";
 export function Page({
   currentStep,
   children,
-}: React.PropsWithChildren<{ currentStep: number }>) {
+  steps,
+}: React.PropsWithChildren<{ currentStep: number; steps?: string[] }>) {
   const nav = useNavigation<any>();
 
   return (
@@ -13,7 +14,7 @@ export function Page({
       {currentStep !== -1 && (
         <Stepper
           currentIndex={currentStep}
-          steps={["Stores", "My Lists", "Products", "Overview"]}
+          steps={steps || ["Stores", "My Lists", "Products", "Overview"]}
         />
       )}
       <View className="flex">{children}</View>
