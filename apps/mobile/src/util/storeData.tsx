@@ -1,24 +1,28 @@
 import Hofer from "../../assets/hofer.jpg";
 
+import Spar from "../../assets/spar.png";
+import Billa from "../../assets/Billa.jpg";
+
 export const stores = [
   {
     name: "billa",
     label: "Billa",
+    icon: Billa,
+    distance: 0.3,
+  },
+  {
+    name: "hofer",
+    label: "Hofer",
     icon: Hofer,
     distance: 0.3,
   },
   {
     name: "spar",
     label: "Spar",
-    icon: Hofer,
-    distance: 1.2,
+    icon: Spar,
+    distance: 0.7,
   },
-  {
-    name: "hofer",
-    label: "Hofer",
-    icon: Hofer,
-    distance: 1.7,
-  },
+
   /*{
     name: "penny",
     label: "Penny",
